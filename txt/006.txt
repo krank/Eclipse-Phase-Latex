@@ -1,0 +1,163 @@
+RADIO JAMMING                    262   GEAR
+  Jamming Radar                  262   EQUIPMENT RUL
+SIMULSPACES                      262    Acquiring Gear
+  Simulmorphs                    262    Gear Modifiers
+  Immersion                      262    Design and Fash
+  External Mesh Interaction      263    Future Materials
+  Simulspace Rules               263   MESHED GEAR
+  Domain Rules                   263    Radio and Senso
+  Cheating                       263    Power
+  Hacking Simulspaces            263
+                                       PERSONAL AUGM
+AIS AND MUSES                    264    Standard Augme
+ AI Limitations                  264    Bioware
+ Commanding AIs                  264    Using Enhanced
+AGIS AND INFOMORPHS              264    Cyberware
+ Software Minds                  265    Synthmorphs an
+ AGI Characters                  265    Nanoware
+ Roleplaying Muses               265    Cosmetic Mods
+ Infomorphs As Muses             265    Robotic Enhance
+                                        Armor
+ACCELERATED FUTURE               266
+                                        Armor Mods
+BACKUPS AND UPLOADING            268    Communications
+  Cortical Stack Backups         268    Neutrino Comm
+  Uploading                      268    Quantum Farcas
+  Backup Insurance               269    Quantum Entang
+  Backup Complications           270    Covert and Espio
+RESLEEVING                       270    Bugs and Surveil
+ Resleeving Biomorphs and Pods   271   DRUGS, CHEMIC
+ Resleeving Synthmorphs          271
+ Resleeving Costs                271    Substance Rules
+ Integration                     271    Drugs
+ Resleeving and the Gamemaster   271    Nanodrugs
+ Alienation                      272    Other Nanodrug
+ Continuity Test                 272    Sample Petals
+ Infomorph Resleeving            272    Narcoalgorithms
+FORKING AND MERGING              273    Chemicals
+ Alpha Forks                     273    Toxins
+ Beta Forks                      273    Nanotoxins
+ Delta Forks                     273    Pathogens
+ Gamma Forks                     274    Psi Drugs
+ Neural Pruning                  274   EVERYDAY TECH
+ Handling Forks                  274
+ Merging                         275
+                                       NANOTECHNOLO
+                                        Basic Nanotechn
+EGOCASTING                       275    Advanced Nanot
+  Egocaster Security             276    Pets
+  Darkcasting                    276    Scavenger Tech
+MORPH BROKERAGE                  276    Services
+  Morph Availability             276    Software
+  Morph Acquisition              277    Survival Gear
+  Custom-Grown or                      WEAPONS
+    -Designed Morphs             278    Melee Weapons
+  Renting Morphs                 278    Kinetic Weapons
+IDENTITY                         279    Brand Name We
+  Identity Verification          279      Arms
+  Circumventing ID Checks        280    Beam Weapons
+LIFE IN SPACE                    280    Seekers
+  Space Habitats                 280    Spray Weapons
+  Immigration and Customs        282    Grenades and Se
+  Space Travel                   283    Exotic Ranged W
+NANOFABRICATION                  284    Weapon Accesso
+  Raw Materials                  284   ROBOTS AND VE
+  Blueprints                     284    Aircraft
+  Time                           285    Exoskeletons
+  The Programming Test           285    Groundcraft
+REPUTATION AND SOCIAL                   Personal Vehicles
+  NETWORKS                       285    Robots
+  Social Networks                286    Spacecraft
+  Reputation                     286
+  Using Networks and Rep         287
+  Favors                         289
+  Reputation and Identity        289
+SECURITY                         291
+ Access Control                  291
+ Detection and Surveillance      292
+ Active Countermeasures          293
+             294     GAME INFORMATION                     350
+             296     SECRETS THAT MATTER                  352
+              296      Extraterrestrial Intelligences     352
+              296      Spoiler Alert                      352
+              297      The First Seed AIs                 353
+              298      The ETI Agenda                     353
+             299       The True History of the TITANs     354
+nges          299      Infection                          354
+              299      The Fall                           354
+                       After The Fall                     355
+NTATION      300
+ons            300   FIREWALL                             356
+               301     History                            356
+es             302     Organization                       356
+               306     Optional Rule: i-REP               357
+ ware          306     Cliques                            359
+               308     Methods                            360
+               309     What Help Can a Sentinel Expect?   360
+ts             310     Long-term Strategies and Goals     361
+               312     Firewall and Other Organizations   361
+               313   THE ETI                              361
+               313     Handling Aliens                     361
+ators          314   EXHUMANS                             362
+               314     Neurodes                           362
+Communication 315      Predators                          362
+e Technologies 315
+                     THE EXSURGENT VIRUS                  362
+               315
+                       Biological Nanovirus               363
+, AND TOXINS           Digital Virus                      364
+           317         Nanoplague                         364
+              317      Basilisk Hacks                     364
+              318      Exsurgent Strains                  366
+              321      Using the Exsurgent Virus          368
+              321      Roleplaying Exsurgents             368
+              322      Exsurgents                         369
+              323      Exsurgent Psi                      371
+              323      Exsurgent Psi-Gamma Sleights       371
+              323      Exsurgent Psi-Epsilon Sleights     371
+              324
+                     THE FACTORS                          372
+              324
+                       Origin and Evolution               372
+              325
+                       Xenobiology                        373
+LOGY         325       Exosociology                       374
+             326       Factor Motivations                 375
+y             326      The Factors in Game                375
+ology         328      Factor Phenotypes                  376
+              330      Roleplaying Factors                376
+              330    THE IKTOMI                           377
+              330
+                     THE PANDORA GATES                    377
+              331
+                       The Wormhole                       378
+              332
+                       Operations                         378
+             334       Gatecrashing                       378
+             334       Anomalies                          379
+              335
+                     PROJECT OZMA                         379
+s and Combined
+                       Methods                            380
+              336
+                       Project Ozma and Firewall          380
+             338
+                       Project Ozma Rumors                380
+             339
+             340     PROMETHEANS                 381
+             340     THE TITANS AND THEIR LEGACY 381
+ons           341      Deadly Machines                    382
+             342       Self-replicating Nanoswarms        383
+LES          343       Nanovirii                          384
+              343    GAMEMASTERING
+              343     AND ADMINISTRATION                  384
+              344      Awarding Rez Points                384
+              345      Reputation Gain and Loss           384
+              345      Backups, Record-Keeping,
+              346        and Save Points                  385
+                       Gamemastering Practicalities       386
+                       NPCs and Moxie                     386
+                     TABLES                               390
+                     REFERENCES                           394
+                     INDEX                                395
+                     CHARACTER SHEET                      399

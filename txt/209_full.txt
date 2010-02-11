@@ -1,0 +1,60 @@
+KINETIC DAMAGE                                              WOUNDS
+Kinetic damage is caused by projectiles and other           Wounds represent more grievous injuries: bad cuts and
+objects moving at great speeds that disperse their          hemorrhaging, fractures and breaks, mangled limbs,
+energy into the target upon impact. Kinetic attacks         and other serious damage that impairs your ability to
+include slug-throwers, flechette weapons, knives, and       function and may lead to death or long-term damage.
+punches.                                                      Any time your character sustains damage, compare
+                                                            the amount inflicted (after it has been reduced by
+PSI DAMAGE                                                  armor) to your Wound Threshold. If the modified DV
+Psi damage is caused by offensive psi sleights like         equals or exceeds your Wound Threshold, you have
+Psychic Stab (p. 228).                                      suffered a wound. If the inflicted damage is double
+                                                            your Wound Threshold, you suffer 2 wounds; if
+DURABILITY AND HEALTH                                       triple your Wound Threshold, you suffer 3 wounds;
+Your character’s physical health is measured by their       and so on.
+Durability stat. For characters sleeved in biomorphs,         Wounds are cumulative, and must be marked on
+this figure represents the point at which accumu-           your character sheet.
+lated damage points overwhelm your character and               Note that these rules handle damage and wounds
+they fall unconscious. Once you have accumulated            as an abstract concept. For drama and realism,
+damage points equal to or exceeding your Durability         gamemasters may wish to describe wounds in more
+stat, you immediately collapse from exhaustion and          detailed and grisly terms: a broken ankle, a severed
+physical abuse. You remain unconscious and may              tendon, internal bleeding, a lost ear, and so on. The
+not be revived until your damage points are reduced         nature of such descriptive injuries may help the game-
+below your Durability, either from medical care or          master assign other effects. For example, a character
+natural healing.                                            with a crushed hand may not be able to pick up a gun,
+   If you are morphed in a synthetic shell, Durabil-        someone with excessive blood loss may leave a trail
+ity represents your structural integrity. You become        for their enemies to follow, or someone with a cut eye
+physically disabled when accumulated damage points          may suffer an additional visual perception modifier.
+reach your Durability. Though your computer systems         Likewise, such details may impact how a character is
+are likely still functioning and you can still mesh, your   treated or heals.
+morph is broken and immobile until repaired.
+                                                            WOUND EFFECTS
+DEATH                                                       Each wound applies a cumulative –10 modifier to all
+An extreme accumulation of damage points can                of the character’s actions. A character with 3 wounds,
+threaten your character’s life. If the damage reaches       for example, suffers –30 to all actions.
+your Durability x 1.5 (for biomorphs) or Durability x         Some traits, morphs, implants, drugs, and psi allow
+2 (for synthetic morphs), your body dies. This known        a character to ignore wound modifiers. These effects
+as your Death Rating. Synthetic morphs that reach           are cumulative, though the maximum amount of
+this state are destroyed beyond repair.                     wound modifiers that may be negated is –30.
+                                                              Knockdown: Any time a character takes a wound,
+DAMAGE VALUE                                                they must make an immediate SOM x 3 Test. Wound
+Weapons (and other sources of injury) in Eclipse            modifiers apply. If they fail, they are knocked down
+Phase have a listed Damage Value (DV)—the base              and must expend a Quick Action to get back up. Bots
+amount of damage points the weapon inflicts. This is        and vehicles must make a Pilot Test to avoid crashing.
+often presented as a variable amount, in the form of a        Unconsciousness: Any time a character receives 2
+die roll; for example: 3d10. In this case, you roll three   or more wounds at once (from the same attack), they
+ten-sided dice and add up the results (counting 0 as        must also make an immediate SOM x 3 Test; wound
+10). Sometimes the DV will be presented as a dice roll      modifiers again apply. If they fail, they have been
+plus modifier; for example: 2d10 + 5. In this case you      knocked unconscious. Bots and vehicles that take 2 or
+roll two ten-sided dice, add them together, and then        more wounds at once automatically crash (see Crash-
+add 5 to get the result.                                    ing, p. 196).
+  For simplicity, a static amount is also noted in            Bleeding: Any biomorph character who has suffered
+parentheses after the variable amount. If you prefer        a wound and who takes damage that exceeds their
+to skip the dice rolling, you can just apply the static     Durability is in danger of bleeding to death. They
+amount (usually close to the mean average) instead.         incur 1 additional damage point per Action Turn (20
+For example, if the damage were noted 2d10 + 5 (15),        per minute) until they receive medical care or die.
+you could simply apply 15 damage points instead of
+rolling dice.                                               DEATH
+  When damage is inflicted on a character, determine the    For many people in Eclipse Phase, death is not the end
+DV (roll the dice) and subtract the modified armor value,   of the line. If the character’s cortical stack can be re-
+as noted under Step 7: Determine Damage (p. 192).           trieved, they can be resurrected and downloaded into
+                                                            a new morph (see Resleeving, p. 271). This typically

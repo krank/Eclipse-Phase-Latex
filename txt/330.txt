@@ -1,0 +1,120 @@
+  While users can purchase bulk raw materials, CMs
+also come equipped with a disassembler. The user
+loads garbage and other objects into the disassembler
+so that they can be turned into raw materials for the
+CM. All legally-available disassemblers only decon-
+struct non-living material. [Expensive]
+   Fabber: Fabbers are specialized nanofabricators,
+portable and considerably smaller than CMs. There
+are a wide variety of portable fabbers, including
+ones that can make any hand tool or small piece of
+personal electronics, ones that can turn any organic
+material into food and drink, and ones that can create
+any drug or medicine as well as bandages and spe-
+cialized dressings. The most common fabbers have a
+volume of 4 liters. Larger hand tools and devices are
+produced as 2 or 3 separate parts that must be fitted
+together. Like CMs, fabbers also contain miniature
+disposal units. [Moderate]
+   Maker: Makers are specially-designed to produce
+food and drink for the user. Raw materials can be pro-
+vided by the addition of any water-containing liquid
+and collected biomass like leftover food, grass, dirt,
+dead animals, or transhuman waste. Some models are
+built into standard vacsuits. Makers can produce water
+and various flavored beverages, as well as ration bars
+or thick pudding-like edible gels. With adequate raw
+material, a maker can indefinitely provide food and
+drink for up to three transhumans. Most units, how-
+ever, have a very limited range of flavors and textures
+that are widely considered to be fairly bad. Models
+with a wider and better range of flavors and textures
+are more expensive, but produce food that is consid-
+ered adequate or occasionally good. [Low to Moderate]
+   Blueprints: If you want a nanofabricator to make
+something, you need to instruct the device how to
+create it from the molecular level up. Such blueprints
+are available for almost every conceivable item out
+there. The cost of such blueprints typically equals
+the cost of purchasing the item, though factors like
+legality and quality may affect the cost as usual (see
+Acquiring Gear, p. 296). [One Cost Category Higher
+Than Item Cost]
+
+ADVANCED NANOTECHNOLOGY
+Advanced nanotechnology includes more recent
+developments. Like basic nanotech, advanced nano-
+technology cannot self-replicate but the nanobots
+can function normally in most environments and are
+highly resistant to bacterial attacks and other environ-
+mental problems. Typical advanced nanotech consists
+of a generator—known as a “hive”—that produces
+nanobots as long as it is supplied with raw materials.
+Every such hive also includes a miniature disassembly
+unit and/or specialized nanomachines that collect
+raw materials for the generator. These hives produce
+nanobot swarms that are set loose to perform some
+function in the world.
+  Examples of advanced nanotech include COTs (p.
+315), medichines (p. 308), smart dust (p. 316), and
+utilitools (p. 326), among others.
+   General Hive: General hives are capable of produc-
+ing any conceivable type of nanobot with the right
+blueprints and/or programming. Even at their smallest
+size they are not really portable, with a minimum size
+being cubes 30 centimeters on a side and a volume of
+25 liters. [Expensive]
+   Specialized Hive: Specialized hives are far more
+common than general hives, though they can produce
+only one type of nanomachines (i.e., choose one type
+of nanoswarm per hive). The smallest specialized
+hives are approximately the size of a 12-gauge shot-
+gun shell or a large cherry tomato. [High]
+
+EGO BRIDGES
+Ego bridges are vat devices used for uploading and
+downloading minds. See Backups and Uploading, p.
+268, and Resleeving, p. 271. [Expensive]
+
+NANOSWARMS AND MICROSWARMS
+Swarms are colonies of nanobots or larger microbots
+created in a hive, programmed with specific instruc-
+tions, and then set free to perform a set task. Each
+swarm is composed of hundreds or thousands of
+nanobots or microbots, ranging in size from a mi-
+crobe to a small insect. Nanobots are typically invis-
+ible to the naked eye, though they can be detected
+with a nanodetector (p. 326) or nanoscopic vision (p.
+311). Microbots are more noticeable but still quite
+small, usually the size of a grain of sand or a dust
+mote, or occasionally as big as a flea. Individual bots
+in a swarm are directed by nanocomputers, with be-
+havioral routines modeled on biological insect and
+animal swarms. These swarms stick together and
+work as a whole, communicating with nanoradios,
+nanolasers, or chemical cues, and sharing informa-
+tion between each bot in the swarm. Note that nano-
+swarms don’t invade inside living bodies (though they
+may attack externally)—internal nano is handled by
+nanoware (p. 308), nanodrugs (p. 321), and nanotox-
+ins (p. 324).
+   Nanobots and microbots may be designed with
+all manner of miniaturized propulsion systems (see
+Mobility Systems, p. 310), with the exception of ionic
+drives. They are powered by tiny batteries or solar
+cells. Their tiny sensors are very effective at allow-
+ing them to identify materials and objects, and so to
+target discriminatingly. Nanobots or microbots could,
+for example, be programmed to ignore metal objects,
+certain types of plants, specific morphs, females, or
+specific individuals. Swarms may either be released
+directly from a hive or from pre-packaged program-
+mable canisters.
+   Swarms must be programmed before they are re-
+leased. The programming first determines how long
+the swarm is active. This timeframe is open-ended,
+though most swarms deteriorate into ineffectiveness
+after 2 weeks unless they are replenished by a hive.
+The programming then sets what area the swarm is
+to occupy. This is also open to interpretation and
+can vary from “coat this person” to “spread out to a

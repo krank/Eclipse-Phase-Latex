@@ -1,0 +1,61 @@
+                                                          PETS
+CREATURE       COG COO INT REF SAV SOM WIL INIT SPD DUR WT LUC TT SKILLS
+Fur Coat        1   1    1    5    1   5    1    12   1     15   3     2    1 —
+                                                                                Fray 30, Freerunning 30, Intimidation 30, Percep-
+Smart Dog       5   10   15   15   5   15   10   60   1     25   5     20   4
+                                                                                tion 30, Scrounging 30, Unarmed Combat 40
+                                                                              Climbing 50, Fray 30, Freerunning 30, Inﬁltra-
+Smart Monkey    5   15   15   15   5   10   10   60   1     20   4     20   4 tion 30, Perception 30, Scrounging 30, Unarmed
+                                                                              Combat 30
+                                                                                Climbing 40, Fray 40, Freerunning 30, Inﬁltration
+Smart Rat       5   15   15   15   5   5    10   60   2     5    1     20   4
+                                                                                50, Perception 20, Scrounging 50
+                                                                                Fray 30, Free Fall 30, Inﬁltration 50, Perception 20,
+Space Roach     1   10   10   15   5   5    5    50   1     5    1     10   2
+                                                                                Scrounging 50
+
+
+ PETS                                                                and compound spectra. Its built in AI comes equipped
+ These partially-uplifted and bio-engineered animals                 with Academic: Chemistry 30. [Moderate]
+ have rudimentary intelligence and limited communica-                   Specimen Container: This capsule container is
+ tion skills. They make for fine companions and helpers.             designed to hold samples of any sort (chemical, bio-
+    Fur Coat: A so-called “fur coat” is outerwear made               logical, etc.) in near stasis. It can be programmed to
+ from a living primitive organism. The creature’s skin,              reproduce whatever conditions the user specifies, from
+ fur, or scales are real. The organism is cultivated from            cryogenic freezing to extreme heat, or even vacuum or
+ transgenic stocks and grown around molds into cloth-                high-pressure atmosphere. [Low]
+ ing shapes, often with actual usefulness: polar bear                   Superthermite Charges: These powerful and highly
+ parkas, seal diving suits, porcupine coats, etc. Fur                stable demolition charges are made from a combina-
+ coats are modified with wireless controls and haptic                tion of nanometals and metal oxides. A single charge
+ systems, so they can be made to move, shiver, massage,              can be used to create an explosive blast inflicting
+ or prickle up on command. [Low]                                     2d10+5 damage. This charge can be shaped with a
+    Smart Dogs: Commonly used as discriminatory                      successful Demolitions Test, focusing the blast in a
+ guardians, smart dogs are sometimes enhanced with                   particular 90-degree direction (for example, to blow
+ combative bioware or cybernetics. [Moderate]                        through a door). This triples the damage of the blast
+    Smart Monkey: Commonly used by criminal groups                   in the focused direction; in all other directions, the
+ for minor larceny such as pickpocketing, smart mon-                 damage is reduced to 1/3rd (round down). Multiple
+ keys can be useful and intelligent aides. [Moderate]                charges apply a cumulative effect. [Moderate]
+    Smart Rats: These upgrades of the common Norwe-
+ gian rat are clever and dexterous, and they easily fit              SERVICES
+ into a pocket or hood. [Low]                                        Anonymous Accounts: These accounts are crucial
+    Space Roach: Grown to the size of a small dog,                   for anyone who wants to be discreet with their
+ these insects are often biosculpted for bright colors               online transactions. See Anonymous Account Ser-
+ and patterns. They are useful for minor janitorial                  vices, p. 252. [Moderate]
+ duties. [Low]                                                          Backup: A single, one-time backup without insur-
+                                                                     ance is sometimes all the poor can afford, hoping
+ SCAVENGER TECH                                                      that they can buy backup insurance later or that
+ This technology is often employed by gatecrashers,                  someone that cared about them will see to a re-
+ space scavengers, and Firewall teams during missions.               sleeving. [Moderate]
+    Disassembly Tools: These tools are useful for sal-                  Backup Insurance: In the event of verifiable
+ vage ops, breaking down wrecks, or dissembling any-                 death, or after a set period of being missing, backup
+ thing from a habitat room to a vehicle or synthmorph.               insurance will arrange for your cortical stack to be
+ They include plasma torches, laser cutters, pneumatic               retrieved and your ego downloaded into another
+ jaws, and smart tools like spanners and wrenches that               morph. If the cortical stack cannot be retrieved, your
+ can be adopted to a wide array of connections and                   most recent backup is used. Most policies require
+ fittings. [High]                                                    that the holder provide a backup to be uploaded
+    Mobile Lab: The mobile lab is a handheld device                  into secure storage at least twice a year. This industry
+ that contains all different types of sensors to investi-            works in a manner similar to insurance underwriting
+ gate organic and inorganic liquid, gaseous, and solid               in terms of cost and individuals engaged in high risk
+ components (from soil to tissue samples) and compo-                 professions can expect to pay a premium for the ser-
+ sitions. It performs material analysis using different              vice. Additionally, attempts to retrieve a cortical stack
+ methods of spectrometry and biochemical testing,                    are minimal unless one wants to pay for some extra
+ comparing results to a built-in database of element                 effort (a thriving industry of paramilitary ego-repo

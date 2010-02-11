@@ -1,0 +1,58 @@
+that LLOTVs that use metallic hydrogen engines can
+be easily converted between the high and low velocity
+configurations, requiring less than a day in a well-
+equipped maintenance facility. However, vessels using
+hydrogen oxygen engines cannot be converted. Since
+metallic hydrogen is a much more efficient propellant,
+landers using it always include significant amounts of
+extra propellant for emergencies.
+   Scum Barge: These huge craft were originally de-
+signed for use during the first stages of the evacuation
+of Earth. They were built to carry up to 20,000 people
+and to allow them to survive for months or even years,
+in relatively cramped conditions, until more suitable
+habitats could be constructed. A number of these ves-
+sels are still in service, primarily used as mobile habi-
+tats by various anarchic subcultures. The best have
+had their plasma rockets replaced by modern fusion
+rockets and carry 5-10,000 in relative comfort. The
+worst use aging plasma rockets and stretch their life
+support systems and living spaces to the limit, carry-
+ing up to 25,000 poor and desperate residents.
+   Small Lander and Orbit Transfer Vehicle (SLOTV):
+This vehicle is identical in use and design to the
+LLOTV, except that it is one third the total mass and
+correspondingly less expensive to build and refuel.
+Some exceptionally wealthy individuals own private
+small LOTVs. Using a small LOTV with a hydrogen-
+oxygen engine to take off and land on Venus or for
+other high velocity uses is exceptionally cramped
+and allows for absolutely no room for error. Like the
+LLOTV, this vehicle can be easily converted between
+low and high velocity configurations and is made in
+both streamlined and non-streamlined versions.
+   Standard Transport: This vessel is one of the most
+common freighter and passenger vessel in the solar
+system. While egocasting is by far the most common
+form of inter-habitat transport, some people prefer to
+travel by ship and others do not wish to leave their
+current morph behind. In addition, some goods are
+easier or cheaper to physically transport rather than
+duplicating their templates. As a result, standard
+transports regularly travel to and from every large
+habitat and inhabited planet and moon in the solar
+system. These are modern fusion-drive ships that offer
+fast and comfortable travel for passengers as well as
+relatively swift transport for small cargoes.
+   One of the additional benefits of the standard
+transport is the fact that it contains four separate pas-
+senger compartments, each of which is mounted on
+a 90 meter-long booms that can extend and rotate
+to simulate gravity. When rotating at a comfortable 2
+rpm, passengers experience Mars level gravity. Typi-
+cally, the gravity maintained in these pods starts at
+the local gravity (or Mars gravity, if the local gravity
+is higher) and over the course of the journey gradually
+increases or decreases to the gravity of the destination.
+However, these pods cannot rotate to produce gravity
+higher than that found on Mars.

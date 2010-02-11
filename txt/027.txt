@@ -1,0 +1,112 @@
+TERMINOLOGY
+Eclipse Phase uses a host of jargon to simply convey
+the numerous concepts covered within the pages of
+this book. While not all-inclusive, this list of terminol-
+ogy will allow players to quickly acclimate themselves
+for their journey into Eclipse Phase. If you read some-
+thing and are confused, don’t worry. These concepts
+are fully explained in later sections of this book.
+  Note that several of the words on this list are
+standard scientific terms, often used in astronomy. As
+Eclipse Phase attempts to remain as close to “hard sci-
+ence” as possible—while allowing players to interact
+with the great stories waiting to unfold—such terms
+are used liberally.
+
+■ Aerostat: A habitat designed to ﬂoat like a balloon in a
+  planet’s upper atmosphere.
+■ AF: After the Fall (used for reference dating).
+■ AGI: Artiﬁcial General Intelligence. An AI that has cogni-
+  tive faculties comparable to that of a human or higher.
+  Also known as “strong AI” (differentiating from more
+  specialized “weak AI”). See also “seed AI.”
+■ AI: Artiﬁcial Intelligence. Generally used to refer to weak
+  AIs; i.e., AIs that do not encompass (or in some cases, are
+  completely outside of) the full range of human cognitive
+  abilities. AIs differ from AGIs in that they are usually
+  specialized and/or intentionally crippled/limited.
+■ Anarchist: Someone who believes government is
+  unnecessary, that power corrupts, and that people should
+  control their own lives through self-organized individual
+  and collective action.
+■ Arachnoid: A spider-like robotic synthmorph.
+■ Argonauts: A faction of techno-progressive scientists
+  that promote responsible and ethical use of technology.
+■ AR: Augmented Reality. Information from the mesh (uni-
+  versal data network) that is overlaid on your real-world
+  senses. AR data is usually entoptic (visual), but can also
+  be audio, tactile, olfactory, kinesthetic (body awareness),
+  emotional, or other types of input.
+■ Async: A person with psi abilities.
+■ AU: Astronomical unit. The distance between the Earth
+  and the Sun, equal to 8.3 light minutes, or about 150
+  million kilometers.
+■ Autonomists: The alliance of anarchists, Barsoomians,
+  Extropians, scum, and Titanians.
+■ Barsoomian: A rural Martian, typically resentful of
+  hypercorp control.
+■ Basilisk Hack: An image or other sensory input that
+  affects the brain’s visual cortex and pattern recognition
+  abilities in such a way as to cause a glitch and possibly
+  exploit it and rewrite neural code.
+■ Beehive: A microgravity habitat made from a tunneled-
+  out asteroid or moon.
+■ BF: Before the Fall (used for reference dating).
+■ Bioconservative: An anti-technology movement that argues
+  for strict regulation of nanofabrication, AI, uploading, forking,
+  cognitive enhancements, and other disruptive technologies.
+■ Biomorph: A biological body, whether a ﬂat, splicer,
+  genetically engineered transhuman, or pod.
+■ Body Bank: A service for leasing, selling, acquiring, or
+  storing a morph. Aka dollhouse, morgue.
+■ Bots: Robots. AI-piloted synthetic shells.
+■ Bracewell Probe: A type of autonomous monitoring deep-
+  space probe meant to make contact with alien civilizations.
+■ Brinkers: Exiles who live on the fringes of the system,
+  as well as other isolated and well-hidden nooks and
+  crannies. Also called isolates, fringers, drifters.
+■ Case: A cheap, common, mass-produced synthetic shell.
+■ Chimeric: Transgenic, containing genetic traits from
+  other species.
+■ Circumjovian: Orbiting Jupiter.
+■ Circumlunar: Orbiting the Moon.
+■ Circumsolar: Orbiting the Sun.
+■ Cislunar: Between the Earth and the Moon.
+■ Clade: A species or group of organisms with common
+  features. Used to refer to transhuman subspecies and
+  morph types.
+■ Cole Bubble: A habitat made from a hollowed-out
+  asteroid or moon, spun for gravity.
+■ Cornucopia Machine: A general-purpose nanofabricator.
+■ Cortical Stack: An implanted memory cell used for ego
+  backup. Located where the spine meets the skull; can be
+  cut out.
+■ Cyberbrain: An artiﬁcial brain, housing an ego. Used in
+  both synthmorphs and pods.
+■ Darkcast: Illegal and black market farcasting and
+  egocasting services.
+■ Domain Rules: The rules that govern the reality of a
+  virtual reality simulspace.
+■ Drone: A robot controlled through teleoperation (rather
+  than directly via onboard AI).
+■ Ecto: Personal mesh devices that are ﬂexible, stretchable,
+  self-cleaning, translucent, and solar-powered. From
+  ecto-link (external link).
+■ Ego: The part of you that switches from body to body.
+ Also known as ghost, soul, essence, spirit, persona.
+■ Egocasting: Term for sending egos via farcasting.
+■ Entoptics: Augmented-reality images that you “see” in
+  your head. (“Entoptic” means “within the eye.”)
+■ ETI: Extraterrestial intelligence. The term Firewall uses
+  to refer to the god-like post-singularity alien intelligence
+  theorized to be responsible for the Exsurgent virus.
+■ Exalts: Genetically-enhanced humans (between gen-
+  eﬁxed and transhumans). Aka genefreaks, the ascended,
+  the elevated.
+■ Exoplanet: A planet in another solar system.
+■ Exsurgent: Someone infected by the Exsurgent virus.
+■ Exsurgent Virus: The multi-vector virus created by
+  an unknown ETI and seeded throughout the galaxy in
+  Bracewell probes. The Exsurgent virus is self-morphing and
+  can infect both computer systems and biological creatures.
+■ Extrasolar: Outside the solar system.

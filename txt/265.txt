@@ -1,0 +1,83 @@
+EXTERNAL MESH INTERACTION
+A character accessing a simulspace may still interact
+with the mesh (and through it, the outside world)
+assuming the domain rules allow for it. Any outside
+interactions are subject to time dilation issues, how-
+ever. For example, in a simulspace running faster
+than real time, holding a chat with someone in out-
+side meatspace is excruciatingly slow, as real-world
+seconds translate into minutes in VR. If a character
+wishes to directly access other mesh nodes, they must
+toggle or log out of the simulspace.
+
+SIMULSPACE RULES
+Since a simulspace is an alternate world whose realism
+matches reality, characters use their physical skills and
+aptitudes as if they were acting in the real world with
+few exceptions:
+
+ • Though intrusion and hacking can be represented
+   as another layer of the simulation, there is no
+   actual hacking within the simulspace (see Hack-
+   ing Simulspaces).
+ • Asyncs cannot use their psi abilities in simulspace,
+   though such abilities can be simulated.
+ • Any “physical” damage taken in the simulspace is
+   treated as “virtual” damage. While virtual injuries
+   and wounds use the same mechanics, characters
+   that die in a simulspace are usually simply ejected
+   from the simulation. In some cases “dead” char-
+   acters are brought into a white room and can
+   re-enter or just watch the simulation, depending
+   on the domain rules.
+ • Mental stress or trauma inflicted during a simu-
+   lation carries over to the ego as real Lucidity
+   damage. At the gamemaster’s discretion, some
+   mental stress may be reduced if the character is
+   aware that they are in a simulation.
+
+DOMAIN RULES
+Anything goes in a simulspace, as dictated by
+the domain rules. A simulspace may range from
+approximating reality very closely to differing dras-
+tically. Gravity might fluctuate, the visual light spec-
+trum might not exist, characters might heal virtual
+damage effortlessly, simulmorphs may be capable of
+transmogrifying into other creatures, everything might
+be underwater—the possibilities are endless, limited
+only by imagination. In game terms, this allows the
+gamemaster to make up rules on the fly.
+
+CHEATING
+As with any good game, simulspaces provide ways
+to cheat. Cheats are either built into the simulspace
+software or (externally) programmed in by a hacker.
+Cheats allow for a character to break the domain rules
+in some way. This may be a special power, a way to
+alter some environmental factor (like flying), altering
+the time dilation, some sort of power-up ability, a
+way to get info on other simulmorphs, or a short-cut
+through part of the simulation. In game terms, cheats
+might provide bonus modifiers to certain skill or stat
+tests made by a simulmorph. Cheating is usually for-
+bidden. Players who cheat in a simulspace game and
+who get caught may face eviction from the simulspace.
+
+HACKING SIMULSPACES
+Since simulspaces are complex virtual environments
+and often run on time dilation, hackers cannot hack
+them in a normal manner when they participate in the
+simulation. There are ways to affect and influence the
+simulation from within, but the degree of subversion
+that is achievable is limited. For this reason, hackers
+rarely enter into VR to hack. Hacking into the exter-
+nal system running a simulspace is just like breaking
+into any other system. Use all of the standard rules for
+intrusion and subversion.
+
+MEDDLING FROM THE INSIDE
+Within a simulspace, a hacker’s only choice for inter-
+acting with the VR controls is through the standard
+interface that any simulmorph can pull up. Typically
+used for standard user features like adjusting your
+simulmorph or chatting with or checking the status

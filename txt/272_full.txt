@@ -1,0 +1,43 @@
+you in the pre-purchased morph of your choice. The            from your muse, keep you on ice or quietly kill you,
+exceedingly rich will often have customized clones            and then regularly “check in” on your behalf using
+(often of their original body) waiting on ice for them.       the access codes so that the insurance provider never
+  Backup insurance often involves a missing person            realizes you are dead or missing. Though this requires
+clause, which states that a person will be brought            quite a bit of effort, it is often less difficult than deal-
+back if they have not checked in for X amount of time         ing with an immortal opponent who keeps coming
+(a calendar function automatically handled by your            back no matter how often you kill them.
+muse) and cannot be located.                                    Other dangers also exist. An entire habitat may be
+   It is worth noting that some criminal syndicates           destroyed, taking you, your backups, and your insur-
+also offer backup insurance at a much reduced rate.           ance provider’s records with it. A resourceful enemy
+The likelihood that copies of your backup are being           might penetrate a provider’s security and delete your
+used for illicit purposes, however, is quite high. For        backups, or simply bribe the right people to make
+some people, however, what happens to a copy of               sure they get “accidentally” corrupted. Given these
+themselves is of no concern.                                  possibilities, the paranoid often make sure to get
+                                                              multiple redundant backup policies, assuming they
+BACKUP INSURANCE LIMITATIONS                                  can afford it.
+Backup insurance is not always perfect. Though in-
+surance providers are required to make a reasonable           BACKUP COMPLICATIONS
+effort to retrieve your cortical stack, for many hyper-       In most cases, backing up/uploading is risk free unless
+corps this is a simple cost-benefit analysis that often       someone tampers with the equipment. If the character
+will not work in the character’s favor. If you died in a      suffered brain or neurological damage, the backup is
+dangerous area such as the Zone on Mars, in a remote          transferred via farcasting, or the upload is made from
+area such as the Kuiper Belt, or are simply difficult         a dead character, then the backup may be damaged
+to track down (pushed out an airlock somewhere),              due to missing neural information. In any of these
+odds are against your cortical stack being retrieved—         instances, make a LUC Test for the character. If the
+instead you will be re-instanced from a backup.               test fails, they suffer 1 point of mental stress per 10
+   Jurisdiction can also play an important role. The          full points of MoF. Note that this stress (and pos-
+insurance offered by many inner system providers is           sible) trauma applies to the backup, not the original
+automatically nullified if you travel to an anarchist         character. If the backup is used to re-instantiate the
+habitat, gatecrash, break the law, or engage in certain       character, however, then the stress is applied.
+life-threatening activities like suicide sports or scaveng-
+ing in TITAN-infected ruins. At the least, they will
+refuse to retrieve your stack in these circumstances.
+Likewise, if you struck a backup insurance deal with
+                                                              RESLEEVING
+                                                              Resleeving (also called remorphing) is the process
+a medical collective from an autonomist habitat and           of giving a new body to an ego. Changing bodies
+then go and die on a hypercorp station, the hypercorp         is a normal part of life for hundreds of millions of
+is very likely to refuse to recognize the authority of a      transhumans, and it is an even more frequent occur-
+bunch of anarchists and won’t hand your stack over.           rence for people in certain professions. Characters
+   Even an archived backup and a missing person               involved in specialized work may resleeve as often as
+clause is no guarantee. A determined enemy could              once a month. Those who travel frequently may do so
+capture you, pry the backup insurance access codes            even more often. Also, given the number of infugees

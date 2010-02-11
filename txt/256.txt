@@ -1,0 +1,81 @@
+by the user—can decrypt them. Public key crypto is
+widely used both for encrypting data traffic between
+two users/networks/devices and for encrypting
+files. Due to the strength of the public key system
+algorithms, such crypto is essentially unbreakable
+without a quantum computer (see Quantum Code-
+breaking, p. 254).
+
+QUANTUM CRYPTOGRAPHY
+Quantum key distribution systems use quantum me-
+chanics to enable secure communications between two
+parties by generating a quantum key. The major advan-
+tage of transmitting information in quantum states is
+that the system itself instantly detects eavesdropping
+attempts as quantum systems are disturbed by any sort
+of external interference. In practical terms, this means
+that quantum encrypted data transfers are unbreakable
+and attempts to intercept automatically fail. Note that
+quantum crypto doesn’t work for basic file encryption,
+its only use is in protecting communication channels.
+   While quantum key systems have an advantage over
+public key systems, they are both more expensive and
+less practical. In order to generate a quantum key,
+the two communications devices must be entangled
+together on a quantum level, in the same location,
+and then separated. So quantum key encrypted
+communications channels require some setup effort,
+especially if long distances are involved. Since the
+implementation of quantum cryptographic protocols
+is an extraordinary expense, it is usually only adopted
+for major high-security communications links.
+
+BREAKING ENCRYPTION
+What this means is that encrypted communications
+lines and files are very safe if using public key systems,
+and that data transfers are absolutely safe if using
+quantum crypto. Gamemasters should take note, how-
+ever: while this may be useful to player characters, it
+may also hinder them. If the characters need to get at
+something that is encrypted, they’re going to need to
+figure out some way to get the secret key’s passcode.
+Common methods include the old standbys of bribery,
+blackmail, threats, and torture. Other options involve
+espionage or social engineering to somehow acquire
+the passcode. Hackers could also find some other
+method to compromise the system and gain inside
+access, bypassing the encryption entirely.
+
+QUANTUM CODEBREAKING
+As noted above, quantum computers can also be used
+to break public key encryption. This requires an Infosec
+Task Action Test with a +30 modifier and a timeframe
+of 1 week (once started, the quantum computer finishes
+the job on its own; the user does not need to provide
+constant oversight). Gamemasters should feel free to
+modify this timeframe as fits the needs of their game.
+Note that quantum computers cannot break quantum-
+encrypted communications, only encrypted files.
+
+
+
+INTRUSION
+The art of intrusion lies in penetrating a device’s secu-
+rity. The best methods involve infiltrating a system qui-
+etly, without catching a watchdog’s attention, by using
+exploits—code glitches, flawed security protocols—to
+create a path circumventing the target’s defenses. When
+called for, however, a hacker can toss aside pretenses
+and attempt to brute-force their way in.
+
+PRECONDITIONS
+In order to hack a device, the hacker needs to establish
+a direct connection to the target computer system. If
+the hacker is making a direct wireless connection to
+the target, the target system must be wireless-capable
+and within range (p. 299), and the hacker must know
+the target is there (see Wireless Scanning, p. 251). If
+the system is hard-wired, the hacker must physically
+jack in by using a regular jacking port or somehow
+tapping into a cable that carries the network’s data
+traffic. If the hacker is accessing the target through the

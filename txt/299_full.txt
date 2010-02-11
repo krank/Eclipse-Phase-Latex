@@ -1,0 +1,69 @@
+GEAR SIZES                                                        effectively the character conceals the equipment, make
+On occasion, you’ll need to know how small or large               a Palming Test and note the MoS (the gamemaster
+a certain piece of equipment is. Though this is largely           may wish to roll this secretly). Whenever another
+something the gamemaster can wing on the fly using                character has a chance to notice the concealed item,
+common sense, we’ve listed sizes for many gear items              they must succeed in a Perception Test and achieve
+that are unusual or so futuristic that the average player         a higher MoS than was scored on the Palming Test.
+may not have a feel for what dimensions the tech                  The gamemaster should apply modifiers to both tests
+likely is. These size categories are listed on the Gear           as appropriate. For example, concealing a large item
+Sizes table (p. 297). These sizes should be considered            like a sword would be difficult (–30), whereas wearing
+approximations, as depending on the manufacturer                  concealing clothing like a longcoat or multi-pocketed
+and process, some items may be smaller or larger than             jumpsuit would help (+20). Likewise, a character
+similar items. It is also important to keep in mind that          who is not actively looking is less likely to notice the
+as technology advances, the size and components of                hidden gear (–30), whereas someone who conducts a
+various equipment items shrink, so when in doubt, go              physical search (+30) or who has enhanced vision to
+with smaller.                                                     pierce protective layers will fare better.
+
+MASS AND ENCUMBRANCE                                              DESIGN AND FASHION
+A character who is carrying too much gear should                  Many objects in Eclipse Phase closely resemble their
+be slowed down, suffering negative modifiers both                 early 21st century equivalents—a bottle of soda is still
+to their movement rates and their skill tests. Rather             a transparent container holding a brightly colored
+than micromanaging the weights of individual pieces               liquid, clothing is obviously something you wear, and
+of equipment, however, this matter is largely left to             a knife still consists of a blade and a handle. The ma-
+the gamemaster’s discretion, using common sense. If a             terials, processes, and mindsets that go into making
+character loads up beyond reason, apply modifiers as              them, however, are quite different. To start, very few
+seem appropriate. The gamemaster should, however,                 items look have a uniform, mass-produced look, even
+keep in mind that many of the manufacturing mate-                 if they were. The procedures of minifacturing and
+rials used in Eclipse Phase allow for items that are              nanofabrication allow every individual item to be
+much lighter than current standards without any loss              manufactured with a unique (or at least different)
+of durability or function (see Future Materials, p. 298).         look. In areas with anarchist/reputation economies, in
+Likewise, characters in low or microgravity environ-              fact, where personal possessions have very little intrin-
+ments can carry much larger loads.                                sic value, expression and creativity are favored and so
+                                                                  many items are artistically personalized (and actual
+CONCEALING GEAR                                                   hand-crafted items are rare and prized). Likewise,
+Characters may attempt to conceal items on their                  almost all equipment is designed with ergonomics
+person, hoping at least to hide them from casual                  and ease-of-use prioritized, so gear with soft curves,
+notice if not an intensive search. To determine how               pleasing colors, and form-fitting shapes are common.
+                                                                  Many items of personal technology, such as flashlights
+                                                                  or small tools, are made in the form of ovoids that
+                 GEAR SIZES                                       fit comfortably in the user’s hand or in similar forms
+                                                                  that can be easily worn or attached to clothing. To
+SIZE CATEGORY GENERAL DIMENSIONS AND NOTES                        someone from the 20th century, many common
+                So small that the item cannot be seen without     devices look like oddly colored rocks or decorative
+                the aid of a microscope or nanoscopic vision      pieces of plastic or ceramic (in fact, many such items
+Nano
+                (p. 311), and may not be manipulated without      are referred to as “blobjects” by older transhumans).
+                fractal digits (p. 311) or similar tools.            The materials used to create everyday items are
+                Anything ranging from the size of a barely        also advanced, ranging from aerogel and graphene
+Micro                                                             to smart materials (p. 298) and exotic metamateri-
+                visible small dot to an average insect.
+                Mini items may be concealed within some-          als with unusual physical properties. In practice, this
+Mini                                                              means that most items are light, durable (with both
+                one’s palm or small pockets.
+                                                                  tensile strength and/or flexibility, as needed), water-
+                Small items may be held in one hand and
+Small                                                             proof, dirt-repellent, and self-cleaning. Most gear is
+                concealed in normal pockets.
+                                                                  also designed with zero-G or microgravity function-
+                Medium size items are cumbersome to hold
+                                                                  ality in mind, and can easily be clipped, tethered, or
+                with one hand, ranging from the size of a 2-li-
+                                                                  stuck to a surface with grip pads.
+Medium          ter bottle to the size of a medium dog. They do
+                                                                     Almost all gear available in Eclipse Phase is also
+                not ﬁt in pockets, but they may be concealed
+                                                                  available in forms that are wearable/usable by up-
+                by larger coverings.
+                                                                  lifted animals and non-humanoid morphs, such
+Large           Roughly human-sized.                              as novacrabs, slitheroids, and so on. Even if such
+Huge            Vehicles and other more massive objects.          customized gear is not immediately available, it is

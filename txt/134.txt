@@ -1,0 +1,117 @@
+MARTIAN
+  You were raised in one of the stations on or above
+Mars, now the most populated planet in the system.
+Your home town may or may not have survived the
+Fall.
+Advantages: +10 Pilot: Groundcraft skill, +10 to one
+  Technical, Academic: [Field], or Profession: [Field]
+  skill of your choice, +20 Networking: Hypercorps
+  skill
+Disadvantages: None
+Common Morphs: Flats, Splicers, and Rusters
+
+ORIGINAL SPACE COLONIST
+You, or your parents, were part of the first “gen-
+erations” of colonists/workers sent out from Earth to
+stake a claim in space, so you are familiar with the
+cramped confines of spaceflight and life aboard older
+stations and habitats. As a “zero-one G” (zero-gravity,
+first-gen), you were never part of the elite. People from
+your background typically have some sort of special-
+ized tech training as vacworkers or habtechs.
+Advantages: +10 Pilot: Spacecraft or Freefall skill,
+   +10 to a Technical, Academic: [Field], or Profession:
+   [Field] skill of your choice, +20 to a Networking:
+   [Field] skill of your choice
+Disadvantages: None
+Common Morphs: All. Use of exotic morphs is
+   common.
+
+RE-INSTANTIATED
+You were born and raised on Earth, but you did not
+survive the Fall. All that you know is that your body
+died there, but your backup was transmitted off-world,
+and you were one of the lucky few to be re-instantiated
+with a new morph. You may have spent years in dead
+storage, simulspace, or as an infomorph slave.
+Advantages: +10 Pilot: Groundcraft skill, +10 to a
+  Networking: [Field] skill of your choice, +2 Moxie
+Disadvantages: Edited Memories trait, 0 Starting
+  Credit (can still buy credit with CP)
+Common Morphs: Cases, Infomorphs, Synths
+
+SCUMBORN
+You were raised in the nomadic and chaotic lifestyle
+common to Scum barges.
+Advantages: +10 Persuasion or Deception skill, +10
+  Scrounging skill, +20 Networking: Autonomists
+  skill
+Disadvantages: None
+Common Morphs: All, especially Bouncers
+
+UPLIFT
+You are not even human. You were born as an uplifted
+animal: chimpanzee, gorilla, orangutan, parrot, raven,
+crow, or octopus.
+Advantages: +10 Fray skill, +10 Perception skill, +20
+  to two Knowledge skills of your choice
+Disadvantages: Must choose an uplift morph to start
+Common Morphs: Neo-Avian, Neo-Hominid,
+  Octomorph
+CHOOSE FACTION
+After choosing your background, you now choose
+which primary faction your character belongs to.
+This faction most likely represents the grouping that
+controls your character’s current home habitat/station,
+and to which your character holds allegiance, but this
+need not be the case. You may be a dissident member
+of your faction, living among them but opposing some
+(or all) of their core memes and perhaps agitating for
+change. Whatever the case, your faction defines how
+your character represents themself in the struggle be-
+tween ideologies post-Fall.
+  You must choose one of the factions listed below.
+Like your character’s background, it will provide your
+character with certain skills, traits, limitations, or
+other characteristics.
+  The factions presented here outline the most numer-
+ous and influential among transhumanity, but others
+may also exist. At your gamemaster’s discretion, you
+may develop another starting faction with them not
+included on this list.
+
+ANARCHIST
+You are opposed to hierarchy, favoring flat forms of
+social organization and directly democratic decision-
+making. You believe power is always corrupting and
+everyone should have a say in the decisions that affect
+their lives. According to the primitive and restrictive
+policies of the Inner system and Jovian Junta, this
+makes you an irresponsible hoodlum at best and a ter-
+rorist at worst. In your opinion, that’s comedy coming
+from governments that keep their populations in line
+with economic oppression and threats of violence.
+Advantages: +10 to a skill of your choice, +30 Net-
+  working: Autonomists skill
+Disadvantages: None
+Common Morphs: All
+
+ARGONAUT
+You are part of a scientific techno-progressive move-
+ment that seeks to solve transhumanity’s injustices and
+inequalities with technology. You support universal
+access to technology and healthcare, open source
+models of production, morphological freedom, and
+democratization. You try to avoid factionalism and
+divisive politics, seeing transhumanity’s splintering as
+a hindrance to its perpetuation.
+Advantages: +10 to two Technical, Academic: [Field],
+  or Profession: [Field] skills; +20 Networking:
+  Scientists
+Disadvantages: None
+Common Morphs: All
+
+BARSOOMIAN
+You call the Martian outback and wilds your home.
+You are a “redneck,” a lower-class Martian from the
+rural areas that often find themselves in conflict with

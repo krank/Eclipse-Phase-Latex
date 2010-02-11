@@ -1,0 +1,60 @@
+MESH
+INSERTS, ENDOS, ECTOS
+he mesh, you need some sort of device. Often, these are
+right into your brain—a mesh insert, sometimes called
+—or an ecto, an external minicomputer. ■ p. 237
+
+                                            INTERFACES
+                                            There are three protoco
+                                            and manipulate data o
+
+
+
+
+                                                                Vir
+
+
+
+
+                       MESH USES
+                       Quite simply, your character will use the me
+                       communications, research, and plenty of rec
+
+
+
+
+             Infolife and Infomorphs
+               Both disembodied transhumans and
+     artiﬁcial intelligences roam the mesh. ■ p. 244
+
+                    Muses: A speciﬁc type of AI that functions as a
+                     personal aide and companion. ■ pp. 244, 264
+
+    AGIs: Self-aware digital consciousnesses, capable of intelligen
+                      and autonomous actions.■ pp. 244, 264–265
+
+nfomorphs: Details and rules for digital egos. ■ pp. 244, 264–265
+sed to access
+e mesh. ■ p. 239
+
+gmented Reality (AR): Information overlaid on the user’s physical
+enses—sight, sound, odors, tastes, and tactile sensations. ■ p. 239
+
+ Reality (VR): Physical senses are overridden and your character is
+ed in a computer-generated environment—a simulspace. ■ p. 240
+
+erience Playback (XP): A sensory recording, either of your own or
+                                provided by someone else. ■ p. 241
+
+
+
+
+r almost all their
+on, too. ■ p. 243
+
+
+           Everyday Mesh Mechanics: The basic rules for
+                      standard mesh use start here. ■ p. 245
+
+                Online Research: Your character will use the
+            Research skill to ﬁnd info in the mesh. ■ p. 249

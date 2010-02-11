@@ -1,0 +1,86 @@
+to dodge other events that may harm the character,
+such as avoiding a charging vehicle or jumping out of
+the way of a collapsing stack of crates.
+Specializations: Blades, Clubs, Full Defense, Unarmed
+
+FREE FALL
+Type: Active, Physical
+Linked Aptitude: REF
+  What it is: Free Fall is about moving in free-fall and
+microgravity environments.
+  When you use it: Use whenever you need to maneu-
+ver in a zero-g situation, such as propelling yourself
+across a large open space or making sure you don’t
+accidentally send yourself spinning off into space.
+Free Fall is also used when moving with spacesuit
+maneuvering jets and when parachuting.
+Specializations: Microgravity, Parachuting, Vacsuits
+
+FREERUNNING
+Type: Active, Physical
+Linked Aptitude: SOM
+   What it is: Freerunning is part running, part gymnas-
+tics. It is about moving fast, maneuvering over/under/
+around/through obstacles, and placing your body
+where it needs to go. Freerunning/parkour is a popular
+pastime in habitats where open space is limited.
+   When you use it: Use Freerunning whenever you
+need to overcome an obstacle via movement, such
+as hurdling a railing, rolling across the hood of a
+car, jumping across a pit, or swinging around a pole.
+Freerunning is also used for sprinting (p. 191) and full
+defense against attacks (p. 198).
+Specializations: Balance, Gymnastics, Jumping, Running
+
+GUNNERY
+Type: Active, Combat
+Linked Aptitude: INT
+  What it is: Gunnery skill covers the use and main-
+tenance of large, vehicular, or non-portable weapons
+systems. Firing these weapons is more like playing a
+video game than firing a gun.
+  When you use it: Use Gunnery when attacking with
+a vehicle-mounted weapon or weapon emplacement
+in ranged combat (p. 191).
+Specializations: Artillery, Missiles
+HARDWARE: [FIELD]
+Type: Field, Active, Technical
+Linked Aptitude: COG
+  What it is: This skill encompasses the ability to
+build, repair, physically hack, and upgrade equipment
+of a specific type.
+  When you use it: Hardware is primarily used to repair
+devices, vehicles, habitat systems, or synthetic morphs.
+See Building, Repairing, and Modifying below.
+Sample Fields: Aerospace (all air and space vehicles),
+  Armorer (armor and weapons), Electronics (all
+  computerized devices), Groundcraft, Implants, In-
+  dustrial (habitat, factory, and life support systems),
+  Nautical (watercraft and submarines), Robotics
+  (synthetic morphs)
+Specializations: As appropriate to the field
+
+BUILDING
+Creating an item from scratch is handled as a Task
+Action with a timeframe determined by the gamemas-
+ter. The timeframe should be set according to the com-
+plexity of the object and could range from an hour
+(constructing a set of shelves) to days (assembling a
+robot from spare parts) to even months (building a
+house). Numerous factors may apply modifiers to
+the test, such as the use of entoptic blueprints/help
+manuals (+20) or poor working conditions (–10 to
+–30). Tools are also a factor, perhaps making the job
+ easier (superior tools +10 to +30), more difficult (poor
+or inadequate tools, –10 to –30), or even impossible
+(lack of required tools).
+
+REPAIRING
+Damaged items may be repaired in a similar manner. See
+the rules for Synthmorph and Object Repair, p. 209.
+
+MODIFYING
+Altering an object’s design and function follows the
+same basic rules as build and repair, above. The time-
+frame is determined by the gamemaster as appropriate
+to the modification.

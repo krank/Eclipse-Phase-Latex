@@ -1,0 +1,82 @@
+FIRE
+Objects that come into contact with extreme heat or
+flames may catch fire at the gamemaster’s discretion,
+keeping in mind both the flammability of the material
+and the strength of the heat/flames. Burning items (or
+characters) will suffer 1d10 ÷ 2 (round up) damage
+each Action Turn unless otherwise noted. Energy
+armor will protect against this damage, though it
+too may catch fire, reducing its value by the damage
+inflicted. Depending on the environmental conditions,
+fires are likely to grow larger unless somehow abated.
+Every 5 Action Turns, increase the DV inflicted (first
+to 1d10, then 2d10, then 3d10, then by increments
+of +5). Adverse conditions (such as rain) or efforts to
+extinguish the blaze will reduce the DV accordingly.
+   Note that fire does not burn in vacuum. In micro-
+gravity, fire burns in a sphere and grows more slowly,
+as expanding gases push away the oxygen (increase
+the DV every 10 Action Turns). If there is a lack of air
+circulation, some microgravity fires may extinguish
+themselves.
+
+FIRING MODES AND RATE OF FIRE
+Every ranged weapon in Eclipse Phase comes with one
+or more firing modes that determines their rate of fire.
+These firing modes are detailed below.
+
+SINGLE SHOT (SS)
+Single shot weapons may only be fired once per
+Complex Action. These are typically larger or more
+archaic devices.
+
+SEMI-AUTOMATIC (SA)
+Semi-automatic weapons are capable of quick, re-
+peated fire. They may be fired twice with the same
+Complex Action. Each shot is handled as a separate
+attack.
+
+BURST FIRE (BF)
+Burst fire weapons release a number of quick shots
+(a “burst”) with a single trigger pull. Two bursts may
+be fired with the same Complex Action. Each burst
+is handled as a separate attack. Bursts use up 3 shots
+worth of ammunition.
+   A burst may be shot against a single target (concen-
+trated fire), or against two targets who are standing
+within one meter of each other. In the case of concen-
+trated fire against a single target, increase the DV by
++1d10.
+
+FULL AUTOMATIC (FA)
+Full-auto weapons release a hail of shots with a single
+trigger pull. Only one full-auto attack may be made
+with each Complex Action. This attack may be made a
+single target or against up to three separate targets, as
+long as each is within one meter of another. In the case
+of a concentrated fire on a single individual, increase
+the DV by +1d10 + 10. Firing in full automatic mode
+uses up 10 shots.
+
+FULL DEFENSE
+If you’re expecting to come under fire, you can
+expend a Complex Action to go on full defense. This
+represents that you are expending all of your energy
+to dodge, duck, ward off attacks, and otherwise get
+the hell out of the way until your next Action Phase.
+During this time, you receive a +30 modifier to defend
+against all incoming attacks.
+   Characters who are on full defense may use Free-
+running rather than Fray skill to dodge attacks, repre-
+senting the gymnastic movements they are making to
+avoid being hit.
+
+GRAVITY
+Most characters in Eclipse Phase have considerable
+experience maneuvering in low gravity or micro-
+gravity and can perform normal actions without
+penalties. Even characters who grew up on planetary
+bodies or in rotating habitats have some familiarity
+with alternate gravities thanks to childhood train-
+ing in simulspace educational scenarios. The same is
+also true in reverse; characters who grew up in free

@@ -1,0 +1,114 @@
+ solar system in a matter of days or weeks, instead of
+ weeks or months.
+    Anti-matter drive fast couriers are vessels de-
+ signed for this specific purpose. This vessel can
+ travel from Venus to Mars in a week and from
+ Mars to Jupiter in a month. The fast courier is the
+ swiftest vessels currently made and is able to reach
+ at much as one half of one percent of the speed
+ of light. To manage this, this spacecraft must also
+ carry 6 tons of antimatter in a 100 ton magnetic
+ containment vessel. In an emergency, this contain-
+ ment facility can be jettisoned.
+    Destroyer: One of the largest military spacecraft
+ in common use, destroyers use an antimatter drive
+ holding 150 tons of antimatter in a 2,000-ton mag-
+ netic containment vessel. This antimatter can also
+ be used to provide the spacecraft’s missiles with
+ anti-matter for devastatingly powerful anti-matter
+ warheads. This spacecraft is also armed with
+ railguns, nuclear and high explosive missiles, and
+ point defense lasers.  In addition, all destroyers
+ carry a contingent of 20 fighters.
+    Fighter: This small, short range military vessel is de-
+ signed to be crewed by an infomorph or AI. If needed,
+ however, it can hold a single synthmorph or vaccum-
+ adapted biomorph as a pilot. It carries 3 lasers and 2
+ railguns mounted on small pods placed around the
+ middle of ship that can fire in any direction. A single
+ missile launcher is located in the nose of the fighter
+ and typically holds 6 small high explosive missiles or
+ tactical nuclear missiles (or even anti-matter missiles
+ if facing high-threat targets).
+    General Exploration Vehicle (GEV): A GEV is one
+ of the standard vehicles used for exploration beyond
+ the Pandora Gates. It is specifically designed to handle
+ almost any environment. It is a boxy vehicle, 6 meters
+ long, 2.2 meters wide, and 2 meters high. It makes
+ extensive use of smart matter in the lower part of the
+ chassis, and can create wheels or short legs (primar-
+ ily useful for exceedingly rough terrain). It can even
+ produce limited hull streamlining and propulsion
+
+
+
+                                          VEHICLES—
+SPACECRAFT                     PASSENGER CAPACITY
+Bulk Carrier                              110
+Courier                                    13
+Destroyer                                  90
+Fighter                                    1
+GEV                                        6
+LLOTV (HO)               20 (high-velocity)/100 (low-velocity)
+LLOTV (MH)               250 (high-velocity)/350 (low-velocity)
+Scum Barge                              20,000
+SLOTV (HO)                 3 (high-velocity)/30 (low-velocity)
+SLOTV (MH)               70 (high-velocity)/100 (low-velocity)
+Standard Transport                        200
+ suitable for travel both on and underwater. In addi-
+ tion, it contains a small metallic hydrogen engine that
+ allow it to maneuver in space with an acceleration of
+ up to 0.1 G. GEVs have a Maximum Velocity of 200
+ (wheeled)/40 (walker)/60 (sea)/40 (submerged).
+    The GEV also has a closed cycle life support system
+ that can support up to 6 (fairly cramped) living
+ occupants for up to one month and limited electro-
+ magnetic shielding against charged particle radiation.
+ All models are fitted with advanced AI piloting and
+ navigation as well as limited self-repair capacity. In
+ addition, GEV’s have an extensible airlock, a single
+ healing vat, several desktop CMs, and a variety of
+ sensors, including both radar and telescopic full spec-
+ trum cameras.
+    Large Lander and Orbit Transfer Vehicle (LLOTV):
+ This common vehicle is used for transporting passen-
+ gers and cargo between a planet or moon and orbit
+ and for short distance transfers between habitats
+ less than 100,000 km apart. This conical vehicle has
+ a curved heat shield on the base and smart material
+ landing legs and grapples so that it can rest securely
+ on any stable terrain and link up with all forms of
+ docking clamps. It comes in variants designed to use
+ either a hydrogen-oxygen chemical rocket or a me-
+ tallic hydrogen rocket. The use of light-weight smart
+ materials allows the interior to be easily and rapidly
+ reconfigured to accommodate different amounts of
+ fuel, passenger seats, and cargo space. LLOTVs that
+ are not designed for planetary landing or which are
+ designed only to land on airless moons are unstream-
+ lined and look considerably blockier.
+    LLOTVs come in two configurations: high or low
+ velocity. High velocity configuration allows the vehicle
+ to land and take off again on Venus or Earth without
+ refueling and for rapid transport between nearby
+ habitats. Low velocity configuration is designed to
+ land and take off again on Mars or various large
+ moons without refueling and for slower and more
+ fuel efficient transport between nearby habitats. The
+ extensive use of smart materials in this vehicle means
+
+
+
+PACECRAFT
+NDLING     ARMOR        DURABILITY WOUND THRESHOLD
+—             20            750               150
+—             15            500               100
+—             30           2,000              500
++30           20            240                60
+–10           15            200                40
+–10           20            800               160
+–10           20            800               160
+—             20           1,500              150
+–10           20            400                80
+–10           20            400                80
+—             20            750               150

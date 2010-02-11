@@ -1,0 +1,91 @@
+                                                                gamemaster must acquire. Sometimes it is better to
+MAKING TESTS                                                    simply make a call without rolling dice in order to
+In Eclipse Phase, your character is bound to find               maintain the pacing of the game. Likewise, in certain
+themself in adrenalin-pumping action scenes, high-              circumstances the gamemaster may decide to make tests
+stress social situations, lethal combats, spine-tingling        for a character in secret, without the player noticing. If
+investigations, and similar situations filled with drama,       an enemy is trying to sneak past a character on guard,
+risk, and adventure. When your character is embroiled           for example, the gamemaster will alert the player that
+in these scenarios, you determine how well they do by           something is amiss if they ask them to make a perception
+making tests—rolling dice to determine if they succeed          test. This means that the gamemaster should keep a copy
+or fail, and to what degree.                                    of each character’s record sheet on hand at all times.
+  You make tests in Eclipse Phase by rolling d100 and
+comparing the result to a target number. The target             DIFFICULTY AND MODIFIERS
+number is typically determined by one of your char-             The measure of a test’s diffi-
+acter’s skills (discussed below) and ranges between 1
+and 98. If you roll less than or equal to the target
+                                                                culty is reflected in its modifiers.
+                                                                Modifiers are adjustments made
+                                                                                                                    TEST DI
+number, you succeed. If you roll higher than the target         to the target number (not the           DIFFICULTY LEVEL
+number, you fail.                                               roll), either raising or lowering       Effortless
+   A roll of 00 is always considered a success. A roll of       it. A test of average difficulty
+                                                                                                        Simple
+99 is always a failure.                                         will have no modifiers, whereas
+                                                                actions that are easier will have       Easy
+                                                                positive modifiers (raising the         Average
+           Jaqui’s character needs to make a skill test. Her
+                                                                target number, making success           Difﬁcult
+ EXAMPLE
+
+
+
+
+           skill is 55. Jaqui takes two ten-sided dice and
+           rolls a 53—she succeeds! If she had rolled a 55,     more likely) and harder ac-
+                                                                                                        Challenging
+           she still would have been successful, but any roll   tions will have negative modi-
+                                                                fiers (lowering the target number,      Hard
+           higher than that would have been a failure.
+                                                                making success less likely). It is
+                                                                the gamemaster’s job to deter-
+TARGET NUMBERS                                                  mine if a particular test is harder             MODIFIER
+As noted above, the target number for a d100 roll in            or easier than normal and to
+                                                                                                        SEVERITY
+Eclipse Phase is usually the skill rating. Occasionally,        what degree (as illustrated on the
+                                                                Test Difficulty table) and to then      Minor
+however, a different figure will be used. In some cases,
+an aptitude score is used, which makes for much                 apply the appropriate modifier.         Moderate
+harder tests as aptitude scores are usually well below             Other factors might also play a      Major
+50 (see Aptitudes, p. 123). In other tests, the target          role in a test, applying additional
+number will be an aptitude rating x 2 or x 3 or two             modifiers aside from the test’s
+aptitudes added together. In these cases, the test de-          general level of difficulty. These factors include the en-
+scription will note what rating(s) to use.                      vironment, equipment (or lack thereof), and the health
+                                                                of the character, among other things. The character
+WHEN TO MAKE TESTS                                              might be using superior tools, working in poor condi-
+                                                                tions, or even wounded, and each of these factors must
+The gamemaster decides when a character must make
+                                                                be taken into account, applying additional modifiers
+a test. As a rule of thumb, tests are called for when-
+                                                                to the target number and adjusting the likelihood of
+ever there is a chance that a character might fail at an
+                                                                success or failure.
+action or when success or failure may have an effect
+                                                                   For simplicity, modifiers are applied in multiples of
+on the ongoing story. Tests are also called for when-
+                                                                10 and come in three levels of severity: Minor (+/–10),
+ever two or more characters act in opposition to one
+                                                                Moderate (+/–20), and Major (+/–30). Any number of
+another (for example, if they are arm wrestling or hag-
+                                                                modifiers may be applied, as the gamemaster deems
+gling over a price). On the other hand, routine use of
+                                                                appropriate, but the cumulative modifiers may not
+a skill by someone with at least a rating of 30 in that
+                                                                exceed + or – 60.
+skill can be assumed to be successful with no test.
+   It is not necessary to make tests for everyday, run-
+of-the-mill activities, such as getting dressed or check-         Jaqui is attempting to leap from one door to an-
+ing your email (especially in Eclipse Phase, where so             other across a large chamber in zero gravity. She’s
+many activities are automatically handled by the ma-              in a hurry. If she misses the door, she’ll lose valu-
+                                                                                                                            EXAMPLE
+
+
+
+
+chines around you). Even an activity such as driving              able time, so the gamemaster calls for a Freefall
+a car does not call for dice rolls as long as you have            Skill Test. Jaqui’s Freefall skill is 46. Unfortunately
+a small modicum of skill. A test might be necessary,              the chamber is ﬁlled with ﬂoating debris that could
+however, if you happen to be driving while bleeding               get in her way. The gamemaster determines this is
+to death or are pursuing a gang of motorcycle-riding              a Moderate modiﬁer, reducing the target number
+scavengers through the ruins of a devastated city.                by 20. Jaqui must roll a 26 or less to succeed.
+   Knowing when to call for tests and when to let the
+roleplaying flow without interruption is a skill every

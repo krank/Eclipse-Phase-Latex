@@ -1,0 +1,60 @@
+via the mesh, though some areas of interest         of a positive trait, the character must immedi-
+may be restricted or hard to find. This can         ately spend Rez Points equal to the trait’s CP
+be handled via roleplaying or designated            cost for the privilege (whether they wanted
+as something the character is doing during          the new trait or not). If the character has no
+downtime between sessions. If the game-             unspent RP available, they must pay out im-
+master decides that a character has not put         mediately from any future RP they earn until
+enough effort into improving a skill, they          the debt is paid off. In the case of a negative
+may call for more practice/study.                   trait, however, the character is simply saddled
+   The cost to increase a skill is 1 RP per skill   with the new flaw—they do not acquire any
+point, and no skill may be increased over 99.       extra RP for gaining the negative trait.
+No skill may be raised by more than 5 points           Getting rid of traits is somewhat more
+per month. When a character’s skill reaches         difficult. Positive traits may be lost due to
+the level of expertise (skill of 60+), however,     unfortunate effects on the character, as the
+they tend to reach a plateau where improve-         gamemaster sees fit. Such lost positive traits
+ment progresses more slowly and even con-           are simply gone—the character does not
+sistent practice and study have diminished re-      receive any Rez Point reimbursement. Nega-
+turns. In this case, the Rez Point cost per skill   tive traits are occasionally eliminated in the
+point doubles (i.e., 2 RP = +1 skill point).        same way, but more typically they can only
+When a skill reaches 80, improvement slows          be worked off through the hard work and
+down even further—a skill of 80+ may not            diligence of a character that seeks to over-
+be increased by more than 1 point per month.        come their handicap. Such endeavors should
+                                                    require weeks if not months of effort on the
+LEARNING NEW SKILLS                                 character’s part, with appropriate roleplay-
+Similarly, to learn a new skill, the character      ing and possibly some difficult tests. In fact,
+must actively study/practice and/or seek            overcoming such traits could be the source
+instruction. No test to learn is required,          of an adventure. Once a gamemaster feels
+unless the period of study was hampered             that the character has made a strong-enough
+or in some way deficient, in which case the         effort, the character may pay a number of
+gamemaster may call for a COG x 3 Test              Rez Points equal to the trait’s original CP
+to pick up the new skill. Otherwise, once a         bonus to negate it. Note, however, that some
+character has spent approximately a week            negative traits may simply not be discarded,
+learning a new skill, they may purchase their       no matter what the character does.
+first skill point at the usual cost (1 RP). The
+skill is bought up from the aptitude rating,        IMPROVING REP
+per normal. Once a new skill is acquired, it is      Reputation is something that can be in-
+raised according to the standard rules above.        creased with appropriate roleplaying and
+                                                     actions during gameplay (see Reputation
+SPECIALIZATIONS                                     Gain and Loss, p. 384). Characters that
+Specializations may be purchased for ex-             prefer to handle their Rep-boosting activities
+isting skills, as long as that skill is at least    “off-screen,” however, can simply spend Rez
+rating 20. Specializations require a total           Points to boost their score(s). Each RP spent
+of 1 month of training. The cost to learn a          boosts the character’s Rep by +10 in a single
+specialization is 5 RP. Only 1 specialization        network. Only one such boost may be made
+may be purchased per skill.                          to a single rep network per month.
+
+IMPROVING MOXIE                                     MAKING CREDIT
+Moxie may be raised at the cost of 15 RP per        Rez Points may be spent on Credit at a ratio
+Moxie point. The maximum to which Moxie             of 1 RP for 1,000 Credits. This represents
+may be raised is 10.                                income the character has earned “off-screen”
+                                                    or during downtime, such as from odd jobs,
+GAINING/LOSING TRAITS                               selling off possessions, and so on.
+At the gamemaster’s discretion, both positive
+and negative traits may be acquired or lost         IMPROVING PSI
+during gameplay, though such changes should         Characters who have the Psi trait (p. 147)
+be rare and only made in accordance with the        may purchase new sleights (see Sleights, p.
+storyline and unfolding events in the game.         223) at the cost of 5 RP per sleight. Sleights
+  Both positive and negative traits may be          must be learned through study, training, and
+picked up by a character during gameplay            practice, requiring approximately 1 month
+as a consequence of something that did or           per sleight. No more than one sleight may be
+something that happened to them. In the case        learned per month.

@@ -1,0 +1,113 @@
+   If a critical success is rolled, no stress is applied at
+all. If a critical failure is rolled, however, an automatic
+trauma is applied in addition to the normal stress.
+   Some psychosurgery conditions may also affect the
+SV, as noted on the Psychosurgery Modifiers table.
+
+ROLEPLAYING MIND EDITS
+Many of the changes incurred by psychosurgery are
+nebulous and difficult to pin down with game me-
+chanics. Alterations to a character’s personality and
+mind-state are often better handled as roleplaying fac-
+tors anyway. This means that players should make a
+real effort to integrate any such mental modifications
+into their character’s words and actions, and game-
+masters should ensure that a character’s portrayal
+plays true to their mind edits. Some psychosurgical
+mods can be reflected with ego traits, while others
+might incur modifiers to certain tests or in certain
+situations. The gamemaster should carefully weigh a
+brain alteration’s effects, and apply modifiers as they
+see appropriate.
+
+PSYCHOSURGERY PROCEDURES
+  The following alterations may be accomplished
+with psychosurgery. At the gamemaster’s discretion,
+other mind-editing procedures may be attempted,
+using these as a guideline.
+
+BEHAVIORAL CONTROL
+    TIMEFRAME:   1 week
+                 Limit/Boost –10; Block/Encourage –20,
+    PM:
+                 Expunge/Enforce –30
+    SV:         (1d10 ÷ 2, round up)
+Commonly used for criminal rehabilitation, behavioral
+control attempts to limit, block, or expunge a specific
+behavior from the subject’s psyche. For example, a
+murderer may be conditioned against acts of aggres-
+sion, or a kleptomaniac might be restricted from steal-
+ing. Some people seek this adjustment willingly, such
+as socialite glitterati who restrict their desire to eat, or
+an addict who cuts out their craving for a fix.
+   Behavioral control can also be applied as an un-
+leashing or reinforcement. A companion may desire
+to eliminate their sexual inhibitions, for example, or
+a hypercorp exec may boost his commitment to place
+work above all else.
+  A character will simply feel compelled to avoid
+a behavior that is limited (perhaps suffering a –10
+modifier), but will find it quite difficult to pursue a be-
+havior that is blocked (requiring a WIL x 3 Test, and
+suffering a –20 modifier). They will find themselves
+completely incapable of initiating a behavior that is
+expunged, and if forced into the behavior will suffer
+a –30 modifier and (1d10 ÷ 2, round up) points of
+mental Stress.
+   Likewise, a character will feel compelled to pursue a
+behavior that is boosted, and will find it hard to avoid
+ engaging in a behavior that is encouraged (requiring a
+ WIL x 3 Test to avoid). They will have no choice but
+ to engage in enforced behaviors, and will suffer (1d10
+ ÷ 2, round up) points of mental Stress if prevented
+ from doing so.
+
+ BEHAVIORAL MASKING
+      TIMEFRAME:   1 week
+      PM:          –20
+      SV:       1d10 ÷ 2, round up
+    Given the ability to switch bodies, many security
+ and law enforcement agencies have resorted to per-
+ sonality and behavioral profiling as a means of iden-
+ tifying people even when they resleeve. Though such
+ systems are far from perfect, someone’s unconscious
+ habits and quirks could potentially give them away.
+ Characters who wish to elude identification in this
+ way may undergo behavioral masking, which seeks
+ to alter and change the character’s unconscious habits
+ and social cues. Apply a +30 modifier when defending
+ against such identification systems and Kinesics Tests.
+
+ DEEP LEARNING
+      TIMEFRAME:   Skill Learning Time +2
+      PM:          +20
+     SV:        1
+    Using tutorial programs, memory reinforcement
+ protocols, conditioning tasks, and deep brain stimula-
+ tion, the subject’s learning ability is reinforced, allow-
+ ing them to learn new skills more quickly.
+
+ EMOTIONAL CONTROL
+      TIMEFRAME:   1 week
+                   Limit/Boost –10; Block/Encourage –20,
+      PM:
+                   Expunge/Enforce –30
+      SV:      (1d10 ÷ 2, round up) + 2
+    Similar to behavioral control, emotional control
+ seeks to modify, enhance, or restrict the subject’s
+ emotional responses. Some choose these modifica-
+ tions willingly, such as limiting sadness in order to
+ be happier, or encouraging aggression in order to be
+ more competitive. Mercenaries and soldiers have been
+ known to expunge fear. Follow the same rules as given
+ for Behavioral Control.
+
+
+
+        PSYCHOSURGERY MODIFIERS
+                                      PSYCHOSURGERY
+SITUATION                              TEST MODIFIER       SV MO
+Improper Preparatory Diagnosis              –30               +
+Safety Protocols Ignored                    +20                x
+Simulspace Time Acceleration                –20               +
+Subject is an AI, AGI, or uplift            –20               +

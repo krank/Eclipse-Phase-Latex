@@ -1,0 +1,108 @@
+ICS■GAME MECHANICS■GAME MECHA
+
+
+
+MECHANICS
+ In every game, there comes a time when the gamemas-
+ ter must decide if a character succeeds or fails in an
+ action. This is when the players roll dice and the char-
+ acters’ stats and abilities come into play. This chapter
+ defines the core mechanics and rules that govern the
+ outcomes of events in Eclipse Phase.
+
+ THE ULTIMATE RULE
+ One rule in Eclipse Phase outweighs all of the others:
+ have fun. This means that you should never let the
+ rules get in the way of the game. If you don’t like a
+ rule, change it. If you can’t find a rule, make one up.
+ If you disagree over a rule’s interpretation, flip a coin.
+ Try not to let rules interfere with the game’s flow and
+ mood. If you’re in the middle of a really good scene
+ or intense roleplaying and a rule suddenly comes into
+ question, don’t stop the game to look it up and argue
+ about it. Just wing it, make a decision quickly, and
+ move on. You can always look the rule up later so
+ you’ll remember it next time. If there are disagree-
+ ments over a rule’s interpretation, remember that the
+ gamemaster gets the final say.
+    This rule also means that you shouldn’t let the story
+ be guided solely by rolls of the dice. The element of
+ chance that dice rolls provide lends a sense of random-
+ ness, uncertainty, and surprise to the game. Sometimes
+ this is exciting, like when a character makes an un-
+ expectedly difficult roll and saves the day. At other
+ times, it is brutal, such as when a lucky shot from an
+ opponent takes one of the characters out for good in a
+ fight. If the gamemaster wants a scenario to result in a
+ pre-planned dramatic outcome and an unexpected die
+ roll threatens that plan, they should feel free to ignore
+ that roll and move the story in the direction they desire.
+
+ DICE
+ Eclipse Phase uses two ten-sided dice (each noted as
+ a d10) for random rolls. In most cases, the rules will
+ call for a percentile roll, noted as d100, meaning that
+
+
+
+
+ A NOTE ON TERMINOLO
+ The Eclipse Phase setting raises a number of intere
+ What does it mean when you are born female but y
+ guage and editing, this also poses a number of intere
+ language has a bit of a bias towards male-gendered
+   For purposes of this game, we’ve sidestepped som
+ the “Singular They” rule. What this means is that r
+ switching between gendered pronouns (“he” in one
+ of “they” even when referring to a single person. To
+ some good evidence that this usage has strong hist
+ tors fewer headaches.
+   When referring to speciﬁc characters, we use th
+ personal gender identity, no matter the sex of the m
+ICS■GAME MECHANICS■GAME MECHA
+                   GAME
+
+                                                                 4
+
+
+
+
+   you roll two ten-sided dice, choosing one to count first,
+   and then read them as a result between 0 and 99 (with
+   a roll of 00 counting as zero, not 100). The first die
+   counts as the tens digit, and the second die counts as
+   the ones digit. For example, you roll two ten-sided
+   dice, one red and one black, calling out red first. The
+   red one rolls a 1 and the black die rolls a 6, for a result
+   of 16. Some sets of d10s, as shown above, are specifi-
+   cally marked for easier rolling and reading.
+      Occasionally the rules will call for individual die
+   rolls, with each individual ten-sided die listed as a d10.
+   If the rules call for several dice to be rolled, it will be
+   noted as 2d10, 3d10, and so on. When multiple ten-
+   sided dice are rolled in these instances, the results are
+   added together. For example, a 3d10 roll of 4, 6, and
+   7 counts as 17. On d10 rolls, a result of 0 is treated as
+   a 10, not a zero.
+      Most players of Eclipse Phase can get by with
+   having two ten-sided dice, but it doesn’t hurt to
+   have more on hand. These dice can be purchased
+   at your friendly local game store or borrowed from
+   another gamer.
+
+
+
+
+ Y AND GENDER
+ g questions about gender and personal identity.
+are occupying a male body? When it comes to lan-
+ng questions for what pronouns to use. The English
+ nouns that we hope to avoid in these rules.
+ f these gender neutrality quandaries by adopting
+ er than just going with male pronouns (“he”) or
+apter, “she” in the next), we have adopted the use
+me folks, this is bad grammar, but there is actually
+ al roots (look it up), and it certainly gives our edi-
+
+endered pronoun appropriate to the character’s
+ph they are in.                            ■

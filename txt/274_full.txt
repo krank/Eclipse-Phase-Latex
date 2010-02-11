@@ -1,0 +1,69 @@
+    INTEGRATION TEST                                                       ALIENATION
+                                                                           After loss of continuity, the other major factor impact-
+            EFFECT                                                         ing resleeving characters is alienation. Once the ego
+            Character is unable to acclimate to the new morph—             has its new sleeve under control, it’s time to look in
+            something is just not right. Character suffers a –30 modi-     the mirror. The alienation test reflects the experience of
+            ﬁer to all physical actions until resleeved.                   coming to terms with a new face, skin, and brain. For
+            Character has serious trouble acclimating to the new           example, transferring to a radically different morph
+0+)         morph. They suffer a –10 modiﬁer to all actions for 2 days     (such as a swarmanoid) can be difficult to grasp.
+            plus 1 day per 10 full points of MoF.                          Uplifts often have difficulty getting acquainted with
+            Character has some trouble acclimating to new morph.           the differing hormonal urges of a human biomorph
+            They suffer a –10 modiﬁer to all physical actions for 2        and vice versa. While the character’s ego is as it was
+            days plus 1 day per 10 full points of MoF.                     in their last sleeve, the brains and neurochemistry of
+            Standard acclimation period. The character suffers a –10       many morphs may alter aptitudes like WIL or COG.
+            modiﬁer to all physical actions for 1 day.                     The effects of this can be frustrating or disorienting.
+                                                                             Every character makes an Alienation Test to reflect
+            No ill effects. Character acclimates to new morph in no
+ S 30+)                                                                    how mentally stressful it is to get a grip on their new
+            more than a few minutes.
+                                                                           body, rolling INT x 3 and apply modifiers from the
+            Lookin’ good! This morph is an exceptionally good ﬁt for
+                                                                           Integration and Alienation Modifiers table. Consult
+            the character. No ill effects; gain 1 Moxie point for use in
+                                                                           the Alienation Test table to determine the effects.
+            that game session only.
+                                                                           CONTINUITY TEST
+                                                                           Perhaps the biggest shock that strikes most resleeving
+ION AND ALIENATION MODIFIERS                                               characters is the loss of continuity of self. This is par-
+                                                                           ticularly true for characters who died. If their cortical
+                                                             EFFECT        stack was retrieved, they will remember their own
+s used this exact morph extensively in the past                +30         death. If they were restored from an archived backup,
+                                                               +20         they will not remember their death, but they will have
+ orph type (what they were raised with)                        +20         lost an entire period of their life—all the way back to
+el 2)                                                          +20         their last backup. In fact, if their body was not recov-
+                                                                           ered, they may not even know that they are dead for
+el 1)                                                          +10
+                                                                           certain—there may be a surviving copy of themselves
+ sly used this type of morph                                   +10
+                                                                           out there. The driving point in this loss of continuity is
+                                                               –10         a sort of existential crisis—they are no longer the origi-
+eeving into a physical body                                    –10         nal person they once were. This leads some to question
+resleeving in a non-uplift (of their type) body                –10         whether they are who they think they are, or are they
+                                                               –10         some poor imitation and not a real person at all?
+ morph)                                                        –10            To determine how this loss of continuity affects a
+                                                                           character, make a Continuity Test by rolling WIL x 3.
+iﬁed                                                           –10
+                                                                           Every character suffers stress from loss of continuity,
+ait (Level 1)                                                  –10
+                                                                           as noted on the Continuity Stress table. Reduce this
+ait (Level 2)                                                  –20         stress damage by 1 point per 10 full points of MoS on
+apply to AGIs) (Alienation Test only)                          –20         the Continuity Test, or increase it by 1 point for every
+only)                                                          –20         10 full points of MoF.
+ait (Level 3)                                                  –30
+orph, neo-avian, novacrab, swarmanoid, etc.)                   –30         INFOMORPH RESLEEVING
+                                                                           Rather than resleeving into a physical body, a backup
+                                                                           may instead by instantiated as an infomorph, a purely
+                                                                           digital form. Infomorphs are distinct from backups in
+        ALIENATION TEST                                                    that backups are inert files. Infomorphs are backups
+                                                                           imprinted onto a virtual brain template and run as
+                                 EFFECT
+                                                                           a program. This virtual brain state must be run on a
+Extreme Dysmorphia. The character doesn’t like their new sleeve at all     specific device and follows all of the rules noted for
+and suffers 2 stress points per 10 full points of MoF.                     infomorphs on p. 264. Infomorphs may copy them-
+Character is uneasy about the new morph and suffers 1 stress point         selves to other devices, typically erasing themselves
+per 10 full points of MoF.                                                 from the previous device as they go. Infomorphs that
+Character adapts to their new look well. No ill effects.                   copy without erasing are treated as forks.
+Best. Morph. Ever. The new morph jives perfectly with the character’s        Characters instantiating as infomorphs must make
+ ense of self, and even enhances it somewhat. The character actually       Continuity and Alienation Tests, just like resleeving.
+heals 1d10 ÷ 2 (round up) stress points.                                     Infomorphs may be resleeved into physical morphs,
+                                                                           following normal resleeving rules.

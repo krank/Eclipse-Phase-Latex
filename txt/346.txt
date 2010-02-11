@@ -1,0 +1,118 @@
+electronically. A character wearing an exoskeleton
+(other than the trike or transporter) maneuvers as
+normal, because the exoskeleton is like an extension
+of their own body. A character jamming an exoskel-
+eton remotely uses Pilot: Walker skill (except for the
+trike and transporter).
+   Battle Suit: The battle suit powered exoskel-
+eton features a military-grade fullerene armor shell
+with flexible aerogel for thermal insulation and a
+diamond-hardened exterior designed to resist even
+potent ballistic and energy-based weapons. The suit
+also enhances the wearer’s strength and mobility, ap-
+plying a +10 bonus to strength-based tests, inflicting
+an extra +1d10 damage and AP of –2 on melee at-
+tacks, and doubling the distance by which the char-
+acter may jump. Battlesuits are completely sealed to
+protect the wearer from environmental factors, and
+fitted with life support features and a maker (p. 327)
+capable of recycling all wastes and producing air
+for up to 48 hours and food and water indefinitely.
+Battle suits are equipped with each an ecto (p. 325),
+a radio booster (p. 313), and sensors equal to specs
+(see p. 325). These suits have an Armor Value of
+18/18 (not cumulative with any other armor) and
+protect the wearer from temperatures from –175 to
+140 C. [Expensive]
+   Exowalker: Exowalkers are minimal framework
+exoskeletons, primarily designed to bolster the
+wearer’s strength and movement. They provide a an
+Armor Value of 2/4, a +10 modifier to strength-based
+tests, and double the distance by which the character
+may jump. [Moderate]
+   Hyperdense Exoskeleton: These powered exoskel-
+etons are larger (roughly twice human-sized) and built
+for heavy-use industrial purposes, such as handling
+heavy/large objects. The wearer is partially encapsulated
+to protect them from debris and industrial accidents.
+Hyperdense exoskeletons provide no movement bonus,
+but provide a +30 bonus to strength-based tests and
+inflict an extra +3d10 damage and –5 AP on physical
+attacks. They have an Armor Value of 6/12. [Expensive]
+   Transporter: This exoskeleton framework includes
+a pair of vector-thrust turbofan engines, giving the
+user flight capabilities in gravity and increased maneu-
+verability in zero-G. It provides partial protection to
+the wearer with an Armor Value of 2/4. Piloted with
+Pilot: Aircraft skill. [High]
+
+
+                                    VEHICLES—E
+                  PASSENGER                    MOVEMENT
+AIRCRAFT           CAPACITY      HANDLING        RATE
+Battlesuit              1             —            8/32
+Exowalker               1             —            8/40
+Hyperdense
+                        1             —            8/20
+Exoskeleton
+Transporter             1            +10           8/40
+Trike                   1            +10           8/40
+    Trike: The trike exoskeleton is a three-wheeled
+  personal motorcycle design, rather than a walker. It
+  provides partial protection to the wearer with an
+  Armor Value of 2/4. Piloted with Pilot: Groundrcraft
+  skill. [Moderate]
+
+  GROUNDCRAFT
+  In Eclipse Phase, trains and bicycles remain the most
+  common form of ground transportation, especially on
+  habitats. In larger habitats and on moons and planets,
+  cycles and cars are used as well.
+     Cycle: Because of the high cost of enclosing a habi-
+  tat and providing life support, space is at a premium
+  in all cities except some of the newest cities on Mars.
+  As a result, there is rarely room for large roads or the
+  cars that once carpeted the roads of Earthly cities.
+  Instead, the ubiquitous modern vehicle is the cycle,
+  which is designed to drive down narrow streets only a
+  little wider than sidewalks in Earth cities.
+     There are many different varieties of cycle. Some
+  have only a single wheel and are gyro-stabilized, but
+  most have two wheels and resemble old Earth motor-
+  cycles. In some, the driver and passenger are enclosed
+  by a streamlined pod. These vehicles are powered
+  by superconducting batteries, have a range of 600
+  km and a top speed of 120 kph, but must usually
+  drive more slowly in crowded streets. Cycles are all
+  equipped with radio boosters, headlights, and a por-
+  table radar sensor. Tires are solid state (not inflated),
+  or in some cases smart spokes capable of handling
+  stairs. Some luxury versions have limited life-support
+  in the small cabin, capable of providing air for the
+  passengers for up to 10 hours. [Moderate]
+     Mars Buggy: One of the most ubiquitous vehicles
+  on Mars is the so-called Mars buggy, a four-wheeled
+  vehicle with large balloon tires that is designed for
+  use both on roads and on almost any terrain. Mars
+  buggies can travel at speed of up to 110 kph on roads,
+  90 kph over relatively flat terrain, and up to 40 kph
+  on jagged and rocky terrain. They can maintain these
+  speeds because smart materials in both the suspension
+  and the tires reshape themselves to adapt to uneven
+  conditions and their nuclear batteries give them an
+  effectively unlimited range. Most Mars buggies are
+  enclosed but unpressurized. Similar vehicles are used
+  on Luna and Titan, however, though the passenger
+  compartments of these vehicles includes life support
+
+
+OSKELETONS
+                                                 WOUND
+MAX VELOCITY       ARMOR       DURABILITY      THRESHOLD
+     30             18/18           60              12
+     40              2/4            30              6
+
+     30             6/12           100              20
+
+    200              2/4            50              10
+    120              2/4            50              10

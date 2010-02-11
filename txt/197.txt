@@ -1,0 +1,119 @@
+CONCENTRATED FIRE                                synth
+A character firing a semi-auto beam              Vehicl
+weapon who hits with the first attack may        but th
+choose to keep the beam on and concen-           that th
+trate their fire, cooking the target. In this    vehicl
+case, the character foregos their second         that is
+semi-auto attack with that Complex               assum
+Action, but automatically bolsters the           brain
+DV of the first attack by x 1.5 (round up).      rules,
+This decision must be made before the            bots, v
+damage dice are rolled.                            Lik
+                                                 are tr
+BLIND ATTACKS                                    they r
+Attacking a target that you cannot see is        skills
+difficult at best and a matter of luck at        shells
+worst. If you cannot see, you may make a         ever, c
+Perception Test using some other available
+sense to detect your target. If this succeeds,   SHELL
+you attack with a –30 modifier. If your Per-     Just li
+ception Test fails, your attack is primarily     bot an
+based on chance—your target number for           Thres
+the attack test is equal to your Moxie stat      tiative
+(no other modifiers apply).                      the ac
+                                                 determ
+INDIRECT FIRE                                    AI (in
+With the help of a spotter, you may target       may a
+an enemy that you can’t see using indirect       AI or
+fire. In this case you must be meshed with       vehicl
+a character, bot, or sensor system that has         Ha
+the target in its sights and which feeds         specia
+you targeting data (the gamemaster may           modifi
+require a Perception Test from the spotter).     the bo
+Indirect attacks suffer a –30 modifier.          vehicl
+   Seeker missiles (p. 340) can home in on
+a target that is “painted” with reflected        SHELL
+energy from a laser sight (p. 342) or simi-      The sk
+lar target designator system. An “attack”        vehicl
+must first be made to paint the target with      AIs an
+the laser sight using an appropriate skill.
+If this succeeds, it negates the –30 indirect    SHELL
+fire modifier for the seeker launcher’s          Like c
+attack test. the target must be held in          a wal
+the spotter’s sights (requiring a Complex        This i
+Action each Action Phase) until the seeker       engag
+strikes.                                         other
+                                                    She
+BOTS, SYNTHMORPHS, AND VEHICLES                  will a
+AI-operated robots and synthetic morphs          listed—
+are a common sight in Eclipse Phase.             shell m
+Robots are used for a wide range of pur-         per ho
+poses, from surveillance, maintenance, and       some
+service jobs to security and policing—and        accele
+so may often play a role in action and           the ga
+combat scenes. Though less common (at            penalt
+least in habitats), AI-piloted vehicles are
+also frequently used and encountered.            CHASE
+  Note that the difference between a             Shells
+robot, vehicle, and synthetic morph is in        runnin
+many ways semantic. Robots are simply            Veloci
+   bodies controlled by an AI.
+ re also robotic—AI controlled—
+  rm “vehicle” is used to denote
+ carry passengers. Both bots and
+ an be used as synthetic morphs—
+ habited by a transhuman ego—
+  they are equipped with a cyber-
+  300). For the purpose of these
+  term “shell” is used to refer to
+ cles, and synthetic morphs alike.
+  nthmorphs, bots and vehicles
+  d just like any other character:
+ Initiative, take actions, and use
+  few specific aspects of these
+  ds special consideration, how-
+  red below.
+
+ TS
+synthmorph characters, certain
+ ehicle stats (Durability, Wound
+d, etc.) and stat modifiers (Ini-
+peed, etc.) are determined by
+l physical shell. Other stats are
+ d by the bot/vehicle’s operating
+ce of an ego). Bots and vehicles
+  have traits that apply to their
+ sical shell. For sample bots and
+ ee p. 342 of the Gear chapter.
+ ng: Bots and vehicles have a
+ at called Handling, which is a
+applied to all tests made to pilot
+ehicle. This represents the bot/
+maneuverability.
+
+ LLS
+  and aptitudes used by a bot or
+ e those possessed by its AI. See
+Muses, p. 264.
+
+ VEMENT
+ acters, bots and vehicles have
+g and running Movement rate.
+ ed whenever the bot/vehicle is
+n action or combat scenes with
+racters.
+hat are capable of greater speeds
+   have a Maximum Velocity
+is is the highest rate at which the
+ safely move, listed in kilometers
+ At the gamemaster’s discretion,
+ lls may push their limits and
+  further, but at significant risk—
+master should apply appropriate
+ o Pilot Tests and other tests.
+
+
+
+ t are moving faster than their
+Movement rate (up to their Max.
+ are generally considered to be

@@ -1,0 +1,60 @@
+BLACKLISTED                                                  FEEBLE
+Bonus: 5 or 20 CP                                            Bonus: 20 CP
+   The character has managed to get themselves                 The character is particularly weak with one aptitude.
+blacklisted in certain circles, whether they actually        That aptitude must be purchased at a rating lower
+did something to deserve it or not. In game terms, the       than 5, and may never be upgraded during character
+character is barred from having a Rep score higher           advancement. The aptitude maximum is 10, no matter
+than 0 in one particular reputation network. People          what morph the character is wearing.
+within that network will refuse to help the character
+out of fear of reprisals and ruining their own reputa-       FRAIL (MORPH TRAIT)
+tion. The bonus for this trait is 20 CP if chosen for the    Bonus: 10 (Level 1) or 20 (Level 2) CP
+rep network pertaining to the character’s own starting          This morph is not as resilient as others of its type.
+faction, and 5 CP if chosen for any other.                   Its Durability is reduced by 5 per level. This also re-
+                                                             duces Wound Threshold by 1 or 2, respectively.
+BLACK MARK
+Bonus: 10 (Level 1), 20 (Level 2),                           GENETIC DEFECT (MORPH TRAIT)
+   or 30 (Level 3) CP                                        Bonus: 10 CP or 20 CP
+  At some point in the character’s past, they managed          The morph is not genefixed, and in fact suffers
+to do something that earned a black mark on their            from a genetic disorder or other impairing mutation.
+reputation. For some reason, no matter what they do,         The player and gamemaster should agree on a defect
+this black mark cannot be shaken off and continues to        appropriate to their game. Some possibilities include:
+haunt their interactions. In game terms, the character       heart disease, diabetes, cystic fibrosis, sickle-cell dis-
+picks one faction. Every time they interact with this        ease, hypertension, hemophilia, or color blindness.
+faction (such as a Networking Test) or with an NPC           A genetic disorder that creates minor complications
+from this faction (Social Skill Tests) who knows who         and/or occasional health problems would be worth
+the character is, they suffer a –10 modifier per level.      10 CP, a defect that significantly impairs the charac-
+                                                             ter’s regular functioning or that inflicts chronic health
+COMBAT PARALYSIS                                             problems is worth 20 CP. The gamemaster must de-
+Bonus: 20 CP                                                 termine the exact effects of the disorder on gameplay,
+  The character has an unfortunate habit of freezing         as appropriate.
+in combat or stressful situations, like a deer caught in       This trait is only available for flats.
+headlights. Anytime violence breaks out around the
+character, or they are surprised, the character must         IDENTITY CRISIS
+make a Willpower Test in order to act or respond in          Bonus: 10 CP
+any way. If they fail the test, they lose their action and      The character’s ego has trouble adapting itself to
+simply stand there, remaining incapable of reacting to       the changed look of a new morph—they are stuck
+the situation.                                               with the mental image of their original body, and
+                                                             simply do not grow accustomed to their new face(s).
+EDITED MEMORIES                                              As a result, the character has difficulty identifying
+Bonus: 10 CP                                                 themselves in the mirror, photos, surveillance feeds,
+  At some point in the character’s past, the charac-         etc. They frequently forget the look and shape of their
+ter had certain memories strategically removed or            current morph, acting inappropriately, describing
+otherwise lost to them. This may have been done to           themselves by their original body, forgetting to duck
+intentionally forget an unpleasant or shameful experi-       when walking through doorways, etc. This is primar-
+ence or to make a break with the past. The memory            ily a roleplaying trait, but the gamemaster may apply
+may also have been lost by an unexpected death (with         appropriate modifiers (usually –10) to tests affected
+no recent backup), or it may have been erased against        by this inability to adapt.
+the character’s will. Whatever the case, the memory
+should bear some importance, and there should exist          ILLITERATE
+either evidence of what happened or NPCs who know            Bonus: 10 CP
+the full story. This is a tool the gamemaster can use to       The character knows how to speak, but has diffi-
+haunt the character at some future point with ghosts         culty reading or writing. Due to the entoptic-saturated
+from their past.                                             and icon-driven nature of transhuman society, they are
+                                                             able to get by quite comfortably with this handicap.
+ENEMY                                                        Reduce the character’s Language skills by half (round
+Bonus: 10 CP                                                 down) whenever reading or writing.
+  At some point in their past, the character made
+an enemy for life who continues to haunt them. The           IMMORTALITY BLUES
+gamemaster and player should work out the details on         Bonus: 10 CP
+this enmity, and the gamemaster should use the enemy           The character has lived so long—over 100 years—
+as an occasional threat, surprise, and hindrance.            they’re bored with life and now have difficulty

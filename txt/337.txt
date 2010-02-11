@@ -1,0 +1,118 @@
+ KINETIC WEAPONS
+ Kinetic weapons damage the target by firing a hard
+ impact projectile at high-velocities. Slugthrowers
+ have evolved from the mechanical firearms of the
+ early 21st century, however, and now fall into two
+ categories: chemical firearms and railguns. Though
+ their mechanisms for firing are different, they are
+ roughly similar in effect. Railguns have a higher
+ penetration and inflict more damage, which is offset
+ by more limited ammunition choices. While modern
+ beam weapons have their uses, they rarely match the
+ punch of kinetic weapons, therefore slugthrowers
+ are still perceived as the most versatile and effective
+ weapon system.
+   Kinetic weapons are constructed from lightweight,
+ reinforced plastoceramic materials, which are easily
+ produced even without nanofabrication. By default,
+ modern kinetic weapons are ambidextrous but more
+ importantly feature safety and smartlink systems (p.
+ 342) that automatically connect to the wielder’s mesh
+ inserts for firing assistance, target recognition, and
+ tactical networking.
+   The wielder of a firearm or railgun uses Kinetic
+ Weapons skill. For information on firing modes, see
+ p. 198. For different ammunition types, see p. 336.
+ Ranges are listed on p. 203.
+
+ FIREARMS
+ Modern chemical firearms use caseless ammuni-
+ tion that is auto-loaded from a magazine. They are
+
+
+              MELEE WEAPONS—BLADE
+BLADES                      ARMOR PENETRATION (AP)
+Diamond Ax                              –3
+Flex Cutter                             –1
+Knife                                   –1
+Monoﬁlament Sword                       –4
+Vibroblade                              –2
+Wasp Knife                              –1
+
+
+CLUBS                       ARMOR PENETRATION (AP)
+Club                                    —
+Extendable Baton                        —
+Shock Baton                             —                  1
+
+
+EXOTIC MELEE WEAPONS        ARMOR PENETRATION (AP)
+Monowire Garrote                        –8
+
+
+UNARMED                     ARMOR PENETRATION (AP)
+Bioware Claws (p. 304)                  –1
+Cyberclaws (p. 307)                     –2
+Densiplast Gloves                       —
+Eelware (p. 304)                        —
+Shock Gloves                            —
+Unarmed                                 —
+   effectively recoilless (thanks to rheological smart
+   fluid mechanisms) and electronically fired (an electric
+   charge vaporizes the propellant, using the expanding
+   steam and plasma to eject and accelerate the projectile).
+      Note that older, pre-Fall firearms still exist and are
+   traded by black marketeers, though they use outdated
+   system such as liquid propellants or cased ammuni-
+   tion. At the gamemaster’s discretion, these relics may
+   suffer shorter ranges, less penetration, fewer firing
+   modes, or reduced damage.
+      Pistols: Pistols are small-sized (p. 297) and de-
+   signed for one-hand use. Light pistols sacrifice pene-
+   trating ability for concealability. Heavy pistols focus
+   on stopping power, with medium pistols occupying
+   a middle ground. All versions fire in semi-automatic,
+   burst-fire, and full-auto modes. [Low]
+      Submachine Guns: SMGs use pistol ammuni-
+   tion, but are medium-sized (p. 297) and may fire in
+   semi-auto, burst fire, or full auto modes. They typi-
+   cally are designed in a bullpup configuration for
+   close quarters operations and are ideal for tactical
+   and strike teams. [Moderate]
+      Automatic Rifles: Automatic rifles use rifle ammu-
+   nition and have greater range and penetration than
+   SMGs. They fire in semi-auto, burst fire, or full auto
+   modes. They are two-handed weapons. [Moderate]
+      Sniper Rifle: Sniper rifles are optimized for range,
+   accuracy, penetration, and stopping power. They fire
+   in semi-auto, burst fire, or full auto modes, and are
+   two-handed weapons. [High]
+
+
+CLUBS, EXOTIC, UNARMED
+   DAMAGE VALUE (DV)                     AVERAGE DV
+   2d10 + 3 + (SOM ÷ 10)                14 + (SOM ÷ 10)
+   1d10 + 3 + (SOM ÷ 10)                8 + (SOM ÷ 10)
+   1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+   2d10 + 2 + (SOM ÷ 10)                13 + (SOM ÷ 10)
+     2d10 + (SOM ÷ 10)                  11 + (SOM ÷ 10)
+   1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+
+
+   DAMAGE VALUE (DV)                     AVERAGE DV
+   1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+   1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+ + 2 + (SOM ÷ 10) + shock (p. 204)      7 + (SOM ÷ 10)
+
+
+   DAMAGE VALUE (DV)                     AVERAGE DV
+            3d10                              16
+
+
+   DAMAGE VALUE (DV)                     AVERAGE DV
+   1d10 + 1 + (SOM ÷ 10)                6 + (SOM ÷ 10)
+   1d10 + 3 + (SOM ÷ 10)                8 + (SOM ÷ 10)
+   1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+        shock (p. 204)                        —
+10 + (SOM ÷ 10) + shock (p. 204)        5 + (SOM ÷ 10)
+     1d10 + (SOM ÷ 10)                  5 + (SOM ÷ 10)

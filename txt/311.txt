@@ -1,0 +1,74 @@
+as often as desired, but actively using it renders ordi-
+nary conversation and social interactions difficult and
+requires concentration to maintain. [High]
+   Nanophages: These nanobots patrol the body, alert
+for signs of intrusive nanodrugs or -toxins and de-
+stroying them before they have more than a minor
+effect. Nanophages provide automatic immunity
+against nanodrugs and nanotoxins unless they are
+specifically commanded to stand down by the user, via
+their mesh implants. [Moderate]
+   Oracles: These neural macrosensing nanobots pay
+attention to the sensory input on which the charac-
+ter is not focusing, alerting them about important
+things they might otherwise overlook. Oracles also
+act as a sort of memory buffer and search aid, ex-
+tending short term memory, helping the character
+recall memories and details, and crosschecking
+them with other memories. Oracles negate Percep-
+tion modifi ers for distraction, apply a +10 modi-
+fier to Investigation Tests, and add a +30 bonus to
+memory-related tests. [Moderate]
+   Respirocytes: These nanobots act as highly-efficient
+artificial red blood cells, increasing the ability to
+transfer oxygen and carbon dioxide. This increases
+the morph’s ability to hold their breath to 4 hours
+and increases DUR by +5. [Moderate]
+   Skillware: The morph’s brain is laced with a net-
+work of artificial neurons that may be formatted with
+downloaded information. This allows the user to
+download skillsofts (p. 332) into their brains, gaining
+the use of those programmed skills until the skillsoft
+is erased or replaced. Skillware systems are only
+capable of handling 100 total skill points worth of
+skillsofts at a time. [High]
+   Skinflex: This disguise implant allows the user to
+restructure their facial features and musculature and
+alter skin tone and hair color. The entire process takes
+a mere 20 minutes. Skinflex adds +30 to Disguise
+Tests. [Moderate]
+   Skinlink: Skinlink nanobots live on the morph’s
+external skin or shell, automatically swarming over
+and creating a physical connection with any electron-
+ics the user touches. They also take advantage of the
+electrical field in a biomorph’s skin for communica-
+tion. They allow the user to communicate and mesh
+with any devices merely by touching them. This
+is considered a wired link, and so is not subject to
+wireless interception or interference. Two skinlinked
+characters can also communicate and mesh simply by
+touching. [Moderate]
+   Wrist-Mounted Tools: The morph has a 6 centime-
+ter-wide metal band containing nanobot generators
+implanted around each wrist. These nanobots link to-
+gether to duplicate the function of a utilitool (p. 326),
+creating narrow, highly flexible arms that each ends in
+a specialized tool. These nanobots can also produce
+tiny fiber optics to allow the character to see through
+small openings, as well as being able to create small
+weapons equal to bioware claws. The fact that these
+tool are mentally controlled gives the character a +20
+modifier to skills involving repairing or modifying de-
+vices with mechanical parts, opening locks or disarm-
+ing alarm systems, or performing first aid. [Moderate]
+
+COSMETIC MODS
+In an age of universal beauty, artistic cosmetic modi-
+fication of your body is commonly pursued by many
+transhumans. Body mods once considered dangerous
+or edgy are now safe and commonplace, especially
+among factions like the anarchists, scum, or brinkers.
+   Bodysculpting: If your morph’s enhanced physique
+isn’t enough, you can take it further with custom
+bodysculpting such as as elongated ears or fingers,
+nose alteration, hair addition/removal, feathers, exotic

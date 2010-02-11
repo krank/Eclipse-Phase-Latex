@@ -1,0 +1,61 @@
+AND COMBAT■ACTION AND COMBAT■ACTION AND COMBAT■ACTION AND CO
+
+
+
+N AND COMBAT                                                                                                        7
+
+
+Roleplaying games are about creating drama and
+adventure, and that usually means action and              STEP 2: BEGIN FIRST ACTION PHASE
+combat. Action and combat scenes are the moments          Once Initiative is rolled, the fi rst Action Phase
+when the adrenaline really gets pumping and the           begins. Everyone gets to act in the first Action Phase
+characters’ lives and missions are on the line.           (since everyone has a minimum Speed of 1), unless
+  Combat and action scenarios can be confusing            they happen to be unconscious/dead/disabled, start-
+to run, especially if the gamemaster also needs to        ing with the character with the highest successful
+keep track of the actions of numerous NPCs. For           Initiative roll.
+these reasons, it’s important for the gamemaster to
+detail the action in a way that everyone can visual-      STEP 3: DECLARE AND RESOLVE ACTIONS
+ize, whether that means using a map and miniatures,       The character going first now declares and resolves
+software, a dry-erase board, or quick sketches on         the actions they will take during this first Action
+a piece of paper. Though many of the rules for            Phase. Since some actions the character makes may
+handling action and combat are abstract—allowing          depend on the outcome of others, there is no need
+room for interpretation and fudging results to fit        to declare them all first—they may be announced
+the story—many tactical factors are also incorpo-         and handled one at a time.
+rated, so even small details can make a large differ-       As described under Actions (p. 189), each charac-
+ence. It also helps to have the capabilities of NPCs      ter may perform a varying number of Quick Actions
+predetermined and to run them as a group when             and/or a single Complex Action during their turn.
+possible, to reduce the gamemaster’s burden in the        Alternately, a character may begin or continue with
+middle of a hectic situation.                             a Task Action, or delay their action pending other
+                                                          developments (see Delayed Actions, p. 189).
+                                                            A character who has delayed their action may
+ ACTION TURNS                                             interrupt another character at any point during this
+Action scenes in Eclipse Phase are handled in bite-       stage. That interrupting character must complete
+size chunks called Action Turns, each approximately       this stage in full, then the action returns to the in-
+3 seconds in length. We say “approximately” be-           terrupted character to finish the rest of their stage.
+cause the methodical, step-by-step system used to
+resolve actions does not necessarily always translate     STEP 4: ROTATE AND REPEAT
+realistically to real life, where people often pause,     Once the character has resolved their actions for
+take breaks to assess the situation, take a breather,     that phase, the next character in the Initiative order
+and so on. A combat that begins and ends within 5         gets to go, running through Step 3 for themselves.
+Action Turns (15 seconds) in Eclipse Phase could             If every character has completed their actions
+last half a minute to several minutes in real life. On    for that phase, return to Step 2 and go the second
+the other hand, the characters may be in a situation      Action Phase. Every character with a Speed of 2 or
+where their breathing environment decompresses to         more gets to go through Step 3 again, in the same
+vacuum in 15 seconds, so every second may in fact         Initiative order (modified by wound modifiers).
+count. As a rule, gamemasters should stick with 3         Once the second Action Phase is completed, return
+seconds per turn, but they shouldn’t be afraid to         to Step 2 for the 3rd Action Phase, where every
+fudge the timing either when a situation calls for it.    character with a Speed of 3 or more gets to go for
+  Action Turns are meant to be utilized for combat        a third time. Finally, after everyone eligible to go in
+and other situations where timing and the order in        the 3rd Action Phase has gone, return to Step 2 for
+which people act is important. If it is not necessary     a fourth and last Action Phase, where every charac-
+to keep track of who’s doing what so minutely, you        ter with a Speed of 4 can act for one final time.
+can drop out of Action Turns and return to “regu-           At the end of the fourth Action Phase, return to Step
+lar” free form game time.                                 1 and roll Initiative again for the next Action Turn.
+   Each Action Turn is in turn broken down into
+distinct stages, described below.
+                                                          INITIATIVE
+ STEP 1: ROLL INITIATIVE                                  Timing in an Action Turn can be critical—it may mean
+At the beginning of every Action Turn, each PLAYER        life or death for a character who needs to get behind
+involved in the scene rolls Initiative to determine the   cover before an opponent draws and fires their gun.
+order in which each character acts. For more details,     The process of rolling Initiative determines if a char-
+see Initiative.                                           acter acts before or after another character.

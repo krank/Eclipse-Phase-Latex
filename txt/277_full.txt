@@ -1,0 +1,94 @@
+ make them into an NPC if they start too diverge too
+ greatly. Similarly, if a fork begins to learn information
+                                                                            THE SELF
+                                                                            Forking and merging have changed the way
+ that the main character does not (yet) have access to,
+                                                                            transhumanity thinks about the self and what
+ it is probably also better to run the fork as an NPC in
+                                                                            it means to have a well-integrated personality.
+ order to avoid metagaming.
+                                                                               While forking is child’s play from a tech
+    It is entirely possible that a fork might decide that
+                                                                            nological standpoint, the psychological and
+ it will no longer obey the originating ego and carry
+                                                                            social effects of cloning a mind mean that
+ about doing its own thing. This usually only occurs
+                                                                            most people are cautious about employing
+ with alpha forks, who are essentially a full copy
+                                                                            forks. Some jurisdictions ban forking outright
+ anyway, and as time passes the idea of merging back
+                                                                            for all but medical uses, while others have
+ with the original ego becomes unappealing. Beta and
+                                                                            severe restrictions. In many hypercorp juris
+ delta forks are quite aware of their nature as “incom-
+                                                                            dictions, for instance, alpha forks are illegal
+ plete” copies, and so usually return back home to the
+                                                                            and letting a beta fork run for more than 4
+ ego for reintegration. In rare cases, however, even
+                                                                            hours without merging violates the modern
+ these might make a break for life on their own.
+                                                                            descendants of 20th-century anti-trust laws
+ MERGING                                                                    Similarly, the Jovian Junta and other biocon
+                                                                            servatives ban forking entirely.
+   Merging is the process of re-integrating a previous-
+                                                                               Disposing of unwanted forks is another
+ly-spawned fork with the originating ego. Merging is
+                                                                            thorny issue. In some places, it’s as simple as
+performed on conscious egos/forks, transferring both
+                                                                            deleting them, because a stored mind has no
+to a single, merged ego. The process is not difficult
+                                                                            legal status. In others, a fork that doesn’t wish
+to undergo when two forks have only been apart a
+                                                                            to merge back with its originating ego might
+short time. As forks spend more time apart, though,
+                                                                            be accorded some rights, though these are
+merging becomes a severe mental ordeal.
+                                                                            generally only granted to alpha forks.
+   To determine if merging goes well, a Psychosurgery
+                                                                               Most signiﬁcantly, though, running a short
+Test is called for (made either by the ego or another
+                                                                            term fork of oneself for periods of an hour
+character overseeing the process). The Merging table
+                                                                            or less is an easy task for many transhumans
+lists modifiers for this test as well as the result of suc-
+                                                                            Many people use forks of themselves to get
+cess or failure.
+                                                                            work done in everyday life, and almost every
+   For synthmorphs, merging takes one full Action
+                                                                            one has at least experimented with forking at
+Turn. For biomorphs, an ego bridge (p. 328) or mne-
+                                                                            some point.
+monic augmentation (p. 307) is required to merge,
+                                                                               Transhumans view forking a bit like early
+and the process takes 10 minutes.
+                                                                            21st-century humans viewed drinking and drug
+   The result of the process is a unified ego, whether
+                                                                            use. A bit might be okay, but someone overdo
+or not the Merging Test succeeds. Psychotherapy (p.
+                                                                            ing it will be stigmatized. This is because most
+209) and psychosurgery (p. 229) can troubleshoot bad
+                                                                            transhumans understand the psychological
+merges over time.
+                                                                            consequences of overusing forks.               ■
+
+
+ EGOCASTING
+ In spite of being a spacefaring civilization with out-                Egocasting is transhumanity’s most advanced
+ posts throughout the solar system and beyond, tran-                 personal transportation technology, though only the
+ shumanity makes scant use of spacecraft for interplan-              character’s ego actually travels. Egocasting combines
+ etary travel. Shuttlecraft using a variety of propulsion            the technologies of uploading and quantum farcasting
+ systems make regular trips between habitats, planetary              to transfer a backup (or sometimes even a conscious
+ surfaces, and moons. But for any trip longer than 1.5               ego, see p. 269) over interplanetary distances.
+ million kilometers—the distance a fusion drive craft                  Though egocasting occurs at the speed of light,
+ can cover in a day—people egocast.                                  egocasting times vary drastically with distance.
+
+
+                                                        MERGING
+TIME APART       MODIFIER SUCCESS                                           FAILURE
+Under 1 hour         +30      Seamless ego with memories intact from both   Memories intact, (1d10 ÷ 2, round down) – 1 SV
+1–4 hours            +20      Solid bond, memories intact                   Memories intact, (1d10 ÷ 2, round down) SV
+4–12 hours           +10      Memories intact, 1 SV                         Minor memory loss, (1d10 ÷ 2, round up) SV
+12 hours–1 day       +0       Memories intact, 2 SV                         Moderate memory loss, (1d10 ÷ 2, round up) + 2 SV
+1 day–3 days         –10      Memories intact, 3 SV                         Major memory loss, 1d10 + 2 SV
+3 days–1 week        –20      Memories intact, 4 SV                         Major memory loss, 1d10 + 4 SV
+1 week+              –30      Minor memory loss, 5 SV                       Severe memory loss, 1d10 + 6 SV

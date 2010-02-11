@@ -1,0 +1,133 @@
+ARGONAUT XENOAR
+           APTITU      COG     COO       INT    REF    SAV       SOM
+             Base       20      15        20     15     10        15
+      Morph Bonus       5                 5              5        5
+             Total      25       15       25     15     15        20
+
+
+
+
+      MOX       TT     LUC       IR      WT     DUR    DR
+                                                                 ST
+                                                              INIT
+       3         6      30       60       7      35    53    70 (80
+
+
+
+                                                             SKI
+                                                         MORPH
+                                         APT    BASE     BONUS
+       Academics: Astrobiology           COG     60        5
+          Academics: Chemistry           COG     40        5
+        Academics: Engineering           COG     50        5
+            Academics: Geology           COG     55        5
+            Academics: Physics           COG     50        5
+    Academics: Xenoarcheology            COG     70        5
+                Art: Architecture        INT     45        5
+                 Beam Weapons            COO     35
+                          Climbing       SOM     35          5
+                      Demolitions        COG     45          5
+                              Fray       REF     45
+                          Free Fall      REF     25
+          Interests: Alien Relics        COG     45          5
+       Interests: Pandora Gates          COG     55          5
+                       Interfacing       COG     20          5
+                    Investigation        INT     65          5
+                          Kinesics       SAV     30          5
+       Language: Native French           INT     90          5
+              Language: English          INT     40          5
+       Networking: Autonomists           SAV     30          5
+            Networking: Firewall         SAV     30          5
+        Networking: Hypercorps           SAV     30          5
+         Networking: Scientists          SAV     50          5
+                       Perception        INT     40          5
+                    Pilot: Aircraft      REF     35
+               Pilot: Groundcraft        REF     50
+         Profession: Excavation          COG     50          5
+           Profession: Forensics         COG     55          5
+          Profession: Surveying          COG     40          5
+                          Protocol       SAV     40          5
+                         Research        COG     55          5
+                             Sense       INT     60          5
+
+You are convinced that something          treasure hunter, and s
+strange is going on in the galaxy.        you have the skills and tr
+Despite the Factors and signs of          decode the evidence and
+dead alien civilizations like the         left behind by unknown
+Iktomi, the sheer mathematical            and life forms. You are
+odds insist that there should be          expert for gatecrashing
+more life in the galaxy. So where         tions, but you avoid wo
+is it? Your goal is to ﬁnd out, and in    hypercorps because you
+pursuit of this you study the relics      like other argonauts, that
+left behind on various exoplanets.        coveries made should be
+Equal parts conspiracy theorist,          to all. ■
+                                      “I’ve got a bad feeling abou
+                                           recovered from the ruin
+CHEOLOGIST
+ES
+WIL
+15
+
+15
+
+
+
+TS
+ PD
+ 1
+
+
+
+LS
+TAL
+5
+5
+5
+0
+5
+5
+0
+5
+0
+0
+5
+5
+0
+0
+5
+ 80)
+5
+5
+5
+5
+5
+5          Background: Original Space Colonist
+5          Faction: Argonaut
+           Morph: Exalt
+ 55)
+           Motivations: +Exploration +Research (Alien Civiliza
+5                        +Techno-Progressivism
+0          TRAITS                               EQUIPMENT
+5          Ego: Enemy (Rival Xenoarche-         Armor: Vacsu
+0             ologist), Mental Disorder           Smartfabri
+5             (Impulse Control), Mental         Primary Wea
+              Disorder (Insomnia), Morphing     Starting Cred
+5
+              Disorder, Psi (Level 2) ■         Implants: Ba
+0                                                 Mesh Inse
+5          SLEIGHTS                               Echo Loca
+           Psi-Chi: Ambience Sense, Grok,         Mnemonic
+ntist,        Pattern Recognition ■             Gear: Backup
+ng to      Psi-Gamma: Omni Awareness,             (1 month),
+facts         Static, Thought Browse ■            Nanoswar
+ ities                                            Nanoswar
+ lued      REP                                    Forensics
+pedi-      @-rep: 40                              Mobile Lab
+g for      c-rep:     40                          Servitor Bo
+ieve,      e-rep:     20                          Smart Dus
+  dis-     i-rep:     40                          Container,
+lable      r-rep:     60
+
+
+s. These tools are very similar to the ones we
+n that binary system exoplanet last year.”

@@ -1,0 +1,120 @@
+fatigue. Finally, the ability to regulate pain reception
+allows the character to ignore the –10 modifier from
+1 wound. [High]
+   Enhanced Pheromones: The morph’s biochemistry
+has been altered so that it produces enhanced phero-
+monal signals that subconsciously affect the behavior
+of other humans in the vicinity. These pheromones
+make the character more attractive and trustworthy to
+the target; apply a +10 modifier to appropriate Social
+skill tests, such as Persuasion. This augmentation only
+affects characters who can smell the pheromones, and
+it does not affect uplifts or xenomorphs. [Low]
+   Enhanced Respiration: By boosting both lung ef-
+ficiency and the blood’s oxygen-carrying capacity, the
+character can live comfortably in both high and low
+pressure environments, from 0.2 atmospheres to 5
+atmospheres, with no dizziness or need for gradual
+decompression. In addition, the character can hold
+their breath for up to 30 minutes when performing
+minimal activity or for up to 10 minutes while per-
+forming highly strenuous activity. [Low]
+   Gills: The morph’s lung tissue has been adapted to
+function as gills, allowing the morph to breathe both
+air and water, as long as the water is not toxic or too
+stagnant. Characters with this augmentation breathe
+in water and then expel the water through slits just
+underneath their lowest pair of ribs that seal when the
+character is not underwater. [Low]
+   Grip Pads: The morph possesses specialized pads
+on its palms, lower arms, shins, and the bottoms of
+its feet. Designed to emulate the pads on gecko feet,
+characters can support themselves on a wall or ceiling
+by placing any two of these pads against any surface
+not made from a material specially designed to resist
+this augmentation. Characters can climb any surface
+and move easily across ceilings that can support their
+weight. Apply a +30 modifier to Climbing Tests. The
+pads must be free to touch the surface the character is
+climbing (no gloves). The nature of these pads is obvi-
+ous to anyone looking at them, but they do not impair
+the character’s sense of touch or manual dexterity. If
+combined with the vacuum sealing augmentation, the
+character can even stick to surfaces in the vacuum of
+space. [Low]
+   Hibernation: The character can voluntarily reduce
+the morph’s metabolism to the point that the morph
+requires only 5% of the normal amount of food,
+water, and air. The character appears to sink into a
+deep sleep, but can maintain a dim awareness of both
+touch and sound and so can be easily awakened. En-
+tering or leaving this state requires 3 minutes where
+the character is relatively helpless. With sufficient
+air, characters can safely hibernate for up to 40 days
+without food or water. [Low]
+   Muscle Augmentation: The morph’s muscle mass
+has been enhanced and toned and myofibers strength-
+ened. Apply a +5 modifier to SOM. [High]
+   Neurachem: This bioware modification enhances
+the character’s chemical synapses and juices their
+neurotransmitters, drastically speeding up neural
+connections. Neurachem can be mentally activated or
+triggered by charged emotions. Level 1 neurachem in-
+creases the character’s Speed stat by +1, with no side
+effect. Level 2 raises the Speed stat by +2, but each
+time it is used the character suffers a nervous system
+fatigue hangover for 1 hour after the boost wears off
+(apply a –20 modifier to all actions). [High (Level 1),
+Expensive (Level 2)]
+   Poison Gland: Similar to the drug gland, this
+morph has special glands that produce poisons,
+like the venom glands of a snake. The morph has
+poison glands in its fingers and mouth, so that it can
+deliver either poison by scratching someone with a
+fingernail, biting them hard enough to draw blood,
+or even by sharing a beverage with someone or spit-
+ting into their drink. The morph is immune to the
+poisons it produces. These glands may not produce
+nanotoxins. [Low]
+   Prehensile Feet: The morph’s feet and leg joints are
+altered so that its toes are longer and more dexter-
+ous and the big toe is transformed into an opposable
+thumb. Physically, the morph’s feet resemble a longer
+narrower hand or a human foot with finger (and
+thumb)-like toes. The character can walk normally
+but must wear specially designed shoes. However, this
+morph runs somewhat slower than a morph with un-
+modified feet (–1 meter per Action Turn). In addition,
+the morph’s hips are slightly modified to allow greater
+mobility. In a properly constructed chair, or when
+floating in zero-G, the character can use both their
+hands and their feet to manipulate the same object.
+Most morphs used by characters who live in zero-G
+possess this augmentation. [Low]
+   Prehensile Tail: A long (1.5 meters) prehensile tail
+is added to the morph’s backside, extending out from
+the tailbone. This tail is prehensile and may be used to
+grab, hold, and even manipulate objects. The character
+can control the tail’s movements with concentration,
+but it otherwise tends to move on its own. The tail
+also improves the character’s balance; apply a +10 to
+any Physical skill tests where balance is a factor. [Low]
+   Sex Switch: A complex suite of alterations allows
+the character to switch their physical sex to male,
+female, hermaphrodite, or neuter. This change is
+mentally triggered but takes approximately 1 week to
+complete. [Moderate]
+   Skin Pocket: The morph has a pocket within its skin
+layer, capable of holding and providing concealment
+(+30) for small items. [Trivial]
+   Temperature Tolerance: The morph’s temperature
+regulation and circulation are both substantially en-
+hanced allowing the character to survive in tempera-
+tures as low as –30 degrees Celsius and as high as 60
+degrees Celsius without discomfort or ill effects. [Low]
+   Toxin Filters: The morph gains an improved liver
+and kidneys and biological filters in its lungs. Charac-
+ters with this augmentation are immune to all chemi-
+cal and biological toxins, including everything from
+recreational chemicals to nerve agents to spoiled food.
+In addition, the character can safely and comfortably

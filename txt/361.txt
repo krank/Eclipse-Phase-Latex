@@ -1,0 +1,112 @@
+CLIQUES
+Though Firewall proxies follow stringent guidelines
+to ensure the organization is not subverted from
+within or turned into a powerful organization
+under the thumb of a few individuals with their
+own personal agendas, the nature of transhuman-
+ity ensures that various factions and tendencies
+exist within the group. Termed cliques, these
+circles of inﬂuence sometimes create ripples in the
+pool that all Firewall personnel must eventually
+deal with. Some of these cliques are grounded in
+transhumanity’s existing factions, while others are
+rooted in philosophical differences regarding the
+approach Firewall should be taking. Gamemasters
+can use these cliques to ﬂesh out internal tensions
+within Firewall or to simply throw some curve balls
+to keep players on their toes.
+Backups: The backup clique believes that tran-
+  shumanity’s best chance for survival is to
+  deploy numerous redundant backup measures
+  as soon as possible. These include creating as
+  many extrasolar colonies as possible, both via
+  Pandora Gates and through more traditional
+  means, such as ark ships and infomorph/nano-
+  fabricator seed ships.
+Conservatives: This clique takes an overcau-
+ tious, nuke-it-from-orbit approach to most
+ x-risks. They believed excessive force is justi-
+ ﬁed, and it’s far better to be safe than extinct.
+ This clique is also opposed to the use of alien/
+ TITAN artifacts and psi, and tends to be xeno-
+ phobic/isolationist regarding the Factors and
+ Pandora Gates.
+Mavericks: The mavericks disdain Firewall’s col-
+ lective and bureaucratic tendencies, taking a
+ more individualistic approach to their work.
+ They are known to sometimes circumvent
+ Firewall procedures, taking risks and allocat-
+ ing resources without approval from other
+ proxies.
+Pragmatists: The pragmatists believe in using
+ any and all tools at their disposal to counter
+ existential risks. They are in favor of using
+ xeno-artifacts, asyncs, and anything else that
+ will save transhumanity.
+Structuralists: This clique advocates for a stron-
+  ger structure and centralized authority within
+  Firewall, countering the group’s autonomist-
+  dominated tendencies. Many also advocate
+ for going legitimate, taking Firewall into
+ the public eye and making above-board con-
+  nections with other ofﬁcial organizations,
+  arguing that this could bring more resources
+ to Firewall’s disposal.                        ■
+they were there and to place the blame for the inci-
+dent squarely on the shoulders of some other party.
+If necessary, erasure squads can also be called in to
+fix a sentinel op that has turned into a clusterfuck or
+otherwise gone south. They are very careful to avoid
+exposure in such situations, however, which some-
+times merely means eliminating all traces of Firewall
+involvement and letting the sentinels take the fall for
+their poor choices.
+   Routers: Routers are mission coordinators. They
+work closely with scanners and crows, activating the
+appropriate sentinels whenever a new danger rears up.
+Each router has the authority to measure the threat
+and activate an appropriate number of sentinels—
+whatever is required to accomplish the mission in
+the least intrusive manner possible. They are also
+authorized to divert Firewall resources to aid these
+missions, within appropriate parameters. Routers are
+held responsible for the ultimate success of a mis-
+sion. A failed mission will result in a reviewing board
+staffed by their peers.
+   Scanners: Tasked with keeping alert for any sign of
+new active threats, scanners are the eyes and ears of
+Firewall. The scanners maintain a close eye on news-
+feeds and mesh traffic, even maintaining taps inside
+certain government and hypercorp communication
+channels. If a danger is detected, it is under their au-
+thority, through routers, that sentinels are activated.
+Due to the power inherent in a scanners’ post, they
+are held accountable for false activations.
+   Social Engineers: Knick-named the Ministry of
+Disinformation, social engineers provide the scape-
+goating and plausible deniability that is required by
+Firewall and its sentinels. If a sentinel compromises
+their position and endangers the organization, social
+engineers step in to cover cracks in the facade. They
+work intrinsically with erasure squads when one is
+activated to ensure the over-the-top steps taken to
+eliminate a threat are well concealed and ultimately
+erased. The power wielded by social engineers can be
+significant, as it ultimately decides (usually through
+e-voting consensus, though time does not always
+allow such a luxury) what organization—political,
+corporate, independent, etc.—will take the blame and
+subsequent fallout for erasure squad actions.
+   Vectors: Vectors are Firewall’s communications se-
+curity and digital intrusion specialists—in other words,
+hackers. In addition to defending the mesh security
+of all Firewall operations, vectors are also deployed
+to aid in crow research, scanner monitoring, and to
+eliminate the trail of erasure squads. Vectors also
+assist routers in maintaining communications, com-
+mand, and control of a situation, and are sometimes
+called in to provide overwatch of sentinel operations,
+especially if a particular sentinel squad lacks their
+own hacking resources. Needless to say, vectors are
+supplied with some of the best intrusion and security
+tools transhumanity has to offer.

@@ -1,0 +1,66 @@
+TERMINOLOGY                                                           ■ Biomorph: A biological body, whether a ﬂat, splicer,
+Eclipse Phase uses a host of jargon to simply convey                    genetically engineered transhuman, or pod.
+the numerous concepts covered within the pages of                     ■ Body Bank: A service for leasing, selling, acquiring, or
+this book. While not all-inclusive, this list of terminol-              storing a morph. Aka dollhouse, morgue.
+ogy will allow players to quickly acclimate themselves                ■ Bots: Robots. AI-piloted synthetic shells.
+for their journey into Eclipse Phase. If you read some-
+                                                                      ■ Bracewell Probe: A type of autonomous monitoring deep-
+thing and are confused, don’t worry. These concepts
+                                                                        space probe meant to make contact with alien civilizations.
+are fully explained in later sections of this book.
+  Note that several of the words on this list are                     ■ Brinkers: Exiles who live on the fringes of the system,
+standard scientific terms, often used in astronomy. As                  as well as other isolated and well-hidden nooks and
+Eclipse Phase attempts to remain as close to “hard sci-                 crannies. Also called isolates, fringers, drifters.
+ence” as possible—while allowing players to interact                  ■ Case: A cheap, common, mass-produced synthetic shell.
+with the great stories waiting to unfold—such terms                   ■ Chimeric: Transgenic, containing genetic traits from
+are used liberally.                                                     other species.
+                                                                      ■ Circumjovian: Orbiting Jupiter.
+■ Aerostat: A habitat designed to ﬂoat like a balloon in a            ■ Circumlunar: Orbiting the Moon.
+  planet’s upper atmosphere.
+                                                                      ■ Circumsolar: Orbiting the Sun.
+■ AF: After the Fall (used for reference dating).
+                                                                      ■ Cislunar: Between the Earth and the Moon.
+■ AGI: Artiﬁcial General Intelligence. An AI that has cogni-
+                                                                      ■ Clade: A species or group of organisms with common
+  tive faculties comparable to that of a human or higher.
+                                                                        features. Used to refer to transhuman subspecies and
+  Also known as “strong AI” (differentiating from more
+                                                                        morph types.
+  specialized “weak AI”). See also “seed AI.”
+                                                                      ■ Cole Bubble: A habitat made from a hollowed-out
+■ AI: Artiﬁcial Intelligence. Generally used to refer to weak
+                                                                        asteroid or moon, spun for gravity.
+  AIs; i.e., AIs that do not encompass (or in some cases, are
+  completely outside of) the full range of human cognitive            ■ Cornucopia Machine: A general-purpose nanofabricator.
+  abilities. AIs differ from AGIs in that they are usually            ■ Cortical Stack: An implanted memory cell used for ego
+  specialized and/or intentionally crippled/limited.                    backup. Located where the spine meets the skull; can be
+■ Anarchist: Someone who believes government is                         cut out.
+  unnecessary, that power corrupts, and that people should            ■ Cyberbrain: An artiﬁcial brain, housing an ego. Used in
+  control their own lives through self-organized individual             both synthmorphs and pods.
+  and collective action.                                              ■ Darkcast: Illegal and black market farcasting and
+■ Arachnoid: A spider-like robotic synthmorph.                          egocasting services.
+■ Argonauts: A faction of techno-progressive scientists               ■ Domain Rules: The rules that govern the reality of a
+  that promote responsible and ethical use of technology.               virtual reality simulspace.
+■ AR: Augmented Reality. Information from the mesh (uni-              ■ Drone: A robot controlled through teleoperation (rather
+  versal data network) that is overlaid on your real-world              than directly via onboard AI).
+  senses. AR data is usually entoptic (visual), but can also          ■ Ecto: Personal mesh devices that are ﬂexible, stretchable,
+  be audio, tactile, olfactory, kinesthetic (body awareness),           self-cleaning, translucent, and solar-powered. From
+  emotional, or other types of input.                                   ecto-link (external link).
+■ Async: A person with psi abilities.                                 ■ Ego: The part of you that switches from body to body.
+■ AU: Astronomical unit. The distance between the Earth                Also known as ghost, soul, essence, spirit, persona.
+  and the Sun, equal to 8.3 light minutes, or about 150               ■ Egocasting: Term for sending egos via farcasting.
+  million kilometers.                                                 ■ Entoptics: Augmented-reality images that you “see” in
+■ Autonomists: The alliance of anarchists, Barsoomians,                 your head. (“Entoptic” means “within the eye.”)
+  Extropians, scum, and Titanians.                                    ■ ETI: Extraterrestial intelligence. The term Firewall uses
+■ Barsoomian: A rural Martian, typically resentful of                   to refer to the god-like post-singularity alien intelligence
+  hypercorp control.                                                    theorized to be responsible for the Exsurgent virus.
+■ Basilisk Hack: An image or other sensory input that                 ■ Exalts: Genetically-enhanced humans (between gen-
+  affects the brain’s visual cortex and pattern recognition             eﬁxed and transhumans). Aka genefreaks, the ascended,
+  abilities in such a way as to cause a glitch and possibly             the elevated.
+  exploit it and rewrite neural code.                                 ■ Exoplanet: A planet in another solar system.
+■ Beehive: A microgravity habitat made from a tunneled-               ■ Exsurgent: Someone infected by the Exsurgent virus.
+  out asteroid or moon.                                               ■ Exsurgent Virus: The multi-vector virus created by
+■ BF: Before the Fall (used for reference dating).                      an unknown ETI and seeded throughout the galaxy in
+■ Bioconservative: An anti-technology movement that argues              Bracewell probes. The Exsurgent virus is self-morphing and
+  for strict regulation of nanofabrication, AI, uploading, forking,     can infect both computer systems and biological creatures.
+  cognitive enhancements, and other disruptive technologies.          ■ Extrasolar: Outside the solar system.

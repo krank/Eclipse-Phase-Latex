@@ -1,0 +1,142 @@
+MERCURIAL INVES
+           APTITU     COG     COO      INT     REF    SAV     SOM
+            Base       20      10       15      15     20      5
+     Morph Bonus
+            Total      20      10       15      15     20       5
+
+
+
+
+      MOX      TT     LUC      IR      WT      DUR    DR
+                                                             ST
+                                                             INIT
+       4        8      40      80      —        —     —       60
+
+
+
+                                                            SKI
+                                                        MORPH
+                                      APT      BASE     BONUS
+     Academics: Anthropology          COG       60
+ Academics: Computer Science          COG       60
+            Academics: Physics        COG       50
+                  Art: Digital Art    INT       50
+                       Deception      SAV       40
+                              Fray    REF       35
+                         Free Fall    REF       30
+                         Gunnery      INT       50
+                  Impersonation       SAV       45
+                       Inﬁltration    COO       50
+                          Infosec     COG       60
+        Interests: Crime Groups       COG       60
+      Interests: Cultural Trends      COG       45
+                      Interfacing     COG       50
+                   Investigation      INT       60
+                         Kinesics     SAV       50
+      Language: Native English        INT       90
+          Networking: Criminals       SAV       50
+           Networking: Firewall       SAV       40
+       Networking: Hypercorps         SAV       40
+                      Perception      INT       45
+                   Pilot: Aircraft    REF       55
+               Pilot: Anthroform      REF       55
+              Pilot: Groundcraft      REF       30
+          Profession: Forensics       COG       60
+ Profession: Police Procedures        COG       50
+  Profession: Security Systems        COG       45
+                   Programming        COG       60
+                        Research      COG       60
+
+
+
+
+You are a digital life form, coded      at sifting, sorting, and co
+to be “friendly” and molded with        this data, in fact, selling
+transhuman mindsets and world           vices as a mesh-based in
+views. You resent the backlash          tor. For most of your inq
+against AGIs and criticize resur-       physical form isn’t nece
+gent human tendencies towards           you acquire data on th
+technophobia and xenophobia             cal world through senso
+as harmful to the emerging tran-        physical interaction i
+shuman society. You immerse             for, however, you can
+yourself fully in transhuman cul-       or jam a bot or catch a
+ture and the data it produces,          ghostrider module or, a
+bathing in its richness. You excel      resort, in a meat puppet.
+
+                                     “Oh this is great, I think I f
+TIGATOR
+ ES
+WIL
+20
+
+ 20
+
+
+
+TS
+ PD
+ (3)
+
+
+
+LS
+TAL
+0
+0
+0
+0
+0
+5
+0
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+5
+5
+5
+0
+0
+0           Background: Infolife
+5           Faction: Mercurial
+0           Morph: Infomorph
+            Motivations: +AGI Rights +Personal Development +
+0
+
+            TRAITS                                   Gear: AR Illus
+            Ego: Real World Naiveté, Social            Backup In
+              Stigma (AGI) ■                           Covert Ops
+ating
+                                                       Exploit Sof
+  ser-
+            REP                                        age Recog
+ tiga-
+            c-rep:    20                               2 Gnat Bot
+es, a
+            g-rep:    10                               Holograph
+ y, as
+            i-rep:    20                               Narcoalgo
+hysi-
+                                                       Scout Nan
+When
+            EQUIPMENT                                  tor Bot, Sm
+alled
+            Armor: None [0/0] ■                        Software,
+ rate
+            Primary Weapon: None ■                     Software,
+  in a
+            Starting Credit: 250 ■                     Software,
+  last
+                                                       5 XP Clips
+
+
+ d it! What is a ‘red light district?’ Oh, I see.”

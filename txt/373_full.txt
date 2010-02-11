@@ -1,0 +1,62 @@
+EXSURGENT PSI                                                   and disturbing that they inflict 1d10 + (WIL ÷ 10,
+In addition to psi-chi and psi-gamma (see Psi, p. 220),         round up) mental stress. Increase the stress by +5 if an
+exsurgents have access to a third level of psi ability          Excellent Success is scored.
+(the Psi trait at Level 3), known as psi-epsilon. Psi-
+epsilon is theorized to allow a level of interaction with       SCENARIO
+the underlying physics of reality that is beyond the               PSI TYPE:    Active       ACTION:     Complex
+comprehension of transhuman science. Though some
+Firewall scientists have speculated about the ma-                  RANGE:       Touch        DURATION:   Sustained
+nipulation of dark energy or the Higgs field and Higgs              STRAIN MOD: +2            SKILL:    Control
+boson particles and similar exotic ideas, the truth is          This sleight hijacks the target’s sensorium, replacing
+that psi epsilon represents an understanding of science         it with a virtual scenario controlled by the exsurgent.
+so far advanced and so alien that transhumanity can             The effect is much like being jacked into a simulspace
+only guess at its mechanics.                                    scenario, albeit against the target’s will. While the
+                                                                exsurgent cannot harm the target in the scenario, they
+EXSURGENT SYNTHMORPHS AND PSI                                   can learn something about the person’s behavioral
+Exsurgents in synthetic morphs that were transformed            responses to certain situations. While under the in-
+via nanoplague may use psi, despite lacking a biologi-          fluence of this sleight, the target is cut off from their
+cal brain. Through some unknown mechanism, the                  physical senses (–60 to any Perception Tests), but they
+infecting nanobots are able to simulate a biological            may flail about and otherwise respond physically to
+brain’s effects. This feature, however, also makes them         events in the scenario, which may cause them to hurt
+vulnerable to psi use by others.                                themselves and will make them seem crazy to onlook-
+                                                                ers. Targets may attempt to ignore the scenario and
+EXSURGENT PSI STRAIN                                            concentrate on the real world, but this requires a WIL
+Exsurgents with Level 3 psi (psi-gamma) do not suffer           Test each Action Turn and they suffer a –30 modifier
+strain when using psi. Instead, they draw requisite             from disorientation even if they succeed.
+energy from the environment around them. In game
+terms, this means that gamemasters do not need to               STRIP MEMORY/SKILL
+worry about rolling strain for exsurgent sleights. On a
+                                                                   PSI TYPE:    Active       ACTION:     Complex
+cinematic level, it also allows the gamemaster to add cre-
+ative environmental details to exsurgent psi use: sucking          RANGE:       Touch        DURATION:   Temp (Hours)
+the warmth out of the air, killing the lights, withering            STRAIN MOD:     +2        SKILL:    Psi Assault
+plants, draining power from nearby electronics, killing         Strip allows the exsurgent to suppress certain memo-
+small creatures or insects, lowering air pressure, etc.         ries in the target’s mind. This can be used to block
+                                                                memories of certain events or even the victim’s iden-
+EXSURGENT PSI-GAMMA SLEIGHTS                                    tity. The process is not exact, however, and so the
+These sleights are available to exsurgents with the             memories may not be fully suppressed and/or related
+Level 2 Psi trait.                                              memories may also be blocked; the gamemaster de-
+                                                                cides on the effect as determined by the MoS. Strip can
+DECEREBRATION                                                   also be used to temporarily erase a specific skill from
+   PSI TYPE:    Active        ACTION:     Complex               the target’s mind, preventing them from using or even
+                                                                defaulting to that ability while so affected.
+   RANGE:       Touch         DURATION:   Temp (Action Turns)
+    STRAIN MOD: +2            SKILL:    Psi Assault             EXSURGENT PSI-EPSILON SLEIGHTS
+This sleight temporarily “shorts out” a portion of the          Psi-epsilon is available to exsurgents with the Psi trait
+subject’s brain stem. The victim’s cerebral functions           at Level 3. This subset of psi involves abilities that can
+and motor activity become severely impaired; apply              affect the underlying physical nature of the universe,
+a –30 modifier to all actions. If an Excellent Suc-             creating localized reality-altering effects. Psi manipu-
+cess is scored, the target effectively loses all cerebral       lation on this level is extremely dangerous and should
+functioning, including vision, hearing, other sensory           have the potential of disastrous consequences, given
+functions, and mesh use. Their muscles and limbs also           that these manipulations violate fundamental laws of
+tense and become rigid, essentially paralyzing them in          nature and sometimes create paradoxes between the
+what looks like an agonized state.                              forces that glue the universe together. Gamemasters
+                                                                are also encouraged to treat critical failures as appro-
+ONSLAUGHT                                                       priately critical.
+   PSI TYPE:    Active        ACTION:     Complex                  Given these factors, psi-epsilon should only be
+                                                                accessible to powerful adversaries and used as a
+   RANGE:       Touch         DURATION:   Temp (Action Turns)
+                                                                gamemaster tool with extreme precaution. The exact
+   STRAIN MOD: +0            SKILL:   Psi Assault               mechanics of psi-epsilon sleights are left wide-open,
+  This offensive sleight floods the target’s mind with          however, for whatever use the gamemaster can
+sensory input and thought processes that are so alien

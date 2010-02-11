@@ -1,0 +1,133 @@
+PAYING/EXCHANGING FOR FAVORS
+Favors don’t necessarily come for free. Depending on
+what you’re after, you may also need to exchange for it.
+  In the capitalist and transitional economies of the
+inner system and Jovian Junta, you may need to buy
+the goods or services you are after with credit. Even in-
+formation might be paid for by bribing the right person.
+Once spent, that credit is gone until you earn more.
+  In the anarchistic reputation economies of the outer
+system, you can get what you need for free. In this
+case, you are acquiring goods and services based on
+the strength of your reputation.
+
+
+           Jaqui rolls a 39—she makes it! After posting some
+           public notices on the scum social network (she’s
+           not worried about legalities or hiding what she’s
+ EXAMPLE
+
+
+
+
+           doing—this is a scum ship after all), she gets di-
+           rected to a weapons dealer with a good rep. While
+           a scum arms merchant normally sells their wares
+           for credit, Jaqui is scum herself, so she’s able to use
+           her scum community standing and get the weapon
+           for free. This uses up a High favor, however.
+
+
+THE LIMITS OF REPUTATION
+Even in the gift economies, reputation only gets you so
+far. There are limits to how often you can ask for help
+before you start coming across as pushy or a leech. In
+game terms, this is expressed as a refresh rate—the
+amount of time you must wait to pass before you can
+seek out a favor of that level again without seeming
+demanding. Refresh rates are noted on the Favors
+table (p. 289).
+   If you need to seek another favor before the refresh
+rate has expired, you have two choices. You can
+expend a higher level favor instead, keeping in mind
+that higher level favors refresh more slowly. Alterna-
+tively, you can burn reputation (see below).
+
+
+           Now that Jaqui’s got her weapon, she needs
+           another favor—she needs to ﬁnd someone who
+           doesn’t want to be found. The person she’s after is
+           scum, so once again she turns to the scum for help.
+           The gamemaster decides that this is another Level
+           4 favor (see Acquire Information, p. 291). Once
+           again, with her Networking: Autonomist of 50 and
+           Level 3 rep, she must roll a 40 or less. She gets a
+ EXAMPLE
+
+
+
+
+           21, and ﬁnds someone who has the information
+           she needs.
+              Jaqui now has a choice. To get this information,
+           she either needs to pay the person in credits (a
+           High cost) or she she needs to expend another
+           Level 4 favor. She’s low on money, so she decides
+           to use her rep again. Level 4 favors only refresh
+           once a month, though, and Jaqui used her last one
+           just a few hours ago. Her only choice is to expend
+           a higher favor, so she expends a Level 5 to get the
+           intel she needs.
+BURNING REPUTATION
+In some cases, getting what you need may be more
+important than not stepping on people’s tentacles. In
+situations of dire need, you can burn some of your
+Rep score to get the job done, meaning that you ex-
+change a loss of Rep for a shot at a favor. This reflects
+that you are pushing the bounds of how far people are
+willing to go for you. While you still might get what
+you need, your online reputation rating takes a hit as
+people flag you for being needy.
+   There are two reasons to burn Rep score. The first
+is to get a bonus on your Networking Test. This indi-
+cates that you are pulling strings and calling in mark-
+ers to get the favor you’re after. This is particularly
+useful when you are trying to obtain a favor that’s of
+a level higher than your Rep, but abuse it too often
+and you will soon have no social standing at all. Every
+point of Rep you burn gives you an equivalent posi-
+tive modifier on the Networking Test, up to a maxi-
+mum of +30.
+   The second option is to burn Rep to seek a favor
+before it has refreshed. This reflects that you are asking
+for too much in a short period. The amount of Rep
+you must burn in this case depends on the level of favor
+you are seeking, as noted on the Favors table (p. 289).
+
+
+  Jaqui’s got her weapon and her target’s where-
+  abouts, but she needs one more thing: a hacker.
+  She needs someone who can open some doors
+  and defeat some security systems so she can get
+  to the target she’s after in his hideout. Since she’s
+  on a scum barge, Jaqui feels that, once again, her
+  best option is to work her scum contacts. The
+  gamemaster determines that this will be another
+  Level 4 favor. Rolling against a target number of
+                                                          EXAMPLE
+
+
+
+
+  40 again, she gets a 13—her luck is holding.
+     She ﬁnds a hacker, but now she needs to make
+  an exchange for their services. Once again she
+  decides not to spend credit and use her @-rep
+  instead. Jaqui’s already used up both her Level 4
+  and Level 5 @-rep favors, though, so she has no
+  choice but to burn reputation. A Level 4 favor costs
+  10 Rep to burn. Jaqui spends it, sending her @-rep
+  from 53 to 43—she’s been pulling in a lot of big
+  favors in a short amount of time, and her friends
+  and acquaintances are expressing their annoyance
+  by lowering her social standing.
+
+
+KEEPING QUIET
+The problem with using social networks for favors is
+that you end up letting lots of other people know what
+you’re up to. When you’re involved in a clandestine
+operation, that could be exactly what you don’t want.
+The only way to diminish this is to take your requests
+to trusted friends and ask them to keep quiet, but this
+diminishes the pool of people at your disposal.

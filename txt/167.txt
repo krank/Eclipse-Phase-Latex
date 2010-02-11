@@ -1,0 +1,127 @@
+SCUM ENFORCER
+          APTITU      COG     COO       INT   REF    SAV        SOM
+            Base       10      20        15    20     10         20
+     Morph Bonus               5        5      5                 10
+            Total      10      25       20     25     10         30
+
+
+
+
+      MOX      TT      LUC      IR       WT DUR      DR
+                                                               ST
+                                                            INIT
+       5      4 (6)   20 (30) 40 (60)    10  50      75    70 (90
+
+
+
+                                                           SKI
+                                                       MORPH
+                                     APT      BASE     BONUS
+        Academics: Linguistics       COG       50
+                       Art: Dance    INT       55          5
+                 Beam Weapons        COO       40          5
+                           Blades    SOM       60          10
+                         Climbing    SOM       40          10
+                             Clubs   SOM       50          10
+                              Fray   REF       70          5
+                         Free Fall   REF       60          5
+             Hardware: Armorer       COG       40
+                       Inﬁltration   COO       50          5
+        Interests: Drug Dealers      COG       50
+             Interests: Gambling     COG       40
+         Interests: Scum Gangs       COG       50
+         Interests: Triad Politics   COG       50
+                     Intimidation    SAV       60
+                         Kinesics    SAV       40
+                Kinetic Weapons      COO       60          5
+     Language: Native Spanish        INT       80          5
+          Language: Cantonese        INT       55          5
+      Networking: Autonomists        SAV       50
+          Networking: Criminals      SAV       50
+                      Perception     INT       45          5
+                      Persuasion     SAV       20
+      Profession: Bodyguarding       COG       40
+ Profession: Protection Rackets      COG       50
+       Profession: Security Ops      COG       50
+                      Scrounging     INT       25          5
+               Unarmed Combat        SOM       60          10
+
+
+
+
+Those jokers in the inner               the universe end. Rig
+system just don’t get it—the            you get your kicks with
+future is about taking life by the      either the violent or kink
+enhanced reproductive organs            sometimes both. You th
+and squeezing every juicy drop          tough chick who will sm
+out. You live the life you want to      hell out of anyone who
+live, doing whatever you like to        ens your friends or
+your bodies and mind, and you           during the day, but the
+plan to enjoy the hell out of it        is taking home a differe
+until maybe you get to watch            ner every night. ■
+                                               “Oi! Pretty boy!
+                                              then you’re never
+ES
+WIL
+10
+ 5
+15
+
+
+
+TS
+ PD
+ (2)
+
+
+
+LS
+TAL
+0
+0
+5
+0
+0
+0
+5
+5
+0
+5
+0
+0
+0
+0
+0
+0
+5
+5
+0
+0
+0
+0
+0
+0
+0
+           Background: Scumborn
+0          Faction: Scum
+0          Morph: Fury
+0          Motivations: +Adventure +Hedonism +Morphologic
+
+           TRAITS                             Implants: Ba
+           Ego: Minor Addiction (Alcohol) ■     Mesh Inse
+                                                Armor (Lig
+           REP                                  Cyberclaw
+           @-rep:   60                          Medichine
+now,       c-rep:   40                          (Level 1), T
+tion,                                         Gear: Backup
+nd—        EQUIPMENT                            (1 month),
+ as a      Armor: Bioweave Armor (Light)        (2 doses),
+k the        + Body Armor (Heavy) with          100 rounds
+ eat-        Offensive Armor and Shock          Monoﬁlam
+ents         Proof mods [15/16] ■               Nanoband
+l fun      Primary Weapon: Kinetic Pistol       Gloves, Ta
+part-        (100 rounds regular ammo) ■        Software,
+           Starting Credit: 1,000 ■
+
+ at’s the best punch you can throw,
+nna get to see the rest of my mods!”

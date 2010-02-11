@@ -1,0 +1,60 @@
+transparency in modern society, some entities actively
+engage in disinformation spreading in order to clut-
+ter the mesh with enough falsehoods that the truth is
+hidden. Two factors help to combat this, the first being
+that data sources themselves have their own reputation
+scores, so that untrustworthy or disreputable sources
+can be identified and ranked lower in search results.
+Second, many archives take advantage of crowdsourc-
+ing—that is, harnessing the collaborative power of
+mesh users (and their muses) everywhere—to verify
+data integrity so that these sites are dynamic and
+self-correcting.
+
+HANDLING SEARCHES
+Online research is often a crucial element of Eclipse
+Phase scenarios, as characters take to the mesh to
+research backgrounds and uncover clues. The follow-
+ing suggestions present a method of handling research
+that does not rely solely on dice rolls and integrates it
+with the flow of the plot.
+   First, common and inconsequential information
+should be immediately available without requiring
+a roll at all. Most characters rely on their muses to
+handle searches for them, passing on the results while
+the character focuses on other things.
+   For searches that are more detailed, difficult, or
+central to the plot, a Research Test should be called
+for (made either by the character or their muse).
+This test indicates the process of finding links to
+and/or accumulating all data that may in fact be
+relevant to the search topic. This test should be
+modified as appropriate to the obscurity of the topic,
+ranging from +30 for common and public topics
+to –30 for obscure or unusual intel. This initial
+search has a timeframe of 1 minute. If successful, it
+turns up enough data to give the character a basic
+overview, perhaps with cursory details. The game-
+master should use the MoS to determine the depth
+of the data provided on this initial excursion, with
+an Excellent Success providing some bonus details.
+Similarly, a Severe Failure (MoF 30+) may result in
+the character working with data that is incorrect or
+intentionally misleading.
+   The next step is not so much accumulating links
+and data as it is analyzing and understanding the in-
+formation acquired. This requires another Research
+Test, again modified by the obscurity of the topic. If
+the gamemaster allows it, complementary skills (p.
+173) may apply to this test, providing bonus modi-
+fiers (for example, an understanding of Academics:
+Chemistry would help research the effects of a
+strange drug). Muses may also perform this task,
+though their skills are typically inferior. As above,
+success determines the quality and depth of the
+analysis, with an Excellent Success providing the full
+story and potential related issues and a Severe Fail-
+ure marking completely incorrect assumptions. The
+timeframe for this phase of research largely depends
+on two factors: the amount of data being analyzed
+and the importance to the storyline. Gamemasters

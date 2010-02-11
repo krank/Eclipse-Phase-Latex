@@ -1,0 +1,59 @@
+                                       APTITUDE RANGE
+ASSESSMENT         SOMATICS     COORDINATION       REFLEXES      COGNITION             INTUITION            SAVVY          WILLPOWER
+ child average         inept           clumsy          slow         limited               aware            awkward           distracted
+ adult average         weak             able           paced       intelligent          perceptive         personable        controlled
+anshuman average        ﬁt           coordinated       swift         bright                sharp          charismatic         focused
+   enhanced          enhanced           agile           fast        learned              uncanny            dazzling          resolute
+  superhuman           gifted          nimble        lightning      brilliant            prescient        mesmerizing       unwavering
+  posthuman            elite          unerring        synaptic      genius           near omniscient        hypnotic        unshakable
+
+
+  SKILL RANGES                                                             LEARNED SKILL RANGES
+  What is the difference between being a clumsy neo-
+  phyte wobbling in zero gravity and being a veteran              SKILL         EQUIVALENCE
+  gliding effortlessly through space as though you were             00          No exposure or familiarity, completely unskilled
+  dancing? The answer is training and skill. The greater
+                                                                    10          Very rudimentary knowledge
+  your skill, the more likely you are to not only succeed
+  at what you want to do, but succeed well.                         20          Basic operator’s proﬁciency (driver’s license, gun permit,
+    Aptitudes in Eclipse Phase range from 1 to 30,                              high school diploma)
+  while learned skills range from 0 to 99. These num-               30          Hands-on experience, some professional training
+  bers are an abstraction of the range of transhuman                40          Basic professional certiﬁcation (police driving, army riﬂe
+  abilities and traits. The Aptitude Range table provides                       certiﬁed, college diploma)
+  a breakdown of different aptitude levels and how they
+                                                                    50          Experience from professional-level work, some
+  relate to each other. Likewise, the Learned Skill Range
+                                                                                advanced training
+  table provides an interpretation for the capabilities at
+  different skill levels.                                           60          Expert competence (competitive driver, marksman, PhD)
+                                                                    70          Experience from expert-level work, has had unique in-
+                                                                                novations or insights
+  APTITUDES                                                         80          Worthy of being a system-renowned authority on
+  There are 7 aptitudes in Eclipse Phase, described on p.                       the subject
+  123. Each character has these aptitudes at a minimum              90          Nobel/Olympic/grandmaster
+  rating of 1.
+                                                                    99          Pinnacle of current understanding and innovation
+
+  APTITUDE-ONLY TESTS
+  In rare cases, a test may call for using an aptitude
+  only, rather than a learned skill. This should only              the test is more difficult, the gamemaster may simply
+  occur when no learned skills are appropriate to the              use an aptitude x 2, or just the straight aptitude rating.
+  test, and these circumstances are usually noted in               In some cases, more than one aptitude may be rel-
+  the rules.                                                       evant to the test, and so they may be added together
+    Aptitude-only tests must be handled carefully, as              to derive the target number.
+  the range of aptitude ratings (1–30) is typically much             What follows are a few examples where an aptitude-
+  smaller than the rating of learned skills (0–99). For            only test might be appropriate. Gamemasters may call
+  this reason, most aptitude tests should use a target             for similar tests in other situations, but learned skills
+  number equal to the aptitude x 3. In rare cases where            should be used whenever possible.
+
+
+
+APTITUDE COMPARISON:
+FLATS VS. SPLICERS AND EXALTS
+Compared to humans in the early 21st Century, the average transhuman in the world of Eclipse Phase is faster,
+smarter, stronger, and healthier than their unaugmented predecessors. Normal unaugmented humans, called
+ﬂats (p. 139), most closely approximate the type of person that was born in our time. The majority of people,
+however, inhabit bodies that are known as splicers (p. 139) or exalts (p. 139) (well, those with biological bodies
+anyway). Splicers are geneﬁxed to avoid genetic defects and optimized for certain characteristics, while exalts
+are tweaked to make them superior across the board: they are more attractive, more athletic, have greater
+cognitive capacity, and are more attuned to the world around them than their unaugmented kin.                   ■

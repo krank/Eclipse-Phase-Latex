@@ -1,0 +1,59 @@
+ shielded and surge-protected, this has no major                remain in effect for 1 full minute. Anyone in the area
+ damaging effect. Antennas, however, are vulnerable,            of effect suffers a –30 action modifier, which reduces
+ especially finer wires like those used with mesh inserts.      by 10 per Action Turn after they leave the area. Ad-
+ As a result, the primary effect of EMP is to disable           ditionally, anyone facing the direction of the overload
+ radio communications—every radio within range of               round suffers a –10 glare modifier (neutralized by
+ the blast is reduced to 1/10th the normal range. The           anti-glare systems). [Moderate]
+ base blast radius for EMP is 50 meters. [High]                    Plasmaburst: Also called “hellballs,” these muni-
+    Frag: Fragmentation explosives spread a cloud of            tions release a burst of plasma upon detonation that
+ lethal flechettes over the area of effect. They are re-        causes searing heat and fire damage across the area of
+ sisted with kinetic armor. [Moderate]                          effect without the devastating shockwaves of explo-
+    Gas/Smoke: Gas/smoke munitions emit a cloud of              sions that might rebound in an enclosed environment
+ their contained substance. Smoke impedes sight by              and/or breach a habitat’s infrastructure. [High]
+ releasing thick fumes upon ignition of the seeker. The            Splash: Splash rounds spread a contained substance
+ smoke can be of any color and is often heated (called          (drug, chemical, nanoswarm, paint) over a base 10-
+ thermal smoke) to obfuscate heat signatures moving             meter blast radius when they detonate. [Low plus
+ through the smoke as cover. Note that gases dissipate          payload cost]
+ much more quickly under certain environmental con-                Thermobaric: Thermobaric grenades and seekers
+ ditions (wind, rain, etc.) [Low]                               utilize a more deadly form of explosion. When they
+    High-Explosive: High-explosive seekers and gre-             detonate, they disperse a cloud of aerosol explosive
+ nades are designed to create a very destructive shock          over an area and then ignite, literally setting the air
+ and heat wave. This damage is resisted with energy             on fire, generating a devastating pressure wave, and
+ armor. [Moderate]                                              sucking the oxygen out of the area. Thermobarics use
+    High-Explosive Armor-Piercing (HEAP): A design              the rules for uniform blast (p. 194). [High]
+ only available for seekers (not grenades), HEAP
+ warheads use high explosives to blast a path for               STICKY GRENADES
+ a penetrating round. HEAPs lose –4 damage per                  Sticky grenades have a special coating that when trig-
+ meter distance from the blast, as opposed to the               gered becomes a sticky adhesive, allowing the grenade
+ usual –2. [Moderate]                                           to be stuck to almost any surface. Sticky grenades can
+    Overload: Overload grenades and seekers launch an           even be wielded in melee combat, smacking them on
+ all-out assault on the target’s sensory spectrum. This         an opponent to be detonated later. [Trivial]
+ attack includes blinding by intense flashing light, a
+ deafening thunderclap followed by intense ultrasonic           EXOTIC RANGED WEAPONS
+ screaming, nausea-inducing malodorants, and infra-             These weapons are either rare or distinctly separate
+ sonic frequencies that can trigger unpleasant emotion-         from other weapons types. These weapons are wielded
+ al responses (anxiety, uneasiness, extreme sorrow, ner-        with an Exotic Ranged Weapon skill of the appropri-
+ vous feelings of revulsion or fear). For an extra kick,        ate field.
+ overloads are also packed with “stingballs”—rubber                Vortex Ring Gun: This less-lethal two-handed
+ pellets that inflict pain when detonated near an under-        weapon detonates a blank cartridge and accelerates
+ armored target. Anyone caught in the base 10-meter             the explosive pressure down a widening barrel so that
+ blast radius must make a SOM + WIL Test. If they fail,         it develops into a high-speed vortex ring—a spinning,
+ they must immediately leave the area of effect. If they        donut-shaped blast vortex. This concussive blast is
+ fail with an MoF of 30+, they are incapacitated for            used to knock down and incapacitate close-range
+ 3 Action Turns with disorientation and/or vomiting,            targets. Struck targets suffer a –10 action modifier for
+ after which they must roll again. Overload munitions           the rest of that Action Turn and must must succeed in
+
+
+
+                                      GRENADES AND SEEKERS
+GRENADE/SEEKER TYPE                    AP                       DV             AVERAGE DV      ARMOR USED TO RESIST
+Concussion                              —                    1d10 ÷ 2                5                     E
+Frag                                    –4                   3d10 + 6               22                     K
+EMP                                     —                       —                   —                     —
+Gas/Smoke                               —                       —                   —                     —
+High-Explosive                          —                    3d10 + 10              26                     E
+HEAP                                    –8                   3d10 + 12              28                     K
+Overload                             (AV x 2)                1d10 ÷ 2                5                     K
+Plasmaburst                             –6                   3d10 + 10              26                     E
+Splash                                  —                       —                   —                     —
+Thermobaric                            –10                   3d10 + 5               21                     E

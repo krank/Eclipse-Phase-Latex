@@ -1,0 +1,120 @@
+  Finally, though rare, some habitats go so far as to
+charge all visitors an “air tax”—a fee for using the
+station’s publicly available resources while they are
+present. This is generally only common in isolated
+habitats with strained resources, and is considered
+especially obnoxious by most autonomists.
+   Some syndicates run a good business in smuggling
+certain goods or even people into habitats. This is gen-
+erally accomplished through bribed security personnel,
+but is also sometimes handled as falsified credentials
+that will allow the subject to breeze past security
+checks. Such services are typically quite expensive.
+  For those hoping to gain quiet and unobserved
+access, there is always the option of taking a space-
+walk and trying to break in through an unattended
+airlock. Such attempts are quite often dangerous and
+futile, as most habitats have dedicated sensor and
+security systems to monitor their exterior surface and
+in particular any access points. Still, it is a possibility
+for a resourceful team with a skilled hacker, though
+armed sentry bots are a particular danger.
+
+ELECTRONIC ARRIVALS
+Arrivals by egocast are sometimes interviewed by
+habitat authorities in a simulspace before resleeving.
+Depending upon the habitat’s attitude toward civil
+rights, this process can be relatively reasonable or
+quite invasive. A minimal entry inspection includes an
+ID check, a brief interview with a customs AI, and a
+review of the specs of the morph into which the ar-
+riving ego plans to resleeve. Habitats with draconian
+immigration measures may use harsh psychosurgery
+interrogation techniques on suspect infomorphs. Ego-
+cast backups have little recourse to avoid this treat-
+ment—station authorities can simply file them away
+in cold storage if they choose—so it is wise to investi-
+gate custom procedures before you send yourself over.
+   Because many people, particularly autonomists and
+brinkers, don’t appreciate this kind of reception, vari-
+ous uploading services have stepped in to provide pre-
+customs resleeving for characters traveling to habitats
+with suspect screening methods. For often-exorbitant
+fees, the traveler egocasts into an extraterritorial sub-
+station close to their intended destination, resleeves
+there, and then travels to their destination by rocket.
+   Various darkcast services, normally run by estab-
+lished crime syndicates, sometimes offer an alternative
+method of egocasting in and possibly even resleeving.
+Darkcast services are quite expensive, however, and
+the character is at the mercy of the syndicate opera-
+tors. In rare cases, some political factions or even hy-
+percorps might operate their own darkcast systems,
+which a character with good networking skills might
+be able to take advantage of.
+
+SPACE TRAVEL
+In some circumstances, characters will prefer to travel
+physically through space rather than egocasting. In
+Eclipse Phase, spacecraft are primarily dealt with as a
+setting environment rather than a vehicle/gear to use.
+Spacecraft largely pilot themselves via the onboard AI.
+Though characters can also take over with their Pilot:
+Spacecraft skill, the situation rarely calls for it.
+
+LOCAL TRAVEL
+In densely inhabited planetary systems such as Mars
+and Saturn, most travel between cities, surface stations,
+and orbital habitats within 200,000 kilometers is by
+small hydrogen-fueled (or sometimes methane-fueled)
+rockets. This form of travel is incredibly cheap, very
+fast, and avoids the occasional personality glitches
+that crop up during egocasting. LOTVs (lander and
+orbital transfer vehicles, p. 348) are commonly used.
+Spacecraft leaving a planetary body need to be able to
+generate enough thrust to escape the gravity well (see
+Escaping Gravity Wells, p. 346).
+
+DISTANCE TRAVEL
+For distances of 200,000 to 1.5 million kilometers,
+somewhat larger (and more expensive) fusion- and
+plasma-drive craft make regular runs. Nuclear electric
+ion drives were once used on some of these routes,
+but the poor efficiency of these fission systems and the
+need for radioactive heavy metal reaction mass means
+that they are almost never used anymore. Faster anti-
+matter-drive couriers are also commonly used. These
+ships lack the thrust to escape from the gravity wells
+of large planets or moons, so they station themselves
+in orbit and use smaller ships (typically LOTVs) with
+higher thrust to transport people to and from the
+planetary surface.
+  For distances beyond 1.5 million kilometers, almost
+everyone uses egocasting
+
+SPACE TRAVEL BASICS
+Spacecraft use various types of reaction drives (see
+Spacecraft Propulsion, p. 347), meaning that they burn
+fuel (reaction mass) and direct the heated output in
+one direction, which pushes the spacecraft in the oppo-
+site direction. Travel over any major distance typically
+involves a period of high-acceleration burn for several
+hours at the beginning of the flight, where up to half of
+the reaction mass is spent to drive up the craft’s veloc-
+ity. The ship then coasts for the majority of the flight at
+that speed, until it approaches its destination, where it
+flips over and burns an equal amount of reaction mass
+in the opposite direction to decrease velocity.
+   Though some craft burn half their reaction mass
+to get up to the best speed possible, this doesn’t leave
+much room for additional maneuvering or emergen-
+cies. Many craft therefore only burn up to a quarter
+or a third of their fuel in initial accelerations, so they
+have some to spare in case they need it. A few tricks
+can be used to save fuel and build speed, such as sling-
+shotting around the gravity wells of larger planets or
+aerobraking in a planet’s upper atmosphere.
+   Travel times between locations are constantly
+changing as various bodies move in their orbits
+around the solar system. Within a cluster or planetary
+system, travel takes a matter of hours. Within the

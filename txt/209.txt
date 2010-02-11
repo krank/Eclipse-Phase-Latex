@@ -1,0 +1,119 @@
+KINETIC DAMAGE
+Kinetic damage is caused by projectiles and other
+objects moving at great speeds that disperse their
+energy into the target upon impact. Kinetic attacks
+include slug-throwers, flechette weapons, knives, and
+punches.
+
+PSI DAMAGE
+Psi damage is caused by offensive psi sleights like
+Psychic Stab (p. 228).
+
+DURABILITY AND HEALTH
+Your character’s physical health is measured by their
+Durability stat. For characters sleeved in biomorphs,
+this figure represents the point at which accumu-
+lated damage points overwhelm your character and
+they fall unconscious. Once you have accumulated
+damage points equal to or exceeding your Durability
+stat, you immediately collapse from exhaustion and
+physical abuse. You remain unconscious and may
+not be revived until your damage points are reduced
+below your Durability, either from medical care or
+natural healing.
+   If you are morphed in a synthetic shell, Durabil-
+ity represents your structural integrity. You become
+physically disabled when accumulated damage points
+reach your Durability. Though your computer systems
+are likely still functioning and you can still mesh, your
+morph is broken and immobile until repaired.
+
+DEATH
+An extreme accumulation of damage points can
+threaten your character’s life. If the damage reaches
+your Durability x 1.5 (for biomorphs) or Durability x
+2 (for synthetic morphs), your body dies. This known
+as your Death Rating. Synthetic morphs that reach
+this state are destroyed beyond repair.
+
+DAMAGE VALUE
+Weapons (and other sources of injury) in Eclipse
+Phase have a listed Damage Value (DV)—the base
+amount of damage points the weapon inflicts. This is
+often presented as a variable amount, in the form of a
+die roll; for example: 3d10. In this case, you roll three
+ten-sided dice and add up the results (counting 0 as
+10). Sometimes the DV will be presented as a dice roll
+plus modifier; for example: 2d10 + 5. In this case you
+roll two ten-sided dice, add them together, and then
+add 5 to get the result.
+  For simplicity, a static amount is also noted in
+parentheses after the variable amount. If you prefer
+to skip the dice rolling, you can just apply the static
+amount (usually close to the mean average) instead.
+For example, if the damage were noted 2d10 + 5 (15),
+you could simply apply 15 damage points instead of
+rolling dice.
+  When damage is inflicted on a character, determine the
+DV (roll the dice) and subtract the modified armor value,
+as noted under Step 7: Determine Damage (p. 192).
+WOUNDS
+Wounds represent more grievous injuries: bad cuts and
+hemorrhaging, fractures and breaks, mangled limbs,
+and other serious damage that impairs your ability to
+function and may lead to death or long-term damage.
+  Any time your character sustains damage, compare
+the amount inflicted (after it has been reduced by
+armor) to your Wound Threshold. If the modified DV
+equals or exceeds your Wound Threshold, you have
+suffered a wound. If the inflicted damage is double
+your Wound Threshold, you suffer 2 wounds; if
+triple your Wound Threshold, you suffer 3 wounds;
+and so on.
+  Wounds are cumulative, and must be marked on
+your character sheet.
+   Note that these rules handle damage and wounds
+as an abstract concept. For drama and realism,
+gamemasters may wish to describe wounds in more
+detailed and grisly terms: a broken ankle, a severed
+tendon, internal bleeding, a lost ear, and so on. The
+nature of such descriptive injuries may help the game-
+master assign other effects. For example, a character
+with a crushed hand may not be able to pick up a gun,
+someone with excessive blood loss may leave a trail
+for their enemies to follow, or someone with a cut eye
+may suffer an additional visual perception modifier.
+Likewise, such details may impact how a character is
+treated or heals.
+
+WOUND EFFECTS
+Each wound applies a cumulative –10 modifier to all
+of the character’s actions. A character with 3 wounds,
+for example, suffers –30 to all actions.
+  Some traits, morphs, implants, drugs, and psi allow
+a character to ignore wound modifiers. These effects
+are cumulative, though the maximum amount of
+wound modifiers that may be negated is –30.
+  Knockdown: Any time a character takes a wound,
+they must make an immediate SOM x 3 Test. Wound
+modifiers apply. If they fail, they are knocked down
+and must expend a Quick Action to get back up. Bots
+and vehicles must make a Pilot Test to avoid crashing.
+  Unconsciousness: Any time a character receives 2
+or more wounds at once (from the same attack), they
+must also make an immediate SOM x 3 Test; wound
+modifiers again apply. If they fail, they have been
+knocked unconscious. Bots and vehicles that take 2 or
+more wounds at once automatically crash (see Crash-
+ing, p. 196).
+  Bleeding: Any biomorph character who has suffered
+a wound and who takes damage that exceeds their
+Durability is in danger of bleeding to death. They
+incur 1 additional damage point per Action Turn (20
+per minute) until they receive medical care or die.
+
+DEATH
+For many people in Eclipse Phase, death is not the end
+of the line. If the character’s cortical stack can be re-
+trieved, they can be resurrected and downloaded into
+a new morph (see Resleeving, p. 271). This typically

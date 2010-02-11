@@ -1,0 +1,41 @@
+MESH
+INSERTS, ENDOS, ECTOS
+he mesh, you need some sort of device. Often, these are
+right into your brain—a mesh insert, sometimes called
+—or an ecto, an external minicomputer. ■ p. 237
+
+                                            INTERFACES
+                                            There are three protocols used to access
+                                            and manipulate data on the mesh. ■ p. 239
+
+                                                                       Augmented Reality (AR): Information overlaid on the user’s physical
+                                                                         senses—sight, sound, odors, tastes, and tactile sensations. ■ p. 239
+
+                                                                Virtual Reality (VR): Physical senses are overridden and your character is
+                                                                    placed in a computer-generated environment—a simulspace. ■ p. 240
+
+                                                                    Experience Playback (XP): A sensory recording, either of your own or
+                                                                                                         provided by someone else. ■ p. 241
+
+
+
+
+                       MESH USES
+                       Quite simply, your character will use the mesh for almost all their
+                       communications, research, and plenty of recreation, too. ■ p. 243
+
+
+                                                                                     Everyday Mesh Mechanics: The basic rules for
+                                                                                              standard mesh use start here. ■ p. 245
+
+             Infolife and Infomorphs                                                   Online Research: Your character will use the
+               Both disembodied transhumans and                                       Research skill to ﬁnd info in the mesh. ■ p. 249
+     artiﬁcial intelligences roam the mesh. ■ p. 244
+
+                    Muses: A speciﬁc type of AI that functions as a
+                     personal aide and companion. ■ pp. 244, 264
+
+    AGIs: Self-aware digital consciousnesses, capable of intelligent
+                      and autonomous actions.■ pp. 244, 264–265
+
+nfomorphs: Details and rules for digital egos. ■ pp. 244, 264–265

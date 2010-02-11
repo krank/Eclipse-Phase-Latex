@@ -1,0 +1,112 @@
+Authoritarian regimes tread carefully, as they are also
+universally monitored, despite their attempts to con-
+trol information flow. Many people also willing par-
+ticipate in this open “participatory panopticon.” With
+nearly infinite storage capacity, dedicated lifeloggers
+record every moment of their lives and share it for
+others to experience.
+
+
+
+INTERFACING: AR, VR, AND XP
+Mesh media is accessed using one of three protocols:
+augmented reality (AR), virtual reality (VR), or expe-
+rience playback (XP).
+
+AUGMENTED REALITY
+ Most users perceive data from the mesh as aug-
+ mented reality—information overlaid on the user’s
+ physical senses. For example, computer-generated
+ graphics will appear as translucent images, icons,
+ or text in the user’s field of vision. While visual AR
+ data—called entoptic data—is the most common,
+ other senses may also be used. AR is not limited
+ to visuals, however, and can also include acoustic
+ sounds and voices, odors, tastes, and even tactile
+ sensations. This sensory data is high-resolution and
+ seemingly “real,” though it is usually presented as
+ something ghostly or otherwise artificial so as not
+ to be confused with real-world interactions (and
+ also to meet safety regulations).
+   User interfaces are customized to the user’s prefer-
+ ences and needs, both graphically and content-wise.
+ Filters allow users to access the information they
+ are interested in without needing to worry about
+ extraneous data. While AR data is typically placed
+ in the user’s normal field of vision, entoptics are not
+ actually limited by this and may be viewed in the
+“mind’s eye.” Nevertheless, icons, windows and other
+ interaction prompts can be layered, stacked, toggled,
+ hidden, or shifted out of the way if necessary to in-
+ teract with the physical world.
+
+AVATARS
+Every mesh represents themselves online via a digi-
+tal avatar. Many people use digital representations
+of themselves, whereas other prefer more iconic
+designs. This may be an off-the-shelf look or a
+customized icon. Libraries of avatars may also be
+employed, enabling a user to switch their represen-
+tation according to mood. Avatars are what other
+users see when they deal with you online—i.e., how
+you are represented in AR. Most avatars are ani-
+mated and programmed to reflect the user’s actual
+mood and speech, so that the avatar seems to speak
+and have emotions.
+
+E-TAGS
+Entoptic tags are a way for people to “tag” a physical
+person, place, or object with a piece of virtual data.
+These e-tags are stored in networks local to the tagged
+item, and move with the item if it changes location.
+INFORMATION AT
+YOUR FINGERTIPS
+The following information is always available for m
+mesh users in a normal habitat:
+
+LOCAL CONDITIONS
+• Local maps showing your current location, annotated with
+  local features of personal interest (according to your perso
+  preferences and ﬁlters) and your distance from them/direct
+  to them. Details regarding private and restricted areas (gov
+  ment/hypercorp areas, maintenance/security infrastructure,
+  are usually not included.
+• Current habitat life support (climate) conditions including
+  atmosphere composition, temperature.
+• Current solar system and habitat orbit maps with trajectory
+  plots, communication delays.
+• Local businesses/services, directions, and details.
+
+LOCAL MESH
+• Public search engines, databases, mesh sites, blogs, forums
+  archives, along with new content alerts.
+• Syndicated public newsfeeds in a variety of formats, ﬁltered
+  according to your preferences.
+• Sensor/spime (mostly audio-visual) feeds from any public a
+  of the habitat.
+• Private network resources (including tactical nets).
+• Automatic searches for new online references to your nam
+  and other subjects of interest.
+• E-tags pertaining to local people, places, or things.
+• Facial/image recognition searches of public mesh/archives
+  match a photo/vid still.
+
+PERSONAL INFORMATION
+• Morph status indicators (medical and/or mechanical): blood
+  pressure, heart rate, temperature, white cell count, nutrient
+  levels, implant status and functionality, etc.
+• Location, functionality, sensor feeds, and status reports of y
+  possessions (via sensors and transmitters in these possessi
+• Access to one’s life-spanning personal audio-visual/XP arch
+• Access to one’s life-spanning personal ﬁle archive (music, s
+  ware, media, documents, etc.).
+• Credit account status and transactions.
+
+SOCIAL NETWORKS
+• Communications account status: calls, messages, ﬁles, etc.
+• Reputation score and feedback.
+• Social network status, friend updates.
+• Updated event calendar and alerts.
+• The public social network proﬁles of those around you.
+• The location and status of those nearby and involved in the
+  same AR games as you.

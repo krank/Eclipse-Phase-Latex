@@ -1,0 +1,38 @@
+   The actual process of psychosurgery breaks down        PSYCHOSURGERY MECHANICS
+into several stages. First is diagnosis, which can        In game terms, psychosurgery is handled as a Task
+involve the use of several neuro-imaging techniques       Action requiring an Opposed Test. The psychosurgeon
+on morphed characters, mapping synaptic connec-           rolls Psychosurgery skill against the target’s WIL x 3.
+tions, and building a neurochemical model. It can         Apply modifiers as appropriate from the Psychosur-
+also involve complete psychological profiling and         gery Modifiers table.
+psychometric behavioral testing, including personal-         If the psychosurgeon succeeds and the subject fails,
+ity tests and simulspace scenario simulations. Digital    the psychosurgery is effective and permanent. The
+mind-states can be compared to records of people          alteration becomes a permanent part of the subject’s
+with similar symptoms in order to identify related        ego, and will be copied when uploaded (and some-
+information clusters. This analysis is used to plan       times when forking).
+the procedure.                                               If both sides succeed but the psychosurgeon rolls
+   The actual implementation of psychosurgical al-        higher, the psychosurgery is effective but temporary. It
+teration can involve several methods, depending on        lasts for 1 week per 10 points of MoS.
+the desired results. Applying external modules to the        If the subject rolls higher, or if the psychosurgeon
+mind-state is often the best approach, as it doesn’t      fails their roll, the attempt does not work.
+meddle with complicated connections and new inputs           The timeframe listed for psychosurgical procedures
+are readily interpreted and assimilated. For treat-       is according to the patient’s subjective point of view.
+ments, mental health software patches compiled from       Since most subjects are treated in a simulspace, time
+databases of healthy minds are matched, customized,       acceleration may drastically reduce the amount of
+and applied. Specialized programs may be run to           real-time such a procedure requires (see Defying Na-
+stimulate certain mental processes for therapeutic        ture’s Laws, pp. 240–241).
+purposes. Before an alteration is even applied, it may
+first be performed on a fork of the subject and run at    MENTAL STRESS
+accelerated speeds to evaluate the outcome. Likewise,     Psychosurgery is a modification to the transhuman
+multiple treatment choices may be applied to time-ac-     mind, and sometimes to the actual person that resides
+celerated forks this way, allowing the psychosurgeon      in that mind. It is unsurprising then that psychosur-
+to test which is likely to work best.                     gery places stress on the subject’s mental state and
+   Not all psychosurgery is performed for the subject’s   sometimes even inflicts mental traumas.
+benefit, of course. Psychosurgery can be used to inter-      Each psychosurgery option lists a Stress Value
+rogate or torture prisoners, erase memories, modify       (SV) that is infl icted on the subject regardless of
+behavior, or inflict crippling impairments. It is also    the tests’ success or failure. If the psychosurgeon
+sometimes used for legal punishment purposes, in          achieves an Excellent Success (MoS 30+), this stress
+an attempt to impair criminal activity. Needless to       is halved (round down). If the psychosurgeon rolls
+say, such methods are often brute-forced rather than      a Severe Failure (MoF 30+), the stress is doubled.
+fine-tuned, ignoring safety parameters and sometimes      Alternately, a Severe Failure could result in unin-
+resulting in detrimental side effects.                    tended side effects, such as affecting other behav-
+                                                          iors, emotions, or memories.

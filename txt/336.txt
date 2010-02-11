@@ -1,0 +1,114 @@
+standard clothing to vacuum suits in a single Action
+Turn, and will do so automatically if life support is
+needed. Each suit also contains an ecto (p. 325), a
+radio booster (p. 313), and sensors equal to specs (see
+p. 325). These suits have an Armor rating of 7/7 and
+protect the wearer from temperatures from –175 to
+140 C. They can almost instantly seal any hole unless
+more than 30 points of damage are inflicted at once.
+[Moderate, High for smartfabric suits]
+   Hard Suit: This heavy-duty suit can almost be
+considered a miniature space ship. Hard Suits look
+like large metallic ovals with jointed arms and legs.
+They are quite heavy, but the user can move relatively
+easily by using servo assist motors in all the major
+joints of the arms and legs. Unlike other vacsuits, they
+are solid and can resist both vacuum and up to 100
+atmospheres of external pressure. Characters wearing
+hard suits can safely explore the upper atmosphere
+of a gas giant. They are well armored against punc-
+tures and radiation and possess miniature plasma
+thrusters capable of delivering 0.01G for 10 hours. A
+built-in high quality maker produces sufficient food,
+air, and water that a user can remain in a hard suit
+indefinitely. Explorers have used them continuously
+for up to 2 months. Their gloves incorporate smart
+materials that allow each hand to use the equivalent
+of a utilitool (p. 326). Hard suits also contain radios
+and sensors equivalent to those on standard vacsuits.
+These suits have an Armor rating of 15/15, are main-
+tained by a fixer nanohive (p. 329), and are instantly
+self-sealing of any breach unless more than 30 points
+of damage are inflicted at once. They protect the
+wearer from temperatures of –200 to 180 C. [High]
+
+
+
+WEAPONS
+A wide range of weapons are available in Eclipse
+Phase, from the primitive to the technologically
+advanced.
+
+MELEE WEAPONS
+Melee weapons are those wielded by hand (or foot) in
+melee combat. They are divided by the skill be which
+they are used.
+
+BLADES
+These weapons are wielded with Blades skill.
+   Diamond Axe: Commonly found on many habitats
+for fire and emergency purposes, axes require two
+hands to wield. Their blades are diamond-coated for
+superior cutting ability. [Low]
+   Flex Cutter: The blade of this machete-like weapon
+is made of a memory polymer. When deactivated, the
+blade is limp and flexible, and may even be rolled up
+or otherwise easily concealed. When activated, how-
+ever, the blade stiffens and sharpens into a vicious
+slashing weapon. [Low]
+   Knife: A standard cutting implement, still carried
+by many. [Trivial]
+   Monofilament Sword: Though swords are rather
+archaic in the time of Eclipse Phase, a few eccentrics
+take advantage of modern versions with a self-
+sharpening near-monomolecular edge, easily capable
+of slicing through metal or limbs. [Low]
+   Vibroblade: These buzzing electronic blades vibrate
+at a high frequency for extra cutting ability. This
+has little extra effect when stabbing or slashing, but
+provides an extra –3 AP and +2d10 damage when
+carefully sawing through something. [Low]
+   Wasp Knife: Wasp knives are equipped with a can-
+ister in their handle. The common use is to fill these
+canisters with pressured air, which inflates inside
+the target. This is potentially lethal in vacuum or
+pressurized environments (like underwater), as the
+gas bursts out of the body cavity to escape (+2d10
+damage in such situations). Wasp knives may also
+be loaded with chemicals, drugs, or nanobots. The
+target must be damaged for the canister’s contents to
+affect them. [Low]
+
+CLUBS
+Characters use Clubs skill when using these weapons.
+  Club: Clubs encompasses a wide range of one-hand-
+ed blunt objects, from saps to sticks to pipes. [Trivial]
+  Extendable Baton: This hardened composite baton
+retracts into its handle for easy carrying, storage, or
+concealment. Extending it simply requires a flick or
+an electronic signal. [Trivial]
+  Shock Baton: Shock batons are standard clubs
+used for policing duties, but when activated they also
+deliver an electric shock to struck targets (see Shock
+Attacks, p. 204). [Low]
+
+EXOTIC MELEE WEAPONS
+Unusual weapons requires a specific Exotic Melee
+field skill to use.
+   Monowire Garrote: This assassin’s weapon fea-
+tures a dangerous monomolecular wire wrapped
+around a contained spool with two handles. One
+handle grips the spool, while the other extends the
+wire so that it may be used to wrap around targets
+(typically necks or limbs) and slice through them
+when pulled. Monofilament tensile strength is weak,
+however, usually breaking after one use. [Moderate]
+
+UNARMED
+These weapons are wielded using Unarmed Combat skill.
+  Densiplast Gloves: These gloves extra-harden when
+activated, for extra punch. [Trivial]
+  Shock Gloves: When activated, these gloves deliver
+an incapacitating shock along with every punch or
+grab. Note that the effect is the same whether wearing
+one glove or two. [Low]

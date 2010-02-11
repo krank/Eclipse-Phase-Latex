@@ -1,0 +1,80 @@
+                                                                                                                                    MODIFIER SEVERITY
+ SUMMARY                                          ACTION TURN                                                          115
+                                                                                                                                  SEVERITY               MODIFIER
+dled as an Opposed Test.                          Step 1: Roll Initiative ((INT + REF) x 2) + 1d100
+                                                                                                                                  Minor                     +/– 10
+attack skill +/– modiﬁers.                        Step 2: Begin First Action Phase (Speed 1)                                      Moderate                  +/– 20
+ er rolls Fray or melee skill                     Step 3: Declare and Resolve Actions                                             Major                     +/– 30
+                                                  Step 4: Rotate and Repeat (Speed 2-4)
+ der rolls (Fray skill ÷ 2,
+                                                                                                                                     TEST DIFFICULTY
+  /– modiﬁers.                                    SCATTER DIAGRAM                                                     115
+                                                                                                                                DIFFICULTY LEVEL MODIFIER
+ eeds and rolls higher than
+ he attack hits.                                     204                                                                        Effortless                      +30
+                                                                                                                                Simple                          +20
+   armor-defeating (armor                                              1 or 2                                                   Easy                            +10
+ ).                                                                                                                             Average                         +0
+                                                              10                      3
+ ed by the attack’s Armor                                                                                                       Difﬁcult                        –10
+ lue (AP).                                                                                                                      Challenging                     –20
+                                                                                                                                Hard                            –30
+damage is reduced by the                                  9                                  4
+ ed Armor rating (unless
+                                                                                                               COMPLEMENTARY SKILL BONUS
+ mor-defeating).                                                                                     123
+ exceeds the target’s                                          8                       5                         SKILL RATING                     MODIFIER
+ old, a wound is also scored.                                          6 or 7                                          01–30                          +10
+                                                                                                                       31–60                          +20
+   exceeds the Wound                                                                                                    61+                           +30
+multiple factors, multiple
+ﬂicted.)
+                                                                                                                COMBAT MODIFIERS
+                                                                                    193
+                                                                                             GENERAL                                                 MODIFIER
+           WEAPON RANGES                                                                     Character using off-hand                                     –20
+              SHORT           MEDIUM       LONG       EXTREME                                Character wounded/traumatized                       –10 per wound/trauma
+              RANGE          RANGE (–10) RANGE (–20) RANGE (–30)                             Character has superior position                              +20
+                                                                                             Touch-only attack                                            +20
+                0–10            11–25               26–40             41–60                  Called shot                                                  –10
+                0–10            11–30               31–50             51–70                  Character wielding two-handed weapon with one hand –20
+                0–10            11–35               36–60             61–80                  Small target (child-sized)                                   –10
+                0–30            31–80              81–125            126–230                 Very small target (mouse or insect)                          –30
+               0–150           151–250            251–500            501–900                 Large target (car sized)                                     +10
+               0–180           181–400           401–1,100         1,100–2,300               Very large target (side of a barn)                           +30
+               0–100           101–400           401–1,000         1,001–2,000               Visibility impaired (minor: glare, light smoke, dim light)   –10
+                                                                                             Visibility impaired (major: heavy smoke, dark)               –20
+ ease the effective range in each category by +50%                                           Blind attack                                                 –30
+                                                                                             MELEE COMBAT                                               MODIFIER
+ser            0–30              31–80             81–125           126–230                  Character has reach advantage                                +10
+               0–30             31–100            101–150           151–250                  Character charging or receiving a charge                     +20
+                0–5              6–15              16–30             31–50                   RANGED COMBAT (ATTACKER)                                   MODIFIER
+               0–30             31–100            101–150           151–300                  Attacker using smartlink or laser sight                      +10
+               0–20             21–50             51–100            101–300                  Attacker behind cover                                        –10
+               0–10             11–25              26–40             41–60                   Attacker running                                             –20
+                                                                                             Attacker in melee combat                                     –30
+                5–70            71–180           181–600          601–2,000                  Attacker has reach advantage                                 +10
+               5–150           151–300          301–1,000        1,001–3,000                 Defender has minor cover                                     –10
+ssile          5–300          301–1,000         1001–3,000       3001–10,000                 Defender has moderate cover                                  –20
+                                                                                             Defender has major cover                                     –30
+                0–5               6–15             16–30              31–50                  Defender prone and far (10+ meters)                          –10
+                0–5               6–15             16–30              31–50                  Defender hidden                                              –60
+               0–10              11–30             31–50              51–70                  Aimed shot (quick)                                           +10
+               0–10              11–40             41–70             71–100                  Aimed shot (complex)                                         +30
+               0–5               6–15              16–30             31–50                   Sweeping ﬁre with beam weapon                        +10 on second shot
+               0–5               6–15              16–30             31–50                   Multiple targets in same Action Phase             –20 per additional target
+               0–5               6–15              16–30             31–50                   Indirect ﬁre                                                 –30
+                                                                                             Point-blank range (2 meters or less)                         +10
+            To SOM ÷ 5        To SOM ÷ 2          To SOM           To SOM x 2                Short range                                                   —
+            To SOM ÷ 2          To SOM          To SOM x 2         To SOM x 3                Medium range                                                 –10
+            To SOM ÷ 5        To SOM ÷ 2          To SOM           To SOM x 3                Long range                                                   –20
+                                                                                             Extreme range                                                –30
+
+                                                                       HEALING
+R SITUATION                                                                                      DAMAGE HEALING RATE                   WOUND HEALING RATE
+hout basic biomods                                                                                      1d10 (5) per day                         1 per week
+h basic biomods                                                                                      1d10 (5) per 12 hours                       1 per 3 days
+ g nanobandage                                                                                        1d10 (5) per 2 hours                        1 per day
+h medichines                                                                                          1d10 (5) per 1 hour                      1 per 12 hours
+ s (bad food, not enough rest/heavy activity, poor shelter and/or sanitation)                          double timeframe                       double timeframe
+ ns (insufﬁcient food, no rest/strenuous activity, little or no shelter and/or sanitation)              triple timeframe                      no wound healing

@@ -1,0 +1,60 @@
+may be remote-controlled. Cyberbrains are vulnerable      also gain a general sense of the emotions and health
+to brainhacking (p. 261) and other forms of electronic    of any character within 5 meters (+20 to Perception or
+infiltration/attack. Cyberbrains come equipped with       Kinesics Tests to do so). [Low]
+two or more pairs of external access jacks (p. 306),         Enhanced Vision: The morph’s eyes have tetrachro-
+usually located at the base of the skull, which allow     matic vision capable of exceptional color differen-
+for direct wired connections. [Moderate, but included     tiation. These eyes can also see the electromagnetic
+for free in all synthetic morphs and pods]                spectrum from terahertz wave frequencies to gamma
+                                                          rays, enabling them to see a total of several dozen
+BIOWARE                                                   colors, instead of the seven ordinary human eyes can
+Bioware augmentations can be acquired either as a         perceive. In addition, these eyes have a variable focus
+genemod when the morph is designed and grown or           equivalent to 5 power magnifiers or binoculars. This
+as a later modification to an existing morph, either      augmentation provides a +20 modifier to all Percep-
+by using nanomachines to modify the morph’s tissue        tion Tests involving vision. For further applications,
+or by externally growing the organ and implanting it.     see Using Enhances Senses, p. 302. [Low]
+Bioware may be used to enhance biomorphs (includ-
+ing pods and uplifts), but not synthmorphs.               MENTAL AUGMENTATIONS
+                                                          Mental augmentations are extremely common.
+ENHANCED SENSES                                              Eidetic Memory: The character can remember ev-
+The following are a list of the most common enhanced      erything that ever happened to them, in detail, with
+senses. Each is also available as a cybernetic implant,   no long term memory loss. For example, they can
+but bioware is much more common.                          recite a page they read in a book a month ago, recall
+   Direction Sense: The character has an innate sense     a string of 200 random characters they viewed a year
+of direction and distance using advanced inertial         ago, or even tell you what they had for breakfast on
+navigation. The character can arbitrarily define any      a particular date a decade ago. However, they can
+point as “north” and keep track of which direction        only remember things they paid attention to. The
+that is, as well as knowing approximately how far         character will not remember the contents of a note
+they have come. Characters with this augmentation         on someone’s desk if they merely glanced at it; they
+can always retrace any route they have taken, only        must specifically have read it. No effort is required to
+experiencing difficulty with three-dimensional routes     use this augmentation, the character merely needs to
+lacking navigational markers (such as deep space or       attempt to remember a specific fact. [Low]
+undersea; apply a –30 modifier). Since positioning           Hyper Linguist: The morph’s brain maintains the
+inside habitats by anyone with basic mesh inserts is an   linguistic flexibility of a small child, allowing the
+automatic affair, only characters venturing to remote     character to learn languages with great ease. This
+locations require this augmentation. [Low]                functions as the Hyper Linguist trait, p. 146. [Low]
+   Echolocation: The character possesses sonar similar       Math Boost: This implants functions as the Math
+to that of a bat or dolphin. The character bounces        Wiz trait, p. 146. [Low]
+brief ultrasonic pulses off their surroundings and uses      Multiple Personalities: The character’s brain is in-
+them to form an image of these surroundings through       tentionally partitioned to accommodate an extra per-
+the pattern of reflections of these pulses received by    sonality. This multiplicity is not viewed as a disorder,
+the character’s ears. For more details, see Using En-     but as a cognitive tool to help people deal with their
+hanced Senses, p. 302. This augmentation works in         hypercomplex environments. This extra personality
+both air and water and has a range of 20 meters in air    can be an NPC run by the gamemaster, a separate
+and 100 meters in water. [Low]                            character (in ego form only) made by the player, or
+   Enhanced Hearing: The morph’s ears are enhanced        the downloaded fork of another character. For all in-
+to hear both higher and lower frequency sounds—the        tents and purposes, the extra personality is treated as
+range of sounds they can hear is twice that of normal     a separate ego (i.e., it may fork separately), except that
+human ears (see Using Enhanced Senses, p. 302). In        both personalities are backed up in the same cortical
+addition, their hearing is considerably more sensitive,   stack and if downloaded they must be placed in sepa-
+allowing them to hear sounds as if they were five         rate morphs or in another morph with this implant.
+times closer than they are. A character with this aug-       Only one ego may be in control of the morph at a
+mentation can easily overhear even a softly spoken        time. The other resides in the background, still active,
+conversation at another table in a small restaurant.      but not on a surface level. Each ego is completely
+This augmentation provides a +20 modifier to all          aware of what the other is doing, thinking, etc. If for
+Perception Tests involving hearing. [Low]                 some reason the subsumed personality wants to come
+   Enhanced Smell: The morph’s sense of smell is          to the fore, but the other personality won’t relinquish
+equal to that of a bloodhound. The user can iden-         control, make an Opposed WIL x 3 Test. Each ego
+tify both chemicals and individuals by smell, and can     has its own Lucidity and Trauma Threshold, and they
+track people and chemically reactive objects by smell     track stress and trauma separately. Any psi attacks or
+as long as the trail was made within the last several     social/mental influences only affect the personality at
+hours and has not been obscured. The character can        the fore.

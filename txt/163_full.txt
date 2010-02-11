@@ -1,0 +1,76 @@
+JOVIAN SPY                                         APTITUDES
+                  COG          COO    INT    REF    SAV     SOM     WIL
+            Base 15             15     15     15     15      15     15
+     Morph Bonus
+            Total 15            15     15     15     15      15      15
+
+
+
+
+      MOX      TT      LUC      IR    WT     DUR    DR
+                                                           STATS
+                                                           INIT     SPD
+       3        6       30      60     6      30    45      60      1 (2)
+
+
+
+                                                          SKILLS
+                                                      MORPH
+                                      APT    BASE     BONUS       TOTAL
+       Academics: Cryptography        COG     60                    60
+          Academics: Linguistics      COG     60                    60
+                            Blades    SOM     45                    45
+                          Climbing    SOM     55                    55
+                             Clubs    SOM     45                    45
+                        Deception     SAV     60                    60
+                      Demolitions     COG     45                    45
+                          Disguise    INT     45                    45
+                               Fray   REF     45                    45
+                          Free Fall   REF     45                    45
+                      Freerunning     SOM     45                    45
+                   Impersonation      SAV     45                    45
+                        Inﬁltration   COO     60                    60
+                           Infosec    COG     60                    60
+   Interests: Autonomist Groups       COG     55                    55
+       Interests: Criminal Groups     COG     55                    55
+    Interests: Hypercorp Politics     COG     55                    55
+                          Kinesics    SAV     45                    45
+       Language: Native Spanish       INT     85                    85
+               Language: English      INT     50                    50
+           Networking: Criminals      SAV     40                    40
+          Networking: Ecologists      SAV     45                    45
+         Networking: Hypercorps       SAV     45                    45        Background: Original Space Colonist
+                          Palming     COO     45                    45        Faction: Jovian
+                       Perception     INT     55                    55        Morph: Flat
+   Profession: Security Systems       COG     55                    55        Motivations: -Anarchism +Bioconservativism -Tec
+   Profession: Smuggling Tricks       COG     45                    45
+                                                                             TRAITS                             Primary Wea
+             Profession: Spycraft     COG     55                    55       Ego: Modiﬁed Behavior (Blood-        Railgun (10
+                  Spray Weapons       COO     25                    25         thirsty, boosted), Morphing      Starting Cred
+                Unarmed Combat        SOM     55                    55         Disorder (Level 1) ■             Implants: Ne
+                                                                             Morph: Genetic Defect              Gear: Backup
+                                                                               (Heart Disease),                   (1 month),
+                                                                               Unattractive (Level 1) ■           10 Frag Gr
+                                                                                                                  Cloak, Liqu
+You’re a dedicated soldier to the      the republic, you have no qualms
+                                                                             REP                                  ture Radio
+bioconservative cause, convinced       about using technologies that
+                                                                             c-rep:   50                          MRDR (1 d
+that unrestricted technology is        you otherwise want restricted or
+                                                                             e-rep:   30                          (1 dose), R
+driving the human race to extinc-      banned, and you appreciate the
+                                                                             g-rep:   20                          table QE C
+tion. The Jovian Republic has          irony of using the tools of tran-
+                                                                                                                  Low-Capa
+trained you and modified you to        shuman monsters against them.
+                                                                             EQUIPMENT                            3 Speck Bo
+serve their interests, whether that    You prefer ﬂats, and you consider
+                                                                             Armor: Body Armor (with Ther-        Network S
+means infiltrating a hypercorp         it a point of pride that you sleeve
+                                                                               mal Dampening) +Second Skin        Knife, Whi
+to steal its secrets or sabotag-       into a non-genetically-modified
+                                                                               [14/16] ■
+ing an autonomist habitat. As a        body with no cortical stack and
+skilled professional in service to     still kick transhuman ass. ■
+
+                                               “Not so immortal now, are we, frankenfreak scum!”

@@ -1,0 +1,118 @@
+mesh, the target system must be online and the hacker
+must know it’s mesh ID (p. 246) or otherwise be able
+to track it down (p. 251).
+
+CIRCUMVENTING AUTHENTICATION
+Rather than hacking in, an intruder can try to sub-
+vert the authentication system used to vet legitimate
+users. The easiest manner of doing this is to somehow
+acquire the passcode, passkey, or whatever authentica-
+tion method the target uses (p. 253). With this in hand,
+no test is necessary to access the system; the hacker
+simply logs in just like a legitimate user and has all of
+the normal access privileges of that user.
+   Lacking a passcode, the hacker can try to subvert
+the authentication system in one of two other ways:
+spoofing or forgery.
+
+SPOOFING AUTHENTICATION
+Using this method, the hacker attempts to disguise
+their signals as coming from the legitimate, authen-
+ticated user, rather than from themself. If successful,
+the system is fooled by this masquerade, accepting the
+hacker’s commands and activity as if they came from
+a legitimate user. Spoofing is more difficult to pull off,
+but is very effective when it works.
+   To spoof a legitimate user, the hacker must be using
+both sniffer and spoofing software (p. 331). The
+hacker must then monitor a connection between the
+legitimate user and the target system, and succeed
+in an Infosec Test to sniff the traffic between them
+(p. 252). Apply a –20 modifier if the user has secu-
+rity account privileges, –30 if they have admin rights
+(p. 247). If the connection is encrypted, this will fail
+unless the hacker has the encryption key.
+   Armed with this data, the hacker then uses it to
+disguise their signals. This requires an Infosec Test,
+modified by the quality of the system’s firewall and
+the hacker’s spoofing program. If successful, com-
+munications sent by the hacker are treated as coming
+from the legitimate user.
+
+FORGING AUTHENTICATION
+Biometric and passkey systems used for authentication
+(p. 253) can potentially be forged hackers who are
+able to get a look at the originals. The means and tech-
+niques for doing so differ, and are beyond the scope of
+this book, but successfully forging such systems would
+allow a hacker to log in as the legitimate user.
+
+
+
+
+ THE HACKING SEQUENC
+ 1. Defeat the Firewall
+ 2. Bypass Active Security
+    a. Hacker Wins with Excellent Success, Defender
+    b. Hacker Succeeds, Defender Fails
+    c. Both Succeed
+    d. Defender Succeeds, Hacker Fails
+     INTRUSION TESTS
+     Hacking into a node is a time-consuming task. The
+     target system must be carefully analyzed and probed
+     for weaknesses, without alerting its defenses. Depend-
+     ing on the type of security in place, more than one test
+     may be called for.
+       Hackers require special exploit software (p. 331) to
+     take advantage of security holes, but software does
+     not a hacker make. What really counts is Infosec skill
+     (p. 180), which is the ability to use, modify, and im-
+     provise exploits to their full advantage.
+
+     DEFEATING THE FIREWALL
+     Lacking a passcode, the hacker must break in the old-
+     fashioned way: discreetly scanning the target, look for
+     weaknesses, and take advantage of them. In this case
+     the hacker takes their exploit software and makes an
+     Infosec Test. This is handled as a Task Action with a
+     timeframe of 10 minutes. Various modifiers may apply,
+     such as the quality of the exploit software, the quality
+     of the Firewall, or the alertness of the target system. The
+     gamemaster may also modify the timeframe, shortening
+     it to reflect systems that are cookie-cutter common with
+     known security flaws or raising it as fitting for a top-of-
+     the-line system with still-unreleased defenses.
+        By default, a hacker trying to break in this way is
+     pursuing standard user access rights (p. 247). If the
+     hacker wishes to obtain security or admin privileges on
+     the system, apply a –20 or –30 modifier, respectively.
+         If the Infosec Test succeeds, the intruder has invaded
+     the system without triggering any alarms. If the system is
+     actively monitored (p. 253), they must now avoid detec-
+     tion by that watchdog (see below). If there is no active
+     monitor, the intruder gains the status of Covert (see In-
+     truder Status, p. 256). If the intruder scored an Excellent
+     Success, however, their status is Hidden (p. 256).
+         Probing: Players may choose to take the time (p.
+     116) when probing the target for weakness and ex-
+     ploits. In fact, this is a common procedure when a
+     hacker wants to ensure success.
+
+     BYPASSING ACTIVE SECURITY
+     If a system is also actively monitored (p. 253), the
+     hacker must avoid detection. Treat this as a Variable
+     Opposed Infosec Test between the intruder and the
+     monitor. The outcome depends on both rolls:
+        If only the intruder succeeds, the hacker has ac-
+     cessed the node without the monitor or the system
+
+
+
+
+E
+          Infosec Task Action (10 minutes)
+          Opposed Infosec Test
+ls        Hidden status/+30 all tests (p. 256)
+          Covert Status (p. 256)
+          Spot Status/Passive Alert (p. 256)
+          Locked status/Active Alert (p. 256)                  ■

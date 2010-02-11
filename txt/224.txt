@@ -1,0 +1,59 @@
+when defending against psi use. Note that infomorphs
+may never be targeted by psi sleights as psi is not ef-
+fective within the mesh or simulspace.
+   Multiple Targets: An async may target more than
+one character with a sleight with the same action, as
+long as each of them can be targeted via the rules
+above. The psi character only rolls once, with each of
+the defending characters making their Opposed Tests
+against that roll. The psi character suffers strain (p.
+223) for each target, however, meaning that using psi
+on multiple targets can be extremely dangerous.
+   Animals and Less Complex Life Forms: Psi works
+against any living creature with a brain and/or
+nervous system. Against partially-sentient and par-
+tially-uplifted animals, it suffers a –20 modifier and
+increases strain by +1. Against non-sentient animals,
+it suffers a –30 modifier and increases strain by +3. It
+has no effect on or against less complex life forms like
+plants, algae, bacteria, etc.
+   Factors and Aliens: At the gamemaster’s discretion,
+psi sleights may not work on alien creatures at all, de-
+pending on their physiology and neurology. If it does
+work, it is likely to suffer at least a –20 modifier and
++1 strain.
+
+OPPOSED TESTS
+Psi that is used against another character is resisted
+with an Opposed Test. Defending characters resist with
+WIL x 2. Willing characters may choose not to resist.
+Unconscious or sleeping characters cannot resist.
+   If the psi-wielding character succeeds and the de-
+fender fails, the sleight affects the target. If the psi user
+fails, the defender is unscathed. If both parties suc-
+ceed in their tests, compare their dice rolls. If the psi
+user’s roll is higher, the sleight bypasses the defender’s
+mental block and affects the target; otherwise, the
+sleight fails to affect the defender’s ego.
+
+TARGET AWARENESS
+The target of a psi sleight is aware they are being
+targeted any time they succeed on their half of the
+Opposed Test (regardless on whether the async
+rolls higher or not). Note that awareness does not
+necessarily mean that the target understands that psi
+abilities are being used on them, especially as most
+people in Eclipse Phase are unaware of psi’s existence.
+Instead, the target is simply likely to understand that
+some outside influence is at work, or that something
+strange is happening. They may suspect that they
+have been drugged or are under the influence of some
+strange technology.
+  Targets who fail their roll remain unaware.
+
+PSI FULL DEFENSE
+Like full defense in physical combat (p. 198), a de-
+fender may spend a Complex Action to rally and con-
+centrate their mental defenses, gaining a +30 modifier
+to their defense test against psi use until their next
+Action Phase.

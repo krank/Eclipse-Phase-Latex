@@ -1,0 +1,123 @@
+HEADHUNTERS
+Headhunters are multi-legged insectoid flying drones
+that use a dragonfly wing configuration to hover and
+move. The legs are equipped with grasping claws
+and extendable buzzsaws. Their primary purpose is
+to grasp on to the heads of victims and cut through
+the neck, decapitating them. Collected heads are then
+flown to nearby special facilities for forced uploading.
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX
+  10     20      15    20     5      10    15      —
+
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR
+  70     1      —      —      —      30     6     —
+Mobility System: Winged (8/32)
+Skills: Flight 70, Fray 60, Exotic Melee Weapon: Buzz-
+  saws 55, Infiltration 60, Investigation 40, Perception
+  40, Unarmed Combat 55
+Notes: Armor 6/6, Buzzsaws (1d10 + 3 DV), Enhanced
+  Vision, Lidar, T-Ray Emitter
+
+HUNTER-KILLERS
+  These lethal flying drones achieved air superiority
+during TITAN military operations. Their sleek jet-
+powered form unfolds for vectored-thrust hovering
+and weapons deployment.
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX
+  15     30      15    30     5      20    15      —
+
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR
+  90     2      —      —      —      50    10     —
+Mobility System: Thrust Vector (8/80)
+Skills: Beam Weapons 55, Flight 80, Fray 60, Infiltra-
+  tion 40, Kinetic Weapons 65, Perception 50, Seeker
+  Weapons 80
+Notes: Armor 14/14, Anti-Glare, Chameleon Skin,
+  Enhanced Vision, Lidar, Radar, Shape-Adjusting
+Typical Weapons: 2 Particle Beam Rifles, 2 Railgun
+  Machine Guns, 2 Seeker Rifles
+
+WARBOTS
+Warbots are massive, armored, vaguely anthropo-
+morphic mecha, used for heavy combat operations.
+Bipedal, these warbots are equipped with four arms
+and a pair of grasping mechanical tentacles, along
+with numerous weapon systems.
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX
+  15     20      15    20     5      25    15      —
+
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR
+  60     2      —      —      —      80    16     —
+Mobility System: Walker (4/20)
+Skills: Beam Weapons 60, Exotic Melee Weapon: Ten-
+  tacles 40, Fray 50, Infiltration 30, Kinetic Weapons
+  70, Perception 50, Seeker Weapons 50, Spray Weap-
+  ons 50, Unarmed Combat 50
+Notes: Armor 20/20, 360-Degree Vision, Anti-Glare,
+  Chameleon Skin, Chem Sniffer, Cyber Claws (2d10
+  + 6 DV), Electrical Sense, Enhanced Vision, Extra
+  Limbs (6), Lidar, Magnetic System, Pneumatic
+  Limbs, Radar, Tentacles (prehensile, 1d10 + 6 DV),
+  T-Ray Emitter
+Typical Weapons: Particle Beam Rifle, Plasma Rifle,
+  Pulser, Railgun Machine Gun, Seeker Rifle, Torch
+SELF-REPLICATING NANOSWARMS
+The nanoswarms distributed by the TITANs are a step
+beyond the nanotechnology available to transhumanity.
+Unlike transhuman-created nanoswarms, the TITAN
+swarms are autonomous, sapient, and self-replicating.
+They are also highly adaptive, meaning they are not
+single function but can modify themselves to perform
+almost any nanoswarm task. They may also nano-
+fabricate new materials, much like fractals (p. 382).
+Combined, these capabilities make such nanoswarms
+incredibly potent. When they encounter a new op-
+ponent, they can scan the opponent’s capabilities and
+then fabricate offensive systems to use against them.
+When an opponent deploys a weapon system again the
+swarm, it will learn and adapt countermeasures that
+will make such attacks ineffective against the swarm in
+the future. These nanoswarms may also function like
+so-called utility fog, linking together into a physical
+lattice in order to create large scale physical forms.
+   The possibilities for such nanoswarms are almost lim-
+itless. For example, they may lie in wait as an invisible
+nanoscopic swarm, float as barely-visible mist, or shape
+into a swarm of small hopping drones to move about.
+When facing opponents, the nanoswarm could transform
+itself into a giant electroshock net across the ground,
+shape into a flotilla of seeker-armed flying drones, or
+link together as a set of massive whip-like tentacles to
+slice through their fleshy foes. Such nanoswarms are
+also impossible to destroy, as only a few nanobots need
+to survive in order to rebuild the swarm, and the new
+swarm will learn from the mistakes of the old.
+   Self-replicating nanoswarms follow the rules given
+for Nanoswarms and Microswarms, p. 328, with the
+following additions and exceptions:
+
+  • They do not need to be sustained by a hive and
+    do not deteriorate.
+  • They self-repair damage at the rate of 1d10 per
+    half hour.
+  • They may nanofabricate new items, materials,
+    or forms in half the standard timeframe (half an
+    hour per Cost category).
+  • They may replicate any of the nanoswarm func-
+    tions as noted on p. 328, as well as the functions
+    of any other nanoswarm-using gear (smart dust,
+    covert ops tool, repair spray, etc.).
+  • They may make SOM Tests.
+  • At the gamemaster’s discretion, they may adapt
+    new defenses against attacks used against them.
+    New defenses take a minimum of 2 hours to devise
+    and replicate throughout the swarm, after which
+    such an attack will inflict minimal or no damage.
+  • Assume they have any skill they need at a mini-
+    mum of 40. Such skills may rapidly improve
+    as needed.
+ COG     COO    INT    REF    SAV    SOM    WIL    MOX
+  25      20     25     20     5      15    15      —
+
+  INIT   SPD    LUC    TT     IR     DUR    WT     DR
+   90     1      —     —      —       70    —      —

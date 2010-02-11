@@ -1,0 +1,62 @@
+MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND H
+
+
+
+ HACKS                                                                                                                    8
+
+
+  Though neuroscience has ascended to impressive              process is also thought to be the origin of the impair-
+  pinnacles, allowing minds to be thoroughly scanned,         ment that asyncs experience when adapting to a new
+  mapped, and emulated as software, the transhuman            morph (see below).
+  brain remains a place that is complicated, not fully
+  understood, and thoroughly messy. Despite a preva-          MORPHS AND PSI
+  lence of neural modifications, meddling with the seat       Asyncs require a biological brain to draw on their
+  of consciousness remains a tricky and hazardous             abilities (the brains of uplifted animals count). An
+  procedure. Nevertheless, psychosurgery—editing the          async whose ego is downloaded into an infomorph or
+  mind as software—remains common and widespread,             fully computerized brain (synthmorphs) has no access
+  sometimes with unexpected results.                          to their abilities as long they remain in that morph.
+     Likewise, even as the knowledge of neuroscientists         Asyncs inhabiting a pod morph may use psi, but
+  grows on an exponential basis, some are discovering         their abilities are restricted as pod brains are only
+  that minds are far more mysterious than they had ever       partly biological. Pod-morphed asyncs suffer a –30
+  imagined. During the Fall, scattered reports of “anom-      modifier on all tests involving the use of psi sleights
+  alous activity” by individuals infected by one of the       and the impact from using sleights would be doubled.
+  numerous circulating nanoplagues were discounted
+  as fear and paranoia, but subsequent investigations         MORPH ACCLIMATIZATION
+  by black budget labs has proven otherwise. Now, top-        Async minds undergo extra difficulty adjusting to new
+  level confidential networks whisper that this infection     morphs. For 1 day after the character has resleeved,
+  inflicts intricate changes in the victim’s neural network   they will suffer the effects of a single derangement
+  that imbue them with strange and inexplicable abili-        (p. 210). The gamemaster and player should choose a
+  ties. The exact mechanism and nature of these abilities     derangement appropriate to the character and story.
+  remains unexplained and outside the grasp of modern         Minor derangements are recommended, but at the
+  transhuman science. Given the evidence of a new             gamemaster’s discretion moderate or major derange-
+  brainwave type and the paranormal nature of this            ments may be applied. No trauma is inflicted with
+  phenomenon, it is loosely referred to as “psi.”             this derangement.
+
+                                                              MORPH FEVER
+  PSI                                                         Asyncs find it irritating and traumatizing to endure life
+  In Eclipse Phase, psi is considered a special cognitive     as an infomorph, pod, or synthmorph for long periods
+  condition resulting from infection by the mutant—and        of time. This phenomenon, known as morph fever,
+  hopefully otherwise benign—Watts-Macleod strain             might cause temporary derangements and trauma to
+  of the Exsurgent virus (p. 367). This plague modifies       the asyncs’ ego, possibly even to the grade of perma-
+  the victim’s mind, conferring special abilities. These      nent disorders. If stored or held captive as an active
+  abilities are inherent to the brain’s architecture and      infomorph (i.e. not in virtual stasis), the async might
+  are copied when the mind is uploaded, allowing the          go insane if not psychologically aided by some sort of
+  character to retain their psi abilities when changing       anodyne program or supporting person during storage.
+  from morph to morph.                                          In game terms, asyncs take 1d10 ÷ 2 (round up)
+                                                              points of mental stress damage per month they stay
+  PREREQUISITES                                               in a pod, synthmorph or infomorph form without
+  To wield psi, a character must acquire the Psi trait (p.    psychological assistance by a psychiatrist, software,
+  147) during character creation. It is theoretically also    or muse.
+  possible to acquire the use of psi in game via infec-
+  tion by the Watts-MacLeod strain; see The Exsurgent         PSI DRAWBACKS
+  Virus, p. 362.                                              There are several drawbacks to psi ability:
+     Psi ability is considered an innate ability of the
+  ego and not a biological or genetic predisposition of       • The variant Exsurgent strain that endows psi ability
+  the morph. While psi researchers do not understand            rewires the character’s brain. An unfortunate side
+  how it is possible to transfer this ability via uploads,      effect to this change is that asyncs acquire a vulner-
+  backups, and farcasting, it has been speculated that          ability to mental stress. Reduce the async’s Trauma
+  all components of an async’s ego are entangled on a           Threshold by 1.
+  quantum level, or that they possess the ability to en-      • The mental instability that accompanies psi infec-
+  tangle themselves or form a unique conformation or            tion also tends to unhinge the character’s mind.
+  alignment as a whole even after they have been copied,        Asyncs acquires one Mental Disorder negative trait
+  up-, or downloaded. This speculated entanglement              (p. 150) for each level they have of the Psi trait

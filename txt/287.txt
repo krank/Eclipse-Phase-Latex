@@ -1,0 +1,119 @@
+TIME
+Once the raw materials and blueprints are in, most n
+tion is simply a matter of time. The exact timeframe t
+object varies, but roughly approximates 1 hour per cost
+the item (1 hour for Trivial, 2 for Low, 3 for Moderate
+gamemaster may feel free to modify this period as appr
+the object.
+
+THE PROGRAMMING TEST
+Nanofabrication is typically handled as a Programming
+rication Test. In most cases, this can be treated as a Sim
+Test (p. 118), with a failed roll simply indicating that th
+some minor imperfections, or perhaps took longer to ma
+   In some cases, the gamemaster may call for an actual S
+meaning that failure is more of a possibility. This shou
+done for items that are exotic, extremely complicated, o
+the blueprints are incomplete or otherwise suspect. This t
+be made if the raw materials are limited.
+   The character operating the nanofabricator can make
+it can be left up to the nanofabricator’s built-in AI. Mos
+AIs have a Programming: Nanofabrication skill of 30 (s
+Muses, p. 331).
+
+
+
+REPUTATION AND SOCIAL NETWORKS
+“Once upon a time, there was a planet so incredibly primi
+ inhabitants still used money. That planet is called ‘Mars.
+   —Professor Magnus Ming, Titan Autonomous Univers
+
+   The conflict between market capitalism and other fo
+nomics is one of transhumanity’s last great culture wa
+still being fought. Transhumanity’s expansion into the s
+created myriad opportunities to experiment with new ec
+tems. Many failed, but the reputation economies of the o
+have proven both utilitarian and robust in a way that n
+challenger to market capitalism has managed.
+   The reputation economy, sometimes called the gift e
+open economy, is one in which the material plenty creat
+fabrication and the longevity granted by uploading an
+have removed considerations of supply versus scarcit
+economic equation—destroying classical economics in th
+   The regimented societies of the inner system and
+Junta have used societal controls and careful regula
+technologies of abundance on their populations, thus k
+transitional economy system that is largely an outgrow
+cal economics. No one could get away with doing this i
+system. In the Trojans and Greeks, much of the belt, free
+anywhere outward from Saturn, the reputation economy
+   How did this happen? For one thing, money is a nuis
+you’re an autonomous member of an autonomous collec
+nearest three neighbors (each 100,000 kilometers awa
+autonomous collectives. All of you are almost comp
+sufficient in terms of material resources. You have a flee
+that harvest water, volatiles, reactor mass, metals, and si
+have a nanofabricator to make all of your small items, a
+factory for large ones, and a machine shop where you
+anything else—with help and advice from an AI with th
+knowledge and experience of a top flight engineering t
+even need it. You grow your own food.
+fabrica-
+eate an
+ gory of
+c.). The
+iate for
+
+
+
+
+anofab-
+Success
+em has
+
+ess Test,
+only be
+r which
+ an also
+
+ test or
+ch Such
+AIs and
+
+
+
+
+ that its
+
+
+
+
+ of eco-
+and it’s
+ system
+mic sys-
+ system
+revious
+
+ omy or
+ y nano-
+ ackups
+ om the
+ rocess.
+  Jovian
+  of the
+ ng to a
+ f classi-
+he outer
+ ter, and
+ es.
+ e when
+  whose
+are also
+ely self-
+  robots
+ es. You
+ munity
+ n build
+ mbined
+ , if you

@@ -1,0 +1,103 @@
+                                                       Aca
+
+
+
+
+                                                      Inte
+
+
+
+
+antiated
+
+d
+e +Subverting Technology +Thrill-Seeking
+
+                  Enhancements: Access Jacks,
+es, On the          Basic Mesh Inserts, Cortical
+ Constella-         Stack, Cyberbrain, Electrical     Prof
+me ■                Sense, Enhanced Vision, Lidar,     Pro
+                    Magnetic System, Mental Speed,
+                    Mnemonic Augmentation, Nano-
+                    scopic Vision, Radar, Swarm
+                    Composition, T-Ray Emitter ■
+                  Gear: Automech, Backup Insur-
+                    ance (1 month), EMP Grenade,     There
+                    Exploit Software, Fake Ego       couldn
+                    ID, Guardian Bot, Guardians      got yo
+                    Nanoswarm, Saboteur              that y
+one ■               Nanoswarm, Servitor Bot,         never
+0■                  Sniffer Software, Spoof          at circ
+                    Software, Tactical Network       defens
+                                                     of dig
+                    Software, Tracking Software ■
+                                                     secre
+
+        “You call this secure? Maybe it would keep me ou
+CRIMINAL HACKER
+          APTITUDES
+               COG      COO      INT      REF      SAV     SOM       WIL
+      Base      20       15       15       10       20      10       15
+ rph Bonus
+      Total     20       15       15       10       20       10       15
+
+
+
+
+OX      TT     LUC       IR      WT      DUR       DR
+                                                           STATS
+                                                           INIT      SPD
+         6      30       60       6       30       60       50        1
+
+
+
+                                                         SKILLS
+                                                     MORPH
+                                 APT      BASE       BONUS        TOTAL
+mics: Computer Science           COG       60                       60
+ ademics: Cryptography           COG       60                       60
+Academics: Engineering           COG       50                       50
+    Art: Electronic Music        INT       45                       45
+          Beam Weapons           COO       40                       40
+                 Deception       SAV       55                       55
+                        Fray     REF       40                       40
+                   Free Fall     REF       30                       30
+   Hardware: Electronics         COG       60                       60
+     Hardware: Industrial        COG       45                       45
+     Hardware: Robotics          COG       55                       55
+            Impersonation        SAV       45                       45
+                 Inﬁltration     COO       60                       60
+                    Infosec      COG       70                       70
+ s: Hacker Mesh Forums           COG       55                       55
+ terests: Online Banking         COG       50                       50
+erests: Triad Economics          COG       45                       45
+                Interfacing      COG       55                       55
+               Intimidation      SAV       30                       30
+                   Kinesics      SAV       40                       40
+nguage: Native Russian           INT       85                       85
+etworking: Autonomists           SAV       40                       40
+   Networking: Criminals         SAV       60                       60
+    Networking: Firewall         SAV       40                       40
+Networking: Hypercorps           SAV       40                       40
+                Perception       INT       50                       50
+             Pilot: Aircraft     REF       30                       30
+        Pilot: Groundcraft       REF       20                       20
+ Profession: Accounting          COG       50                       50
+ on: Security Operations         COG       55                       55
+  ion: Social Engineering        COG       60                       60
+             Programming         COG       60                       60
+                  Research       COG       60                       60
+
+
+
+ ever been a system you           of course, but you've never let moral-
+ ack, given time. That's what     ity get in your way. In fact, you make a
+   away the ﬁrst time, but now    good living selling your talents to crimi-
+ ave a second chance you'll       nal groups like the triads and ID Crew.
+  aught again. You take pride     You've never been a joiner, though—
+  enting firewalls and mesh       you remain strictly freelance. In fact,
+—nothing surpasses the thrill     you'll sell your services to almost
+  respassing and accessing        anyone—it's the thrill of the hack that
+ uch intrusions are illegal,      really counts. ■
+
+ I was a particularly slow child.”

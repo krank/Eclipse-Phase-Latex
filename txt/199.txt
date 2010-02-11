@@ -1,0 +1,119 @@
+  If the drone is killed or destroyed, the jammer is
+immediately dumped from their connection, resuming
+control of their own morph as normal. Getting dumped
+in this manner is extremely jarring, not the least be-
+cause the jammer experienced being killed/destroyed.
+As a result, the jammer suffers 1d10 mental stress.
+
+CALLED SHOTS
+   Sometimes it’s not enough to just hit your target—
+you need to shoot out a window, knock the knife out
+of their hand, or hit that hole in their armor. You may
+declare that you are making a called shot before you
+initiate an attack, choosing one of the outcomes noted
+below. Called shots suffer a –10 modifier and require
+an Excellent Success (MoS 30+). If you beat that
+margin, you succeed with the called shot, and the re-
+sults noted below apply. If you don’t beat the margin
+but still succeed in the attack, you simply strike your
+target as normal.
+
+BYPASSING ARMOR
+Called shots may be used to target a hole or weak
+point in your opponent’s armor. If you beat the MoS,
+you strike an armor-defeating hit, and their armor
+does not apply. Note that in certain circumstances, a
+gamemaster may rule that an opponent’s armor simply
+doesn’t have a weak spot or unprotected area, and so
+disallow such called shots.
+
+DISARMING
+You may take a called shot to attempt to knock a
+weapon out of an opponent’s hand(s). If you beat the
+MoS, the victim suffers half damage from the attack (re-
+duced by armor as normal) and must make a SOM x 3
+Test with a –30 modifier to retain hold of the weapon.
+
+SPECIFIC TARGETING
+You may make a called shot with the intention of hitting
+a specific location or component on your target—for
+example: disabling the sensor unit on a bot, sweeping
+someone’s leg, or poking someone in the eye. If you beat
+the MoS, you hit the specific targeted spot. The game-
+master determines the result as appropriate to the attack
+and target—the component may be destroyed, the op-
+ponent may fall or be temporarily blinded, and so on.
+
+CHARGING
+An opponent who runs and attacks an opponent in
+melee combat in the same Action Phase is considered
+to be charging. A charging attacker still suffers the
+–10 modifier for running, but they receive a damage
+bonus on account of their momentum: increase the
+damage they inflict by +1d10.
+
+RECEIVING A CHARGE
+You may delay your action (see p. 189) in order to
+receive a charge, bracing yourself for impact, inter-
+rupting their action, and striking right before your
+charging does. In this situation, you receive a +20
+modifier for striking the charging opponent.
+DEMOLITIONS
+The most common use of the Demolitions skill is the
+placement, disarming, or manufacture of explosive
+devices, such as superthermite charges (p. 330) or
+grenades (p. 340).
+
+PLACING EXPLOSIVES
+A skilled demolitionist can place charges in a manner
+that will boost their effect. They can identify struc-
+tural vulnerabilities and weak points and focus a
+blast in these areas. They can determine how to blast
+open a safe without destroying the contents. They can
+focus the force of an explosion in a particular direc-
+tion, increasing the directed force while minimizing
+splash effects.
+   Each of these scenarios calls for a successful De-
+molitions Test. The exact result is determined by
+the gamemaster according to the specific scenario.
+For example, using the examples above, targeting
+a weak point could double the damage inflicted on
+that structure. Shaping the charge to direct the force
+can triple the damage in that direction, as noted in
+the superthermite description (p. 330). An Excellent
+Success is likely to increase an explosive’s damage by
++5, whereas a critical success would allow the blast to
+ignore armor.
+
+DISARMING
+Disarming an explosive device is handled as an Op-
+posed Test between the Demolitions skills of the dis-
+armer and the character who set the bomb.
+
+MAKING EXPLOSIVES
+A character trained in Demolitions can make ex-
+plosives from raw materials. These materials can be
+gathered the traditional way or they can be manufac-
+tured using a nanofabricator. Even nanofabbers with
+restricted settings to prevent explosives creation can
+be used, as explosives can be constructed from all
+manner of mundane chemicals and materials.
+  The timeframe for making explosives is 1 hour per
+1d10 points of damage the explosive will inflict. If a
+critical failure is rolled, the demolitionist may acciden-
+tally blow himself up, or the charge may be extremely
+weaker or more potent than expected (whichever is
+more likely to be disastrous).
+
+FALLING
+If a character falls, use the Falling Damage table to
+determine what injuries they suffer. Kinetic armor
+will mitigate this damage at
+half its value (round down).
+Gamemasters may also reduce             FALLING DA
+this damage if anything helped
+to break the fall (branches, soft      DISTANCE FALLEN
+surface) at their discretion.           1–2 meters
+                                        3–5 meters
+                                        6–8 meters
+                                        Over 8 meters

@@ -1,0 +1,67 @@
+                                                                      ULTIMATEAPTITUDES
+                                                                               MERC
+                                                                              COG     COO    INT    REF    SAV        SOM    WIL
+                                                                    Base       10      20     15     20     10         15    15
+                                                             Morph Bonus       10      5             5       5         10
+                                                                    Total      20      25     15     25     15         25     15
+
+
+
+
+                                                             MOX       TT     LUC      IR    WT     DUR    DR
+                                                                                                                  STATS
+                                                                                                                  INIT       SPD
+                                                              3         6      30      60     8      40    60    70 (80)     1 (2)
+
+
+
+                                                                                                                 SKILLS
+                                                                                                             MORPH
+                                                                                             APT    BASE     BONUS          TOTAL
+                                                           Academics: Military Science       COG     60        10             70
+                                                                Academics: Philosophy        COG     60        10             70
+                                                                        Beam Weapons         COO     60        5              65
+                                                                                 Climbing    SOM     35        10             45
+                                                                                    Clubs    SOM     50        10             60
+                                                                                      Fray   REF     65        5              70
+                                                                                 Free Fall   REF     50        5              55
+                                                                             Freerunning     SOM     45        10             55
+                                                                                 Gunnery     INT     45                       45
+                                                                    Hardware: Armorer        COG     50                       60
+                                                                               Inﬁltration   COO     50          5            55
+                                                                    Interests: Literature    COG     50          10           60
+                                                              Interests: Military History    COG     55          10           65
+                                                                             Intimidation    SAV     35          5            40
+                                                                       Kinetic Weapons       COO     60          5            65
+                                                              Language: Native Turkish       INT     80                       80
+                                                                      Language: English      INT     60                       60
+                                                                     Language: German        INT     45                       45
+                                                                  Medicine: Paramedic        COG     40          10           50
+                                                               Networking: Hypercorps        SAV     50          5            55
+                                                                              Perception     INT     50                       50
+                                                                      Pilot: Groundcraft     REF     30          5            35
+                                                                Profession: Military Ops     COG     55          10           65
+                                                               Profession: Security Ops      COG     50          10           60
+                                                            Profession: Squad Logistics      COG     55          10           65
+                                                                       Seeker Weapons        COO     60          5            65
+Colonist                                                                Spray Weapons        COO     35          5            40
+                                                                             Scrounging      INT     25          5            30
+                                                                    Throwing Weapons         COO     40          5            45
+rtality +Individualism +Personal Development
+                                                                       Unarmed Combat        SOM     60          10           70
+                  Implants: Basic Biomods, Basic
+                  Mesh Inserts, Circadian Regula-      You are a warrior-philosopher,         on to the next. You mostly find
+lley ■            tion, Clean Metabolism, Cortical     embracing an ascetic lifestyle for     employment in the inner system,
+                  Stack, Eidetic Memory, Enhanced      your own personal growth. You          where various social cliques and
+                  Respiration, Enhanced Vision,        decry the hedonism and greed of        hypercorps favor ultimates like
+                  Hand Laser, Medichines,              the inner system and the collec-       yourself, knowing they are less
+                  Neurachem (Level 1), Tem-            tivism and anarchy of the autono-      likely to be tempted or subverted
+                  perature Tolerance, Toxin Filters,   mists, but you’re more than willing    by rivals. In the end it doesn’t
+(Heavy) with      T-Ray Emitter ■                      to take their pay so that they may     matter who pays the credit; you’ll
+g [16/13] ■       Gear: Backup Insurance               kill each other. You follow your       take from them, learn from them,
+ailgun SMG           (1 month), HE Grenades (10),      own path, however, and when            and be here long after they’ve
+ar ammo, 100         Muse, Particle Beam Bolter,       you cease to learn from an expe-       destroyed themselves with their
+)■                   Tactical Network Software,        rience or increase your own per-       petty intrigues and flawed ideolo-
+0■                   Vibroblade ■                      sonal capabilities you will move       gies. ■
+
+                            “Your beliefs blind you to your true potential.”

@@ -1,0 +1,68 @@
+                                        SAMPLE OBJECTS AND STRUCTURES
+                                                         WOUND
+OBJECT/STRUCTURE                      ARMOR DURABILITY THRESHOLD          OBJECT/STRUCTURE                           ARMOR DURAB
+Advanced Composites                                                       Ecto link                                       —         6
+                                       50       1,000        200
+  (ship/habitat hull)                                                     Metallic Foam (walls, doors, etc.)              20       70
+Aerogel (walls, windows, etc.)         —          50          10          Metallic Glass                                  30       150
+Airlock Door                           15        100          25          Polymer or Wood
+                                                                                                                          10       40
+Alloys, Concrete, Hardened Polymers                                          (walls, doors, furniture, etc.)
+                                       30        100          20
+(reinforced doors/walls)                                                  Quantum Farcaster Link                           3       20
+Armored Glass                          10         50          20          Transparent Alumina (walls, furniture)           5       60
+Counter                                 7         60          12          Tree                                             2       40
+Desk                                    5         50          10          Window                                          —         5
+
+
+ as doors, walls, etc. This reflects the fact that most
+ ranged attacks simply penetrate the structure, leaving                                    WEAPON RANGES
+ minor damage.
+   Agonizers and stunners have no effect on objects                                             SHORT           MEDIUM       LONG
+ and structures.                                             WEAPON (TYPE)                      RANGE          RANGE (–10) RANGE (
+                                                             Firearms
+ SHOOTING THROUGH                                              Light Pistol                      0–10              11–25         26–4
+ If a character attempts to shoot through an object or         Medium Pistol                     0–10              11–30         31–5
+ structure at a target on the other side, the attack is        Heavy Pistol                      0–10              11–35         36–6
+ likely to suffer a blind fire modifier of at least –30
+                                                               SMG                               0–30              31–80        81–12
+ unless the attack has some way of viewing the target.
+                                                               Assault Riﬂe                      0–150          151–250         251–5
+ On top of this, the target receives an armor bonus
+ equal to the object/structure’s Armor rating x 2.             Sniper Riﬂe                       0–180          181–400        401–1,1
+                                                               Machine Gun                       0–100          101–400        401–1,0
+ RANGE                                                       Railguns
+Every type of ranged weapon has a limited range,               as Firearms but increase the effective range in each category by +50
+beyond which it is ineffective. The effective range of       Beam Weapons
+the weapon is further broken down into four catego-
+                                                               Cybernetic Hand Laser             0–30              31–80        81–12
+ries: Short, Medium, Long, and Extreme. A modifier
+                                                               Laser Pulser                      0–30              31–100       101–1
+is applied for each category, as noted on the Combat
+Modifiers table, p. 193.                                       Microwave Agonizer                 0–5              6–15          16–3
+   For examples of specific weapon ranges, see the             Particle Beam Bolter              0–30              31–100       101–1
+Weapon Ranges table.                                           Plasma Riﬂe                       0–20              21–50        51–10
+                                                               Stunner                           0–10              11–25         26–4
+ RANGE, GRAVITY, AND VACUUM                                  Seekers
+ The ranges listed on the Weapon Ranges table are for          Seeker Micromissile               5–70              71–180       181–6
+ Earth-like gravity conditions (1 g). While the effective
+                                                               Seeker Minimissile                5–150          151–300        301–1,0
+ ranges of kinetic, seeker, spray, and thrown weapons
+                                                               Seeker Standard Missile           5–300          301–1,000      1001–3,
+ can potentially increase in lower gravity environments
+ due to lack of gravitational forces or aerodynamic          Spray Weapons
+ drag, accuracy is still the defining factor for determin-     Buzzer                             0–5              6–15          16–3
+ ing whether you hit or miss a target. In lower gravi-         Freezer                            0–5              6–15          16–3
+ ties, use the same effective ranges listed, but extend        Shard Pistol                      0–10              11–30         31–5
+ the maximum range by dividing it by the gravity (for          Shredder                          0–10              11–40         41–7
+ example, a max range of 100 meters would be 200               Sprayer                            0–5              6–15          16–3
+ meters in 0.5 g). In microgravity and zero g, the maxi-
+                                                               Torch                              0–5              6–15          16–3
+ mum range is effectively line of sight. Likewise, under
+ high-gravity conditions (over 1 g), divide each range         Vortex Ring Gun                    0–5              6–15          16–3
+ category maximum by the gravity (e.g., a short range        Thrown Weapons
+ of 10 meters would be 5 meters in 2 g).                       Blades                        To SOM ÷ 5        To SOM ÷ 2       To SO
+    Beam weapons are not affected by gravity, but they         Minigrenades                  To SOM ÷ 2            To SOM      To SOM
+ do fare much better in non-atmospheric conditions.            Standard Grenades             To SOM ÷ 5        To SOM ÷ 2       To SO
+ Maximum beam weapon range in vacuum is effec-
+ tively line of sight.

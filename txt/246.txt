@@ -1,0 +1,121 @@
+systems—such as space traffic control, life support,
+power systems, and hypercorporate research facili-
+ties—are usually limited to isolated, tightly-controlled,
+heavily-monitored, hard-wired networks to minimize
+the risk of intrusion from snoopers and saboteurs.
+various countermeasures may be applied against
+such intruders, ranging from locking them out of the
+system to tracking them back and counterhacking.
+
+MALWARE
+The number of worms, virii, and other malware pro-
+grams that ripped through computer systems during
+the Fall was staggering. Many of these were part of
+the netwar systems prepared by old Earth nation-states
+and corporations and unleashed on their enemies.
+Others were products of the TITANs, subversive pro-
+grams that even the best defenses had trouble stopping.
+Even 10 years later, many of these are still reappearing,
+brought back to life by the accessing of some long-
+forgotten data cache or the accidental infection of a
+scavenger mucking through old ruins. New ones pop
+every day, of course, many of them programmed by
+criminal hacker outfits, while others that enter circu-
+lation are modifications and variations of suspected
+TITAN designs, perhaps implying that certain parties
+are intentionally tinkering with this code and releasing
+it into the wild. Rumors and whispers circulate that
+some of these TITAN worms are even more potent and
+frightening than previously hinted at, with stunning
+adaptive capabilities and intelligence. These rumors
+are steadfastly denied by authority figures and security
+experts ... who then quietly turn around and do their
+best to ensure that their own networks remain safe.
+
+
+
+AI S AND INFOLIFE
+Self-aware helper programs were originally designed
+and realized to augment transhuman cognitive abili-
+ties. These specialized-focus AIs were then developed
+into the more complete, independent digital conscious-
+nesses known as AGIs. The further evolution of these
+digital life forms into seed AIs unfortunately led to the
+emergence of the TITANs and then the Fall. This cre-
+ated a rift in transhuman society as fear and prejudice
+turned popular opinion against unrestricted AGIs, an
+attitude of mistrust that still lingers to this day.
+
+AI S
+The term AI is used to refer to narrow, limited-focus
+AIs. These digital minds are expert programs with pro-
+cessing capabilities equal to or even exceeding that of
+a transhuman mind. Though they have a personality
+matrix with individual identities and character, and
+though they are (usually) conscious and self-aware,
+their overall complexity and capabilities are limited.
+The programmed skills and abilities of AIs are typi-
+cally very specific in scope and aligned towards a par-
+ticular function, such as piloting a vehicle, facilitating
+mesh searches, or coordinating the functions of some
+habitat sub-system. Some AIs, in fact, can only barely
+be considered sapient, and their emotional program-
+ming is usually narrow or non-existent.
+  AIs have a number of built-in safety features and
+programmed limitations. They must serve and obey the
+instructions of authorized users within their normal
+functioning parameters and (in the inner system at
+least) must also obey the law. They lack self-interest
+and self-initiative, though they have limited empathy
+and may be programmed to anticipate the needs and
+desires of users and pre-emptively take action on
+their behalf. Perhaps most importantly, however, is
+that their psychological programming is specifically
+based on universal human modes of thought and an
+understanding and support of transhuman goals
+and interests. This is part of an initiative to engineer
+so-called “friendly AIs,” who are programmed with
+sympathy towards transhumanity and all life and seek
+out their best interests.
+   In most societies, basic AIs are considered “things”
+or property rather than people and are accorded no
+special rights.
+
+MUSES
+Muses are a specific type of AI designed to function
+as a personal aide and companion. Most people in
+Eclipse Phase have grown up with a muse at their
+virtual side. Muses tend to have a bit more personality
+and psychological programming than standard AIs and
+over time they build up an extensive database of their
+user’s preferences, likes and dislikes, and personality
+quirks so that they may more effectively be of service
+and anticipate needs. Muses generally have names
+and reside within the character’s mesh inserts or ecto,
+where they can manage the character’s personal area
+network, communications, data queries, and so on.
+
+AGIS
+AGIs are complete and fully operational digital con-
+sciousnesses, self-aware and capable of intelligent
+action at the same level as any transhuman. Most have
+full autonomy and the capacity for self-improvement
+by a processing similar to learning—a slow optimi-
+zation and expansion of their code that features
+programmed limitations to prevent it from achiev-
+ing the self-upgrading capabilities of seed AIs. They
+have more fully-rounded personalities and emotional/
+empathic abilities than standard AIs, due in part to
+a development process where they are literally raised
+within a VR simulation analogous to the rearing of
+transhuman children, and so are more fully socialized.
+As a result, they have a fairly human outlook, though
+some deviation is to be expected, and sometimes is
+apparent in great degrees. Despite this attempt to hu-
+manize AGIs, they do not have the same evolutionary
+and biological origins that transhumans have, and so
+their social responses, behavior, and goals are some-
+times off-mark or decidedly different.
+  AGIs bear the social stigma of their non-biological
+origin and are often met with bias and mistrust. Some
+habitats have even outlawed AGIs or subject them to

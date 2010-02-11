@@ -1,0 +1,63 @@
+                                                  HEALING VAT TABLE
+INJURY                                                                                                   HEALING TIME
+                                                                                                        2 hours per wound
+Healing normal damage to a character who has taken 3 or fewer wounds.
+                                                                                                    (min. 1 hour for 0 wounds)
+Restoring major lost body parts like arms or legs, or healing dying or nearly dead character
+                                                                                                       12 hours per wound
+who has taken 4 wounds.
+Restoring recently dead character who was placed in medical stasis to avoid death, but
+                                                                                                         1 day per wound
+who is mostly intact.
+Restoring recently dead character who is placed in medical stasis to avoid death,
+                                                                                                        3 days per wound
+and who is missing most of their body.
+Augmentation
+Minor implants and bioware, minor cosmetic changes like alterations in skin color, eye
+color or shape, or hair color, texture or distribution, minor alterations to face shape or                   1 hour
+body fat distribution.
+Major brain and neural implants, nanoware or bioware, sex changes, changing height by
+                                                                                                             12 hours
+no more than 5% or weight by no more than 20%.
+Major physical modiﬁcations like adding limbs or radical changes to height and weight.                       3 days
+
+
+
+ contain information about their implants, bioware, or                      manufactured good, from a weapon to an ultralight
+ advanced nanotechnology, all of these modifications                        plane to a hot and delicious dinner. Many nanofabri-
+ are also fully restored.                                                   cators come equipped with a library of common-use
+    Few people suffer injuries serious enough to require                    blueprints (basic foods, standard clothing, common
+ a healing vat. Most are used as a safe and easy way                        tools, etc.). Other blueprints must either be purchased
+ to perform bodysculpting or to install implants or                         online, self-programmed, or acquired through some
+ bioware. Healing vats use specialized nanomachines                         other method (see Nanofabrication, p. 284). The larg-
+ to either alter the patient’s body or integrate implants                   est nanofabrication units are more than 10 meters on
+ or bioware. One advantage of using a healing vat is                        a side and are used to produce small consumer goods
+ that no additional healing time is needed, the patient                     in bulk as well as building large devices like orbital
+ leaves the vat fully recovered from the augmentation                       transfer vehicles.
+ and ready to go. Every hospital, clinic, bodyshop, and                        The availability and legality of nanofabricators
+ augmentation parlor has several healing vats. The                          varies widely throughout the system. In the inner
+ time required by a healing vat varies with the sever-                      system and Jovian Republic, cornucopia machines
+ ity of the damage it is healing or the extent of the                       are commonly restricted and sometimes illegal, with
+ modification being made, as noted on the Healing Vat                       licenses only available to hypercorps, military units,
+ table, p. 327. [High]                                                      and other officials and elites. In these habitats, only
+                                                                            more limited fabbers are available to the general
+ NANODETECTORS                                                              populace. Additionally, blueprints are licensed and
+ Nanodetectors are small devices that suck in air and                       protected by copyright laws, and many nanofabrica-
+ micro debris in order to scan for and detect nano-                         tors feature pre-programmed restrictions that prevent
+ bots. Given that nanobots are so small, the density of                     them from using unlicensed blueprints as well as
+ nanobots in the area has a large impact on its success.                    from manufacturing weapons, explosives, or other
+ The nanodetector has a base skill of 30 for detecting                      restricted items. Among the autonomists of the outer
+ nanobots, modified by +30 if an active nanoswarm or                        system, however, nanofabricators are commonly ac-
+ hive is present, +0 if a nanoswarm or hive was active                      cessible, shared by everyone, and unrestricted.
+ recently, and –10 for the presence of nanobots outside                        For rules on creating goods in a nanofabricator, see
+ of a swarm or hive. Once a nanobot is detected it may                      Nanofabrication, p. 284.
+ be analyzed either by the user or the nanodetector’s AI,                      Desktop Cornucopia Machine: Cornucopia ma-
+ using Academics: Nanotechnology 30 skill. Nanode-                          chines (CMs) are general-purpose nanofabricators.
+ tectors are often worn and left on, set to alert the user                  The smallest CMs are desk-sized cubes approximately
+ if a hostile nanoswarm is detected. [Low]                                  half a meter on a side with a volume of at least 40
+                                                                            liters. They can produce any small object, from tools
+ NANOFABRICATORS                                                            to well-folded suits of clothing to handguns or a bowl
+ Nanofabrication machines are universal assemblers                          of cereal. It is sometimes possible to assemble larger
+ that perform almost all of the manufacturing in the                        items, but they must be manufactured in smaller
+ solar system. The user loads in raw materials and                          pieces and then assembled (likely requiring an appro-
+ electronic plans and it can produce literally any                          priate Hardware Test).

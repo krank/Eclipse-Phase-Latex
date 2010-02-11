@@ -1,0 +1,45 @@
+to dodge other events that may harm the character,         HARDWARE: [FIELD]
+such as avoiding a charging vehicle or jumping out of      Type: Field, Active, Technical
+the way of a collapsing stack of crates.                   Linked Aptitude: COG
+Specializations: Blades, Clubs, Full Defense, Unarmed        What it is: This skill encompasses the ability to
+                                                           build, repair, physically hack, and upgrade equipment
+FREE FALL                                                  of a specific type.
+Type: Active, Physical                                       When you use it: Hardware is primarily used to repair
+Linked Aptitude: REF                                       devices, vehicles, habitat systems, or synthetic morphs.
+  What it is: Free Fall is about moving in free-fall and   See Building, Repairing, and Modifying below.
+microgravity environments.                                 Sample Fields: Aerospace (all air and space vehicles),
+  When you use it: Use whenever you need to maneu-           Armorer (armor and weapons), Electronics (all
+ver in a zero-g situation, such as propelling yourself       computerized devices), Groundcraft, Implants, In-
+across a large open space or making sure you don’t           dustrial (habitat, factory, and life support systems),
+accidentally send yourself spinning off into space.          Nautical (watercraft and submarines), Robotics
+Free Fall is also used when moving with spacesuit            (synthetic morphs)
+maneuvering jets and when parachuting.                     Specializations: As appropriate to the field
+Specializations: Microgravity, Parachuting, Vacsuits
+                                                           BUILDING
+FREERUNNING                                                Creating an item from scratch is handled as a Task
+Type: Active, Physical                                     Action with a timeframe determined by the gamemas-
+Linked Aptitude: SOM                                       ter. The timeframe should be set according to the com-
+   What it is: Freerunning is part running, part gymnas-   plexity of the object and could range from an hour
+tics. It is about moving fast, maneuvering over/under/     (constructing a set of shelves) to days (assembling a
+around/through obstacles, and placing your body            robot from spare parts) to even months (building a
+where it needs to go. Freerunning/parkour is a popular     house). Numerous factors may apply modifiers to
+pastime in habitats where open space is limited.           the test, such as the use of entoptic blueprints/help
+   When you use it: Use Freerunning whenever you           manuals (+20) or poor working conditions (–10 to
+need to overcome an obstacle via movement, such            –30). Tools are also a factor, perhaps making the job
+as hurdling a railing, rolling across the hood of a         easier (superior tools +10 to +30), more difficult (poor
+car, jumping across a pit, or swinging around a pole.      or inadequate tools, –10 to –30), or even impossible
+Freerunning is also used for sprinting (p. 191) and full   (lack of required tools).
+defense against attacks (p. 198).
+Specializations: Balance, Gymnastics, Jumping, Running     REPAIRING
+                                                           Damaged items may be repaired in a similar manner. See
+GUNNERY                                                    the rules for Synthmorph and Object Repair, p. 209.
+Type: Active, Combat
+Linked Aptitude: INT                                       MODIFYING
+  What it is: Gunnery skill covers the use and main-       Altering an object’s design and function follows the
+tenance of large, vehicular, or non-portable weapons       same basic rules as build and repair, above. The time-
+systems. Firing these weapons is more like playing a       frame is determined by the gamemaster as appropriate
+video game than firing a gun.                              to the modification.
+  When you use it: Use Gunnery when attacking with
+a vehicle-mounted weapon or weapon emplacement
+in ranged combat (p. 191).
+Specializations: Artillery, Missiles

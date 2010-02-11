@@ -1,0 +1,115 @@
+                                         IMPROVISE
+                      ARMOR
+WEAPONS           PENETRATION (AP)           DAMAGE VALU
+Baseball                  —                  (1d10 ÷ 2) + (SOM
+Bottle                    —             1 + (SOM ÷ 10), break
+Bottle (Broken)           —                     1d10 – 1 (min
+Chain                     —                    1d10 + (SOM ÷
+Helmet                    —                    1d10 + (SOM ÷
+Plasma Torch              –6                          2d10
+Wrench                    —                    1d10 + (SOM ÷
+
+
+ IMPROVISED WEAPONS
+ Sometimes characters are caught off-guard and they
+ must use whatever they happen to have at hand as
+ a weapon—or they think they look cool wailing on
+ someone with a meter of chain. The Improvised Weap-
+ ons table offers statistics for a few likely ad-hoc items.
+ Gamemasters can use these as guidelines for handling
+ items that aren’t listed.
+
+ KNOCKDOWN/KNOCKBACK
+ If an attacker’s intent is to simply knock an opponent
+ down or back in melee, rather than injure them, roll
+ the attack and defense as normal. If the attacker suc-
+ ceeds, the defender is knocked backward by 1 meter
+ per 10 full points of MoS. To knock an opponent
+ down, the attacker must score an Excellent Success
+ (MoS 30+). A knockback/knockdown attack must be
+ declared before dice are rolled.
+    Unless the attacker rolls a critical success, no
+ damage is inflicted with this attack, the defender is
+ simply knocked down. If the attacker rolls a critical
+ hit, however, apply damage as normal in addition to
+ the knockback/knockdown.
+    Note that characters wounded by an attack may
+ also be knocked down (see Wound Effects, p. 207).
+
+ MELEE AND THROWN DAMAGE BONUS
+ Every successful melee and thrown weapon attack,
+ whether unarmed or with a weapon, receives a damage
+ bonus equal to the attacker’s SOM ÷ 10, round down.
+ See Damage Bonus, p. 123.
+
+ MULTIPLE TARGETS
+ When doling out the damage, there’s no reason not to
+ share the love.
+
+ MELEE COMBAT
+ A character taking a Complex Action to engage in a
+ melee attack may choose to attack two or more op-
+ ponents with the same action. Each opponent must be
+ within one meter of another attacked opponent. These
+ attacks must be declared before the dice are rolled for
+ the first attack. Each attack suffers a cumulative –20
+ modifier for each extra target. So if a character declares
+ they are going to attack three characters with the same
+ action, they suffer a cumulative –60 on each attack.
+WEAPONS
+V)                 AVERAGE DV                    SKILL
+10)               2 + (SOM ÷ 10)           Throwing Weapons
+er 1 use          1 + (SOM ÷ 10)       Clubs or Throwing Weapons
+                         4                       Blades
+                  5 + (SOM ÷ 10)              Exotic Melee
+                  5 + (SOM ÷ 10)       Clubs or Throwing Weapons
+                        11                   Exotic Ranged
+                  5 + (SOM ÷ 10)                 Clubs
+
+
+      RANGED COMBAT
+     A character firing two semi-auto shots with a Complex
+     Action may target a different opponent with each shot.
+     In this case, the attacker suffers a –20 modifier against
+     the second target.
+        A character firing a burst-fire weapon may target up
+     to two targets with each burst, as long as those targets
+     are within one meter of one another. This is handled
+     as a single attack; see Burst Fire, p. 198.
+        A character firing a burst-fire weapon twice with
+     one Complex Action may target a different person or
+     pair with each burst. In this case, the second burst
+     suffers a –20 modifier. This modifier does not apply
+     if the same person/pair targeted with the first burst is
+     targeted again.
+        Full-auto attacks may also be directed at more than
+     one target, as long as each target is within one meter
+     of the previous target. This is handled as a single
+     attack; see Full Auto, p. 198.
+
+      OBJECTS AND STRUCTURES
+     As any poor wall in the vicinity of an enraged drunk
+     can tell you, objects and structures are not immune
+     to violence and attrition. To reflect this, inanimate
+     objects and structures are given Durability, Wound
+     Threshold, and Armor scores, just like characters. Du-
+     rability measures how much damage the structure can
+     take before it is destroyed. Armor reduces the damage
+     inflicted by attacks, as normal. For simplicity, a single
+     Armor rating is given that counts as both Energy and
+     Kinetic armor; at the gamemaster’s discretion, these
+     may be modified as appropriate.
+       Wounds suffered by objects and structures do not have
+     the same effect as wounds inflicted on characters. Each
+     wound is simply treated as a hole, partial demolition, or
+     impaired function, as the gamemaster sees fit. Alternately,
+     a wounded device may function less effectively, and so
+     may inflict a negative modifier on skill tests made while
+     using that object (a cumulative –10 per wound).
+        In the case of large structures, it is recommended
+     that individual parts of the structure be treated as
+     separate entities for the purpose of inflicting damage.
+
+      RANGED ATTACKS
+     Ranged combat attacks inflict only one-third their
+     damage (round down) on large structures such

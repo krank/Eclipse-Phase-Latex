@@ -1,0 +1,118 @@
+they remain just different enough that their looks
+seem creepy or even repulsive—a phenomenon called
+the “uncanny valley.” Morphs whose looks fall into
+this range suffer a –10 modifier on social skill tests
+when dealing with humans. This modifier does not
+apply to interactions with xenomorphs or those with
+the infolife or uplift backgrounds.
+
+UNFIT (MORPH TRAIT)
+Bonus: 10 CP (Level 1), 20 CP (Level 2)
+  The morph is either not optimized for health and/or
+just in bad shape. Reduce the aptitude maximums for
+Coordination, Reflexes, and Somatics by 5 (Level 1 )
+or 10 (Level 2).
+
+VR VERTIGO
+Bonus: 10 CP
+   The character experiences intense vertigo and
+nausea when interfacing with any type of virtual real-
+ity, XP, or simulspace. Augmented reality has no effect,
+but VR inflicts a –30 modifier to all of the character’s
+actions. Prolonged use of VR (gamemaster’s discre-
+tion) may actually incapacitate the character should
+they fail a WIL x 2 Test.
+
+WEAK IMMUNE SYSTEM (MORPH TRAIT)
+Bonus: 10 (Level 1) or 20 (Level 2) CP
+   The morph’s immune system is susceptible to diseas-
+ es, drugs, and toxins. At Level 1, apply a –10 modifier
+whenever making a test to resist infection or the effects
+of a toxin or drug. At Level 2, increase this modifier to
+–20. This trait is only available to biomorphs.
+
+ZERO-G NAUSEA (MORPH TRAIT)
+Bonus: 10 CP
+  This morph suffers from space sickness and does
+not fair well in zero-gravity. The character suffers a
+–10 modifier in any microgravity climate. Addition-
+ally, whenever the character is first getting acclimated
+or anytime they must endure excessive movement in
+microgravity, they must make a WIL Test or spend 1
+hour incapacitated by nausea per 10 points of MoF.
+
+
+
+CHARACTER ADVANCEMENT
+As characters accomplish goals and gather experience
+during gameplay, they accumulate Rez Points (see
+Awarding Rez Points, p. 384). Rez Points may be used
+to improve the character’s skills, aptitudes, and other
+characteristics per the following rules. The costs for
+spending Rez Points for advancement are the same as
+the costs for spending Customization Points.
+
+CHANGING MOTIVATION
+It is only natural that over time a character’s driving
+goals and interests will change. The character may
+reach a turning point where they feel certain personal
+agendas have been fulfilled and it is time to move on,
+or they have failed and need to be discarded. New
+urgencies or philosophies may have entered the
+character’s life, or the character may have become
+disenchanted with particular memes and ideas they
+previously took to heart.
+   Changing a character’s motivation does not cost
+Rez Points, but it is something that should only
+happen in accordance with roleplaying and with
+life-altering events. Players should not be allowed
+to simply switch their motivations at whim, there
+should be a driving reason or explanation for doing
+so. For this reason, changing a motivation should only
+happen when the player and gamemaster discuss the
+matter and both agree that the swap is appropriate to
+the character’s development and circumstances.
+   If these conditions are met, the character simply
+drops a previously held motivation and takes on a
+new one. Only one motivation should be switched
+out at a time.
+
+SWITCHING MORPHS
+Resleeving—switching from one morph to another—
+is handled as an in-character interaction, not with Rez
+Points. See Resleeving, p. 271.
+
+IMPROVING APTITUDES
+Aptitudes may be raised with Rez Points at the cost of
+10 RP per aptitude point. This represents the charac-
+ter’s improvement in their core characteristics, gained
+from exercise, learning, and experience. Aptitudes may
+not be raised above 30 (bonuses from morphs, im-
+plants, traits, or other sources do not count towards
+this total).
+  Raising the value of an aptitude also raises the
+value of all linked skills by an equivalent amount. If
+this raises any linked skills over 60, an additional 1
+RP must be spent per linked skill over 60.
+
+IMPROVING SKILLS
+Characters may also spend Rez Points to increase
+existing skills or learn new ones. To improve an ex-
+isting skill, the character must have successfully used
+that skill in the recent past or must actively practice
+it in order to get better, perhaps with the aid of an
+instructor. In the case of Knowledge skills, this means
+actively studying. As a rough timeframe, this should
+require around 1 week of learning per skill point. A
+number of educational resources are freely available
+
+
+       SPENDING REZ POINTS
+      15 RP = 1 Moxie point
+      10 RP = 1 aptitude point
+       5 RP = 1 psi sleight
+       5 RP = 1 specialization
+       2 RP = 1 skill point (61-99)
+       1 RP = 1 skill point (up to 60)
+       1 RP = 10 Rep
+       1 RP = 1,000 Credits

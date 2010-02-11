@@ -1,0 +1,104 @@
+                 grenade and, 340-41                                   vac clothing, 325                       T                                                   weapons, 334
+                 pistol, 339                                      Smartlink, 342                               Tactical networks, 205, 331                    Unattractive, 151
+                 weapons skill, 184                                    -weapon data, 205                       Taggants, 329                                  Unbreathable atmosphere, 201
+           Seismic sensors, 293                                   Smell, enhanced, 301                         Target                                         Uncanny valley, 151-52
+           Self-healing, 292, 313                                 Snake, 310                                        multiple, 202                             Unconscious lead, 225
+           Selfhood, 275                                          Snappers, 370                                     numbers, 115                              Unconsciousness, 208
+           Semi-automatic (SA), 198                               Sniffer, 293, 331                                 speciﬁc, 197                              Underbarrel seeker, 339-40
+           Sense                                                  Snifﬁng, 252                                 Task Action Programming Test, 246              Underwater, 201
+                 block, 228                                       Sniper riﬂe, 335                             Task actions, 120, 127, 190                    Unﬁt, 152
+                 enhancement, 301-2, 306                          Social drugs, 320                            Tasping, 232                                   Uniform blast, 193
+                 skill, 184                                       Social engineers, 359                        Teamwork, 117, 127                             Uplifts, 81, 132
+           Sensor, 293, 311                                       Social gaff negation, 183                    Techno-Creationists, 83                        Uploading, 268-69
+                 ranges, 299                                      Social networks, 124-25, 239, 242,           Technology, 45                                 Uranus, 107
+           Sensory                                                     285-87, 289                             Temperature tolerance, 305                          Chat Noir, Fissure Gate, 108
+                 boost, 225                                       Social stigma, 151                           Terahertz sensors, 302                              Titania, Oberon, 108
+                 databases, 302                                   Socialites, 82, 134                          Terminology, 25-27                                  Xiphos, 108
+                 input, 205                                       Society, 41                                  Terragenesis, 74                               User accounts, 247
+                 reprogramming, 365                               Socio-political intrigue, 23, 79-82          Test making, 115                               Utilitool, 326
+           Sentinels, 85, 356-57, 360                             Software, 248, 331                           Tethys (Godwinhead), 105                       Utopians, 57-58
+           Servers, 247, 357                                      Software, crashing, 260                      Tharsis League, 76                             Uzumaki, 384
+1          Services, 330-31                                       Sol (sun), 86                                Thermal dampening, 313
+           Servitor, 346                                               habitats, 86, 88                        Thermobaric, 341                               V
+           SETI                                                   Solar system, 38                             Thought browse, 228-29                         V/2011-Caldwell, 88-89
+               (Search for Extra-Terrestrial Intelligence), 379   Solaris, 73                                  Throwing weapons skill, 184                    Vacuum, 201
+           Severe failure, 118                                    Somatek, 73-74                               Thrown damage bonus, 202                           and range, 203
+           Sexuality, 45, 305                                     Soundwaves, 303                              Thruster pack, 345                                 sealing, 306
+on), 125   Shackle (Shackleton-New Varanasi), 93                  Sousveillance, 238                           Thrust victor, 310                                 suits, 333-34
+           Shape adjusting, 311                                   Space                                        TILION, 92                                     Valles Marineris, 94
+           Shard pistol, 340                                           colonist, original, 132                 Time sense, 225                                Valles-New Shanghai, 96
+           Shell                                                       habitats, 67, 280-81                    Timeline, 37                                   Value, 63-64
+                 jamming, 196                                          roach, 330                              Timid, 151                                     Variable opposed test, 119
+                 movement, 195                                         travel, 283-84, 331                     Tin cans, 282                                  Vectors, 359
+                 remote control, 196                              Spacecraft, 346-49                           Titan, 24, 106                                 Vehicle passenger attacks, 196
+                 skills, 195                                           propulsion, 347                              Aarhus, 106                               Vehicles, 195-96, 342-49
+                 stats, 195                                       Spaceship combat, 284                             New Quebec, 106                           Venus, 24, 89-90
+           Shelter dome, 333                                      Spam, 228                                         Nyhavn, 106-7                             Venusian, 134
+           Shifters, 370                                          Spasm, 332                                        Phoebe, Skathi, Abramsen, 107             Vertigo, 365
+           Shock                                                  Special skills, 185                          Titanian Commonwealth, 79, 108, 134            Vibroblade, 334
+                 attacks, 204                                     Specializations, 123, 127, 136, 153, 173          Firewall, 361                             Vidgames, 52-53
+                 baton, 334                                       Specialized hive, 328                        TITANs (Total Information Tactical Awareness   Vids, 52-53
+                 gloves, 334                                      Specimen container, 330                      Networks), 32, 34-6, 40, 42, 48, 85, 236,      Viewers, 326
+                 safety, 342                                      Speck, 346                                   244-45, 324, 354-55, 362-63, 387-89            Vision, enhanced, 301
+                 weapon immunity, 143                             Specs, 326                                        -controlled army, 66                      Vo Nguyen, 92
+           Shooting through, 203                                  Speed (SPD), 121, 138, 189                        infected ruins, 270                       Vortex ring gun, 341
+           Shredder, 340                                          Spimes, 238                                       legacy, 237, 381-84                       Voting, 56
+           Shui Fong, 84                                          Spindle, 333                                      mutated person, 47                        VPN (virtual private network), 241-42
+           Shutdown, 257, 262                                     Spindle climber, 333                              quarantine zone, 94                           hacking, 260
+           Shutter, 332                                           Splash, 337, 341                                  relics, 56                                VR (virtual reality), 236, 240-41
+           Signal, 199-200                                        Splicers, 139, 174                           Token lock, 291                                    vertigo, 152
+           Silence, 289                                           Spoof, 331                                   Tools, 325                                         worlds, 54
+           Silencer/sound suppressor, 342                         Sports, 54                                   Top secret intel, 290                          Vulcanoids habitats, 88-89
+           Simulmorphs, 262                                       Spotted intruder, 256                        Torch, 340                                     Vulvanoid Gate, 46
+           Simulspace, 262-64                                     Spray armor, 313                             Toruses, 282
+                 access, 241                                      Spray weapons, 184, 340                      Touch-only attack, 206                         W
+                 environments, 240-41                             Sprayer, 340                                 Tough, 148                                     Walker, 310
+                 hacking, 263-64                                  Sprinting, 191                               Toughness, 143                                 Warbots, 383
+                 rules, 263                                       Starware, 74                                 Toxic atmosphere, 201                          Wasp knife, 334
+), 104           subscription, 331                                Static, 228                                  Toxin, 323-24, 325                             Watts-Macleod virus, 218, 219, 220, 368
+           Single-shot (SS), 198                                  Stealthed signals, 252                            ﬁlters, 305                               Weak immune system, 152
+    104    Singularity seekers, 43                                Stellar Intelligence, 74                     Trace, 258                                     Weapon, 334-42
+           Situational awareness, 148                             Sticky grenades, 341                         Tracked, 310                                       accessories, 341-42
+           Skathi, 107                                            Stress                                       Tracker Dye, 323                                   improvised, 202
+5          Skill                                                       points, 209                             Tracking, 251-52, 331                              mount, 311
+                 categories, 172                                       value, 209                              Traction pads, 317                                 ranges, 203
+                 corem 172                                        Stressful situations/experiences, 214, 215   Trade, 23                                          scanners, 293
+                 imprints, 232                                    Striking looks, 148                          Trafﬁc ﬁlters, 248                                 wielding two or more, 206
+                 improving, 152-53                                Structural enhancement, 311                  Training animals, 177                          Wheeled, 310
+                 learned, 172-73                                  Structuralists, 359                          Traits, 123                                    Whippers, 370
+                 list, 176-84                                     Structures, 202-3                                 gaining/losing, 153                       White noise machine, 317
+                 necessary, 176                                   Stunner, 339                                      purchasing, 136                           Willpower stress tests, 214
+                 ranges, 174                                      Subcultures, 39-41                           Transhumanism, 18, 38, 389                     Winged, 310
+                 suppression, 232                                 Subdermal implants, 309                           informorphs, 245                          Wireless code lock, 291
+                 untrained use, 116                               Subdued opponent, 204                             labor, 64                                 Wireless inhibitors, 292
+                 using, 173-74                                    Subliminal, 228                                   life, death and morphs, 50-51             Wireless scanning, 251, 293
+           Skilled sentient labor, 64                             Submachine guns, 335                         Transparent alumina, 298                       Wireless termination, 258
+           Skillsofts, 332                                        Submarine, 310                               Transport, standard, 349                       Worker pods, 142
+           Skillware, 309                                         Substance abuse, 317-18                      Transporter, 344                               Wormhole, 378
+           Skinaethesia, 73                                       Subversion, 259-61                           Trauma, 209                                    Wormwood, 111
+           Skindyes, 310                                               difﬁculties, 259                             effects, 209-10                           Wound, 207-8
+           Skinﬂex, 309                                                examples, 259                                threshold (TT), 122, 138                      Determination, 192
+           Skinlink, 309                                          Success tests, 117-19, 127                   Travel, 48-49, 63                                  effects, 207-8
+           Skinning, 240                                          Sun Yee On, 84                                    basics, 283-84                                threshold (WT), 121
+           Skin pocket, 305                                       Superthermite charges, 330                        distance, 283                             Wounds, 207-8
+           Skinthetic, 73                                         Suppressive ﬁre, 204                              local, 283                                Wrappers, 370
+           Sky Ark, 111                                           Surgery, 208                                 T-ray emitter, 306                             Wrist-mounted tools, 309
+           Slaving devices, 248                                   Surprise, 204-5                              Tremors, moderate, 211
+           Sleep, 365                                             Surveillance, 238, 293                       Triads, 84                                     X
+           Slip, 323                                                   bugs and, 315                           Trigger, 324                                   Xenodeism, 83
+           Slippery walls, 292                                    Survival gear. 332-33                        Trike, 344                                     Xenomorph virus, 368
+           Slitheroids, 144                                       Suryas, 86                                   Triton, 109                                    Xiphos, 108
+           Slow learner, 151                                      Swarm, 328-29                                Trivial favor, 290                             XP (experience playback), 53, 236, 241-
+           Small jet, 343                                              composition, 311                        Trojans                                        42, 331
+           Small lander and orbit transfer vehicle                Swarmanoid, 144                                   Locus, 100-101                            X-ray emitter, 317
+                 (SLOTV), 349                                     Sweeping ﬁre, 194                                 resources, economies, 100                 X-ray sensors, 303
+           Smart                                                  Swimming skill, 184                          Twelve Commons, 103
+                 ammo, 338                                        Sybils, 81                                   Twitch nerve gas, 324                          Y-Z
+                 clothing, 325                                    Sylphs, 139-40                               Two-handed weapons, 206                        YGBM (you gotta believe me) attacks, 365-66
+                 dogs, 330                                        Synergy, 111                                                                                Zap, 337
+                 dust, 316                                        Synthetic mask, 311                          U                                              Zbrny Group, 74
+                 magazine, 342                                    Synthmorph, 66, 143-45, 195-96, 369-70       Ukko Julinä, 88                                Zero ammo, 338
+                 materials, 298                                        bioware and, 306                        Ultimates, 82, 134                             Zero-g nausea, 152
+                 monkey, 330                                           object repair, 209                      Ultraviolet sensors, 303                       Zoosemiotics, 148
+                 rats, 330                                             physical repair, 209                    Unarmed
+                 skin, 312                                             resleeving, 271                             combat skill, 185

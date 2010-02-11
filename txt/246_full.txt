@@ -1,0 +1,60 @@
+systems—such as space traffic control, life support,         be considered sapient, and their emotional program-
+power systems, and hypercorporate research facili-           ming is usually narrow or non-existent.
+ties—are usually limited to isolated, tightly-controlled,      AIs have a number of built-in safety features and
+heavily-monitored, hard-wired networks to minimize           programmed limitations. They must serve and obey the
+the risk of intrusion from snoopers and saboteurs.           instructions of authorized users within their normal
+various countermeasures may be applied against               functioning parameters and (in the inner system at
+such intruders, ranging from locking them out of the         least) must also obey the law. They lack self-interest
+system to tracking them back and counterhacking.             and self-initiative, though they have limited empathy
+                                                             and may be programmed to anticipate the needs and
+MALWARE                                                      desires of users and pre-emptively take action on
+The number of worms, virii, and other malware pro-           their behalf. Perhaps most importantly, however, is
+grams that ripped through computer systems during            that their psychological programming is specifically
+the Fall was staggering. Many of these were part of          based on universal human modes of thought and an
+the netwar systems prepared by old Earth nation-states       understanding and support of transhuman goals
+and corporations and unleashed on their enemies.             and interests. This is part of an initiative to engineer
+Others were products of the TITANs, subversive pro-          so-called “friendly AIs,” who are programmed with
+grams that even the best defenses had trouble stopping.      sympathy towards transhumanity and all life and seek
+Even 10 years later, many of these are still reappearing,    out their best interests.
+brought back to life by the accessing of some long-             In most societies, basic AIs are considered “things”
+forgotten data cache or the accidental infection of a        or property rather than people and are accorded no
+scavenger mucking through old ruins. New ones pop            special rights.
+every day, of course, many of them programmed by
+criminal hacker outfits, while others that enter circu-      MUSES
+lation are modifications and variations of suspected         Muses are a specific type of AI designed to function
+TITAN designs, perhaps implying that certain parties         as a personal aide and companion. Most people in
+are intentionally tinkering with this code and releasing     Eclipse Phase have grown up with a muse at their
+it into the wild. Rumors and whispers circulate that         virtual side. Muses tend to have a bit more personality
+some of these TITAN worms are even more potent and           and psychological programming than standard AIs and
+frightening than previously hinted at, with stunning         over time they build up an extensive database of their
+adaptive capabilities and intelligence. These rumors         user’s preferences, likes and dislikes, and personality
+are steadfastly denied by authority figures and security     quirks so that they may more effectively be of service
+experts ... who then quietly turn around and do their        and anticipate needs. Muses generally have names
+best to ensure that their own networks remain safe.          and reside within the character’s mesh inserts or ecto,
+                                                             where they can manage the character’s personal area
+                                                             network, communications, data queries, and so on.
+AI S AND INFOLIFE
+Self-aware helper programs were originally designed          AGIS
+and realized to augment transhuman cognitive abili-          AGIs are complete and fully operational digital con-
+ties. These specialized-focus AIs were then developed        sciousnesses, self-aware and capable of intelligent
+into the more complete, independent digital conscious-       action at the same level as any transhuman. Most have
+nesses known as AGIs. The further evolution of these         full autonomy and the capacity for self-improvement
+digital life forms into seed AIs unfortunately led to the    by a processing similar to learning—a slow optimi-
+emergence of the TITANs and then the Fall. This cre-         zation and expansion of their code that features
+ated a rift in transhuman society as fear and prejudice      programmed limitations to prevent it from achiev-
+turned popular opinion against unrestricted AGIs, an         ing the self-upgrading capabilities of seed AIs. They
+attitude of mistrust that still lingers to this day.         have more fully-rounded personalities and emotional/
+                                                             empathic abilities than standard AIs, due in part to
+AI S                                                         a development process where they are literally raised
+The term AI is used to refer to narrow, limited-focus        within a VR simulation analogous to the rearing of
+AIs. These digital minds are expert programs with pro-       transhuman children, and so are more fully socialized.
+cessing capabilities equal to or even exceeding that of      As a result, they have a fairly human outlook, though
+a transhuman mind. Though they have a personality            some deviation is to be expected, and sometimes is
+matrix with individual identities and character, and         apparent in great degrees. Despite this attempt to hu-
+though they are (usually) conscious and self-aware,          manize AGIs, they do not have the same evolutionary
+their overall complexity and capabilities are limited.       and biological origins that transhumans have, and so
+The programmed skills and abilities of AIs are typi-         their social responses, behavior, and goals are some-
+cally very specific in scope and aligned towards a par-      times off-mark or decidedly different.
+ticular function, such as piloting a vehicle, facilitating     AGIs bear the social stigma of their non-biological
+mesh searches, or coordinating the functions of some         origin and are often met with bias and mistrust. Some
+habitat sub-system. Some AIs, in fact, can only barely       habitats have even outlawed AGIs or subject them to

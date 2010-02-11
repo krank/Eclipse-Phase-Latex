@@ -1,0 +1,75 @@
+   The actual process of psychosurgery breaks down
+into several stages. First is diagnosis, which can
+involve the use of several neuro-imaging techniques
+on morphed characters, mapping synaptic connec-
+tions, and building a neurochemical model. It can
+also involve complete psychological profiling and
+psychometric behavioral testing, including personal-
+ity tests and simulspace scenario simulations. Digital
+mind-states can be compared to records of people
+with similar symptoms in order to identify related
+information clusters. This analysis is used to plan
+the procedure.
+   The actual implementation of psychosurgical al-
+teration can involve several methods, depending on
+the desired results. Applying external modules to the
+mind-state is often the best approach, as it doesn’t
+meddle with complicated connections and new inputs
+are readily interpreted and assimilated. For treat-
+ments, mental health software patches compiled from
+databases of healthy minds are matched, customized,
+and applied. Specialized programs may be run to
+stimulate certain mental processes for therapeutic
+purposes. Before an alteration is even applied, it may
+first be performed on a fork of the subject and run at
+accelerated speeds to evaluate the outcome. Likewise,
+multiple treatment choices may be applied to time-ac-
+celerated forks this way, allowing the psychosurgeon
+to test which is likely to work best.
+   Not all psychosurgery is performed for the subject’s
+benefit, of course. Psychosurgery can be used to inter-
+rogate or torture prisoners, erase memories, modify
+behavior, or inflict crippling impairments. It is also
+sometimes used for legal punishment purposes, in
+an attempt to impair criminal activity. Needless to
+say, such methods are often brute-forced rather than
+fine-tuned, ignoring safety parameters and sometimes
+resulting in detrimental side effects.
+PSYCHOSURGERY MECHANICS
+In game terms, psychosurgery is handled as a Task
+Action requiring an Opposed Test. The psychosurgeon
+rolls Psychosurgery skill against the target’s WIL x 3.
+Apply modifiers as appropriate from the Psychosur-
+gery Modifiers table.
+   If the psychosurgeon succeeds and the subject fails,
+the psychosurgery is effective and permanent. The
+alteration becomes a permanent part of the subject’s
+ego, and will be copied when uploaded (and some-
+times when forking).
+   If both sides succeed but the psychosurgeon rolls
+higher, the psychosurgery is effective but temporary. It
+lasts for 1 week per 10 points of MoS.
+   If the subject rolls higher, or if the psychosurgeon
+fails their roll, the attempt does not work.
+   The timeframe listed for psychosurgical procedures
+is according to the patient’s subjective point of view.
+Since most subjects are treated in a simulspace, time
+acceleration may drastically reduce the amount of
+real-time such a procedure requires (see Defying Na-
+ture’s Laws, pp. 240–241).
+
+MENTAL STRESS
+Psychosurgery is a modification to the transhuman
+mind, and sometimes to the actual person that resides
+in that mind. It is unsurprising then that psychosur-
+gery places stress on the subject’s mental state and
+sometimes even inflicts mental traumas.
+   Each psychosurgery option lists a Stress Value
+(SV) that is infl icted on the subject regardless of
+the tests’ success or failure. If the psychosurgeon
+achieves an Excellent Success (MoS 30+), this stress
+is halved (round down). If the psychosurgeon rolls
+a Severe Failure (MoF 30+), the stress is doubled.
+Alternately, a Severe Failure could result in unin-
+tended side effects, such as affecting other behav-
+iors, emotions, or memories.

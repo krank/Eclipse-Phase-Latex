@@ -1,0 +1,60 @@
+out what type of action you want to take. In Eclipse       AIMING
+Phase, actions are categorized as Automatic, Quick,        Aiming is a special case in that it is a Quick Action
+Complex, or Task, based on how much time and               but requires a degree of concentration that rules out
+effort they entail.                                        other minor actions. If you wish to aim before making
+                                                           an attack in the same Action Phase, aiming is the only
+AUTOMATIC ACTIONS                                          Quick Action you may make during that Action Phase
+Automatic Actions require no effort. These are abili-      (see Aimed Shots, p. 193).
+ties or activities that are “always on” (assuming you
+are conscious) or are otherwise reflexive (they happen     DETAILED PERCEPTION
+automatically in response to certain conditions, with      Detailed perception involves taking a moment to
+no effort from you). Breathing, for example, is an au-     actively use your senses in search of information and
+tomatic action—your body does it without conscious         assess what you are perceiving (see Perception, p.
+effort or thinking on your part.                           182). It requires slightly more effort and brainpower
+   In most cases, Automatic Actions are not something      (or computer power) than basic perception, which is
+that you initiate—they are always active, or at least      automatic. As a Quick Action, you may only engage
+on standby. Certain circumstances, however, will bring     in detailed perception on your turn during an Action
+an Automatic Action to bear. Such Automatic Actions        Phase, but you do not suffer a modifier for distrac-
+are invoked and handled immediately whenever they          tion (unless you happen to be in a heavily distracting
+apply, without requiring effort from your character.       environment, such as a gunfight or agitated crowd).
+
+RESISTANCE                                                 COMPLEX ACTIONS
+Resisting damage—whether from combat, a poison, or         Complex Actions require more concentration and
+a psi attack—is one example of an Automatic Action         effort than Quick Actions—they effectively monopo-
+that occurs in response to something else.                 lize your attention. You may only take one Complex
+                                                           Action on each your Action Phase turns. Additionally,
+BASIC PERCEPTION                                           you may not engage in a Complex Action and a Task
+Your senses are continuously active, accumulating data     Action during the same Action Phase.
+on the world around you. Basic perception is consid-          Examples of Complex Actions include: attacking,
+ered an Automatic Action, and so the gamemaster can        shooting, acrobatics, full defense, disarming a bomb,
+call on you to make a Perception Test whenever you         using a complex device, or reloading a weapon.
+receive sensory input that your brain might want to
+take notice of (see Perception, p. 182). Likewise, you     TASK ACTIONS
+may ask the gamemaster at any time—even during             A Task Action is any activity that requires longer than one
+other character’s actions—to make a basic Perception       Action Turn to complete. Each Task Action lists a time-
+Test, just to find out what your character is noticing     frame for how long the task takes to accomplish. This
+around them.                                               timeframe may range anywhere from 2 Action Turns to 2
+  Because basic perception is an automatic, subcon-        years. While engaged in a Task Action, you may not also
+scious activity, however, you will suffer a –20 modifier   undertake a Complex Action, though in some cases you
+for distraction—your attention is focused elsewhere.       may take a break from the task and return to it later. For
+In order to avoid the distraction modifier, you must       more information, see Task Actions, p. 120.
+actively engage in detailed perception or use an oracle       Examples of Task Actions include: repairing a
+implant (p. 308).                                          device, programming, conducting a scientific analysis,
+                                                           searching a room, climbing a wall, or cooking a meal.
+QUICK ACTIONS
+Quick Actions are fast and simple, and they may often
+be multi-tasked. They require minimal thought and          MOVEMENT
+effort. You may undertake multiple Quick Actions on        Movement in Eclipse Phase is handled just like any
+your turn during each Action Phase, limited only by        other action, and may change from Action Phase to
+the gamemaster’s judgment. If you are taking noth-         Action Phase. Walking and running both count as Quick
+ing but Quick Actions during an Action Phase, you          Actions, as they do not require your full concentration.
+should be allowed a minimum of 3 separate Quick            The same also applies to slithering, crawling, floating,
+Actions. If you are also engaging in a Complex or Task     hovering, or gliding. Running, however, may inflict a
+Action during that same Action Phase, you should be        –10 modifier on other actions that are affected by your
+allowed a minimum of 1 Quick Action. Ultimately, the       jostling movement. Even more, sprinting is an all-out run,
+gamemaster decides what activity you can or can’t fit       and so requires a Complex Action (see Sprinting, p. 191).
+into a single Action Phase.                                   At the gamemasters discretion, other movement
+   Some examples of Quick Actions include: talking,         may also call for a Complex Action. Hurdling a fence,
+switching a safety, activating an implant, standing        pole vaulting, jumping from a height, swimming, or
+up, dropping prone, gesturing, drawing/readying a          freerunning through a habitat in zero-gravity all re-
+weapon, handling an object, or using a simple object.      quire a bit of finesse and attention to detail, so would

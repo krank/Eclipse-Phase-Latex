@@ -1,0 +1,69 @@
+    COMPLETE SKILL LIST                                                             SKILL LIST
+   This section details all of the learned skills avail-   SKILL                           LINKED APTITUDE          CATEGORY
+   able in Eclipse Phase. Gamemasters and players
+                                                           Academics: [Field]                     COG               Knowledge
+   may, of course, agree to add additional skills to
+   this list as appropriate to their campaign.             Animal Handling                        SAV              Active, Social
+                                                           Art: [Field]                           INT               Knowledge
+    ACADEMICS: [FIELD]                                     Beam Weapons                           COO             Active, Combat
+   Type: Field, Knowledge                                  Blades                                 SOM             Active, Combat
+   Linked Aptitude: COG                                    Climbing                               SOM             Active, Physical
+      What it is: Academics covers any sort of spe-        Clubs                                  SOM             Active, Combat
+   cialized non-applied knowledge you can only get
+                                                           Control                         WIL (no defaulting)   Active, Mental, Psi
+   through intensive education. Most theoretical and
+                                                           Deception                              SAV              Active, Social
+   applied sciences, social sciences, transhumanities,
+   etc. are covered by this skill. Most of the other       Demolitions                     COG (no defaulting)    Active, Technical
+   skills listed in this chapter could also be taken as    Disguise                               INT             Active, Physical
+   an Academics field, reflecting a working theoretical    Exotic Melee Weapon: [Field]           SOM             Active, Combat
+   knowledge of the skill—for example, Academics:          Exotic Ranged Weapon: [Field]          COO             Active, Combat
+   Armorer or Academics: Interrogation.                    Flight                                 SOM             Active, Physical
+      When you use it: Academics is used when a            Fray                                   REF             Active, Combat
+   character wishes to call upon a specific body of
+                                                           Free Fall                              REF             Active, Physical
+   knowledge. For example, Academics: Chemistry
+   could be used to identify a particular substance,       Freerunning                            SOM             Active, Physical
+   understand an unusual chemical reaction, or deter-      Gunnery                                INT             Active, Combat
+   mine what elements are needed to nanofabricate          Hardware: [Field]                      COG             Active, Technical
+   something that requires exotic materials. At the        Impersonation                          SAV              Active, Social
+   gamemaster’s discretion, some Academics-related         Inﬁltration                            COO             Active, Physical
+   tests might not be defaultable, given that only         Infosec                         COG (no defaulting)    Active, Technical
+   someone who has been educated in that subject is
+                                                           Interest: [Field]                      COG               Knowledge
+   likely to be able to tackle it.
+                                                           Interfacing                            COG             Active, Technical
+   Sample Fields: Archeology, Astrobiology, As-
+      tronomy, Astrophysics, Astrosociology, Bio-          Intimidation                           SAV              Active, Social
+      chemistry, Biology, Botany, Computer Science,        Investigation                          INT              Active, Mental
+                                                           Kinesics                               SAV              Active, Social
+                                                           Kinetic Weapons                        COO             Active, Combat
+                                                           Language: [Field]                      INT               Knowledge
+NECESSARY SKILLS                                           Medicine: [Field]                      COG             Active, Technical
+While characters will need a mix of skills to              Navigation                             INT              Active, Mental
+ucceed in the varied tasks they encounter in               Networking: [Field]                    SAV              Active, Social
+ clipse Phase, some skills are crucial for any
+                                                           Palming                                COO             Active, Physical
+haracter. If a character lacks these, they will
+                                                           Perception                             INT              Active, Mental
+ ave a difﬁcult time getting by, so it is impor-
+ant for players and gamemasters to know                    Persuasion                             SAV              Active, Social
+hese particular skills.                                    Pilot: [Field]                         REF              Active, Vehicle
+  Fray: Fray is the primary skill you use to avoid         Profession: [Field]                    COG               Knowledge
+ etting hit in combat. Even if you plan to avoid           Programming                     COG (no defaulting)    Active, Technical
+ombat, being able to get out of the way when               Protocol                               SAV              Active, Social
+ ecessary is a handy survival skill to have.               Psi Assault                     WIL (no defaulting)   Active, Mental, Psi
+  Networking: Unless you live in total isolation,
+                                                           Psychosurgery                          INT             Active, Technical
+ou need a Networking skill—preferably several.
+                                                           Research                               COG             Active, Technical
+ etworking is how you interact with people in
+  particular social circle to obtain information,          Scrounging                             INT              Active, Mental
+pread rumors, call in favors, and so on.                   Seeker Weapons                         COO             Active, Combat
+  Perception: Perception Tests get called for              Sense                           INT (no defaulting)   Active, Mental, Psi
+ uite often, so if you want your character to              Spray Weapons                          COO             Active, Combat
+ now what’s going on around them, make sure                Swimming                               SOM             Active, Physical
+o get this skill. Investigation and Scrounging
+                                                           Throwing Weapons                       COO             Active, Combat
+ re also good, but Perception is king.          ■
+                                                           Unarmed Combat                         SOM             Active, Combat

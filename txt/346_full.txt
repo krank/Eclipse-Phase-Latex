@@ -1,0 +1,59 @@
+electronically. A character wearing an exoskeleton              Trike: The trike exoskeleton is a three-wheeled
+(other than the trike or transporter) maneuvers as            personal motorcycle design, rather than a walker. It
+normal, because the exoskeleton is like an extension          provides partial protection to the wearer with an
+of their own body. A character jamming an exoskel-            Armor Value of 2/4. Piloted with Pilot: Groundrcraft
+eton remotely uses Pilot: Walker skill (except for the        skill. [Moderate]
+trike and transporter).
+   Battle Suit: The battle suit powered exoskel-              GROUNDCRAFT
+eton features a military-grade fullerene armor shell          In Eclipse Phase, trains and bicycles remain the most
+with flexible aerogel for thermal insulation and a            common form of ground transportation, especially on
+diamond-hardened exterior designed to resist even             habitats. In larger habitats and on moons and planets,
+potent ballistic and energy-based weapons. The suit           cycles and cars are used as well.
+also enhances the wearer’s strength and mobility, ap-            Cycle: Because of the high cost of enclosing a habi-
+plying a +10 bonus to strength-based tests, inflicting        tat and providing life support, space is at a premium
+an extra +1d10 damage and AP of –2 on melee at-               in all cities except some of the newest cities on Mars.
+tacks, and doubling the distance by which the char-           As a result, there is rarely room for large roads or the
+acter may jump. Battlesuits are completely sealed to          cars that once carpeted the roads of Earthly cities.
+protect the wearer from environmental factors, and            Instead, the ubiquitous modern vehicle is the cycle,
+fitted with life support features and a maker (p. 327)        which is designed to drive down narrow streets only a
+capable of recycling all wastes and producing air             little wider than sidewalks in Earth cities.
+for up to 48 hours and food and water indefinitely.              There are many different varieties of cycle. Some
+Battle suits are equipped with each an ecto (p. 325),         have only a single wheel and are gyro-stabilized, but
+a radio booster (p. 313), and sensors equal to specs          most have two wheels and resemble old Earth motor-
+(see p. 325). These suits have an Armor Value of              cycles. In some, the driver and passenger are enclosed
+18/18 (not cumulative with any other armor) and               by a streamlined pod. These vehicles are powered
+protect the wearer from temperatures from –175 to             by superconducting batteries, have a range of 600
+140 C. [Expensive]                                            km and a top speed of 120 kph, but must usually
+   Exowalker: Exowalkers are minimal framework                drive more slowly in crowded streets. Cycles are all
+exoskeletons, primarily designed to bolster the               equipped with radio boosters, headlights, and a por-
+wearer’s strength and movement. They provide a an             table radar sensor. Tires are solid state (not inflated),
+Armor Value of 2/4, a +10 modifier to strength-based          or in some cases smart spokes capable of handling
+tests, and double the distance by which the character         stairs. Some luxury versions have limited life-support
+may jump. [Moderate]                                          in the small cabin, capable of providing air for the
+   Hyperdense Exoskeleton: These powered exoskel-             passengers for up to 10 hours. [Moderate]
+etons are larger (roughly twice human-sized) and built           Mars Buggy: One of the most ubiquitous vehicles
+for heavy-use industrial purposes, such as handling           on Mars is the so-called Mars buggy, a four-wheeled
+heavy/large objects. The wearer is partially encapsulated     vehicle with large balloon tires that is designed for
+to protect them from debris and industrial accidents.         use both on roads and on almost any terrain. Mars
+Hyperdense exoskeletons provide no movement bonus,            buggies can travel at speed of up to 110 kph on roads,
+but provide a +30 bonus to strength-based tests and           90 kph over relatively flat terrain, and up to 40 kph
+inflict an extra +3d10 damage and –5 AP on physical           on jagged and rocky terrain. They can maintain these
+attacks. They have an Armor Value of 6/12. [Expensive]        speeds because smart materials in both the suspension
+   Transporter: This exoskeleton framework includes           and the tires reshape themselves to adapt to uneven
+a pair of vector-thrust turbofan engines, giving the          conditions and their nuclear batteries give them an
+user flight capabilities in gravity and increased maneu-      effectively unlimited range. Most Mars buggies are
+verability in zero-G. It provides partial protection to       enclosed but unpressurized. Similar vehicles are used
+the wearer with an Armor Value of 2/4. Piloted with           on Luna and Titan, however, though the passenger
+Pilot: Aircraft skill. [High]                                 compartments of these vehicles includes life support
+
+
+                                    VEHICLES—EXOSKELETONS
+                  PASSENGER                    MOVEMENT                                                      WOUND
+AIRCRAFT           CAPACITY      HANDLING        RATE       MAX VELOCITY       ARMOR       DURABILITY      THRESHOLD
+Battlesuit              1             —            8/32          30             18/18           60              12
+Exowalker               1             —            8/40          40              2/4            30              6
+Hyperdense
+                        1             —            8/20          30             6/12           100              20
+Exoskeleton
+Transporter             1            +10           8/40         200              2/4            50              10
+Trike                   1            +10           8/40         120              2/4            50              10

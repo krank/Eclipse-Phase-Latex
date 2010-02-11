@@ -1,0 +1,42 @@
+count as a Complex Action, and would apply the
+same modifier as running. Flying generally counts as a    COMBAT
+Quick Action, though intricate maneuvers would call       Sometimes words fail, and that’s when the knives and
+for a Complex Action.                                     shredders come out. All combat in Eclipse Phase is
+                                                          conducted using the same basic mechanics, whether it’s
+MOVEMENT RATES                                            conducted with claws, fists, weapons, guns, or psi: an
+Sometimes it’s important to know not just how you’re      Opposed Test between the attacker and defender(s).
+moving, but how far. For most of transhumanity, this
+movement rate is the same: 4 meters per Action Turn       RESOLVING COMBAT
+walking, 20 meters per turn running. To determine         Use the following sequence of steps to determine the
+how far a character can move in a particular Action       outcome of an attack.
+Phase, divide this movement rate by the total number
+of Action Phases in that turn. In a turn with 4 Action    STEP 1: DECLARE ATTACK
+Phases, that breaks down to 1 meter walking per           The attacker initiates by taking a Complex Action to
+Action Phase, 5 meters running.                           attack on their turn during an Action Phase. The skill
+  Movement such as swimming or crawling bench-            employed depends on the method used to attack. If
+marks at about 1 meter per Action Turn, or 0.25           the character lacks the appropriate Combat skill, they
+meters per Action Phase. You can also sprint to in-       must default to the appropriate linked aptitude.
+crease your movement rate (see Sprinting). Vehicles,
+robots, creatures, and unusual morphs will have indi-     STEP 2: DECLARE DEFENSE
+vidual movement rates listed in the format of walking     Once the attack is declared, the defender chooses how
+rate/running rate in meters per turn.                     to respond. Defense is always considered an Automatic
+  These movement rates assume standard Earth              Action unless the defender is surprised (see Surprise,
+gravity of course. If you’re moving in a low-gravity,     p. 204) or somehow incapacitated and incapable of
+microgravity, or high-gravity environment, things         defending themself.
+change. See Gravity, p. 198.                                 Melee: A character defending against melee at-
+                                                          tacks uses Fray skill, representing dodging (if the
+JUMPING                                                   character lacks this skill, they may default to Re-
+Characters making a running jump can cross SOM ÷          flexes). Alternately, the character may use a melee
+5 (round up) meters; use SOM ÷ 20 (round up) meters       combat skill to defend, representing blocks and par-
+for standing jumps. Vertical jumping height is 1 meter.   ries rather than dodging.
+Characters making a Freerunning Test can increase            Ranged: Against ranged attacks, a defending char-
+jumping distance by 1 meter (running jump) or 0.25        acter may only use half their Fray skill (round down).
+meters (standing/vertical jumps) per 10 points of MoS.       Full Defense: Characters who have taken a Com-
+                                                          plex Action to go on full defense (p. 198) receive a
+SPRINTING                                                 +30 modifier to their defensive roll.
+You may use Freerunning to increase the distance             Psi: A character defending against a psi attack rolls
+you move during an Action Phase. You must spend           WIL x 2 (p. 222). A mental sort of full defense may
+a Complex Action to sprint and make a Freerunning         also be rallied against psi attacks.
+Test. Every 10 points of MoS increases your running
+distance in that Action Phase by 1 meter, to a maxi-
+mum bonus of +5 meters.

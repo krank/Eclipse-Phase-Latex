@@ -1,0 +1,59 @@
+ KINETIC WEAPONS                                                  effectively recoilless (thanks to rheological smart
+ Kinetic weapons damage the target by firing a hard               fluid mechanisms) and electronically fired (an electric
+ impact projectile at high-velocities. Slugthrowers               charge vaporizes the propellant, using the expanding
+ have evolved from the mechanical firearms of the                 steam and plasma to eject and accelerate the projectile).
+ early 21st century, however, and now fall into two                  Note that older, pre-Fall firearms still exist and are
+ categories: chemical firearms and railguns. Though               traded by black marketeers, though they use outdated
+ their mechanisms for firing are different, they are              system such as liquid propellants or cased ammuni-
+ roughly similar in effect. Railguns have a higher                tion. At the gamemaster’s discretion, these relics may
+ penetration and inflict more damage, which is offset             suffer shorter ranges, less penetration, fewer firing
+ by more limited ammunition choices. While modern                 modes, or reduced damage.
+ beam weapons have their uses, they rarely match the                 Pistols: Pistols are small-sized (p. 297) and de-
+ punch of kinetic weapons, therefore slugthrowers                 signed for one-hand use. Light pistols sacrifice pene-
+ are still perceived as the most versatile and effective          trating ability for concealability. Heavy pistols focus
+ weapon system.                                                   on stopping power, with medium pistols occupying
+   Kinetic weapons are constructed from lightweight,              a middle ground. All versions fire in semi-automatic,
+ reinforced plastoceramic materials, which are easily             burst-fire, and full-auto modes. [Low]
+ produced even without nanofabrication. By default,                  Submachine Guns: SMGs use pistol ammuni-
+ modern kinetic weapons are ambidextrous but more                 tion, but are medium-sized (p. 297) and may fire in
+ importantly feature safety and smartlink systems (p.             semi-auto, burst fire, or full auto modes. They typi-
+ 342) that automatically connect to the wielder’s mesh            cally are designed in a bullpup configuration for
+ inserts for firing assistance, target recognition, and           close quarters operations and are ideal for tactical
+ tactical networking.                                             and strike teams. [Moderate]
+   The wielder of a firearm or railgun uses Kinetic                  Automatic Rifles: Automatic rifles use rifle ammu-
+ Weapons skill. For information on firing modes, see              nition and have greater range and penetration than
+ p. 198. For different ammunition types, see p. 336.              SMGs. They fire in semi-auto, burst fire, or full auto
+ Ranges are listed on p. 203.                                     modes. They are two-handed weapons. [Moderate]
+                                                                     Sniper Rifle: Sniper rifles are optimized for range,
+ FIREARMS                                                         accuracy, penetration, and stopping power. They fire
+ Modern chemical firearms use caseless ammuni-                    in semi-auto, burst fire, or full auto modes, and are
+ tion that is auto-loaded from a magazine. They are               two-handed weapons. [High]
+
+
+              MELEE WEAPONS—BLADES, CLUBS, EXOTIC, UNARMED
+BLADES                      ARMOR PENETRATION (AP)                 DAMAGE VALUE (DV)                    AVERAGE DV
+Diamond Ax                              –3                         2d10 + 3 + (SOM ÷ 10)               14 + (SOM ÷ 10)
+Flex Cutter                             –1                         1d10 + 3 + (SOM ÷ 10)               8 + (SOM ÷ 10)
+Knife                                   –1                         1d10 + 2 + (SOM ÷ 10)               7 + (SOM ÷ 10)
+Monoﬁlament Sword                       –4                         2d10 + 2 + (SOM ÷ 10)               13 + (SOM ÷ 10)
+Vibroblade                              –2                          2d10 + (SOM ÷ 10)                  11 + (SOM ÷ 10)
+Wasp Knife                              –1                         1d10 + 2 + (SOM ÷ 10)               7 + (SOM ÷ 10)
+
+
+CLUBS                       ARMOR PENETRATION (AP)                 DAMAGE VALUE (DV)                    AVERAGE DV
+Club                                    —                         1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+Extendable Baton                        —                         1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+Shock Baton                             —                  1d10 + 2 + (SOM ÷ 10) + shock (p. 204)      7 + (SOM ÷ 10)
+
+
+EXOTIC MELEE WEAPONS        ARMOR PENETRATION (AP)                 DAMAGE VALUE (DV)                    AVERAGE DV
+Monowire Garrote                        –8                                 3d10                              16
+
+
+UNARMED                     ARMOR PENETRATION (AP)                 DAMAGE VALUE (DV)                    AVERAGE DV
+Bioware Claws (p. 304)                  –1                        1d10 + 1 + (SOM ÷ 10)                6 + (SOM ÷ 10)
+Cyberclaws (p. 307)                     –2                        1d10 + 3 + (SOM ÷ 10)                8 + (SOM ÷ 10)
+Densiplast Gloves                       —                         1d10 + 2 + (SOM ÷ 10)                7 + (SOM ÷ 10)
+Eelware (p. 304)                        —                              shock (p. 204)                        —
+Shock Gloves                            —                   1d10 + (SOM ÷ 10) + shock (p. 204)         5 + (SOM ÷ 10)
+Unarmed                                 —                           1d10 + (SOM ÷ 10)                  5 + (SOM ÷ 10)

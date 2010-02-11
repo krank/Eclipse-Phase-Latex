@@ -1,0 +1,60 @@
+PSI ASSAULT                                                 SEEKER WEAPONS
+Type: Active, Mental, Psi                                   Type: Active, Combat
+Linked Aptitude: WIL                                        Linked Aptitude: COO
+  What it is: Psi Assault is the skill of damaging an-        What it is: Seeker Weapons covers the use and
+other ego’s mind. It can only be purchased by charac-       maintenance of seeker launchers (p. 339) and seeker
+ters with the Psi trait (p. 147).                           missiles (p. 340).
+  What it does: Use Psi Assault when attacking an-            When you use it: Use this skill when attacking with
+other ego’s mind in psi combat.                             a seeker in ranged combat (p. 191).
+Specializations: By sleight                                 Specializations: Armband, Pistol, Rifle, Underbarrel
+
+PSYCHOSURGERY                                               SENSE
+Type: Active, Technical                                     Type: Active, Mental, Psi
+Linked Aptitude: INT                                        Linked Aptitude: INT
+   What it is: Psychosurgery is the use of machine-           What it is: Sense is the use of psi to scan egos. Only
+aided psychological techniques to repair, damage, or        characters with the Psi trait (p. 147) may purchase
+manipulate the psyche.                                      this skill.
+   When you use it: Use Psychosurgery to attempt the          What it does: See Psi, p. 220.
+tricky process of editing someone’s mind (see Psycho-       Specializations: By sleight
+surgery, p. 229). Psychosurgery can be used benefi-
+cially to help patients who remember their deaths, feel     SPRAY WEAPONS
+disconnected after remorphing, or have experienced          Type: Active, Combat
+other sorts of mental traumas. This skill may also be       Linked Aptitude: COO
+used to interrogate, torture, or otherwise mess with          What it is: The Spray Weapons skill covers the use
+captive minds in a VR environment.                          and maintenance of cone-effect ranged weapons (see
+Specializations: Memory Manipulation, Personality           Spray Weapons, p. 340).
+   Editing, Psychotherapy                                     When you use it: A player uses their Sonic Weapons
+                                                            skill whenever they are attacking with a spray weapon
+RESEARCH                                                    in ranged combat (p. 191).
+Type: Active, Technical                                     Specializations: Buzzer, Freezer, Shard, Shredder, Torch
+Linked Aptitude: COG
+  What it is: Research is the skill for looking up infor-   SWIMMING
+mation on the Mesh: searching, sifting, mining, and         Type: Active, Physical
+interpreting data. This includes knowing where to look,     Linked Aptitude: SOM
+what links to follow, and how to optimize your queries.       What it is: Swimming is the art of moving and
+  When you use it: Use the Research skill whenever          not drowning within fl uids. It includes fl oating,
+you need to look up the answer to a question, find          surface swimming, snorkeling, diving, and related
+databases, search archives, or track down anything          equipment use.
+online. Research is typically a Task Action with the          When you use it: Use Swimming whenever you
+timeframe and difficulty modifier determined by the         need to move and survive in water or another liquid
+gamemaster. See the Online Research, p. 249.                environment. Swimming in a non-threatening en-
+Specializations: Tracking, by information type              vironment can be handled as a Simple Success Test.
+                                                            Swimming over a long distance could be handled as
+SCROUNGING                                                  a Task Action. Diving off a cliff into a lake, prevent-
+Type: Active, Mental                                        ing yourself from being swept away in a raging river
+Linked Aptitude: INT                                        current, or making sure you’ve set a proper gas mix
+   What it is: Scrounging is your ability to find things,   for a deep-sea dive, among other things, requires a
+particularly things of use or value that are concealed,     Success Test.
+buried, or hard to find. This includes knowing where        Specializations: Diving, Freestyle, Underwater Diving
+to look and what to look for. Scrounging differs from
+both Perception and Investigation in that it is about       THROWING WEAPONS
+finding items hidden among others, and in most cases        Type: Active, Combat
+about finding something in particular (food, valu-          Linked Aptitude: COO
+ables, etc.).                                                 What it is: Throwing Weapons skill covers the use
+   When you use it: Use Scrounging to dumpster-dive a       and maintenance of standard throwing weapons, like
+meal, search ruins for relics, find bargains at a bazaar,   grenades (p. 340).
+forage berries in the forest, locate a spacesuit in an        When you use it: Use Throwing Weapons skill
+abandoned ship, etc. Scrounging is typically handled        whenever you are attacking with a throwing weapon
+as a Task Action with a timeframe and difficulty            in ranged combat (p. 191).
+modifier determined by the gamemaster.                      Specializations: Grenades, Knives, Rocks
+Specializations: Bazaars, Forests, Habitats, Ruins

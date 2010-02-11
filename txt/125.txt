@@ -1,0 +1,126 @@
+  Each learned skill is linked to an aptitude. If a
+character doesn’t have the skill necessary for a test,
+they may default to the aptitude instead (see Default-
+ing, p. 116).
+  There are 7 aptitudes in Eclipse Phase:
+
+ • Cognition (COG) is your aptitude for problem-
+   solving, logical analysis, and understanding. It
+   also includes memory and recall.
+ • Coordination (COO) is your skill at integrat-
+   ing the actions of different parts of your morph
+   to produce smooth, successful movements. It
+   includes manual dexterity, fine motor control,
+   nimbleness, and balance.
+ • Intuition (INT) is your skill at following your
+   gut instincts and evaluating on the fly. It includes
+   physical awareness, cleverness, and cunning.
+ • Reflexes (REF) is your skill at acting quickly. This
+   encompasses your reaction time, your gut-level
+   response, and your ability to think fast.
+ • Savvy (SAV) is your mental adaptability, social in-
+   tuition, and proficiency for interacting with others.
+   It includes social awareness and manipulation.
+ • Somatics (SOM) is your skill at pushing your
+   morph to the best of its physical ability, includ-
+   ing the fundamental utilization of the morph’s
+   strength, endurance, and sustained positioning
+   and motion.
+ • Willpower (WIL) is your skill for self-control,
+   your ability to command your own destiny.
+
+LEARNED SKILLS
+Learned skills encompass a wide range of specialties
+and education, from combat training to negotiating
+to astrophysics (for a complete skill list, see p. 176).
+Learned skills range in rating from 1 to 99, with an
+average proficiency being 50. Each learned skill is
+linked to an aptitude, which represents the underlying
+competency in which the skill is based. When a learned
+skill is purchased (either during character generation
+or advancement), it is bought starting at the rating of
+the linked aptitude and then raised from there. If the
+linked aptitude is raised or modified, all skills built off
+it are modified appropriately as well.
+   Depending on your background and faction, you
+may receive some starting skills for free during
+character creation. Like aptitudes, learned skills stay
+with the character even when they change morphs,
+though certain morphs, implants, and other factors
+may sometimes modify your skill rating. If you lack
+a particular skill called for by a test, in most cases
+you can default to the linked aptitude for the test (see
+Defaulting, p. 116).
+
+SPECIALIZATIONS
+Specializations represent an area of concentration and
+focus in a particular learned skill. A character who
+learns a specialization is one who not only grasps the
+basic tenets of that skill, but they have trained hard
+to excel in one particular aspect of that skill’s field.
+Specializations apply a +10 modifier when the charac-
+ter utilizes that skill in the area of specialization.
+   Specializations may be purchased during character
+creation or advancement for any existing skill the
+character possesses with a rating of 30 or more. Only
+one specialization may be purchased for each skill.
+Specific possible specializations are noted under indi-
+vidual the skill descriptions (see Skills, p. 170).
+
+
+       Toljek has Palming skill of 63 with a specializa-
+
+
+
+
+                                                           EXAMPLE
+  tion in Pickpocketing. Whenever he uses Palming
+  to pick someone’s pocket or otherwise steal from
+  someone’s person, his target number is 73, but for
+  all other uses of Palming the standard 63 applies.
+
+
+CHARACTER TRAITS
+Traits include a range of inherent qualities and fea-
+tures that help define your character. Some traits are
+positive, in that they give your character a bonus to
+certain stats, skills, or tests, or otherwise give them
+an edge in certain situations. Others are negative, in
+that they impair your abilities or occasionally create
+a glitch in your plans. Some traits apply to a charac-
+ter’s ego, staying with them from body to body, while
+others only apply to a character’s morph.
+  Traits are purchased during character generation.
+Positive traits cost customization points (CP), while
+negative traits give you extra CP to spend on other
+things (see Traits, p. 145). The maximum number of
+CP you may spend on traits is 50, while the maxi-
+mum you may gain from negative traits is 50. In rare
+circumstances—and only with gamemaster approv-
+al—traits may be purchased, bought off, or inflicted
+during gameplay (see p. 153).
+
+CHARACTER MORPH
+In Eclipse Phase, your body is disposable. If your body
+gets old, sick, or too heavily damaged, you can digitize
+your consciousness and download it into a new body.
+The process isn’t cheap or easy, but it offers effective
+immortality—as long as you remember to back your-
+self up and don’t go insane. The term morph is used to
+describe any type of form your mind inhabits, whether
+it be a vat-grown clone sleeve, a synthetic robotic shell,
+a part-bio/part-flesh pod, or even the purely electronic
+software state of an infomorph.
+   You purchase your starting morph during character
+creation (see p. 128). This is likely the morph you
+were born with (assuming you were born), though it
+may simply be another morph you’ve moved onto.
+   Physical looks aside, your morph has a large impact
+on your characteristics. Your morph determines certain
+physical stats, such as Durability and Wound Threshold,
+and it may also influence Initiative and Speed. Morphs
+may also modify some of your aptitudes and learned
+skills. Some morphs come pre-loaded with specific traits
+and implants, representing how it was crafted, and you
+can always bling yourself out with more implants if
+you choose (see Implants, p. 126). All of these factors

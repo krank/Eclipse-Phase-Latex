@@ -1,0 +1,57 @@
+  Comfurt: This tasty yogurt treat blocks stress hor-                 transport and delivery. However, for the wealthy and
+mones, stabilizes mood, and relieves anxiety, allowing                on planets, buds in leaf form are not uncommon. Hash
+them to ignore the effect of 1 trauma and temporarily                 allows the character to ignore the effects of 1 trauma,
+boosting Lucidity by +5. Any stress suffered while the                but inflicts a –10 penalty on all memory-related tests
+drug is in effect is taken from the bonus Lucidity first.             and Knowledge Skill Tests. Hash users exhibit blood-
+Comfurt also provides a +10 bonus when resisting                      shot eyes, lethargic behaviors, and the munchies. [Low]
+attempts to manipulate the user’s emotions. Excessive
+use of Comfurt can lead to chronic itchiness caused by                SOCIAL DRUGS
+histamine release. [Low]                                              These social lubricants affect the user’s interactions
+                                                                      with others.
+RECREATIONAL DRUGS                                                      Alpha: Alpha is a more subtle version of BringIt,
+These drugs compete with petals (p. 321) and black                    popular with hypercorp execs, street thugs, and
+market XP for wasting people’s time and lives away.                   anyone else who wants to come across as a domineer-
+   Buzz: This gene-modified variant of BZ is an odor-                 ing asshole. The pharm designer who invented it had
+less, invisible, extremely powerful hallucinogen. Users               a retro sensibility (and maybe a sick sense of humor);
+or affected characters will undergo extremely realistic               Alpha is typically synthesized as a sparkling white
+hallucinations for the duration, and may even “share”                 powder designed to be snorted. Alpha stimulates
+hallucinations with other affected characters. Charac-                production of threat pheromones, but less bluntly
+ters will suffer a –30 modifier to any tests to remember              than BringIt. Alpha imparts confidence, a feeling of
+what occurred while under the influence. [Moderate]                   power, and alertness. Users can function without sleep
+   Mono No Aware: Taken from the Japanese term                        for 4 days, after which point they need to catch up
+for sadness at the ephemerality of worldly things, this               with at least 4 hours of sleep (remember morphs with
+drug, typically ingested as a tea, is a depressant that               basic biomods require less sleep). Dosed characters
+induces a meditative state. Mono No Aware gives the                   receive a +20 modifier on Intimidation Tests and +10
+character a +10 bonus on Art and Sense Tests. With                    on Persuasion and Networking Tests where attitude is
+frequent use, Mono No Aware reacts with pigments                      a factor (gamemaster discretion). These bonuses only
+in the skin to create a pallor with a slight bluish tinge,            apply to characters within 2 meters of the Alpha user.
+even in darker-skinned morphs. [Low]                                    On the downside, alpha users are impatient, unfo-
+   Orbital Hash: Good ol’ reefer—but grown in space                   cused assholes. At the gamemaster’s discretion, Social
+using powerful lighting and post-singularity hydropon-                skill modifiers may be reversed to penalties with
+ics. Because space is at a premium in habitats and scum               certain types of people. Additionally, Alpha users
+barges, blocks of hashish are the preferred mode of                   suffer –10 on all COG skill tests related to memory
+
+
+                                                         DRUGS
+                            TYPE APPLICATION ONSET TIME DURATION ADDICTION MODIFIER ADDICTION TYPE
+     Cognitive Drugs
+     Drive                  Chem          O          20 minutes       8 hours            —                  Mental
+     Klar                   Chem          O          20 minutes       8 hours            —                  Mental
+     Neem                   Chem          O          20 minutes       12 hours           —                  Mental
+     Combat Drugs
+     BringIt                 Bio      Inh, Inj, O     1 minute       15 minutes         +10                 Physical
+     Grin                   Chem      Inh, Inj, O   3 Action Turns    3 hours            –10                Physical
+     Kick                   Chem      Inh, Inj, O   3 Action Turns    2 hours            –10                Physical
+     MRDR                   Chem          O          20 minutes        1 hour            –10                Physical
+     Phlo                   Chem          O          20 minutes        1 hour            –10                Physical
+     Health Drugs
+     Bananas Furiosas       Chem          O          20 minutes        1 day             —                    —
+     Comfurt                 Bio          O          20 minutes       12 hours           –10                Mental
+     Recreational Drugs
+     Buzz                   Chem        Inh, O         1 hour         36 hours           —                  Mental
+     Mono No Aware          Chem          O          20 minutes       8 hours            –10                Mental
+     Orbital Hash           Chem         Inh          3 minutes       3 hours            —                  Mental
+     Social Drugs
+     Alpha                   Bio         Inh          1 minute        2 hours            –10                Mental
+     Hither                  Bio          D           1 minute        6 hours            –10                Physical
+     Juice                  Chem        O, Inh       20 minutes       8 hours            —                  Mental

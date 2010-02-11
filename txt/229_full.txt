@@ -1,0 +1,43 @@
+An async using this sleight can implant a memory             this sleight on a target and succeed in a Success Test.
+of up to an hour’s length inside the target’s mind.          If successful, the async acquires an “imprint” of the
+This memory very obviously does not belong to the            target’s mind that they can take advantage of when
+target—there is no way they will confuse it for one          impersonating that ego. The async then receives a +30
+of their own. The intent is not to fake memories, but        bonus on Impersonation Tests when mimicking the
+to place one of the async’s memories in the target’s         target’s behavior and social cues.
+mind so that the target can access it just like any other
+memory. This can be useful for “archiving” important         MINDLINK
+data with an ally, providing a literal alternate perspec-       PSI TYPE:     Active                 ACTION:     Quick
+tive, or simply making a “data dump” for the target
+to peruse. Implant Memory requires an Opposed Test              RANGE:        Touch                  DURATION:   Sustained
+against unwilling participants. At the gamemaster’s             STRAIN MOD:                SKILL:
+                                                                              +1/target after ﬁrst  Control
+discretion, particularly traumatic memories might            Mindlink allows two-way mental communication
+inflict mental stress on the recipient (p. 215).             with a target. This may be used on more than one
+                                                             target simultaneously, in which case the async can act
+IMPLANT SKILL                                                as a telepathic “server,” so that everyone mindlinked
+    PSI TYPE:   Active       ACTION:     Complex             with the async may also telepathically communicate
+                                                             with each other (via the async, however, so they
+    RANGE:      Touch        DURATION: Temp (Action Turns)
+                                                             overhear). Language is still a factor in mindlinked
+     STRAIN MOD: +0          SKILL:   Control                communications, but this barrier may be overcome by
+Similar to Implant Memory, this sleight allows the           transmitting sounds, images, emotions, and other sen-
+async to impart some of their expertise and implant it       sations. Mindlink requires an Opposed Test against
+into the target’s mind. For the duration of the sleight,     unwilling participants.
+the target benefits when using that skill. If the async’s
+skill is between 31 and 60, the target receives a +10        OMNI AWARENESS
+bonus. If the async’s skill is 61+, the target receives         PSI TYPE:     Active                 ACTION:     Quick
+a +20 bonus. Implant Skill requires an Opposed Test
+against unwilling participants. In some cases, the              RANGE:        Close                  DURATION: Temp (Minutes)
+
+target has been known to use the skill with the async’s          STRAIN MOD: –1           SKILL:    Sense
+flair and mannerisms.                                        An async with Omni Awareness is hypersensitive to
+                                                             other biological life that is observing them. During
+MIMIC                                                        this sleight’s duration, the async makes a Sense Test
+    PSI TYPE:   Active       ACTION:     Quick               that is opposed by any life that has focused their at-
+                                                             tention on them within the sleight’s range; if success-
+    RANGE:      Close        DURATION:   Instant
+                                                             ful, the async knows they are being watched, but not
+   STRAIN MOD: +0         SKILL:   Sense                     by whom or what. It does, however, apply a +30 Per-
+In a setting where changing your body and face is            ception bonus to spot the observer. This sleight does
+not unusual, people learn to recognize habits and            not register partial attention or fleeting attention, or
+personality quirks more often. The async must use            simple perception of the async, it only notices targets

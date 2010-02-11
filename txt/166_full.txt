@@ -1,0 +1,70 @@
+                                                  MERCURIAL SCAVENGER
+                                                                APTITUDES        COG     COO     INT     REF     SAV       SOM    WIL
+                                                                       Base       10      20      15      15      10        20    15
+                                                                Morph Bonus       5       5       5
+                                                                       Total      15      25      20      15      10       20      15
+
+
+
+
+                                                                MOX       TT     LUC      IR     WT     DUR      DR
+                                                                                                                           STATS
+                                                                                                                        INIT      SPD
+                                                                 5         6      30      60      6      30      45    60 (70)     1
+
+
+
+                                                                                                                       SKILLS
+                                                                                                                   MORPH
+                                                                                                 APT     BASE      BONUS         TOTAL
+                                                                  Academics: Engineering         COG      50         5             55
+                                                            Academics: Materials Science         COG      50         5             55
+                                                                      Academics: Physics         COG      50         5             55
+                                                                           Art: Ink Painting     INT      45         5             50
+                                                                                    Climbing     SOM      30                       30
+                                                                                Demolitions      COG      40           5           45
+                                                                Exotic Ranged: Ink Attack        COO      35           5           40
+                                                                                    Free Fall    REF      45                       45
+                                                                    Hardware: Electronics        COG      40           5           45
+                                                                      Hardware: Industrial       COG      40           5           45
+                                                                                  Inﬁltration    COO      50           5           55
+                                                                 Interests: Post-Fall Earth      COG      40           5           45
+                                                                Interests: Ruined Habitats       COG      55           5           60
+                                                             Interests: Spaceship Models         COG      40           5           45
+                                                                                 Interfacing     COG      30           5           35
+                                                                              Investigation      INT      35           5           40
+                                                                         Kinetic Weapons         COO      50           5           55
+                                                              Language: Native Japanese          INT      80           5           85
+                                                                 Networking: Autonomists         SAV      30                       30
+                                                                     Networking: Criminal        SAV      40                       40
+                                                                   Networking: Ecologists        SAV      40                       40
+(Octopus)                                                             Networking: Firewall       SAV      30                       30
+                                                                  Networking: Hypercorps         SAV      30                       30
+ration +Reclaiming Earth +Uplift Rights                                             Palming      COO      40           5           45
+                                                                                 Perception      INT      45           5           50
+                      Implants: Basic Biomods, Basic                          Pilot: Aircraft    REF      35                       35
+ x 2) ■                 Mesh Inserts, Chameleon                          Pilot: Spacecraft       REF      45                       45
+el 2) ■                 Skin, Cortical Stack, Direction              Profession: Appraisal       COG      40           5           45
+                        Sense, Echolocation, Electrical
+                                                                  Profession: Salvage Ops        COG      60           5           65
+                        Sense, Enhanced Vision, Grip
+                        Pads, Medichines, Oracles,                              Scrounging       INT      60           5           65
+                        Radiation Sense ■                                         Swimming       SOM      50                       50
+                      Gear: Backup Insurance                             Unarmed Combat          SOM      50                       50
+                        (1 month), Breadcrumb Posi-
+                        tioning System, Disassembly       You may be an “uplift,” but you find    and derelict habitats left behind
+                        Tools, Mobile Lab, Muse, Nano-    it hard not to feel sorry for these     by transhumanity to be fascinating
+                        detector, Radio Booster, Shel-    modified monkeys around you who         to explore, so you spend much of
+/4 or 4/6] with         ter dome, Specimen Container,     have to get by with half as many        your time combing through space-
+ng ■                    Superthermite Charge, Tactical    limbs, gaping sensory blind spots,      craft hulls and shattered stations,
+netic Pistol            Network Software, Vacsuit         and brittle bones that are con-         looking for curiosities and lost trea-
+                                                          stantly breaking. Any favors they       sures. Such activities tend to take
+tandard                 (Standard), X-Ray Emitter ■
+                                                          did by uplifting octopus-kind were      you close to Earth as well, where
+                      Advantages: 8 Arms, Beak Attack
+                                                          rendered moot when they suc-            you support the efforts of those who
+■                       (1d10 DV, use Unarmed Combat      ceeded in despoiling and abandon-       hope to take the planet back. Your
+                        skill), Ink Attack (blinding),    ing the home planet you all shared.     ultimate dream is to someday swim
+                        360-degree Vision ■               Nevertheless, you find all the ruins    in the oceans of your ancestors. ■
+                  “Maybe it’s the kind of trap that would catch a knuckle-dragging monkey,
+                     but my superior physiology was able to easily squeeze out of it.”

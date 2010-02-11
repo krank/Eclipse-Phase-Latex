@@ -1,0 +1,60 @@
+superconductors with 25 times the capacity of the             program, and note pad. It manages the user’s aug-
+best batteries in common use in the early 21st century.       mented reality input and can run any software the
+Such batteries may also be constructed so that they           character desires (see Software, p. 331). It also
+are flexible, printed on devices, or woven into fabric.       processes XP data, allowing the user to experi-
+They are good for 100–500 hours of use, and will alert        ence other people’s recorded memories, and also
+the user when they start running low. More power-             allowing the user to share their own XP sensory
+ful radio-isotope nuclear batteries are also available,       input with others in real-time. Facial/image rec-
+heavily shielded so they do not emit radiation and            ognition and encryption software (p. 331) are
+good for 3 years or more of use.                              included by default.
+   In short, power should rarely be an issue in Eclipse     • Radio Transceiver: This transceiver connects the
+Phase games, unless it happens to fit the plot. Power         user to the mesh and other characters/devices
+failure could also result from a critical failure roll.       within range. It has an effective range of 20 kilo-
+                                                              meters in deep space or other locations far from
+                                                              radio interference and 1 kilometer in crowded
+PERSONAL AUGMENTATION                                         habitats.
+Almost all citizens of the solar system, whether human,     • Medical Sensors: This array of implants monitors
+AI, or uplifted animal, use various forms of biological,      the user’s medical status, including heart rate,
+cybernetic, or nanotechnological augmentation. The            respiration, blood pressure, temperature, neural
+following is a list of the most common types.                 activity, and much more. A sophisticated medical
+  Unless otherwise noted, any bonuses from personal           diagnostic system interprets the data and warns
+augmentations are both compatible and cumulative              the user of any concerns or dangers.
+with bonuses from other enhancements.
+                                                             Using any of these functions is as easy as thinking.
+STANDARD AUGMENTATIONS                                     [Moderate, but included for free in most morphs]
+Most morphs produced in the solar system include the
+following augmentations.                                   CORTICAL STACK
+                                                           A cortical stack is a tiny cyberware data storage unit
+BASIC BIOMODS                                              protected within a synthdiamond case the size of a
+Almost universal in biomorphs, many habitats will not      grape, implanted at the base of the skull where the
+allow individuals to visit/immigrate if their biomorph     brain stem and spinal cord connect. It contains a
+does not possess these biomods in order to preserve        digital backup of that character’s ego. Part nanoware,
+public health. Basic biomods consists of a series of       the implant maintains a network of nanobots that
+genetic tweaks, tailored virii, and bacteria that speed    monitor synaptic connections and brain architecture,
+healing, greatly increase disease resistance, and impede   noting any changes and updating the ego backup in
+aging. A morph with basic biomods heals twice as fast      real time, right up to the moment of death. If the char-
+as an early 21st century human, gradually regrows lost     acter dies, the cortical stack can be recovered and they
+body parts, is immune to all normal diseases (from         may be restored from the backup (see Resleeving, p.
+cancer to the flu), and is largely immune to aging. In     271). Cortical stacks do not have external or wireless
+addition, the morph requires no more than 3-4 hours        access (for security), they must be surgically removed
+of sleep per night, is immune to ill-effects from long-    (see Retrieving a Cortical Stack, p. 268). Cortical
+term exposure to low or zero gravity, and does not         stacks are extremely durable, requiring special effort
+naturally suffer from biological problems like depres-     to damage or destroy. They are commonly recovered
+sion, shock reactions after being injured, or allergies.   from bodies that have otherwise been pulped or man-
+[Moderate, but included for free in most biomorphs]        gled. Cortical stacks are intentionally isolated from
+                                                           mesh inserts and other implants, as a security measure
+BASIC MESH INSERTS                                         to prevent hacking or external tampering. [Moderate,
+Mesh inserts are ubiquitous among modern morphs.           but included for free with most morphs]
+This network of cybernetic brain implants is essential
+equipment for anyone who wants to stay connected           CYBERBRAIN
+and make full use of the wireless mesh. The intercon-      Cybernetic brains are where the ego (or controlling
+nected components of this system include:                  AI) resides in synthmorphs and pods. Modeled on
+                                                           biological brains, cyberbrains have a holistic architec-
+ • Cranial Computer: This computer serves as the           ture and serve as the command node and central pro-
+   hub for the character’s personal area network           cessing point for sensory input and decision-making.
+   and is home to their muse (p. 264). It has all of       Only one ego or AI may “inhabit” a cyberbrain at a
+   the functions of a smartphone and PDA, acting           time; to accommodate extras, mesh inserts (p. 300)
+   as a media player, meshbrowser, alarm clock/            or a ghost-rider module (p. 307) must be used. Since
+   calendar, positioning and map system, address           cyberbrains store memories digitally, they have the
+   book, advanced calculator, file storage system,         equivalent of mnemonic augmentation (p. 307). They
+   search engine, social networking client, messaging      also have a built-in puppet sock (p. 307) so that they

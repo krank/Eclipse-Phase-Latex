@@ -1,0 +1,118 @@
+IMPERSONATION
+Type: Active, Social
+Linked Aptitude: SAV
+  What it is: Impersonation is the skill of trying to
+pass yourself off as someone else in social situations,
+including virtual ones. This includes copying manner-
+isms and speech patterns and using accumulated in-
+formation to convince others that you are that person.
+In a universe where appearance is highly variable, the
+question of identity is largely one of both trust and
+picking up on behavioral quirks and verbal cues to
+recognize a given individual.
+  When you use it: Sometimes it’s fun to pretend
+you’re someone else, and sometimes it’s profitable
+or lifesaving. Use this skill whenever you attempt
+to convince someone that you are actually someone
+else through some sort of social or online interaction.
+Forks use this skill when passing themselves off as
+their alpha ego. Impersonate is handled as an Op-
+posed Test against the Kinesics skill.
+Specializations: Avatar, Face-to-Face, Verbal
+
+INFILTRATION
+Type: Active, Physical
+Linked Aptitude: COO
+   What it is: Infiltration is the art of escaping
+detection.
+   When you use it: Use Infiltration whenever you
+need to physically hide or move with stealth to avoid
+someone sensing you, whether you are hiding behind
+a tree, sneaking past a guard, or blending into a
+crowd. Infiltration can also be used to follow people
+(shadowing) without them detecting you. Infiltration
+is an Opposed Test against the Perception of whom-
+ever you are hiding from. The gamemaster may wish
+to roll such tests in secret so the player does not know
+whether they have succeeded or failed.
+Specializations: Blending In, Hiding, Shadowing,
+   Sneaking
+
+INFOSEC
+Type: Active, Technical
+Linked Aptitude: COG (no defaulting)
+   What it is: Infosec is short for “information secu-
+rity.” It encompasses training in electronic intrusion
+and counterintrusion techniques, as well as encryption
+and decryption.
+   When you use it: Infosec is used both for hacking
+into electronic devices and mesh networks and for
+protecting them. See the Mesh chapter, p. 234, for
+more details.
+Specializations: Brute-Force Hacking, Decryption,
+   Probing, Security, Sniffing, Spoofing
+
+INTEREST: [FIELD]
+Type: Field, Knowledge
+Linked Aptitude: COG
+  What it is: Interest includes just about any topic
+that captures your attention that isn’t covered by
+another skill. This includes hobbies, obsessions,
+causes, pastimes, and other recreational pursuits.
+  When you use it: Use the Interest skill whenever
+you need to recall or use knowledge related to the
+particular interest in question.
+  Field Examples: Ancient Sports, Celebrity Gossip,
+Conspiracies, Factor Trivia, Gambling, Hypercorp
+Politics, Lunar Habitats, Martian Beers, Old Earth
+Nation-States, Reclaimer Blogs, Science Fiction, Scum
+Drug Dealers, Spaceship Models, Triad Economics,
+Underground XP
+Specializations: As appropriate to the field
+
+INTERFACING
+Type: Active, Technical
+Linked Aptitude: COG
+  What it is: Interfacing is about using computerized
+electronic devices and software.
+  When you use it: Use Interfacing to understand an
+electronic device you are not familiar with, use a pro-
+gram according to its normal operating parameters,
+manipulate electronic files of various types (including
+images, video, XP, and audio files), scan for wireless
+devices, and otherwise interact with and command
+your ecto, muse, and other computerized devices.
+Some Interfacing actions may be Task Actions, with
+a timeframe determined by the gamemaster. For more
+detail, see the Mesh chapter, p. 234.
+Specializations: Forgery, Scanning, Stealthing, by
+   program
+
+INTIMIDATION
+Type: Active, Social
+Linked Aptitude: SAV
+  What it is: Intimidation is convincing someone to
+do what you want based on direct threats (implied or
+actual) or sheer force of personality.
+  When you use it: Use Intimidation to scare someone
+into submission, browbeat them into getting your way,
+command them to follow your orders, or berate them
+into giving up information. Influence is handled as an
+Opposed Test, pitted against the target’s WIL + WIL
++ SAV.
+Specializations: Interrogation, Physical, Verbal
+
+INVESTIGATION
+Type: Active, Mental
+Linked Aptitude: INT
+  What it is: Investigation is the art of analyzing
+evidence, piecing together clues, solving mysteries,
+and making logical deductions from groups of facts.
+Investigation differs from Perception in that it is the
+conscious search for clues or pieces of a puzzle.
+  When you use it: Use Investigation to draw conclu-
+sions from assorted details. For example, Investiga-
+tion could be used to determine the likely sequence
+of events at a crime scene, determine a possible social
+connection between two people, or deduce how an
+enemy made their escape. Investigation is a great way

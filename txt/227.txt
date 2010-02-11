@@ -1,0 +1,110 @@
+a sufficiently large sample enough time to study, as
+determined by the gamemaster. This might range from
+a few hours of listening to a spoken transhuman lan-
+guage to a few days of investigating inscriptions left
+by long-dead aliens to a week or more of researching
+a lengthy cipher. Languages may be comprehended by
+reading or listening to them being spoken. Apply a
++20 modifier to any appropriate Language, Investiga-
+tion, Research, or cod-breaking Tests (note that this
+does not apply to Infosec Tests made by software to
+decrypt a code). The async may also use this ability to
+more easily learn new languages, reducing the training
+time by half.
+
+PREDICTIVE BOOST
+   PSI TYPE:   Passive       ACTION:    Automatic
+    RANGE:     Self        DURATION: Constant
+The Bayesian probability machine features of the
+async’s brain are boosted by this sleight, enhancing
+their ability to estimate and predict outcomes of
+events around them as they unfold in real-time and
+update those predictions as information changes.
+In effect, the character has a more intuitive sense
+for which outcomes are most likely. This grants the
+character a +10 bonus on any skill tests that involve
+predicting the outcome of events. It also bolsters
+the async’s decision-making in combat situations by
+making the best course of action more clear, and so
+provides a +10 bonus to both Initiative and Fray Tests.
+
+QUALIA
+   PSI TYPE:   Active        ACTION:    Quick
+   RANGE:      Self          DURATION: Temp (Action Turns)
+
+    STRAIN MOD: –1
+The async can temporarily increase their intuitive
+grasp of things. In game terms, Intuition is raised by
+5 for the chosen duration. This boost to Intuition also
+raises the rating of skills linked to that aptitude.
+
+SAVANT CALCULATION
+   PSI TYPE:   Passive       ACTION:    Automatic
+     RANGE:      Self          DURATION: Constant
+The character possesses an incredible facility with
+intuitive mathematics. They can do everything from
+calculate the odds exactly when gambling to predict-
+ing precisely where a leaf falling from a tree will land
+by observing the landscape and local wind currents.
+The character specializes in calculation involving the
+activity of complex chaotic systems and so can calcu-
+late answers that even the fastest computers could not,
+including things like patterns of rubble distribution
+from an explosion. However, this mathematic facility
+is largely intuitive, so the character does not know the
+equations they are solving, they merely know the solu-
+tion to the problem.
+   This sleight also provides a +30 modifier to any
+skill tests involving math (which the character is cal-
+culating, not a computer).
+SENSORY BOOST
+   PSI TYPE:   Active        ACTION:    Quick
+   RANGE:      Self          DURATION: Temp (Action Turns)
+
+    STRAIN MOD: –2
+An async uses this sleight to increase their natural or
+augmented sensory perception (sight, audio, smell,
+augmented) by enhanced cerebral processing, grant-
+ing a +20 bonus modifier on sensory-based Perception
+Tests.
+
+SUPERIOR KINESICS
+   PSI TYPE:   Passive       ACTION:    Automatic
+    RANGE:     Self          DURATION: Constant
+The async acquires more insight into people’s emo-
+tive signals, gestures, facial expressions, and body
+language when it comes time to predict the person’s
+emotional state, intent, or reactions. Apply a +10
+modifier to Kinesics Skill Tests.
+
+TIME SENSE
+   PSI TYPE:   Active        ACTION:    Automatic
+   RANGE:      Self          DURATION: Temp (Action Turns)
+
+    STRAIN MOD: –1
+An async with this ability can slow down his per-
+ception of time, making everything appear to move
+in slow motion or at reduced speed. In game terms,
+this sleight grants the async a Speed of +1. This extra
+Action Phase, however, can only be spent on mental
+and mesh actions.
+
+UNCONSCIOUS LEAD
+   PSI TYPE:   Active        ACTION:    Automatic
+   RANGE:      Self          DURATION: Temp (Action Turns)
+
+    STRAIN MOD: +0
+This sleight allows the async to override their con-
+sciousness and let their unconscious mind take point.
+While in this state, the async’s conscious mind is only
+dimly aware of what is transgressing, and any memo-
+ries of this period will be hazy at best. The advantage
+is that the unconscious mind acts more quickly, and
+so the async’s Speed is boosted by +1. The character
+remains aware and active, but is incapable of com-
+plex communication or other mental actions and is
+motivated by instinct and primitive urges more than
+conscious thought. Though it is recommended that
+the player retain control of their character while using
+Unconscious Lead, the gamemaster should feel free to
+direct the character’s actions as they see fit.

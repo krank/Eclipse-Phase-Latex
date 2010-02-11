@@ -1,0 +1,119 @@
+  Comfurt: This tasty yogurt treat blocks stress hor-
+mones, stabilizes mood, and relieves anxiety, allowing
+them to ignore the effect of 1 trauma and temporarily
+boosting Lucidity by +5. Any stress suffered while the
+drug is in effect is taken from the bonus Lucidity first.
+Comfurt also provides a +10 bonus when resisting
+attempts to manipulate the user’s emotions. Excessive
+use of Comfurt can lead to chronic itchiness caused by
+histamine release. [Low]
+
+RECREATIONAL DRUGS
+These drugs compete with petals (p. 321) and black
+market XP for wasting people’s time and lives away.
+   Buzz: This gene-modified variant of BZ is an odor-
+less, invisible, extremely powerful hallucinogen. Users
+or affected characters will undergo extremely realistic
+hallucinations for the duration, and may even “share”
+hallucinations with other affected characters. Charac-
+ters will suffer a –30 modifier to any tests to remember
+what occurred while under the influence. [Moderate]
+   Mono No Aware: Taken from the Japanese term
+for sadness at the ephemerality of worldly things, this
+drug, typically ingested as a tea, is a depressant that
+induces a meditative state. Mono No Aware gives the
+character a +10 bonus on Art and Sense Tests. With
+frequent use, Mono No Aware reacts with pigments
+in the skin to create a pallor with a slight bluish tinge,
+even in darker-skinned morphs. [Low]
+   Orbital Hash: Good ol’ reefer—but grown in space
+using powerful lighting and post-singularity hydropon-
+ics. Because space is at a premium in habitats and scum
+barges, blocks of hashish are the preferred mode of
+
+
+                                                         DR
+                            TYPE APPLICATION ONSET TI
+     Cognitive Drugs
+     Drive                  Chem          O          20 minu
+     Klar                   Chem          O          20 minu
+     Neem                   Chem          O          20 minu
+     Combat Drugs
+     BringIt                 Bio      Inh, Inj, O     1 minut
+     Grin                   Chem      Inh, Inj, O   3 Action T
+     Kick                   Chem      Inh, Inj, O   3 Action T
+     MRDR                   Chem          O          20 minu
+     Phlo                   Chem          O          20 minu
+     Health Drugs
+     Bananas Furiosas       Chem          O          20 minu
+     Comfurt                 Bio          O          20 minu
+     Recreational Drugs
+     Buzz                   Chem        Inh, O         1 hour
+     Mono No Aware          Chem          O          20 minu
+     Orbital Hash           Chem         Inh          3 minut
+     Social Drugs
+     Alpha                   Bio         Inh          1 minut
+     Hither                  Bio          D           1 minut
+     Juice                  Chem        O, Inh       20 minu
+ transport and delivery. However, for the wealthy and
+ on planets, buds in leaf form are not uncommon. Hash
+ allows the character to ignore the effects of 1 trauma,
+ but inflicts a –10 penalty on all memory-related tests
+ and Knowledge Skill Tests. Hash users exhibit blood-
+ shot eyes, lethargic behaviors, and the munchies. [Low]
+
+ SOCIAL DRUGS
+ These social lubricants affect the user’s interactions
+ with others.
+   Alpha: Alpha is a more subtle version of BringIt,
+ popular with hypercorp execs, street thugs, and
+ anyone else who wants to come across as a domineer-
+ ing asshole. The pharm designer who invented it had
+ a retro sensibility (and maybe a sick sense of humor);
+ Alpha is typically synthesized as a sparkling white
+ powder designed to be snorted. Alpha stimulates
+ production of threat pheromones, but less bluntly
+ than BringIt. Alpha imparts confidence, a feeling of
+ power, and alertness. Users can function without sleep
+ for 4 days, after which point they need to catch up
+ with at least 4 hours of sleep (remember morphs with
+ basic biomods require less sleep). Dosed characters
+ receive a +20 modifier on Intimidation Tests and +10
+ on Persuasion and Networking Tests where attitude is
+ a factor (gamemaster discretion). These bonuses only
+ apply to characters within 2 meters of the Alpha user.
+   On the downside, alpha users are impatient, unfo-
+ cused assholes. At the gamemaster’s discretion, Social
+ skill modifiers may be reversed to penalties with
+ certain types of people. Additionally, Alpha users
+ suffer –10 on all COG skill tests related to memory
+
+
+GS
+DURATION ADDICTION MODIFIER ADDICTION TYPE
+
+
+ 8 hours            —                  Mental
+ 8 hours            —                  Mental
+ 12 hours           —                  Mental
+
+
+15 minutes         +10                 Physical
+ 3 hours            –10                Physical
+ 2 hours            –10                Physical
+  1 hour            –10                Physical
+  1 hour            –10                Physical
+
+
+  1 day             —                    —
+ 12 hours           –10                Mental
+
+
+ 36 hours           —                  Mental
+ 8 hours            –10                Mental
+ 3 hours            —                  Mental
+
+
+ 2 hours            –10                Mental
+ 6 hours            –10                Physical
+ 8 hours            —                  Mental

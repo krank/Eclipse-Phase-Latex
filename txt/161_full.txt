@@ -1,0 +1,69 @@
+EXTROPIAN SMUGGLER
+           APTITUDES  COG      COO       INT   REF     SAV       SOM     WIL
+            Base       15       15        15    20      15        15     15
+     Morph Bonus                5         5                       5
+            Total       15      20       20     20      15        20      15
+
+
+
+
+      MOX      TT      LUC      IR       WT    DUR     DR
+                                                                 STATS
+                                                                 INIT    SPD
+       5        6       30      60        8     40     80         70      1
+
+
+
+                                                             SKILLS
+                                                         MORPH
+                                        APT     BASE     BONUS          TOTAL
+         Academics: Accounting          COG      35                       55
+       Academics: Astrophysics          COG      45                       45
+         Academics: Psychology          COG      40                       40
+                            Blades      SOM      45          5            50
+                        Deception       SAV      50                       50
+                               Fray     REF      50                       50
+                          Free Fall     REF      30                       30
+                          Gunnery       INT      40          5            45
+           Hardware: Aerospace          COG      50                       50
+                        Inﬁltration     COO      40          5            45
+                           Infosec      COG      35                       35
+        Interests: Black Markets        COG      55                       55
+      Interests: Criminal Groups        COG      35                       35
+    Interests: Inner System Law         COG      55                       55
+                          Kinesics      SAV      40                       40
+                Kinetic Weapons         COO      50          5            55
+       Language: Native Korean          INT      85          5            90
+              Language: English         INT      45          5            50
+           Language: Cantonese          INT      40          5            45
+                       Navigation       INT      30          5            35
+       Networking: Autonomists          SAV      55                       55
+            Networking: Criminal        SAV      55                       55    Background: Reinstantiated
+        Networking: Hypercorps          SAV      35                       35    Faction: Extropian
+                          Palming       COO      35          5            40    Morph: Slitheroid
+                       Perception       INT      45          5            50    Motivations: +Libertarianism +Subverting Authority
+                       Persuasion       SAV      60                       60    TRAITS                               Enhancemen
+                    Pilot: Aircraft     REF      45                       45    Ego: Danger Sense, Edited              Vision, Acc
+               Pilot: Groundcraft       REF      50                       50      Memories, Neural Damage              Glare, Bas
+                Pilot: Spacecraft       REF      60                       60      (Repetitive Behavior), On the        Chameleon
+           Profession: Appraisal        COG      45                       45      Run (Jovians) ■                      Stack, Cyb
+Profession: Customs Procedures          COG      50                       50                                           Vision, Gri
+                                                                                REP                                    Compartm
+   Profession: Smuggling Tricks         COG      60                       60
+                                                                                @-rep:   50                            Combat Ar
+                                                                                c-rep:   30                            Augmenta
+Despite the failures of statist capi-    or pirating nanofab blueprints. In     g-rep:   70                            tem: Snake
+talism, you’re a die-hard believer in    an age of automated machines,          i-rep:   50                            Radar, T-R
+free markets—and when markets            you’re a damn good pilot, and you                                           Gear: Backup
+aren’t free, you have no qualms          can talk or shoot your way out of      EQUIPMENT                              Dazzler, Fa
+about undermining them.                  messy situations. Whereas many
+                                                                                Armor: Light Combat Armor [14/12]      Bot, Miniat
+   You make a living supplying the       people look down on synthmorphs,
+inner system and Jovian black mar-       you embrace the post-biological life     ■                                    Phlo (1 dos
+kets, whether that means running         and its freedom from chemical and      Primary Weapon: SMG Firearm            Radio Boos
+blockades, smuggling contraband,         biological dependencies.■                (100 rounds regular ammo) ■          Slip (1 appl
+                                                                                Starting Credit: 1,400 ■               ing, Utilitoo
+                                                                                                                       Noise Mac
+
+
+                                        “Sorry about that, but I gotta look out for numero uno. You understand.”

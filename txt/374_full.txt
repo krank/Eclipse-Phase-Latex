@@ -1,0 +1,60 @@
+dream of. Their intent is to be more cinematic than           PYROKINESIS
+mechanical, so gamemasters should wing rules effects          Similar to cryokinesis, this sleight enables the exsur-
+as needed. This is an open opportunity for the game-          gent to accelerate the molecules, increase friction, or
+master to create nightmarish monsters from beyond             focus heat in a specific area, causing materials to ignite
+with frightening reality-ripping and mind-scarring            or smolder.
+abilities. While some example sleights are provided
+below, gamemasters are encouraged to modify their
+effects and to create their own.                              THE FACTORS
+  At the gamemaster’s discretion, simply observing psi        The alien species known as the Factors are unlike
+epsilon sleights in action may inflict 1d10 + 2 mental        anything mankind has encountered so far (see First
+stress on a character (p. 215).                               Contact: The Factors, p. 40). Though they are aloof
+                                                              and stand-offish, their willingness and sometimes ea-
+ANTI-ELECTRONICS FIELD                                        gerness to deal with (parts of) transhumanity indicate
+All electronics within Close range of the exsurgent           either a keen interest on their part in transhuman
+mysteriously fail as if electrical power is simply ne-        affairs or some hidden ulterior agenda. Though the
+gated. This effectively disables synthmorphs and pods         various transhuman factions have been similarly wary
+and leaves other characters without access to their           and cautious, and despite numerous communications
+devices or implants.                                          difficulties and failures, an uneasy relationship has
+                                                              flowered over the past 8 years, facilitating some trade
+CASIMIR FORCE REPULSION                                       and exchange of knowledge.
+This sleight exploits the Casimir effect (an interaction
+between the electromagnetic fields of different objects)      ORIGIN AND EVOLUTION
+on a macro-scale, allowing the exsurgent to levitate          The Factors have remained notoriously tight-lipped
+themself or other objects by creating repulsing fields.       about their origins, history, and the location of their
+This could also allow the exsurgent to push targets           homeworld. Though they have also paid visits to some
+away, pin them against walls, etc.                            of transhumanity’s exoplanet colonies, no gatecrashing
+                                                              expeditions have yet found any sign of Factor habitation
+CRYOKINESIS                                                   or passing elsewhere in the galaxy. Repeated inquiries
+This sleight allows the exsurgent to drain all heat from      by transhuman mediators have been simply ignored or
+an area, down to absolute zero, effectively freezing          answered in cryptic terms that have yet to be deciphered.
+everything within range and inflicting cold damage on           The Factor home world is in fact an Earth-like
+unprotected characters.                                       planet with comparable atmospheric conditions and
+                                                              a prevalent hydrosphere but with longer periods of
+DIFFUSION                                                     darkness (due to slower rotation of the planet and a
+This sleight diffuses light, laser, and particle beams, ef-   less-luminous orange giant). While adapted transhu-
+fectively making them useless as weapons, or at least         mans could find their planet habitable, their abiogen-
+impairing the DV they inflict.                                esis (the formation of life from self-replicating, but
+                                                              not-living molecules) took a different route than life
+KINETIC FRICTION                                              on Earth.
+The exsurgent uses this sleight to increase the fric-           The Factors’ primordial ancestors began in their
+tion applied to kinetic activities. This has a negligible     planet’s early geological history as a type of of pho-
+effect on most activities, but high-velocity projectiles      tosynthesizer that ate carbon dioxide and water and
+like firearms and railguns will be significantly slowed,      released oxygen, also obtaining energy from inorganic
+decreasing their DV by half or more.                          chemicals like hydrogen sulfide. Long conditions
+                                                              without direct light on their homeworld, however,
+MATTER TRANSFORMATION                                         spurred the success of organisms that could survive
+This sleight alters the molecular bonds and atomic            by acquiring energy in other ways. The next evolu-
+components of a targeted material, causing it to either       tionary leap was to a stage similar to Terran slime
+weaken and deteriorate or transmutate into some               molds, eating microorganisms from decaying matter.
+other physical substance. This can also be used to            As evolution progressed, they mutated further into a
+alter the molecular state of a material, causing gases        cautious, predatory species that fed on larger, danger-
+to condense, solids to liquefy, etc. An exsurgent could       ous creatures. Rather than actively hunting such prey,
+use this to weaken a door or other barrier, condense a        this species developed versatile methods of capturing
+solid bridge out of liquid, petrify organic materials, etc.   and immobilizing their competitors (comparable to
+                                                              Earth’s funnel web or trapdoor spiders). Over time,
+NEGATIVE REFRACTION                                           this method of trapping prey spurred basic (practical)
+The exsurgent redirects electromagnetic waves with            intelligence and provided them with the evolutionary
+this sleight, refracting them around their body, with         advantage that paved the way to sapience, driving
+the same effect as the invisibility cloak (p. 316).           Factors to become the highest developed organisms
+                                                              on their planet and build a civilization.

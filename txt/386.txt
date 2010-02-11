@@ -1,0 +1,115 @@
+NANOVIRII
+The TITANs unleashed a number of biowar plagues
+during the Fall. Similar to the exsurgent virus, these
+were spread as biological nanovirii (p. 363) or nano-
+swarm plagues (p. 364)—use the same rules for deter-
+mining exposure and infection.
+
+MELDER
+This virus slowly breaks down the target’s body,
+converting the biological materials into some sort of
+biofilament that then meshes with implants, electron-
+ics, and physical objects and structures. In effect, the
+biological and synthetic are melded together, continu-
+ing to expand and grow, consuming anything around
+them into their growth. Victims suffer 1d10 DV and
+1d10 SV every hour, implants become inoperable after
+2 hours, and the target becomes fully transformed
+and absorbed into the new melding substance after
+12 hours.
+
+METASTASIZER
+This sophisticated smart protein massively reprograms
+the target’s cells to go rapidly, autocannibalistically
+cancerous. After 2 + (SOM ÷ 10, round up) hours, the
+target suffers death by dozens of supercancers.
+
+NECROTIZER
+This virus breaks down the target’s cells into their
+component proteins. Reduce the target’s aptitudes by
+5 per hour as they slowly convert into a puddle of
+sludge. The character dies if any aptitude reaches 0.
+
+NEUROPATHS
+These virii target the victim’s neurological system,
+often rewriting portions of it to inflict some type of
+permanent neurological damage. After 12 hours, this
+virus inflicts the Neural Damage trait (p. 150).
+
+PETRIFIER
+The petrifier virus transforms the target’s cells into
+a simple molecular compound or element—typically
+carbon or crystal. The target suffers 1d10 DV and –5
+to all aptitudes per hour, dying when any aptitudes
+reach 0. Victims are frozen in place, converted into an
+nonliving statue.
+
+UZUMAKI
+The target of this virus begins suffering from bizarre
+fleshy growths. After four hours, their body literally
+erupts with meaty “vines” or “tentacles” that warp
+into spiral patterns. This process inflicts 1d10 DV and
+1d10 SV per hour to the victim until they eventually
+transform into an unworldly expanse of fleshy growth.
+In many cases, growth has continued long after a
+character’s death, creating expansive carpets and vines
+of skin and blood vessels, like some sort of bizarre
+meat plant.
+GAMEMASTERING
+AND ADMINISTRATION
+The following advice will assist gamemasters in run-
+ning their games more efficiently.
+
+AWARDING REZ POINTS
+In Eclipse Phase, characters earn Rez Points in order
+to advance (see Character Advancement, p. 152). As
+the name suggests, these points are awarded so players
+can spend them to better define their characters—to
+bring them into higher resolution, sharper focus. As
+the gamemaster, you determine when and how many
+Rez Points to award, following the guidelines below.
+   Rez Points should be awarded at the end of every
+story arc, at the break in the action between one ad-
+venture and the next. Depending on your style of play
+and the length of your sessions, this should roughly be
+every 3–6 gaming sessions. If a scenario goes shorter
+or longer, the Rez Point awards should be adjusted
+accordingly. In the case of long-term campaigns, the
+gamemaster should break down the action into digest-
+ible chunks, or “chapters,” and assign Rez Points after
+each such segment.
+  Every character should be awarded 1 Rez Point for
+each of the following criteria that is met:
+
+ • The character participated in that scenario.
+ • The character achieved (most of) their objectives
+   in that scenario.
+ • The character failed to meet their objectives, but
+   learned a valuable lesson.
+ • The character contributed to achieving success
+   in a significant way (e.g., right skill at the right
+   time).
+ • The adventure was extra challenging.
+ • The character achieved a motivational goal (see
+   Motivation, p. 120).
+ • The player engaged in good roleplaying.
+ • The player significantly contributed to the ses-
+   sion’s drama, humor, or fun with roleplaying.
+
+  This should result in an average Rez Points award
+of 4–7 points per character, per adventure. Game-
+masters who wish to drive the characters’ advance-
+ment forward more quickly can increase the reward
+amounts.
+
+REPUTATION GAIN AND LOSS
+In addition to awarding Rez Points, the gamemaster
+should also adjust each character’s Rep scores accord-
+ing to actions they took during game play, according to
+the guidelines below. For simplicity, these can be applied
+at the end of the adventure, though gamemasters who
+seek a more dynamic game could apply changes to the
+characters’ Rep scores in game, as their peers judge
+them according to their actions (or lack thereof) and
+news about them in real time. Rep scores should only
+be modified according to public actions and interactions

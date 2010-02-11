@@ -1,0 +1,60 @@
+DETAILING THE CHARACTER                                       exowomb, and grown to adulthood either naturally
+The final step in character creation is filling in the de-    or at a slightly accelerated rate.
+tails and figuring out what your character is like and
+what they are all about. Your character’s Background          FLATS
+is a good place to start as it says where they came, but      Flats are baseline unmodified humans, born with all
+it could be expanded. What did they think of their            of the natural defects, hereditary diseases, and other
+childhood? Do they still have ties from there? How            genetic mutations that evolution so lovingly applies.
+did they move from such origins to the Faction they           Flats are increasingly rare—most died off with the rest
+are part of? Are they fully supportive of their Faction’s     of humanity during the Fall. Most new children are
+goals, or are they in opposition? How does the charac-        splicers—screened and genefixed at the least—except
+ter view other Factions?                                      in habitats where flats are treated as second-class citi-
+   Next, take a look at the skills and other defining         zens and indentured labor.
+points—these also tell a story. How did they acquire          Implants: None
+those skills? Why? How did they develop their Rep             Aptitude Maximum: 20
+score (or lack of one)? How did they get connected            Durability: 30
+with the groupings represented by their Networking            Wound Threshold: 6
+skills? What do the character’s traits say about them?        Disadvantages: None (Genetic Defects trait common)
+How did they get their current morph? Is it their             CP Cost: 0
+original? If not, what happened to their first body?          Credit Cost: High
+   Also taking into account the major factor of Moti-
+vations, all of these questions will help you build a de-     SPLICERS
+fining picture of your character. Not everything about        Splicers are genefixed humans. Their genome has
+your character needs to be filled out, of course—it’s         been cleansed of hereditary diseases and optimized
+ok to leave a few blanks that you can fill in later. As-      for looks and health, but has not otherwise been
+sembling the points you have deduced so far will help         substantially upgraded. Splicers make up the major-
+you to present your character as a whole, unique indi-        ity of transhumanity.
+vidual, however, rather than just a blank template.           Implants: Basic Biomods, Basic Mesh Inserts,
+   As a final step, take a few minutes to pick out some          Cortical Stack
+specific identifying features and personality quirks that     Aptitude Maximum: 25
+will help you define the character to others. This could      Durability: 30
+be a way of talking, a strongly-projected attitude, a         Wound Threshold: 6
+catchphrase they use frequently, a unique look or style       Advantages: +5 to one aptitude of the player’s choice
+of dress, a repetitive behavior, an annoying manner-          CP Cost: 10
+ism, or anything else similar that is easy to latch onto.     Credit Cost: High
+Such idiosyncrasies give something that other players
+can latch onto, spurring roleplaying opportunities.           EXALTS
+                                                              Exalt morphs are genetically-enhanced humans, de-
+                                                              signed to emphasize specific traits. Their genetic code
+STARTING MORPHS                                               has been tweaked to make them healthier, smarter,
+Each morph has an associated CP cost. It also sup-            and more attractive. Their metabolism is modified to
+plies the character’s Durability and Wound Threshold          predispose them towards staying fit and athletic for
+stats, and may modify Initiative, Speed, and certain          the duration of an extended lifespan.
+aptitudes and learned skills. A credit cost is also listed,   Implants: Basic Biomods, Basic Mesh Inserts,
+but this refers to the cost of buying such a morph in            Cortical Stack
+gameplay.                                                     Aptitude Maximum: 30
+   Flexible Aptitude Bonuses: Some morphs have ap-            Durability: 35
+titude bonuses that may be applied to an aptitude of          Wound Threshold: 7
+the player’s choice. This reflects that not all morphs        Advantages: +5 COG, +5 to three other aptitudes of
+are created equal. When assigning these universal ap-            the player’s choice
+titude bonuses, each boost must be applied to a sepa-         CP Cost: 30
+rate aptitude; you may not elevate an aptitude that           Credit Cost: Expensive
+is already raised by that morph. Once an individual
+morph’s aptitude bonuses have been assigned, they             MENTONS
+are permanent for that morph (i.e., if another char-          Mentons are genetically modified to increase cogni-
+acter resleeves into that morph, the bonuses remain           tive abilities, particularly learning ability, creativity,
+the same).                                                    attentiveness, and memory. Rumors exist of super-
+                                                              enhanced mentons with more extreme intelligence
+BIOMORPHS                                                     mods, but brain-hacking is notoriously difficult, and
+Biomorphs are fully biological sleeves (usually               many attempts to redesign mental faculties result in
+equipped with implants), birthed naturally or in an           impaired functioning, instability, or insanity.

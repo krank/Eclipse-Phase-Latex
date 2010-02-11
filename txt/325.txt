@@ -1,0 +1,120 @@
+their time not on Petals trying to hunt down the most
+intense and esoteric varieties. From this subculture
+comes a lot of information on what various Petals
+look like and their effects. Because Petals combine
+custom nanobots with tailored chemical payloads and
+sometimes connections to mesh servers, duplicating
+them using fabricators is impossible, leading to an
+active market of crafters, dealers, and traders.
+   Petals sometimes contain easter eggs and rewards,
+called “sweets” by petal users. Getting the sweets usu-
+ally requires fulfilling certain conditions within the
+trip, such as correctly answering questions or fulfilling
+goals. Typical sweets include skillsofts, new clothing
+or product designs, and custom infomorph sleeves.
+   On the negative side, some Petal trips go bad, in-
+flicting 1d10 mental stress or more on the user. Per-
+haps worse, some Petals are loaded with malware that
+takes over the user’s mesh inserts and worse—some
+sentinels even whisper of Petals carrying strains of the
+Exsurgent virus. [Trivial to High]
+
+NARCOALGORITHMS
+Narcoalgorithms are software programs that simulate
+the effects of drugs on biological bodies. Almost all
+bio, chemical, and nano drugs can be replicated as
+narcoalgorithms, with corresponding effect (game-
+master discretion). Narcoalgorithms may be run by
+infomorphs, egos encased in cyberbrains (pods and
+synthmorphs), simulmorphs, and even AIs.
+   DDR: Originally crafted by prankster hackers
+and distributed as a virus, DDR (for “Dance Dance
+Robot”) triggers impulses in the target’s motor con-
+trol circuits. Primary targeting robot AIs, the effect is
+that targets “dance” in jerky, automated movements.
+Pleasure receptors are also activated so that dancing—
+and movement of any kind—feels good. Different
+software variants invoke different motions and styles.
+The target suffers a –20 modifier on other actions
+while dancing, but the dancing may be overridden
+with a WIL x 3 Test. [Low]
+   Linkstate: This software actually connects the user
+to a peer-to-peer network, where it randomly con-
+nects to other linkstate users and samples a bit of their
+XP feed and randomly accessed memories—typically
+just enough to provide context, but not enough to
+acquire private personal details. These inputs are
+spliced together, their emotional inputs amplified, and
+then the entire package is spiked with some hormonal
+circuit triggers and artificial synaesthesia. The effect
+is a mind-blowing mixed sampling of people’s lives,
+mashed together in a sensory soup, that hits the mind
+with a euphoric rush. Linkstate users are catatonic
+while under the effects (typical sessions run 3-4 hours),
+but afterwards they often report that they have flash-
+backs of events in other people’s lives. [Low]
+
+CHEMICALS
+Atropine: Though poisonous in large doses, atropine
+is an effective antidote against nerve agents like BTX2
+and Nervex. Easily synthesized in a maker, atropine
+will avert the effect whether taken soon before or after
+dosage by a nerve agent. [Trivial]
+   DMSO: This chemical acts as a carrier, allow-
+ing other chemicals to be absorbed through the
+skin. It allows any chemical agent to be applied
+dermally. [Trivial]
+   Liquid Thermite: Similar to scrapper’s gel, liquid
+thermite comes in a gel form that is easily applied
+under all environmental conditions (by the nature
+of its chemical reaction, thermite is oxygenated and
+will burn underwater or in space). It is ignited with
+an electric charge, burning at temperatures exceeding
+2,500 degrees Celsius and melting through whatever
+it is touching. Liquid thermite inflicts 3d10 + 5 DV per
+Action turn to whatever it is touching. Armor will also
+be burnt through, offering no protection once the full
+Armor rating has been reached. [Moderate]
+   NotWater: NotWater is an effective liquid fire re-
+tardant that does not get objects wet, no matter how
+absorbent they are—it simply beads up and slides
+right off. [Trivial]
+    Scrapper’s Gel: This goo turns into a potent acid
+when given an electrical charge. It comes in a gel-like
+state and may be smeared like jelly, and may even be
+used in space. In acid form, scrapper’s gel does 1d10
++ 5 DV per Action Turn to anything it touches, unless
+the material has been treated against acid. Armor will
+protect against this acid at first, but the acid will eat
+through the armor, so that it will no longer protect
+after its full armor value has been reached. [Low]
+    Slip: This liquid is almost entirely frictionless. When
+spread around an area (commonly used in splash
+grenades), anyone attempting to walk or run on the
+affected surface must make a COO Test or fall down.
+Likewise, any coated surface becomes extremely
+hard to grip onto, requiring a SOM Test to hang on.
+Anyone attempting to grapple a slip-soaked character
+suffers a –30 modifier. [Low]
+   Tracker Dye: This liquid is colorless at normal light
+but becomes recognizable under pre-specified different
+wavelengths (such as infrared or ultraviolet). [Trivial]
+
+TOXINS
+Chemical warfare involves using the toxic properties
+of biological and chemical substances to kill, injure,
+or incapacitate an enemy. Note that an antidote can
+be constructed for most toxins if a sample is acquired
+and an appropriate Medicine or Academics Test is
+made. This is considered a Task Action with a time-
+frame of 1 hour. These toxins only affect biomorphs;
+synthmorphs are immune.
+   BTX : BTX-squared (also called Frog Bite) is a
+genetically-enhanced variant of the extremely potent
+cardiotoxic and neurotoxic batrachotoxin. It leads to
+fast paralysis and cardiac arrest that usually kills the
+target within a few Action Turns. Affected characters
+suffer 2d10 + 10 damage a turn for 3 Action Turns;
+medichines reduce this damage by half. They must
+also make a SOM x 2 Test (+30 with medichines) or
+be paralyzed for 1 hour. [High]

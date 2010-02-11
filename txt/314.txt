@@ -1,0 +1,117 @@
+ARMOR
+Modern personal armor systems have advanced from
+the high modulus polyethylene thermoplastics and
+aramid fabrics of the early 21st century. Armor in
+Eclipse Phase is derived from biotech, in the form of
+organoweave fibers and crystalline-grown plates, and
+nanotech, in the form of shock-absorbing fullerene (p.
+298) materials. Occasionally other materials are used,
+such as metallic glass plates or shear-resistant fluids
+that harden against impacts. Such armor protects
+against (armor-piercing) bullets and kinetic impacts
+as well as bladed weapons and piercing sharp objects.
+They also insulate against both the explosive heating
+of energy weapons and electrical shocks. While such
+armor protects against bullets, the layers of mate-
+rial catch the bullet and redistribute its kinetic energy
+across the body, which can still result in severe blunt
+force trauma.
+   Rules for armor in combat can be found on p. 194.
+Armored exoskeletons are listed on p. 343.
+   Armor Clothing: The extra-resilient organoweave
+fibers and fullerene materials that offer basic protec-
+tion against kinetic and energy weapons can be woven
+in with normal smart materials to create a wide range
+of discreet armor clothing that provides a subtle level
+of security. Such protective garments are indistin-
+guishable from regular clothing and come in all styles
+and designs. Armor clothing provides an Armor Value
+of 3/4. [Trivial]
+   Armor Vest: Armor vests provide more thorough
+protection to a body’s vital areas, covering the abdo-
+men and torso completely, protecting the neck with a
+rigid collar, and even providing wrap-under protec-
+tion for the groin. Though armor vests are not bulky,
+they are obvious as armor. Armor vests may be worn
+with armor clothing without penalty. Armor vests
+provide an Armor Value of 6/6. [Low]
+   Body Armor (Light): These high performance armor
+outfits protect the wearer from head to toe. An inte-
+grated armor vest is supplemented with increased pro-
+tection on the limbs and joints, while still managing to
+be flexible and non-restrictive. Body armor is typically
+worn by security and police forces, and supplemented
+with a helmet. It provides an Armor Value of 10/10.
+[Low]
+   Body Armor (Heavy): Similar to light body armor,
+but with extra protective layers, often ergonomically
+manufactured to conform to a specific character’s
+body, and an environmental seal with climate control
+to protect the wearer from hostile environments. It
+provides an Armor Value of 13/13. [Moderate]
+   Crash Suit: Designed for both industrial worksite
+safety and protection from accidental zero-G collisions,
+crash suits are also favored by sports enthusiasts and
+explorers. The basic jumpsuit offers comfortable pro-
+tection equal to that of armor clothing. When activat-
+ed with an electronic signal, however, elastic polymers
+within the suit stiffen and form rigid impact protection
+for vital areas. Crash suits provide an Armor Value of
+3/4 when inactive and 4/6 when activated. [Low]
+   Helmet: This armor accessory is usually worn with
+body armor or a battle suit. Light helmets are open,
+whereas full helmets latch on and provide an environ-
+mental seal with a 12 hour supply of air. Light helmets
+provide an Armor Value bonus of +2/+2, whereas full
+helmets add +3/+3. Helmets are often equipped with
+an ecto (p. 325), a radio booster (p. 313), and sensors
+equal to specs (see p. 325). [Trivial]
+   Riot Shield: Used for mob suppression, riots shields
+are light-weight, tough, and may be set to electrify on
+command, stunning anyone who comes into contact
+with the outer surface (treat as shock glove effects, p.
+334). Riot shields provide an Armor Value bonus of
++3/+2. [Low]
+   Second Skin: This lightweight bodysuit, woven
+from spider silks and fullerenes, is typically worn
+as an underlayer, though some athletes use it as a
+uniform. It provides minimal protection, but may be
+worn with other armor without penalty. It provides an
+Armor Value of 1/3. [Low]
+   Smart Skin: Smart skin is an advanced nano-
+fluid that covers the wearer’s skin. It resembles liquid
+mercury but retains the texture and flexibility of
+normal skin until activated, at which point the mate-
+rial becomes rigid enough to protect the wearer and
+
+
+
+                  ARMOR VALUES
+ARMOR                             ENERGY KINETIC PAGE
+Armor Clothing                      3       4      311
+Armor Vest                          6       6      312
+Battle Suit Powered Exoskeleton     18     18      344
+Bioweave Armor (Light)              2       3      302
+Bioweave Armor (Heavy)              3       4      302
+Body Armor (Light)                  10     10      312
+Body Armor (Heavy)                  13     13      312
+Carapace Armor                      11     11      303
+Crash Suit (Inactive)               3       4      312
+Crash Suit (Active)                 4       6      312
+Exowalker                           2       4      344
+Hard Suit                           15     15      334
+Helmet (Light)                      +2     +2      312
+Helmet (Full)                       +3     +3      312
+Hyperdense Exoskeleton              6      12      344
+Riot Shield                         +3     +2      312
+Second Skin                         1       3      312
+Smart Skin                          3       2      312
+Smart Vac Clothing                  2       4      325
+Spray Armor                         2       2      312
+Synthmorph Industrial Armor         10     10      310
+Synthmorph Combat Armor (Light)     14     12      310
+Synthmorph Combat Armor (Heavy)     16     16      310
+Transporter Exoskeleton             2       4      344
+Trike Exoskeleton                   2       4      344
+Vacsuit (Light)                     5       5      333
+Vacsuit (Standard)                  7       7      333

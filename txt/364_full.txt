@@ -1,0 +1,61 @@
+in the way as transhumanity would define animos-           COG     COO    INT    REF    SAV   SOM     WIL    MOX
+ity because of religious, ethnic, racial, or cultural       40      10     40     20     30    10     40      --
+difference. Most likely the ETI is simply indifferent,      INIT   SPD    LUC    TT      IR    DUR    WT     DR
+concerned with matters on scales on which trans-            120     1      80    16     160     35     7     53
+humanity does not even register. Or it may think of       Skills: Fray 30, Investigation 80, Perception 90, others
+transhumanity like a living body might recognize an         as appropriate
+infection or parasite—something the immune system         Implants: Access Jacks, Carapace Armor, Circadian
+will suppress and deal with.                                Regulation, Direction Sense, Eidetic Memory, En-
+                                                            docrine Control, Hyper Linguist, Math Boost,
+EXHUMANS                                                    Medichines, Multi-Tasking, Oracle, Skillware
+                                                          Notes: Mental Disorder trait x 2
+Exhumans are a faction within Eclipse Phase that
+seeks to transcend the transhuman and become
+posthuman. More to the point, exhumans seek to            PREDATORS
+perfect their physical and mental capabilities to ex-     Predators seek to transform themselves into an ulti-
+treme levels, in search of some perfectionist ideal or    mate top-of-the-food-chain evolutionary contender.
+to become something higher-up on the evolutionary         They pursue new avenues in genetic modification and
+ladder. Exactly what this is differs from exhuman to      prototype implants, often using controversial methods
+exhuman, but there is generally some adherence to         and technologies. The biochemical instabilities resulting
+Nietzschean philosophy and a goal to reach the pin-       from these untested modifications and altered metabo-
+nacle of the food chain. Some exhumans have trans-        lisms, however, often negatively impact their emotional
+formed themselves into what they consider to be an        and mental stability. Pushing this even further, some
+ideal predator, or a creature that is extra-adaptable     predators undergo experimental psychosurgery to
+and so best able to survive. Others radically modify      modify their consciousnesses in order to increase cun-
+their own brains in order to drastically surpass          ning and ruthlessness, a procedure that often has other
+transhuman intelligence. Most are singularity seek-       negative side effects. A few predators take their surviv-
+ers, eager and willing to follow the breadcrumbs          al-of-the-fittest ideology to an extreme, modifying their
+left by the TITANs or other entities in the hope that     digestive systems for a cannibalistic diet, and relishing
+they will find the means of transcending transhu-         in the slaughter and feasting on of transhumans.
+man limitations.                                           COG     COO    INT    REF    SAV   SOM     WIL    MOX
+   Due to the use of numerous extreme, experimental,        30      40     40     40     15    40     30      --
+and dangerous self-modifications, some exhumans             INIT   SPD    LUC    TT      IR    DUR    WT     DR
+have done permanent damage to their psyches,                160     3      60    12     120     65    13     98
+becoming insane, or perhaps just transferring their       Skills: Blades 60, Fray 60, Free Fall 50, Freerunning 80,
+mode of thinking into something that is no longer           Investigation 50, Perception 60, Unarmed Combat 70
+recognizable as human. Some have also adopted an          Implants: Adrenal Boost, Carapace Armor (11/11),
+antagonistic view of their former transhuman species,       Chameleon Skin, Cyberclaws, Drug Glands, Endo-
+viewing it as weak, decadent, and unworthy. This            crine Control, Enhanced Hearing, Enhanced Smell,
+has spurred some exhumans to actively attack and            Enhanced Vision, Grip Pads, Hardened Skeleton,
+ravage transhuman settlements and ships, though             Medichines, Muscle Augmentation, Neurachem
+usually in isolated areas.                                  (Rating 2), Oxygen Reserve, Poison Gland, Prehen-
+  A few examples of exhumans are described below,           sile Feet, Prehensile Tail, Respirocytes, Temperature
+though gamemasters are encouraged to develop                Tolerance, Toxin Filters, Vacuum Sealing, plus any
+their own.                                                  other mods the gamemaster feels appropriate
+                                                          Notes: Mental Disorder trait x 2
+NEURODES
+Seeking to achieve a new level of super-intelligence
+and conscience, neurodes have abandoned the typi-         THE EXSURGENT VIRUS
+cal transhuman sleeve in exchange for a multipedal        Only very few people (or entities) who survived the
+neuronal shell that is both body and brain at the same    diaspora from Earth know of the true reasons and
+time. The bulk of a neurode’s body mass consists of       the catalyst that culminated in the Fall. The alien Ex-
+amorphic clusters of neuronal and epithelial cells, en-   surgent virus—as those aware of its existence within
+closed in a hard carapace shell with four legs and two    Firewall call it—set in place by the ETI to infect
+manipulatory digits. The cerebral mass of neurode         emerging seed AIs, is something beyond transhuman-
+brains gives them impressive calculation and other        ity’s understanding; something far more complex
+mental capabilities far exceeding that of a normal        than just a computer virus. Though some strains of
+transhuman. Neurodes typically defend themselves          the Exsurgent virus have been identified and various
+with swarms of teleoperated drones.                       types of infected exsurgents have been encountered,
+                                                          it is widely assumed that these are creations of the
+                                                          TITANs. Largely defeated and eradicated from off-
+                                                          Earth transhuman networks thanks to the efforts of

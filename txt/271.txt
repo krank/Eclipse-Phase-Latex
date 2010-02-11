@@ -1,0 +1,118 @@
+into the brain and central nervous system. The petals
+are full of sensors that image the brain using a combi-
+nation of MRI, sonogram, and positional information
+broadcast by the nanobot swarm in the morph’s brain.
+The ego bridge then builds a digital copy of the per-
+son’s brain, which is stored away in the service’s highly
+secure, off-the-mesh, hardwired data vaults.
+   In the case of pods, the ego bridge scans the biologi-
+cal brain bits and also accesses the cyberbrain to copy
+the parts of the ego residing there. For synthmorphs,
+who have no biological brain, the process is much
+simpler, as it simply requires accessing and making a
+copy of their cyberbrain.
+   In a standard clinic with an undamaged morph, up-
+loading takes only 10 minutes, 5 with a pod. In other
+situations, however, the process may take longer if the
+gamemaster so decides. Uploading from a synthmorph
+or extracted cortical stack is instantaneous. The ego
+bridge largely operates itself. While oversight by a
+medical specialist is a good idea, no test is necessary.
+   If an uploading character does not plan to return
+to their morph, it is usually put on ice until someone
+else resleeves into it. If a new resleeve is not ready
+and the uploading character doesn’t want to leave a
+potential copy of themselves behind, they can have
+the morph’s mind wiped by the nanobots as part of
+the uploading process.
+
+UPLOADING-RESLEEVING CONTINUITY
+In ideal circumstances, a person who is intentionally
+resleeving (p. 271) can arrange for the uploading and
+resleeving process to occur with any noticeable loss of
+continuity. Though the experience of switching from
+one morph to another is still a bit jarring, the transi-
+tion itself can be made into a seamless process, with
+no gaps in awareness or memory, which helps reduce
+associated mental stress.
+   In this case, during the process of uploading, the
+ego bridge is also connected to another ego bridge
+and the new sleeve. This connection can even be made
+wirelessly or by farcaster link (with a maximum dis-
+tance of 10,000 kilometers).
+   As the mind is uploaded, the ego bridge builds a
+virtual brain by copying the morph’s brain bit by bit,
+using the data gained from the brain scan. At the same
+time, this data is slowly copied to the new sleeve as
+nanobots rewire the sleeve’s brain structure (a much
+slower process). As the transfer occurs, the nanobots
+in the brain sever individual neural connections and
+re-route them to their duplicates in the virtual brain,
+and then eventually to the new brain. Effectively, the
+character’s ego is running partially on the meat brain
+and partially on the virtual copy. By the time the nano-
+bots sever the last of the neural connections in the
+old brain, the ego is running completely on the virtual
+brain and the new sleeve’s brain. Once the resleeving
+is completed, the virtual brain is shut down.
+   In terms of perceptions, the character, who is awake
+during this process, experiences a very gradual shift
+from one morph to the other. As the process takes
+hours, however (or even longer if done via farcaster),
+the subject usually entertains themselves with some
+AR media, VR, or even XP to pass the time.
+
+UPLOADING AFTER DEATH
+It is possible to upload the mind of a person who has
+recently died as long as the nanobots have time to scan
+the brain before cell deterioration kicks in too heavily,
+which takes approximately 2 hours. It is possible to
+sustain a corpse for longer by placing it in a healing
+vat (p. 326) for nanostasis. Post-death uploads may
+suffer integrity damage; see Backup Complications, p.
+270.
+   Cyberbrains may also be retrieved from a destroyed
+synthmorph and reactivated, assuming they are not
+damaged too heavily (gamemaster discretion).
+
+DESTRUCTIVE UPLOADING
+Though rare, some people engage in a process called
+destructive uploading, where the biological brain is liter-
+ally sliced apart and scanned piece by piece. Considered
+abhorrent and wasteful by most transhumans, “brain-
+peeling” is practiced by some bioconservative factions
+who view it as the only “pure” method of uploading
+or the only real way to transfer the “soul.” Such people
+typically refuse to resleeve, living out the rest of their
+lives as infomorphs, quite often in dedicated simulspaces
+that are treated as a sort of virtual afterlife.
+
+BACKUP INSURANCE
+Almost everyone, with the exception of neo-primitivists
+and very young children, has a cortical stack. In the
+event of death, however, a cortical stack alone will not
+ensure resurrection unless you have acquired backup
+insurance (p. 330) to cover the costs of your resleev-
+ing. Going without backup insurance for any length of
+time is taking a severe risk. Some jurisdictions (such
+as the Titanian Commonwealth) have a practice of
+bringing everyone back, even if only to an infomorph
+state, or at least filing the most recent backup away
+in dead storage just in case someone decides to pay
+to resurrect them later. Other authorities will simply
+destroy the stack or, worse, sell it on the black market
+to a soul-trading syndicate such as Nine Lives.
+  Backup insurance typically includes a subscription
+to an uploading facility, usually requiring a visit every
+6 months, to ensure that backup is held in safe stor-
+age in case of cortical stack loss. People with risky
+jobs (construction bot supervisor, hypercorp exo-
+planet staff, girl who fights vicious giant eels for rich
+jaded audiences, etc.) may back up once a week, or
+even daily. In the event of a verified death where the
+cortical stack could not be retrieved, the most recent
+backup is used to resleeve the person.
+  At the basic level, backup insurance will bring the
+character back as an infomorph, at which point they
+can access their credit and purchase a new morph.
+More expensive versions will automatically resleeve

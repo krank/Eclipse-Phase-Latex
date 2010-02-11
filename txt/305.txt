@@ -1,0 +1,118 @@
+  USING ENHANCED SEN
+  also detects the blood ﬂow in a biomorph’s face
+  which can be useful in judging emotional states
+  (+20 modiﬁer to Kinesics Tests), and can spot sub
+  surface implants. Some normally white surfaces
+  are reﬂective (mirrored) in infrared, potentially
+  allowing an infrared viewer to see around corners
+  or behind themselves. On the other hand, some
+  glass is opaque to infrared light. Infrared is also
+  useful for determining chemical composition
+  (enabling Chemistry Tests by sight alone). Infrared
+  sensory input is passive.
+     Lidar (Visible Light): Similar to radar, but with
+  much higher resolution, lidar actively bounces light
+  from the infrared through ultraviolet spectrum off
+  a target and measures the backscatter, ﬂuorescence
+  and other properties. Lidar is very useful for detect-
+  ing atmospheric chemical properties and weather.
+  Like radar, it can be used to measure a target’s
+  range and speed, or develop a three-dimensional
+  image. One clever use of lidar is to precisely “map”
+  the position of everything in a room (taking several
+  turns of scanning) and then check that positioning
+  later to see if anything has been moved.
+     Ultraviolet: Some objects are ﬂuorescent in ultra
+  violet light, including some animals, ﬂowers, insects
+  urine, and minerals (which show up much better
+  in ultraviolet than regular light). Some plants and
+  animals have patterns that can only be seen in ultra-
+  violet. Likewise, chemical dyes that only show up
+  under ultraviolet, or that make certain substances
+  (like blood) ﬂuoresce under ultraviolet light, have
+  various security purposes. Some glass is opaque at
+  ultraviolet wavelengths.
+     X-Ray/Gamma-Ray: Backscatter imaging systems
+  using X- and gamma-ray frequencies produce
+  high-resolution three-dimensional images and
+  are very useful for detecting concealed weapons
+  and implants. Such imagers are very good at
+  penetrating walls and metal (up to a cumulative
+  Armor + Durability of 200, at least at levels safe
+
+
+
+
+  Bioweave Armor (Heavy): Heavy bioweave armor
+involves lacing the morph’s skin with a denser and
+thicker network of the same fi bers. The morph’s
+skin becomes thicker and somewhat less fl exible
+except at the joints. The morph’s skin also has an
+unusually smooth look, and a distinctively smooth
+and tough-feeling texture. This provides an Armor
+rating of 3/4 without decreasing the morph’s mo-
+bility. The character’s sense of touch, however, is
+significantly reduced (–20 modifier) except on their
+hands, feet, and face. This armor is cumulative with
+worn armor. [Moderate]
+  Carapace Armor: Carapace armor combines
+bioweave armor with hard but flexible plates of
+ES (CONT.)
+ o transhumans). These sensors can, of course, also
+detect the presence of harmful radiation.
+
+SOUNDWAVES
+ he transmission of vibrations through a medium,
+ ound is broken down into infrasound (frequen-
+  ies below standard human hearing), normal
+  coustic range, and ultrasound (frequencies above
+ tandard human hearing). Soundwaves do not
+propagate in vacuum.
+   Ultrasound: Ultrasound sonar operates much
+ ike radar, bouncing sound waves off a target
+  nd measuring the returning echoes. Ultrasound
+ maging is similarly low-resolution, showing
+ hapes and movement but no colors and few
+details unless measured closely (1-2 meters).
+Ultrasound is good for identifying how dense a
+material is, however, can detect denser materials
+hidden beneath less dense ones. Many medical
+devices utilize ultrasound, and ultrasound sensors
+  an also detect gas leaks, frictional motor noises,
+  nd similar mechanical emissions. Ultrasound sen-
+ ors are typically unaffected by noise clutter from
+ tandard acoustic frequencies.
+   Infrasound: Infrasound travels much further
+ han regular sound frequencies (hundreds of
+kilometers). Mechanical machinery, seismic distur-
+bances, tornados, explosions, waterfalls, and cer-
+ ain weather phenomena create infrasound waves.
+  arge animals such as elephants and whales use
+ nfrasound to communicate via the ground over
+arge distances, though infrasound data transfer is
+ oo slow for complex communications.
+
+COMBINED SENSOR YSTEMS
+When used in combination, these sensor tech-
+nologies can be potent. For example, the use lidar,
+ hermal imaging, and radar can provide a three-
+dimensional map of a building and everyone and
+ verything inside.                              ■
+
+
+
+
+   a chitin-ceramic hybrid material modeled on the
+   microscopic structure and texture of arthropod exo-
+   skeletons. This armor is obvious and has a somewhat
+   crocodilian or insectoid appearance (character’s
+   choice). The morph is completely hairless as well. This
+   provides an Armor rating of 11/11. This armor is not
+   cumulative with worn armor. [Moderate]
+      Chameleon Skin: The morph’s skin is augmented
+   with complex chromatophores so that it changes color
+   like the skin of a chameleon or an octopus. The morph
+   can match the appearance of almost any color and
+   most patterns. This provides a +20 modifier to Infiltra-
+   tion Tests to avoid being seen or noticed, as long as
+   the character is stationary or not moving faster than a

@@ -1,0 +1,107 @@
+  Fray                                  178     Firing Modes and Rate of Fire      198   ISLANDS IN THE NET                242
+  Free Fall                             179     Full Defense                       198     Darkcasts                       243
+  Freerunning                           179     Gravity                            198   MESH ABUSES                       243
+  Gunnery                               179     Grenades and Seekers               199     Hackers                         243
+  Hardware: [Field]                     179     Hostile Environments               200     Malware                         244
+  Impersonation                         180     Improvised Weapons                 202
+                                                                                         AIS AND INFOLIFE                  244
+  Infiltration                          180     Knockdown/Knockback                202
+                                                                                          AIs                              244
+  Infosec                               180     Melee and Thrown Damage Bonus      202
+                                                                                          Muses                            244
+  Interest: [Field]                     180     Multiple Targets                   202
+                                                                                          AGIs                             244
+  Interfacing                           180     Objects and Structures             202
+                                                                                          Seed AI                          245
+  Intimidation                          180     Range                              203
+                                                                                          Transhuman Infomorphs            245
+  Investigation                         180     Reach                              204
+                                                                                          Mesh Interface                   245
+  Kinesics                              181     Scatter                            204
+                                                                                          What Your Muse
+  Kinetic Weapons                       181     Shock Attacks                      204
+                                                                                             Can Do For You                245
+  Language: [Field]                     181     Subdual                            204
+                                                                                          Non-standard AIs and AGIs        245
+  Languages In Eclipse Phase            181     Suppressive Fire                   204
+                                                                                          Mesh ID                          246
+  Medicine: [Field]                     182     Surprise                           204
+                                                                                          Accounts and Access Privileges   246
+  Navigation                            182     Tactical Networks                  205
+                                                                                          Elite Exploits                   246
+  Networking: [Field]                   182     Touch-only Attack                  206
+                                                                                          Mesh Gear Quality                247
+  Palming                               182     Two-Handed Weapons                 206
+                                                                                          Computer Capabilities            247
+  Perception                            182     Wielding Two or More Weapons       206
+                                                                                          Software                         248
+  Persuasion                            183   PHYSICAL HEALTH                      206    Traffic Filters and Mist         248
+  Pilot: [Field]                        183     Damage Points                      206    Slaving Devices                  248
+  Profession: [Field]                   183     Damage Types                       206    Issuing Commands                 248
+  Programming                           183     Durability and Health              207    Distance Lag                     248
+  Protocol                              183     Damage Value                       207    Accessing Multiple Devices       249
+  Psi Assault                           184     Wounds                             207
+  Psychosurgery                         184                                              ONLINE RESEARCH                   249
+                                                Death                              207
+  Research                              184                                                Search Challenges               249
+                                              HEALING AND REPAIR                   208     Search Capabilities             249
+  Scrounging                            184
+                                                Biomorph Healing                   208     Handling Searches               250
+  Seeker Weapons                        184
+                                                Synthmorph and Object Repair       208     Real-Time Searches              251
+  Sense                                 184
+  Spray Weapons                         184   MENTAL HEALTH                        209     Hidden Data                     251
+  Swimming                              184     Stress Points                      209   SCANNING, TRACKING,
+  Throwing Weapons                      184     Lucidity and Stress                209     AND MONITORING                  251
+  Unarmed Combat                        185     Stress Value                       209    Wireless Scanning                251
+                                                Trauma                             209    Physical Tracking                251
+SPECIAL SKILLS                          185     Derangements                       210    Digital Activity Tracking        252
+ACTION AND COMBAT                   186         Disorders                          211    Sniffing                         252
+ACTION TURNS                            188     Stressful Situations               214
+                                                                                         PRIVACY AND ANONYMIZATION 252
+  Step 1: Roll Initiative               188     Willpower Stress Tests             214
+                                                                                          Privacy Mode                     252
+  Step 2: Begin First Action Phase      188     Hardening                          214
+                                                                                          Anonymization                    252
+  Step 3: Declare and Resolve Actions   188     Mental Healing and Psychotherapy   215
+                                                                                         MESH SECURITY                     253
+  Step 4: Rotate and Repeat             188   MIND HACKS                           216    Authentication                   253
+INITIATIVE                              188    PSI                                 218    Firewalls                        253
+  Initiative Order                      189    The Nature of Psi                   218    Active Monitoring                253
+  Speed                                 189    Æther Jabber: Asyncs                219    Encryption                       253
+  Delayed Actions                       189   PSI                                  220   INTRUSION                         254
+ACTIONS                                 189     Using Psi                          221     Preconditions                   254
+ Automatic Actions                      190     Psi-Chi Sleights                   223     Circumventing Authentication    255
+ Quick Actions                          190     Psi-Gamma Sleights                 226     Intrusion Tests                 255
+ Complex Actions                        190   PSYCHOSURGERY                        229     The Hacking Sequence            255
+ Task Actions                           190     The Process of Psychosurgery       229     Intruder Status                 256
+MOVEMENT                                190     The Human Cognome Project          229     Changing Status                 256
+  Movement Rates                        191     Psychosurgery Mechanics            230     Brute-Force Hacking             256
+COMBAT                                  191     Roleplaying Mind Edits             231   INTRUSION COUNTERMEASURES 257
+  Resolving Combat                      191     Psychosurgery Procedures           231    Security Alerts                  257
+  Combat Summary                        193     The Lost                           233    Passive Countermeasures          257
+ACTION AND COMBAT                                                                         Active Countermeasures           257
+                                              THE MESH                             234    Joint Hacking/Securing           258
+  COMPLICATIONS                         193   MESH CAPABILITIES                    236
+ Aimed Shots                            193                                              SUBVERSION                        259
+                                                Meshing Technologies               237
+ Ammunition and Reloading               193                                               Augmented Reality Illusions      259
+                                                Information Overload               237
+ Area Effect Weapons                    193                                               Backdoors                        260
+                                                Legacy of the TITANs               237
+ Armor                                  194                                               Crashing Software                260
+                                                Ecto(-Link)                        237
+ Asphyxiation                           194                                               Eliminating Intrusion Traces     260
+ Beam Weapons                           194
+                                              INTERFACING: AR, VR, AND XP 239             Hacking VPNs                     260
+                                               Augmented Reality                   239    Scripting                        260
+ Blind Attacks                          195
+                                               Virtual Reality                     240
+ Bots, Synthmorphs, and Vehicles        195                                              CYBERBRAIN HACKING                261
+                                               Experience Playback                 241
+ Called Shots                           197                                                Entrapment                      261
+ Charging                               197   MESH USES                            241     Memory Hacking                  261
+ Demolitions                            197     Personal Area Networks             241     Puppeteering                    261
+ Falling                                197     Virtual Private Networks           241     Scorching                       261
+ Fire                                   198     Social Networks                    242     Shutdown                        262
+                                                Mobile Offices                     242     Terminate Cortical Stack Feed   262

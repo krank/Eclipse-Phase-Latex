@@ -1,0 +1,52 @@
+exchangeable. For example, all railgun SMGs can
+share ammo.
+  The ammunition’s Damage Value and Armor Pen-
+etration modifiers are added to the weapon’s base
+DV and AP. With the exception of regular and armor-
+piercing rounds, none of this ammunition may be
+used with railguns. Listed costs are per 100 rounds
+of ammunition.
+  Armor-Piercing: This tungsten-carbide ammunition
+penetrates armor effectively. [Low]
+   Bug: Bug rounds are equipped with a microbug and
+medical sensor nanobots. They attempt to gather in-
+formation on the target’s location (via standard mesh
+tracking), health (querying the target’s medichines),
+and surroundings (typically hindered by being inside
+the target’s body). They will transmit status reports
+in a pre-programmed manner via the mesh or a pre-
+chosen frequency band either continuously or in pre-
+set intervals. [Low]
+   Capsule: Capsule ammo carries a payload (drug,
+toxin, nanobots) that is released inside the target after
+the round penetrates. [Trivial plus payload cost]
+   Flux: Flux ammo is made from rheological materi-
+als that allow each bullet to be “programmed” so that
+they may change from regular rounds to less-lethal soft
+plastic-like rounds. This allows the firer to choose the
+type of round (regular or plastic) made with each shot
+or burst, and then change with the next one. [Low]
+            KINETIC AMMUNITION
+AMMO              AP MODIFIER       DV MODIFIER
+Armor-Piercing        –5                  –2
+Bug                   +1                –1d10
+Capsule               +1                 –half
+Flux              as ammo type       as ammo type
+Hollow-Point          +2                +1d10
+Jammer                —               no damage
+Plastic           (AV doubled)           –half
+Reactive              –2                  +2
+Reactive Armor-
+                      –6                  –1
+Piercing
+Regular               —                   —
+Splash                —               no damage
+Zap                   +2         –half + shock (p. 204)
+SMART AMMO
+Accushot              —                   —
+Biter                 —                 +1d10
+Flayer                —                   +2
+Homing                —                   —
+Laser-Guided          —                   —
+Proximity             –1                  +2
+Zero                  —                   —

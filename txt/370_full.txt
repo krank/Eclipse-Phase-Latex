@@ -1,0 +1,60 @@
+WATTS-MACLEOD VIRUS                                           of material stress or transfiguration. Gamemasters
+The Watts-Macleod strain is a strangely benevolent            are encouraged to be creative. This stage typically
+version of the Exsurgent virus, seeming to imbue its          lasts from initial infection to 1 week for biological
+victims with psi abilities without any of the other           nanovirus strains, or from infection to just 1 hour for
+transformative elements typical of other strains.             nanoplague strains.
+Perhaps created as an accidental mutation of the Ex-             Stage 2: As with haunting virus Stage 2, plus the
+surgent virus, there are many who wonder if the true          character begins to seriously transmogrify in ways
+detrimental effects of this strain simply have yet to         that are diffi cult to hide from others, becoming
+reveal themselves.                                            more and more monstrous as the stage progresses.
+  As noted in the Mind Hacks chapter section on Psi           Example biomorph transformations include: grow-
+(p. 220), characters infected with this strain gain the       ing scales or feathers, partial modification of limb
+Psi trait (p. 147) at either Level 1 or 2. If a character     structure, partial new limb growth, vestigial sensory
+is so infected during game play, this trait must be           organ growth, sensory loss, extension of claws or
+purchased with Rez Points (if the character does not          spines, severe dietary changes, etc. Synthmorphs
+have any points currently available, they pay out of          might experience radical system and shape altera-
+the points they earn until the debt is paid off). All of      tions, limited or enhanced sensor functions, or even
+the other side effects of Watts-Macleod infection (p.         conversion of their robotic shell to smart materials.
+367) also apply.                                              These physical changes weaken the victim, inflicting
+   Though infection with this strain does apply some          1d10 physical damage. This stage typically lasts 1
+benefits to the character, the gamemaster should make         week for biological nanovirus strains or just 1 hour
+sure to play up the creepy and unsettling nature of           for nanoplague strains.
+this virus. The character should never be certain that           Stage 3: As with haunting virus Stage 3, a character
+they haven’t in fact been subtly influenced by the virus      reaching this stage becomes an NPC. Additionally,
+in ways they can’t immediately pinpoint—they should           the victim completely undergoes a transformation
+always feel like the ax may fall at any moment.               into some sort of creature that is no longer even re-
+                                                              motely human. Example exsurgents of this nature are
+XENOMORPH VIRUS                                               detailed on p. 369.
+The xenomorph strain transforms the target’s body
+in addition to their mind. Over time, the victims             USING THE EXSURGENT VIRUS
+morph physically transmogrifies into some sort                The frightening thing about the Exsurgent virus is
+of alien life form. It is only spread as a biological         its adaptability. It was written by a near omnipotent
+nanovirus or nanoplague (not as a digital virus or            ETI with the intent of corrupting any alien seed AIs
+basilisk hack). Different variants of this strain pro-        or similar singularities it encountered, and it is very
+duce different alien forms. It is not known where             good at it. This means it has the capability to ana-
+these different alien templates originated, meaning           lyze, understand, and mimic almost any alien digital
+they may be copies of (once) existing alien species           protocols and communication methods it comes into
+or simply neogenetic creatures created from scratch.          contact with, no matter how diverse the alien mindset
+The one trait they have in common is that they are            that constructed what it encounters. It then has a cun-
+universally dangerous. Some speculation in Firewall           ning ability to circumvent any safeguards and infect
+circles suggests that the Exsurgent virus may in fact         such systems. From there, it rapidly assimilates any
+have a “library” of creature types to deploy, under           data it can about the target species/civilization and
+the assumption that at least some will be more effec-         does it best to mutate into other forms that can attack
+tive than others for exterminating whatever victim            this target from other vectors.
+species they are fielded against.                                Given its constant morphing nature then, the Ex-
+   This strain follows the same rules as the haunting         surgent virus is likely to continue to mutate in new
+virus (above), but with the following changes. The            and interesting ways. Some of these mutations may
+timeframe is typically much quicker, though the game-         be effective, many not. This does, however, afford the
+master may adjust this as they see fit.                       gamemaster an opportunity to invent new variants of
+   Stage 1: The effects from Stage 1 of the haunting          their own to deploy against unsuspecting characters.
+virus apply. Additionally, the character begins to suffer
+minor physical changes that are definitely unusual but        ROLEPLAYING EXSURGENTS
+are not impeding in any way and are easily hidden             The primary thing for gamemasters to keep in mind
+from others. Example biomorph alterations might be:           when roleplaying entities that have been taken over
+unusual hair or fibrous growth, some skin discolor-           by the Exsurgent virus is that exsurgents are follow-
+ation or translucence, severe rashes, dermal thicken-         ing an alien agenda. The specific goals and actions of
+ing, weakened or enhanced sensory organs, strong              each exsurgent may differ, but they are generally con-
+body odor, hair loss, teeth gain or loss, vestigial tail or   cerned with two things: spreading the Exsurgent virus
+other limb growth, minor dietary changes, and so on.          and destroying anything that isn’t affected. In some
+Synthmorphs might experience minor system glitches,           cases, this may mean immediate and enraged hostile
+malfunctioning or improved components, and spots              action against anything non-exsurgent around them.

@@ -1,0 +1,79 @@
+are noted in the individual morph descriptions (see
+p. 139).
+   If you plan on switching your current morph to
+another during gameplay, you may first want to back
+yourself up (see Backups and Uploads, p. 268). Back-
+ing up regularly is always a smart option in case you
+suffer an accidental or untimely death. Acquiring a
+new morph is not always easy, especially if you want
+it pre-loaded according to certain specifications. The
+full process is detailed under Resleeving, p. 271.
+
+Aptitude Maximums
+Every morph has an aptitude maximum, sometimes
+modified by traits. This maximum represents the high-
+est value at which the character may use that aptitude
+while inhabiting that morph, reflecting an inherent
+limitation in some morphs. If a character’s aptitude
+exceeds the aptitude maximum of their morph, they
+must use it at the maximum value for the duration
+of the time they remain in that morph. This may also
+affect the skills linked to that aptitude, which must be
+modified appropriately.
+   Some implants, gear, psi, and other factors may
+modify a character’s natural aptitudes. These aug-
+mented values may exceed a morph’s aptitude maxi-
+mums, as they represent external factors boosting the
+morph’s ability. No aptitude, however, augmented or
+not, may ever exceed a value of 40. Innate ability only
+takes a person so far—after that point, actual skill is
+what counts.
+
+
+  Eva has a Cognition aptitude of 25. She is unfor-
+  tunately forced to sleeve into a flat morph with an
+                                                        EXAMPLE
+
+
+
+
+  aptitude maximum of 20. For the duration of the
+  period she inhabits that morph, her Cognition is
+  reduced to 20, which also impacts all of her COG-
+  linked skills, reducing them by 5.
+Things Characters Use
+In the advanced technological setting of Eclipse Phase,
+characters don’t get by on their wits and morphs
+alone; they take advantage of their credit and reputa-
+tion to acquire gear and implants and use their social
+networks to gather information. Some characters also
+have the capability to use mental powers known as psi.
+
+Identity
+In an age of ubiquitous computing and omnipresent
+surveillance, privacy is a thing of the past—who you
+are and what you do is easily accessed online. Char-
+acters in Eclipse Phase, however, are often involved
+in secretive or less-than-legal activities, so the way to
+keep the bloggers, news, paparazzi, and law off your
+back is to make extensive use of fake IDs. While Fire-
+wall often provides covers for its sentinel agents, it
+doesn’t hurt to keep a few extra personas in reserve, in
+case matters ever go out the airlock in a hurry. Thank-
+fully, the patchwork allegiances of city-state habitats
+and faction stations means that identities aren’t too
+difficult to fake, and the ability to switch morphs
+makes it even easier. On the other hand, anyone with a
+copy of your biometrics or geneprint is going to have
+an edge tracking you down or finding any forensic
+traces you leave behind (for more on ID, see p. 279).
+
+Social Networks
+Social networks represent people the character knows
+and social groups with which they interact. These
+contacts, friends, and acquaintances are not just main-
+tained in person, but also through heavy Mesh contact.
+Social software allows people to stay updated on what
+the people they know are doing, where they are, and
+what they are interested in, right up to the minute.
+Social networks also incorporate the online projects

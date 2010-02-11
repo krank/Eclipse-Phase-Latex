@@ -1,0 +1,60 @@
+HEADHUNTERS                                                SELF-REPLICATING NANOSWARMS
+Headhunters are multi-legged insectoid flying drones       The nanoswarms distributed by the TITANs are a step
+that use a dragonfly wing configuration to hover and       beyond the nanotechnology available to transhumanity.
+move. The legs are equipped with grasping claws            Unlike transhuman-created nanoswarms, the TITAN
+and extendable buzzsaws. Their primary purpose is          swarms are autonomous, sapient, and self-replicating.
+to grasp on to the heads of victims and cut through        They are also highly adaptive, meaning they are not
+the neck, decapitating them. Collected heads are then      single function but can modify themselves to perform
+flown to nearby special facilities for forced uploading.   almost any nanoswarm task. They may also nano-
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX      fabricate new materials, much like fractals (p. 382).
+  10     20      15    20     5      10    15      —       Combined, these capabilities make such nanoswarms
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR       incredibly potent. When they encounter a new op-
+  70     1      —      —      —      30     6     —        ponent, they can scan the opponent’s capabilities and
+Mobility System: Winged (8/32)                             then fabricate offensive systems to use against them.
+Skills: Flight 70, Fray 60, Exotic Melee Weapon: Buzz-     When an opponent deploys a weapon system again the
+  saws 55, Infiltration 60, Investigation 40, Perception   swarm, it will learn and adapt countermeasures that
+  40, Unarmed Combat 55                                    will make such attacks ineffective against the swarm in
+Notes: Armor 6/6, Buzzsaws (1d10 + 3 DV), Enhanced         the future. These nanoswarms may also function like
+  Vision, Lidar, T-Ray Emitter                             so-called utility fog, linking together into a physical
+                                                           lattice in order to create large scale physical forms.
+HUNTER-KILLERS                                                The possibilities for such nanoswarms are almost lim-
+  These lethal flying drones achieved air superiority      itless. For example, they may lie in wait as an invisible
+during TITAN military operations. Their sleek jet-         nanoscopic swarm, float as barely-visible mist, or shape
+powered form unfolds for vectored-thrust hovering          into a swarm of small hopping drones to move about.
+and weapons deployment.                                    When facing opponents, the nanoswarm could transform
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX      itself into a giant electroshock net across the ground,
+  15     30      15    30     5      20    15      —       shape into a flotilla of seeker-armed flying drones, or
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR       link together as a set of massive whip-like tentacles to
+  90     2      —      —      —      50    10     —        slice through their fleshy foes. Such nanoswarms are
+Mobility System: Thrust Vector (8/80)                      also impossible to destroy, as only a few nanobots need
+Skills: Beam Weapons 55, Flight 80, Fray 60, Infiltra-     to survive in order to rebuild the swarm, and the new
+  tion 40, Kinetic Weapons 65, Perception 50, Seeker       swarm will learn from the mistakes of the old.
+  Weapons 80                                                  Self-replicating nanoswarms follow the rules given
+Notes: Armor 14/14, Anti-Glare, Chameleon Skin,            for Nanoswarms and Microswarms, p. 328, with the
+  Enhanced Vision, Lidar, Radar, Shape-Adjusting           following additions and exceptions:
+Typical Weapons: 2 Particle Beam Rifles, 2 Railgun
+  Machine Guns, 2 Seeker Rifles                              • They do not need to be sustained by a hive and
+                                                               do not deteriorate.
+WARBOTS                                                      • They self-repair damage at the rate of 1d10 per
+Warbots are massive, armored, vaguely anthropo-                half hour.
+morphic mecha, used for heavy combat operations.             • They may nanofabricate new items, materials,
+Bipedal, these warbots are equipped with four arms             or forms in half the standard timeframe (half an
+and a pair of grasping mechanical tentacles, along             hour per Cost category).
+with numerous weapon systems.                                • They may replicate any of the nanoswarm func-
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX          tions as noted on p. 328, as well as the functions
+  15     20      15    20     5      25    15      —           of any other nanoswarm-using gear (smart dust,
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR           covert ops tool, repair spray, etc.).
+  60     2      —      —      —      80    16     —          • They may make SOM Tests.
+Mobility System: Walker (4/20)                               • At the gamemaster’s discretion, they may adapt
+Skills: Beam Weapons 60, Exotic Melee Weapon: Ten-             new defenses against attacks used against them.
+  tacles 40, Fray 50, Infiltration 30, Kinetic Weapons         New defenses take a minimum of 2 hours to devise
+  70, Perception 50, Seeker Weapons 50, Spray Weap-            and replicate throughout the swarm, after which
+  ons 50, Unarmed Combat 50                                    such an attack will inflict minimal or no damage.
+Notes: Armor 20/20, 360-Degree Vision, Anti-Glare,           • Assume they have any skill they need at a mini-
+  Chameleon Skin, Chem Sniffer, Cyber Claws (2d10              mum of 40. Such skills may rapidly improve
+  + 6 DV), Electrical Sense, Enhanced Vision, Extra            as needed.
+  Limbs (6), Lidar, Magnetic System, Pneumatic              COG     COO    INT    REF    SAV    SOM    WIL    MOX
+  Limbs, Radar, Tentacles (prehensile, 1d10 + 6 DV),         25      20     25     20     5      15    15      —
+  T-Ray Emitter                                              INIT   SPD    LUC    TT     IR     DUR    WT     DR
+Typical Weapons: Particle Beam Rifle, Plasma Rifle,           90     1      —     —      —       70    —      —
+  Pulser, Railgun Machine Gun, Seeker Rifle, Torch

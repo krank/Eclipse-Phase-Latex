@@ -1,0 +1,98 @@
+GAME RULES SUMMARY
+Everything you need to know about the rules—s
+
+    MAKING TESTS (P. 115)
+• Roll d100 (two ten-sided dice, read as a percent
+    amount, from 00 to 99).
+•   Target number is determined by the appropriat
+    (or occasionally an aptitude).
+•   Difﬁculty is represented by modiﬁers.
+•   00 is always a success.
+•   99 is always a failure.
+•   Margin of Success of 30+ is an Excellent Success
+•   Margin of Failure of 30+ is a Severe Failure.
+•   A roll of doubles (00, 11, 22, 33, etc.) equals a c
+    success or failure.
+
+SUCCESS TEST (P. 117)
+• To succeed, roll d100 and score equal to or less
+    the skill +/– modiﬁers.
+
+OPPOSED TEST (P. 119)
+• Each character rolls d100 against their skill +/– m
+• The character who succeeds with the highest ro
+    If both characters fail, or both succeed but tie,
+    lock occurs.
+
+SIMPLE SUCCESS TEST (P. 118)
+• Simple Success Tests automatically succeed.
+• Success or failure on the roll simply indicates if
+    character succeeded strongly or poorly.
+
+DEFAULTING (P. 116)
+• If a character does not have the appropriate sk
+    test, they may default to the skill’s linked aptitu
+
+MODIFIERS (P. 115)
+• Modiﬁers always affect the target number (skil
+  the roll.
+• Modiﬁers (positive or negative) come in 3 level
+  severity:
+  ■ Minor (+/–10)
+  ■ Moderate (+/–20)
+  ■ Major (+/–30)
+• The maximum modiﬁers that can be applied ar
+
+TEAMWORK (P. 117)
+• One character is chosen as the primary actor; th
+  make the test.
+• Each helper character adds a +10 modiﬁer (max
+mmed up on a single page.
+
+         TAKING THE TIME (P. 118)
+         • Character may take extra time to compl
+         • On Complex actions, each minute taken
+kill       the test.
+         • On Task actions, every 50 percent extens
+           timeframe adds +10 to the test.
+
+         APTITUDES (P. 123)
+         • Aptitudes range from 1 to 30 (average 1
+         • Aptitudes are: Cognition, Coordination,
+cal        Reﬂexes, Savvy, Somatics, and Willpowe
+
+         LEARNED SKILLS (P. 123)
+         • Skills range from 1-99 (average 50).
+ n       • Each skill is linked to and based on a
+         • Morphs, gear, drugs, etc. may provide sk
+           penalties to individual skills.
+
+ ﬁers. SPECIALIZATIONS (P. 123)
+wins. • Specializations add +10 when using a sk
+ d-      of concentration.
+       • Each skill may have only one specializati
+
+         ACTION TURNS (P. 120)
+         • Action Turns are 3 seconds in length.
+         • The order in which characters act is dete
+           Initiative.
+         • Automatic actions are always “on.”
+         • Characters may take any number of Qui
+ or a      Turn (minimum of 3), limited only by the
+ .       • Characters may only take a number of C
+           Actions equal to their Speed stat.
+
+not      TASK ACTIONS (P. 120)
+         • Task Actions are any action that requires
+           Action Turn to complete.
+         • Task Actions list a timeframe (anywhere
+           to 2 years).
+         • Timeframe reduced by 10% for each 10
+         • If character fails, they work on the task
+ – 60.     period equal to 10% of the timeframe f
+           points of MoF before realizing it’s a failu
+
+
+
+
+30).

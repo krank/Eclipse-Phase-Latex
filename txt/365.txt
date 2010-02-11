@@ -1,0 +1,76 @@
+the Prometheans, occasional breakouts of the Exsur-
+gent virus still occur, primarily due to scavengers or
+others becoming infected when messing with old relics
+from the Fall.
+
+PLETHORA OF STRAINS
+The Exsurgent virus is unlike anything that transhu-
+manity has ever encountered so far. While it bears
+similarities with both computer and biological virii in
+regards to infection of hosts and propagation, it is not
+bound by any limits of form or transmission vector.
+   The Exsurgent virus is amazingly effective and
+infectious. As an information virus, it is highly intel-
+ligent and adaptive, able to mutate into new forms.
+Much like certain virii are able to cross species
+boundaries or change their vector from contact to
+airborne, it is also a self-morphing omnivirus, ca-
+pable of altering itself and its transmission vectors
+to bypass infection safeguards. Like a retrovirus that
+incorporates genetic information into the genome of
+the target cell to subvert the cell to do its bidding, the
+Exsurgent virus does the same but on a more com-
+plex level. It is also known to rewrite a host’s neural
+code in a similar manner, in effect restructuring the
+target’s mind and personality.
+   While it began as a digital computer virus—the
+manner in which it infected the TITANs—it has trans-
+formed to be communicable via at least three other
+forms: biological nanovirus, nanoplague, and basilisk
+hack. Each is described below, along with rules for
+infection and defense.
+
+BIOLOGICAL NANOVIRUS
+Exploiting the infected TITANs’ understanding of
+Terran biology and their access to bio- and nanotech-
+nology, the Exsurgent virus appeared in several biolog-
+ical forms not long into the Fall. These virulent strains
+infected biomorph transhumans and sometimes other
+living creatures as well. The biological nanobots
+spreading this strain act much like other biological
+virii, though they radically modify the victim’s bio-
+logical and mental states. Some versions invade and
+restructure the target’s genetic code, transforming
+them into the horrible abominations known as ex-
+surgents (p. 369). While first-hand reports relate lurid
+tales of victims metamorphing into hostile monsters,
+such reports are rare and considered unreliable due to
+the mental state of the witnesses (and any recordings
+that can verify such claims have a strange habit of
+disappearing). Other variants of this strain are known
+only to alter the target’s neural code, subverting them
+to the will of the virus (and often, by extension, the
+TITANs) and affecting their mental structure in order
+to give them psi ability.
+
+BIOLOGICAL INFECTION
+Biological versions are spread much like other patho-
+gens. People usually become infected by proximity to
+another infected entity. Vectors may be dermal (touch-
+ing someone with bio-nanobots excreted through the
+skin), inhalation (breathing exhaled bio-nanobots),
+injection, or oral (p. 317). Exsurgent bio-nanobots can
+live outside of a body for extended periods, however,
+so infection is possible merely by occupying the space
+where an infected victim was hours or even days before.
+   If a biomorph only has a chance of exposure to the
+virus (e.g., they walk through a room in which they
+might have breathed in exhaled bio-nanobots), have
+them make a MOX x 10 Test (use their Moxie stat,
+not their current Moxie score). Failure means they
+were exposed. In other circumstances, however, expo-
+sure may be automatic, such as extended touching of
+or kissing an infected person.
+   A biomorph exposed to this infection must make
+a DUR x 2 Test to determine if the infection takes
+hold. Basic bio-mods and nanophages do not offer

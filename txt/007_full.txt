@@ -1,0 +1,67 @@
+TSnCREDITSnCREDITSnCREDITSnCREDITSnCREDITSnCREDITSnCREDITSnCREDIT
+
+
+
+CREDITS
+ Original Concept and Design: Rob Boyle, Brian Cross      Dedication: This book is dedicated first and foremost
+ Writing and Design: Lars Blumenstein, Rob Boyle,          to the people who made Eclipse Phase happen, from
+  Brian Cross, Jack Graham, John Snead                     everyone who contributed time, sweat, ideas, and
+ Additional Writing: Bruce Baugh, Randall N. Bills,        money into it to everyone who picks it up, reads
+   Davidson Cole, Tobias Wolter                            it, and plays it. This game is by you and for you.
+                                                           Secondly it’s dedicated to my grandmother and to
+ Editing: Rob Boyle, Jason Hardy
+                                                           Andrea, both important people in my life who died
+ Development: Rob Boyle                                    while I was working on this book and its themes
+ Line Developer: Rob Boyle                                 of defeating death. I sincerely hope that one day
+ Art Direction: Randall N. Bills, Rob Boyle, Brent         such tragic losses are avoided. Third, this book is
+   Evans, Mike Vaillancourt                                dedicated to my son Echo, my entertaining working
+ Cover Art: Stephan Martiniere                             companion on this project. Finally this book is dedi-
+ Interior Art: Justin Albers, Rich Anderson,               cated to those visionaries, especially the anarchists
+   Davi Blight, Leanne Buckley, Robin Chyo,                and transhumanists, who are working to bring about
+   Daniel Clarke, Paul Davies, Nathan Geppert,             a fantastic future, starting now. —Rob Boyle
+   Zachary Graves, Tariq Hassan, Thomas Jung,
+   Sergey Kondratovich, Sean McMurchy, Dug Nation,        Our Resources
+   Ben Newman, Justin Oaksford, Efrem Palacios,           http://eclipsephase.com
+   Sacha-Mikhail Roberts, Silver Saaramael, Daniel        	    —Eclipse Phase website and blog
+   Stultz, Viktor Titov, Alexandre Tuis, Bruno Werneck,   http://del.icio.us/infomorph
+   and Dr. CM Wong (Opus Artz Studio)                     	    —Eclipse Phase-related news and links
+ Graphic Design and Layout: Adam Jury,                    http://posthumanstudios.com
+   Mike Vaillancourt                                      	    —Posthuman Studios website
+                                                          http://catalystgamelabs.com
+ Faction Logos: Michaela Eaves, Jack Graham,
+                                                          	    —Catalyst Game Labs website
+   Hal Mangold, Adam Jury
+                                                          http://eclipsephase.com/store
+ Indexing: Rita Tatum                                     	    —Online Ordering and PDFs
+ Additional Advice and Input: Robert Derie, Adam
+   Jury, Sally Kats, Christian Lonsing, Aaron Pavao,      outside Resources
+   Andrew Peregrine, Kelly Ramsey, Malcolm Shepard,       http://www.humanityplus.org
+   Marc Szodruch                                          	    —Humanity Plus
+ Science Advice: Brian Graham,
+   Matthew Hare, Ben Hyink, Mike Miller
+                                                                     First Printing by Catalyst Game Labs,
+ Playtesting and Proofreading: Chris Adkins, Sean Beeb            an imprint of InMediaRes Productions, LLC
+   Laura Bienz, Echo Boyle, Berianne Bramman,                        PMB 202 • 303 - 91st Ave. NE, G-701
+   Chuck Burhanna, C. Byrne, Nathaniel Dean,                                Lake Stevens, WA 98258.
+   Joe Firrantello, Nik Gianozakos, Sven Gorny,                                  Printed in China
+   Björn Grammatke, Aaron Grossman, Neil Hamre,
+                                                               Creative Commons License; Some Rights Reserved.
+   Matthew Hare, Kristen Hartmann, Ken Horner,
+   Dominique Immora, Stephen Jarjoura, Lorien Jasny,
+   Jan-Hendrik Kalusche, Austin Karpola, Robert
+   Kyle, Tony Lee, Heather Lozier, Jürgen Mayer,
+   Darlene Morgan, Trey Palmer, Matt Phillips,
+                                                          This work is licensed under the Creative Commons Attribution-
+   Aaron Pollyea, Melissa Rapp, Jan Rüther,               Noncommercial-Share Alike 3.0 Unported License.
+   Björn Schmidt, Michael Schulz, Brandie Tarvin,         To view a copy of this license, visit:
+   Kevin Tyska, Liam Ward, Charles Wilson,                http://creativecommons.org/licenses/by-nc-sa/3.0/
+   Kevin Wortman, plus everyone who participated in       or send a letter to: Creative Commons, 171 Second Street, Suite
+                                                          300, San Francisco, California, 94105, USA.
+   a game at Gen Con 2008
+ Musical Inspiration: Geomatic (Blue Beam),               (What this means is that you are free to copy, share, and remix
+  Memmaker (How to Enlist in a Robot Uprising),           the text and artwork within this book under the following
+  Monstrum Sepsis (Movement)                              conditions: 1) you do so only for noncommercial purposes;
+                                                          2) you attribute Posthuman Studios; 3) you license any de-
+                                                          rivatives under the same license. For specific details, appro-
+                                                          priate credits, and updates/changes to this license, please see:
+                                                          http://eclipsephase.com/cclicense)

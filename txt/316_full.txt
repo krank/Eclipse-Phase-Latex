@@ -1,0 +1,38 @@
+   Laser/Microwave Link: These portable devices are       to. Neutrino communicators require a large power
+used to establish a tight-beam, line-of-sight commu-      plant to power the high energy particle interactions
+nications channel with another laser or microwave         required to generate the neutrino broadcast. Neutrino
+link. The range of these transceivers varies widely       receivers are also relatively large, with the smallest
+with environmental factors, but approximates 50           occupying 100 cubic meters. In most cases, neutrino
+kilometers in atmosphere and 500 kilometers in            communicators are designed to broadcast neutrinos
+space (though horizon limits must be kept in mind,        in all directions, though tight-beam transmissions are
+being 5 kilometers at ground level on Earth and less      also possible. Quite often neutrino communications
+on smaller bodies). Lasers are subject to interference    take advantage of quantum farcasting for security.
+from fog, dirt, smoke, and similar visual chaff, while       Neutrino Transceiver: This transceiver is capable of
+microwaves may be hindered by metallic obstructions.      generating and receiving neutrino signals at a range of
+These links may only be intercepted by getting directly   at least 100 astronomical units. It is large, with a size
+in between the beams. Some teams carry a micro ver-       of 8 cubic meters (in a cube 2 meters on a side), but
+sion of this system, worn on their person, allowing       they can be loaded onto large vehicles. To function, it
+line of sight intra-team communications that cannot       must be connected to a large power plant, such as one
+be intercepted like radio. [Moderate]                     found in habitats or large spacecraft. The cost and
+   Radio Booster: This device boosts the range and        size of this device includes the computer necessary for
+sensitivity of short-range radios, like those from im-    quantum farcasting. [Expensive]
+plants, ectos, or microbugs. The booster must be with
+the shorter-ranged device’s range (or directly linked     QUANTUM FARCASTERS
+via fiberoptic cable). It will repeat any transmissions   Quantum farcasters are special computers designed to
+received from that device, but at its extended range of   protect a communications channel (such as fiberoptic,
+25 kilometers in urban areas (250 kilometers remote       radio, laser/microwave, or neutrino) with unbreak-
+areas). Broadcasts from a radio booster are easy to       able encryption. To function, two or more quantum
+receive by anyone looking for broadcasts (see Wire-       farcaster computers must first be entangled together
+less Scanning, p. 251), though transmissions may be       (on a quantum level) in the same physical location.
+stealthed (p. 252). Boosters are commonly used by         The farcasters may then be separated, at which point
+characters traveling far from habitats or other civi-     they may continue to exchange encrypted data via
+lized regions. [Low]                                      quantum teleportation. This data exchange requires
+                                                          a standard communications link (fiberoptic, radio,
+NEUTRINO COMMUNICATORS                                    laser/microwave, or neutrino), and so is limited by
+Neutrinos are particles that can pass through any         the speed of light, but it is a high bandwidth form
+solid matter with ease and are impossible to block. As    of communications. The quantum encryption used
+a result, they make an ideal medium for communica-        by these entangled farcasters is unbreakable, and any
+tions. Unfortunately, they are also easy to intercept.    attempted interception is immediately detected and
+Even a tight beam of neutrinos sent between two lo-       neutralized. A quantum farcaster may not be used to
+cations can be intercepted simply by placing another      securely communicate with any farcasters other than
+receiver behind the location the broadcaster is sending   the ones it is entangled with.

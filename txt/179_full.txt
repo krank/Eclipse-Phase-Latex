@@ -1,0 +1,60 @@
+  Cryptography, Economics, Engineering, Genetics,               When you use it: The Art skill can be used to either
+  Geology, Linguistics, Mathematics, Memetics,                create a new work of art or to duplicate an existing
+  Nanotechnology, Old Earth History, Physics, Politi-         piece of art in the hopes of passing it off as your own.
+  cal Science, Psychology, Sociology, Xeno-archeology,        The skill can also determine the approximate value of
+  Xenolinguistics, Zoology                                    a piece of art either on the open market, for monetary
+Specializations: As appropriate to the field                  exchange systems, or in terms of reputation for the
+                                                              artist.
+ANIMAL HANDLING                                               Sample Fields: Architecture, Criticism, Dance, Drama,
+Type: Active, Social                                            Drawing, Painting, Performance, Sculpture, Simul-
+ Linked Aptitude: SAV                                           space Design, Singing, Speech, Writing
+   What it is: Skilled animal handlers are able to            Specializations: As appropriate to the field
+ train and control a wide variety of natural and trans-
+ genic animals, including partial uplifts. Though many        BEAM WEAPONS
+ animal species went extinct during the Fall, a few           Type: Active, Combat
+“ark” and zoo habitats keep some species alive, and           Linked Aptitude: COO
+ many others can be resurrected from genetic samples.         What it is: The Beam Weapons skill covers the usage
+ Exotic animals are considered a sign of prestige             and maintenance of standard coherent beam energy
+ among the hypercorp elites, and guard animals are            weapons such as lasers, particle beam weapons,
+ occasionally used to protect high-security installations.    plasma rifles, and microwave weapons (p. 338).
+ Likewise, many habitats and settlements employ small           When you use it: A player uses their Beam Weap-
+ armies of partially uplifted, genetically modified, and      ons skill whenever attacking with a beam weapon in
+ behavior-controlled creatures for sanitation or other        combat (p. 191). Beam Weapons may also be used for
+ purposes. Many new and strange breeds of animal are          tests involving maintenance of the weapon, but not
+ created daily to serve a variety of roles.                   for repairing or modifying the weapon (that would be
+   When you use it: Animal Handling is used whenever          Hardware: Armorer skill).
+you are trying to manipulate an animal, whether your          Specializations: Lasers, Microwave Weapons, Particle
+ intent is to calm it down, keep it from attacking, in-         Beam Weapons, Plasma Rifles
+ timidate it, acquire its trust, or goad it into attacking.
+Your Margin of Success determines how effective you           BLADES
+ are at convincing the creature. At the gamemaster’s          Type: Active, Combat
+ discretion, modifiers may be applied to the test. Like-      Linked Aptitude: SOM
+wise, winning an animal over may sometimes take                 What it is: The Blades skill covers the usage and
+ time, and so could be handled as a Task Action with a        maintenance of standard bladed weapons (p. 334).
+ timeframe of five minutes or more.                             When you use it: A player uses their Blades skill
+ Specializations: Per animal species (dogs, horses, smart     whenever attacking with a blade weapon in melee
+    rats, etc.)                                               combat (p. 191). Blades may also be used for tests
+                                                              involving maintenance of the weapon, but not for
+TRAINING ANIMALS                                              repairing or modifying the weapon (that would be
+Training animals is a time-consuming task requiring           Hardware: Armorer skill). This skill is used for blade
+repeated efforts and rewards to reinforce the trained         weapons implanted in the body at the end of an ap-
+behavior. Treat this as a Task Action with a timeframe        pendage (hands, forearms, feet, octomorph arms, etc.),
+of one day to one month, depending on the complex-            but the Exotic Melee Weapon skill is used for blades
+ity of the action. Apply modifiers to this test based on      implanted in other parts of the body.
+the relative intelligence of the animal being trained,        Specializations: Axes, Implant Blades, Knives, Swords
+how domestic it is, and the complexity of the task.
+   Once an animal has been trained, commanding                CLIMBING
+it is treated as a Simple Success Test (p. 118) except        Type: Active, Physical
+for unusual or stressful situations, in which case the        Linked Aptitude: SOM
+trainer receives a +30 modifier on their Animal Han-            What it is: Climbing is the skill of ascending and
+dling Tests when convincing the animal to complete            descending sheer surfaces with or without the aid of
+the trained action.                                           specialized equipment.
+                                                                When you use it: This skill is used whenever a char-
+ART: [FIELD]                                                  acter wishes to scale a climbable surface. For heights
+Type: Field, Knowledge                                        greater than one story, climbing is handled as a Task
+Linked Aptitude: INT                                          Action with a timeframe equivalent to one meter per
+  What it is: Art confers the ability to create and eval-     Action Phase. For rappelling, the timeframe for de-
+uate artistic endeavors. This is a particularly useful        scent is 50 meters per Action Turn. Climbing gear (p.
+skill in Eclipse Phase, especially in the post-scarcity       332-333) provides appropriate modifiers.
+economies where creativity and vision can be a key            Specializations: Assisted, Freehand, Rappelling
+component to a character’s reputation.

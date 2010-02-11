@@ -1,0 +1,115 @@
+ Test (SOM x 3 for synthmorphs or biomorphs with
+ any form of pain tolerance). Failure means the target
+ is temporarily stunned and disoriented and loses
+ their next action. A critical failure means the target
+ is knocked down and paralyzed for 1 Action Turn per
+ 10 points of MoF. In this stun setting, the pulser fires
+ only in single-shot mode.
+    Microwave Agonizer: The agonizer fires millimeter-
+ wave beams that create an unpleasant burning sen-
+ sation in skin (even through armor) and to metals.
+ Agonizers have two settings. The first is an active
+ denial setting that causes extreme burning pain in the
+ target, inflicting –20 to the target’s actions and forc-
+ ing them to move away from the beam on their next
+ action unless they succeed in a WIL Test (targets with
+ Level 1 Pain Tolerance or the equivalent only suffer
+ a –10 modifier and roll WIL x 2). Synthetic morphs
+ and biomorphs with Level 2 Pain Tolerance (or the
+ equivalent) are immune to this weapon. The second
+ setting (colloquially known as the “roast” setting) has
+ the same effect of the first, but also actually burns the
+ target, inflicting the listed damage. Originally devel-
+ oped for crowd control, the agonizer is also useful for
+ repelling animals. The agonizer is small-sized (p. 297)
+ and fires in semi-auto mode. [Moderate]
+    Particle Beam Bolter: This weapon shoots a bolt of
+ accelerated particles at near light speed that transfer
+ massive amounts of kinetic energy to the target, su-
+ perheating and creating an explosion when striking.
+ The bolter’s beam is not diffused by the cloud that
+ occurs when it strikes, and so it has greater penetra-
+ tion than the laser pulser. Likewise, the bolter is not
+ affected by smoke, fog, or rain. The bolter’s beam is
+ invisible. Note that bolters are designed for either
+ atmospheric or exoatmospheric (vacuum) operation,
+ and will not function in the opposite environment
+ (though bulkier dual models, combining both models,
+ are also available). Bolters fire in semi-auto mode and
+ are rifle-sized two-handed weapons. [High]
+    Plasma Rifle: This bulky, heavy, two-handed
+ weapon blasts a stream of nova-hot plasma at the
+ target, inflicting severe burns and thermal damage,
+ possibly melting or evaporating the target entirely.
+ Plasma rifles are perhaps the deadliest man-portable
+ weapons in use. Plasma guns suffer from dangerous
+
+
+
+                                                BEAM
+BEAM WEAPONS                     ARMOR PENETRATION (AP)      D
+Cybernetic Hand Laser (p. 308)             —
+Laser Pulser                               —
+   Stun Mode                               —
+Microwave Agonizer                         —
+   Roast Mode                              –5
+Particle Beam Bolter                       –2
+Plasma Riﬂe                                –8
+Stunner                                    —              (1d
+    overheating, however, and so require 1 full Action
+    Turn of cool-down time after every 2 shots. Plasma
+    rifles only fire in single shot mode. [Expensive]
+       Stunner: The stunner is an electrolaser that cre-
+    ates an electrically-conductive plasma channel to the
+    target, down which it transmits a powerful electric
+    current, shocking the target. Stunners do not work in
+    vacuum. Stunners fire in semi-auto mode. [Moderate]
+
+    SEEKERS
+    Seekers are a combination of automatic grenade
+    launcher, micromissile, coilgun, and smart munitions
+    technology. Unlike traditional launchers of the past,
+    miniaturization allows the manufacture of seeker mi-
+    cromissile launchers in personal weapon sizes. Seeker
+    rounds are fired at high-velocity via rings of magnetic
+    coils, after which the micromissile or minimissile uses
+    scramjet technology to propel itself and maintain high
+    velocities over great distances. Seekers are wielded
+    using Seeker Weapon skill.
+       Seeker missiles are detailed on p. 340. Like gre-
+    nades, seekers may be programmed for a variety of
+    trigger events (see Grenades and Seekers, p. 199). All
+    seeker weapons are smartlink-equipped (p. 342).
+       Disposable Launcher (Standard Missile): This
+    launcher is pre-packed with one standard missile.
+    [Moderate (includes missile)]
+       Seeker Armband (Micromissile): This weapons unit
+    is worn on the arm, allowing the user to point and
+    fire using an entoptic smartlink system. Though highly
+    portable, the armband’s micromissile supply is low. It
+    fires in single-shot mode. [Moderate]
+       Seeker Pistol (Micromissile): This pistol-sized
+    seeker launcher fires micromissiles in semi-auto
+    mode. [Moderate]
+
+
+                 SEEKER WEAPONS
+ EEKER WEAPONS           FIRING MODES             AMMO
+Disposable Launcher              SS                  1
+ eeker Armband                   SS                  4
+ eeker Pistol                    SA                  8
+ eeker Riﬂe                      SA     12 micromissile/6 minimissi
+Underbarrel Seeker               SA                  6
+
+
+
+EAPONS
+AGE VALUE (DV)          AVERAGE DV FIRING MODES           AMMO
+    2d10                    11             SA                50
+    2d10                    11             SA               100
+    1d10                    5               SS               —
+ (see description)          —              SA               100
+    2d10                    11             SA                50
+  2d10 + 4                  15             SA                50
+ 3d10 + 12                  28              SS               10
+÷ 2) + shock (p. 204)       —              SA               200

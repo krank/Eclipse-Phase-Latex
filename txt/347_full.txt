@@ -1,0 +1,59 @@
+ gear that provides the occupants with air for at least          they are not equipped to be sleeved into (though the
+ 100 hours. Buggies are powered by nuclear batteries             may be jammed; see p. 196). Any of these bots may
+ and come in a variety of sizes, from small two-person           be modified for use as a synthetic morph, however, by
+ buggies to large trucks. Mars buggies come equipped             adding a cyberbrain system (p. 300).
+ with headlights, radio boosters, and a vehicle radar               Automech: Automechs are general purpose repair
+ system. [High]                                                  drones, found just about everywhere. Each particular
+                                                                 automech tends to specialize in a particular type of
+ PERSONAL VEHICLES                                               repair work and so carries the appropriate tools and
+ These one-person movement aids primarily are used in            AI skills, whether it be habitat waste recyclers, outer
+ space, but do not count as spacecraft per se.                   hull integrity, or servitor systems. Standard automechs
+   EVA Sled: This small sled uses air impellers to maneu-        are wheeled cubes with articulated limbs, though they
+ ver in zero-G. It is commonly used to carry attached gear,      are also equipped with vectored-thrust drives for
+ but may also pull along 1 human-sized morph. [Low]              zero-G work. [Moderate]
+   Rocket Pack: This is a miniature metallic hydrogen               Creepy: Creepies are small crawler bots that come
+ rocket that the wearer straps to their back, with two           in an eclectic variety of shapes and forms, from robo-
+ rocket exhausts extending out to either side, away              squirrels to insectoids to bizarre and artsy mechanical
+ from the wearer’s body or legs. Biomorphs and pod               creatures. Creepies were originally designed as a sort of
+ morphs can only safely use this vehicle when wear-              robotic pet, but they are commonly used as a general
+ ing a vacuum suit or some garment that is similarly             purpose household minion, like a more beloved servi-
+ heat resistant. Also, to prevent harm to the wearer, the        tor. Many people in fact wear a creepy on their person,
+ thrust must be kept sufficiently low that it can only           dropping it to handle small tasks for them and letting it
+ take off on Mars or moons with even lower gravity. A            crawl up and down and over their body. [Low]
+ rocket pack can keep the wearer airborne for up to 15              Dr. Bot: These wheeled medical robots are designed
+ minutes in Mars gravity, or 30 minutes on Luna, Titan,          to tend to and transport injured or sick people. They
+ or any of the four large Jovian moons. On Mars, it              carry a healing vat (p. 326), a specialized pharmaceu-
+ has a maximum speed of 700 kph. It can be used to               ticals maker, miscellaneous medical gear, and articu-
+ reach orbit and land again on Luna, Titan, and other            lated arms for conducting remote surgery. [Moderate]
+ similarly small bodies like the Jovian moons. Rocket               Dwarf: These large industrial bots are named not
+ packs are equipped with radio boosters but no other             just for their primary use—mining, excavation, tun-
+ sensors or communication devices. [Low]                         neling, and construction—but because the default
+   Thruster Pack: Worn for EVA duties, this thruster             AIs they shipped with had a programmed tendency
+ pack uses vectored thrust nozzles, allowing a charac-           to happily whistle as they worked. Dwarfs are quad-
+ ter to maneuver in open space. This is not a jetpack            rapedal walkers, equipped with massive modular
+ and does not produce enough thrust for atmospheric              industrial tools like boring drills, shovels, hydraulic
+ movement. [Low]                                                 jacks, jackhammers, scooping arms, acid sprays, and
+                                                                 so on. [Expensive]
+ ROBOTS                                                             Gnat: Gnats are small rotorcraft camera/surveil-
+ Robots are a common sight and accepted fact of daily            lance drones. Many people use gnats for personal
+ life within Eclipse Phase. Numerous varieties exist,            lifelogging, while socialites and media use them to
+ from robo-pets to mechanical workers to warbots.                capture the glamor or hottest news. [Low]
+ If a job can be done more cheaply (and sometimes                   Guardian Angel: Similar to gnats, guardian angel ro-
+ safely) by a bot, it usually is. The robots listed here         torcraft hover around their charges, keeping a watch-
+ are not generally used as synthetic shells by transhu-          ful eye out to protect them from threats. [Moderate]
+ man egos, often for cultural reasons (sleeving a case              Saucer: These disc-shaped drones are lightweight
+ is bad enough, sleeving a creepy is just ... wrong), and        and quiet. They are typically launched by throwing
+
+
+                 VEHICLES—GROUNDCRAFT, PERSONAL VEHICLES
+                   PASSENGER                    MOVEMENT                                                       WOUND
+GROUNDCRAFT         CAPACITY      HANDLING        RATE        MAX VELOCITY       ARMOR       DURABILITY      THRESHOLD
+Cycle                  1–3            +20           4/40          120             12/10           50              10
+Mars Buggy             2–6            +10           8/32        40/90/110         30/20           150             30
+
+
+PERSONAL           PASSENGER                    MOVEMENT                                                       WOUND
+VEHICLES            CAPACITY      HANDLING        RATE        MAX VELOCITY       ARMOR       DURABILITY      THRESHOLD
+EVA Sled                1             –30           4/16           16               5             40               8
+Rocket Pack             1             –20            —            700             +5/+5           40               8
+Thruster Pack           1             –10           4/20           40             +4/+4           30               6

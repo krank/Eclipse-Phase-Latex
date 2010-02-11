@@ -1,0 +1,90 @@
+“bluebooking”). This can be particularly useful if a
+ player was unable to attend a given session, pro-
+ viding a quick re-cap that they can read before at-
+ tending the next gaming session and thus avoiding
+ a bog-down up-front as that player tries to catch
+ up on current events in the game. The session scribe
+ can be a shared responsibility or assigned, all based
+ upon what a given playing group finds works best
+ for them. Likewise, some gaming groups audio-
+ record their entire game session, both for later
+ reference and for “actual play” podcasts.
+   The old standard of a pencil and paper still works
+wonders. A host of additional technologies, how-
+ ever, provide many new options for players. From
+ a text file on a laptop to a shared wiki, the ability
+ to track large amounts of information in a quick
+ and useful fashion—while simultaneously making
+ appropriate information available to each player
+ from session to session—significantly decreases
+ how much time everyone needs to spend tracking
+ information. That time can now be redirected into
+ the enjoyment of participating in a great story.
+
+DICE
+As described in the Game Mechanics section (p. 112),
+two ten-sided dice are required to play Eclipse Phase.
+While most players enjoy the feel of tossing dice onto
+a table, there are many other mechanisms for rolling
+two ten-sided dice to achieve a 00 to 99 result. Players
+who make heavy use of any online technologies for
+game play—such as using online chatting or video
+blogging—should find it easy to track down and
+implement a quick dice-rolling program.
+
+IMAGINATION
+All too often, it’s easy for someone looking at an
+RPG to be intimidated. So many concepts to grasp,
+so many ideas that seem overwhelming. Just as de-
+scribed under What is a Roleplaying Game?, how-
+ever, how often have you read a book or watched
+that movie and decided that you would have done
+it better? That’s your imagination at work. Just dive
+in and you’ll be amazed at how quickly you can im-
+merse yourself in the Eclipse Phase universe. Soon
+you’ll be spinning stories with the best of them.
+   Also, don’t forget to tap your resources. Your
+gaming group is your best resource. What’s going on,
+ideas for how to handle a situation, or how to take
+on a bad guy: these are just some of the things that
+can and should be discussed by the gaming group
+in between sessions, and each is an opportunity to
+strengthen your imagination.
+   Another resource is simply watching TV or read-
+ing a good book. Pay attention to how the story is
+put together, how the characters are built, and how
+the plot unfolds. Push your imagination and soon
+you’ll be figuring out subplots and who the bad guy
+is long before it’s revealed. Knowing how a story is
+put together enables you to put together your own
+stories during each gaming session.
+   Finally, eclipsephase.com is the offi cial site for
+Eclipse Phase. If you have questions about the
+game or want to see how another group of players
+handles a given situation, post on the forums. The
+online community can be just as helpful and enjoy-
+able as a local gaming group.
+
+WHAT DO PLAYERS DO?
+The players can take on a variety of roles in Eclipse
+Phase. Due to advances in digital mind emulation
+technology, uploading, and downloading into new
+morphs (physical bodies, biological or synthetic), it is
+possible to literally be a new person from session to
+session. With bodies taking on the role of gear, players
+can customize their forms for the task at hand.
+
+THE DEFAULT CAMPAIGN
+In the default story (also known as “campaign set-
+ting”), every player character is a “sentinel,” an
+agent-on-call (or potential recruit) for a shadowy
+network known as “Firewall.” Firewall is dedicated
+to counteracting “existential risks”—threats to the
+existence of transhumanity. These risks can and do
+include biowar plagues, nanotech swarm outbreaks,
+nuclear proliferation, terrorists with WMDs, net-
+breaking computer attacks, rogue AIs, alien en-
+counters, and so on. Firewall isn’t content to simply
+counteract these threats as they arise, of course,
+so characters may also be sent on information-
+gathering missions or to put in place pre-emptive

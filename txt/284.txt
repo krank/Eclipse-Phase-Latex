@@ -1,0 +1,120 @@
+   The inside of an O’Neill cylinder has six alternating
+strips of ground and window running from one cap
+of the cylinder to the other. One narrow end of an
+O’Neill cylinder points toward the sun. The opposite
+end is the mooring point for three immense reflectors
+angled to reflect sunlight into the windows. Smart
+materials coating the windows and reflectors prevent
+fluctuations in solar activity from delivering too much
+heat. The air inside the cylinder and its metal super-
+structure provide radiation shielding.
+   The land in most O’Neill cylinders is one-third
+agricultural (a combination of food vats and high-
+yield photosynthetic crops), one-third park land, and
+one-third mixed use residential and business. O’Neill
+habitats have a day and night cycle regulated by the
+position of the external mirrors. The business and
+residential sections of the cylinder usually alternate
+with the park land over two of the strips of land;
+cropland usually takes up the third. Bridges cross
+the windows every kilometer or so, linking the land
+strips. The interior climate, the architectural style of
+the structures, and the types of vegetation and fauna
+present vary with the tastes of the habitats’ designers.
+   Depending upon size, O’Neill cylinders can house
+from 25,000 to 2 million people.
+
+TIN CANS
+Antique research stations and survivalist prospector
+outposts often fit this description. Tin can habitats
+are only a few notches up from the early 21st-century
+International Space Station. Tin cans usually consist
+of one or more modules connected to solar panels
+and other utilities by an open truss. Deluxe models
+feature actual floatways or crawlways between
+modules, while barebones setups require a vacsuit or
+vac-resistant morph to go from room to room. Food
+growing capacity is severely limited and there may be
+no farcasters, but fabricators are available, as well as
+mooring for shuttles and perhaps prospecting craft.
+  Tin cans rarely house more than 50 people.
+
+TORUSES
+Interchangeably called toruses, toroids, donuts, and
+wheels, these circular space habitats were a cheap
+alternative to the O’Neill cylinder used for smaller
+installations. Like O’Neill cylinders, toruses are seldom
+constructed anymore, but many are still encountered in
+the inner system, particularly in Earth and Lunar orbit.
+  A toroidal habitat looks like a donut 1 kilometer in
+diameter, rotating on great spokes. There is a zero-g
+spaceport at the wheel’s hub. Visitors take a lift down
+one of the spokes to the level of the donut, where
+rotation creates one Earth gravity.
+  The plan of toroidal habitats varies greatly, as many
+were designed for specific scientific or military purposes
+and only later taken over as habitats by entrepreneurs
+or squatters. Many have a succession of decks in the
+donut. Most of those designed for long-term self-
+sufficient habitation have smart material-covered glass
+windows for growing plants along much of the inside
+surface of the torus. Toroidal habitats equipped for
+farming normally face the sun in a direction perpen-
+dicular to their rotational axis, but then use a slow pro-
+cessional wobble of that axis to create a day/night cycle.
+  Toruses were usually built to accommodate small
+crews of 500 or fewer people, though some larger
+ones exist, able to house 50,000. A few rare double-
+toruses also exist, like two large wheels spinning in
+opposite directions, joined at the axis.
+
+IMMIGRATION AND CUSTOMS
+How characters gain entry to a habitat and what type
+of screening they’re likely to undergo depends upon
+how they arrive. Some habitats are close to other
+settlements, while others are physically isolated by the
+vast, empty distances of interplanetary space.
+   Habitats in dense planetary systems receive most of
+their visitors via conventional space travel. Immigra-
+tion and customs infrastructure is geared toward re-
+ceiving visitors via their spaceport, and the processing
+of arrivals is in most ways analogous to a twentieth
+century airport. Isolated habitats, on the other hand,
+tend to receive almost all of their visitors via egocast.
+
+PHYSICAL ARRIVALS
+Arrivals by spacecraft undergo, at minimum, an ego
+ID check, scans to detect pathogens, hostile nanobots,
+explosives, or radiation, and an inspection of their
+personal effects. Some habitats go farther, including
+rigorous secondary screenings using scout nano-
+swarms, scans of all electronic systems for malware,
+and/or aggressive interrogation of a fork of the subject.
+Even autonomist enclaves enforce automated scans for
+anything that might pose a danger to the habitat or
+any signs of hypercorp saboteur efforts.
+   Restricted goods vary according to local legalities.
+Many habitats, particularly those controlled by auton-
+omist or criminal factions, allow personal weaponry
+as long as its nothing you can use to blow a hole in
+the structure or indiscriminately kill dozens of people.
+Others, notably the Jovian Republic and hypercorp
+stations, disallow lethal weapons of all kinds, except
+for people who have acquired special permits and au-
+thorization (sometimes available by bribing the right
+people or pulling favors with rep). Nonlethal weapons
+are generally allowed. Other restricted items may
+include nanofabricators, nanoswarms, malware and
+hacker software, drugs and narcoalgorithms, certain
+types of XP recordings, covert operations tools, and
+so on. Certain types of morphs may also be restricted,
+such as reapers, furies, or uplifts.
+   Certain habitats may insist that visitors—or at
+least the ones they don’t like the looks of—submit to
+specific forms of monitoring or surveillance for the
+duration of their stay. This might include taggant
+nanoswarms, hosting a police AI in your mesh inserts,
+or even physical tailing by an armed security drone.
+Other stations will require that their visitors leave a
+fork as a form of collateral at the door—in case they
+commit a crime, the fork can be interrogated.

@@ -1,0 +1,115 @@
+COMBAT SUMMARY
+• Combat is handled as an Opposed Test.
+• Attacker rolls attack skill +/– modiﬁers.
+• Melee: Defender rolls Fray or melee skill
+  +/– modiﬁers.
+• Ranged: Defender rolls (Fray skill ÷ 2, round
+  down) +/– modiﬁers.
+• If attacker succeeds and rolls higher than the
+  defender, the attack hits.
+• Critical hits are armor-defeating (armor does
+  not apply).
+• Armor is reduced by the attack’s Armor
+  Penetration value (AP).
+• The weapon’s damage is reduced by the
+  target’s modiﬁed Armor rating (unless the
+  attack is armor-defeating).
+• If the damage exceeds the target’s Wound
+  Threshold, a wound is also scored. (If the
+  damage exceeds the Wound Threshold
+  by multiple factors, multiple wounds are
+  inﬂicted.)
+
+
+
+ACTION AND COMBAT COMPLICATIONS
+Combat isn’t quite as simple as deciding if you hit or
+miss. Weapons, armor, ammunition, and numerous
+other factors may impact an attack’s outcome. Like-
+wise, various factors can impact an action scene, such
+as fire or microgravity effects.
+
+AIMED SHOTS
+As noted under Aiming, p. 190, a character can sacri-
+fice their other Quick Actions to concentrate on tar-
+geting a ranged attack and receive a +10 modifier on
+the attack. You can also sacrifice an entire Complex
+Action to fix your aim on a target. In this case, as long
+as the target remains in your sights until your next
+Action Phase, you receive a +30 modifier to hit.
+
+AMMUNITION AND RELOADING
+Every weapon has a listed ammunition capacity that
+indicates how many shots the weapon can carry or
+holds. When this ammo runs out, a new supply must
+be loaded in. Players should keep track of the shots
+they fire.
+   Reloading almost always requires a Complex
+Action, whether you are slapping in a new clip of bul-
+lets or a fresh battery for a laser. At the gamemaster’s
+discretion, a reload that is immediately accessible
+(such as a new clip reverse-taped to the loaded clip, so
+that reloading just requires that you reverse the taped
+clips and slot the new one in) will only take a Quick
+Action. Archaic weapons such as magazine-fed rifles
+may require longer to fully load.
+
+AREA EFFECT WEAPONS
+Some ranged attack weapons are designed to affect
+more than one target at a time. These weapons fall
+into three categories: blast, uniform blast, and cone.
+                      COMBAT MODIFIERS
+GENERAL                                                            MO
+Character using off-hand
+Character wounded/traumatized                                –10 per w
+Character has superior position
+Touch-only attack
+Called shot
+Character wielding two-handed weapon with one hand
+Small target (child-sized)
+Very small target (mouse or insect)
+Large target (car sized)
+Very large target (side of a barn)
+Visibility impaired (minor: glare, light smoke, dim light)
+Visibility impaired (major: heavy smoke, dark)
+Blind attack
+
+
+MELEE COMBAT                                                       MO
+Character has reach advantage
+Character charging or receiving a charge
+
+
+RANGED COMBAT (ATTACKER)                                           MO
+Attacker using smartlink or laser sight
+Attacker behind cover
+Attacker running
+Attacker in melee combat
+Attacker has reach advantage
+Defender has minor cover
+Defender has moderate cover
+Defender has major cover
+Defender prone and far (10+ meters)
+Defender hidden
+Aimed shot (quick)
+Aimed shot (complex)
+Sweeping ﬁre with beam weapon                                  +10 on
+Multiple targets in same Action Phase                        –20 per a
+Indirect ﬁre
+Point-blank range (2 meters or less)
+Short range
+Medium range
+Long range
+Extreme range
+
+
+ BLAST EFFECT
+ Blast weapons include items like grenades, mines, and
+ other explosives that expand outward from a central
+ detonation point. Most blast attacks expand outward
+ in a sphere, though certain shaped charges may direct
+ an explosion in one direction only. The explosive force
+ is stronger near the epicenter and weaker near the
+ outer edges of the sphere. For every meter a target is
+ from the center, reduce the damage of a blast weapon
+ by –2.

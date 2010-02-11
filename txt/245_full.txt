@@ -1,0 +1,41 @@
+   The method of transmission between habitats also
+sometimes matters. Radio and neutrino broadcasts
+can be intercepted by anyone, whereas tight-beam
+                                                             MESH ABUSES
+                                                             As with all things, the mesh has its darker side. At
+laser or microwave links are specifically used as a          the basic level, this amounts to flamewar-starting
+point-to-point method that minimizes interception            trolls, stalkers, or griefers whose intent is to mess
+and eavesdropping. The use of quantum farcasting             with others for a laugh. At the more organized level,
+using neutrino systems is completely secure, however,        it expands to illicit or criminal enterprises that utilize
+and is the most frequently-used intra-habitat link.          the mesh, such as selling black/snuff/porn XPs, ille-
+   What these lags, bottlenecks, and prioritizations         gal software, pirated media, or even egos. The most
+mean is that some news and data takes a particularly         infamous threats—thanks both to the Fall and to
+long-time to trickle from one local mesh network to          the continuous sensationalism applied by media and
+another, passing slowly from habitat to habitat. This        stern authorities—are, of course, malware and hack-
+means that there are always gradients of information         ers. Given the capabilities of modern hackers and the
+available to different local mesh networks, typically        vulnerability of many habitats—where damage to life
+depending on proximity and the importance of the             support systems could kill thousands—the threat may
+information. Some data even gets lost along the way,         not be over-exaggerated.
+never making it further than a habitat or two before
+it is lost in the noise. The only way to retrieve such       HACKERS
+information is to track it down to its source.               Whether individuals who are genuinely interested
+                                                             in exploring new technologies and seeking ways to
+DARKCASTS                                                    break them in order to make them better, hacktiv-
+“Darkcasts” are ranged communications that go out-           ists who utilize the mesh in order to undermine the
+ side of legal and approved channels. Since certain hab-     power of authorities, or “black hats” who seek to
+ itats have strict regulations on transmission content,      circumvent network security for malicious or crimi-
+ forking, egocasting, infomorphs, muse abilities, and        nal intent, hackers are a permanent fixture of the
+AGI code, underworld groups like the ID crew profit          mesh. Unauthorized network break-ins, infiltration
+ by offering illegal data transmission services. Primarily   of VPNs, muse subversion, cyberbrain hijacking, data
+ used for censored data and banned content (like illegal     theft, cyber-extortion, identity fraud, denial of service
+XPs or malware), local organized crime factions also         attacks, electronic warfare, spime hijacking, entoptic
+ often offer egocasting services complete with resleev-      vandalism—these are all common occurrences on the
+ ing and leasable morphs, allowing egos that prefer          mesh. Thanks to smart and adaptive exploit programs
+ discretion to enter or leave a habitat without drawing      and assisting muses, even a moderately skilled hacker
+ attention. Though such authorities hunt down these          can be a threat.
+ darkcast networks whenever they get a chance, many             In order to counter hacking attempts, most people,
+ habitats have a sophisticated darkcast infrastructure       devices, and networks are protected by a mix of
+ that makes use of decoys, temporary communications          access control routines, automated software intru-
+ lines, relays, and regular transmitter relocation—not       sion prevention systems, encryption, and layered
+ to mention judicious bribing and blackmailing.              firewalls, typically overseen by the user’s muse who
+                                                             plays the role of active defender. Extremely sensitive

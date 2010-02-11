@@ -1,0 +1,208 @@
+Lucidity (LUC), 122, 138, 209               Microlight, 310, 343                 Na
+Luna, 24, 91                                Micromissile, 339                    Na
+    Erato (Eratosthenes), 92                Microswarms, 328-29                  Na
+    fashion/design, 92                      Microwave agonizer, 339              Na
+    ﬁnance, 92                              Mimas (Harmonious Anarchy), 104      Na
+    Helium-3 mining, 92                     Mimic, 227                           Ne
+    Nectar (Nectaris), 92                   Mindlink, 227                        Ne
+    New Mumbai containment zone, 92         Mindstealer virus, 367               Ne
+    Shackle (Shackleton-New Varanasi), 93   Miniature radio farcaster, 315       Ne
+Lunar colonist, 131                         Minor favor, 290                     Ne
+Lunar-Lagrange Alliance, 75                 Mishipizheu, 111                     Ne
+                                            Mist, 248                            Ne
+M                                           Mnemonic augmentation, 307           Ne
+Ma’adim Vallis, 93-94                       Mobile lab, 330                      Ne
+Machine gun, 336                            Mobile ofﬁces, 242                   Ne
+Magnetic ﬁelds, 200-201                     Mobility systems, 310                Ne
+Magnetic system, 310-11                     Moderate favor, 290
+Mahogany, 109                               Modiﬁed behavior, 150
+Major favor, 290                            Modiﬁers, 115-16, 127, 192
+Maker, 327-28                                   combat, 193
+Malware, 244                                    gear, 296
+Maps, 205                                       integration, alienation, 272
+Margin of Failure (MoF), 118, 119               mesh gear, 247                   Ne
+Margin of Success (MoS), 118, 119               networking, 287                  Ne
+Markov, 109                                     psychosurgery, 231
+Mars, 24                                    Modifying hardware, 179
+    Ashoka, 94                              Modular design, 311
+    buggy, 344-45                           Monitoring, 251-52
+    Elysium, 94-95                          Monoﬁlament sword, 334
+    Noctis-Qianjiao, 95                     Mono No Aware, 319                   Ne
+    Olympus, 95-96                          Monowire garrote, 334                Ne
+    Progress (Deimos), 96                   Mood swings, moderate, 211
+    regions, 93-94                          Moonlets, 98
+    Valles-New Shanghai, 96                 Morningstar Constellation, 75-76     Ne
+Martian, 132                                Morph, 24, 50-51, 86, 121            Ne
+Martian Gate, 46                                acclimatization, 220
+Martian Rangers, 95                             acquisition, 277                 Ne
+Martian Trojans, 96                             availability, 276
+Matchmaking, morph, 277                         bios, 139-42
+Math                                            brokerage, 276-79, 331           Ne
+    boost, 301                                  character, 123                   Ne
+    wiz, 146                                    costs, 277                       Ng
+Matter transformation, 372                      fever, 220                       Ni
+Meathab, 104                                    patron provisioning, 277         Ni
+Media, 51-52                                    pods, 142-43                     Ni
+Medical care, 208                               psi and, 220                     Ni
+Medical sensors, 300                            rental, 278                      No
+Medichines, 308                                 rental insurance, 278            No
+Medicine skill, 182                             starting, 136                    No
+Medusan Shield, 56, 57, 60                      stats, 121                       No
+Megalomania, 213                                switching, 152                   No
+Melder virus, 384                               synthetic, 143-45                No
+Melding, 376                                    trade-in, 277                    No
+Melee                                       Morphing disorder, 150               No
+    attack/combat, 191, 202                 Motivation, 121, 138,139, 152        No
+    weapons, 206, 334, 335                  Movement, 190-91                     No
+Memorizing, 175                                 rates, 191                       No
+Memory                                      Moxie, 122, 189                      Nu
+    editing, 232                                improved, 153                    Ny
+    hacking, 261                                increasing, 135
+Mental alterations, attitudes toward, 48        NPCs and, 386                    O
+Mental armor, 223                               starting, 135                    Ob
+Mental augmentation, 301, 306-7             MRDR, 319                            Ob
+Mental disorder, 150                        Multiple devices access, 249         Ob
+Mental healing, 215                         Multiple personalities, 301          Oc
+Mental health, 209-15                       Multiple personality disorder, 214   Oc
+Mental speed, 308                           Multiple targets, 221                Of
+Mental stress, 230-31                       Multitasking, 224, 307               Ol
+Mentons, 139                                Muscle augmentation, 305             Ol
+Mercenaries, 23, 57                         Muses, 47-48, 51-52, 264             Ol
+Mercurials, 81, 134                             Infolife and, 244, 245           Om
+Mercury habitats, 88                            roleplaying, 265                 Om
+Merging, 275-76                             Mute, moderate, 211                  O’
+Mesh, 24                                    Myst trees, 111                      On
+    abuses, 243-44                                                               Op
+    access, 50                              N
+    accounts, access privileges, 246-47     Nanobandage, 333                     Or
+    capabilities, 236                       Nanodetectors, 326-27                Or
+    gear modiﬁers, 247                      Nanodrugs, 317, 321-22               Or
+    gear quality, 247                       Nano-ecologists, 81-82               Ou
+    gear rules, 299                         Nanofabrication, 183                 Ou
+    false ID, 252                               blueprints, 284-85               Ov
+    ID, 246                                     programming test, 285            Ox
+    ID authentication, 253                      raw materials, 284               Ox
+    ID tracking, 251-52                         time, 285
+    information overload, 237-38            Nanofabricators, 327-28              P
+    inserts, basic, 46, 300                 Nanophages, 309                      Pa
+    interface, 239-41, 245-46               Nanoplague, 364
+    islands, 242-43                         Nanoscopic vision, 311
+    local, 239                              Nanoswarms, 328-29, 383
+    security, 253-54                        Nanotagging, 292                     Pa
+    technologies, 237                       Nanotat, 310                         Pa
+    trafﬁc ﬁlters, mist, 248                    ID alterations, 280              Pa
+    uses, 241-42                                scans, 279-80                    Pa
+Metacelebrities, 52                         Nanotech Hamilton cylinders, 67      Pa
+Metallic foam, 298                          Nanotechnology                       Pa
+Metallic glass, 298                             advanced, 328-29                 Pa
+Metallic hydrogen rocket (MH), 347              basic, 326-28                    Pa
+Metamaterials, 298                          Nanotoxins, 324, 325                 Pa
+Metastasizer, 384                           Nanoviruses, 384                     Pa
+Microbug, 316                               Nanoware, 308-9                      Pa
+Microgravity, 199                           Narcissism, moderate, 211            Pa
+    habitats, 68-69                         Narcoalgorithms, 322-23              Pa
+    shoes, 325                              Narrative modiﬁers, 116              Pa
+ngue, 135                          Pathogens, 324                                    sleights,
+ealing, 208, 215                   Patron provisioning, morphs, 277                  strain, 2
+mmunity, 146                       Patron, 146                                       trait, 126
+ 11, 365                           Pattern recognition, 224-25                       vulnerab
+ n skill, 182                      Pax Familae, 84                              Psi-Chi sleig
+324                                Peacekeeping, 58-59                          Psi game me
+ , 384                             Penal lease, 278                                  criticals,
+ ectaris), 92                      Penetration, 228                                  full defe
+ 8                                 Perception, 190                                   mental a
+refraction, 372                         skill, 182                                   morphs,
+ns, 109, 141                       Peripherals, 247                                  opposed
+  hism, 83                         Personal area networks, 241                       roleplayi
+ nids, 141                         Personal augmentation                             skills, sle
+ tivists, 80                            bioware, 301-306                             sleight d
+ , 141                                  cyberware, 306-8                             target aw
+                                        standard, 300                                targeting
+ , 108                             Personal computers, 247                           using, 22
+ nen, 108                          Personal information, 239                    Psi-gamma s
+ gany, 108-9                       Personal vehicles, 345                       Psike-out, 32
+  moons, 109                       Personality editing, 232                     Psi-opener, 3
+ , 109                             Persuasion skill, 183                        Psychic stab,
+ns, 109                            Petals, 322                                  Psychosoma
+23-24                              Petriﬁer, 384                                Psychosurge
+ng, 286-87                         Pets, 330                                         mechani
+ﬁers, 287                          Phelan’s Recourse, 105                            modiﬁer
+357                                Pheromones, enhanced, 304                         neural p
+ation and, 287                     Phlo, 319                                         procedu
+182                                Phoebe, 107                                       process,
+287                                Physical arrivals, 282-83                         roleplayi
+m, 305                             Physical augmentations, 302-6, 307-8              skill, 184
+                                   Physical entertainment, 54                   Psychotherap
+ge, 150                            Physical health, 206-8                            care, 215
+ng, 273, 274-75                    Physical modiﬁcations, 310-11                Psychotortur
+ 362                               Physical tracking, 251                       Public accou
+h, 324                             Piercings, 310                               Public inform
+384                                Pilot skill, 183                             Public key cr
+                                   Pirates, 84                                  Public reslee
+munications, 314                   Pistols, 335                                 Punishment,
+  eiver, 314                       Planetary Consortium, 55, 76, 85             Puppet sock
+mbai containment zone, 93               hypercorps and, 55-56                   Puppeteering
+ bec, 106                               labor pool, 65-66                       Pyrokinesis,
+ s Compact, 103                         punishment, 60
+ tel, 83                           Planetary settlement, 66-67                  Q
+ e, 332                            Plasmaburst, 341                             Qing Long (A
+  2                                Plasma riﬂe, 339                             Qualia, 225
+  , 83                             Plasma rocket (P), 347                       Quantum
+al stack, 151                      Plasmaburst, 341                                 codebrea
+anjiao, 95                         Plastic ammo, 338                                compute
+  communication, 181               Pleasure pods, 142                               cryptogr
+ onlet, 104                        Pneumatic limbs, 311                             entangle
+   41-42, 68                       Pods, 142-43, 271                                farcaster
+ng, 21-22                          Poison gland, 305                                key, 253
+                                   Political blocs, 74-76                       Quick action
+  323                              Political experimentation, 58
+  (Metis), 97                      Politics                                     R
+s, 142                                  inner system, 55-57                     Radar (radio
+ 4                                      outer system, 57-58                         jamming
+ r, 324                            Portable plane, 343                          Radiation, 20
+ 07                                Portable quantum entangled communic., 315        sense, 3
+                                   Portable sensor, 325                         Radio
+                                   Portal denial system, 292                        booster,
+ 08 Objects, 202-3                 Post-apocalyptic theme, 19                       jamming
+  151                              Positioning, 205                                 ranges, 2
+  compulsive disorder (OCD), 214   Post traumatic stress disorder (PTSD), 214       transceiv
+ 0                                 Power, 299                                   Railguns, 33
+ hs, 141                           Pragmatists, 359                             Range, 203
+ armor, 313                        Predators, 362                               Ranged atta
+s, 140                             Predictive boost, 225                        Ranged com
+ 95-96                             Prehensile feet, 305                         Ranged wea
+Mons, 94                           Prehensile tail, 305                         Rapid healer
+areness, 227                       Preservationists, 82                         Reach, 204
+72                                 Priority call, 357                           Reactive am
+ inders, 281-82                    Prisoner mask, 316                           Reactive arm
+n, 151                             Privacy, 49-50, 58-59, 238                   Reactive coa
+tests, 119, 127, 192               Privacy mode, 252                            Real world n
+22                                 Private habitats, 69                         Real-time se
+ 09                                Private information, 290                     Reaper, 144
+umption, 317                       Profession skill, 183                        Re-authentic
+ash, 319                           Programming                                  Reboot, 257
+ 80                                     skill, 183                              Reclaimers, 8
+ determination, 192                     test, 285                               Recreational
+ grenade, 341                      Progress (Deimos), 96                        Reﬂex boost
+ serve, 308                        Project Ozma, 85, 96, 379-80                 Refractive gl
+A, 324                             Prometheans, 85, 378, 381                    Refractory m
+                                   Prometheus (Marseilles), 105                 Regeneration
+                                   Prosperity Group, 73                         Re-instantiat
+                                   Proteans, 329                                Relationship
+143                                Protocol skill, 183                          Relics, Earth,
+hold, high, 224                    Proxies, 85, 357-59                          Religious gro
+ nce, 146, 150                     Proximity, 338                               Reloading, 1
+kill, 182                          Psi, 126, 147, 218-19, 220-29                Remade, 141
+ ), 104                                 Assault skill, 184                      Rememberin
+Gates, 24, 46, 377-79                   attack, 191                             Remote snifﬁ
+derate, 211                             chameleon, 147                          Rental insura
+92                                      damage, 207                             Repair, 179,
+major, 211                              defense, 147                            Repair spray,
+ 42-43                                  drawbacks, 220-21                       Reputation,
+eam bolter, 338-39                      drugs, 325                                  burning,
+ p, 290                                 exsurgent, 371                              gain/loss
+ 253                                    exsurgent synthmorphs, 371                  identity
+ert, 257                                improving, 153                              improvin
+ i, 221                                 range, 221                                  increasin
+ 53                                     shield, 228                                 levels, 28
+r, 73                                   skills, 172-73                              limits, 28

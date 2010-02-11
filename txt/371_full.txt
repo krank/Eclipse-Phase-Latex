@@ -1,0 +1,61 @@
+In others, the exsurgent approach is more methodi-          hysteria or calm acceptance. Most importantly,
+cal, hatching long-term plots to infiltrate positions of    however, their personality should begin to change
+power and authority, setting the stage for acts of mass     as the virus continues to transform them. Players
+destruction, and so on. In other words, they may be         should be encouraged to take on new demeanors
+handled both as hostile monsters or as nefarious long-      and motivations, refl ecting the alien component
+term opponents that are subverting transhumanity            of their changing personality, with some guidance
+from within or hatching complicated plots that could        from the gamemaster. This presents some intrigu-
+mean devastation on a planetary scale.                      ing roleplaying opportunities that the players will
+   If the gamemaster wishes, exsurgents may also            hopefully embrace. If the gamemaster feels that the
+pursue other goals, tangential to the ones above.           player is not adequately representing the changing
+These may range from accumulating knowledge and             mindset, however, the transformation can simply
+expertise on how transhumanity functions as a spe-          be accelerated and the character converted into a
+cies to forcibly uploading mass numbers of minds to         gamemaster-operated NPC.
+more esoteric goals such as manufacturing a halfnium
+bomb or converting the solar system’s mass to compu-        EXSURGENTS
+tronium. The Exsurgent virus is potent and intelligent,     A few examples of exsurgents created from tran-
+and while its methods and goals may sometimes be            shumans transformed by the xenomorph strain of
+opaque to transhumanity, it acts with direction and         the virus are noted below. As always, gamemasters
+purpose. There may also be occasions, however, likely       are encouraged to develop their own, using these as
+due to the mutating and morphing aspect of the virus        guidelines. Unless otherwise noted, exsurgents use the
+and the way in which it transforms transhuman               stats and skills of the transformed character. Each ex-
+minds, perhaps not always in the manner intended,           surgent detailed below first lists the aptitude modifiers
+where the exsurgent goals become strange or simply          applied to transformed characters, then gives example
+horrific, such as running experiments on transhuman         aptitude/skill ratings for NPC exsurgents.
+responses to extreme conditions or converting an              Note that simply encountering transformed exsur-
+entire colony to cannibalism.                               gents is stressful to the minds of many transhumans.
+                                                            At the gamemaster’s discretion, such encounters may
+EXSURGENT-INFECTED PCS                                      inflict 1d10 + 3 mental stress (p. 215).
+It is possible for player characters infected with some
+strains of the Exsurgent virus to continue on under         CREEPERS (SYNTHMORPHS)
+their own volition, even as the virus slowly consumes       Perhaps the most disturbing exsurgent variant, so-
+them. This process is, quite naturally, horrifying in the   called creepers are cloud-like amorphous swarms of
+extreme, though there is little they can do about it.       small, black bubbles that are strangely fuzzily defined,
+Despite the best efforts of transhuman science, there       as if surrounded by some sort of visual refraction effect.
+is very little that can be done to save an infected         These clouds are theorized to in fact be autonomous
+person—the virus is simply too potent and adaptive.         femtobot swarms—similar to nanobots, but affecting
+As a result, standard Firewall policy is to terminate       matter on an even smaller scale, at the level of an atomic
+the infected with extreme prejudice. Most Firewall          nucleus. These black bubbles are capable of coalescing
+operatives are going to be aware of this, a fact which      into physical shapes in various states and can penetrate
+pushes some of those who become infected to keep            just about any material or substance in a matter of
+their status a secret from their comrades.                  Action Turns. They may even penetrate morphs, access-
+   Both the haunting and xenomorph strains usually          ing and interfacing with neural and electronic systems
+transform a subject over time, meaning that the             directly. For rules purposes, treat creepers the same as a
+character may initially not be aware of the infection.      self-replicating nanoswarm (p. 383).
+This is a prime opportunity for the gamemaster to            COG       COO       INT       REF     SAV      SOM       WIL     MOX
+mess with the character ruthlessly, starting slowly          +5 (20)   — (15)   +5 (20)   + (30)
+                                                                                           10      — (15)   — (15)   + (30)
+                                                                                                                      10       —
+with little haunting effects and building up as the           INIT     SPD       LUC       TT       IR      DUR       WT      DR
+infection progresses. The character should slowly             100       2         —        —        —       100       20      200
+become aware that they are under the influence of           Mobility System: Walker/Microlight (4/16) (may
+something—something intelligent. Characters aware             create other mobility systems with different rates)
+of the Exsurgent virus and its effects will likely pick     Skills: Fray 40, Free Fall 50, Intimidation 60, Percep-
+up on this sooner, but the virus may prevent them             tion 50, Unarmed Combat (Grapple) 50 (60)
+from doing anything about it. In effect, the character      Notes: 360-degree Vision, Chemical Sniffer, Electrical
+becomes a prisoner within their own body, a body              Sense, Enhanced Hearing, Enhanced Vision, Frac-
+they now share with a cold and malevolent pres-               tal Digits, Nanoscopic Vision, Radar, Radiation
+ence that is methodically taking them over. Such              Sense, Swarm Composition (but may make SOM
+characters may respond in a number of ways de-                Tests, and plasma weapons do only 1d10 damage),
+pending on their personality, ranging from despair,           T-ray Emitter
+withdrawal, and suicidal tendencies to complete

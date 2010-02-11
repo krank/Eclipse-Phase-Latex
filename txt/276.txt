@@ -1,0 +1,120 @@
+ • Knowledge skills have a maximum of 80. The
+   fork may have no more than 5 Knowledge skills.
+ • Moxie is reduced to 0.
+ • The Psi trait is removed. At the gamemaster’s dis-
+   cretion, other traits may no longer apply as well.
+
+  Additional changes may apply as determined by the
+neural pruning test. Delta forks take 1 Action Turn to
+generate.
+
+GAMMA FORKS
+More commonly known as vapors, gamma forks are
+massively incomplete, corrupted, or heavily damaged
+copies of an ego. Vapors are not intentionally cre-
+ated and are instead the results of botched uploads,
+scrambled backups, incomplete or jammed farcasts,
+or infomorphs/forks that were somehow damaged or
+went insane. It is extremely rare for anyone to pur-
+posely create a vapor for anything other than research
+use, although they can crop up in some interesting
+places. For example, poorly made skill software occa-
+sionally includes enough of the personality traits and
+memories of the person the skill was taken from that
+it can behave in a vapor-like fashion when used.
+   Because vapors are anomalies rather than purpose-
+ful creations, the characteristics of individual gamma
+forks are left to the gamemaster. They should have
+some or all of the following: reduced skills, reduced
+aptitudes, incomplete or incoherent memories, nega-
+tive mental traits, and persistent mental stress or trau-
+mas, including derangements and/or disorders.
+
+NEURAL PRUNING
+Most forking is done on the fly—something comes up
+that the character needs a fork for, so they whip one
+up on the spot. Neural pruning is the art of taking a
+backup/infomorph and trimming it down to size so
+that it functions as either a beta or delta fork.
+   Beta forks are created by taking a virtual mind state
+that is intentionally inhibited and filtering a copy of
+the ego through it. Like a topiary shrub, the portions
+of the character’s neural network that exceed the ca-
+pacities of the intended fork are trimmed away. In ad-
+dition to the changes noted under Beta Forks (p. 273),
+characters may voluntarily choose to delete/decrease
+skills and remove memories.
+   Delta forks are created by excising the ego’s surface
+personality traits and applying them to an AI template.
+In this case the ego’s memories are usually excluded
+entirely—it is easier to start with a blank delta fork
+and feed them the specific memories/knowledge they
+need. As with beta forks, characters making delta
+forks may voluntarily choose to delete/decrease skills
+and keep specific memories.
+   Transhumanity’s grasp of neuroscience extends to
+scanning and copying a mind, but the most intricate
+workings of memory are still imperfectly understood.
+Making precise edits to individual portions of a neural
+network (to alter recollections, skills, and the like) is
+still a black art. The difficulty with neural pruning is
+that taking a weed whacker to the tree of memory
+isn’t an exact science. Specific memories may not be
+excised or chosen—at best, memories may be handled
+in broad clumps, typically grouped by time periods no
+finer than 6 months. For simplicity, most beta forks are
+created by removing all memories older than 1 year.
+   When creating a beta or delta fork, the character
+must make a Psychosurgery Test (other parties may
+make this test on the character’s behalf, representing
+that the character is giving them access to prune the
+fork appropriately). If the character succeeds, the fork
+is created as desired. If the test fails, the gamemaster
+chooses one of the following penalties for every 10
+full points of MoF. Some of these penalties may be
+combined for a cumulative effect:
+
+  • 1 additional skill decreased by –20
+  • Fork acquires a Negative mental trait worth 10 CP
+  • Fork suffers 1d10 ÷ 2 (round up) mental stress
+  • Extra memory loss (gamemaster discretion; beta
+    forks only)
+  • 1 Positive trait lost
+
+NEURAL PRUNING WITH LONG-TERM PSYCHOSURGERY
+Rather than generating forks on the fly, some char-
+acters prefer to have carefully-pruned forks on hand,
+stored as inert files that can be called up, copied, and
+run as needed. These forks are crafted with long-term
+psychosurgery, meaning that they suffer fewer draw-
+backs and the memories may be more finely tuned.
+  Long-term neural pruning requires a Psychosurgery
+Test as above, but with a +30 modifier. Delta forks take
+1 week to prune this way, beta forks take 1 month. Ad-
+ditional modifications may be made to the fork using
+any of the normal rules for psychosurgery (p. 229).
+   It is worth noting that some people prefer to use
+forks of themselves or loved ones rather than a muse.
+Likewise, some wealthy hyperelites are known to keep
+copies of their younger backups on hand, sometimes
+for decades, and re-instance these when their prime
+ego has enough skill and experience to completely
+outclass its younger selves. Though technically these
+are alpha forks, their lag behind the original ego is
+comparable in degree to that of a beta fork. This is
+rumored to be the method used by the Pax Familiae
+in instancing her army of cloned selves.
+
+HANDLING FORKS
+Gamemasters are encouraged to allow players to ro-
+leplay their character’s own forks. It is important to
+note, however, that even with alpha forks, once the
+fork and originating ego diverge, they develop onward
+as separate people. The events that shape the primary
+ego’s personality, character, and knowledge will not
+happen—or even if they do, probably not in the same
+way—to the fork, and vice versa. The exact dividing
+line between an ego and a fork is a central philosophi-
+cal and legal debate among many transhumans.
+   This means that gamemaster should not be afraid
+to pull a fork out of a player character’s hands and

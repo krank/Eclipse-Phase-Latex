@@ -1,0 +1,146 @@
+ SUMMARY                                          ACTION TUR
+dled as an Opposed Test.                          Step 1: Roll Initiative (
+attack skill +/– modiﬁers.                        Step 2: Begin First Act
+ er rolls Fray or melee skill                     Step 3: Declare and Re
+                                                  Step 4: Rotate and Rep
+ der rolls (Fray skill ÷ 2,
+  /– modiﬁers.                                    SCATTER DIA
+ eeds and rolls higher than
+ he attack hits.                                     204
+   armor-defeating (armor                                              1 or 2
+ ).
+                                                              10
+ ed by the attack’s Armor
+ lue (AP).
+damage is reduced by the                                  9
+ ed Armor rating (unless
+ mor-defeating).
+ exceeds the target’s                                          8
+ old, a wound is also scored.                                          6 or 7
+   exceeds the Wound
+multiple factors, multiple
+ﬂicted.)
+
+
+           WEAPON RANGES
+              SHORT           MEDIUM       LONG       EXTREME
+              RANGE          RANGE (–10) RANGE (–20) RANGE (–30)
+
+                0–10            11–25               26–40             41–60
+                0–10            11–30               31–50             51–70
+                0–10            11–35               36–60             61–80
+                0–30            31–80              81–125            126–230
+               0–150           151–250            251–500            501–900
+               0–180           181–400           401–1,100         1,100–2,300
+               0–100           101–400           401–1,000         1,001–2,000
+
+ ease the effective range in each category by +50%
+
+ser            0–30              31–80             81–125           126–230
+               0–30             31–100            101–150           151–250
+                0–5              6–15              16–30             31–50
+               0–30             31–100            101–150           151–300
+               0–20             21–50             51–100            101–300
+               0–10             11–25              26–40             41–60
+
+                5–70            71–180           181–600          601–2,000
+               5–150           151–300          301–1,000        1,001–3,000
+ssile          5–300          301–1,000         1001–3,000       3001–10,000
+
+                0–5               6–15             16–30              31–50
+                0–5               6–15             16–30              31–50
+               0–10              11–30             31–50              51–70
+               0–10              11–40             41–70             71–100
+               0–5               6–15              16–30             31–50
+               0–5               6–15              16–30             31–50
+               0–5               6–15              16–30             31–50
+
+            To SOM ÷ 5        To SOM ÷ 2          To SOM           To SOM x 2
+            To SOM ÷ 2          To SOM          To SOM x 2         To SOM x 3
+            To SOM ÷ 5        To SOM ÷ 2          To SOM           To SOM x 3
+
+
+                                                                       HEALIN
+R SITUATION
+hout basic biomods
+h basic biomods
+ g nanobandage
+h medichines
+ s (bad food, not enough rest/heavy activity, poor shelter and/or sanitation)
+ ns (insufﬁcient food, no rest/strenuous activity, little or no shelter and/or sanita
+                              115          MODIFIER SEVERITY
+                                         SEVERITY               MODIFIER
+ + REF) x 2) + 1d100
+                                         Minor                     +/– 10
+Phase (Speed 1)                          Moderate                  +/– 20
+ve Actions                               Major                     +/– 30
+t (Speed 2-4)
+                                            TEST DIFFICULTY
+GRAM                         115
+                                       DIFFICULTY LEVEL MODIFIER
+                                       Effortless                      +30
+                                       Simple                          +20
+                                       Easy                            +10
+                                       Average                         +0
+                                       Difﬁcult                        –10
+                                       Challenging                     –20
+                                       Hard                            –30
+    4
+                      COMPLEMENTARY SKILL BONUS
+            123
+                        SKILL RATING                     MODIFIER
+                              01–30                          +10
+                              31–60                          +20
+                               61+                           +30
+
+
+                       COMBAT MODIFIERS
+3
+    GENERAL                                                 MODIFIER
+    Character using off-hand                                     –20
+    Character wounded/traumatized                       –10 per wound/trauma
+    Character has superior position                              +20
+    Touch-only attack                                            +20
+    Called shot                                                  –10
+    Character wielding two-handed weapon with one hand –20
+    Small target (child-sized)                                   –10
+    Very small target (mouse or insect)                          –30
+    Large target (car sized)                                     +10
+    Very large target (side of a barn)                           +30
+    Visibility impaired (minor: glare, light smoke, dim light)   –10
+    Visibility impaired (major: heavy smoke, dark)               –20
+    Blind attack                                                 –30
+    MELEE COMBAT                                               MODIFIER
+    Character has reach advantage                                +10
+    Character charging or receiving a charge                     +20
+    RANGED COMBAT (ATTACKER)                                   MODIFIER
+    Attacker using smartlink or laser sight                      +10
+    Attacker behind cover                                        –10
+    Attacker running                                             –20
+    Attacker in melee combat                                     –30
+    Attacker has reach advantage                                 +10
+    Defender has minor cover                                     –10
+    Defender has moderate cover                                  –20
+    Defender has major cover                                     –30
+    Defender prone and far (10+ meters)                          –10
+    Defender hidden                                              –60
+    Aimed shot (quick)                                           +10
+    Aimed shot (complex)                                         +30
+    Sweeping ﬁre with beam weapon                        +10 on second shot
+    Multiple targets in same Action Phase             –20 per additional target
+    Indirect ﬁre                                                 –30
+    Point-blank range (2 meters or less)                         +10
+    Short range                                                   —
+    Medium range                                                 –10
+    Long range                                                   –20
+    Extreme range                                                –30
+
+
+
+        DAMAGE HEALING RATE                   WOUND HEALING RATE
+               1d10 (5) per day                         1 per week
+            1d10 (5) per 12 hours                       1 per 3 days
+             1d10 (5) per 2 hours                        1 per day
+             1d10 (5) per 1 hour                      1 per 12 hours
+              double timeframe                       double timeframe
+               triple timeframe                      no wound healing

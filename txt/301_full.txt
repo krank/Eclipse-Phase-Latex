@@ -1,0 +1,33 @@
+                                                                   characters are usually made part of the personal area
+ MESHED GEAR                                                       network and slaved to the character’s mesh inserts/
+Almost all technology in Eclipse Phase is designed                 ecto. For more info on meshed devices, see the Mesh
+to be operated via radio signals from the user’s basic             chapter, p. 234.
+implant, although models usable by characters with-                  Many devices come equipped with AIs, who are
+out basic implants are also available. In addition all             equipped with skillsofts that enable them to oper-
+devices contain a nearly microscopic computer and                  ate the device on their own, as according to voiced
+radio link (known as a “voice”) that allows the user to            instructions or commands issued through the net. AIs
+easily locate the object and that reports on the condi-            are described on p. 264 and p. 331.
+tion of the object or device, how to properly use and
+care for it, as well as telling the user when it needs             RADIO AND SENSOR RANGES
+to be repaired and how. Most are discrete and highly               In Eclipse Phase, almost all devices are equipped with
+useful, but cheaply made goods sometimes have overly               small radios so that they may be meshed. Likewise,
+annoying voices.                                                   many pieces of gear are equipped with sensors such as
+   This means that almost all devices can be accessed              cameras, microphones, or other detectors. The Radio
+via the mesh or directly if within radio range. This               and Sensor Ranges table notes what range these de-
+makes them vulnerable to hacking and intrusion at-                 vices operate at.
+tempts (p. 254) as well as radio jamming (p. 262).
+Many devices are, however, publicly accessible (see                POWER
+Spimes, p. 238). Meshed gear may also be tracked                   All of the powered devices in Eclipse Phase require
+through the mesh (p. 251). For privacy and security,               electricity to function. With rare exceptions, most of
+these devices are often slaved to other systems (see               them rely on either solar cells or powerful batteries.
+Slaving Devices, p. 248); devices worn/carried by                  These batteries are high-density, room-temperature
+
+
+                                 RADIO AND SENSOR RANGES
+SIZE CATEGORY           URBAN RANGE                   OPEN RANGE             EXAMPLES
+Nano                       20 meters                       100 meters        Smart Dust, Nanobot/Microbot Swarms
+Micro                      50 meters                       500 meters        Microbugs
+Mini                      1 kilometer                     20 kilometers      Mesh Inserts
+Small                     5 kilometers                    50 kilometers      Ectos, Miniature Radio Farcasters, Portable Sensors
+Medium                   25 kilometers                250 kilometers         Radio Boosters, Vehicle Sensors
+Large                    500 kilometers              5,000 kilometers

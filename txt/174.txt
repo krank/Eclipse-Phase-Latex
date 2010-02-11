@@ -1,0 +1,123 @@
+LLS■SKILLS■SKILLS■SKILLS■SKILLS■S
+
+
+
+S
+ In a setting where physical looks and capabilities are
+ easily changed at the push of a button, who you are and
+ what you know is more important than any inborn abil-
+ ity. Skills represent the knowledge your character has,
+ the accumulated set of experience, education, and in-
+ herent know-how possessed by each and every sentient
+ transhuman in Eclipse Phase. They are what allow you
+ to sneak into a hypercorp station, disable the security
+ systems, hack the mesh hub, and then impersonate secu-
+ rity personnel to make your escape. Your skills represent
+ the one thing you have no matter what you look like or
+ where you find yourself. When your characters explore
+ what they can do, their skills, or lack thereof, often de-
+ termine the margin between success and failure.
+    Having a well-rounded set of skills is vital to survival
+ and success in Eclipse Phase. The skills below encompass
+ a wide selection of talents, enough so that each character
+ can be unique in their abilities and knowledge.
+
+
+
+ SKILLS OVERVIEW
+ Skills are divided into aptitudes and learned skills (see
+ Character Skills, p. 123). Most (but not all) learned
+ skills are built on and linked to an aptitude. If a
+ character lacks the specific skill needed in a situation,
+ they may default to the linked aptitude. You may also
+ choose to specialize in certain skills (see Specializa-
+ tions, p. 123), reflecting an enhanced knowledge of a
+ particular aspect of a certain skill.
+
+ CORE SKILLS: APTITUDES
+ Aptitudes represent inherent skills and abilities acquired
+ at birth or during the course of growing up. Aptitudes
+ are sometimes used for tests, but their primary use is
+ determining the starting point at which learned skills
+ are developed. Aptitudes determine the starting value
+ of their linked skills. For example, a character with
+ Somatics aptitude 10 who wishes to purchase points
+ in the Freerunning skill (which is linked to Somatics)
+ would start with a Freerunning rank of 10 and then
+ buy additionally points in that skill.
+   Aptitudes are also used when a character doesn’t
+ posses knowledge of a needed skill (see Defaulting, p.
+ 116). Aptitudes represent the basic knowledge that a
+ character has acquired regarding rudimentary use of that
+ skill. They may not have ever received any formal train-
+ ing with the skill, but they can still attempt to use it.
+   Aptitudes range in value from 1 to 30, with 10 being
+ the unaugmented human average and 15 representing
+ the average of most genetically modified transhumans.
+ Since aptitudes represent untrained ability, they are
+ capped at a maximum rating of 30.
+   There are seven different aptitudes that all players
+ possess. These aptitudes are purchased during charac-
+ ter creation (p. 128), but depending on the morph the
+LLS■SKILLS■SKILLS■SKILLS■SKILLS■S
+                         SKILLS■
+                         SKILLS■S
+
+                                                                 6
+
+
+ character is currently inhabiting, they may find their ap-
+ titudes capped by the quality of the morph (see p. 124).
+
+ LEARNED SKILLS
+ A player’s learned skills are the most important part of
+ their character, representing the acquired knowledge
+ they carry with them from morph to morph, knowl-
+ edge that plays a fundamental role in helping define
+ the person’s ego. Learned skills encompass nearly any
+ skill that you might need to use in Eclipse Phase, and
+ they range in value from 0 to 99.
+   All learned skills have a linked aptitude that is
+ used to calculate their initial value, and which is
+ also defaulted to if the player does not have that
+ particular skill.
+
+ SKILL CATEGORIES
+ Each learned skill is classified as either an Active skill
+ or a Knowledge skill. Active skills represent skills
+ that typically require physical actions and are used in
+ action scenes within game play. Knowledge skills are
+ more knowledge-based and intellectual, representing
+ ideas and facts. Knowledge skills may play a less dra-
+ matic role in certain action-oriented game play mo-
+ ments, but they flesh out the character’s background
+ and interests and are integral to roleplaying interac-
+ tions. Active and Knowledge skills are purchased
+ separately during character creation.
+   Active skills are further divided into Combat,
+ Mental, Physical, Psi, Social, Technical, and Vehicle
+ skills. Certain traits and abilities may apply to specific
+ categories.
+
+ FIELD SKILLS
+ Some learned skills are field skills, meaning that when
+ this skill is chosen a particular field of emphasis must
+ also be selected. For example, the skill of Academics
+ requires the character to specify a specific academic
+ discipline in which they are knowledgeable, such as
+ Biology, Chemistry, or Xenosociology. Field skills are
+ written as “[skill]: [field];” for example: “Art: Paint-
+ ing.” Field skills can be taken multiple times, choosing
+ a different area of emphasis each time, reflecting skills
+ in different fields; that is to say, each field is a separate
+ skill. Several suggested fields are listed for each field
+ skill, but gamemasters and players may also cooperate
+ to create others that fit their games.
+    Field skills may also have specializations; for exam-
+ ple, Professional: Accounting (Money Laundering).
+
+ PSI SKILLS
+ Psi refers to the ability to perceive and manipulate
+ biological minds via psi waves and/or other inexpli-
+ cable phenomena. Due to the uniqueness of this ability,
+ characters that wish to wield psi must acquire the Psi

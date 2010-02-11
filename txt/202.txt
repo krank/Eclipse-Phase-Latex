@@ -1,0 +1,118 @@
+an intervening object. Resolve the effects immediately,
+in the user’s Action Phase.
+   Signal: The munition is primed for detonation upon
+receiving a command signal via wireless link. The
+device simply lays in wait until it receives the proper
+signal (which must include the cryptographic key
+assigned when the grenade was primed), detonating
+immediately when it does.
+   Timer: The device has a built-in timer allowing
+the user to adjust exactly when it detonates. This
+can be anywhere from 1 second to days, months, or
+even years later, effectively using the device like a
+bomb, but also increasing the likelihood it will be
+discovered and neutralized. The minimum detona-
+tion period—1 second—means that the munition will
+detonate on the user’s (current) Initiative Score in the
+next Action Phase. A 2-second delay would last two
+Action Phases, a 3-second delay three Action phases,
+and so on.
+
+THROWING BACK GRENADES
+It is possible that a character may be able to reach
+a grenade before it detonates and throw it back (or
+away in a safe direction). The character must be
+within movement range of the grenade’s location, and
+must take a Complex Action to make a REF + COO +
+COO Test to catch the rolling, sliding grenade. If they
+succeed, they may throw the grenade off in a direc-
+tion of their choice with the same action (treat as a
+standard throwing attack).
+   If the character fails the test, however, they may find
+themselves at ground zero when it detonates.
+
+JUMPING ON
+Given the possibility of resleeving, a character may
+decide to take one for the team and throw themselves
+on a grenade, sacrificing themselves in order to protect
+others. The character must be within movement range
+of the grenade’s location, and must take a Complex
+Action to make a REF + COO + WIL Test to fall on
+the grenade and cover it with their morph. This means
+the character suffers an extra 1d10 damage when the
+grenade detonates. On the positive side, the grenade’s
+damage is reduced by the sacrificing character’s armor
++ 10 when its damage effects are applied to others
+within the blast radius.
+  If the gamemaster feels it appropriate, a WIL x 3
+Test might be called for in order for a character to
+sacrifice themselves in this manner.
+
+HOSTILE ENVIRONMENTS
+  The solar system might be friendly to life on a grand
+scale, but if you’re stranded in the gravity well of Jupi-
+ter during a magnetic storm, trying to breathe without
+a respirator on Mars, or swimming in hard vacuum
+without a space suit, it doesn’t seem so friendly. This
+section describes a few of the hostile environments
+that characters in Eclipse Phase might face.
+ATMOSPHERIC CONTAMINATION
+Habitats sometimes fall ill. The effects of a habitat
+ suffering from ecological imbalance or out-of-control
+pathogens can range from mildly allergenic habitat
+atmospheres to rampaging environmental sepsis.
+Characters without breathing or filtration gear in a
+ contaminated environment should suffer penalties
+to physical and possibly social skills, ranging from
+–10 (mild contamination) to –30 (severely septic at-
+mosphere). Depending on the contamination, other
+ effects may apply, as the gamemaster sees fit.
+
+EXTREME HEAT AND COLD
+Planetary environments can range from the extremely
+hot (Venus, Mercury’s day side) to the extremely frigid
+(Neptune, Titan, Uranus). Both are likely to kill an un-
+protected and unmodified biomorph within minutes, if
+not seconds. Synthmorphs and vehicles fare better, es-
+pecially in the cold, but even they are likely to quickly
+succumb to the blazing furnaces of the inner planets
+without strong heat shields and cooling systems.
+
+EXTREME PRESSURE
+  Similarly, the atmospheric pressures of Jupiter,
+Saturn, and Venus quickly become crushingly deadly
+anywhere beyond the upper levels. Only synthmorphs
+and vehicles with special pressure adaptations can
+hope to survive such depths.
+
+GRAVITY TRANSITION ZONES
+  The widespread use of artificial gravity in space
+habitats means that characters will often encounter
+places where the direction of down suddenly changes.
+In most rotating habitats, the standard design in-
+cludes an axial zone where spacecraft can dock in
+microgravity and a carefully designed and marked
+transition zone (usually an elevator) where people and
+cargo coming and going from the axial spaceport can
+orient to local “down” and be standing in the right
+place when gravity takes effect. Gravity transitions in
+rotating habitats are almost always gradual but can
+be very dangerous if a character encounters them in
+the wrong place or time.
+  A character cast adrift in the microgravity zone at
+the axis of a rotating space habitat will slowly drift
+outward until they begin to encounter gravity, at
+which point they will fall. How long this takes varies
+on the size of the habitat. A good rule of thumb is that
+for each kilometer of diameter possessed by the habi-
+tat, the character has 30 seconds before they begin to
+fall. If the character was given a good push out from
+the axis when set adrift, this time should be halved,
+quartered, or more at the gamemaster’s discretion.
+
+MAGNETIC FIELDS
+Magnetism isn’t a direct problem for most characters;
+transhumans need to worry more about the radiation
+generated by a powerful magnetosphere. For un-
+shielded electronic devices and similarly unshielded
+transhumans sporting titanium, however, the effects

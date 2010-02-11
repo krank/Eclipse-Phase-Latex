@@ -1,0 +1,40 @@
+GUARDIANS                                                  gamemasters to use for building scenarios. Perhaps
+Guardian Factors serve as bodyguards for ambassadors       evidence is uncovered of Iktomi settlements in other
+or other Factors whenever they leave a Factor ship.        star systems, and the characters are sent to investigate
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX      or a relic is unearthed that suggests the Iktomi fell
+  20     20      15    20     10     25     15     —       prey to some danger that now threaten transhumanity.
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR
+
+                                                           THE PANDORA GATES
+  70     1      —      —      —      50    10     75
+Movement Rate: 4/20
+Skills: Climbing 40, Exotic Ranged Attack: Factor          The five known Pandora Gates (see Opening Pandora’s
+  Dust 65, Fray 50, Free Fall 40, Freerunning 40, Infil-   Gate, p. 46) all look and operate in a similar fashion,
+  tration 40, Intimidation 50, Kinesics 20, Perception     though they vary wildly in terms of size, shape, and
+  50, Profession: Security Procedures 50, Unarmed          available destinations. The gates are built from some
+  Combat (Tentacles) 50 (60)                               sort of stable exotic matter whose full atomic struc-
+Notes: Chameleon Skin, Eelware, Electrical Sense,          ture scientists haven’t come close to cracking. To touch
+  Grip Pads, Infrared Sensing, Magnetoception,             and sight, however, the gates appear to be constructed
+  Poison Gland (Factor Dust Toxin), Tentacle Whip          from a timeless-seeming polished black metal with no
+  (DV 2d10 + 1, AP –1)                                     signs of aging or wear and tear. Something about the
+                                                           gates’ physical composition makes them difficult to
+                                                           look at, as if the viewer cannot quite focus on their
+THE IKTOMI                                                 outlines. Some onlookers have reported feelings of
+Little is known about the alien race known as the          vertigo and nausea, while others have insisted that the
+Iktomi except for the ancient ruins they left behind       gate outlines move on the edges of their visions, as if
+on Echo V (p. 109). No Iktomi specimens have been          the lines are reflowing or the edges are vibrating at
+found so far, though certain architectural remains         high frequencies. Due to this disturbing feature, most
+suggest a predilection for web-like structures. This       gate sites keep the actual gate structures covered.
+has been bolstered by certain other features and relics       Structurally, the gates themselves are partially
+which suggest these aliens had a segmented, multi-         enclosed by an irregular spherical cage composed of
+legged, arthropod-type form—thus their given name,         black arms that are bent and angled in unusual ways
+after a Native American spider god.                        and sometimes interlocking. When new wormhole
+   What is clear is that the Iktomi suffered through       location is programmed into the gate, these arms
+some sort of cataclysmic event that wiped out their        physically change shape, move, and reflow around
+civilization. The nature of this event has yet to be de-   the spherical gate area (suggesting they are made of
+termined, but it raises concerns for many researchers.     some sort of programmable matter). The openings
+Having suffered through its own near-apocalypse, it        between arms are sometimes only large enough for
+is not comforting for transhumanity to find evidence       a transhuman to enter, while others are large enough
+that other alien species did not.                          to allow a freight train of supplies to pass through.
+   Though the Iktomi are likely long extinct, the rem-     In many cases, large vehicles or equipment must be
+nants of their civilizations presents a plot hook for      dismantled, carried through, and reassembled on the

@@ -1,0 +1,111 @@
+DOWNTIME
+  PSI TYPE:   Active        ACTION:     Task (min. 4 hours)
+  RANGE:      Self          DURATION:   Sustained
+  STRAIN MOD: 0
+This sleight provides the async with the ability
+to send the mind into a fugue-state regenerative
+downtime, during which the character’s psyche is
+repaired. The async must enter the downtime for
+at least 4 hours; every 4 hours of downtime heals
+1 point of stress damage. Traumas, derangements,
+and disorders are unaffected by this sleight. For
+all sensory purposes, the async is catatonic during
+downtime, completely oblivious to the outside
+world. Only severe disturbances or physical shock
+(such as being wounded or hit by a shock weapon)
+will bring the async out of it.
+
+EMOTION CONTROL
+  PSI TYPE:   Passive       ACTION:     Automatic
+  RANGE:      Self          DURATION: Constant
+Emotion Control gives the async tight control
+over their emotional states. Unwanted emotions
+can be blocked out and others embraced. This has
+the benefit of protecting the async from emotional
+manipulation, such as the Drive Emotion sleight or
+Intimidation skill tests. The async receives a +30
+modifier when defending against such tests.
+
+ENHANCED CREATIVITY
+  PSI TYPE:   Passive       ACTION:     Automatic
+  RANGE:     Self         DURATION: Constant
+An async with Enhanced Creativity is more imagi-
+native and more inclined to think outside the box.
+Apply a +20 modifier to any tests where creativ-
+ity plays a major role. This level of ingenuity can
+sometimes seem strange and different, manifesting
+in odd or creepy ways, especially with artwork.
+
+FILTER
+  PSI TYPE:   Passive       ACTION:     Automatic
+  RANGE:       Self         DURATION: Constant
+Filter allows the async to filter out out distractions
+and eliminate negative situational modifiers from
+distraction, up to the gamemaster’s discretion.
+
+GROK
+  PSI TYPE:   Active        ACTION:     Complex
+  RANGE:      Self          DURATION:   Instant
+  STRAIN MOD: –1
+By using the Grok sleight, the async is able to
+intuitively understand how any unfamiliar object,
+vehicle, or device is used simply by looking at and
+handling it. If the character succeeds in a COG x 2
+Test, they achieve a basic ability to use the object,
+vehicle, or device, no matter how alien or bizarre.
+This sleight does not provide any understanding of
+the principles or technologies involved—the psi user
+simply grasps how to make it work. If a test is called
+for, the psi user receives a +20 modifier to use the
+device (this bonus only applies to unfamiliar devices,
+and/or tests the character is defaulting on—it does not
+apply to devices the character is familiar with).
+
+HIGH PAIN THRESHOLD
+   PSI TYPE:   Passive      ACTION:   Automatic
+   RANGE:       Self        DURATION: Constant
+This sleight allows the async to block out, ignore, or
+otherwise isolate pain. The async reduces negative
+modifiers from wounds by 10.
+
+HYPERTHYMESIA
+   PSI TYPE:   Passive      ACTION:   Automatic
+    RANGE:      Self         DURATION: Constant
+Hyperthymesia grants the async a superior auto-
+biographical memory, allowing them to remember the
+most trivial of events. A hyperthymestic async can be
+asked a random date and recall the day of the week
+it was, the events that occurred that day, what the
+weather was like, and many seemingly trivial details
+that most people would not be able to recall.
+
+INSTINCT
+   PSI TYPE:   Passive      ACTION:   Automatic
+    RANGE:      Self        DURATION: Constant
+Instinct bolsters the async’s subconscious ability to
+gauge a situation and make a snap judgment that
+is just as accurate as a careful, considered decision.
+For Task Actions that involve analysis or planning
+alone (typically Mental skill actions), the async may
+reduce the timeframe by 90% without suffering a
+modifier. For Task Actions that involve partial analy-
+sis/planning, they may reduce the timeframe by 30%
+without penalty.
+
+MULTITASKING
+   PSI TYPE:   Passive      ACTION:   Automatic
+   RANGE:     Self         DURATION: Constant
+The async can handle vast amounts of information
+without overload and can perform more than one
+mental task at once. The character receives an extra
+Complex Action each Action Phase that may only be
+used for mental or mesh actions.
+
+PATTERN RECOGNITION
+   PSI TYPE:   Passive      ACTION:   Automatic
+    RANGE:     Self         DURATION: Constant
+The character is adept at spotting patterns and corre-
+lating the non-random elements of a jumble—related
+items jump out at them. This is useful for translating
+languages, breaking codes, or find clues hidden among
+massive amounts of data. The character must have

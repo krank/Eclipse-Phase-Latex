@@ -1,0 +1,120 @@
+ROLEPLAYING FACTORS
+ When roleplaying Factors, their alien mindset
+ and lack of individualism should be kept in mind.
+“I” is a designation that does not exist in Factor
+ terminology. Factors always use the plural when
+ referring to themselves, usually referring to
+ either their colony, lattice, or entire species. It is
+ quite common for conceptual discrepancies to
+ occur between transhumans and Factors due to
+ the different sensory perceptions of each species.
+ Factors do not “see” the way most transhumans
+ do, nor do they “hear.”
+    Communication with Factors should be chal-
+ lenging for several reasons. While computer-
+ based communication has enabled both species
+ to talk to each other, there is no direct transla-
+ tion and certain concepts held by one species are
+ simply incomprehensible or untranslatable by the
+ other. Conversation should therefore be mislead-
+ ing and provide ambiguous information.
+    When describing spaceships and habitats, the
+ physiology of the Factors should be considered.
+The Factors’ malleable form and ability to extend
+ pseudopodial limbs enables them to ﬁt into most
+ places and operate transhuman devices (even
+ pilot a transhuman vehicle by “hand”). The same
+ is not true in reverse, however—most Factor
+ devices are unusable to transhumans, as they lack
+ the ability for chemical signaling.                 ■
+
+
+
+  elaborate plot to get it and are not against recruiting
+  transhumans. Also, drawing on their abilities to self-
+  modify themselves and technology developed on their
+  own or picked up at other places in the universe, they
+  can adapt to new situations very quickly.
+
+  ALIEN MINDSET
+  Factors don’t possess Lucidity stats and cannot be
+  driven to madness like transhumans.
+    Affecting Factors with psi is very difficult, as noted
+  on p. 222. As of yet, Factors have not exhibited any
+  psi abilities of their own.
+
+  FACTOR COMBAT
+  Factors usually avoid direct combat but can defend
+  themselves if they have to. They are only likely to act
+  aggressively in situations where they have surprise,
+  environmental or technological advantages, and/or
+  superior numbers. Due to their cooperativism, Fac-
+  tors are rarely encountered alone, working en masse
+  to eliminate potential threats.
+     Immunity to Kinetic Damage: Due to their gooey
+  composition and non-differentiated physiology, kinet-
+  ic weapons (firearms, railguns) are not very damaging
+  to Factors. Most such projectiles pass through their
+  gelatinous bodies, inflicting minor damage via hydro-
+  static shock. The holes left by such weapons quickly
+close in a matter of seconds. Likewise, cuts left by
+blades rapidly seal. In game terms, both such weapons
+inflict the minimum amount of damage possible.
+   Regeneration: Even if damaged, Factors regenerate
+very quickly. They heal SOM ÷ 10 (round up) damage
+every Action Turn. Wounds may not be healed this
+way, however.
+
+FACTOR COMPUTERS
+Due to using completely alien protocols and system
+designs, Factor computers are essentially impossible
+to hack. They do, however, employ some devices that
+emulate transhuman computer systems for communi-
+cation purposes, and these may be hacked as normal.
+
+FACTOR DUST TOXIN
+As noted above, Factors can deploy a type of chemical
+Factor dust that is is toxic to transhumans. Treat this
+as an area effect (cone) attack.
+Type: Bio
+Application: Inh
+Onset Time: 1 Action Turn
+Duration: 10 minutes (5 with medichines)
+Effect: Severe coughing and respiratory distress, 1d10
+  damage per Action Turn for 5 Action Turns (or on-
+  going with continuous exposure), –20 to all actions
+  for 2 hours. Medichines reduce damage by half and
+  modifier duration to 15 minutes.
+
+MELDING
+Individual Factors may merge together to form larger
+units, much like masses of Factors form colonies. In
+game terms, use the highest stat possessed by the
+melded Factors, +2 for each additional Factor up to a
+maximum of +10. Durability (and Wound Thresholds)
+are added together.
+
+FACTOR PHENOTYPES
+A few examples of the different Factor phenotypes are
+described below.
+
+AMBASSADORS
+The ambassador Factor phenotypes are the ones who
+most commonly handle direct interactions with tran-
+shumanity. Most likely to put transhumans at ease,
+these Factors feature a section of sensor nodules that
+loosely approximate a “face.”
+ COG     COO   INT    REF    SAV   SOM    WIL    MOX
+  20      10    20     10     15    15     20     —
+
+  INIT   SPD   LUC     TT    IR    DUR     WT     DR
+   60     1     —      —     —      30      7     45
+Movement Rate: 4/16
+Skills: Deception 70, Exotic Ranged Attack: Factor
+  Dust 45, Fray 25, Free Fall 40, Hardware: Electron-
+  ics 35, Infosec 35, Intimidation 50, Kinesics 40,
+  Perception 50, Persuasion 60, Protocol 50, Research
+  35, Unarmed Combat 30
+Notes: Access Jacks, Chameleon Skin, Grip Pads,
+  Infrared Sensing, Magnetoception, Poison Gland
+  (Factor Dust Toxin)

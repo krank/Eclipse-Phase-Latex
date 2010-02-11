@@ -1,0 +1,64 @@
+a SOM x 2 Test or fall down. If their MoF is 30+, they
+are additionally stunned and unable to act until the
+end of the next Action Turn. Drugs, chemicals, and
+similar agents may be loaded into the charge as well.
+[Moderate]
+
+WEAPON ACCESSORIES
+The following accessories are available for various
+weapons.
+   Arm Slide: This slide-mount can hold a pistol-
+sized weapon under a character’s sleeve, pushing the
+weapon into the character’s hand with an electronic
+signal or specific sequence of arm movements. [Low]
+   Extended Magazine: This ammunition case has
+an increased capacity. Increase the weapon’s ammo
+capacity by +50%. Only available for firearms and
+seekers. [Low]
+   Gyromount: This weapon harness features a gyro-
+stabilized weapon mount that keeps the weapon steady.
+Negates all modifiers from movement. [Moderate]
+   Imaging Scope: Imaging scopes attach to the top of
+the weapon and act like specs (p. 325). Scopes may
+also bend like a periscope, along a character to point
+the weapon and target around corners without leav-
+ing cover. [Low]
+   Flash Suppressor: This device obscures the muzzle
+flash on firearms, applying a –10 modifier on Percep-
+tion Tests to locate a firing weapon by its flash. [Low]
+   Laser Sight: This underbarrel laser emits a beam
+that places a glowing red dot on the target to assist
+targeting. Apply a +10 modifier to Attack Tests (not
+cumulative with a smartlink modifier). Laser sights
+may also be used to paint a target for laser-guided
+smart ammo or seekers. Infrared and ultraviolet lasers
+are also available, so that the dot is only visible to
+characters able to see in those spectrums. [Low]
+   Safety System: A biometric (palmprint or voice-
+print) or ego ID (p. 279) sensor is embedded in the
+weapon, disabling it if anyone other than an autho-
+rized user attempts to fire it. [Low]
+   Shock Safety: Just like a safety system, except that
+an unauthorized user is zapped with an electric shock.
+Treat as a shock baton (p. 334). [Moderate]
+   Silencer/Sound Suppressor: This barrel-mounted
+accessory reduces the sound of a firearm’s discharge.
+Apply a –10 modifier on hearing-based Perception
+Tests to hear or locate the gun’s firing. [Moderate]
+   Smartlink: A smartlink system connects the weapon
+to the user’s mesh inserts, placing a targeting bracket
+in the character’s field of vision and providing range
+and targeting information. Apply a +10 modifier to
+the Attack Test. Smartlinks also incorporate a micro-
+camera that allows the user to see what the weapon
+is pointed at, fire around corners, etc. Smartlinks also
+allow certain other types of weapon system control,
+such as changing flux ammo (p. 337) or programming
+seeker trigger conditions (p. 199). [Moderate]
+   Smart Magazine: A smart magazine allows the
+character to pick and choose what ammo round will
+be fired with each shot. This system leaves less room
+for bullets, however, so reduce the weapon’s ammu-
+nition capacity by half (round up). Smart magazines
+may be combined with extended magazines, in which
+case ammo capacity is normal. [Moderate]

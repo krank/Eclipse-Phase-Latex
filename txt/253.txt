@@ -1,0 +1,120 @@
+need to carefully measure out their distribution of
+intel and clues to players. Give them too much too
+soon, and they may spoil the plot. Fail to give them
+enough, and they may get frustrated or pursue dead
+ends. Timing is everything.
+
+REAL-TIME SEARCHES
+Characters may also set up ongoing mesh scans that will
+alert them if any relevant information comes up new or
+updated, or is somehow changed. This is a task usually
+assigned to muses for continuous oversight. Whenever
+such data arises, the gamemaster secretly makes a Re-
+search Test, modified by the obscurity of the topic. If
+successful, the update is noted. If not, it is missed, though
+the gamemaster may allow another test if and when the
+topic reaches a wider range of circulation or interest.
+
+HIDDEN DATA
+It is important to remember that not everything can
+be found online. Some data may only be acquired (or
+may be more easily gotten) by asking the right people
+(see Networking, p. 286). Information that is consid-
+ered private, secret, or proprietary will likely be stored
+away behind VPN firewalls, in off-mesh hardwired
+networks, or in private and commercial archives. This
+would require the character to gain access to such
+networks in order to get the data they need (assuming
+they even know where to look).
+   It’s worth noting that some entities send out AIs
+into the mesh with the intent of finding and erasing
+data they’d rather hide, even if this requires hacking
+into systems to alter such information.
+
+
+
+SCANNING, TRACKING,
+AND MONITORING
+Most users leave traces of their physical and digital
+presence all throughout the mesh. Accounts they access,
+devices with which they interact, services they use, ent-
+optics they perceive—all of these keep logs of the event,
+and some of these records are public. Simply passing
+nearby some devices is enough to leave a trail, as near-
+field radio interactions are often logged. This electronic
+datatrail can be used to track a user, both to ascertain
+their physical location or to note their online activities.
+
+WIRELESS SCANNING
+To interface with a wireless device or network, whether
+to establish a connection or for other purposes, the
+target device/network must be located first. To locate
+an active node, it’s wireless radio transmissions must be
+detected. Most wireless devices automatically scan for
+other devices in range (see Radio and Sensor Ranges, p.
+299) as a matter of course, so no test is required. This
+means that it’s trivial for any character to pull up a
+list of the wireless devices and networks around them,
+along with associated mesh IDs. Likewise, a muse or
+device can be instructed to alert the user when a new
+signal (or a specific user) comes into range.
+   Detecting stealth signals (p. 252), however, is a bit
+more challenging. To detect a stealthed signal, the scan-
+ning party must actively search for such signals, taking
+a Complex Action and making an Interfacing Test with
+a –30 modifier. If successful, they detect the hidden emis-
+sions. If the character aiming for stealth engages in active
+countermeasures, also requiring a Complex Action, then
+an Opposed Interfacing Test is called for (with the –30
+modifier still applying to the scanning party).
+   For covert devices that are only transmitting in
+short bursts, wireless detection is only possible during
+the short period the burst transmission is being made.
+
+PHYSICAL TRACKING
+Many users willingly allow themselves to be physically
+tracked via the mesh. To them, this is a useful feature—
+it allows their friends to find them, their loved ones to
+know where they are, and for authorities to come to
+their aid in the event of some emergency. Finding their
+location is simply a matter of looking them up in the
+local directory, no test required (assuming you know
+who they are). Mesh positioning is accurate to within
+5 meters. Once located, the position of the target can
+be monitored as they move as long as they maintain
+an active wireless connection to the mesh.
+
+TRACKING BY MESH ID
+An unknown user’s physical location can also be
+tracked via their online mesh activity—or more spe-
+cifically, by their mesh ID (p. 246). Network security
+will often trace intruders this way and then dispatch
+security squads to bring them in. To track an unknown
+user by their mesh ID alone requires a Research Test.
+If successful, they have been tracked to their current
+physical location (if still online) or last point of in-
+teraction with the mesh. If the character is in privacy
+mode (p. 252), a –30 modifier applies.
+
+TRACKING BY BIOMETRICS
+Given the existence of so many spimes and public
+cameras and sensors, people may also be tracked by
+their facial profile alone using facial recognition soft-
+ware. This software scans accessible video feeds and
+attempts to match it to a photo of the target. Given
+the sheer volume of cameras, however, and the typical
+range of false-positives and false-negatives, finding
+the target often boils down to luck. Priority can be
+given to cameras monitoring major thoroughfares, to
+narrow the search, but this risks missing the target if
+they avoid heavy traffic areas. The success of searches
+of this nature is best left to gamemaster fiat, but a
+Research Test can also be called for, modified ap-
+propriately by the range of the area being watched,
+whenever there is a chance the target may be spotted.
+  Other biometric signatures may also be used for
+tracking this way, though these are usually less avail-
+able than cameras: thermal signatures (requires infra-
+red cameras), walking gait, scent (requires olfactory
+sensors), DNA (requires DNA scanners), etc. Each
+biometric scan requires a separate type of software.

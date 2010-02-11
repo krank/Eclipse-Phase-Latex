@@ -1,0 +1,86 @@
+■ PAN: Personal area network. The network created when          ■ Sleight: A psi power.
+  you slave all of your minor personal electronics to your      ■ Slitheroid: A snake-like robotic synthmorph.
+  ecto or mesh inserts.                                         ■ Smart Animals: Partially-uplifted animal species (includ-
+■ Pandora Gates: The wormhole gateways left behind by             ing dogs, cats, rats, and pigs). Some other large smart
+  the TITANs.                                                     animals (whales, elephants) are nearly extinct.
+■ Pods: Mixed biological-synthetic morphs. Pod clones are       ■ Spime: Meshed, self-aware, location-aware devices.
+  force-grown and feature computer brains. Also known as        ■ Splicers: Humans that are genetically modiﬁed to
+  bio-bots, skinjobs, replicants. From “pod people.”              eliminate genetic diseases and some other traits. Also
+■ Posthuman: A human or transhuman individual or                  known as geneﬁxed, cleangenes, tweaks.
+  species that has been genetically or cognitively modiﬁed      ■ Swarmanoid: A synthetic morph composed from a
+  so extensively as to no longer be human (a step beyond          swarm of tiny insect-sized robots.
+  transhuman). Aka parahuman.
+                                                                ■ Sylphs: Transhuman biomorphs with exotic good looks.
+■ Prometheans: A group of transhuman-friendly seed AIs
+                                                                ■ Synthmorph: Synthetic morphs. Robotic shells possessed
+  that were created by the Lifeboat Project (precursors to
+                                                                  by transhuman egos.
+  the argonauts) years before the TITANs became self-
+  aware and that (mostly) avoided Exsurgent infection. The      ■ Synths: A speciﬁc type of synthmorph. Synths are
+  Prometheans secretly back Firewall and work to defeat           standard androids/gynoids; robots that are designed to
+  existential threats.                                            look humanoid, though they are usually noticeably not
+                                                                  human.
+■ Proxies: Members of the Firewall internal structure.
+                                                                ■ Teleoperation: Remote control.
+■ Psi: Parapsychological powers acquired due to infection
+  by the Watts-MacLeod strain of Exsurgent virus.               ■ Titanian: Someone from Titan, a moon of Saturn.
+■ Reaper: A warbot synthmorph.                                  ■ TITANs: The human-created, recursively-improving,
+                                                                  military seed AIs that underwent a hard-takeoff singular-
+■ Reclaimers: A transhuman faction that seeks to lift the
+                                                                  ity and prompted the Fall. Original military designation
+  interdiction and reclaim Earth.
+                                                                  was TITAN: Total Information Tactical Awareness Network.
+■ Redneck: A rural Martian. See Barsoomian. Aka Reds.
+                                                                ■ Torus: A donut-shaped habitat, spun for gravity.
+■ Reinstantiated: Refugees from Earth who escaped
+                                                                ■ Transgenic: Containing genetic traits from other species.
+  only as bodiless infomorphs, but who have since been
+  resleeved.                                                    ■ Transhuman: An extensively modiﬁed human.
+■ Resleeving: Changing bodies, or being downloaded into         ■ Trojans: Asteroids or moons that share the same orbit
+  a new one. Also called remorphing, reincarnation, shifting,     as a larger planet or moon, but follow about 60 degrees
+  rebirthing.                                                     ahead or behind at the L4 and L5 Lagrange points. The
+                                                                  term Trojans normally refers to the asteroids orbiting at
+■ Rusters: Biomorphs optimized for life on Mars.
+                                                                 Jupiter’s Lagrange points, but Mars, Saturn, Neptune, and
+■ Scorching: Hostile programs that can damage or affect           other bodies also have Trojans. See also “Greeks.”
+  cyberbrains.
+                                                                ■ Uplifting: Genetically transforming an animal species to
+■ Scum: The nomadic faction of space punks/gypsies that           sapience.
+  travel from station to station in heavily-modiﬁed barges
+                                                                ■ Vacworker: Space laborer.
+  or swarms of ships. Notorious for being a roving black
+  market.                                                       ■ Vapor: A failed mind emulation or crippled fork/info-
+                                                                  morph (from vaporware).
+■ Seed AI: An AGI that is capable of recursive self-improve-
+  ment, allowing it to reach god-like levels of intelligence.   ■ VPNs: Virtual private networks. Networks that operate
+                                                                  within the mesh, usually encrypted for privacy/security.
+■ Sentinels: Agents of Firewall.
+                                                                ■ VR: Virtual Reality. Imposing an artiﬁcially-constructed
+■ Shell: A synthetic physical morph. Aka synthmorph.
+                                                                  hyper-real reality over one’s physical senses.
+■ Simulmorph: The avatar you use in VR simulspace
+                                                                ■ X-Caster: Someone who transmits/sells XP recordings of
+  programs.
+                                                                  their experiences.
+■ Simulspace: Full-immersion virtual reality environments.
+                                                                ■ Xenomorph: Alien life form.
+■ Singularity: A point of rapid, exponential, and recursive
+                                                                ■ Xer: As in “X-er”—someone who is addicted or
+  technological progress, beyond which the future becomes
+                                                                  obsessed with XP. Sometime used to refer to people
+  impossible to predict. Often used to refer to the ascension
+                                                                  making XP as well.
+  of seed AI to god-like levels of intelligence.
+                                                                ■ XP: Experience Playback. Experiencing someone else’s
+■ Singularity Seeker: People who pursue relics and
+                                                                  sensory input (in real-time or recorded). Also called
+  evidence of the TITANs or other possible avenues to
+                                                                  experia, sim, simsense, playback.
+  super-intelligence, either to learn more about it or to
+  become part of a super-intelligence themselves.               ■ X-Risk: Existential risk. Something that threatens the
+                                                                  very existence of transhumanity.
+■ Skin: A biological physical morph. Aka meat, ﬂesh.
+                                                                ■ Zeroes: People without wireless mesh access. Common
+■ Skinning: Changing your perceived environment via
+                                                                  with some indentures.
+  augmented reality programming.

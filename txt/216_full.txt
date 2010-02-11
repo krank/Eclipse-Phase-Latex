@@ -1,0 +1,60 @@
+MULTIPLE PERSONALITY DISORDER                                SCHIZOPHRENIA
+This is the development of a separate, distinct per-         While schizophrenia is generally acknowledged as a
+sonality from the original or control personality.           genetic disorder that has an onset in early adulthood,
+The personalities may or may not be aware of each            it also seems to develop in a number of egos that un-
+other and “conscious” during the actions of the other        dergo frequent morph changes. It has been theorized
+personality. Usually there is some sort of trigger that      that this is due to some sort of repetitive error in the
+results in the emergence of the non-control personality.     download process. Regardless, it remains a rare, yet
+Most subjects have only a single extra personality, but      persistent danger of dying and being brought back.
+it is not unheard of to have several personalities. It       Schizophrenia is a psychotic disorder where the sub-
+is important to note that these are distinct individual      ject loses their ability to discern reality from unreality.
+personalities and not just crude caricatures of the Dr.      This can involve delusions, hallucinations (often in
+Jekyll/Mr. Hyde sort. Each personality sees itself as        support of the delusions), and fragmented or disor-
+a distinct person with their own wants, needs, and           ganized speech. The subject will not be aware of these
+motivations. Additionally, they are usually unaware          behaviors and will perceive themselves as functioning
+of the experiences of the others, though there is some       normally, often to the point of becoming paranoid that
+basic information sharing (such as language and core         others are somehow involved in a grand deception.
+skill sets).                                                    Suggested Game Effects: Schizophrenia represents
+   Suggested Game Effects: When the player is under          a total break from reality. A character that is schizo-
+the effects of another personality, they should be           phrenic may see and hear things and act on those
+treated as an NPC. In some rare cases the player and         delusions and hallucinations while seeing attempts
+the gamemaster can work out the second personality           by their friends to stop or explain to them as part of
+and allow the player to roleplay this. This does not         a wider conspiracy. Adding to this is the difficulty of
+however constitute an entire new character that can          communicating coherently. Players that have become
+be “turned on” at will.                                      schizophrenic are only marginally functional and
+                                                             only for short periods of time until they have the
+OBSESSIVE COMPULSIVE DISORDER (OCD)                          disorder treated.
+Subjects with OCD are marked by intrusive or in-
+appropriate thoughts or impulses that cause acute            STRESSFUL SITUATIONS
+anxiety if a particular obsession or compulsion is not       The universe of Eclipse Phase is ripe with experiences
+engaged in to alleviate them. These obsessions and           that might rattle a character’s sanity. Some of these are
+compulsions can be nearly any sort of behavior that          as mundane and human as extreme violence, extended
+must be immediately engaged in to keep the rising            isolation, or helplessness. Others are less common, but
+anxiety at bay. Players and gamemasters are encour-          even more terrifying: encountering alien species, infec-
+aged to come up with a behavior that is suitable.            tion by the Exsurgent virus, or being sleeved inside a
+Examples of common behaviors include repetitive              non-human morph.
+tics (touching every finger of each hand to another
+part of the body, tapping the right foot twenty times),      WILLPOWER STRESS TESTS
+pathological behaviors such as gambling or eating,           Whenever a character encounters a situation that
+or a mental ritual that must be completed (reciting a        might impact their ego’s psyche, the gamemaster may
+book passage).                                               call for a (Willpower x 3) Test. This test determines if
+   Suggested Game Effects: If the player doesn’t             the character is able to cope with the unnerving situa-
+engage in the behavior they will grow increasingly           tion or if the experience scars their mental landscape.
+disturbed and suffer penalties to all actions until they     If they succeed, the character is shaken but otherwise
+are able to engage in the compulsion that alleviates         unaffected. If they fail, they suffer stress damage (and
+their anxiety.                                               possibly trauma) as appropriate to the situation. A
+                                                             list of stress-inducing scenarios and suggested SVs are
+POST TRAUMATIC STRESS DISORDER (PTSD)                        listed on the Stressful Experiences table, p. 215. The
+PTSD occurs as a result of being exposed to either           gamemaster should use these as a guideline, modifying
+a single incident or a series of incidents where the         them as appropriate to the situation at hand.
+sufferer had their own life, or saw the lives of others,        Note that some incidents may be so horrific that a
+threatened with death. These incidents are often             modifier is applied to the character’s (Willpower x 3)
+marked by an inability on the part of the victim, either     Test.
+real or perceived, to do anything to alter the outcomes.
+As a result, they develop an acute anxiety and fixation      HARDENING
+on these incidents to the point where they lose sleep,       The more you are exposed to horrible or terrifying
+become irritated or easily angered, or are depressed         things, the less scary they become. After repeated ex-
+over feelings that they lack control in their own lives.     posure, you become hardened to such things, able to
+   Suggested Game Effects: Penalties to task actions,        shake them off without effect.
+also treat situations similar to the initial episodes that
+caused the disorder as a phobia.

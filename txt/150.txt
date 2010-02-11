@@ -1,0 +1,116 @@
+SITUATIONAL AWARENESS
+Cost: 10 CP
+  The character is very good at maintaining con-
+tinuous partial awareness of the goings-on in their
+immediate environment. In game terms, they do not
+suffer the Distracted modifier on Perception Tests
+to notice things even when their attention is focused
+elsewhere, or when making Quick Perception Tests
+during combat.
+
+STRIKING LOOKS (MORPH TRAIT)
+Cost: 10 (Level 1) or 20 (Level 2) CP
+   In an age where biosculpting is easy, good looks are
+both cheap and commonplace. This morph, however,
+possesses a physical look that can only be described as
+striking and unusual, but also somehow alluring and
+fascinating—even the gorgeous and chiseled glitterati
+take notice. On social skill tests where the character’s
+beauty may affect the outcome, they receive a +10 (for
+Level 1) or +20 (for Level 2) modifier. This modifier
+is ineffective against xenomorphs or those with the
+infolife or uplift backgrounds. This trait is only avail-
+able to biomorphs.
+   This modifier may be purchased for uplift morphs,
+but at half the cost, and it is only effective against
+characters with that specific uplift background (i.e.,
+neo-avians, neo-hominids, etc.).
+   The one drawback to this trait is that the character
+is more easily noticed and remembered.
+
+TOUGH (MORPH TRAIT)
+Cost: 10 (Level 1), 20 (Level 2), or 30 (Level 3) CP
+   This morph is resilient than others of its type and
+can take more physical abuse. Increase their Durabil-
+ity by +5 per level (+5 at Level 1, +10 at Level 2, and
++15 at Level 3). This also increases Wound Threshold
+by +1, +2, and +3 respectively.
+
+ZOOSEMIOTICS
+Cost: 5
+  A character with this trait and the Psi trait does
+not suffer a modifier when using psi sleights on non-
+sentient or partly-sentient animal species.
+
+NEGATIVE TRAITS
+  Negative traits generally hinder the character and
+apply negative modifiers in certain circumstances.
+
+ADDICTION (EGO OR MORPH TRAIT)
+Bonus: 5 CP (Minor), 10 CP (Moderate), or 20 CP
+   (Major)
+  Addiction comes in two forms: mental (affecting
+the ego) and physical (affecting the biomorph). The
+character or morph is addicted to a drug (p. 317),
+stimulus (XP), or activity (mesh use) to a degree that
+impacts the character’s physical or mental health.
+Players and gamemasters should work together to
+agree on addictions that are appropriate for their
+game. Addiction comes in three levels of severity:
+minor, moderate, or major:
+   Minor: A minor addiction is largely kept under
+control—it does not ruin the character’s life, though
+it may create some difficulties. The character may not
+even recognize or admit they have a problem. The
+character must indulge the addiction at least once
+a week, though they can go for longer without too
+much difficulty. If they fail to get their weekly dose,
+they suffer a –10 modifier on all actions until they get
+their fix.
+   Moderate: A moderate addiction is in full swing.
+The character obviously has a problem, and must
+satisfy the addiction at least once a day. If they fail
+to do so, they may suffer mood swings, compulsive
+behavior, physical sickness, or other side effects until
+they indulge their craving. Apply a –20 modifier to
+all of the character’s actions until they get their fix.
+Additionally, a character with this level of addiction
+suffers a –5 DUR penalty.
+   Major: A character with a major addiction is on
+the rapid road to ruin. They face cravings every 6
+hours, and suffer a –10 DUR penalty as their health
+is affected. If they fail to get their regular dosage, they
+suffer a –30 modifier on all actions until they do. If
+their life hasn’t already been ruined by their obsession,
+it soon will be.
+
+AGED (MORPH TRAIT)
+Bonus: 10 CP
+  The morph is physically aged, and has not been
+rejuvenated. Old morphs are increasingly uncom-
+mon, though some people adopt them hoping to
+gain an air of seniority and respectability. Reduce
+the character’s aptitude maximums by 5, and apply
+a –10 modifier on all physical actions.
+  This trait may only be applied to flat and splicer
+morphs.
+
+BAD LUCK
+Bonus: 30 CP
+   Due to some inexplicable cosmic coincidence,
+things seem to go wrong around the character. The
+gamemaster is given a pool of Moxie points equal
+to the character’s Moxie stat, which also refreshes
+at the same rate as the character’s Moxie. Only the
+gamemaster may utilize this Moxie, however, and
+the purpose is to use it against the character. In other
+words, the gamemaster can use this bad Moxie to
+cause the character to automatically fail, flip-flop a
+roll, and so on. To reflect the black cloud that fol-
+lows the character, the gamemaster can even use this
+bad Moxie against the character’s friends and allies,
+when they are doing something with or related to
+the character, though this should be used sparingly.
+Gamemasters who might be reluctant to sabotage the
+character should remember that the player asked for
+it by purchasing this trait.

@@ -1,0 +1,131 @@
+BRINKER GENEHAC
+           APTITU     COG      COO     INT       REF    SAV        SOM
+            Base       20       15      15        15     15         10
+     Morph Bonus       10       5       5
+            Total      30       20      20       15     15         10
+
+
+
+
+     MOX TT     LUC       IR                WT    DUR    DR
+                                                                  STIN
+      3 8 (10) 40 (50) 80 (100)              7     35    53        60 (
+
+
+
+
+                                                         MORPH
+                                                              SKI
+                                      APT        BASE    BONUS
+             Academics: Biology       COG         70       10
+           Academics: Genetics        COG         70       10
+   Academics: Nanotechnology          COG         60       10
+              Art: Bodysculpting      INT         45       5
+                 Beam Weapons         COO         45       5
+                        Deception     SAV         30
+                              Fray    REF         40
+                          Free Fall   REF         55
+          Hardware: Aerospace         COG         40          10
+  Interests: Black Market Drugs       COG         40          10
+   Interests: Genetics Research       COG         60          10
+       Interests: Morph Designs       COG         55          10
+                       Interfacing    COG         20          10
+                          Kinesics    SAV         40          10
+        Language: Native Arabic       INT         85          5
+               Language: English      INT         40          5
+     Medicine: General Practice       COG         55          10
+        Medicine: Gene Therapy        COG         65          10
+       Medicine: Nanomedicine         COG         60          10
+      Medicine: Trauma Surgery        COG         50          10
+       Networking: Autonomists        SAV         35
+           Networking: Criminal       SAV         45
+          Networking: Scientists      SAV         55
+                       Perception     INT         45          5
+                Pilot: Spacecraft     REF         25
+     Profession: Lab Technician       COG         50          10
+       Profession: Medical Care       COG         55          10
+                    Programming       COG         60          10
+                  Psychosurgery       INT         55          5
+                         Research     COG         45          10
+                      Scrounging      INT         50          5
+
+Some might consider you a mad           There are some who find y
+scientist, but they simply lack         intriguing or valuable, o
+the vision and moral flexibility to     and so you have acquired
+understand the meaning of your          tial backers. In truth, yo
+work. You are not just a scientist—     expert when it comes to d
+you are an artist, dedicated to         and manipulating biomor
+defining the shapes and abilities       so your services are som
+of transhumans as they transition       demand when it comes to
+to the posthuman. Because your          ing unusual and exotic
+work is sometimes controversial,        mations. Your patrons, o
+you prefer the brinker lifestyle,       sometimes call on your e
+working in isolation where you are      from time to time in exch
+not restricted by laws or customs.      bankrolling your work. ■
+
+                                      “It’s alive! It’s alive! Wai
+KER
+ES
+WIL
+20
+ 5
+25
+
+
+
+TSSPD
+   1
+
+
+
+LS
+TAL
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+5
+0
+0
+0
+5
+5
+5
+0
+0
+5
+5
+5
+0
+5
+0          Background: Isolate
+5          Faction: Brinker
+0          Morph: Menton
+0          Motivations: +Artistic Expression (Morph Design)
+5             +Morphological Freedom +Research (Neogene
+5          TRAITS                               Starting Cred
+           Ego: Black Mark (Lunars,             Implants: Ac
+work         Level 1), Patron (Gerontocrat),      Biomods, B
+urse,        Psi Defense ■                        Circadian
+ uen-                                             cal Stack,
+ e an      REP                                    Ghostrider
+gning
+           @-rep:    30                           Linguist, M
+  and
+           c-rep:    20                           chines, Mu
+ es in
+ lain-     g-rep:    30                         Gear: Backup
+ sfor-     r-rep:    60                           (1 month),
+urse,                                             (5 doses),
+ rtise     EQUIPMENT                              Frequency
+ e for     Armor: Armor Clothing [3/4] ■          Angel Bot,
+           Primary Weapon: Stunner ■              Nanoband
+
+no—well, it was alive. Let’s try that again.”

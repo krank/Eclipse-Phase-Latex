@@ -1,0 +1,60 @@
+TIME
+Once the raw materials and blueprints are in, most nanofabrica-
+tion is simply a matter of time. The exact timeframe to create an
+object varies, but roughly approximates 1 hour per cost category of
+the item (1 hour for Trivial, 2 for Low, 3 for Moderate, etc.). The
+gamemaster may feel free to modify this period as appropriate for
+the object.
+
+THE PROGRAMMING TEST
+Nanofabrication is typically handled as a Programming: Nanofab-
+rication Test. In most cases, this can be treated as a Simple Success
+Test (p. 118), with a failed roll simply indicating that the item has
+some minor imperfections, or perhaps took longer to make.
+   In some cases, the gamemaster may call for an actual Success Test,
+meaning that failure is more of a possibility. This should only be
+done for items that are exotic, extremely complicated, or for which
+the blueprints are incomplete or otherwise suspect. This test can also
+be made if the raw materials are limited.
+   The character operating the nanofabricator can make this test or
+it can be left up to the nanofabricator’s built-in AI. Most such Such
+AIs have a Programming: Nanofabrication skill of 30 (see AIs and
+Muses, p. 331).
+
+
+
+REPUTATION AND SOCIAL NETWORKS
+“Once upon a time, there was a planet so incredibly primitive that its
+ inhabitants still used money. That planet is called ‘Mars.’”
+   —Professor Magnus Ming, Titan Autonomous University
+
+   The conflict between market capitalism and other forms of eco-
+nomics is one of transhumanity’s last great culture wars, and it’s
+still being fought. Transhumanity’s expansion into the solar system
+created myriad opportunities to experiment with new economic sys-
+tems. Many failed, but the reputation economies of the outer system
+have proven both utilitarian and robust in a way that no previous
+challenger to market capitalism has managed.
+   The reputation economy, sometimes called the gift economy or
+open economy, is one in which the material plenty created by nano-
+fabrication and the longevity granted by uploading and backups
+have removed considerations of supply versus scarcity from the
+economic equation—destroying classical economics in the process.
+   The regimented societies of the inner system and the Jovian
+Junta have used societal controls and careful regulation of the
+technologies of abundance on their populations, thus keeping to a
+transitional economy system that is largely an outgrowth of classi-
+cal economics. No one could get away with doing this in the outer
+system. In the Trojans and Greeks, much of the belt, free Jupiter, and
+anywhere outward from Saturn, the reputation economy rules.
+   How did this happen? For one thing, money is a nuisance when
+you’re an autonomous member of an autonomous collective whose
+nearest three neighbors (each 100,000 kilometers away) are also
+autonomous collectives. All of you are almost completely self-
+sufficient in terms of material resources. You have a fleet of robots
+that harvest water, volatiles, reactor mass, metals, and silicates. You
+have a nanofabricator to make all of your small items, a community
+factory for large ones, and a machine shop where you can build
+anything else—with help and advice from an AI with the combined
+knowledge and experience of a top flight engineering team, if you
+even need it. You grow your own food.

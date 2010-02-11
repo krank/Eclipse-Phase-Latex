@@ -1,0 +1,82 @@
+to provide clues to players, especially when the subject
+matter is something their character might know well
+but the player does not.
+Specializations: Evidence Analysis, Logical Deductions,
+                                                              LANGUAGES IN
+  Physical Investigation, Physical Tracking                   ECLIPSE PHASE
+KINESICS                                                      With the Fall of Earth, the languages that
+                                                              remain most prominent in the solar system are
+Type: Active, Social
+                                                              those that were extensively carried into space
+Linked Aptitude: SAV
+                                                              by countries and hypercorps with aggressive
+   What it is: Kinesics is the art of empathy and non-
+                                                              space programs or by the large populations
+vocal communication.
+                                                              of poor laborers and infomorph refugees that
+   When you use it: Use Kinesics to read body language,
+                                                              followed. No single language dominated the
+tells, social cues, and other subconscious indicators. It
+                                                              realm of space expansion, and multilingual-
+can also be used to emote more effectively. Kinesics
+                                                              ism was common. Many habitats and (sub)
+is used defensively whenever someone is trying to de-
+                                                              cultural groupings cling to speciﬁc languages
+ceive you; make an Opposed Test against that person’s
+                                                              as a method of retaining cultural identity. De-
+Deception or Impersonation skill.
+                                                              spite the availability of instant translation via
+   Though synthetic morphs are also designed to
+                                                              the mesh, many people remain versed in two or
+emote, reading them is not as easy. Apply a –30 modi-
+                                                              more languages.
+fier when judging a synthetic morph inhabited by a
+                                                                The ten most common languages in the solar
+character or AGI. Likewise, standard AIs are also dif-
+                                                              system by speaking populations are: Arabic,
+ficult to read; apply a –60 modifier when judging a
+                                                              Cantonese, English, French, Hindi, Japanese,
+synthetic morph or pod operated by an AI.
+                                                              Mandarin, Portuguese, Russian, and Spanish.
+Specializations: Judge Intent, Nonvocal Communication
+                                                              Other languages that remain strong include
+                                                              Bengali, Dutch, Farsi, German, Italian, Javanese,
+JUDGING EMOTIONS AND INTENTIONS                               Korean, Polish, Punjabi, Swedish, Tamil, Turkish,
+Transhumans are empathic beings, and so you can
+                                                              Urdu, Vietnamese, and Wu. Some languages
+attempt to gauge the demeanor and/or intent of
+                                                              were effectively lost during the Fall, especially
+someone you are dealing with by rolling a Kinesics
+                                                              those in some undeveloped regions, as their
+Test. This attempt to read someone is far from exact,
+                                                              speaking populations did not migrate into space
+however, and it is easy to misjudge. The gamemaster
+                                                              pre-Fall and were not privileged enough to sur-
+should make this test in secret and only allow a hint
+                                                              vive in large numbers as infomorph refugees. ■
+if successful—it is not possible to read someone with
+absolute certainty. If the person being judged is inten-
+tionally trying to deceive the character, this should be
+an Opposed Test against their Deception skill.              LANGUAGE: [FIELD]
+                                                            Type: Field, Knowledge
+NONVOCAL COMMUNICATION                                      Linked Aptitude: INT
+Experts in Kinesics can effectively communicate               What it is: Language covers the speaking and
+with each other simply by posture, stances, gestures,       reading of languages other than the player’s native
+demeanors, and looks. Such communication is nec-            tongue. A speaker is considered fluent at a skill level
+essarily limited in the amount of information it can        of 50; anything above this indicates further refine-
+convey, but feelings, attitudes, affirmation/negation,      ment in technical vocabulary, accents, and knowl-
+and simple concepts may be passed. To effectively           edge of dialects.
+communicate complex concepts, the gamemaster may              When you use it: Use the Language skill whenever
+require successful Kinesics Tests from both parties, ap-    you want to speak, understand, or read something in
+plying modifiers as appropriate.                            a language at which you are skilled. Most speaking
+                                                            and reading comprehension tests can be considered
+KINETIC WEAPONS                                             Simple Success Tests if your skill is over 50, unless the
+Type: Active, Combat                                        gamemaster rules the subject is sufficiently complex
+Linked Aptitude: COO                                        that a non-native speaker would have trouble under-
+   What it is: Kinetic Weapons covers the use and           standing it.
+maintenance of standard kinetic projectile weapons          Sample Fields: Arabic, Cantonese, English, French,
+like firearms and railguns (p. 335).                          Hindi, Japanese, Mandarin, Portuguese, Russian,
+   When you use it: Use this skill whenever attacking          Spanish
+with a kinetic weapon in ranged combat (p. 191).            Specializations: As appropriate to the field, represent-
+Specializations: Assault Rifles, Machine Guns, Pistols,        ing dialects, technical jargon, and subcultural slang
+   Sniper Rifles, Submachine Guns

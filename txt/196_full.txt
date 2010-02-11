@@ -1,0 +1,58 @@
+UNIFORM BLAST                                               LAYERED ARMOR
+Uniform blast attacks distribute their power evenly         If two or more types of armor are worn, the armor
+throughout the area of effect. Examples include fuel-       ratings are added together. However, wearing multiple
+air explosives and thermobaric weapons that disperse        armor units is cumbersome and annoying. Apply a –20
+an explosive mixture in a vapor cloud and ignite it all     modifier to a character’s actions for each additional
+at once. All targets within the noted blast radius suffer   armor layer worn
+the same damage. Damage against targets outside of             Note that items specifically noted as armor accesso-
+the main blast sphere is reduced by –2 per meter.           ries—helmets, shields, etc.—do not inflict the layered
+                                                            armor penalty, they simply add their armor bonus.
+CONE                                                        Note also that the armor inherent to a synthetic
+Weapons with a cone effect have an area effect that         morph or bot’s frame does not constitute a layer of
+begins with the tip of the weapon and expands out-          armor (i.e., you may wear armor over the synthetic
+ward in a cone. At short range, this attack effects 1       shell without penalty).
+target; at medium range it affects 2 targets within a
+meter of each other; and at long or extreme range           ASPHYXIATION
+it affects 3 targets within a meter of the next. Cone       The average transhuman can hold their breath for
+ effect attacks do +1d10 damage at short range and          two minutes before blacking out. Strenuous activity
+–1d10 damage at long and extreme range.                     reduces the amount of time. For every 30 seconds
+                                                            after the first minute a biomorph is prevented from
+ARMOR                                                       breathing, they must make a DUR Test. Apply a cu-
+Just as weapons technologies have advanced, so too          mulative –10 modifier each time this test is rolled. If
+has armor quality, allowing unprecedented levels of         the character fails the test, they immediately fall un-
+protection. As noted in Step 7: Determine Damage            conscious and begin to suffer damage from asphyxi-
+(see p. 192), the armor rating reduces the damage           ation, at the rate of 10 points per minute, until they
+points of the attack.                                       die or are allowed to breathe again. This damage does
+   For a full listing of armor types and values, see p.     not cause wounds.
+311.                                                          Asphyxiating is a terrible process, often leading to
+                                                            panic. Characters who are being asphyxiated must
+ENERGY VS. KINETIC                                          make a WIL x 3 Test. If they fail, they suffer 1d10
+Each type of armor has an Armor value (AV) with two         ÷ 2 (round up) mental stress and cannot perform
+ratings—Energy and Kinetic—representing the protec-         any effective action to rescue themselves that Action
+tion it applies against the respective type of attack.      turn. A character who succeeds may attempt to rescue
+These are listed in the format of “Energy armor/Kinetic     themselves, and in fact they must make a WIL x 3
+armor.” For example, an item with listed armor “5/10”       Test to perform any other action not directly related
+provides 5 points of armor against energy-based at-         to rescuing themselves (attacks against another char-
+tacks and 10 points of armor against kinetic attacks.       acter, a creature, or an object holding the character
+   Energy damage includes that caused by beam weap-         underwater are exempt from this rule).
+ons (laser, microwave, particle beam, plasma, etc.) as
+well as fire and high-energy explosives. Armor that         BEAM WEAPONS
+protects against this damage is made of material that        Due to emitting a continuous beam of energy rather
+reflects or diffuses such energy, dissipates and trans-      than single projectiles, beam weapons are easier to
+fers heat, or ablates.                                      “home in” on a target. This means one of the fol-
+   Kinetic damage is the transfer of damaging energy         lowing two rules may be used when making beam
+when an object in motion (a fist, knife, club, or bullet,    weapon attacks. These options are not available for
+for example) impacts with another object (the target).      “pulse” beam weapons (like the laser pulser), as such
+Most melee and firearms attacks inflict kinetic damage,      weapons emit energy in pulses rather than a continu-
+as would a rolling boulder, swinging pendulum, or            ous beam.
+explosion-driven fragments. Kinetic armors include
+impact-resistant plates, shear-thickening liquid and        SWEEPING FIRE
+gels that harden upon impact, and ballistic and cut-        An attacker who is making two semi-auto (p. 198)
+proof fiber weaves.                                         attacks with a beam weapon with the same Complex
+                                                            Action and who misses with the first attack may treat
+ARMOR PENETRATION                                           that attack as a free Aim action (p. 190), receiving a
+Some weapons have an Armor Penetration (AP) rating.         +10 modifier for the second attack. In other words,
+This represents the attack’s ability to pierce through      though the first attack misses, the character takes the
+protective layers. The AP rating reduces the value of       opportunity to sweep the beam closer to the target
+armor used to defend against the attack (see Step 6:        for the second attack. This only applies when both
+Modify Armor, p. 192).                                      attacks are made against the same target.

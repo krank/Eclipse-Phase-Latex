@@ -1,0 +1,60 @@
+   CR Gas: This potent incapacitating agent causes            they succeed, they suffer –30 from the inflicted agony.
+eye twitching and temporary blindness, severe cough-          Any form of pain resistance that allows a character
+ing and breathing difficulty, skin irritation, and panic.     to ignore wound modifiers will negate the neuropath
+Affected characters suffer 1d10 ÷ 2 damage, a –30             pain modifier by an appropriate amount. [Moderate]
+modifier to sight-based Perception Tests, and a –20              Nutcracker: Nutcrackers are nanobots designed to
+modifier to all other actions for 20 minutes (5 min-          locate, migrate, and decompose the synthdiamond
+utes if the character has medichines). [Low]                  case of a cortical stack within a morph by attacking
+   Flight: This drug is derived from human pheromones         its crystal lattice. This process takes approximately
+released due to fear, and is intended to instill alarm or     6 hours, after which the cortical stack is destroyed.
+even terror in the character. Affected characters must        These nanobots also attack the cortical stack’s connec-
+make a WIL x 3 Test (+30 with medichines) or suffer           tions to the (cyber)brain and brain-mapping nanobots.
+a panic attack, inflicting 1d10 stress. Dosed characters      After 1 hour, the victim will be aware that their corti-
+also suffer a –30 modifier for resisting intimidation or      cal stack is threatened. After 3 hours, all connections
+fear-based emotional manipulations. Flight affects last       will be severed and the cortical stack will no longer be
+for 1 hour (5 minutes with medichines). [Low]                 able to back up the character. [High]
+   Nervex: Derived from deadly nerve agents like cy-
+closarin, VX, and novichok, this genetically-modified         PATHOGENS
+toxin is deployed as a colorless, odorless gas that           A pathogen is an infectious biological agent that
+turns safely inert 10 minutes after deployment. It            causes disease or illness to its host. While natural
+causes involuntary contraction of the muscles, sei-           pathogens rarely strive to kill their hosts, germ war-
+zures, and death by respiratory failure. One minute           fare programs revived during the Fall—or instigated
+after exposure, the character must make a SOM Test            by the TITANs—sought to modify and use pathogens
+or be incapacitated by seizures, paralysis, or nausea         as a weapon of war. The ideal characteristics of lethal
+and vomiting; unaffected characters still suffer a –20        biological agents are high infectivity, high potency,
+modifier to all actions. After 10 minutes, the character      availability of vaccines, and delivery as an aerosol.
+will die unless an antidote (such as atropine, p. 323) is     Most biomorphs are immune to standard pathogens
+applied. Characters with medichines suffer the initial        thanks to their basic bio-mods, and medichines will
+effects, but recover after 5 minutes. [High]                  protect against most others. However, even these
+   Oxytocin-A: A genetically-improved variant of oxy-         defenses may not protect against diseases left by
+tocin, this drug induces trust in the recipient. Drugged      the TITANs or a new terrorist cell’s biowar bug. It
+characters suffer a –30 modifier on all WIL and Kine-         is largely recommended that pathogens be handled
+sics Tests where trust is a factor. Medichines provide        as a plot device, rather than an active threat to the
+immunity. [Low]                                               characters. Pathogens have no effect on synthmorphs.
+  Twitch: Twitch is a convulsive agent, a nonlethal              Degen: Characters exposed to this degenerative
+nerve gas. Affected characters must succeed in a SOM          neurological disease must make a DUR x 2 Test or
+Test (+30 with medichines) or become incapacitated            become infected. Medichines will defeat the disease,
+with severe muscle tremors. Unaffected characters still       but others will not show signs of infection for 1 week,
+suffer a –20 on all actions. The effects of Twitch last for   when the symptoms of a rapidly progressing dementia
+10 minutes, 5 if the character has medichines. [Low]          will become clear: memory loss, personality changes,
+                                                              and hallucinations. If untreated, Degen will progress
+NANOTOXINS                                                    for another week with more serious symptoms, in-
+Disruption: This nanotoxin attacks the myelin sheath          cluding speech impediments, jerky movements, loss
+on nerves, disrupting nerve impulses and inflicting           of balance and coordination, and even seizures. This
+symptoms of multiple sclerosis. Every hour the morph          is reflected by a 5 point loss in all aptitudes per day
+suffers a –5 modifier to COO, REF, and COG. If any            (after the first week). When any aptitude reaches 0,
+aptitudes are reduced to zero,the morph is effectively        the character dies. Degen is notorious for its effect
+paralyzed and catatonic. [Moderate]                           in corrupting cortical stack backups before infection
+   Necrosis: Necrosis nanobots attack the walls of cells      symptoms manifest. [Expensive]
+inside the body, killing tissue. This nanotoxin inflicts         Trigger: Trigger is a designer virus that selectively
+1d10 ÷ 2 damage per Action Turn for one minute, after         targets and infects mast cells to trigger a hyper-allergic
+which the nanobots disable and flush from the body.           reaction. The resulting anaphylactic shock due to sys-
+Necrosis only affects biomorphs. [Moderate]                   temic vasodilatation (associated with a sudden drop
+   Neuropath: These nanobots are designed to stimu-           in blood pressure) and bronchial swelling (resulting in
+late the pain receptors of a morph on a systemic level        constriction and difficulty breathing) usually leads to
+to cause agony and impairment. While most neuro-              death in a matter of minutes after onset, if not treated.
+paths target biological receptors, variants are avail-        Infected characters must succeed in a DUR Test (using
+able that induce comparable (phantom) pain stimula-           their current Durability score minus damage) or die
+tions in the cyberbrains of synthmorphs to create an          quickly. Even medichines have difficulty reacting in
+equivalent effect. The affected character must succeed        time against this virus; characters with medichines
+in a WIL x 3 Test or become incapacitated. Even if            must make a DUR x 2 Test to survive. [Expensive]

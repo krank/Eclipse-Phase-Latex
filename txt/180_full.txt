@@ -1,0 +1,60 @@
+CLUBS                                                      skin pigments) and the altering of subtle physical
+Type: Active, Combat                                       characteristics (gait, posture, poise).
+Linked Aptitude: SOM                                         When you use it: Use Disguise to fool someone into
+  What it is: The Clubs skill covers the usage and         thinking you’re someone you’re not. This can be used
+maintenance of standard blunt melee weapons such           to hide your identity or to make yourself look like
+as batons or sticks (see p. 334).                          someone in particular. When used against someone
+  When you use it: Players use their Clubs skill when-     who knows your true look or the appearance of the
+ever they want to attack with a blunt weapon in melee      person you are imitating, this is handled as an Op-
+combat (p. 191). The Clubs skill may also be used for      posed Test against Perception or Investigation.
+tests involving maintenance of the weapon, but not         Specializations: Cosmetic, Theatrical
+for repairing or modifying the weapon (that would be
+Hardware: Armorer skill).                                  EXOTIC MELEE WEAPON: [FIELD]
+Specializations: Batons, Hammers, Staffs                   Type: Field, Active, Combat
+                                                           Linked Aptitude: SOM
+CONTROL                                                      What it is: The Exotic Melee Weapon skill covers
+Type: Active, Mental, Psi                                  the use and maintenance of all melee weapons not
+Linked Aptitude: WIL                                       covered by the Clubs or Blades skills (see p. 334).
+  What it is: Control is the use of psi to manipulate        When you use it: Use the Exotic Melee Weapon skill
+individuals or actively penetrate their mental pro-        when attacking someone with an exotic melee weapon
+cesses. This skill is only available to characters with    in melee combat (p. 191).
+the Psi trait (p. 147).                                    Sample Fields: Morning Star, Spear, Whip
+  When you use it: Use Control when taking a psionic       Specializations: N/A
+tour through a foreign ego—messing around included.
+See Psi, p. 220.                                           EXOTIC RANGED WEAPON: [FIELD]
+Specializations: By sleight                                Type: Field, Active, Combat
+                                                           Linked Aptitude: COO
+DECEPTION                                                    What it is: Exotic Ranged Weapon skill includes
+Type: Active, Social                                       the use and maintenance of all ranged weapons not
+Linked Aptitude: SAV                                       covered by the Beam, Flechette, Kinetic, Sonic, or
+  What it is: Deception is your ability to act, bluff,     Throwing Weapons skills.
+con, fast talk, lie, misrepresent, and pretend. Accom-       When you use it: Use this skill whenever attacking with
+plished users of deception are able to convince anyone     an exotic ranged weapon in ranged combat (p. 191).
+of nearly anything. This skill does not include using a    Sample Fields: Blowgun, Crossbow, Flamethrower,
+physical disguise to appear to be another person (the        Slingshot
+Impersonate skill covers that area).                       Specializations: N/A
+  When you use it: Use this skill whenever you want
+to deceive someone with words or gestures. A success-      FLIGHT
+ful skill test means that you have passed off your de-     Type: Active, Physical
+ception convincingly. At the gamemaster’s discretion,      Linked Aptitude: SOM
+someone who is actively alert for signs of deception          What it is: Flight is the skill of using your body to
+may make an Opposed Test using the Kinesics skill.         fly. This skill is used when sleeved in or jamming a
+Specializations: Acting, Bluffing, Fast Talk               winged or otherwise flight-capable morph (manual and
+                                                           remote-control flight are handled using Pilot skill).
+DEMOLITIONS                                                   When you use it: Use this skill whenever you need to
+Type: Active, Technical                                    make an aerial maneuver, land in difficult conditions,
+Linked Aptitude: COG (no defaulting)                       maintain your course in steep winds, or otherwise
+  What it is: Demolitions covers the use of controlled     keep from crashing or falling.
+explosives.                                                Specializations: Diving, Landing, Takeoff, specific
+  When you use it: Use it when making, placing, and           maneuvers
+disarming explosives and explosive devices. See De-
+molitions, p. 197.                                         FRAY
+Specializations: Commercial Explosives, Disarming,         Type: Active, Combat
+  Improvised Explosives                                    Linked Aptitude: REF
+                                                             What it is: Fray is the ability to get out of the way
+DISGUISE                                                   of incoming attacks, debris, or inconvenient passers-by.
+  Type: Active, Physical                                   Characters that have a high Fray score are able to react
+  Linked Aptitude: INT                                     quicker than others when dodging or maneuvering.
+  What it is: Disguise is the art of physically altering     When you use it: Whenever a character is physically
+your appearance so that you look like someone else.        attacked by an opponent in melee combat, roll Fray to
+This includes both the use of props (wigs, contacts,       avoid getting hit (see p. 191). Fray may also be used

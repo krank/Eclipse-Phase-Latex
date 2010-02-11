@@ -1,0 +1,119 @@
+ make them into an NPC if they start too diverge too
+ greatly. Similarly, if a fork begins to learn information
+ that the main character does not (yet) have access to,
+ it is probably also better to run the fork as an NPC in
+ order to avoid metagaming.
+    It is entirely possible that a fork might decide that
+ it will no longer obey the originating ego and carry
+ about doing its own thing. This usually only occurs
+ with alpha forks, who are essentially a full copy
+ anyway, and as time passes the idea of merging back
+ with the original ego becomes unappealing. Beta and
+ delta forks are quite aware of their nature as “incom-
+ plete” copies, and so usually return back home to the
+ ego for reintegration. In rare cases, however, even
+ these might make a break for life on their own.
+
+ MERGING
+   Merging is the process of re-integrating a previous-
+ly-spawned fork with the originating ego. Merging is
+performed on conscious egos/forks, transferring both
+to a single, merged ego. The process is not difficult
+to undergo when two forks have only been apart a
+short time. As forks spend more time apart, though,
+merging becomes a severe mental ordeal.
+   To determine if merging goes well, a Psychosurgery
+Test is called for (made either by the ego or another
+character overseeing the process). The Merging table
+lists modifiers for this test as well as the result of suc-
+cess or failure.
+   For synthmorphs, merging takes one full Action
+Turn. For biomorphs, an ego bridge (p. 328) or mne-
+monic augmentation (p. 307) is required to merge,
+and the process takes 10 minutes.
+   The result of the process is a unified ego, whether
+or not the Merging Test succeeds. Psychotherapy (p.
+209) and psychosurgery (p. 229) can troubleshoot bad
+merges over time.
+
+
+
+ EGOCASTING
+ In spite of being a spacefaring civilization with out-
+ posts throughout the solar system and beyond, tran-
+ shumanity makes scant use of spacecraft for interplan-
+ etary travel. Shuttlecraft using a variety of propulsion
+ systems make regular trips between habitats, planetary
+ surfaces, and moons. But for any trip longer than 1.5
+ million kilometers—the distance a fusion drive craft
+ can cover in a day—people egocast.
+
+
+                                                        MER
+TIME APART       MODIFIER SUCCESS
+Under 1 hour         +30      Seamless ego with memories inta
+1–4 hours            +20      Solid bond, memories intact
+4–12 hours           +10      Memories intact, 1 SV
+12 hours–1 day       +0       Memories intact, 2 SV
+1 day–3 days         –10      Memories intact, 3 SV
+3 days–1 week        –20      Memories intact, 4 SV
+1 week+              –30      Minor memory loss, 5 SV
+         THE SELF
+         Forking and merging have changed the way
+         transhumanity thinks about the self and what
+         it means to have a well-integrated personality.
+            While forking is child’s play from a tech
+         nological standpoint, the psychological and
+         social effects of cloning a mind mean that
+         most people are cautious about employing
+         forks. Some jurisdictions ban forking outright
+         for all but medical uses, while others have
+         severe restrictions. In many hypercorp juris
+         dictions, for instance, alpha forks are illegal
+         and letting a beta fork run for more than 4
+         hours without merging violates the modern
+         descendants of 20th-century anti-trust laws
+         Similarly, the Jovian Junta and other biocon
+         servatives ban forking entirely.
+            Disposing of unwanted forks is another
+         thorny issue. In some places, it’s as simple as
+         deleting them, because a stored mind has no
+         legal status. In others, a fork that doesn’t wish
+         to merge back with its originating ego might
+         be accorded some rights, though these are
+         generally only granted to alpha forks.
+            Most signiﬁcantly, though, running a short
+         term fork of oneself for periods of an hour
+         or less is an easy task for many transhumans
+         Many people use forks of themselves to get
+         work done in everyday life, and almost every
+         one has at least experimented with forking at
+         some point.
+            Transhumans view forking a bit like early
+         21st-century humans viewed drinking and drug
+         use. A bit might be okay, but someone overdo
+         ing it will be stigmatized. This is because most
+         transhumans understand the psychological
+         consequences of overusing forks.               ■
+
+
+
+    Egocasting is transhumanity’s most advanced
+  personal transportation technology, though only the
+  character’s ego actually travels. Egocasting combines
+  the technologies of uploading and quantum farcasting
+  to transfer a backup (or sometimes even a conscious
+  ego, see p. 269) over interplanetary distances.
+    Though egocasting occurs at the speed of light,
+  egocasting times vary drastically with distance.
+
+
+ING
+         FAILURE
+m both   Memories intact, (1d10 ÷ 2, round down) – 1 SV
+         Memories intact, (1d10 ÷ 2, round down) SV
+         Minor memory loss, (1d10 ÷ 2, round up) SV
+         Moderate memory loss, (1d10 ÷ 2, round up) + 2 SV
+         Major memory loss, 1d10 + 2 SV
+         Major memory loss, 1d10 + 4 SV
+         Severe memory loss, 1d10 + 6 SV

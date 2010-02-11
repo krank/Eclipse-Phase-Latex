@@ -1,0 +1,110 @@
+FUTURE MATERIALS
+Many materials are available and commonly used in
+Eclipse Phase that are rare, theorized, or unheard-
+of today. The following entries note some of the
+more interesting.
+
+AEROGEL
+Low-density, solid-state “Frozen smoke” is made by
+carefully foaming various materials, typically glasses
+or ceramics, to an ultra-low density state. Aerogel
+is semi-transparent and light-weight, feels like sty-
+rofoam, but acts as an incredible insulator against
+heat and cold. It is commonly used in habitats.
+
+DIAMOND
+Artiﬁcial diamond is lightweight and super-strong,
+has an extremely high melting point, and has near-
+perfect thermal conductivity. This makes it an ideal
+substance for hardening coated surfaces (armor)
+and creating super-tough diamond machinery.
+
+FULLERENES/FULLERITES
+Fullerenes are molecular carbon structures (known
+as buckyballs, carbon nanotubes, and graphene)
+that are extremely strong (vastly stronger by weight
+than steel), heat-resistant, and can be either insula-
+tive or superconductive. This makes them useful in
+equipment as diverse as armor, electronics, sensor
+systems, or the cables of space elevators.
+
+METALLIC FOAM
+Metal foam is created by adding foaming agents
+to liquid metals, resulting in extremely lightweight
+
+
+
+
+usually not difficult to nanofabricate. Smart materials
+(p. 298) also make interoperability between different
+morphs easy.
+
+ INTERFACE
+It is not uncommon for everyday devices to have no
+visible controls as they are designed to be operated via
+radio broadcasts from the user’s ecto or mesh inserts.
+Any items crafted for use in emergency, combat, sur-
+vival, or exploration situations, however, will feature
+basic physical controls, just in case. Physical interfaces
+are typically controlled by touch pads that are noth-
+ing more than colored spots on the device’s surface,
+though some may also project a holographic interface
+display. Most equipment of this sort can can also be
+voice-activated and controlled.
+   Almost all devices are loaded with a complete set
+of help files and tutorials. Most electronics are also
+mesh-capable and equipped with specialized AIs (see
+Meshed Gear, next page).
+ etallic structures—light enough to ﬂoat on water.
+ eal for habitat construction and ﬂoating cities.
+
+METALLIC GLASS
+ etallic glass are metals highly alloyed to possess a
+ sordered (rather than crystalline) atomic structure
+ ith unique combinations of stiffness and strength,
+ aking it a good wear surface and alternative to
+eramics in armor. It is also useful for its unusual
+or a metal) electrical resistance properties.
+
+METAMATERIALS
+ etamaterials have unusual physical properties
+ sually electromagnetic) due to their structure,
+uch as having a negative refractive index. Metama-
+ rials are used to create invisibility cloaks (p. 316),
+uperlenses, phased array optics, and impressive
+ D holograms.
+
+ EFRACTORY METALS
+hese metallic alloys have extremely high melt-
+ g points, making them ideal for extremely hot
+ngine systems, atmospheric entry vehicles, and
+ypersonic craft.
+
+RANSPARENT ALUMINA
+ transparent form, this ceramic is often known as
+ pphire. Transparent alumina is harder than steel
+nd zero-g casting techniques allow for intriguing
+ansparent construction designs, so long as its poor
+ nsile strength is respected.                    ■
+
+
+
+
+   SMART MATERIALS
+   Many common items of technology are made from
+   so-called smart materials. These devices contain—or
+   sometimes consist entirely of—many small nanoma-
+   chines that can both move and reshape themselves
+   to alter the object’s shape, color, and texture. For
+   example, smart clothing can transform from a suit of
+   specialized cold weather clothing suitable for the Mar-
+   tian poles in winter to a fashionable suit in the latest
+   style due to hundreds of thousands of tiny nanoma-
+   chines in the clothing that shift and move to reshape
+   the garment. Similarly, a tool made of smart materials
+   can switch from a powered screwdriver to a wrench
+   or a hammer, as the nanomachines move around and
+   completely reshape the tool. Smart materials all con-
+   tain specialized advanced nanomachine generators (p.
+   328) that keep them in perfect repair as long as they
+   are regularly recharged.

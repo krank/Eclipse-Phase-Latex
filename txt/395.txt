@@ -1,0 +1,128 @@
+THE HACKING SEQUENCE
+TASKS
+1. Defeat the Firewall
+2. Bypass Active Security
+   a. Hacker Wins with Excellent Success, Defender Fail
+   b. Hacker Succeeds, Defender Fails
+   c. Both Succeed
+   d. Defender Succeeds, Hacker Fails
+
+
+ONLINE SEARCHES
+1. Common data = automatic acquisition
+2. Uncommon data:
+   a. Research Task Test (timeframe: 1 minute) modiﬁe
+   data obscurity to accumulate data
+   b. Measure of Success determines depth of data fou
+3. Analyzing data:
+   a. Research Task Test (timeframe: GM call) using
+   complementary skill to understand data
+                                                                           24
+                    MESH GEAR MODIFIERS
+ MODIFIER SOFTWARE/HARDWARE
+                Bashed-up devices, no-longer-supported software, relics from
+      –30
+                Earth or the early expansion into space
+      –20       Malfunctioning/inferior devices, buggy software, pre-Fall techn
+      –10       Outdated and low quality systems
+       0        Standard ectos, mesh inserts, and software
+      +10       High-quality goods, standard security-grade products
+      +20       Next-generation devices, advanced software
+      +30       Newly-developed, state-of-the-art, top-of-the-line technology
+     >+30       TITANs and/or alien technology
+                                                                           25
+                   SUBVERSION DIFFICULTIES
+                    Difﬁculty modiﬁers for common computer tasks
+ MODIFIER TASK
+                Execute commands, view restricted information, run restricted
+      –0        software, open/close connections to other systems, read/write
+                delete ﬁles, access sensor feeds, access slaved devices
+      –10       Change system settings, alter logs/restricted ﬁles
+      –20       Interfere with system operations, alter sensor/AR input
+      –30       Shut system down, lockout user/muse, launch countermeasures a
+
+                                                                           25
+                       COUNTERMEASURES
+ Passive Alert (-10 modiﬁer to intruders)
+ Locate Intruder: Opposed Infosec Test; if successful, intruder becomes Lock
+ Re-authenticate Users: Next Action Turn, intruder must make Infosec Test
+   log in again
+ Reduce Privileges: Limit user access privileges; see p. 246
+ Active Alert (-20 modiﬁer to intruders)
+ Counterintrusion: If Trace (see below) is successful, launch intrusion attem
+   on intruder's home system
+ Lockout: Opposed Infosec Test; if successful, intruder dumped from system.
+ Reboot/Shutdown: Takes 1 Action Turn to 1 minute (GM discretion); all use
+   ejected from system.
+ Trace: Trace intruder to home system with a Research Test (-30 if in privacy m
+ Wireless Termination: At end of Action Turn, all wireless connections term
+   nated; wireless users ejected.
+     RESULTS
+     Infosec Task Action (10 minutes)
+     Opposed Infosec Test
+     Hidden status/admin privileges/+30 all Subversion T
+     Covert Status (p. 256)
+     Spotted status/passive alert/-10 all Subversion Tests
+     Locked status/active alert/-20 all Subversion Tests (p
+
+
+
+
+y
+
+                                  SUBVERSION EXAMPLES
+                   In addition to the tasks noted under the Subversion Difﬁc
+                        these modiﬁers present some additional example ac
+        MOD TASK
+            Hacking Bots/Vehicles
+         –0    Give orders to drones
+         –10   Alter sensor system parameters, disable sensors or weapon
+         –20     Alter smartlink input, send false data to AI or teleoperator
+         –30     Lockout AI or teleoperator, seize control via puppet sock
+            Hacking Ectos/Mesh Inserts
+               Interact with entoptics, befriend everyone in range, make on
+         –0
+               user’s credit, intercept communications, log activity
+               Alter social network proﬁle/status, adjust AR ﬁlters, tweak s
+         –10
+               change AR skin, change avatar, access VPN
+               Block or shufﬂe senses, inject AR illusions, spoof command
+         –20
+               devices
+         –30   Boot user out of AR
+              Hacking Habitat Systems
+         –0       Open/close doors, stop/start elevators, operate intercom
+                 Adjust temperature/lighting, disable safety warnings, replac
+         –10
+                 doors, switch trafﬁc timers
+                 Disable subsystems (plumbing, recycling, etc.), disable wire
+         –20
+                 repair crews
+         –30     Override safety cutoffs
+              Hacking Security Systems
+y/       –0      Move/manipulate cameras/sensors, locate security systems/
+         –10     Adjust patterns of sensor sweeps, view security logs, disable
+         –20     Delete security logs, dispatch security teams
+rs       –30     Disable alerts
+              Hacking Simulspace Systems
+         –0      View current status of simulspace, simulmorphs, and access
+                 Change domain rules, add cheats, alter parameters of story,
+         –10
+                 change time dilation
+         –20     Eject simulmorph, alter/erase character AIs
+         –30     Abort simulation
+              Hacking Spimes
+         –0      Get status report, use device functions
+         –10     Adjust AI/voice personality settings, adjust timed operation
+         –20     Disable sensors, disable device functions
+           Hacking Simulspaces From Within
+               Analyze simulation parameters, view domain rules, shape ap
+         –0
+               morph, switch simulmorph character or morph type
+               Change probability of test outcomes, become invisible
+         –10
+               (“out-game”) to others
+               Interfere with simulation (e.g. make it rain, generate earthq
+         –20
+               ignore domain rules, kill or lockout other simulmorphs
+         –30   Go into god mode, command simulated characters, take ove

@@ -1,0 +1,119 @@
+Implants: Basic Biomods, Basic Mesh Inserts, Cortical
+  Stack, Eidetic Memory, Hyper-Linguist, Math Boost
+Aptitude Maximum: 30
+Durability: 35
+Wound Threshold: 7
+Advantages: +10 COG, +5 INT, +5 WIL, +5 to one
+  aptitude of the player’s choice
+CP Cost: 40
+Credit Cost: Expensive
+
+OLYMPIANS
+Olympians are human upgrades with improved
+athletic capabilities like endurance, eye-hand coor-
+dination, and cardio-vascular functions. Olympians
+are common among athletes, dancers, freerunners,
+and soldiers.
+Implants: Basic Biomods, Basic Mesh Inserts,
+  Cortical Stack
+Aptitude Maximum: 30
+Durability: 40
+Wound Threshold: 8
+Advantages: +5 COO, +5 REF, +10 SOM, +5 to one
+  other aptitude of the player’s choice
+CP Cost: 40
+Credit Cost: Expensive
+
+SYLPHS
+Sylph morphs are tailor-made for media icons, elite
+socialites, XP stars, models, and narcissists. Sylph
+gene sequences are specifi cally designed for dis-
+tinctive good looks. Ethereal and elfin features are
+common, with slim and lithe bodies. Their metabo-
+lism has also been sanitized to eliminate unpleasant
+bodily odors and their pheromones adjusted for
+universal appeal.
+Implants: Basic Biomods, Basic Mesh Inserts, Clean
+   Metabolism, Cortical Stack, Enhanced Pheromones
+Aptitude Maximum: 30
+Durability: 35
+Wound Threshold: 7
+Advantages: Striking Looks (Level 1) trait, +5 COO,
+   +10 SAV, +5 to one other aptitude of the player’s
+   choice
+CP Cost: 40
+Credit Cost: Expensive
+
+BOUNCERS
+Bouncers are humans genetically adapted for zero-G
+and microgravity environments. Their legs are more
+limber, and their feet can grasp as well as their hands.
+Implants: Basic Biomods, Basic Mesh Inserts, Cortical
+   Stack, Grip Pads, Oxygen Reserve, Prehensile Feet
+Aptitude Maximum: 30
+Durability: 35
+Wound Threshold: 7
+Advantages: Limber (Level 1) trait, +5 COO, +5 SOM,
+  +5 to one aptitude of the player’s choice
+CP Cost: 40
+Credit Cost: Expensive
+FURIES
+Furies are combat morphs. These transgenic human
+upgrades feature genetics tailored for endurance,
+strength, and reflexes, as well as behavioral modifica-
+tions for aggressiveness and cunning. To offset tenden-
+cies for unruliness and macho behavior patterns, furies
+feature gene sequences promoting pack mentalities and
+cooperation, and they tend to be biologically female.
+Implants: Basic Biomods, Basic Mesh Inserts, Bio-
+   weave Armor (Light), Cortical Stack, Enhanced
+   Vision, Neurachem (Level 1), Toxin Filters
+Aptitude Maximum: 30
+Speed Modifier: +1 (neurachem)
+Durability: 50
+Wound Threshold: 10
+Advantages: +5 COO, +5 REF, +10 SOM, +5 WIL, +5
+   to one aptitude of the player’s choice
+CP Cost: 75
+Credit Cost: Expensive (minimum 40,000)
+
+FUTURAS
+An exalt variant, futura morphs were specially crafted
+for the “Lost generation.” Tailor-made for acceler-
+ated growth and adjusted for confidence, self-reliance,
+and adaptability, futuras were intended to help tran-
+shumanity regain its foothold. These programs proved
+disastrous and the line was discontinued, but some
+models remain, viewed by some with distaste and
+others as collectibles or exotic oddities.
+Implants: Basic Biomods, Basic Mesh Inserts, Cortical
+  Stack, Eidetic Memory, Emotional Dampers
+Aptitude Maximum: 30
+Durability: 35
+Wound Threshold: 7
+Advantages: +5 COG, +5 SAV, +10 WIL, +5 to one
+  other aptitude of the player’s choice
+CP Cost: 40
+Credit Cost: Expensive (exceptionally rare; 50,000+)
+
+GHOSTS
+Ghosts are partially designed for combat applications,
+but their primary focus is stealth and infiltration.
+Their genetic profile encourages speed, agility, and
+reflexes, and their minds are modified for patience and
+problem-solving.
+Implants: Basic Biomods, Basic Mesh Inserts, Chame-
+   leon Skin, Cortical Stack, Adrenal Boost, Enhanced
+  Vision, Grip Pads
+Aptitude Maximum: 30
+Durability: 45
+Wound Threshold: 9
+Advantages: +10 COO, +5 REF, +5 SOM, +5 WIL, +5
+   to one aptitude of the player’s choice
+CP Cost: 70
+Credit Cost: Expensive (minimum 40,000)
+
+HIBERNOIDS
+Hibernoids are transgenic-modified humans with
+heavily-altered sleep patterns and metabolic processes.
+Hibernoids have a decreased need for sleep, requiring

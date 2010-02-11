@@ -1,0 +1,117 @@
+ and coherent or logical thinking. Long-term users may
+ suffer the COG penalty even when not on the drug;
+ on it, they may be worse. [High]
+    Hither: Want to ooze sexy like a pleasure morph
+ on a hot tin roof? For those desiring that slinky je-ne-
+ sais-quoi, Hither is the tool. Hither is a clear, slippery
+ gel, sometimes with a faint, musky, floral scent. Hither
+ is applied to parts of the body with large concentra-
+ tions of sweat glands, where the skin quickly absorbs
+ it. Hither is a mild euphoriant, imparting a feeling of
+ confidence and you-know-you-want-it-ness to the user.
+ It also stimulates abundant production of lust phero-
+ mones. The character gains a +10 bonus on Persuasion
+ Tests against targets who are possible to seduce. At the
+ gamemaster’s discretion, this extends to Deception,
+ Impersonate, and Networking Tests. [Low]
+    Juice: This potent anti-depressant makes it almost
+ impossible to have bad feelings or negative thoughts.
+ The character is unnaturally happy—often irritatingly
+ or strangely so. The character receives a +30 bonus
+ against fear or attempts to manipulate their emotions
+ in a negative direction, but is also likely to act inap-
+ propriately, like giggling over the massive amount of
+ spilled blood or cheerfully changing the subject to
+ inane topics when someone else is freaking out. [Low]
+
+ NANODRUGS
+ Nanodrugs are temporary nanobot infestations that
+ apply a specific effect.
+    Frequency: Frequency (or Freeq) is a nanodrug de-
+ signed as a tool for scientific visualization. It releases
+ a small swarm of nanobots into the character’s blood-
+ stream that settle in the epidermis, where they act as
+ sensors of electromagnetic radiation. This sensory
+ input is then injected into the character’s visual and
+ tactile sensoria, hitting the user with a sequence of
+ novel stimuli, typically a light show or weird tactile
+ sensations. Aside from its recreational uses, Frequency
+ is good at picking up on localized field radiation with
+ a standard Perception Test. A character can take ad-
+ vantage of this to spot sensors and hidden electronics.
+ Similar to now-obsolete 20th-century hallucinogens
+ like LSD and psilocybin, however, a Frequency trip
+ can be disorienting and upsetting (the gamemaster
+ should apply any modifiers, mental stress, or even
+ trauma as they feel appropriate). Characters typically
+ experience a period about 1/3 of the way through
+ their trip in which sensory input is extremely intense;
+ during this period, which usually lasts about 2 hours,
+ they are unable to read. [Moderate]
+
+
+
+                                                     NANO
+NANODRUGS                  TYPE            APPLICATION
+Frequency                  Nano                Inj, O
+Gravy                      Nano                Inj, O
+Petals                     Nano                  O
+Schizo                     Nano                 Inj
+     OTHER NANODRUGS
+     Nanodrugs have the capability of making fun-
+     damental changes to a body’s biochemistry and
+     mental state. The potential effects are too nu-
+     merous to list, but gamemasters should consider
+     allowing nanodrugs that temporarily apply cer-
+     tain traits, such as Brave, Direction Sense, Math
+     Wiz, Pain Tolerance, Psi Chameleon, Psi Defense,
+     Situational Awareness, Tough, Feeble, Frail, Low
+     Pain Tolerance, Mental Disorder, Mild Allergy,
+     Neural Damage, Psi Vulnerability, Severe Al-
+     lergy, Timid, VR Conditioning, VR Vertigo, Weak
+     Immune System, or Zero-G Nausea. Similarly,
+     the nanodrug could force the character into a
+     particular mental emotional state, such as a bad
+     mood, edginess, contentment, or overconfi-
+     dence. Gamemasters are encouraged to experi-
+     ment with different possibilities and effects. ■
+
+
+
+      Gravy: Gravy assists characters in acclimating to
+   high gravity environments. It comes in a variety of
+   flavors and is often added as a sauce to food. For
+   Gravy to be 100% effective, the character must begin
+   using it in advance. Reduce penalties for high-gravity
+   acclimation by 20. [Low]
+      Schizo: Schizo is a nanodrug that mirrors the ef-
+   fects of paranoid schizophrenia. It is popular in
+   some hyperelite social circles as a truly daring and
+   intriguing experience. A dose of schizo looks like a
+   disposable antique razor blade. Making an incision
+   in the skin releases a swarm of nanobots that travel
+   to the central nervous system and induce the effects
+   of the drug. While in effect, the character is severely
+   paranoid and hears voices. How this plays out is at
+   the discretion of the gamemaster, but should include
+   irrational fears, unusual compulsions based on the
+   instructions of the voice or voices, and a strong pos-
+   sibility that the character will behave in a violent or
+   destructive fashion. The character may make WIL x 3
+   Tests to avoid violent acts against objects or strangers.
+   Friends and trusted acquaintances are probably less
+   likely to be targets of violence (+30 modifier to avoid
+   hurting people the character cares about or destroy-
+   ing important possessions). Note that the character’s
+   muse is unaffected by Schizo and can make efforts
+   to babysit the character. Characters who take Schizo
+   suffer 1d10 mental stress. [Low]
+
+
+
+RUGS
+URATION         ADDICTION MODIFIER         ADDICTION TYPE
+ 8 hours                  –10                   Mental
+ special                  —                       —
+hours–1 day           +10 to –20                Mental
+  1 day                   —                     Mental

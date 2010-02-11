@@ -1,0 +1,64 @@
+ table. Gamemasters and characters may decide to add             FAVOR LEVELS AND MODIFIERS
+ others appropriate to their game.                               Rep scores are broken down into five levels, reflecting
+   You purchase a Rep score in one or more of these              your standing within that community. Every 20 points
+ networks during character creation. Rep scores are              of Rep equals one level. See the Reputation Levels
+ rated between 0 and 99, just like skills. These ratings         table for a breakdown.
+ determine your ability to acquire goods, services, and             Likewise, favors are also broken down into five
+ information and favors, as noted below. These scores            levels, rated from Trivial to Scarce (see Favors, p. 289,
+ may be raised or lowered during game play according             for specific examples). The standard level of favor
+ to your character’s actions.                                    you can expect to get from a social network is based
+                                                                 on your level of Rep in that network. If you want to
+ USING NETWORKS AND REP                                          pursue a favor above your level, you can do so, but
+ In game terms, you take advantage of your connec-               you will suffer a negative modifier on your Network-
+ tions and personal cred every time you need a favor.            ing Test. This reflects that someone with low standing
+ A favor is broadly defined as anything you try to get           has a hard time getting people to go out of their way
+ via your social networks, whether that be information,          for them. Similarly, if you pursue a favor below your
+ aid, goods, and so on. Different types of favors are            level, you receive a positive modifier to your Network-
+ described under Favors, p. 289.                                 ing Test, reflecting that your prestige makes it easier to
+                                                                 acquire minor things that you need. For each level the
+ THE NETWORKING TEST                                             favor falls under or above your Rep score level, apply
+ To pursue a favor, you start by looking around. This            a + or –10 modifier, as appropriate.
+ calls for a Networking Test to determine if you can
+ find the person, people, or information you need.                   Jaqui’s on a scum barge and she needs to get a
+ This represents talking to people you know, spread-                 hold of a weapon fast. She has a speciﬁc weapon in
+ ing the word to people they know, posting queries to                mind, but it’s pricey—its cost is High. She decides
+ the social network at large, digging through various                her best approach is to try talking to the scum on
+ profiles, chat rooms, etc. to find someone who might                the ship to try and ﬁnd someone who can lend or
+ help you out, and so on.
+
+
+
+
+                                                                                                                               EXAMPLE
+                                                                     sell her such a weapon, using her @-rep and her
+    Networking Tests are subject to modifiers for the                Networking: Autonomist skill of 50. Acquiring a
+ level of the favor (see below), the amount the char-                High cost item counts as a Level 4 High favor (see
+ acter is trying to keep quiet about the request (see                Acquire/Unloads Goods, p. 289). Jaqui’s @-rep
+ below), and any other factors noted on the Network-                 is 53, which is only Level 3. Since the favor is one
+ ing Modifiers table or determined by the gamemaster.                level higher than her rep level, she suffers a –10
+    Networking Tests are Task Actions—it takes time                  modiﬁer on her Networking Test. Jaqui must roll a
+ to call in favors or track down information. The time-              40 or less (50 – 10) to ﬁnd a weapon supplier.
+ frame depends on the level of favor, as noted on the
+ Favors table, p. 289.
+
+
+
+                                          REPUTATION NETWORKS
+NETWORK NAME                   REP NAME           NETWORKING FIELD       FACTIONS AND OTHERS
+The Circle-A List              @-Rep              Autonomists            anarchists, Barsoomians, Extropians, Titanian, and scum
+CivicNet                       c-Rep              Hypercorps             hypercorps, Jovians, Lunars, Martians, Venusians
+EcoWave                        e-Rep              Ecologists             nano-ecologists, preservationists, and reclaimers
+Fame                           f-Rep              Media                  socialites (also artists, glitterati, and media)
+Guanxi                         g-Rep              Criminals              criminals
+The Eye                        i-Rep              Firewall               Firewall
+Research Network Associates r-Rep                 Scientists             argonauts (also technologists, researchers, and scientists)
+
+
+
+       NETWORKING MODIFIERS                                                 REPUTATION LEVELS
+             SITUATION                      MODIFIER                   REPUTATION SCORE                      REPUTATION LEVEL
+    Favor level exceeds Rep level          –10 per level                        0–19                                 Level 1
+    Rep level exceeds favor level          +10 per level                       20–39                                 Level 2
+            Keeping quiet              –Variable (see p. 288)                  40–59                                 Level 3
+             Burning Rep               +Rep amount burned                      60–79                                 Level 4
+             Paying extra                  +10 per level                       80–99                                 Level 5

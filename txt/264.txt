@@ -1,0 +1,118 @@
+spasms (pain), nightmares (fear), and shutters (sensory
+deprivation). These are described on p. 332 of Gear.
+
+SHUTDOWN
+If a cyberbrain is shut down (p. 257), the morph im-
+mediately ceases activity, perhaps collapsing or rolling
+to a stop. Pods will appear to be in a coma. The ego,
+however, will be rebooted along with the cyberbrain.
+
+TERMINATE CORTICAL STACK FEED
+The cyberbrain feeds backup data to the cortical stack.
+This is a one-way connection, so the cortical stack may
+not be hacked, but the transfer of data may be cut off.
+This termination action requires an Opposed Infosec
+Test between the hacker (with the –30 modifier) and
+the defender. The ego’s backup will not be updated for
+as long as the connection remains off.
+
+
+
+RADIO JAMMING
+Radio jamming is a method of transmitting radio
+signals that deliberate interfere with other radio
+signals in order to disrupt communications. In the
+highly-networked world of Eclipse Phase, intentional
+jamming is often illegal, not to mention rude.
+  Radio jamming does not require any special equip-
+ment other than a standard wireless device, such as
+an ecto or mesh inserts. Jamming can be selective
+or universal. Selective jamming targets a particular
+device or set of devices. In order to selectively jam,
+the character must have scanned the target device(s)
+(p. 251). Universal devices target all radio-equipped
+devices indiscriminately.
+  Jamming simply requires a Complex Action and an
+Interfacing Test. If successful, affected devices within
+range have their radio communications disrupted—
+they are cut off from the mesh and may not commu-
+nicate wirelessly. Wired devices are unaffected.
+   Devices equipped by AIs will automatically attempt
+to overcome jamming, which requires a Complex
+Action (transhuman users may also do the same). In
+this case, a Variable Opposed Test is made between
+the jammer and defender. If the jammer wins, all com-
+munications are blocked; if the defender wins, they
+are unaffected. If both parties succeed, the defender’s
+communications are impacted but not completely cut
+off. The gamemaster decides how much information
+the defender can get through, and how this situation
+affects mesh use.
+
+JAMMING RADAR
+Jamming can also be used to interfere with radar. In
+this case, if the jammer makes an Interface Test. If
+successful, the radar suffers interference, imposing
+a –30 modifier on all sensor-related tests. The entity
+operating the radar may attempt to overcome this
+interference by beating the jammer in an Opposed
+Interface Test.
+SIMULSPACES
+Simulspaces are virtual reality environments where
+the resolution advances beyond realistic high defini-
+tion and into the hyper-real. The environments they
+create are comprehensive and authentic illusions, from
+aspects like lighting, day or lunar cycles, and weather
+down to minute details and sensations. Jacking into
+a simulspace is much like crossing over into a alter-
+nate world or reality, which is why simulspaces have
+become increasingly popular in entertainment.
+   While simulspaces usually cannot harm characters
+immersed in them as the sensory algorithms are not
+intended to be offensive programs or routines, experi-
+ences in simulspaces can have a strong psychological
+impact on an ego, as the simulation is as close to
+reality as you can get. A character who is “physically”
+tortured within a simulspace will not be physically
+harmed, but the mental stress of the experience might
+still be sufficient to cause permanent traumas.
+
+SIMULMORPHS
+Characters access simulspace using an avatar-like per-
+sona called a simulmorph. This simulmorph is created by
+the simulspace, based on the domain rules of the simu-
+lation and certain characteristics of the morph or ego
+accessing the simulation. Depending on the simulation,
+this simulmorph may be customizable to varying degrees.
+   While interacting with the simulation, treat simul-
+morphs as basic infomorphs for all rules purposes,
+even if the egos are still possessing another morph
+body in reality.
+   When accessing a simulspace, muses are usually not
+transferred into the simulation, though they can po-
+tentially come along if domain rules permit it. In this
+case, muses are treated as separate characters within
+the simulspace with their own simulmorph body.
+   Depending on the role a simulspace is intended to play
+in the story, the gamemaster may want to invent “physi-
+cal stats” for the simulmorph bodies, especially if the
+characters are likely to spend a lot of time in the simula-
+tion. These statistics can literally be made up—it is a vir-
+tual reality after all, and anything goes. Alternately, the
+gamemaster can simply wing it and invent any necessary
+statistics on the fly as the need for them comes up.
+
+IMMERSION
+When a character immerses themselves in a simulspace,
+they “become” the simulmorph. The character’s physi-
+cal body, typically secluded and protected in a vat or
+couch, slumps inertly. While immersed, they suffer –60
+on all Perception Tests or attempts to take action with
+their physical morph. Characters can enter and leave
+the simulspace as will, but toggling in or out takes a
+Complex Action.
+  If the simulspace crashes or the character is other-
+wise dumped from it, they immediately resume con-
+trol of their own morph as normal. VR dumpshock is
+extremely jarring, and the character suffers 1d10 ÷ 2
+mental stress.

@@ -1,0 +1,88 @@
+ them like a frisbee, after which they propel themselves
+ with an ionic drive (p. 310). Saucers make excellent
+“eye in the sky” monitors and scouts. [Low]
+    Servitor: Servitors are the most common robot,
+ acting as cooks, janitors, universal helpers, movers,
+ and personal aides. Every home has one, if not several.
+ Servitors are intentionally built in non-humanoid
+ forms so as not to confuse them with common
+ synthmorphs and in order to defuse bad feelings at
+ ordering them around. However, they all have some
+ form of “face” to interact with, so as not to be too
+ machine-like. [Low]
+    Speck: Specks are tiny insectoid spy drones, 2.5 mm
+ long and 2 mm wide, about the size of a small fruit fly.
+They fly with tiny wings, carry a microbug, and are
+ excellent for surveillance purposes or otherwise being
+ a “speck on a wall.” Specks are difficult to notice (–30
+ Perception modifier) and almost impossible to distin-
+ guish from an actual insect. [Low]
+
+ SPACECRAFT
+ Though egocasting is a common method of personal
+ transport and it’s often easier to simply transmit the
+ specifications for various goods and to allow nano-
+ factories to create duplicates, spacecraft play an
+ important role in the solar system, carrying both pas-
+ sengers and valuable cargo. Both in terms of materials
+ and propulsion, spacecraft in the post-Fall era are far
+ superior to the primitive vessels used in the 20th and
+ early 21st centuries, but they are still based on the
+ same principles.
+
+
+
+
+                                                     VEHICLES
+                                            MAX
+ROBOT            MOVEMENT RATE            VELOCITY            ARM
+Automech                 4/8                    8                4/4
+Enhancements: Access Jacks, Electrical Sense, Extra Limbs (4), Headl
+Creepy                   4/12                   12               2/2
+Enhancements: +5 COO, Access Jacks, Chameleon Skin, Extra Limbs
+Dr. Bot                  4/16                   16                —
+Enhancements: Access Jacks, Enhanced Smell, Fabber, Fractal Digits,
+Dwarf                    4/12                   20              16/1
+Enhancements: +10 SOM, Access Jacks, Extra Limbs (4), Industrial A
+Gnat                     8/40                   60               2/2
+Enhancements: 360-Degree Vision, Access Jacks, Enhanced Hearing,
+Guardian Angel           8/40                   80              14/1
+Enhancements: +5 REF, 360-Degree Vision, Access Jacks, Chamele
+               Lidar, Light Combat Armor, Neurachem, T-Ray Em
+Saucer                   8/40                 200                2/2
+Enhancements: 360-Degree Vision, Access Jacks, Chameleon Skin, En
+Servitor                 4/20                   20               4/4
+Enhancements: Access Jacks, Extra Limbs (2-6)
+Speck                    1/5                    5                 6
+Enhancements: +5 REF, +5 COO, –10 SOM, Access Jacks, Grip Pads,
+      Spacecraft have few stats in Eclipse Phase, as they
+    are primarily handled as setting rather than vehicles.
+    Note also that no stats are given for spacecraft weap-
+    onry. It is highly recommended that space combat be
+    handled as a plot device rather than a combat scene,
+    given the extreme lethality and danger involved.
+
+
+—ROBOTS
+                          WOUND                    MOBILITY
+     DURABILITY         THRESHOLD                  SYSTEM
+          30                  6             Wheeled/Vector-Thrust
+, Magnetic System, Radiation sense, Utilitool, misc. tools
+          25                  5                Walker or Hopper
+), Grip Pads
+          40                  8                     Wheeled
+ ing Vat, Nanoscopic Vision
+         150                  30                     Walker
+ Radar, Sonar, misc. tools
+          25                  5                      Rotor
+anced Vision, Radar
+          40                  8                      Rotor
+kin, Eelware, Enhanced Hearing, Enhanced Smell, Enhanced Vision,
+r
+          25                  5                       Ionic
+ed Hearing, Enhanced Vision, Radar
+          30                  6               Walker or Wheeled
+
+
+          50                  10                Winged/Hopper
+anced Hearing, Enhanced Vision, Synthetic Mask

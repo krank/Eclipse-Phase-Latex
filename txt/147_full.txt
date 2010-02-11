@@ -1,0 +1,60 @@
+fan blades for airlift. The controlling computer and       per game session. The character’s ties to this group
+sensor systems are distributed throughout the swarm.       are also a two-way street—they will be expected to
+Though the swarm can “meld” together into a roughly        perform duties for the group on occasion as well (a
+child-sized shape, the swarm is incapable of tackling      potential plot seed for scenarios).
+physical tasks like grabbing, lifting, or holding as a
+unit. Individual bugs are quite capable of interfacing     AMBIDEXTROUS
+with electronics.                                          Cost: 10 CP
+Enhancements: Access Jacks, Basic Mesh Inserts, Cor-         The character can use and manipulate objects
+  tical Stack, Cyberbrain, Mnemonic Augmentation,          equally well with both hands (they do not suffer the
+  Swarm Composition                                        off-hand modifier, as noted on p. 193). If the char-
+Mobility System: Walker (2/8), Hopper (4/20), Rotor        acter has other prehensile limbs (feet, tail, tentacles,
+  (4/32)                                                   etc), this trait may be applied to a limb other than
+Aptitude Maximum: 30                                       the hand. This trait may be taken multiple times for
+Durability: 30                                             multiple limbs.
+Wound Threshold: 6
+Advantages: See Swarm Composition (p. 311)                 ANIMAL EMPATHY
+Disadvantages: See Swarm Composition (p. 311)              Cost: 5 CP
+CP Cost: 25                                                  The character has an instinctive feel for handling
+Credit Cost: Expensive                                     and working with non-sapient animals of all kinds.
+                                                           Apply a +10 modifier to Animal Handling skill tests
+INFOMORPHS                                                 or whenever the character makes a test to influence or
+Infomorphs are digital-only forms—they lack a physi-       interact with an animal.
+cal body. Infomorphs are sometimes carried by other
+characters instead of (or in addition to) a muse in a      BRAVE
+ghostrider module (p. 307). Full rules for infomorphs      Cost: 10 CP
+can be found on p. 264.                                      This character does not scare easily, and will face
+Enhancements: Mnemonic Augmentation                        threats, intimidation, and certain bodily harm with-
+Aptitude Maximum: 40                                       out flinching. As a side effect, the character is not
+Speed Modifier: +2                                         always the best at gauging risks, especially when it
+Disadvantages: No physical form                            comes to factoring in danger to others. The charac-
+CP Cost: 0                                                 ter receives a +10 modifier on all tests to resist fear
+Credit Cost: 0                                             or intimidation.
+
+                                                           COMMON SENSE
+TRAITS                                                     Cost: 10 CP
+Unless otherwise noted, listed traits are ego traits.        The character has an innate sense of judgment that
+                                                           cuts through other distractions and factors that might
+POSITIVE TRAITS                                            cloud a decision. Once per game session, the player
+Positive traits provide bonuses to the character in        may ask the gamemaster what choice they should
+certain situations.                                        make or what course of action they should take, and
+                                                           the gamemaster should give them solid advice based
+ADAPTABILITY                                               on what the character knows. Alternately, if the
+Cost: 10 (Level 1) or 20 (Level 2) CP                      character is about to make a disastrous decision, the
+  Resleeving is a breeze for this character. They adjust   gamemaster can use the character’s free hint and warn
+to new morphs much more quickly than most other            the player they are making a mistake.
+people. Apply a +10 modifier per level for Integration
+Tests and Alienation Tests (p. 272).                       DANGER SENSE
+                                                           Cost: 10 CP
+ALLIES                                                       The character has an intuitive sixth sense that warns
+Cost: 30 CP                                                them of imminent threats. They receive a +10 modifier
+   The character is part of or has a relationship with     on Surprise Tests (p. 204).
+some influential group that they can occasionally call
+on for support. For example, this could be their old       DIRECTION SENSE
+gatecrashing crew, former research lab co-workers,         Cost: 5 CP
+a criminal cartel they are part of, or an elite social        Somehow the character always knows which way
+clique. The gamemaster and player should work out          is up, north, etc., even when blinded. The character
+what the character’s relationship is with this group,      receives a +10 modifier for figuring out complex di-
+and why the character can call on them for aid.            rections, reading maps, and remembering or retracing
+Gamemaster’s should take care that these allies are        a path they have taken.
+not abused, such as calling on them more than once

@@ -1,0 +1,118 @@
+REACH
+Some weapons extend a character’s reach, giving
+them a significant advantage over an opponent in
+melee combat. This applies to any weapon over half
+a meter long: axes, clubs, swords, shock batons, etc.
+Whenever one character has a reach advantage over
+another, they receive a +10 modifier for both attacking
+and defending.
+
+SCATTER
+When you are using a blast weapon, you may still
+catch your target in the blast radius even if you fail to
+hit them directly. Weapons such as grenades must go
+somewhere when they miss, and exactly where they
+land may be important to the outcome of a battle. To
+determine where a missed blast attack falls, the scatter
+rules are called into play.
+  To determine scatter, roll a d10 and note where the
+die “points” (using yourself as the reference point).
+This is the direction from the target that the missed
+blast lands. The die roll also determines how far away
+the blast lands, in meters. If the MoF on the attack is
+over 30, this distance is doubled. If the MoF exceeds
+60, the distance is tripled. This point determines the
+epicenter of the blast; resolve the effects of damage
+against anyone caught within its sphere of effect as
+normal (see Blast Effect, p. 193).
+
+
+
+                        1 or 2
+                  10               3
+
+              9                         4
+
+                  8                5
+                        6 or 7
+
+SHOCK ATTACKS
+Shock weapons use high-voltage electrical jolts to
+physically stun and incapacitate targets. Shock weap-
+ons are particularly effective against biomorphs and
+pods, even when heavily armored. Synthmorphs, bots,
+and vehicles are immune to shock weapon effects.
+   A biomorph struck with a shock weapon must
+make a DUR + Energy Armor Test (using their cur-
+rent DUR score, reduced by damage they have taken).
+If they fail, they immediately lose neuromuscular
+ control, fall down, and are incapacitated for 1 Action
+Turn per 10 full points of MoF (minimum of 3 Action
+Turns). During this time they are stunned and inca-
+pable of taking any action, possibly convulsing, suf-
+fering vertigo, nausea, etc. After this period, they may
+act but they remain stunned and shaken, suffering a
+–30 modifier to all actions. This modifier reduces by
+10 per minute (so –20 after 1 minute, –10 after 2 min-
+utes, and no modifier after 3 minutes). Many shock
+weapons also inflict DV, which is handled as normal.
+   A biomorph that succeeds the DUR Test is still
+shocked but not incapacitated. They suffer half the
+listed DV and suffer a –30 modifier until the end of
+the next Action Turn. This modifier reduces by 10 per
+Action Turn. Modifiers from additional shocks are
+not cumulative, but will boost the modifier back to
+its maximum value.
+
+SUBDUAL
+To grapple an opponent in melee combat, you must
+declare your intent to subdue before making the die
+roll. Any appropriate melee skill may be used for the
+attack; if wielding a weapon, it may be used as part of
+the grappling technique. If you succeed in your attack
+with an Excellent Success (MoS of 30+), you have suc-
+cessfully subdued your opponent (for the moment, at
+least). Grappling attacks do not cause damage unless
+you roll a critical success (though even in this case you
+can choose not to).
+   A subdued opponent is temporarily restrained or
+immobilized. They may communicate, use mental
+skills, and take mesh actions, but they may not take
+any physical actions other than trying to break free.
+(At the gamemaster’s discretion, they may make small,
+restrained physical actions, such as reaching for a
+knife in their pocket or grabbing an item dropped a
+few centimeters away on the floor, but these actions
+should suffer at least a –30 modifier and may be no-
+ticed by their grappler).
+   To break free, a grappled character must take a
+Complex Action and succeed in either an Opposed
+Unarmed Combat Test or an Opposed SOM x 3 Test,
+though the subdued character suffers a –30 modifier
+on this test.
+
+SUPPRESSIVE FIRE
+A character firing a weapon in full-auto mode (p. 198)
+may choose to lay down suppressive fire over an area
+rather than targeting anyone specifically, with the
+intent of making everyone in the suppressed area keep
+their heads down. This takes a Complex Action, uses
+up 20 shots, and lasts until the character’s next Action
+Phase. The suppressed area extends out in a cone, with
+the widest diameter of the cone being up to 20 meters
+across. Any character who is not behind cover or who
+does not immediately move behind cover on their
+action is at risk of getting hit by the suppressive fire. If
+they move out of cover inside the suppressed area, the
+character laying down suppressive fire gets one free
+attack against them, which they may defend against
+as normal. Apply no modifiers to these tests except
+for range, wounds, and full defense. If hit, the struck
+character must resist damage as if from a single shot.
+
+SURPRISE
+Characters who wish to ambush another must seek to
+gain the advantage of surprise. This typically means
+sneaking up on, lying in wait, or sniping from a hard-
+to-perceive position in the distance. Any time an am-
+busher (or group of ambushers) attempts to surprise a

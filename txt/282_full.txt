@@ -1,0 +1,61 @@
+or sense certain patterns. These scans are all but
+impossible to fool, however, barring hacking of the           LIFE IN SPACE
+brainprint scanner itself, and so are considered quite        Transhumanity is not just a spacefaring race, it is
+reliable. For this reason they are occasionally used in       also largely space-dwelling. While a substantial por-
+high-security facilities.                                     tion of transhumanity inhabits planetary bodies like
+   It is worth noting that infection by some variants         Mars, Luna, Venus, and the moons of the gas giants,
+of the Exsurgent virus, notably the Watts-Macleod             the balance live in a variety of space habitats, ranging
+strain (p. 367), sometimes alters a person’s brainwave        from the old-fashioned O’Neill cylinders of the inner
+patterns, but not in every case.                              system to the Cole bubbles of the outer system.
+
+DIGITAL CODE                                                  SPACE HABITATS
+Digital ID codes are often incorporated into backups and      Space habitats come in many sizes and configura-
+infomorphs. Not only does this help identify who the          tions, from survivalist outposts designed to support
+backup belongs to, but it serves as an electronic signature   ten or fewer people to miniature worlds in resource-
+for verifying ID when the backup is to be resleeved. This     rich areas housing as many as ten million people. In
+digital code typically contains the same information as       heavily settled regions of space, such as Martian orbit,
+the nanotat ID, and is signed with a cryptographic hash       habitats may be integrated into local infrastructure,
+that makes it difficult to forge and which can be verified    relying to some extent on supply shipments from other
+online. AIs and AGIs also feature such built-in codes.        orbital installations.
+                                                                 More commonly, especially in the outer system,
+CIRCUMVENTING ID CHECKS                                       habitats are independent entities. This usually means
+Firewall sentinels and clandestine agents often have a        that in addition to the main space station, the habitat
+need to hide or alter their identities. While ID system       is attended by a host of support structures, including
+are challenging, they are not insurmountable.                 zero-g factories, gas and volatiles refineries, foundries,
+                                                              defense satellites, and mining bases.
+FAKE IDS                                                          Habitats—especially large ones—sometimes have
+The easiest way to bypass security checks is to establish     visitors, as well. Majors habitats are crossroads in
+a fake ID. Given the patchwork nature of identity re-         space. In addition to scheduled bulk freighter stops,
+cords and the lack of any centralized authority, this is      they may have hangers-on such as scum barges, pros-
+not very difficult. Numerous crime syndicates and even        pectors, or out-of-work autonomous bot swarms.
+some autonomist groups maintain a thriving ID fabrica-           Many habitats have some form of transportation
+tion business, often with complete histories and medical      network. This is most common in large cylindrical
+covers for implants that might be restricted or illegal.      habitats with centrifugal gravity. Common solutions
+   These IDs are usually registered with habitats that are    for public transit include monorail trains, trams, and
+either known criminal havens, have autonomist sym-            dirigible skybuses. Common personal transit options
+pathies, or are isolated and remote. Though the ID is         included bicycles, scooters, motorcycles, and micro-
+actually verifiable and registered with these stations, the   light aircraft, with larger vehicles being uncommon
+potential shady origins of such IDs is known to most          and usually reserved for official use.
+inner system authorities and so the character may be             Most habitats with large interior spaces also use aug-
+exposed to extra scrutiny or monitoring. Fake IDs may         mented reality overlays to create consensual hallucina-
+be acquired that are registered with more respected au-       tions of a sky and clouds, to which most residents keep
+thorities, but this often requires a much higher expense      their AR channels tuned. One would think that in space,
+or connections to hypercorp clandestine operations.           talking about the weather would have disappeared from
+   Black market darkcast and resleeving options offer         transhumanity’s repertoire of small talk, but the habit
+fake IDs as a matter of course.                               persists—only the weather discussed is usually virtual (if
+                                                              it’s not real “weather”—solar flare activity and the like).
+ALTERING NANOTAT IDS
+Special nanobot treatments may be manufactured                CLUSTER COLONY
+to erase, rewrite, or replace nanotat IDs. Erasing a          Clusters are the most common form of microgravity
+nanotat is easy, but not having one is a crime and im-        habitat. Clusters consist of networks of spherical or
+mediate grounds for suspicion in many habitats. Re-           rectangular modules made of light materials and con-
+writing a nanotat is also easy, though this means that        nected by floatways. Typically business and residential
+the nanotat will fail its authorization online unless the     modules are clustered around arterial floatways and in-
+encryption has also been cracked (p. 253). Replacing          frastructure modules such as farms, power, and waste
+a nanotat ID with a fake one is just as possible, and is      recycling. Limited artificial gravity areas may exists,
+part of the process of acquiring a fake ID.                   frequently parks or other public places and specialized
+                                                              modules like resleeving facilities (morphs often keep
+DIGITAL ID TAMPERING                                          better when stored in gravity). Arterial floatways in
+Digital ID codes may also be tampered with, though like       large clusters may have “fast lanes” where a constantly
+nanotat IDs this will mean that the ID fails online verifi-   moving conveyor of grab-loops speeds people along.
+cation unless the encryption is also defeated (p. 253).

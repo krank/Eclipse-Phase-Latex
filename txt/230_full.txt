@@ -1,0 +1,73 @@
+who are actively observing (even if they are concealing       SPAM
+their observation). This sleight is effective in spotting a       PSI TYPE:   Active       ACTION:     Complex
+tail, as well as finding potential mates in a bar.
+                                                                  RANGE:      Touch        DURATION: Temp (Action Turns)
+
+PENETRATION                                                        STRAIN MOD: +0            SKILL:    Psi Assault
+    PSI TYPE:   Active        ACTION:     Quick               The sleight allows the async to overload and flood one
+                                                              of the target’s sensory cortices (chosen by the async),
+    RANGE:      Touch         DURATION:   Instant
+                                                               spamming them with confusing and distracting sen-
+     STRAIN MOD: 1 per AP point SKILL:  Psi Assault            sory input and thereby impairing them. If the async
+Penetration is a sleight that works in conjunction with       wins the Opposed Test, the target suffers a –10 modi-
+any offensive sleight that involves the Psi Assault skill.    fier to all tests the duration of the sleight (doubled to
+It allows the async to penetrate the Psi Shield of an op-     –20 if the async scores an Excellent Success).
+ponent by concentrating their psi attack. Every point
+of Armor Penetration applied to a psi attack inflicts         STATIC
+1 point of strain. The maximum AP that may be ap-                 PSI TYPE:   Active       ACTION:     Complex
+plied equals the async’s Psi Assault skill divided by 10
+(round down).                                                     RANGE:      Close        DURATION:   Sustained
+                                                                  STRAIN MOD: +0           SKILL:    None
+PSI SHIELD                                                    The async generates an anti-psi jamming field, imped-
+    PSI TYPE:   Passive       ACTION:     Automatic           ing any use of ranged sleights within their range. All
+                                                              such ranged sleights suffer a –30 modifier. This sleight
+    RANGE:      Self         DURATION: Constant
+                                                              has no effect on self or touch-range sleights.
+Psi Shield bolsters the async’s mind to psi attack and
+manipulation. If the async is hit by a psi attack, they       SUBLIMINAL
+receive WIL ÷ 5 (round up) points of armor, reducing
+the amount of damage inflicted. They also receive a               PSI TYPE:   Active       ACTION:     Complex
++10 modifier when resisting any other sleights.                   RANGE:      Touch        DURATION:   Instant
+                                                                  STRAIN MOD: +2           SKILL:    Control
+PSYCHIC STAB                                                  The Subliminal sleight allows the async to influence
+    PSI TYPE:   Active        ACTION:     Complex             the train of thought of another person by implement-
+    RANGE:      Touch         DURATION:   Instant             ing a single post-hypnotic suggestion into the mind
+                                                              of the target. If the async wins the Opposed Test, the
+    STRAIN MOD: +0           SKILL:    Psi Assault
+                                                              recipient will carry out this suggestion as if it was
+Psychic Stab is an offensive sleight that seeks to inflict    their own idea. Implanted suggestions must be short
+physical damage on the target’s brain and nervous             and simple; as a rule of thumb, the gamemaster may
+system. Each successful attack inflicts 1d10 + (WIL ÷         only suggestions encompassed by a short sentence
+10, round up) damage. Increase the damage by +5 if            (for example: “open the airlock,” or “hand over the
+an Excellent Success is scored.                               weapon”). At the gamemaster’s discretion, the target
+                                                              may receive a bonus for resisting suggestions that are
+SCRAMBLE                                                      immediately life threatening (“jump off the bridge”)
+    PSI TYPE:   Passive       ACTION:     Automatic           or that violate their motivations or personal strictures.
+   RANGE:      Self       DURATION: Constant
+                                                              Suggestions do not need to be carried out immediately,
+                                                              they may be implanted with a short trigger condition
+Scramble allows the async using the sleight to hide
+                                                              (“when the alarm goes off, ignore it”).
+from another async using the Ego Sense or Omni
+Awareness sleights. Apply a +30 modifier to the de-
+fending async’s Opposed Test.
+                                                              THOUGHT BROWSE
+                                                                  PSI TYPE:   Active       ACTION:     Complex
+SENSE BLOCK                                                       RANGE:      Touch        DURATION:   Sustained
+    PSI TYPE:   Active        ACTION:     Complex                 STRAIN MOD: –1          SKILL:   Sense
+    RANGE:      Touch         DURATION: Temp (Action Turns)   Thought Browse is a less-intrusive form of mind
+    STRAIN MOD: –1            SKILL:   Psi Assault            reading which scans the target’s surface thoughts for
+                                                              certain “keywords” like a particular word, phrase,
+Sense Block disables and short circuits one of the tar-
+                                                              sound, or image chosen by the async. Rather than dig-
+get’s sensory cortices (chosen by the async), interfering
+                                                              ging through the target’s ego as with the Deep Scan
+with and possibly negating a specific source of sensory
+                                                              sleight, Thought Browse merely verifies whether a
+input for the chosen duration. If the async beats the
+                                                              target has a particular person, place, event, or thing
+target in the Opposed Test, the target suffers a –30
+                                                              in mind, which can be used by a savvy investigator to
+modifier to Perception Tests with that sense equal (dou-
+                                                              draw conclusions without the need to invade the mind
+bled to –60 if the async scores an Excellent Success).

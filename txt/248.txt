@@ -1,0 +1,78 @@
+speed of thought. This is the default method of mesh
+use and suffers no modifiers. They are, however, more
+prone to visual and operative impairments (virtual il-
+lusions, denial-of-service effects) when hacked.
+  Characters who use the haptic interface of an ecto,
+however, suffer a slight delay on their mesh activities
+due to manual toggling, physical controls, and physi-
+cal interaction with virtual controls. In game terms,
+the use of haptics imposes a –10 skill modifier to
+all mesh tests where timing is rushed (particularly
+combat and or any sort of mesh use under pressure).
+Additionally, increase the timeframe for mesh-based
+Task Actions by +25% when interfacing via haptics.
+On the positive side, ectos can be easily removed and
+discarded if compromised—for this reason, many
+hackers and security-conscious users use an ecto in
+addition to their mesh inserts, routing all high-risk
+traffic through the ecto as an extra line of defense.
+
+MESH ID
+Every mesh user (and, in fact, every device) has a
+unique code called their mesh ID. This ID distin-
+guishes them from all other users and devices, and is
+the mechanism by which others can find them online,
+like a combination phone number, email address, and
+screen name. Mesh IDs are used in almost all online in-
+teractions, which are often logged, meaning that your
+activities online leave a datatrail that can be tracked
+(p. 251). Fortunately for Firewall sentinels and others
+who value their privacy, their are ways around this
+(see Privacy and Anonymity, p. 252). AIs, AGIs, and
+infomorphs also each have their own unique mesh ID.
+
+ACCOUNTS AND ACCESS PRIVILEGES
+Devices, networks (such as PANs, VPNs, and hard-
+wired networks), and services require that every user
+that accesses them does so with an account. The
+account serves to identify that particular user, is
+linked to their mesh ID, and determines what access
+privileges they have on that system. There are four
+types of accounts: public, user, security, and admin.
+
+PUBLIC ACCOUNTS
+Public accounts are used for systems that allow
+access (or access to parts of their system) to anyone
+
+
+
+
+  ELITE EXPLOITS
+  The mesh gear quality rules allow for players
+  and gamemasters to make a distinction between
+  software tools, separating the open-source,
+  stock-repertoire exploit tools of amateur hackers
+  from cutting-edge military-grade penetration
+  wares. While many characters will simply buy or
+  otherwise acquire such programs, a hacker with
+  the do-it-yourself ethic is likely going to want
+  to design their own personalized applications,
+  based on their playbook of closely-guarded in-
+  trusion/counterintrusion methods.
+     To reﬂect the efforts a hacker character makes
+  by designing, coding, and modifying their own
+  customized personal arsenals, they may make a
+  Task Action Programming Test with timeframe
+  of 2 weeks. If they succeed, they upgrade one
+  of their software tools by one level of quality
+  (i.e., from +0 to +10). Multiple Programming
+  Tests can be made to enhance a program, but for
+  each level add the target modiﬁer as a negative
+  modiﬁer to the test (so upgrading a +0 suite to
+  +10 is a –10 modiﬁer on the Programming Test).
+     Similarly, at the gamemaster’s discretion, soft-
+  ware tools—particularly exploits—may degrade
+  in quality over time, reﬂecting that they have
+  become outdated. As a general rule, such pro-
+  grams should degrade in quality about once
+  every 3 months.                                 ■

@@ -1,0 +1,59 @@
+modifiers should be applied, based on conditions and       STRESS VALUE
+available tools. For example, utilitools (p. 326) apply    Any source capable of inflicting cognitive stress is given
+a +20 modifier to repair tests, while repair spray ap-     a Stress Value (SV). This indicates the amount of stress
+plies a +30 modifier.                                      points the attack or experience inflicts upon a character.
+                                                           Like DV, SV is often presented as a variable amount, such
+REPAIRING ARMOR                                            as 2d10, or sometimes with a modifier, such as 2d10 +
+Armor may be repaired in the same manner as Dura-          10. Simply roll the dice and total the amounts to deter-
+bility, however, wounds do not impact the test with        mine the stress points inflicted in that instance. To make
+modifiers or extra time.                                   things easier, a static SV is also given in parentheses after
+                                                           the variable amount; use that set amount when you wish
+                                                           to keep the game moving and don’t want to roll dice.
+MENTAL HEALTH
+   In a time when people can discard bodies and            TRAUMA
+replace them with new ones, trauma inflicted on            Mental trauma is more severe than stress points. Trau-
+your mind and ego—your sense of self—is often              mas represent severe mental shocks, a crumbling of
+more frightening than grievous physical harm. There        personality/self, delirium, paradigm shifts, and other
+are many ways in which your sanity and mental              serious cognitive malfunctions. Traumas impair your
+wholeness can be threatened: experiencing physical         character’s functioning and may result in temporary
+death, extended isolation, loss of loved ones, alien       derangements or permanent disorders.
+situations, discontinuity of self from lost memories         If your character receives a number of stress points
+or switching morphs, psi attack, and so on. Two            at once that equals or exceeds their Trauma Thresh-
+methods are used to gauge your mental health: stress       old, they have suffered a trauma. If the inflicted stress
+points and trauma.                                         points are double or triple the Trauma Threshold, they
+                                                           suffer 2 or 3 traumas, respectively, and so on. Trau-
+STRESS POINTS                                              mas are cumulative and must be recorded on your
+Stress points represent fractures in your ego’s in-        character sheet.
+tegrity, cracks in the mental image of yourself. This
+mental damage is experienced as cerebral shocks,           TRAUMA EFFECTS
+disorientation, cognitive disconnects, synaptic mis-       Each trauma applies a cumulative –10 modifier to all
+fires, or an undermining of the intellectual faculties.    of the character’s actions. A character with 2 traumas,
+On their own, these stress points do not significantly     for example, suffers –20 to all actions. These modifiers
+impair your character’s functioning, but if allowed to     are also cumulative with wound modifiers.
+accumulate they can have severe repercussions. Ad-            Disorientation: Any time a character suffers a
+ditionally, any source that inflicts a large amount of     trauma, they must make an immediate WIL x 3 Test.
+stress points at once is likely to have a more severe      Trauma modifiers apply. If they fail, they are tempo-
+impact (see Trauma).                                       rarily stunned and disoriented, and must expend a
+   Stress points may be reduced by long-term rest, psy-    Complex Action to regain their wits.
+chiatric care, and/or psychosurgery (see p. 214).             Derangements and Disorders: Any time a character
+                                                           is hit with a trauma, they suffer a temporary derange-
+LUCIDITY AND STRESS                                        ment (see Derangements). The first trauma inflicts a
+Your Lucidity stat benchmarks your character’s mental      minor derangement. If a second trauma is applied,
+stability. If you build up an amount of stress points      the first derangement is either upgraded from minor
+equal to or greater than your Lucidity score, your char-   to a moderate derangement, or else a second minor
+acter’s ego immediately suffers a mental breakdown.        derangement is applied (gamemaster’s discretion).
+You effectively go into shock and remain in a catatonic    Likewise, a third trauma may upgrade that derange-
+state until your stress points are reduced to a level      ment from moderate to major or else inflict a new
+below your Lucidity stat. Accumulated stress points        minor. It is generally recommended that derangements
+will overwhelm egos housed inside synthetic shells or      be upgraded in potency, especially when result from
+infomorphs just as they will biological brains—the         the same set of ongoing circumstances. In the case of
+mental software effectively seizes up, incapable of        traumas that result from distinctly separate situations
+functioning until it is debugged.                          and sources, separate derangements may be applied.
+                                                              Disorder: When four or more traumas have been
+INSANITY RATING                                            inflicted on a character, a major derangement is up-
+Extreme amounts of built-up stress points can perma-       graded to a disorder. Disorders represent long-lasting
+nently damage your character’s sanity. If accumulated      psychological afflictions that typically require weeks
+stress points reach your Lucidity x 2, your character’s    or even months of psychotherapy and/or psychosur-
+ego undergoes a permanent meltdown. Your mind is           gery to remedy (see Disorders, p. 211).
+lost, and no amount of psych help or rest will ever
+bring it back.

@@ -1,0 +1,120 @@
+CLUBS
+Type: Active, Combat
+Linked Aptitude: SOM
+  What it is: The Clubs skill covers the usage and
+maintenance of standard blunt melee weapons such
+as batons or sticks (see p. 334).
+  When you use it: Players use their Clubs skill when-
+ever they want to attack with a blunt weapon in melee
+combat (p. 191). The Clubs skill may also be used for
+tests involving maintenance of the weapon, but not
+for repairing or modifying the weapon (that would be
+Hardware: Armorer skill).
+Specializations: Batons, Hammers, Staffs
+
+CONTROL
+Type: Active, Mental, Psi
+Linked Aptitude: WIL
+  What it is: Control is the use of psi to manipulate
+individuals or actively penetrate their mental pro-
+cesses. This skill is only available to characters with
+the Psi trait (p. 147).
+  When you use it: Use Control when taking a psionic
+tour through a foreign ego—messing around included.
+See Psi, p. 220.
+Specializations: By sleight
+
+DECEPTION
+Type: Active, Social
+Linked Aptitude: SAV
+  What it is: Deception is your ability to act, bluff,
+con, fast talk, lie, misrepresent, and pretend. Accom-
+plished users of deception are able to convince anyone
+of nearly anything. This skill does not include using a
+physical disguise to appear to be another person (the
+Impersonate skill covers that area).
+  When you use it: Use this skill whenever you want
+to deceive someone with words or gestures. A success-
+ful skill test means that you have passed off your de-
+ception convincingly. At the gamemaster’s discretion,
+someone who is actively alert for signs of deception
+may make an Opposed Test using the Kinesics skill.
+Specializations: Acting, Bluffing, Fast Talk
+
+DEMOLITIONS
+Type: Active, Technical
+Linked Aptitude: COG (no defaulting)
+  What it is: Demolitions covers the use of controlled
+explosives.
+  When you use it: Use it when making, placing, and
+disarming explosives and explosive devices. See De-
+molitions, p. 197.
+Specializations: Commercial Explosives, Disarming,
+  Improvised Explosives
+
+DISGUISE
+  Type: Active, Physical
+  Linked Aptitude: INT
+  What it is: Disguise is the art of physically altering
+your appearance so that you look like someone else.
+This includes both the use of props (wigs, contacts,
+skin pigments) and the altering of subtle physical
+characteristics (gait, posture, poise).
+  When you use it: Use Disguise to fool someone into
+thinking you’re someone you’re not. This can be used
+to hide your identity or to make yourself look like
+someone in particular. When used against someone
+who knows your true look or the appearance of the
+person you are imitating, this is handled as an Op-
+posed Test against Perception or Investigation.
+Specializations: Cosmetic, Theatrical
+
+EXOTIC MELEE WEAPON: [FIELD]
+Type: Field, Active, Combat
+Linked Aptitude: SOM
+  What it is: The Exotic Melee Weapon skill covers
+the use and maintenance of all melee weapons not
+covered by the Clubs or Blades skills (see p. 334).
+  When you use it: Use the Exotic Melee Weapon skill
+when attacking someone with an exotic melee weapon
+in melee combat (p. 191).
+Sample Fields: Morning Star, Spear, Whip
+Specializations: N/A
+
+EXOTIC RANGED WEAPON: [FIELD]
+Type: Field, Active, Combat
+Linked Aptitude: COO
+  What it is: Exotic Ranged Weapon skill includes
+the use and maintenance of all ranged weapons not
+covered by the Beam, Flechette, Kinetic, Sonic, or
+Throwing Weapons skills.
+  When you use it: Use this skill whenever attacking with
+an exotic ranged weapon in ranged combat (p. 191).
+Sample Fields: Blowgun, Crossbow, Flamethrower,
+  Slingshot
+Specializations: N/A
+
+FLIGHT
+Type: Active, Physical
+Linked Aptitude: SOM
+   What it is: Flight is the skill of using your body to
+fly. This skill is used when sleeved in or jamming a
+winged or otherwise flight-capable morph (manual and
+remote-control flight are handled using Pilot skill).
+   When you use it: Use this skill whenever you need to
+make an aerial maneuver, land in difficult conditions,
+maintain your course in steep winds, or otherwise
+keep from crashing or falling.
+Specializations: Diving, Landing, Takeoff, specific
+   maneuvers
+
+FRAY
+Type: Active, Combat
+Linked Aptitude: REF
+  What it is: Fray is the ability to get out of the way
+of incoming attacks, debris, or inconvenient passers-by.
+Characters that have a high Fray score are able to react
+quicker than others when dodging or maneuvering.
+  When you use it: Whenever a character is physically
+attacked by an opponent in melee combat, roll Fray to
+avoid getting hit (see p. 191). Fray may also be used

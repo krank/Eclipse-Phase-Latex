@@ -1,0 +1,66 @@
+TEAMWORK
+If two or more characters join forces to tackle a test
+together, one of the characters must be chosen as the
+primary actor. This leading character will usually (but
+not always) be the one with the highest applicable
+skill. The primary acting character is the one who
+rolls the test, though they receive a +10 modifier for
+each additional character helping them out, up to a
+maximum +30 modifier. Note that helping characters
+do not necessarily need to know the skill being used
+if the gamemaster decides that they can follow the
+primary actor’s lead.
+
+
+           The robotic leg on Eva’s synthetic morph has been
+ EXAMPLE
+
+
+
+
+           badly damaged, so she needs to repair it. Max and
+           Vic both sit down and help her out, giving her a
+           +20 modiﬁer (+10 for each helper) to her Hard-
+           ware: Robotics Test.
+
+
+
+
+TYPES OF TESTS
+  There are two types of tests in Eclipse Phase: Suc-
+cess and Opposed.
+
+SUCCESS TESTS
+Success Tests are called for whenever a character is
+acting without direct opposition. They are the stan-
+dard tests used to determine how well a character
+exercises a particular skill or ability.
+   Success Tests are handled exactly as described under
+Making Tests, p. 115. The player rolls d100 against a
+target number equal to the character’s skill +/– modi-
+fiers. If they roll equal to or less than the target number,
+the test succeeds, and the action is completed as desired.
+If they roll higher than the target number, the test fails.
+
+TRYING AGAIN
+If you fail at a test, you can take another shot. Each
+subsequent attempt at an action after a failure, how-
+ever, incurs a cumulative –10 modifier. That means the
+second try suffers –10, the third –20, the fourth –30,
+and so on, up to the maximum –60.
+
+TAKING THE TIME
+Most skill tests are made for Automatic, Quick, or
+Complex Actions (see pp. 119–120) and so are re-
+solved within one Action Turn (3 seconds, see p. 119).
+Tests made for Task actions (p. 120) take longer.
+  Players may choose to take extra time when their
+character undertakes an action, meaning that they
+choose to be especially careful when performing the
+action in order to enhance their chance of success. For
+every minute of extra time they take, they increase
+their target number by +10. Once they’ve modified
+their target number to over 99, they are practically as-
+sured of success, so the gamemaster can waive the dice
+roll and grant them an automatic success. Note that
+the maximum +60 modifier rule still applies, so if their

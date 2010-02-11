@@ -1,0 +1,60 @@
+REACH                                                          A biomorph that succeeds the DUR Test is still
+Some weapons extend a character’s reach, giving             shocked but not incapacitated. They suffer half the
+them a significant advantage over an opponent in            listed DV and suffer a –30 modifier until the end of
+melee combat. This applies to any weapon over half          the next Action Turn. This modifier reduces by 10 per
+a meter long: axes, clubs, swords, shock batons, etc.       Action Turn. Modifiers from additional shocks are
+Whenever one character has a reach advantage over           not cumulative, but will boost the modifier back to
+another, they receive a +10 modifier for both attacking     its maximum value.
+and defending.
+                                                            SUBDUAL
+SCATTER                                                     To grapple an opponent in melee combat, you must
+When you are using a blast weapon, you may still            declare your intent to subdue before making the die
+catch your target in the blast radius even if you fail to   roll. Any appropriate melee skill may be used for the
+hit them directly. Weapons such as grenades must go         attack; if wielding a weapon, it may be used as part of
+somewhere when they miss, and exactly where they            the grappling technique. If you succeed in your attack
+land may be important to the outcome of a battle. To        with an Excellent Success (MoS of 30+), you have suc-
+determine where a missed blast attack falls, the scatter    cessfully subdued your opponent (for the moment, at
+rules are called into play.                                 least). Grappling attacks do not cause damage unless
+  To determine scatter, roll a d10 and note where the       you roll a critical success (though even in this case you
+die “points” (using yourself as the reference point).       can choose not to).
+This is the direction from the target that the missed          A subdued opponent is temporarily restrained or
+blast lands. The die roll also determines how far away      immobilized. They may communicate, use mental
+the blast lands, in meters. If the MoF on the attack is     skills, and take mesh actions, but they may not take
+over 30, this distance is doubled. If the MoF exceeds       any physical actions other than trying to break free.
+60, the distance is tripled. This point determines the      (At the gamemaster’s discretion, they may make small,
+epicenter of the blast; resolve the effects of damage       restrained physical actions, such as reaching for a
+against anyone caught within its sphere of effect as        knife in their pocket or grabbing an item dropped a
+normal (see Blast Effect, p. 193).                          few centimeters away on the floor, but these actions
+                                                            should suffer at least a –30 modifier and may be no-
+                                                            ticed by their grappler).
+                        1 or 2                                 To break free, a grappled character must take a
+                                                            Complex Action and succeed in either an Opposed
+                  10               3                        Unarmed Combat Test or an Opposed SOM x 3 Test,
+                                                            though the subdued character suffers a –30 modifier
+              9                         4                   on this test.
+
+                                                            SUPPRESSIVE FIRE
+                  8                5                        A character firing a weapon in full-auto mode (p. 198)
+                        6 or 7                              may choose to lay down suppressive fire over an area
+                                                            rather than targeting anyone specifically, with the
+                                                            intent of making everyone in the suppressed area keep
+SHOCK ATTACKS                                               their heads down. This takes a Complex Action, uses
+Shock weapons use high-voltage electrical jolts to          up 20 shots, and lasts until the character’s next Action
+physically stun and incapacitate targets. Shock weap-       Phase. The suppressed area extends out in a cone, with
+ons are particularly effective against biomorphs and        the widest diameter of the cone being up to 20 meters
+pods, even when heavily armored. Synthmorphs, bots,         across. Any character who is not behind cover or who
+and vehicles are immune to shock weapon effects.            does not immediately move behind cover on their
+   A biomorph struck with a shock weapon must               action is at risk of getting hit by the suppressive fire. If
+make a DUR + Energy Armor Test (using their cur-            they move out of cover inside the suppressed area, the
+rent DUR score, reduced by damage they have taken).         character laying down suppressive fire gets one free
+If they fail, they immediately lose neuromuscular           attack against them, which they may defend against
+ control, fall down, and are incapacitated for 1 Action     as normal. Apply no modifiers to these tests except
+Turn per 10 full points of MoF (minimum of 3 Action         for range, wounds, and full defense. If hit, the struck
+Turns). During this time they are stunned and inca-         character must resist damage as if from a single shot.
+pable of taking any action, possibly convulsing, suf-
+fering vertigo, nausea, etc. After this period, they may    SURPRISE
+act but they remain stunned and shaken, suffering a         Characters who wish to ambush another must seek to
+–30 modifier to all actions. This modifier reduces by       gain the advantage of surprise. This typically means
+10 per minute (so –20 after 1 minute, –10 after 2 min-      sneaking up on, lying in wait, or sniping from a hard-
+utes, and no modifier after 3 minutes). Many shock          to-perceive position in the distance. Any time an am-
+weapons also inflict DV, which is handled as normal.        busher (or group of ambushers) attempts to surprise a

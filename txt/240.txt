@@ -1,0 +1,60 @@
+of news, media, discourse, knowledge, environmental
+data, business, and culture. Transhumans embrace
+the mesh as a tool for exchange, communication,
+and participation with other users, both local and far
+away. As such, the mesh is an up-to-date, authoritative
+source on all transhuman knowledge and activities.
+   Not everything online is available for free, of course,
+except perhaps in the autonomist zones. Quite a bit of
+proprietary data is kept off the grid in secure storage
+or sequestered away in private networks. Some of this
+is for sale, and heavily encumbered with digital restric-
+tions—software, media, nanofabrication blueprints,
+skillsofts, etc. A thriving open source movement offers
+free and open source alternatives to much proprietary
+data, however, and numerous digital piracy groups
+deal out cracked versions of proprietary material,
+despite pressure from some authorities. Other data is
+simply secured from competitive interests (hypercorp
+research projects) or is an extremely private affair,
+such as ego backups.
+
+SPIMES
+Along with the accumulated data of transhuman
+affairs, the mesh is also cluttered with information
+derived from untold numbers of wireless-capable sen-
+sor-enabled devices that continuously update the mesh
+with their location, sensor recordings, and other data.
+Colloquially called “spimes,” these location-aware,
+environment-aware, self-logging, self-documenting
+objects broadcast their data to anyone who cares to
+listen. Since visual, auditory, and other sensors are
+absurdly tiny and inexpensive, they are ubiquitously
+incorporated into nearly every object or product a
+person might wear, apply, use, or internalize. This
+allows almost any user to reach out through the mesh
+and gather environmental data and ambient sensor
+recordings from a specific location (or at least public
+locales—private areas typically block such signals or
+slave them to a local AI that filters their output).
+
+SURVEILLANCE, PRIVACY, AND SOUSVEILLANCE
+While spimes are easily trackable, they also con-
+tribute to an environment of universal surveillance.
+Between spimes, microsensors, ubiquitous security
+systems, and the recording capabilities of the mesh
+inserts used by almost everyone, just about every-
+thing is recorded. Factor in the availability of mesh-
+tracking, facial recognition, rep/social networks, and
+other data mining software, and it rapidly becomes
+clear that privacy is an outdated concept. Special
+considerations must be embraced by anyone that
+seeks to mask their identity or cover their movements.
+Alternately, off-the-shelf looks common with some
+morphs (especially synthmorphs and pods) allow a
+user to blend in with the masses.
+   Though in part this may seem an Orwellian sur-
+veillance nightmare, the abundance of recording
+tech actually works as “sousveillance” (watching
+from below), serving a role in making everything
+transparent and putting checks on abuses of power.

@@ -1,0 +1,117 @@
+  opponents and make hard choices. If an individual
+  agrees to accept the invitation, there is no turning
+  back. Each inductee is submitted to a battery of trials
+  and tests. While these vary, they may include deep
+  background searches, fork interrogation, psycho-
+  surgery trials, and tests of loyalty. Psychosurgery is
+  performed not to program loyalty, but to analyze the
+  recruit’s responses to various situations—an extreme
+  parameters test to see when a prospective sentinel
+  will break. Many potential members are carefully
+  analyzed by a Promethean with extreme expertise in
+  character judgment and personality profiling. Those
+  who don’t pass such tests are killed in a manner that
+  they must resort to an earlier backup or have their
+  memories altered, so that they have no recollection of
+  their brush with the group.
+     Ultimately Firewall walks a fine line. The concept
+  of dogmatic “unquestioned loyalty” is both anathema
+  to everything Firewall stands and counterproductive.
+  Its sentinels need to have the capacity for thinking
+  outside of the box from mission to mission. At the
+  same time, their ultimate goals are too important to
+  risk—the survival of transhumanity depends on it—
+  so some extreme measures must sometimes be taken
+  to ensure the organization remains intact and secure.
+     New sentinels are given a code name and fake
+  identification. Outside of the proxies, the real-world
+  identity of a given sentinel is a closely-guarded secret.
+  Sentinels are even discouraged from sharing such in-
+  formation with members of their own teams, though
+  this line is often crossed. Additionally, each sentinel is
+  required to upload a backup to Firewall’s secure serv-
+  ers. This backup serves a dual purpose, enabling all
+  sentinels to be retrieved should they die, but also put-
+  ting a copy of the sentinel in Firewall’s hands should
+  they ever need to interrogate them.
+     Sentinels are all connected via the Eye, Firewall’s
+  peer-to-peer social network. Though each operates
+  behind their assumed identity, they remain in contact,
+  sharing information and resources as needed.
+
+
+
+OPTIONAL RULE: I-REP
+i-Rep tracks the reputation a sentinel earns through
+their service to Firewall. i-Rep is used with Network-
+ing: Firewall skill and tracked exactly like any other
+Reputation score (p. 285). The important thing to
+keep in mind, however, is that Firewall agents come
+from all factions and are obligated to help each other,
+especially when a situation demands it. To reﬂect this
+extra advantage, gamemasters can choose to imple-
+ment one or more of the following optional rules:
+• Networking Plus: To reﬂect that Firewall has
+  agents throughout transhumanity, a character
+  may use any Networking skill ﬁeld with their i-
+  Rep. Favors bought with reputation still apply
+  to the i-rep score, no matter what network they
+  were acquired from.
+   PROXIES
+   Proxies are the inner circle of Firewall, the experienced
+   cadre that keeps the machinery of their organiza-
+   tion functioning. Though fewer in number than the
+   sentinels, many proxies work full time on Firewall
+   operations, serving as the group’s essential infrastruc-
+   ture. Most proxies are recruited from the ranks of the
+   sentinels, brought in based on their skill sets and apti-
+   tudes to fill key roles. In a few rare cases, new proxies
+   are fast-tracked and recruited directly from outside
+   of Firewall, usually based on their unique talents or
+   placement within a certain organization, though such
+   inductees face a battery of tests and trials far harsher
+   than that used to vet sentinels.
+      By default, proxies have a higher security clear-
+   ance than most sentinels, and are far more in the
+   know. This sometimes leads to resentment and hos-
+   tilities, especially from sentinels who feel they are
+   being kept in the dark or manipulated. While stan-
+   dard proxy protocol is to adhere to a need-to-know
+   maxim, it is sometimes necessary to bring sentinels
+   more into the loop in order to defuse tensions. Of-
+   tentimes, this precedes bringing such sentinels into
+   the proxy framework.
+      Some tension exists within Firewall, mostly due to
+   the influence of so many anarchists and other libertar-
+   ian autonomists who take a dim view of centralized
+   power, lack of transparency, and the potential for se-
+   cretive operations to become entrenched and authori-
+   tarian. As a result, there is a strong internal culture
+   that seeks to minimize hierarchies and the accumu-
+   lation of power, promoting transparency and direct
+   democratic decision-making. These desires sometimes
+   clash with the clandestine nature of the organization,
+   however, and the need for some secrets to be kept on
+   a need-to-know basis.
+      Unlike the loose organization of the sentinels, the
+   proxies are grouped into servers, collective working
+   groups based upon certain skill sets and tasks. To
+   avoid creating power blocks within a given server,
+
+
+
+
+Priority Call: When the chips are really down, a
+ entinel can call on favors as a priority urgency.
+ his “priority code” is reserved for favors that
+are critical to a mission’s success and which may
+help save lives or stop a major threat. When the
+priority code is invoked, the sentinel receives a
+ 30 modiﬁer to their Networking Test and favors
+are reduced by 2 levels. Sentinels know that pri-
+ority codes are only to be used for emergency
+ ituations, however, when there are no other
+options. Abuse of priority codes is considered
+a serious breach of etiquette and abuse of re-
+ ources, usually involving the agent’s removal
+ rom Firewall.                                 ■

@@ -1,0 +1,85 @@
+RACTER CREATION AND ADVANCEMENT■CHARACTER CREATION AND ADVANCE
+                                CHARACTER
+
+
+
+CTER CREATION AND ADVANCEMENT                                                                                              5
+
+
+ The first step towards playing Eclipse Phase is to
+ define your character. If you’re new to the game and           STEP-BY-STEP GUIDE TO
+ setting, the easiest way to jump right in is to simply
+ select one of the Sample Characters provided on pp.            CHARACTER CREATION
+ 154–169. If you’re more familiar with RPGs, or you             1. Deﬁne Character Concept (p. 130)
+ simply want finer control over your character, you             2. Choose Background (p. 131)
+ can build them from scratch, perhaps using one of the          3. Choose Faction (p. 132)
+ Sample Characters as a template. This chapter will             4. Spend Free Points (p. 134)
+ walk you through the process of character genera-                 a) 105 aptitude points
+ tion, from the general concept and personality to the             b) 1 Moxie
+ crunchy game statistics.                                          c) 5,000 credit
+                                                                   d) 50 Rep
+                                                                   e) Native tongue
+  CHARACTER GENERATION                                          5. Spend Customization Points (p. 135)
+                                                                   a) 1,000 CP to spend
+ There are two parts to every player character. The
+ first is the sets of numbers and attributes that define              15 CP = 1 Moxie
+ what a character is good or bad at (or even what they                10 CP = 1 aptitude point
+ can and can’t do) according to the game mechanics.                   5 CP = 1 psi sleight
+ These are more than just statistics, however—these                   5 CP = 1 specialization
+ characteristics help to define your character’s abili-               2 CP = 1 skill point (61-80)
+ ties and interests, and by extension their background,               1 CP = 1 skill point (up to 60)
+ education, training, and experience. During the                      1 CP = 1,000 credit
+ character creation process, you will have the ability                1 CP = 10 rep
+ to assign, adjust, and juggle these characteristics as            b) Active skill minimum: 400 skill points
+ you like. If you have a pre-conceived notion of what              c) Knowledge skill minimum: 300 skill points
+ the character is about, you can optimize the stats to             d) Choose Starting Morph (pp. 136 and 139)
+ reflect that. Alternatively, you can tweak the stats until        e) Choose Traits (pp. 136 and 145)
+ you get something you like, then base the character’s          6. Purchase Gear (p. 136)
+ backstory off of what you develop.                             7. Choose Motivation (p. 137)
+    The second part to every player character is their          8. Calculate Remaining Stats (p. 138)
+ personality. What defines them as a person? What               9. Detail the Character (p. 138)
+ makes them tick? What pisses them off? What sparks
+ their interest? What positive aspects of their person-
+ ality make them appealing as a friend, comrade, or
+                                                              personality type and choose an associated profession. If
+ lover—or at least someone interesting to play? What
+                                                              you want a social butterfly who excels at manipulating
+ character flaws and quirks do they have? These ques-
+                                                              people, you can play a media personality, blogger, or
+ tions matter because they will also guide you as you
+                                                              party-going socialite. Perhaps you’d prefer a bottomed-
+ assign stats, skills, and traits.
+                                                              out reject with substance abuse problems, in which
+    Character generation is a step-by-step process.
+                                                              case an ex-merc or former hypercapitalist who lost
+ Unlike some games, the process for creating an Eclipse
+                                                              his fortune and family during the Fall might fit. How
+ Phase character is not random—you have complete
+                                                              about an energetic, live-life-to-the-fullest, must-see-it-
+ control over every aspect of your character’s design.
+                                                              all character? Then a habitat freerunner or professional
+ Some stages must be completed before you can move
+                                                              gatecrasher might be what you’re looking for.
+ on to others. The complete process is broken down
+                                                                 Make sure to check in with the other players and
+ on the Step-By-Step Guide to Character Creation
+                                                              try to create a character that’s complementary to the
+ sidebar.
+                                                              rest of the team—preferably one who provides some
+
+ CHARACTER CONCEPT                                            skill-set the group lacks. Why create a research arche-
+                                                              ologist if someone else is already set on playing one,
+ Deciding what/who you want to play before you make
+                                                              especially when the team lacks a good combat special-
+ the character is usually the best route. Pick a simple
+                                                              ist or async? On the other hand, if your team is going
+ archetype that fits your character, and work from there.
+                                                              to be running an alien archeological expedition, then
+ Do you want to play an explorer? Someone sneaky,
+                                                              having more than one researcher (each with distinct
+ like a spy or thief? Someone cerebral, like a scientist?
+                                                              areas of expertise) might not be bad.
+ A hardened criminal or ex-cop? Or do you prefer to
+                                                                 Once you have the basic concept, try to fill it with
+ be a rabble-rousing agitator? You can also start with a
+                                                              a few more details, making it into a one-sentence

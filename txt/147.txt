@@ -1,0 +1,120 @@
+fan blades for airlift. The controlling computer and
+sensor systems are distributed throughout the swarm.
+Though the swarm can “meld” together into a roughly
+child-sized shape, the swarm is incapable of tackling
+physical tasks like grabbing, lifting, or holding as a
+unit. Individual bugs are quite capable of interfacing
+with electronics.
+Enhancements: Access Jacks, Basic Mesh Inserts, Cor-
+  tical Stack, Cyberbrain, Mnemonic Augmentation,
+  Swarm Composition
+Mobility System: Walker (2/8), Hopper (4/20), Rotor
+  (4/32)
+Aptitude Maximum: 30
+Durability: 30
+Wound Threshold: 6
+Advantages: See Swarm Composition (p. 311)
+Disadvantages: See Swarm Composition (p. 311)
+CP Cost: 25
+Credit Cost: Expensive
+
+INFOMORPHS
+Infomorphs are digital-only forms—they lack a physi-
+cal body. Infomorphs are sometimes carried by other
+characters instead of (or in addition to) a muse in a
+ghostrider module (p. 307). Full rules for infomorphs
+can be found on p. 264.
+Enhancements: Mnemonic Augmentation
+Aptitude Maximum: 40
+Speed Modifier: +2
+Disadvantages: No physical form
+CP Cost: 0
+Credit Cost: 0
+
+
+
+TRAITS
+Unless otherwise noted, listed traits are ego traits.
+
+POSITIVE TRAITS
+Positive traits provide bonuses to the character in
+certain situations.
+
+ADAPTABILITY
+Cost: 10 (Level 1) or 20 (Level 2) CP
+  Resleeving is a breeze for this character. They adjust
+to new morphs much more quickly than most other
+people. Apply a +10 modifier per level for Integration
+Tests and Alienation Tests (p. 272).
+
+ALLIES
+Cost: 30 CP
+   The character is part of or has a relationship with
+some influential group that they can occasionally call
+on for support. For example, this could be their old
+gatecrashing crew, former research lab co-workers,
+a criminal cartel they are part of, or an elite social
+clique. The gamemaster and player should work out
+what the character’s relationship is with this group,
+and why the character can call on them for aid.
+Gamemaster’s should take care that these allies are
+not abused, such as calling on them more than once
+per game session. The character’s ties to this group
+are also a two-way street—they will be expected to
+perform duties for the group on occasion as well (a
+potential plot seed for scenarios).
+
+AMBIDEXTROUS
+Cost: 10 CP
+  The character can use and manipulate objects
+equally well with both hands (they do not suffer the
+off-hand modifier, as noted on p. 193). If the char-
+acter has other prehensile limbs (feet, tail, tentacles,
+etc), this trait may be applied to a limb other than
+the hand. This trait may be taken multiple times for
+multiple limbs.
+
+ANIMAL EMPATHY
+Cost: 5 CP
+  The character has an instinctive feel for handling
+and working with non-sapient animals of all kinds.
+Apply a +10 modifier to Animal Handling skill tests
+or whenever the character makes a test to influence or
+interact with an animal.
+
+BRAVE
+Cost: 10 CP
+  This character does not scare easily, and will face
+threats, intimidation, and certain bodily harm with-
+out flinching. As a side effect, the character is not
+always the best at gauging risks, especially when it
+comes to factoring in danger to others. The charac-
+ter receives a +10 modifier on all tests to resist fear
+or intimidation.
+
+COMMON SENSE
+Cost: 10 CP
+  The character has an innate sense of judgment that
+cuts through other distractions and factors that might
+cloud a decision. Once per game session, the player
+may ask the gamemaster what choice they should
+make or what course of action they should take, and
+the gamemaster should give them solid advice based
+on what the character knows. Alternately, if the
+character is about to make a disastrous decision, the
+gamemaster can use the character’s free hint and warn
+the player they are making a mistake.
+
+DANGER SENSE
+Cost: 10 CP
+  The character has an intuitive sixth sense that warns
+them of imminent threats. They receive a +10 modifier
+on Surprise Tests (p. 204).
+
+DIRECTION SENSE
+Cost: 5 CP
+   Somehow the character always knows which way
+is up, north, etc., even when blinded. The character
+receives a +10 modifier for figuring out complex di-
+rections, reading maps, and remembering or retracing
+a path they have taken.

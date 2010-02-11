@@ -1,0 +1,127 @@
+            ➟ ➟ ➟ vExample continued from p. 135
+
+            Tai now has 1,000 points to customize. She wants to be
+            lucky, so she starts right off spending 60 (4 x 15) CP to
+            raise her Moxie from 1 to 5. She also decides that she
+            wants her character to be better at spotting things, so
+            she raises her INT from 15 to 20, at a cost of 50 CP (5 x
+            10). So far, she’s spent 110 CP.
+               She must buy at least 400 points of Active skills, so she
+            tackles that next. She knows that skills are based on apti-
+            tudes and they get more expensive over 60, so she decides
+            the most she’ll spend on any single skill is 40 (since her
+            highest aptitude is 20). She picks out her skills, assigns the
+            points, and adds them to the starting aptitudes.
+               This is what she starts with, noting the points she
+            spent on each and the total value (counting aptitude)
+            in parentheses.
+  EXAMPLE
+
+
+
+
+               Beam Weapons (COO) 30 (45), Climbing (SOM) 30
+            (45), Demolitions (COG) 40 (60), Fray (REF) 30 (50),
+            Freefall (REF) 40 (60), Freerunning (SOM) 30 (45),
+            Hardware: Aerospace (COG) 40 (60), Inﬁltration (COO)
+            30 (45), Interfacing (COG) 20 (40), Navigation (INT) 40
+            (60), Perception (INT) 40 (60), Persuasion (SAV) 20 (30),
+            Research (COG) 20 (40), and Scrounging (INT) 40 (60).
+               This costs her 450 CP, so she’s spent a total of 560
+            CP so far.
+               Now she spends her 300 points of Knowledge skills:
+               Academics: Astrophysics (COG) 40 (60), Academics:
+            Engineering (COG) 40 (60), Academics: Fall History
+            (COG) 40 (60), Art: Sculpture (INT) 40 (60), Interest:
+            Brinker Stations (COG) 40 (60), Interest: Conspiracies
+            (COG) 30 (50), Language: English (INT) 40 (60), Profes-
+            sion: Appraisal (COG) 40 (60), Profession: Scavenger
+            Trade (COG) 40 (60).
+
+
+ than 5 psi-chi and 5 psi-gamma sleights may be bought
+ during character creation.
+    Note that any skill or aptitude bonuses from
+ sleights are treated as modifications; they are applied
+ after all CP are spent and do not affect the cost of
+ buying skills or aptitudes during character creation.
+
+ PURCHASE GEAR
+ No matter what faction you are from, you use Credit
+ to buy gear during character creation. A complete list
+ of gear and costs can be found in the Gear chapter, p.
+ 294. The average costs for each cost category should
+ be used when calculating gear prices.
+
+
+                       GEAR COSTS
+CATEGORY           RANGE (CREDITS)            AVERAGE (CREDITS)
+Trivial                    1–99                          50
+Low                      100–499                        250
+Moderate                500–1,499                      1,000
+High                   1,500–9,999                     5,000
+Expensive                10,000+                      20,000
+    This costs her another 350 CP, bringing her total spent
+CP to 910.
+    Adding in her background and faction skills, she also
+has Networking: Autonomists (SAV) 30, Networking:
+Hypercorps (SAV) 30, Pilot: Spacecraft (REF) 30 (50),
+Pilot: Groundcraft (REF) 30 (50). She takes the freebie
++10 and adds it to Fray (raising it to 60) and applies the
+other +10 to Academics: Economics (COG) 30.
+    With 90 CP left, Tai moves on to Rep. Tai wants to
+have a lot of good connections, so she raises both of her
+Rep scores by 30 points each, at a cost of 6 CP. She also
+decides she needs some credibility with criminal types,
+so she buys g-rep at 40, for 4 more CP. Now she has 80
+CP left.
+    Tai’s character needs a body, and she decides a
+                                                              EXAMPLE
+
+
+
+bouncer is most suited for the nomadic, spacefaring
+lifestyle of her brinker. That costs another 40 CP, leaving
+her with 50 CP left to spend.
+    Looking back at her skills, she decides to raise her
+Pilot: Spacecraft from 50 to 70. It costs her 10 CP to
+raise the skill to 60, and another 20 CP to raise it from
+60 to 70, for a total cost of 30 CP. She also wants to
+raise her Scrounging from 60 to 70, for a 20 CP cost.
+That nicely uses up the last of her CP.
+    Scanning the traits, though, Tai also decides that
+Situational Awareness would be a good choice for her
+scavenger. At a cost of 10 CP, she would need to take an-
+other negative trait to compensate. She chooses Neural
+Damage (synaesthesia)—a condition she inherited from
+a rampaging nanovirus during the Fall.
+    Tai’s points are now all evened out and spent.
+
+
+
+
+     Every character starts off with one piece of gear
+  for free: a standard muse (p. 332). This is the digital
+  AI companion that the character has had since they
+  were a child. Additionally, each character starts with 1
+  month of backup insurance (p. 330) at no cost.
+     There is no limitation other than what the game-
+  master allows on what gear characters can and cannot
+  buy during character creation. Both the players and
+  gamemaster should keep the character’s background
+  and faction in mind. Since some gear is likely very
+  restricted in some habitats if not outright illegal, there
+  needs to be a plausible explanation for who and how
+  a character from such a place might have such gear.
+  If there isn’t, then the gamemaster can choose not to
+  allow it. The starting locale for a game should also
+  be considered. A character from the restrictive Jovian
+  Republic might have a hard time explaining how they
+  have an illegal cornucopia machine back in the Re-
+  public, but if the game takes place on board a scum
+  barge where everything is available and anything goes,
+  then such an explanation becomes much easier.
+     Note that any skill or aptitude bonuses from gear
+  are treated as modifications; they are applied after
+  all CP are spent and do not affect the cost of buying
+  skills or aptitudes during character creation.

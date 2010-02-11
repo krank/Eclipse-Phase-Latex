@@ -1,0 +1,120 @@
+EIDETIC MEMORY (EGO OR MORPH TRAIT)
+Cost: 10 CP
+  Much like a computer, the character has perfect
+memory recall. They can remember anything they have
+sensed, often even from a single glance. This works the
+same as the eidetic memory implant (p. 301).
+
+EXCEPTIONAL APTITUDE
+Cost: 20 CP
+  The character may raise one of their maximum
+aptitude up to 10 points over the normal aptitude cap
+(30 for flats, 35 for splicers, 40 for all others). Note
+that this trait just raises the maximum, it does not
+give the character more 10 aptitude points. This trait
+may be taken only once.
+
+EXPERT
+Cost: 10 CP
+  The character is a legend in the use of one particular
+skill. The character may raise one learned skill over 80,
+to a maximum of 90, during character creation. This
+trait does not actually increase the skill, it just raises
+the maximum. This trait may only be taken once.
+
+FAST LEARNER
+Cost: 10 CP
+  The character improves skills and learns new
+ones in half the time it normally takes (see Improv-
+ing Skills, p. 152).
+
+FIRST IMPRESSION
+Cost: 10 CP
+  The character has a way of charming or otherwise
+making a good impression the first time they interact
+with someone. This innate social lubricant allows them
+to more readily deal with new contacts and slip right
+into new social environments. Apply a +10 modifier
+on social skill tests when the character is interacting
+with another character for the first time only.
+
+HYPER LINGUIST
+Cost: 10 CP
+   The character has an intuitive understanding of
+linguistic structures that facilitates learning new
+languages easily. The character requires one-third the
+normal amount of time and experience to learn any
+language (see Improving Skills, p. 152). The character
+can also learn any human language in one day simply
+by constant immersive exposure to it. Additionally,
+the character receives a +10 modifier when attempting
+to interpret languages they don’t know.
+
+IMPROVED IMMUNE SYSTEM (MORPH TRAIT)
+Cost: 10 (Level 1) or 20 (Level 2) CP
+   The morph’s immune system is robust and more
+resistant to diseases, drugs, and toxins—even more
+than basic bio-mods. At Level 1, apply a +10 modifier
+whenever making a test to resist infection or the ef-
+fects of a toxin or drug. At Level 2, increase this modi-
+fier to +20. This trait is only available to biomorphs.
+INNOCUOUS (MORPH TRAIT)
+Cost: 10 CP
+  In an age when exotic appearances and good looks
+are commonplace, the morph’s look is surprisingly
+bland and undistinguished, in that cookie cutter sort of
+way. The character’s physical looks are so mundane that
+others have a hard time picking them out of a crowd,
+describing their appearance, or otherwise remember-
+ing physical details. Apply a –10 modifier to all tests
+made to spot, describe, or remember the character. This
+modifier does not apply to psi or mesh searches.
+
+LIMBER (MORPH TRAIT)
+Cost: 10 (Level 1) or 20 (Level 2) CP
+   The morph is especially flexible and supple, capable
+of graceful contortions and interesting positions. At
+Level 1, the character can smoke with their toes, do the
+splits, and squeeze into small, cramped spaces. At Level
+2, they are double-jointed escape artists. Each level pro-
+vides a +10 modifier to escaping from bonds, fitting into
+narrow confines, and other acts relying on contortion or
+flexibility. This trait is only available to biomorphs.
+
+MATH WIZ
+Cost: 10 CP
+  The character can perform any feat of calculation,
+including the most complex and advanced math-
+ematics, instantly and with great precision, with the
+same ease an unmodified human can add 2 + 3. The
+character can calculate odds with great precision, find
+correlations in numerical data, and perform similar
+tasks with great ease. Apply a +30 modifier on tests
+involving math calculations.
+
+NATURAL IMMUNITY (MORPH TRAIT)
+Cost: 10 CP
+   The morph has a natural immunity to a specific
+drug, disease, or toxin. When afflicted with that spe-
+cific chemical, poison, or pathogen, the character re-
+mains unaffected. At the gamemaster’s discretion, this
+immunity may not apply to certain agents. It may not
+be applied to nanodrugs or nanotoxins. This trait is
+only available to biomorphs.
+
+PAIN TOLERANCE (EGO OR MORPH TRAIT)
+Cost: 10 (Level 1) or 20 (Level 2) CP
+  The character has a high threshold for pain toler-
+ance and is better at ignoring the effects of pain on
+their abilities and concentration. Level 1 allows them
+to ignore the –10 modifier from 1 wound. Level
+2 allows them to ignore the –10 modifiers from 2
+wounds. This trait is only available for biomorphs.
+
+PATRON
+Cost: 30 CP
+   The character has an influential person in their
+life who can be relied on for occasional support.
+This could be a wealthy hyperelite family member, a
+high-ranking triad boss, or an anarchist networker
+with an unbeatable reputation. When called upon,

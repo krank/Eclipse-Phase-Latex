@@ -1,0 +1,70 @@
+ARGONAUT XENOARCHEOLOGIST
+           APTITUDES   COG     COO        INT   REF     SAV       SOM     WIL
+             Base       20      15         20    15      10        15     15
+      Morph Bonus       5                  5             5         5
+             Total      25       15       25     15     15         20      15
+
+
+
+
+      MOX       TT     LUC       IR       WT    DUR     DR
+                                                                  STATS
+                                                               INIT       SPD
+       3         6      30       60        7     35     53    70 (80)      1
+
+
+
+
+                                                         MORPH
+                                                              SKILLS
+                                         APT     BASE    BONUS          TOTAL
+       Academics: Astrobiology           COG      60       5              65
+          Academics: Chemistry           COG      40       5              45
+        Academics: Engineering           COG      50       5              55
+            Academics: Geology           COG      55       5              60
+            Academics: Physics           COG      50       5              55
+    Academics: Xenoarcheology            COG      70       5              75
+                Art: Architecture        INT      45       5              50
+                 Beam Weapons            COO      35                      35
+                          Climbing       SOM      35          5           40
+                      Demolitions        COG      45          5           50
+                              Fray       REF      45                      45
+                          Free Fall      REF      25                      25
+          Interests: Alien Relics        COG      45          5           50
+       Interests: Pandora Gates          COG      55          5           60
+                       Interfacing       COG      20          5           25
+                    Investigation        INT      65          5         70 (80)
+                          Kinesics       SAV      30          5           35
+       Language: Native French           INT      90          5           95
+              Language: English          INT      40          5           45
+       Networking: Autonomists           SAV      30          5           35
+            Networking: Firewall         SAV      30          5           35
+        Networking: Hypercorps           SAV      30          5           35      Background: Original Space Colonist
+         Networking: Scientists          SAV      50          5           55      Faction: Argonaut
+                                                                                  Morph: Exalt
+                       Perception        INT      40          5         45 (55)
+                                                                                  Motivations: +Exploration +Research (Alien Civiliza
+                    Pilot: Aircraft      REF      35                      35                    +Techno-Progressivism
+               Pilot: Groundcraft        REF      50                      50      TRAITS                               EQUIPMENT
+         Profession: Excavation          COG      50          5           55      Ego: Enemy (Rival Xenoarche-         Armor: Vacsu
+           Profession: Forensics         COG      55          5           60         ologist), Mental Disorder           Smartfabri
+          Profession: Surveying          COG      40          5           45         (Impulse Control), Mental         Primary Wea
+                                                                                     Disorder (Insomnia), Morphing     Starting Cred
+                          Protocol       SAV      40          5           45
+                                                                                     Disorder, Psi (Level 2) ■         Implants: Ba
+                         Research        COG      55          5           60                                             Mesh Inse
+                             Sense       INT      60          5           65      SLEIGHTS                               Echo Loca
+                                                                                  Psi-Chi: Ambience Sense, Grok,         Mnemonic
+You are convinced that something          treasure hunter, and scientist,            Pattern Recognition ■             Gear: Backup
+strange is going on in the galaxy.        you have the skills and training to     Psi-Gamma: Omni Awareness,             (1 month),
+Despite the Factors and signs of          decode the evidence and artifacts          Static, Thought Browse ■            Nanoswar
+dead alien civilizations like the         left behind by unknown entities                                                Nanoswar
+Iktomi, the sheer mathematical            and life forms. You are a valued        REP                                    Forensics
+odds insist that there should be          expert for gatecrashing expedi-         @-rep: 40                              Mobile Lab
+more life in the galaxy. So where         tions, but you avoid working for        c-rep:     40                          Servitor Bo
+is it? Your goal is to ﬁnd out, and in    hypercorps because you believe,         e-rep:     20                          Smart Dus
+pursuit of this you study the relics      like other argonauts, that any dis-     i-rep:     40                          Container,
+left behind on various exoplanets.        coveries made should be available       r-rep:     60
+Equal parts conspiracy theorist,          to all. ■
+                                      “I’ve got a bad feeling about this. These tools are very similar to the ones we
+                                           recovered from the ruins on that binary system exoplanet last year.”

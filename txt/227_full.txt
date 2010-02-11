@@ -1,0 +1,76 @@
+a sufficiently large sample enough time to study, as         SENSORY BOOST
+determined by the gamemaster. This might range from             PSI TYPE:   Active        ACTION:    Quick
+a few hours of listening to a spoken transhuman lan-
+guage to a few days of investigating inscriptions left          RANGE:      Self          DURATION: Temp (Action Turns)
+
+by long-dead aliens to a week or more of researching             STRAIN MOD: –2
+a lengthy cipher. Languages may be comprehended by           An async uses this sleight to increase their natural or
+reading or listening to them being spoken. Apply a           augmented sensory perception (sight, audio, smell,
++20 modifier to any appropriate Language, Investiga-         augmented) by enhanced cerebral processing, grant-
+tion, Research, or cod-breaking Tests (note that this        ing a +20 bonus modifier on sensory-based Perception
+does not apply to Infosec Tests made by software to          Tests.
+decrypt a code). The async may also use this ability to
+more easily learn new languages, reducing the training       SUPERIOR KINESICS
+time by half.
+                                                                PSI TYPE:   Passive       ACTION:    Automatic
+
+PREDICTIVE BOOST                                                 RANGE:     Self          DURATION: Constant
+                                                             The async acquires more insight into people’s emo-
+   PSI TYPE:     Passive     ACTION:    Automatic
+                                                             tive signals, gestures, facial expressions, and body
+    RANGE:     Self        DURATION: Constant                language when it comes time to predict the person’s
+The Bayesian probability machine features of the             emotional state, intent, or reactions. Apply a +10
+async’s brain are boosted by this sleight, enhancing         modifier to Kinesics Skill Tests.
+their ability to estimate and predict outcomes of
+events around them as they unfold in real-time and           TIME SENSE
+update those predictions as information changes.
+                                                                PSI TYPE:   Active        ACTION:    Automatic
+In effect, the character has a more intuitive sense
+for which outcomes are most likely. This grants the             RANGE:      Self          DURATION: Temp (Action Turns)
+
+character a +10 bonus on any skill tests that involve            STRAIN MOD: –1
+predicting the outcome of events. It also bolsters           An async with this ability can slow down his per-
+the async’s decision-making in combat situations by          ception of time, making everything appear to move
+making the best course of action more clear, and so          in slow motion or at reduced speed. In game terms,
+provides a +10 bonus to both Initiative and Fray Tests.      this sleight grants the async a Speed of +1. This extra
+                                                             Action Phase, however, can only be spent on mental
+QUALIA                                                       and mesh actions.
+   PSI TYPE:     Active      ACTION:    Quick
+   RANGE:        Self        DURATION: Temp (Action Turns)
+                                                             UNCONSCIOUS LEAD
+                                                                PSI TYPE:   Active        ACTION:    Automatic
+   STRAIN MOD:  –1
+The async can temporarily increase their intuitive              RANGE:      Self          DURATION: Temp (Action Turns)
+
+grasp of things. In game terms, Intuition is raised by           STRAIN MOD: +0
+5 for the chosen duration. This boost to Intuition also      This sleight allows the async to override their con-
+raises the rating of skills linked to that aptitude.         sciousness and let their unconscious mind take point.
+                                                             While in this state, the async’s conscious mind is only
+SAVANT CALCULATION                                           dimly aware of what is transgressing, and any memo-
+   PSI TYPE:     Passive     ACTION:    Automatic            ries of this period will be hazy at best. The advantage
+                                                             is that the unconscious mind acts more quickly, and
+     RANGE:      Self          DURATION: Constant
+                                                             so the async’s Speed is boosted by +1. The character
+The character possesses an incredible facility with
+                                                             remains aware and active, but is incapable of com-
+intuitive mathematics. They can do everything from
+                                                             plex communication or other mental actions and is
+calculate the odds exactly when gambling to predict-
+                                                             motivated by instinct and primitive urges more than
+ing precisely where a leaf falling from a tree will land
+                                                             conscious thought. Though it is recommended that
+by observing the landscape and local wind currents.
+                                                             the player retain control of their character while using
+The character specializes in calculation involving the
+                                                             Unconscious Lead, the gamemaster should feel free to
+activity of complex chaotic systems and so can calcu-
+                                                             direct the character’s actions as they see fit.
+late answers that even the fastest computers could not,
+including things like patterns of rubble distribution
+from an explosion. However, this mathematic facility
+is largely intuitive, so the character does not know the
+equations they are solving, they merely know the solu-
+tion to the problem.
+   This sleight also provides a +30 modifier to any
+skill tests involving math (which the character is cal-
+culating, not a computer).

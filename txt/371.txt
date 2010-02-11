@@ -1,0 +1,120 @@
+In others, the exsurgent approach is more methodi-
+cal, hatching long-term plots to infiltrate positions of
+power and authority, setting the stage for acts of mass
+destruction, and so on. In other words, they may be
+handled both as hostile monsters or as nefarious long-
+term opponents that are subverting transhumanity
+from within or hatching complicated plots that could
+mean devastation on a planetary scale.
+   If the gamemaster wishes, exsurgents may also
+pursue other goals, tangential to the ones above.
+These may range from accumulating knowledge and
+expertise on how transhumanity functions as a spe-
+cies to forcibly uploading mass numbers of minds to
+more esoteric goals such as manufacturing a halfnium
+bomb or converting the solar system’s mass to compu-
+tronium. The Exsurgent virus is potent and intelligent,
+and while its methods and goals may sometimes be
+opaque to transhumanity, it acts with direction and
+purpose. There may also be occasions, however, likely
+due to the mutating and morphing aspect of the virus
+and the way in which it transforms transhuman
+minds, perhaps not always in the manner intended,
+where the exsurgent goals become strange or simply
+horrific, such as running experiments on transhuman
+responses to extreme conditions or converting an
+entire colony to cannibalism.
+
+EXSURGENT-INFECTED PCS
+It is possible for player characters infected with some
+strains of the Exsurgent virus to continue on under
+their own volition, even as the virus slowly consumes
+them. This process is, quite naturally, horrifying in the
+extreme, though there is little they can do about it.
+Despite the best efforts of transhuman science, there
+is very little that can be done to save an infected
+person—the virus is simply too potent and adaptive.
+As a result, standard Firewall policy is to terminate
+the infected with extreme prejudice. Most Firewall
+operatives are going to be aware of this, a fact which
+pushes some of those who become infected to keep
+their status a secret from their comrades.
+   Both the haunting and xenomorph strains usually
+transform a subject over time, meaning that the
+character may initially not be aware of the infection.
+This is a prime opportunity for the gamemaster to
+mess with the character ruthlessly, starting slowly
+with little haunting effects and building up as the
+infection progresses. The character should slowly
+become aware that they are under the influence of
+something—something intelligent. Characters aware
+of the Exsurgent virus and its effects will likely pick
+up on this sooner, but the virus may prevent them
+from doing anything about it. In effect, the character
+becomes a prisoner within their own body, a body
+they now share with a cold and malevolent pres-
+ence that is methodically taking them over. Such
+characters may respond in a number of ways de-
+pending on their personality, ranging from despair,
+withdrawal, and suicidal tendencies to complete
+hysteria or calm acceptance. Most importantly,
+however, their personality should begin to change
+as the virus continues to transform them. Players
+should be encouraged to take on new demeanors
+and motivations, refl ecting the alien component
+of their changing personality, with some guidance
+from the gamemaster. This presents some intrigu-
+ing roleplaying opportunities that the players will
+hopefully embrace. If the gamemaster feels that the
+player is not adequately representing the changing
+mindset, however, the transformation can simply
+be accelerated and the character converted into a
+gamemaster-operated NPC.
+
+EXSURGENTS
+A few examples of exsurgents created from tran-
+shumans transformed by the xenomorph strain of
+the virus are noted below. As always, gamemasters
+are encouraged to develop their own, using these as
+guidelines. Unless otherwise noted, exsurgents use the
+stats and skills of the transformed character. Each ex-
+surgent detailed below first lists the aptitude modifiers
+applied to transformed characters, then gives example
+aptitude/skill ratings for NPC exsurgents.
+  Note that simply encountering transformed exsur-
+gents is stressful to the minds of many transhumans.
+At the gamemaster’s discretion, such encounters may
+inflict 1d10 + 3 mental stress (p. 215).
+
+CREEPERS (SYNTHMORPHS)
+Perhaps the most disturbing exsurgent variant, so-
+called creepers are cloud-like amorphous swarms of
+small, black bubbles that are strangely fuzzily defined,
+as if surrounded by some sort of visual refraction effect.
+These clouds are theorized to in fact be autonomous
+femtobot swarms—similar to nanobots, but affecting
+matter on an even smaller scale, at the level of an atomic
+nucleus. These black bubbles are capable of coalescing
+into physical shapes in various states and can penetrate
+just about any material or substance in a matter of
+Action Turns. They may even penetrate morphs, access-
+ing and interfacing with neural and electronic systems
+directly. For rules purposes, treat creepers the same as a
+self-replicating nanoswarm (p. 383).
+ COG       COO       INT       REF     SAV      SOM       WIL     MOX
+ +5 (20)   — (15)   +5 (20)   + (30)
+                               10      — (15)   — (15)   + (30)
+                                                          10       —
+
+  INIT     SPD       LUC       TT       IR      DUR       WT      DR
+  100       2         —        —        —       100       20      200
+Mobility System: Walker/Microlight (4/16) (may
+  create other mobility systems with different rates)
+Skills: Fray 40, Free Fall 50, Intimidation 60, Percep-
+  tion 50, Unarmed Combat (Grapple) 50 (60)
+Notes: 360-degree Vision, Chemical Sniffer, Electrical
+  Sense, Enhanced Hearing, Enhanced Vision, Frac-
+  tal Digits, Nanoscopic Vision, Radar, Radiation
+  Sense, Swarm Composition (but may make SOM
+  Tests, and plasma weapons do only 1d10 damage),
+  T-ray Emitter

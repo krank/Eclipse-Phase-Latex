@@ -1,0 +1,80 @@
+count as a Complex Action, and would apply the
+same modifier as running. Flying generally counts as a
+Quick Action, though intricate maneuvers would call
+for a Complex Action.
+
+MOVEMENT RATES
+Sometimes it’s important to know not just how you’re
+moving, but how far. For most of transhumanity, this
+movement rate is the same: 4 meters per Action Turn
+walking, 20 meters per turn running. To determine
+how far a character can move in a particular Action
+Phase, divide this movement rate by the total number
+of Action Phases in that turn. In a turn with 4 Action
+Phases, that breaks down to 1 meter walking per
+Action Phase, 5 meters running.
+  Movement such as swimming or crawling bench-
+marks at about 1 meter per Action Turn, or 0.25
+meters per Action Phase. You can also sprint to in-
+crease your movement rate (see Sprinting). Vehicles,
+robots, creatures, and unusual morphs will have indi-
+vidual movement rates listed in the format of walking
+rate/running rate in meters per turn.
+  These movement rates assume standard Earth
+gravity of course. If you’re moving in a low-gravity,
+microgravity, or high-gravity environment, things
+change. See Gravity, p. 198.
+
+JUMPING
+Characters making a running jump can cross SOM ÷
+5 (round up) meters; use SOM ÷ 20 (round up) meters
+for standing jumps. Vertical jumping height is 1 meter.
+Characters making a Freerunning Test can increase
+jumping distance by 1 meter (running jump) or 0.25
+meters (standing/vertical jumps) per 10 points of MoS.
+
+SPRINTING
+You may use Freerunning to increase the distance
+you move during an Action Phase. You must spend
+a Complex Action to sprint and make a Freerunning
+Test. Every 10 points of MoS increases your running
+distance in that Action Phase by 1 meter, to a maxi-
+mum bonus of +5 meters.
+COMBAT
+Sometimes words fail, and that’s when the knives and
+shredders come out. All combat in Eclipse Phase is
+conducted using the same basic mechanics, whether it’s
+conducted with claws, fists, weapons, guns, or psi: an
+Opposed Test between the attacker and defender(s).
+
+RESOLVING COMBAT
+Use the following sequence of steps to determine the
+outcome of an attack.
+
+STEP 1: DECLARE ATTACK
+The attacker initiates by taking a Complex Action to
+attack on their turn during an Action Phase. The skill
+employed depends on the method used to attack. If
+the character lacks the appropriate Combat skill, they
+must default to the appropriate linked aptitude.
+
+STEP 2: DECLARE DEFENSE
+Once the attack is declared, the defender chooses how
+to respond. Defense is always considered an Automatic
+Action unless the defender is surprised (see Surprise,
+p. 204) or somehow incapacitated and incapable of
+defending themself.
+   Melee: A character defending against melee at-
+tacks uses Fray skill, representing dodging (if the
+character lacks this skill, they may default to Re-
+flexes). Alternately, the character may use a melee
+combat skill to defend, representing blocks and par-
+ries rather than dodging.
+   Ranged: Against ranged attacks, a defending char-
+acter may only use half their Fray skill (round down).
+   Full Defense: Characters who have taken a Com-
+plex Action to go on full defense (p. 198) receive a
++30 modifier to their defensive roll.
+   Psi: A character defending against a psi attack rolls
+WIL x 2 (p. 222). A mental sort of full defense may
+also be rallied against psi attacks.

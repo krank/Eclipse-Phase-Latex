@@ -1,0 +1,59 @@
+IMPERSONATION                                              another skill. This includes hobbies, obsessions,
+Type: Active, Social                                       causes, pastimes, and other recreational pursuits.
+Linked Aptitude: SAV                                         When you use it: Use the Interest skill whenever
+  What it is: Impersonation is the skill of trying to      you need to recall or use knowledge related to the
+pass yourself off as someone else in social situations,    particular interest in question.
+including virtual ones. This includes copying manner-        Field Examples: Ancient Sports, Celebrity Gossip,
+isms and speech patterns and using accumulated in-         Conspiracies, Factor Trivia, Gambling, Hypercorp
+formation to convince others that you are that person.     Politics, Lunar Habitats, Martian Beers, Old Earth
+In a universe where appearance is highly variable, the     Nation-States, Reclaimer Blogs, Science Fiction, Scum
+question of identity is largely one of both trust and      Drug Dealers, Spaceship Models, Triad Economics,
+picking up on behavioral quirks and verbal cues to         Underground XP
+recognize a given individual.                              Specializations: As appropriate to the field
+  When you use it: Sometimes it’s fun to pretend
+you’re someone else, and sometimes it’s profitable         INTERFACING
+or lifesaving. Use this skill whenever you attempt         Type: Active, Technical
+to convince someone that you are actually someone          Linked Aptitude: COG
+else through some sort of social or online interaction.      What it is: Interfacing is about using computerized
+Forks use this skill when passing themselves off as        electronic devices and software.
+their alpha ego. Impersonate is handled as an Op-            When you use it: Use Interfacing to understand an
+posed Test against the Kinesics skill.                     electronic device you are not familiar with, use a pro-
+Specializations: Avatar, Face-to-Face, Verbal              gram according to its normal operating parameters,
+                                                           manipulate electronic files of various types (including
+INFILTRATION                                               images, video, XP, and audio files), scan for wireless
+Type: Active, Physical                                     devices, and otherwise interact with and command
+Linked Aptitude: COO                                       your ecto, muse, and other computerized devices.
+   What it is: Infiltration is the art of escaping         Some Interfacing actions may be Task Actions, with
+detection.                                                 a timeframe determined by the gamemaster. For more
+   When you use it: Use Infiltration whenever you          detail, see the Mesh chapter, p. 234.
+need to physically hide or move with stealth to avoid      Specializations: Forgery, Scanning, Stealthing, by
+someone sensing you, whether you are hiding behind            program
+a tree, sneaking past a guard, or blending into a
+crowd. Infiltration can also be used to follow people      INTIMIDATION
+(shadowing) without them detecting you. Infiltration       Type: Active, Social
+is an Opposed Test against the Perception of whom-         Linked Aptitude: SAV
+ever you are hiding from. The gamemaster may wish            What it is: Intimidation is convincing someone to
+to roll such tests in secret so the player does not know   do what you want based on direct threats (implied or
+whether they have succeeded or failed.                     actual) or sheer force of personality.
+Specializations: Blending In, Hiding, Shadowing,             When you use it: Use Intimidation to scare someone
+   Sneaking                                                into submission, browbeat them into getting your way,
+                                                           command them to follow your orders, or berate them
+INFOSEC                                                    into giving up information. Influence is handled as an
+Type: Active, Technical                                    Opposed Test, pitted against the target’s WIL + WIL
+Linked Aptitude: COG (no defaulting)                       + SAV.
+   What it is: Infosec is short for “information secu-     Specializations: Interrogation, Physical, Verbal
+rity.” It encompasses training in electronic intrusion
+and counterintrusion techniques, as well as encryption     INVESTIGATION
+and decryption.                                            Type: Active, Mental
+   When you use it: Infosec is used both for hacking       Linked Aptitude: INT
+into electronic devices and mesh networks and for            What it is: Investigation is the art of analyzing
+protecting them. See the Mesh chapter, p. 234, for         evidence, piecing together clues, solving mysteries,
+more details.                                              and making logical deductions from groups of facts.
+Specializations: Brute-Force Hacking, Decryption,          Investigation differs from Perception in that it is the
+   Probing, Security, Sniffing, Spoofing                   conscious search for clues or pieces of a puzzle.
+                                                             When you use it: Use Investigation to draw conclu-
+INTEREST: [FIELD]                                          sions from assorted details. For example, Investiga-
+Type: Field, Knowledge                                     tion could be used to determine the likely sequence
+Linked Aptitude: COG                                       of events at a crime scene, determine a possible social
+  What it is: Interest includes just about any topic       connection between two people, or deduce how an
+that captures your attention that isn’t covered by         enemy made their escape. Investigation is a great way

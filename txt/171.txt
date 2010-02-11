@@ -1,0 +1,127 @@
+VENUSIAN NEGOTIA
+           APTITU     COG      COO       INT    REF     SAV        SOM
+            Base       15       15        15     10      20         15
+     Morph Bonus                5                        10
+            Total       15      20        15     10      30        15
+
+
+
+
+     MOX TT           LUC        IR        WT    DUR     DR
+                                                               ST  INIT
+      5  6 (8)       30 (40)   60 (80)      7     35     53         50
+
+
+
+                                                              SKI
+                                                          MORPH
+                                         APT     BASE     BONUS
+           Academics: Memetics           COG      70
+         Academics: Psychology           COG      60
+           Academics: Sociology          COG      60
+                     Art: Rhetoric       INT      55
+                      Art: Speech        INT      60
+                        Deception        SAV      60          10
+                              Fray       REF      25
+       Interests: Cultural Memes         COG      60
+           Interests: Hypercorps         COG      50
+ Interests: Inner System Politics        COG      60
+                      Intimidation       SAV      50          10
+                     Investigation       INT      55
+                          Kinesics       SAV      70          10
+        Language: Native Arabic          INT      85
+             Networking: Firewall        SAV      50          10
+         Networking: Hypercorps          SAV      50          10
+              Networking: Media          SAV      60          10
+                       Perception        INT      45
+                       Persuasion        SAV      50          10
+                    Pilot: Aircraft      REF      20
+               Pilot: Groundcraft        REF      20
+    Profession: Culture Jamming          COG      50
+          Profession: Media Ops          COG      60
+         Profession: Spin Control        COG      55
+                          Protocol       SAV      60          10
+                   Psychosurgery         COG      45
+                        Research         COG      45
+
+
+
+
+You are known as a communica-             a frenzy. Your social man
+tor and deal-maker, but you are           skills work even better
+perhaps best described as a social        face, where you can run
+engineer. In an age of mimetic            cal circles around oppon
+skirmishes, you excel in shaping          scan body language and
+policy and public opinion. A night-       pressions to spot the slig
+mare combination of marketing             of untruthfulness or decep
+agent and political ofﬁcer, you are       excel at fostering dissen
+adept at media relations, spin con-       fragmenting loyalties, u
+trol, suppressing dangerous ideas,        getting others to do exac
+psychological warfare, ideological        you want while convinc
+purity, and whipping a crowd into         it’s in their own best inter
+
+                    “It’s time we discussed these rumors of
+TOR
+ES
+WIL
+15
+ 5
+20
+
+
+
+TS
+SPD
+ 1
+
+
+
+LS
+TAL
+0
+0
+0
+5
+0
+0
+5
+0
+0
+0
+0
+5
+0
+5
+0
+0
+0
+5
+0
+0
+0
+0
+0
+5
+0
+5
+5
+           Background: Reinstantiated
+           Faction: Venusian
+           Morph: Sylph
+           Motivations: +Fame +Personal Career +Venusian S
+
+           TRAITS                              Implants: Ba
+ation      Ego: Common Sense ■                   Basic Mes
+e-to-      Morph: Striking Looks (Level 1) ■     Metabolism
+etori-                                           Endocrine
+   and     REP                                   Pheromon
+ oex-      c-rep:    80                          Mnemonic
+t hint     f-rep:    60                          Nanophag
+ . You     i-rep:    60                        Gear: Backup
+  and                                            (1 month),
+ately      EQUIPMENT                             Recognitio
+what       Armor: Armor Clothing [3/4] ■         Bots, Mus
+them       Primary Weapon: None ■                Specs, Tra
+ ■         Starting Credit: 5,700 ■
+
+ netary Consortium interference in Morningstar’s affairs.”

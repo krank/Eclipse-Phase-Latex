@@ -1,0 +1,96 @@
+LACK                                     6   FACTIONS                             70   THINGS CHARACTERS USE               124
+                                              The Hypercorps                      70     Identity                          124
+ENTER                                         Psiclone                            70     Social Networks                   124
+ THE SINGULARITY ...                    16    War Crimes                          71     Cred                              125
+STARTING OUT                            18    Union Busting                       72     Rep                               125
+ What Is A Roleplaying Game?            18    Political Blocs                     74     Gear                              125
+ What is Transhumanism?                 18    Zbrny Limited + Conspiracy          74     Implants                          126
+ Post-apocalyptic, Conspiracy, and            Inner System Politics               75     Psi                               126
+    Horror Themes                       19    Autonomist Alliance                 76     Game Rules Summary                127
+ But How Do You Actually Play?          20    Call for Solidarity                 77
+ What Do Players Do?                    22    Carnival of the Goat                78
+                                                                                       CHARACTER CREATION AND
+ Where Does It Take Place?              24    Socio-Political Movements           79    ADVANCEMENT         128
+ Ego vs. Morph                          24    Neo-Primitivists                    80   CHARACTER GENERATION                130
+ Where To Go From Here?                 24    Out’sters                           80     Character Concept                 130
+ Terminology                            25    Sybils                              81     Step-by-Step Guide to Character
+                                              Religious Groups                    82        Creation                       130
+A TIME OF ECLIPSE                       30    Criminal Factions                   83     Choose Background                 131
+A PEOPLE’S HISTORY OF AN                      Firewall                            84     Choose Faction                    132
+  UNFORTUNATE UNIVERSE                  32    Project Ozma                        85     Spend Free Points                 134
+ Eclipse Phase Timeline                 37   SYSTEM GAZETEER                      86     Spend Customization Points        135
+THE SOLAR SYSTEM                              Sol (The Sun)                       86     Purchase Gear                     137
+  AFTER THE FALL                        38    A Quick Primer On                          Choose Motivations                138
+TRANSHUMANITY                           38       Transhuman Habitats              86     Example Motivations               138
+ Inequality                             38    Solar System Map                    87     Final Touches                     138
+ Clades and Separation                  39    Vulcanoids                          88   STARTING MORPHS                     139
+ First Contact: The Factors             40    Mercury                             88     Biomorphs                         139
+CULTURE AND SOCIETY                     41    Venus                               89     Pods                              142
+ The Longing For Earth                  41    Earth                               90     Synthetic Morphs                  143
+ Nostalgia Jewelry                      41    Venusian Rumors                     90     Infomorphs                        145
+ Fear and Paranoia                      42    Luna                                91   TRAITS                              145
+ An Exsurgent Threat?                   42    TILION’s Jupiter Brain              92     Positive Traits                   145
+ Real and Social Distance               43    Mars                                93     Negative Traits                   148
+ Singularity Seekers                    43    Martian Manhunt                     95   CHARACTER ADVANCEMENT               152
+ The Rise of Cultural Regions           44    Martian Trojans                     96     Changing Motivation               152
+ Cultural Experimentation               44    Asteroid Belt                       96     Switching Morphs                  152
+ Gender, Sexuality, and Relationships   45    Jupiter                             97     Improving Aptitudes               152
+ The Diversity of Habitats              45    Europa                              99     Improving Skills                  152
+                                              Ganymede and Callisto               99
+TECHNOLOGY                              45    The Trojans (Jovian Trojan
+                                                                                         Specializations                   153
+ Living With Infotech                   46                                               Improving Moxie                   153
+                                                 and Greek Asteroids)            100     Gaining/Losing Traits             153
+ Opening Pandora’s Gate                 46
+                                              Saturn                             102     Improving Rep                     153
+ Going Beyond the Known                 47
+                                              Gate Expedition Report 901127      102     Making Credit                     153
+ Muses                                  47
+                                              Titan                              106     Improving Psi                     153
+ Attitudes Toward AGIs                  48
+                                              Uranus                             107
+ Attitudes Towards Mental Alterations   48
+                                              Neptune                            108   SAMPLE CHARACTERS                   154
+ Travel                                 48
+                                              The Edge of the System             109
+ Privacy                                49
+                                              Extrasolar Systems                 109
+                                                                                       SKILLS                              170
+ Incapacitating Inputs                  49                                             SKILLS OVERVIEW                     172
+                                              Analysis: Myst Trees               111
+ Low-Tech Existence                     50                                               Core Skills: Aptitudes            172
+ Life, Death, and Morphs                50   GAME MECHANICS                   112        Learned Skills                    172
+ Entertainment and Media                51    The Ultimate Rule                  114     Specializations                   173
+ Lost Lore                              51    Dice                               114   USING SKILLS                        173
+ Metacelebrities                        52    Making Tests                       114     Defaulting                        173
+ Popular Types of Entertainment         52    A Note on Terminology and Gender   114     Complementary Skills              173
+POLITICS AND POWER                      55    Target Numbers                     115     Skill Ranges                      174
+ The Inner System                       55    When to Make Tests                 115
+                                              Difficulty and Modifiers           115
+                                                                                       APTITUDES                           174
+ The Outer System                       57
+                                                                                        Aptitude-Only Tests                174
+KEEPING THE PEACE                       58    Criticals: Rolling Doubles         115
+                                                                                        Aptitude Comparison:
+  Law Enforcement                       59    Defaulting: Untrained Skill Use    116
+                                                                                          Flats vs. Splicers and Exalts    174
+  Punishment                            60    Teamwork                           116
+                                              Simplifying Modifiers              116   COMPLETE SKILL LIST                 176
+THE ECONOMY                             61                                              Academics: [Field]                 176
+ The Old Economy                        61   TYPES OF TESTS                      117
+                                                                                        Animal Handling                    177
+ The Transitional Economy               62     Success Tests                     117
+                                                                                        Art: [Field]                       177
+ The New Economy                        62   TIME AND ACTIONS                    119    Beam Weapons                       177
+ Restricting Dangerous Technologies     63    Action Turns                       119    Blades                             177
+ Irreproducible Goods                   64    Types of Actions                   119    Climbing                           177
+HABITATS                                66   DEFINING YOUR CHARACTER             120    Clubs                              178
+ Planetary Settlements                  66     Concept                           120    Control                            178
+ Space Habitats                         67     Motivations                       120    Deception                          178
+ A Diversity of Floating Worlds         68     Ego vs. Morph                     121    Demolitions                        178
+ The Largest Habitats                   68     Character Stats                   121    Disguise                           178
+ Microgravity Habitats                  68     Ego Stats                         121    Exotic Melee Weapon: [Field]       178
+ Private Habitats                       69     Morph Stats                       121    Exotic Ranged Weapon: [Field]      178
+                                               Character Skills                  122    Flight                             178
+                                               Character Traits                  123
+                                               Character Morph                   123

@@ -1,0 +1,121 @@
+DETAILING THE CHARACTER
+The final step in character creation is filling in the de-
+tails and figuring out what your character is like and
+what they are all about. Your character’s Background
+is a good place to start as it says where they came, but
+it could be expanded. What did they think of their
+childhood? Do they still have ties from there? How
+did they move from such origins to the Faction they
+are part of? Are they fully supportive of their Faction’s
+goals, or are they in opposition? How does the charac-
+ter view other Factions?
+   Next, take a look at the skills and other defining
+points—these also tell a story. How did they acquire
+those skills? Why? How did they develop their Rep
+score (or lack of one)? How did they get connected
+with the groupings represented by their Networking
+skills? What do the character’s traits say about them?
+How did they get their current morph? Is it their
+original? If not, what happened to their first body?
+   Also taking into account the major factor of Moti-
+vations, all of these questions will help you build a de-
+fining picture of your character. Not everything about
+your character needs to be filled out, of course—it’s
+ok to leave a few blanks that you can fill in later. As-
+sembling the points you have deduced so far will help
+you to present your character as a whole, unique indi-
+vidual, however, rather than just a blank template.
+   As a final step, take a few minutes to pick out some
+specific identifying features and personality quirks that
+will help you define the character to others. This could
+be a way of talking, a strongly-projected attitude, a
+catchphrase they use frequently, a unique look or style
+of dress, a repetitive behavior, an annoying manner-
+ism, or anything else similar that is easy to latch onto.
+Such idiosyncrasies give something that other players
+can latch onto, spurring roleplaying opportunities.
+
+
+
+STARTING MORPHS
+Each morph has an associated CP cost. It also sup-
+plies the character’s Durability and Wound Threshold
+stats, and may modify Initiative, Speed, and certain
+aptitudes and learned skills. A credit cost is also listed,
+but this refers to the cost of buying such a morph in
+gameplay.
+   Flexible Aptitude Bonuses: Some morphs have ap-
+titude bonuses that may be applied to an aptitude of
+the player’s choice. This reflects that not all morphs
+are created equal. When assigning these universal ap-
+titude bonuses, each boost must be applied to a sepa-
+rate aptitude; you may not elevate an aptitude that
+is already raised by that morph. Once an individual
+morph’s aptitude bonuses have been assigned, they
+are permanent for that morph (i.e., if another char-
+acter resleeves into that morph, the bonuses remain
+the same).
+
+BIOMORPHS
+Biomorphs are fully biological sleeves (usually
+equipped with implants), birthed naturally or in an
+exowomb, and grown to adulthood either naturally
+or at a slightly accelerated rate.
+
+FLATS
+Flats are baseline unmodified humans, born with all
+of the natural defects, hereditary diseases, and other
+genetic mutations that evolution so lovingly applies.
+Flats are increasingly rare—most died off with the rest
+of humanity during the Fall. Most new children are
+splicers—screened and genefixed at the least—except
+in habitats where flats are treated as second-class citi-
+zens and indentured labor.
+Implants: None
+Aptitude Maximum: 20
+Durability: 30
+Wound Threshold: 6
+Disadvantages: None (Genetic Defects trait common)
+CP Cost: 0
+Credit Cost: High
+
+SPLICERS
+Splicers are genefixed humans. Their genome has
+been cleansed of hereditary diseases and optimized
+for looks and health, but has not otherwise been
+substantially upgraded. Splicers make up the major-
+ity of transhumanity.
+Implants: Basic Biomods, Basic Mesh Inserts,
+   Cortical Stack
+Aptitude Maximum: 25
+Durability: 30
+Wound Threshold: 6
+Advantages: +5 to one aptitude of the player’s choice
+CP Cost: 10
+Credit Cost: High
+
+EXALTS
+Exalt morphs are genetically-enhanced humans, de-
+signed to emphasize specific traits. Their genetic code
+has been tweaked to make them healthier, smarter,
+and more attractive. Their metabolism is modified to
+predispose them towards staying fit and athletic for
+the duration of an extended lifespan.
+Implants: Basic Biomods, Basic Mesh Inserts,
+   Cortical Stack
+Aptitude Maximum: 30
+Durability: 35
+Wound Threshold: 7
+Advantages: +5 COG, +5 to three other aptitudes of
+   the player’s choice
+CP Cost: 30
+Credit Cost: Expensive
+
+MENTONS
+Mentons are genetically modified to increase cogni-
+tive abilities, particularly learning ability, creativity,
+attentiveness, and memory. Rumors exist of super-
+enhanced mentons with more extreme intelligence
+mods, but brain-hacking is notoriously difficult, and
+many attempts to redesign mental faculties result in
+impaired functioning, instability, or insanity.

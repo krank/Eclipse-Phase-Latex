@@ -1,0 +1,121 @@
+                                                          P
+CREATURE       COG COO INT REF SAV SOM WIL INIT SPD D
+Fur Coat        1   1    1    5    1   5    1    12   1     1
+
+Smart Dog       5   10   15   15   5   15   10   60   1     2
+
+
+Smart Monkey    5   15   15   15   5   10   10   60   1     2
+
+
+Smart Rat       5   15   15   15   5   5    10   60   2
+
+Space Roach     1   10   10   15   5   5    5    50   1
+
+
+
+ PETS
+ These partially-uplifted and bio-engineered animals
+ have rudimentary intelligence and limited communica-
+ tion skills. They make for fine companions and helpers.
+    Fur Coat: A so-called “fur coat” is outerwear made
+ from a living primitive organism. The creature’s skin,
+ fur, or scales are real. The organism is cultivated from
+ transgenic stocks and grown around molds into cloth-
+ ing shapes, often with actual usefulness: polar bear
+ parkas, seal diving suits, porcupine coats, etc. Fur
+ coats are modified with wireless controls and haptic
+ systems, so they can be made to move, shiver, massage,
+ or prickle up on command. [Low]
+    Smart Dogs: Commonly used as discriminatory
+ guardians, smart dogs are sometimes enhanced with
+ combative bioware or cybernetics. [Moderate]
+    Smart Monkey: Commonly used by criminal groups
+ for minor larceny such as pickpocketing, smart mon-
+ keys can be useful and intelligent aides. [Moderate]
+    Smart Rats: These upgrades of the common Norwe-
+ gian rat are clever and dexterous, and they easily fit
+ into a pocket or hood. [Low]
+    Space Roach: Grown to the size of a small dog,
+ these insects are often biosculpted for bright colors
+ and patterns. They are useful for minor janitorial
+ duties. [Low]
+
+ SCAVENGER TECH
+ This technology is often employed by gatecrashers,
+ space scavengers, and Firewall teams during missions.
+    Disassembly Tools: These tools are useful for sal-
+ vage ops, breaking down wrecks, or dissembling any-
+ thing from a habitat room to a vehicle or synthmorph.
+ They include plasma torches, laser cutters, pneumatic
+ jaws, and smart tools like spanners and wrenches that
+ can be adopted to a wide array of connections and
+ fittings. [High]
+    Mobile Lab: The mobile lab is a handheld device
+ that contains all different types of sensors to investi-
+ gate organic and inorganic liquid, gaseous, and solid
+ components (from soil to tissue samples) and compo-
+ sitions. It performs material analysis using different
+ methods of spectrometry and biochemical testing,
+ comparing results to a built-in database of element
+S
+WT LUC TT SKILLS
+3     2    1 —
+               Fray 30, Freerunning 30, Intimidation 30, Percep-
+5     20   4
+               tion 30, Scrounging 30, Unarmed Combat 40
+             Climbing 50, Fray 30, Freerunning 30, Inﬁltra-
+4     20   4 tion 30, Perception 30, Scrounging 30, Unarmed
+             Combat 30
+               Climbing 40, Fray 40, Freerunning 30, Inﬁltration
+1     20   4
+               50, Perception 20, Scrounging 50
+               Fray 30, Free Fall 30, Inﬁltration 50, Perception 20,
+1     10   2
+               Scrounging 50
+
+
+    and compound spectra. Its built in AI comes equipped
+    with Academic: Chemistry 30. [Moderate]
+       Specimen Container: This capsule container is
+    designed to hold samples of any sort (chemical, bio-
+    logical, etc.) in near stasis. It can be programmed to
+    reproduce whatever conditions the user specifies, from
+    cryogenic freezing to extreme heat, or even vacuum or
+    high-pressure atmosphere. [Low]
+       Superthermite Charges: These powerful and highly
+    stable demolition charges are made from a combina-
+    tion of nanometals and metal oxides. A single charge
+    can be used to create an explosive blast inflicting
+    2d10+5 damage. This charge can be shaped with a
+    successful Demolitions Test, focusing the blast in a
+    particular 90-degree direction (for example, to blow
+    through a door). This triples the damage of the blast
+    in the focused direction; in all other directions, the
+    damage is reduced to 1/3rd (round down). Multiple
+    charges apply a cumulative effect. [Moderate]
+
+    SERVICES
+    Anonymous Accounts: These accounts are crucial
+    for anyone who wants to be discreet with their
+    online transactions. See Anonymous Account Ser-
+    vices, p. 252. [Moderate]
+       Backup: A single, one-time backup without insur-
+    ance is sometimes all the poor can afford, hoping
+    that they can buy backup insurance later or that
+    someone that cared about them will see to a re-
+    sleeving. [Moderate]
+       Backup Insurance: In the event of verifiable
+    death, or after a set period of being missing, backup
+    insurance will arrange for your cortical stack to be
+    retrieved and your ego downloaded into another
+    morph. If the cortical stack cannot be retrieved, your
+    most recent backup is used. Most policies require
+    that the holder provide a backup to be uploaded
+    into secure storage at least twice a year. This industry
+    works in a manner similar to insurance underwriting
+    in terms of cost and individuals engaged in high risk
+    professions can expect to pay a premium for the ser-
+    vice. Additionally, attempts to retrieve a cortical stack
+    are minimal unless one wants to pay for some extra
+    effort (a thriving industry of paramilitary ego-repo

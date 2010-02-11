@@ -1,0 +1,60 @@
+JOVIAN                                                      SOCIALITE
+Your faction is noted for its authoritarian regime, bio-    You are a member of the inner system glitterati, the
+conservative ideologies, and militaristic tendencies.       media-saturated social cliques that set trends, spread
+Where you come from, technology is not to be trusted to     memes, and make or break lives with whispers, in-
+everyone and humans need to be protected from them-         nuendo, and backroom deals. You are simultaneously
+selves. To ensure its survival, humanity must be able to    an icon and a devout follower. Culture isn’t just your
+defend itself, and unfettered growth must be checked.       life, it’s your weapon of choice.
+Advantages: +10 to two weapon skills of your choice,        Advantages: +10 Persuasion skill, +10 Protocol skill,
+  +10 Fray, +20 Networking: Hypercorps skill                   +20 Networking: Media skill
+Disadvantages: Must start with a Flat or Splicer            Disadvantages: May not start with flat, pod, uplift, or
+   morph, may not start with any nanoware or ad-               synthetic morphs
+  vanced nanotech                                           Common Morphs: Exalts, Olympians, Sylphs
+Common Morphs: Flats and Splicers
+                                                            TITANIAN
+LUNAR                                                       You are a participant in the Titanian Commonwealth’s
+You hail from Luna, the original off-Earth colony           socialist cyberdemocracy. Unlike other autonomist
+world. Now overpopulated and in decline, Luna is            projects, Titanian joint efforts have assembled some
+one of the few places where people still cling to old-      impressive infrastructural projects as approved by
+Earth ethnic and national identities. Your home is also     the Titanian Plurality and pursued by state-owned
+within sight of Earth, a constant reminder that encour-     microcorps.
+ages many “Loonies” to be Reclaimers, deploring the         Advantages: +10 to two Technical or Academic skills
+hypercorp interdiction and arguing that you have a            of your choice, +20 Networking: Autonomists skill
+right to return to Earth, terraform it, and re-establish    Disadvantages: None
+it as a living homeworld.                                   Common Morphs: All
+Advantages: +10 to one Language: [Field] of your
+   choice, +20 Networking: Hypercorps skill, +10            ULTIMATE
+   Networking: Ecologists skill                             Your faction sees the potential in transhumanity’s
+Disadvantages: None                                         future and looks back upon the rest of transhuman-
+Common Morphs: Cases, Exalts, Flats, Splicers,              ity as weak and hedonistic. Transhumanity is set
+   Synths                                                   to take the next evolutionary step and it’s time for
+                                                            transhumans to be redesigned to the best of our
+MERCURIAL                                                   capabilities.
+Your faction has no interest in co-opting their true        Advantages: +10 to two skills of your choice, +20 to a
+natures in order to become more “human.” You might             Networking: [Field] skill of your choice
+be an AGI that does not necessarily intertwine its          Disadvantages: May not start with Flat, Splicer, uplift,
+destiny with transhumanity, or an uplift that seeks            or pod morphs
+to preserve and promote non-human life (or at least         Common Morphs: Exalts, Remades
+your own species). You might even be an infomorph or
+posthuman who has strayed so far from transhuman            VENUSIAN
+interests and values that you now consider yourself to      You are a supporter of the Morningstar Confedera-
+be forging a unique new path of life.                       tion of Venusian aerostats, resentful of the growing
+Advantages: +10 to any two skills of your choice, +20       influence of the Planetary Consortium and other en-
+   to a Networking: [Field] skill of your choice            trenched and conservative inner system powers. You
+Disadvantages: None                                         see your faction’s ascension as a chance to reform the
+Common Morphs: Infomorphs, Synths, uplift morphs            old guard ways of inner system politics.
+                                                            Advantages: +10 Pilot: Aircraft, +10 to one skill of
+SCUM                                                           your choice, +20 Networking: Hypercorps skill
+This is the future we’ve all been waiting for, and you’re   Disadvantages: None
+going to enjoy it to the max. A paradigm shift has oc-      Common Morphs: Cases, Exalts, Mentons, Splicers,
+curred, and while everyone else is catching up, your           Sylphs, Synths
+faction embraces and revels in it. There is no more
+want, no more death, no more limits on what you can         SPEND FREE POINTS
+be. The scum have immersed themselves in a new way          Each starting character receives an equal number of
+of life, changing themselves as they see fit, trying out    free points for things like rep and aptitudes. These
+new experiences, and pushing the boundaries wherever        free points are just the start for building your charac-
+they can ... and fuck anyone who can’t deal with that.      ter, so don’t fret if you can’t get certain scores as high
+Advantages: +10 Freefall skill, +10 to a skill of your      as you like. In the next stage of character creation,
+  choice, +20 Networking: Autonomists skill                 you will gain additional points with which you can
+Disadvantages: None                                         customize your character (see Spend Customization
+Common Morphs: All                                          Points, p. 135).

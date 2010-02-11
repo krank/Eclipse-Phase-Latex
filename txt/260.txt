@@ -1,0 +1,56 @@
+TRACE
+For high-security systems, a popular countermeasure
+is to track the infiltrator’s physical location via their
+mesh ID (see Physical Tracking, p. 251). In most cases,
+habitat physical security is subsequently alerted and
+forwarded the position to take care of the criminal.
+
+WIRELESS TERMINATION
+An alternative to shutdown or rebooting is simply to
+sever all wireless connections by shutting down the
+wireless capabilities of the system. The system will
+lose all active connections, but any intruders will be
+dumped. Wireless termination is a Complex Action to
+initiate and completes at the end of that Action Turn.
+Re-starting wireless connectivity takes 1 Action Turn.
+
+
+
+
+  JOINT HACKING/
+  SECURING
+  Hacking will sometimes involve teams of attack-
+  ers and/or teams of defenders. A hacker might
+  be backed up by their muse or another team
+  member with moderate Infosec skills. Hard
+  networks are often defended and monitored
+  by teams of highly-skilled security hackers and
+  AIs. When intruding in or defending a computer
+  system, operators must decide whether to act
+  individually or in concert.
+     Each approach has its tradeoffs. A team that
+  chooses to breach or maintain a system’s security
+  as a team effort must allocate one character (usu-
+  ally the team member with the highest Infosec
+  skill) as the primary actor (see Teamwork, p. 117).
+  Each additional character and muse adds a +10
+  modiﬁer for each test (up to the maximum +60
+  modiﬁer) but cannot spend time on other actions
+  than those performed by the team leader. When
+  acting in concert, teams may switch team leaders
+  at any time, in case group members are special-
+  ized for certain tasks.
+     Alternately, both intruding and defending
+  teams may choose to act individually but for a
+  joint goal. Each hacker must make intrusions
+  on their own, with individual repercussions for
+  detection and counterintrusion, which runs the
+  risk of affecting all intruders if any one is Spotted
+  or Locked. On the other hand, a team of intrud-
+  ers can pursue multiple actions simultaneously in
+  a coordinated manner and may temporarily over-
+  whelm available security. The same holds true for
+  system defenders, who may accomplish more by
+  splitting their actions, leaving some to monitor
+  while others launch counterintrusion attacks and
+  other countermeasures.                              ■

@@ -1,0 +1,120 @@
+simulspace programs. Though few are portable, some
+of them come close.
+
+SOFTWARE
+A wide manner of software is available for mesh users,
+from firewalls and AIs to hacking and encryption tools
+to tacnets and skillsofts. These programs are listed on
+p. 331 of the Gear chapter. Like other gear, software
+may enable a character to perform a task they could
+not otherwise. The quality of the software may also be
+a factor, applying a modifier as appropriate (see Mesh
+Gear Quality, p. 247).
+   Some software is equipped with digital restrictions
+to prevent it from being copied and shared with others.
+These restrictions may be defeated, but it is a time-con-
+suming task, requiring a Task Action Programming Test
+with a timeframe of 2 months. Thanks to the efforts
+of the open source movement and numerous individual
+software pirates, however, quite a bit of software is
+available free or online. The availability of pirated soft-
+ware or freeware will depend on the local habitat and
+legalities. Finding it may be a matter of a simple search,
+or it may require some use of reputation to find some-
+one who has it. Usually there is at least one local crime
+syndicate that is willing to help you out—for a price.
+
+SOFTWARE COMPATIBILITY
+In most instances, software compatibility is not going
+to be an issue for characters. Gamemasters who like
+it as a plot device, however, can introduce compat-
+ibility problems in certain cases, whether this is done
+to increase drama, slow the characters down, or create
+obstacles that they must overcome. Such incompat-
+ibilities are more likely to arise when dealing with
+outdated systems or devices, or at least ones that are
+unlikely to have the latest patches and software up-
+dates. Incompatibilities can also be used as a drawback
+to acquiring software from untrustworthy sources.
+   Conflicting software issues are going to have one of
+two effects. Either the software will simply not work
+with certain devices, or it will inflict a –10 to –30
+modifier due to instabilities and glitches. If the game-
+master allows it, a character may reduce this penalty
+by patching up the software, requiring a successful
+Programming Task Action (1 day). For every 10 points
+of MoS, reduce the incompatibility modifier by 10.
+
+TRAFFIC FILTERS AND MIST
+Mesh networks and AR are overrun with yottabytes of
+information. Though mesh inserts and ectos can deal
+with a lot of data traffic in terms of bandwidth and
+processing power, using filters to weed out unwanted
+traffic is quite simply a necessity. This is especially true
+of AR, where unwanted entoptics can clutter your
+vision and distract you. Nevertheless, entoptic spam of
+many flavors—advertisements, political screeds, porn,
+scams—do their best to bypass these filters, and in
+many areas the amount of unfiltered entoptics can be
+overwhelming—a phenomenon colloquially referred
+to as “mist.”
+  At the gamemaster’s discretion, mist can interfere
+with a user’s sensory perceptions. This modifier can
+range from –10 to –30, and in some cases might be
+so distracting as to affect all of a character’s actions.
+To lift the data fog, a character or muse must adjust
+their filter settings by succeeding in an Interfacing Test
+modified by the mist modifier. Alternately, the charac-
+ter can completely disable AR input, but this is likely
+to impede them in other ways.
+
+SLAVING DEVICES
+   For ease of use, as well as for privacy and security
+purposes, one or more devices may be slaved to each
+other. One device (usually the character’s mesh inserts
+or ecto) takes the role of master, while the other
+device(s) takes the role of slave. All traffic to and
+from slaved devices is routed through the master. This
+allows a slaved device to rely on the master’s security
+features and active monitoring. Anyone that wants to
+connect to or hacked into a slaved device is rerouted
+to the master for authentication and security scrutiny.
+Slaved devices automatically accept commands from
+their master device. This means that a hacker who
+penetrates a master system can legitimately access
+and issue commands to a slaved device, assuming their
+access privileges allow for it.
+   PANs are typically formed by slaving all of a char-
+acter’s devices to their ecto or mesh inserts. Similarly,
+individual components of a security system (doors,
+sensors, etc.) are usually slaved to a central security
+node that serves as a chokepoint for anyone hoping
+to hack the system. The same is often true for other
+networks and facilities.
+
+ISSUING COMMANDS
+Characters may issue commands to any slaved device
+or teleoperated bot (see Shell Remote Control, p. 196)
+with a Quick Action. Each command counts separately,
+unless the character is issuing the same command to
+multiple devices/drones.
+
+DISTANCE LAG
+Anytime you extend your communications over great
+distances, you run into the risk of time lags. Most
+communications are restricted to “local” for this
+reason, which generally means your local habitat
+and any others within 50,000 kilometers. On plan-
+etary bodies like Mars, Venus, Luna, or Titan, “local”
+encompasses all of the habitats and linked mesh net-
+works on that planetary body.
+  If a character is searching the mesh beyond their
+local area, the most efficient way is to transmit a search
+AI (usually a copy of your muse) or a fork to the non-
+local area, which will then run its search and return
+completed results. This process does, however, add to
+the time of transmission to the timeframe (i.e., search-
+ing the mesh of a station 10 light-minutes away adds
+20 minutes to the search as the search is transmitted
+over and the results are transmitted back). Since long-
+distance communications are sometimes interfered with

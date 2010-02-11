@@ -1,0 +1,13 @@
+                                               4
+                                         GAME MECHANICS
+                             DICE:
+pse Phase uses percentile dice—d100,
+ or two ten-sided dice (d10s) ■ p. 114
+
+
+
+
+     MAKING TESTS:
+     All tests are d100 rolls, trying to roll under or equal to a target number. The target number is determined
+     by your skill rating, with modiﬁers applied depending on how difﬁcult the task is. 00 is always a success;
+     99 always a failure. ■ p. 115

@@ -1,0 +1,42 @@
+LEARNED SKILLS                                               maximum amount of CP that may be spent on Rep
+Each character must purchase a minimum of 400 skill          is 35 points.
+points of Active skills and 300 skill points of Knowl-
+edge skills (see Skills, p. 170). Skills are bought at the   STARTING MORPH
+cost of 1 CP per point. Keep in mind that learned            Perhaps the most important use of CP is to buy the
+skills start at the rating of the linked aptitude. For       morph with which your character begins play. This
+example, if you want to raise a skill to 30 and the          may be the original bodily form in which your charac-
+skill’s linked aptitude is 10, you’ll need to spend 20 CP.   ter started life, or it may simply be the sleeve they are
+Skill bonuses from background or faction should also         currently inhabiting.
+be applied to the rating before you start raising the          Available morphs are listed starting on p. 139.
+skill. For simplicity, it is recommended that skills be        Note that any aptitude or skill bonuses provided by
+purchased as multiples of 5, but this is not a necessity.    the morph are applied after all CP are spent. In other
+  Raising a skill over 60 is expensive. Each point over      words, these bonuses do not affect the costs of buying
+60 costs double. Raising a skill with a linked attribute     aptitude and skill points during character generation.
+of 20 up to 70 would cost 60 CP: 40 points to get from       No aptitude may be modified over 40.
+20 to 60, and 20 more points to get from 60 to 70.
+  No learned skill may be raised over 80 during char-        PURCHASING TRAITS
+acter creation (unless you have the Expert trait, p. 146).   Traits represent specific qualities your character has
+  Though Knowledge skills are grouped into 5 skills,         that may help or hinder them.
+each is a field skill (p. 172), meaning that it can be          Positive traits supply bonuses in certain situations,
+taken multiple times with different fields.                  and each has a listed CP cost. You may not spend
+  A complete list of skills can be found on p. 176.          more than 50 CP on positive traits.
+                                                                Negative traits inflict disadvantages on your charac-
+SPECIALIZATIONS                                              ter, but they also give you extra CP that you can spend
+Specializations (p. 173) may also be purchased at the        on customizing your character. You may not purchase
+cost of 5 CP per specialization. You may purchase            more than 50 CP worth of negative traits, and no
+specializations for both Active and Knowledge skills.        more than 25 CP may be negative morph traits.
+Only 1 specialization may be purchased per skill, and           Positive traits are listed on p. 145, negative traits on
+they may only be bought for skills with a rating of          p. 148. Note that traits you receive from your back-
+30+.                                                         ground or faction do not cost or provide you with
+                                                             bonus CP.
+BUYING MORE CREDIT                                              Traits listed as morph traits apply to the morph, and
+If you want more cred to spend on gear, every CP will        not the ego. If the character switches to a new morph,
+get you 1,000 credits. See Purchase Gear, p. 136, for        these traits are lost (and new morph traits may be
+details on buying stuff. The maximum CP you can              gained). Morph traits may be bought like other traits
+spend on additional credits is 100.                          during character generation.
+
+INCREASING REP                                               PSI SLEIGHTS
+If you want your character to start play with lots of        Characters who purchase the Psi trait (p. 147) may
+social capital, you can increase your Rep score(s) at        spend CP to purchase sleights (see Sleights, p. 223).
+the cost of 1 CP per 10 additional points. No indi-          These represent specific psi abilities the character has
+vidual Rep score may be raised above 80, and the             learned. The cost to buy a sleight is 5 CP. No more

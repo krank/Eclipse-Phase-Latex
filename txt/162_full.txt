@@ -1,0 +1,66 @@
+                   HYPERCORP BLACK MARKETEER
+                                      APTITUDES                               COG      COO      INT    REF     SAV       SOM     WIL
+                                                                   Base        15       15       20     15      15        15     10
+                                                            Morph Bonus                                         5
+                                                                   Total       15       15       20     15      20        15      10
+
+
+
+
+                                                             MOX       TT     LUC       IR      WT     DUR     DR
+                                                                                                                         STATS
+                                                                                                                         INIT    SPD
+                                                              4         4      20       40       6      30     45         70      1
+
+
+
+                                                                                                                     SKILLS
+                                                                                                                 MORPH
+                                                                                                APT     BASE     BONUS          TOTAL
+                                                                Academics: Economics            COG      60                       60
+                                                                  Academics: Sociology          COG      55                       55
+                                                                         Beam Weapons           COO      40                       40
+                                                                                  Climbing      SOM      35          5            40
+                                                                                Deception       SAV      60          5            65
+                                                                                       Fray     REF      45                       45
+                                                                              Freerunning       SOM      35                       35
+                                                                                Inﬁltration     COO      40                       40
+                                                                                   Infosec      COG      40                       40
+                                                               Interests: Black Markets         COG      60                       60
+                                                           Interests: Inner System Law          COG      50                       50
+                                                                    Interests: Smuggling        COG      55                       55
+                                                                               Interfacing      COG      35                       35
+                                                                                  Kinesics      SAV      60          5            65
+                                                           Language: Native Portugese           INT      85                       85
+                                                                       Language: English        INT      45                       45
+                                                              Networking: Autonomists           SAV      45          5            50
+                                                                   Networking: Criminal         SAV      60          5            65
+                                                               Networking: Hypercorps           SAV      60          5            65
+                                                                      Networking: Media         SAV      45          5            50
+                                                                               Perception       INT      50                       50
+                                                                               Persuasion       SAV      60          5            65
+                                                                       Pilot: Groundcraft       REF      25                       25
+                                                                   Profession: Appraisal        COG      60                       60
+                                                              Profession: Con Schemes           COG      55                       55
+acuee                                                       Profession: Info Brokerage          COG      50                       50
+                                                                                  Protocol      SAV      55          5            60
+                                                                              Scrounging        INT      40                       40
+onal Career +Techno-Progressivism +Wealth                                Spray Weapons          COO      35                       35
+                                                                        Unarmed Combat          SOM      55                       55
+                  Starting Credit: 2,650 ■
+riminal) ■        Implants: Basic Biomods, Basic
+                    Mesh Inserts, Bioweave (Light),
+                    Cortical Stack, Eelware, Endo-
+                    crine Control, Enhanced Vision,
+                    Medichines, Nanophages ■
+                  Gear: Backup Insurance              The inner system is a nice place to        hackers, smugglers, and criminal
+                    (1 month), Cleaner Nano-          live, but it has its share of inequali-    cartels on one side and everyone
+                    swarm, Fake Ego ID, Guard-        ties. Someone has to provide the           who needs or craves the restricted
+                    ian Bot, Muse, Nanobandage,       goods and services that the poor           and illegal on the other. You keep
+                    Nanodetector, Overload            and clanking masses need, and              a step ahead of the law, providing
+                    Grenade, Servitor Bot, Shred-     you’re more than willing to meet           what you see as an essential role
+ight) + Armor       der (100 shots),                  their needs—and make some proﬁt            in society despite the ofﬁcial rules
+                    Vacsuit (Standard),               of your own while you’re at it. You        and restrictions that enhance your
+aser Pulser ■       Tactical Network Software ■       work as a middle man between the           proﬁt margins. ■
+
+             “I may have that, but it’s very hard to acquire. How much is it worth to you?”

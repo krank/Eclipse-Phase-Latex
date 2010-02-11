@@ -1,0 +1,93 @@
+                                                           A
+
+
+
+
+Colonist
+
+
+rtality +Individualism +Personal Development
+
+                  Implants: Basic Biomods, Basic
+                  Mesh Inserts, Circadian Regula-      You a
+lley ■            tion, Clean Metabolism, Cortical     embr
+                  Stack, Eidetic Memory, Enhanced      your
+                  Respiration, Enhanced Vision,        decry
+                  Hand Laser, Medichines,              the in
+                  Neurachem (Level 1), Tem-            tivism
+                  perature Tolerance, Toxin Filters,   mists
+(Heavy) with      T-Ray Emitter ■                      to tak
+g [16/13] ■       Gear: Backup Insurance               kill e
+ailgun SMG           (1 month), HE Grenades (10),      own
+ar ammo, 100         Muse, Particle Beam Bolter,       you c
+)■                   Tactical Network Software,        rienc
+0■                   Vibroblade ■                      sona
+
+                            “Your beliefs blind you to your
+       ULTIMATEAPTITUDES
+                MERC
+              COG      COO    INT    REF    SAV        SOM    WIL
+     Base      10       20     15     20     10         15    15
+rph Bonus      10       5             5       5         10
+     Total     20       25     15     25     15         25     15
+
+
+
+
+OX     TT      LUC      IR    WT     DUR    DR
+                                                   STATS
+                                                   INIT       SPD
+        6       30      60     8      40    60    70 (80)     1 (2)
+
+
+
+                                                  SKILLS
+                                              MORPH
+                              APT    BASE     BONUS          TOTAL
+ emics: Military Science      COG     60        10             70
+ Academics: Philosophy        COG     60        10             70
+         Beam Weapons         COO     60        5              65
+                  Climbing    SOM     35        10             45
+                     Clubs    SOM     50        10             60
+                       Fray   REF     65        5              70
+                  Free Fall   REF     50        5              55
+              Freerunning     SOM     45        10             55
+                  Gunnery     INT     45                       45
+     Hardware: Armorer        COG     50                       60
+                Inﬁltration   COO     50          5            55
+     Interests: Literature    COG     50          10           60
+ terests: Military History    COG     55          10           65
+              Intimidation    SAV     35          5            40
+        Kinetic Weapons       COO     60          5            65
+  nguage: Native Turkish      INT     80                       80
+       Language: English      INT     60                       60
+      Language: German        INT     45                       45
+   Medicine: Paramedic        COG     40          10           50
+Networking: Hypercorps        SAV     50          5            55
+               Perception     INT     50                       50
+       Pilot: Groundcraft     REF     30          5            35
+Profession: Military Ops      COG     55          10           65
+ rofession: Security Ops      COG     50          10           60
+ ession: Squad Logistics      COG     55          10           65
+        Seeker Weapons        COO     60          5            65
+         Spray Weapons        COO     35          5            40
+              Scrounging      INT     25          5            30
+     Throwing Weapons         COO     40          5            45
+        Unarmed Combat        SOM     60          10           70
+
+
+ a warrior-philosopher,        on to the next. You mostly find
+ g an ascetic lifestyle for    employment in the inner system,
+n personal growth. You         where various social cliques and
+  hedonism and greed of        hypercorps favor ultimates like
+ system and the collec-        yourself, knowing they are less
+d anarchy of the autono-       likely to be tempted or subverted
+ you’re more than willing      by rivals. In the end it doesn’t
+ eir pay so that they may      matter who pays the credit; you’ll
+  other. You follow your       take from them, learn from them,
+h, however, and when           and be here long after they’ve
+e to learn from an expe-       destroyed themselves with their
+ increase your own per-        petty intrigues and flawed ideolo-
+pabilities you will move       gies. ■
+
+ e potential.”

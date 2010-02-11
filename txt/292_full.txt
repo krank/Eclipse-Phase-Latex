@@ -1,0 +1,60 @@
+           ACQUIRE SERVICES
+VEL   SERVICE
+      Trivial favor: Get someone to perform services for 15
+      minutes. Moving a chair. Browbeating someone. Catching a
+ 1
+      ride. Researching someone on line. Borrow 50 credits. Other
+      Trivial cost services.
+      Minor favor: Get someone to perform services for an
+      hour. Moving to a new cubicle. Roughing someone up.
+ 2    Loaning a vehicle. Providing an alibi. Healing vat rental.
+      Minor hacking assistance. Basic legal or police assistance.
+      Borrow 250 credits. Other Low cost services.
+      Moderate favor: Get someone to perform services for
+      a day. Moving to a habitat in the same cluster. Serious
+      beatings. Lookouts. Short-distance egocast. Short shuttle
+ 3    trip (under 50,000 km). Minor psychosurgery. Uploading.
+      Reservations at the best restaurant ever. Major legal rep-
+      resentation or police favors. Borrow 1,000 credits. Other
+      Moderate cost services.
+      Major favor: Get someone to perform services for a
+      month. Moving a body. Homicide. Getaway shuttle piloting.
+      Industrial sabotage. Large-volume shipping contract on
+ 4    bulk freighter. Medium-distance egocast. Mid-range shuttle
+      trip (50,000–150,000 km). Moderate psychosurgery.
+      Resleeving. Get out of jail free. Borrow 5,000 credits. Other
+      High cost services.
+      Partnership: Get someone to perform services for a
+      year. Moving a dismembered body. Mass murder. Major
+      embezzlement. Acts of terrorism. Relocate a mid-size
+ 5
+      asteroid. Long-distance egocast. Long-range shuttle trip
+      (150,000 km or more). Borrow 20,000 credits. Other
+      Expensive cost services.
+
+
+
+
+      ACQUIRE INFORMATION
+LEVEL SERVICE
+      Common Information: Where to eat. What biz a certain
+ 1
+      hypercorp is in. Who’s in charge.
+      Public Information: Make gray market connections.
+      Where the “bad neighborhood” is. Obscure public
+ 2
+      database info. Who’s the local crime syndicate. Public
+      hypercorp news.
+      Private Information: Make black market connections.
+      Where an unlisted hypercorp facility is. Who’s a cop. Who’s
+ 3
+      a crime syndicate member. Where someone hangs out.
+      Internal hypercorp news. Who’s sleeping with whom.
+      Secret Information: Make exotic black market
+      connections. Where a secret corp facility is. Where
+ 4
+      someone’s hiding out. Secret hypercorp projects. Who’s
+      cheating on whom.
+      Top Secret Intel: Where a top secret black-budget
+ 5    lab is. Illegal hypercorp projects. Scandalous data.
+      Blackmail material.

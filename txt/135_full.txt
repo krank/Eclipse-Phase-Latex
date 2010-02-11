@@ -1,0 +1,57 @@
+the policies and goals of the hypercorp domes and Tharsis
+League.
+Advantages: +10 Freerunning, +10 to one skill of your choice,
+  +20 Networking: Autonomists skill
+Disadvantages: None
+Common Morphs: Cases, Flats, Rusters, Splicers, Synths
+
+BRINKER
+You or your faction is reluctant to deal with the rest of the
+transhumanity and the various goings-on in the rest of the
+system. Your particular grouping may have sought out self-
+imposed isolation, to pursue their own interests, or they may
+have been exiled for their unpopular beliefs. Or you may
+simply be a loner who prefers the vast emptiness of space
+to socializing with others. You might be a religious cultist, a
+primitivist, a utopian, or something altogether uninterested
+in transhumanity.
+Advantages: +10 Pilot: Spacecraft skill, +10 to a skill of your
+choice, +20 to a Networking: [Field] skill of your choice
+Disadvantages: None
+Common Morphs: All
+
+CRIMINAL
+You are involved with the crime-oriented underworld. You
+may work with one of the Sol system’s major criminal fac-
+tions—triads, the Night Cartel, the ID Crew, Nine Lives, Pax
+Familae—or one of the smaller, local operators with a big
+stake in a specific habitat. You might be a vetted member-
+for-life, a reluctant recruit, or just a freelancer looking for
+the next gig.
+Advantages: +10 Intimidation skill, +30 Networking: Crimi-
+   nal skill
+Disadvantages: None
+Common Morphs: All
+
+EXTROPIAN
+You are an anarchistic supporter of the free market and pri-
+vate property. You oppose government and favor a system
+where security and legal matters are handled by private com-
+petitors. Whether you consider yourself an anarcho-capitalist
+or a mutualist (a difference only other Extropians can figure
+out), you occupy a middle-ground between the hypercorps
+and autonomists, dealing with both and yet trusted by neither.
+Advantages: +10 Persuasion skill, +20 Networking: Autono-
+  mists skill, +10 Networking: Hypercorps skill
+Disadvantages: None
+Common Morphs: All
+
+HYPERCORP
+You hail from a habitat controlled by the hypercorps. You
+might be a hypercapitalist entrepeneur, a hedonistic socialite,
+or a lowly vacworker, but you accept that certain liberties
+must be sacrificed for security and freedom.
+Advantages: +10 Protocol skill, +20 Networking: Hypercorps
+  skill, +10 to any Networking: [Field] skill
+Disadvantages: None
+Common Morphs: Exalts, Olympians, Splicers, Sylphs

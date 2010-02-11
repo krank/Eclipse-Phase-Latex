@@ -1,0 +1,38 @@
+the Prometheans, occasional breakouts of the Exsur-          living creatures as well. The biological nanobots
+gent virus still occur, primarily due to scavengers or       spreading this strain act much like other biological
+others becoming infected when messing with old relics        virii, though they radically modify the victim’s bio-
+from the Fall.                                               logical and mental states. Some versions invade and
+                                                             restructure the target’s genetic code, transforming
+PLETHORA OF STRAINS                                          them into the horrible abominations known as ex-
+The Exsurgent virus is unlike anything that transhu-         surgents (p. 369). While first-hand reports relate lurid
+manity has ever encountered so far. While it bears           tales of victims metamorphing into hostile monsters,
+similarities with both computer and biological virii in      such reports are rare and considered unreliable due to
+regards to infection of hosts and propagation, it is not     the mental state of the witnesses (and any recordings
+bound by any limits of form or transmission vector.          that can verify such claims have a strange habit of
+   The Exsurgent virus is amazingly effective and            disappearing). Other variants of this strain are known
+infectious. As an information virus, it is highly intel-     only to alter the target’s neural code, subverting them
+ligent and adaptive, able to mutate into new forms.          to the will of the virus (and often, by extension, the
+Much like certain virii are able to cross species            TITANs) and affecting their mental structure in order
+boundaries or change their vector from contact to            to give them psi ability.
+airborne, it is also a self-morphing omnivirus, ca-
+pable of altering itself and its transmission vectors        BIOLOGICAL INFECTION
+to bypass infection safeguards. Like a retrovirus that       Biological versions are spread much like other patho-
+incorporates genetic information into the genome of          gens. People usually become infected by proximity to
+the target cell to subvert the cell to do its bidding, the   another infected entity. Vectors may be dermal (touch-
+Exsurgent virus does the same but on a more com-             ing someone with bio-nanobots excreted through the
+plex level. It is also known to rewrite a host’s neural      skin), inhalation (breathing exhaled bio-nanobots),
+code in a similar manner, in effect restructuring the        injection, or oral (p. 317). Exsurgent bio-nanobots can
+target’s mind and personality.                               live outside of a body for extended periods, however,
+   While it began as a digital computer virus—the            so infection is possible merely by occupying the space
+manner in which it infected the TITANs—it has trans-         where an infected victim was hours or even days before.
+formed to be communicable via at least three other              If a biomorph only has a chance of exposure to the
+forms: biological nanovirus, nanoplague, and basilisk        virus (e.g., they walk through a room in which they
+hack. Each is described below, along with rules for          might have breathed in exhaled bio-nanobots), have
+infection and defense.                                       them make a MOX x 10 Test (use their Moxie stat,
+                                                             not their current Moxie score). Failure means they
+BIOLOGICAL NANOVIRUS                                         were exposed. In other circumstances, however, expo-
+Exploiting the infected TITANs’ understanding of             sure may be automatic, such as extended touching of
+Terran biology and their access to bio- and nanotech-        or kissing an infected person.
+nology, the Exsurgent virus appeared in several biolog-         A biomorph exposed to this infection must make
+ical forms not long into the Fall. These virulent strains    a DUR x 2 Test to determine if the infection takes
+infected biomorph transhumans and sometimes other            hold. Basic bio-mods and nanophages do not offer

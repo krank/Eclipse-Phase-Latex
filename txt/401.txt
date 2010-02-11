@@ -1,0 +1,146 @@
+                    CHARACTER
+
+              BACKGROUND
+
+                         Faction
+
+                          Morph
+
+            Gender Identity
+
+                     Actual Age
+
+    Current Moxie Points
+
+                       Rez Points
+
+                    Motivations
+
+
+
+
+ Armor
+           ENERGY                                KINETIC
+
+              Melee Weapon
+                                    WEAPON                 SKILL
+
+           Ranged Weapon
+                                    WEAPON                 SKILL
+
+
+
+
+               LINKED                         MORPH                SPECIAL
+ACTIVE SKILLS APTITUDE                 BASE   BONUS TOTAL           OTHER
+Animal Handling            SAV
+ Beam Weapons             COO
+             Blades       SOM
+          Climbing        SOM
+              Clubs       SOM
+           Control        WIL*
+        Deception          SAV
+     Demolitions          COG*
+          Disguise         INT
+   Exotic Melee:          SOM
+   Exotic Melee:          SOM
+  Exotic Ranged:          COO
+  Exotic Ranged:          COO
+              Flight      SOM
+                Fray       REF
+          Free Fall        REF
+     Freerunning          SOM
+          Gunnery          INT
+        Hardware:         COG
+        Hardware:         COG
+  Impersonation            SAV
+        Inﬁltration       COO
+            Infosec       COG*
+       Interfacing        COG
+     Intimidation          SAV
+    Investigation          INT
+           Kinesics        SAV
+Kinetic Weapons           COO
+         Medicine         COG
+         Medicine         COG
+      Navigation           INT
+     Networking:           SAV
+     Networking:           SAV
+     Networking:           SAV
+     Networking:           SAV
+           Palming        COO
+       Perception          INT
+       Persuasion          SAV
+             PLAYER
+
+        ECLIPSE
+         PHASE       CHARACTER S
+                                       COG       COO       INT           REF       S
+                         Base
+                  Morph Bonus
+                         Total
+
+                             WIL x 2             FROM MORPH               (INT + REF)
+
+         MOX        TT       LUC         IR       WT       DUR           DR       IN
+
+
+                   LUC ÷ 5             LUC X 2   DUR ÷ 5                 Biomorphs: D
+                                                                         Synthmorphs
+
+
+                                                                           DAM
+                                                 DAMAGE WOUNDS                     S
+
+
+                                                                    PRIMAR
+P           DV                NOTES
+
+
+
+P           DV                MODES              AMMO            RANGE
+
+
+
+
+ ON /                           LINKED                        MORPH
+NUS              ACTIVE SKILLS APTITUDE             BASE      BONUS TOTAL
+                           Pilot        REF
+                           Pilot        REF
+                  Programming          COG*
+                       Protocol         SAV
+                     Psi Assault       WIL*
+                 Psychosurgery          INT
+                      Research         COG
+                    Scrounging          INT
+               Seeker Weapons          COO
+                          Sense        INT*
+                Spray Weapons          COO
+                     Swimming          SOM
+            Throwing Weapons           COO
+             Unarmed Combat            SOM
+
+                               * = no defaulting
+
+                                         LINKED              MORPH
+          KNOWLEDGE SKILLS              APTITUDE        BASE BONUS TOTAL
+          Academics:                       COG
+          Academics:                       COG
+          Academics:                       COG
+          Academics:                       COG
+          Art:                             INT
+          Art:                             INT
+          Art:                             INT
+          Art:                             INT
+          Interest:                        COG
+          Interest:                        COG
+          Interest:                        COG
+          Interest:                        COG
+          Language:                        INT
+          Language:                        INT
+          Language:                        INT
+          Language:                        INT
+          Profession:                      COG
+          Profession:                      COG
+          Profession:                      COG
+          Profession:                      COG

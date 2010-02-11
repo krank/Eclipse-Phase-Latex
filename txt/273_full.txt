@@ -1,0 +1,59 @@
+  who died during the Fall but have now acquired a              they are vulnerable to cyberbrain hacking (p. 261), and
+  new morph, the vast majority of transhumanity has             synthmorphs are viewed as low class in some cultures.
+  resleeved at least once. As such, most transhumans are
+  accustomed to resleeving.                                     EVACUATING A CYBERBRAIN
+    Adjusting to a new body takes time and a bit of             Characters inhabiting a synthmorph cyberbrain may
+  effort (see Integration, p. 272). Resleeving is also diffi-   voluntarily choose to evacuate by copying themselves
+  cult psychologically, as reflected by continuity (p. 272)     as an infomorph onto another device. This takes 1 full
+  and alienation (p. 272).                                      Action Turn. See Infomorph Resleeving, p. 273.
+    Once an ego fully inhabits a new morph, the new
+  morph’s cortical stack needs ten minutes to amass a           RESLEEVING COSTS
+  complete backup of the ego.                                   The costs involved for the resleeving process itself are
+                                                                generally subsumed in the costs of the backup insur-
+  RESLEEVING BIOMORPHS AND PODS                                 ance and/or the new sleeve itself. Costs for individual
+  Resleeving takes about an hour in a properly equipped         morphs are noted in the descriptions starting on p.
+  clinic. In essence, the process works like uploading in       139. See Morph Brokerage (p. 276) for rules on find-
+  reverse. The new sleeve is hooked up to an ego bridge         ing and acquiring morphs.
+  which infiltrates the brain with nanobots that physi-
+  cally restructure the brain’s neural structure and con-       INTEGRATION
+  nections according to the map provided by the backup.          Getting used to a new body typically takes some time.
+  Sleeving takes six times as long as uploading because         The character must become acclimated to the changes
+  the nanobot swarm working as a wet printer in the              in height, weight, sex, and capabilities, which often
+  template brain needs to duplicate the entire physical          requires unlearning ways of doing things that worked
+  structure of the ego’s neural network. For resleeving, a       fine for their previous form. Resleeving in a synthetic
+ “wet” ego bridge is used, meaning that the sleeve and           morph or an uplift is also quite confusing at first,
+  ego bridge are submerged in a vat filled with nanogel.         given the drastically different morphologies, change in
+     The resleeving process for pods takes only half an hour,    limb structure (and sometimes amount of limbs), and
+  as pods brains are half biological and half cyberbrain.        so on. Luckily, transhuman minds are adaptive things,
+                                                                 and this process is aided by the application of mental
+  RESLEEVING SYNTHMORPHS                                        “patches” during the resleeving process that give the
+  Resleeving into the cyberbrain of a synthmorph is much         character a bit of a boost for using their new body.
+  easier and quicker, being a matter of copying the backup          An ego in a new morph makes an Integration Test
+  into the cyberbrain (an instantaneous affair) and then         upon taking control of the body, rolling SOM x 3 (morph
+  running the backup in its virtual brain state (1 Action        bonuses do not apply) and applying modifiers from the
+  Turn). The drawback to synthmorphs is that they are            Integration and Alienation Modifiers table. The result of
+  more difficult to acclimate to (see Integration, p. 272),      the test is explained on the Integration Test table, p. 272.
+
+
+
+
+RESLEEVING AND THE GAMEMASTER
+The gamemaster has a ﬁne amount of control over what a character can obtain when resleeving. The
+characters may be supplied with new morphs by Firewall or whatever employer/patron for whom they are
+currently working. In this case, the gamemaster can simply assign whatever morphs they see ﬁt—with com-
+plete control over enhancements, traits, etc. While morphs should be tailored for the mission at hand, this
+presents an opportunity for the gamemaster to throw the characters some new toys to play with and also
+some new challenges to overcome. Gamemasters are encouraged to mix it up, have fun, and give players
+something they can work with without necessarily giving them everything they want.
+   In other cases, the availability of desired morphs may be limited by the resleeving location. A small
+outpost in the wilds of Mars is unlikely to have a wide selection of morphs—in fact, a few rusters and
+synthmorphs may be all they have. Similarly, large habitats have a high demand for good morphs, so there
+may be a waiting list for top-of-the-line sylphs or remade morphs, for example. In the same vein, available
+morphs are going to be subject to local legalities, so getting that reaper morph may be out of the question.
+Characters could always turn to black market morph providers, but these come with their own risks.
+  What this means is that gamemasters should never be afraid to say no if a character is pursuing a morph
+that is unreasonable or potentially disruptive to the game. While it’s good form to give the players what they
+want once in a while, it also makes for more interesting roleplaying to saddle them with morphs that are
+a little different than what they were hoping for or that come with some interesting challenges, such as a
+physical addiction. For extra fun, leave the character unaware of a morph’s negative traits or secret implants
+until they reveal themselves. As always, the goal is to have fun, but variety often helps with that.        ■

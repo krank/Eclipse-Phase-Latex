@@ -1,0 +1,38 @@
+slow walk. The character must also be nude or wearing          Eelware: Derived from electric eel genetics, a char-
+smart clothing (p. 325) or a chameleon cloak (p. 315)       acter can have eelware implanted so that it connects
+of the same color and pattern. In addition to blending      to a network of bioconductors in the hands and feet
+in, the character can also consciously change the color     (or other limbs), allowing the character to generate
+and pattern of their skin to deliberately stand out (+20    stunning shocks with a touch. Eelware inflicts shock
+on Perception Tests to notice) or simply to produce at-     damage (p. 204) exactly like a pair of shock gloves.
+tractive or interesting colors or patterns. [Low]           Eelware can also be used to power implants and spe-
+   Circadian Regulation: The morph only requires            cially designed handheld devices by touch. [Low]
+2 hours of sleep to maintain health and function at            Emotional Dampers: This low-cost alternative to
+peak mental capacity. The character dreams con-             endocrine control (p. 304) allows the user to vol-
+stantly while asleep and can both fall asleep and           untarily damp their morph’s emotional responses
+wake up almost instantly. In addition, the character        and various non-verbal cues like pupil dilation, eye
+can easily and with no ill-effects shift to a 2-day         movement, or vocal tone. Using this augmentation
+cycle, where they are awake for 44 hours and sleep          allows the user to lie and conceal their emotions in
+for 4. [Moderate]                                           such as way as oo fool the keenest observer; apply a
+   Claws: The morph has retractable claws like those        +30 modifier to Deception and Impersonation Tests.
+of a cat. These claws do not interfere with the char-       This modification does not affect methods of detecting
+acter’s manual dexterity and are razor sharp. How-          lies and emotions that involve reading the character’s
+ever, they are relatively small and only do 1d10 + 1        neural state, including psi-gamma sleights. However,
++ (SOM ÷ 10) damage, with an AP of –1. As a result,         this augmentation damps out all emotional responses
+they are legal in almost all habitats and are considered    and so causes the character to be less persuasive in re-
+tools as much as weapons. [Low]                             al-time personal interactions, imposing a –10 modifier
+   Clean Metabolism: The morph’s symbiotic bacteria,        to other Social skill tests like Persuasion. Characters
+gut flora, and glands have been genetically engineered      can turn this augmentation on or off at will. [Low]
+to keep the morph “clean.” The morph also produces             Endocrine Control: This augmentation modifies the
+smart antibiotics that prevent the growth of any            morph’s endocrine system, giving the character fine
+bacteria or yeasts in it or on its skin. As a result, the   control over their hormone output. This allows the
+morph is completely immune to infections, dental cav-       character to completely control their appetite and
+ities, and bad breath, its sweat has no scent, and the      emotions and to regulate pain. They receive a +30
+morph’s efficient digestion produces somewhat less          modifier against the effects of hunger, fear, and any
+solid waste and less odorous chemicals. [Moderate]          forms of emotional manipulation, such as the Drive
+   Drug Glands: The morph has specially-tailored            Emotion sleight. This augmentation also allows char-
+glands designed to produce specific hormones or             acter to lie with perfect conviction and to completely
+chemicals and release them in the body. The charac-         fool all methods of lie detection that do not rely
+ter has control over these glands and can release the       on the target’s neural output; apply a +20 modifier
+chemicals at will. Each type of drug gland is consid-       to Deception Tests. It also allows the character to
+ered a separate enhancement. For potential drugs and        remain awake for 48 hours without penalty, but after
+chemicals, see p. 317. [Low]                                this time the character begins experiencing normal

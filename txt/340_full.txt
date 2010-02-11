@@ -1,0 +1,60 @@
+   Hollow-Point: Hollow-point bullets are designed to      lock on, correcting the bullet’s trajectory with surface
+deform and widen once they penetrate a target, thus        alterations and tiny vectored nozzles. Apply a +10
+inflicting more damage. [Trivial]                          modifier to the Attack Test, cumulative with aiming
+   Jammer: Jammers stick to the target and pulse out       and smartlink modifiers. Homing bullets may also be
+jamming electromagnetic signals, jamming the target’s      used for indirect fire (p. 195). [Low]
+wireless communications. If an Opposed Test is called         Laser-Guided: These bullets function like homing
+for, these devices have an Interface of 30. See Radio      smart rounds (apply the +10 attack modifier), except
+Jamming, p. 262. [Low]                                     rather than requiring a smartlink system, they lock
+   Plastic: Plastic ammo is designed to hurt but not       onto the reflection of the laser sight used to paint
+wound targets, and is commonly used for crowd con-         the target. Laser-guided bullets may also be used for
+trol purposes. [Trivial]                                   indirect fire (p. 195). [Low]
+   Reactive: The casing on these projectiles is made          Proximity: Proximity is an explosive ammunition
+of reactive materials that release a large amount of       that identifies the target when fired via smartlink. If
+energy when subjected to a sudden shock or impact—         the round determines that it will miss the target, it will
+such as striking a target. In other words, they explode    still explode if it reaches the close proximity of the
+or superheat when they hit. [High]                         target. If the attack misses with an MoF of 10 or less,
+   Reactive Armor-Piercing (RAP): This is a tung-          the round explodes 1d10 meters away from the target
+sten-carbide armor-piercing round with a reactive          and inflicts 1d10 area effect damage (see Blast Effect,
+casing, allowing the ammunition to penetrate even          p. 193) in the proximity of the target. [Moderate]
+further. [Moderate]                                           Zero: Similar to homing smart rounds, zero bullets
+   Regular Ammo: This standard metal projectile is         identify the target when fired via smartlink. Whether
+designed to put holes into morphs. [Trivial]               the round hits or misses, however, it sends telem-
+   Splash: Splash rounds carry a payload like capsule      etry data back to the next zero bullet, allowing it to
+ammo, but are designed to break upon impact rather         course-correct and “zero in” to hit the target (or hit
+than penetrating, splashing their contents on the          more accurately). Apply a +10 modifier to each shot
+target’s exterior. Splash rounds are typically loaded      (or burst) fired after the first against the same target in
+with paint, taggant nanobots, tracker dye, and similar     the same Action Turn. [Low]
+substances. [Trivial plus payload cost]
+   Zap: Zap rounds are rubber or gel bullets that          BEAM WEAPONS
+create an electric charge upon firing in a piezoelectric   Beam weapons is a broad category for a number of elec-
+like manner to stun the target effectively with both       tromagnetic weapons with a wide range of effects. With
+the bullet and the electric shock. [Trivial]               a few exceptions, energy weapons are primarily used for
+                                                           less-than-lethal purposes, designed to impair the target
+                                                           rather than kill it. Their poor performance against armor,
+SMART AMMO                                                 lesser ability to damage targets, and high power require-
+Smart ammunition takes advantage of nanotechnol-           ments make them less versatile than kinetic weapons.
+ogy to produce bullets that can alter their flight path,   The wielders of such weapons use Beam Weapons skill.
+home in the target, and correct aim. Smart ammo may           Beam weapons are powered by nuclear batteries.
+not be used with railguns. With the exception of biter,    This battery is good for a list number of shots before
+flayer, and proximity rounds, smart ammo may be            it is depleted. Batteries may be recharged at the rate
+combined with other ammo types (accushot armor-            of 20 shots per hour.
+piercing, for example).                                       Laser Pulsers: Laser weapons use focused beams of
+   Accushot: Accushot bullets change shape within          light to inflict damage on the target by burning into it
+flight to keep dead on course, countering the effects      and causing it’s outer surface to vaporize and expand,
+of wind, drag, and gravity over distance. Attacks          creating an explosive effect. The laser beam is pulsed
+made with accushot bullets ignore all range modi-          in order to bite into the target before the beam is dif-
+fiers. [Low]                                               fused. Pulsers are vulnerable to atmospheric effects
+   Biter: Biters are specially-designed to fragment in     like dust, mist, smoke, or rain, however—the game-
+opposite proportion to the hardness of the target they     master should reduce their effective range categories
+strike. For hard targets (synthmorphs), they frag-         as appropriate. Note that laser pulses are invisible in
+ment very little, blasting a big hole. For soft targets    the normal visual spectrum (but are visible to charac-
+(biomorphs), they fragment and tumble in multiple          ters with enhanced vision). Pulsers are medium-sized
+directions within the body. [Low]                          (p. 297) and fire in semi-auto mode. [Moderate]
+   Flayer: Flayers have nanosensors to detect an on-          One advantage to the pulser is that it can be placed
+coming impact, shooting out monomolecular barbs            in less-lethal mode. In this case, it first fires a pulse at
+as they are about to strike a target. These monowires      the target to create a ball of plasma, quickly fired by
+cut through the target along with the bullet, inflicting   a second pulse that strikes the plasma and creates a
+additional damage. [Low]                                   flash-bang shockwave to stun and disorient the target.
+   Homing: When fired with a smartlink system, the         This blast has an area of effect with a 1-meter radius.
+bullet identifies the target and uses nanosensors to       Anyone caught in the blast must make a SOM x 2

@@ -1,0 +1,76 @@
+   The method of transmission between habitats also
+sometimes matters. Radio and neutrino broadcasts
+can be intercepted by anyone, whereas tight-beam
+laser or microwave links are specifically used as a
+point-to-point method that minimizes interception
+and eavesdropping. The use of quantum farcasting
+using neutrino systems is completely secure, however,
+and is the most frequently-used intra-habitat link.
+   What these lags, bottlenecks, and prioritizations
+mean is that some news and data takes a particularly
+long-time to trickle from one local mesh network to
+another, passing slowly from habitat to habitat. This
+means that there are always gradients of information
+available to different local mesh networks, typically
+depending on proximity and the importance of the
+information. Some data even gets lost along the way,
+never making it further than a habitat or two before
+it is lost in the noise. The only way to retrieve such
+information is to track it down to its source.
+
+DARKCASTS
+“Darkcasts” are ranged communications that go out-
+ side of legal and approved channels. Since certain hab-
+ itats have strict regulations on transmission content,
+ forking, egocasting, infomorphs, muse abilities, and
+AGI code, underworld groups like the ID crew profit
+ by offering illegal data transmission services. Primarily
+ used for censored data and banned content (like illegal
+XPs or malware), local organized crime factions also
+ often offer egocasting services complete with resleev-
+ ing and leasable morphs, allowing egos that prefer
+ discretion to enter or leave a habitat without drawing
+ attention. Though such authorities hunt down these
+ darkcast networks whenever they get a chance, many
+ habitats have a sophisticated darkcast infrastructure
+ that makes use of decoys, temporary communications
+ lines, relays, and regular transmitter relocation—not
+ to mention judicious bribing and blackmailing.
+MESH ABUSES
+As with all things, the mesh has its darker side. At
+the basic level, this amounts to flamewar-starting
+trolls, stalkers, or griefers whose intent is to mess
+with others for a laugh. At the more organized level,
+it expands to illicit or criminal enterprises that utilize
+the mesh, such as selling black/snuff/porn XPs, ille-
+gal software, pirated media, or even egos. The most
+infamous threats—thanks both to the Fall and to
+the continuous sensationalism applied by media and
+stern authorities—are, of course, malware and hack-
+ers. Given the capabilities of modern hackers and the
+vulnerability of many habitats—where damage to life
+support systems could kill thousands—the threat may
+not be over-exaggerated.
+
+HACKERS
+Whether individuals who are genuinely interested
+in exploring new technologies and seeking ways to
+break them in order to make them better, hacktiv-
+ists who utilize the mesh in order to undermine the
+power of authorities, or “black hats” who seek to
+circumvent network security for malicious or crimi-
+nal intent, hackers are a permanent fixture of the
+mesh. Unauthorized network break-ins, infiltration
+of VPNs, muse subversion, cyberbrain hijacking, data
+theft, cyber-extortion, identity fraud, denial of service
+attacks, electronic warfare, spime hijacking, entoptic
+vandalism—these are all common occurrences on the
+mesh. Thanks to smart and adaptive exploit programs
+and assisting muses, even a moderately skilled hacker
+can be a threat.
+   In order to counter hacking attempts, most people,
+devices, and networks are protected by a mix of
+access control routines, automated software intru-
+sion prevention systems, encryption, and layered
+firewalls, typically overseen by the user’s muse who
+plays the role of active defender. Extremely sensitive

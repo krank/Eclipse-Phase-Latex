@@ -1,0 +1,117 @@
+                              HACKING SIMULS
+MODIFIER TASK
+   –0     Analyze simulation parameters, view domain rules, shap
+  –10     Change probability of test outcomes, become invisible (
+          Interfere with simulation (e.g. make it rain, generate ear
+  –20
+          simulmorphs
+  –30     Go into god mode, command simulated characters, take
+
+
+ of other users, a clever hacker might find some ways
+ to subvert the system. Such options are usually lim-
+ ited, however, as a number of system controls and
+ processes cannot be accessed and manipulated from
+ the inside.
+    Most of the hacker’s options are going to involve
+ meddling with the simulation and its specific domain
+ rules or possibly gaining access to cheats. To make a
+ change requires a successful Interface Test. Ultimately
+ the gamemaster decides what the hacker can and
+ cannot get away with, based on the limitations of that
+ particular simulspace.
+    Most simulspaces are monitored to prevent cheat-
+ ing and abuse, though the monitors are typically pre-
+ occupied with maintaining the simulspace as a whole,
+ dealing with other users, etc. At the gamemaster’s
+ discretion, such a monitor might get to make an Inter-
+ face Test (possibly with a modifier for distraction) to
+ notice the hacker’s efforts.
+
+
+
+ AIS AND MUSES
+AIs are sentient but specialized programs. Like other
+software, they must be run on a computerized system.
+Most AIs are run on bots, vehicles, and other com-
+puterized devices where they can assist transhuman
+users or operate the machine themselves. They are also
+commonly used to actively monitor computer systems
+against intrusion attempts. Muses are AIs that special-
+ize as personal companions, always at a character’s
+virtual side every since they were a child.
+   Sample AIs and muses can be found on p. 331 of Gear.
+
+ AI LIMITATIONS
+AIs feature a number of built-in restrictions and
+limitations. To start with, they can be loaded in the
+cyberbrains of pods and synthmorphs, but they may
+not be downloaded into biomorph brains. As software,
+they use the same rules as other software and may be
+shut down, restarted, copied, erased, stored as inert
+data, infected with virii, and reprogrammed. Due to
+their size and complexity, only one AI (or infomorph)
+may be run on a personal computer at a time (see
+Computer Capabilities, p. 247), and they may not run
+on peripheral devices.
+  While they possess cognition and intelligence, they
+are incapable of self-improvement and cannot expand
+their programming and skills on their own. Although
+ACE FROM WITHIN
+
+pearance of simulmorph, switch simulmorph character or morph type
+-game”) to others
+akes), generate items, ignore domain rules, kill or lockout other
+
+r the simulation
+
+
+   they are not able to learn they do possess memory
+   storage that grants them the ability to remember and
+   a limited form of adaptation. AIs do not earn Rez
+   Points, nor do they have Moxie.
+     AIs have aptitudes no greater than 20 but are
+   incapable of defaulting. If they don’t possess a skill,
+   they don’t know how to do it. (At the gamemaster’s
+   discretion, they may default to field skills or similar
+   skills as noted on p. 173 with a –10 to –30 modifier).
+   They can use skills like any character in Eclipse Phase,
+   however they may not possess any Active skill at a
+   rating higher than 40 or Knowledge skill higher than
+   90—the maximum amount of expertise that their skill
+   software allows.
+     While AIs are programmed with personality tem-
+   plates and empathy, they are generally less emotive
+   and difficult to read (apply a –30 modifier to Kinesics
+   Test made against them, when in pod bodies). When
+   combined with non-expressive synthetic morphs, they
+   are even more difficult (–60 modifier). Some AIs lack
+   emotive capabilities altogether and are impossible to
+   read with Kinesics skill.
+     AIs do have a Lucidity and Trauma Threshold stat,
+   and are capable of suffering mental stress and traumas.
+
+   COMMANDING AIS
+   AIs and muses are programmed to accept commands
+   from authorized users. In some circumstances, they
+   may also be programmed to follow the law or some
+   ethical code. Programming is never perfect, however,
+   and AIs can be quite clever in how they interpret
+   commands and act on them. In most cases, an AI will
+   rarely refuse to follow a request or obey a command.
+   Given that they also usually have a duty to protect the
+   person commanding them, the AI may be reluctant to
+   follow commands that could be construed as danger-
+   ous or having a negative impact on the user. Under
+   certain circumstances, preprogrammed imperatives
+   can force an AI to ignore or disobey their owner’s
+   commands (gamemaster’s discretion).
+
+
+
+   AGIS AND INFOMORPHS
+   The term “infomorph” is used to refer to any ego in
+   digital body, whether that be an AGI or the digital
+   emulation of a biological mind (including backups
+   and forks). The following rules apply to infomorph
+   and AGI characters.

@@ -1,0 +1,59 @@
+of strong magnetic fields can be devastating. Note that      A character who is unaware of atmospheric toxicity
+many of the conditions that result in vehicles, bots,      and does not immediately hold their breath (requir-
+and gear being exposed to strong magnetic field activ-     ing a REF x 3 Test) suffers 10 points of damage per
+ity coincide with strong radioactivity.                    Action Turn. A character who manages to hold their
+   Magnetic fields affect synthmorphs, robots, vehicles,   breath can last a bit longer; apply the rules for as-
+cybernetic implants, and electronics after 1 minute of     phyxiation (p. 194).
+exposure. Like radiation exposure, these effects can         Corrosive Atmospheres: In addition to being toxic,
+vary drastically. At the low end, communication and        Venus has the only naturally occurring corrosive at-
+sensors will suffer interference and shortened ranges;     mosphere in the system. Corrosive atmospheres are
+at high ends, electronic systems will simply suffer        immediately dangerous: characters take 10 points of
+damage and fail.                                           damage per Action Turn, regardless of whether they
+                                                           hold their breath or not. Corrosive atmospheres also
+RADIATION                                                  damage vehicles and gear not equipped with anti-
+Ionizing radiation is one of the more prevalent haz-       corrosive shielding. Such items take 1 point of damage
+ards in the solar system and one of the most difficult     per minute. At greater concentrations, such as in the
+problems for transhumanity to defeat. Radiation            dense sulfuric acid clouds in the upper atmosphere of
+damages genetic material, sickens, and kills by ion-       Venus, items takes 5 points of damage per minute.
+izing the chemicals involved in cell division within the
+human body. Effects range from nausea and fatigue to       UNBREATHABLE ATMOSPHERE
+massive organ failure and death. However, radiation        Very few of the planetary bodies in the solar system
+sickness is not solely a somatic phenomenon. The real      actually have toxic atmospheres. In most unbreathable
+terror of radiation for transhumans, especially at high    atmospheres, the primary hazard for transhumans
+dose levels such as those experienced on the surface of    without breathing apparatus or modifications to their
+Ganymede and other Jovian moons, is damage to the          morph is lack of oxygen. Treat exposure to unbreath-
+neural network. This can lead to flawed uploads and        able atmospheres the same as asphyxiation.
+backups. Nanomedicine that can rapidly reverse the
+ionization of cellular chemicals and new materials that    UNDERWATER
+offer thinner and better shielding help, but the sheer     In general, any physical skill performed underwater suf-
+magnitude of the radiation put out by some bodies in       fers a –20 penalty due to the resistance of the medium.
+the solar system defeats even these.                       Skills relying on equipment not adapted for underwa-
+   Radiation poisoning is a complicated affair, and de-    ter use may be more difficult or impossible to use. A
+tailed rules are beyond the scope of this book. Sources    character’s movement rate while swimming or walking
+of radiation include the Earth’s Van Allen belt, Jupi-     underwater is one quarter their normal rate on land.
+ter’s radiation belt, Saturn’s magnetosphere, cosmic       If a character begins to drown underwater, follow the
+rays, solar flares, fission materials, unshielded fusion   rules for asphyxiation (p. 194). Note that drowning
+or antimatter explosions, and nuclear blasts, among        characters do not immediately recover if rescued from
+others. Effects can vary drastically depending on the      the water; they will continue to asphyxiate until medical
+strength of the source, the amount of time exposed,        treatment is applied to clear the water from their lungs.
+and the level of shielding available. The immediate
+effects on biomorphs (manifesting anywhere from            VACUUM
+within minutes to 6 hours) can include nausea, vomit-         Biomorphs without vacuum sealing (p. 305) can
+ing, fatigue (reduced SOM), as well as both physical       spend one minute in the vacuum of space with no ill
+damage and minor amounts of mental stress. This            effects, provided they curl up into a ball, empty their
+is followed by a latency period where the biomorph         lungs of air, and keep their eyes closed (something kids
+seems to get better, lasting anywhere from 6 hours         in space habitats learn at a very young age). Contrary
+to 2 weeks. After this point, the final effects kick in,   to popular depictions in pre-Fall media, a character
+which can include hair loss, sterility, reduced SOM        exposed to hard vacuum does not explosively de-
+and DUR, severe damage to gastric and intestinal           compress, nor do their internal fluids boil (other than
+tissue, infections, uncontrolled bleeding, and death.      relatively exposed liquids such as saliva on the tongue).
+   Synthmorphs are not quite as vulnerable as              Rather, the primary danger for characters on EVA sans
+biomorphs, but even they can be damaged and dis-           vacsuit is asphyxiation due to lack of oxygen and as-
+abled by severe radiation dosages.                         sociated complications such as edema in the lungs.
+                                                              After one minute in space, the character begins to
+TOXIC ATMOSPHERE                                           suffer from asphyxiation (p. 194). Damage is doubled
+Neptune, Titan, Uranus, and Venus all have toxic           if the character tries to hold air in their lungs or is not
+atmospheres. Similar atmospheres may be found on           curled up in a vacuum survival position as described
+some exoplanets, or might be intentionally created as      above. Additionally, characters trapped in space with-
+a security measure within a habitat or structure.          out adequate thermal protection suffer 10 points of
+                                                           damage per minute from the extreme cold.

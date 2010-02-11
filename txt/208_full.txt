@@ -1,0 +1,60 @@
+     databases that enable them to interpret incom-          attacker must, of course, be capable of actually wield-
+     ing data and sensory feeds. Perhaps the most            ing the additional weapons. A splicer with only two
+     useful aspect of tacnets, this means that the           hands cannot wield a knife and a two-handed sword,
+     muse/AI may notice facts or details individual          for example. Likewise, the gamemaster may ignore
+     users are likely to have overlooked. For example,       this damage bonus for extra weapons that are too dis-
+     the tacnet can count shots fired by opponents,          similar to use together effectively (like a whip and a
+     note when they are likely running low, and              pool cue). Note that extra limbs do not count as extra
+     even analyze sensory input to determine the             weapons in unarmed combat, nor do weapons that
+     type of weaponry and ammunition being used.             come as a pair (such as shock gloves).
+     Opponents and their gear can also be scanned              A character using more than one melee weapon
+     and analyzed to note potential weaknesses, in-          receives a bonus for defending against melee attacks
+     juries, and capabilities. If sensor contact with        equal to +10 per extra weapon  (maximum +30).
+     an opponent is lost, the last known location is
+     memorized and potential movement vectors and            EXTRA RANGED WEAPONS
+     distances are displayed. Opponent positioning           Similarly, an attacker can wield a pistol in each hand
+     can also identify lines of sight and fields of fire,    for ranged combat, or larger weapons if they have
+     alerting the user to areas of potential cover or        more limbs (an eight-limbed octomorph, for example,
+     danger. The tacnet can also suggest tactical ma-        could conceivably hold four assault rifles). These
+     neuvers that will aid the user, such as flanking an     weapons may all be fired at once towards the same
+     opponent or acquiring better elevation.                 target. In this case, each weapon is handled as a sepa-
+                                                             rate attack, with each off-hand weapon suffering a
+  Many of these features are immediately accessible          cumulative off-hand weapon modifier (no modifier for
+to the user via their AR display; other data can be ac-      the first attack, –20 for the second, –40 for the third,
+cessed with a Quick Action. Likewise, the gamemaster         and –60 for the fourth), offset by the Ambidextrous
+decides when the muse/AI provides important alerts to        trait (p. 145) as usual.
+the user. At the gamemaster’s discretion, some of these
+features may apply modifiers to the character’s tests.
+                                                             PHYSICAL HEALTH
+TOUCH-ONLY ATTACK                                            In a setting as dangerous as Eclipse Phase, characters
+Some types of attacks simply require you to touch your       are inevitably going to get hurt. Whether your morph
+target, rather than injure them, and are correspond-         is biological or synthetic, you can be injured by weap-
+ingly easier. This might apply when trying to slap them      ons, brawling, falling, accidents, extreme environ-
+with a dermal drug patch, spreading a contact poison         ments, psi attacks, and so on. This section discusses
+on their skin, or making skin-to-skin contact for the        how to track such injuries and determine what effect
+use of a psi sleight. In situations like this, apply a +20   they have on your character. Two methods are used
+modifier to your melee attacks.                              to gauge a character’s physical health: damage points
+                                                             and wounds.
+TWO-HANDED WEAPONS
+Any weapon noted as two-handed requires two hands            DAMAGE POINTS
+(or other prehensile limbs) to wield effectively. This       Any physical harm that befalls your character is mea-
+applies to some archaic melee weapons (large swords,         sured in damage points. These points are cumulative,
+spears, etc.) in addition to certain larger firearms and     and are recorded on your character sheet. Damage
+heavy weapons. Any character that attempts to use            points are characterized as fatigue, stun, bruises,
+such a weapon single-handed suffers a –20 modifier.          bumps, sprains, minor cuts, and similar hurts that,
+                                                             while painful, do not significantly impair or threaten
+WIELDING TWO OR MORE WEAPONS                                 your character’s life unless they accumulate to a signif-
+It is possible for a character to wield two weapons          icant amount. Any source of harm that inflicts a large
+in combat, or even more if they are an octomorph or          amount of damage points at once, however, is likely to
+multi-limbed synthmorph. In this case, each weapon           have a more severe effect (see Wounds, p. 207).
+that is held in an off-hand suffers a –20 off-hand              Damage points may be reduced by rest, medical
+weapon modifier. This modifier may be offset with the        care, and/or repair (see Healing and Repair, p. 208).
+Ambidextrous trait (p. 145).
+                                                             DAMAGE TYPES
+EXTRA MELEE WEAPONS                                          Physical damage comes in three forms: Energy, Kinetic,
+The use of two or more melee weapons is treated as           and Psi.
+a single attack, rather than multiple. Each additional
+weapon applies +1d10 damage to the attack (up to a           ENERGY DAMAGE
+maximum +3d10). If the character attacks multiple            Energy damage includes lasers, plasma guns, fire, electro-
+targets with the same Complex Action (see Mul-               cution, explosions, and others sources of damaging energy.
+tiple Targets, p. 202), this bonus does not apply. The

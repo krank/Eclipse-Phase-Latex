@@ -1,0 +1,120 @@
+   Motivational goals may be short-term or long-term,
+and may in fact change for a character over time.
+Short-term goals are more immediately obtainable
+objectives or short-lived interests, and these goals are
+likely to change once achieved. Even so, they should
+reflect intentions that will take more than one game
+session to reach, possibly covering weeks or months.
+These short-term goals may in fact tie directly into the
+gamemaster’s current storyline. Examples include con-
+ducting a full analysis of an alien artifact, completing
+a research project, or living life as an uplifted dog for a
+while. Long-term goals reflect deeply rooted beliefs or
+tasks that require major efforts and time (possibly life-
+long) to achieve. For example, finding the lost backup
+of a sibling missing since the Fall, overthrowing an
+autocratic regime, or making first contact with a new
+alien species. For purposes of awarding Moxie or Rez
+Points, long-term goals are best broken down into
+obtainable chunks. Someone whose goal is to track
+down the murderer who killed their parents when they
+were a child, for example, can be considered to achieve
+that goal every time they discover some evidence that
+brings them a little closer to solving the puzzle.
+
+EGO VS. MORPH
+Eclipse Phase’s setting dictates that a distinction must
+be made between a character’s ego (their ingrained
+self, their personality, and inherent traits that perpetu-
+ate in continuity) and their morph (their ephemeral
+physical—and sometimes virtual—form). A charac-
+ter’s morph may die while the character’s ego lives on
+(assuming appropriate backup measures have been
+taken), transplanted into a new morph. Morphs are
+expendable, but your character’s ego represents the
+ongoing, continuous life path of your character’s mind,
+personality, memories, knowledge, and so forth. This
+continuity may be interrupted by an unexpected death
+(depending on how recent the backup was made), or
+by forking (see p. 273), but it represents the totality of
+the character’s mental state and experiences.
+   Some aspects of your character—particularly skills,
+along with some stats and traits—belong to your char-
+acter’s ego, which means they stay with them through-
+out the character’s development. Some stats and traits,
+however, are determined by morph, as noted, and so
+will change if your character leaves one body and
+takes on another. Morphs may also affect other skills
+and stats, as detailed in the morph description.
+   It is important that you keep ego- and morph-de-
+rived characteristics straight, especially when updating
+your character’s record sheet.
+
+CHARACTER STATS
+Your character’s stats measure several characteristics
+that are important to game play: Initiative, Speed,
+Durability, Wound Threshold, Lucidity, Trauma
+Threshold, and Moxie. Some of these stats are inher-
+ent to your character’s ego, others are influenced or
+determined by morph.
+EGO STATS
+Initiative
+Lucidity
+Trauma Threshold
+Insanity Rating
+Moxie
+
+MORPH STATS
+Speed
+Durability
+Wound Threshold
+Death Rating
+Damage Bonus
+
+INITIATIVE (INIT)
+Your character’s Initiative stat helps determine when
+they act in relation to other characters during the
+Action Turn (see Initiative, p. 188). Your Initiative stat
+is equal to your character’s Intuition + Reflexes apti-
+tudes (see Aptitudes, p. 123) multiplied by 2. Certain
+implants and other factors may modify this score.
+                                                       EXAMPLE
+
+
+
+
+  Lazaro’s Intuition is 15 and his Reﬂexes score is
+  20. That means his Initiative is 70 (15 + 20 = 35,
+  35 x 2 = 70).
+
+
+SPEED (SPD)
+The Speed stat determines how often your character
+gets to act in an Action Turn (see Initiative, p. 188).
+All characters start with a Speed stat of 1, meaning
+they act once per turn. Certain implants and other
+advantages may boost this up to a maximum of 4.
+
+DURABILITY (DUR)
+Durability is your morph’s physical health (or struc-
+tural integrity in the case of synthetic shells, or system
+integrity in the case of infomorphs). It determines the
+amount of damage your morph can take before you are
+incapacitated or killed (see Physical Health, p. 206).
+   Durability is unlimited, though the range for base-
+line (unmodified) humans tends to fall between 20 and
+60. Your Durability stat is determined by your morph.
+
+WOUND THRESHOLD (WT)
+A Wound Threshold is used to determine if you receive a
+wound each time you take physical damage (see Physi-
+cal Health, p. 206). The higher the Wound Threshold,
+the more resistant to serious injury you are.
+   Wound Threshold is calculated by dividing Durabil-
+ity by 5 (rounding up).
+
+DEATH RATING (DR)
+Death Rating is the total amount of damage your
+morph can take before it is killed or destroyed
+beyond repair. Death Rating is equal to DUR x 1.5 for
+biomorphs and DUR x 2 for synthmorphs.

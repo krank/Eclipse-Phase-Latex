@@ -1,0 +1,60 @@
+COMBAT DRUGS
+Combat drugs are an easy way of evening the odds
+in a fight.
+   BringIt: In some respects more a social than a
+combat drug, BringIt stimulates massive bursts of ag-
+gression pheromones designed to make the user the
+center of attention in a fight. In combat, opponents
+within 3 meters of the character not already in un-
+armed or melee combat with another character must
+pass a WIL x 3 Test or attack the character using Br-
+ingIt. The nature of airborne pheromones is imprecise,
+however, so if the character using BringIt is within
+1 meter of another character hostile to the character
+affected, the affected character may opt to attack the
+proximate character instead of the BringIt user. Char-
+acters using this drug suffer a –20 modifier on social
+skill tests. [Low]
+   Grin: Grin is an effective opiate and pain sup-
+pressant. Users may ignore the –10 modifiers from
+2 wounds (not cumulative with similar effects), and
+in fact may not even be aware they are injured. Grin
+users suffer from tunnel vision, however, and so suffer
+a –10 modifier on Perception Tests. [Low]
+   Kick: Kick is a strong stimulant that increases the
+user’s response time and puts them on edge. The char-
+acter gains +10 REF and +1 Speed for the duration of
+the drug. Characters under the influence of Kick are
+twitchy, however, reacting in a jumpy, cat-like fashion
+to sudden or unexpected stimuli. At the gamemaster’s
+discretion, they must make a WIL x 2 Test or react
+without thinking towards unexpected noises or other
+surprises. Long-term users suffer –5 COO. [Moderate]
+   MRDR: MRDR is a straightforward and brutal
+combat drug. It increases pain tolerance, speed, and
+strength. The character receives +10 SOM, +1 Speed,
++10 Durability, and may ignore the –10 modifier of
+one wound. Any damage incurred while under the
+effects of the drug is taken from the bonus Durabil-
+ity first. MRDR users are easily identifiable by the
+broken blood vessels in their eyes, tense posture, and
+visible tension in the muscles of the face, arms, and
+legs. Long-term users suffer –5 SOM. [Low]
+   Phlo: Phlo increases alertness and coordination,
+making the user more graceful and nimble in a fray.
+The character gains +5 COO and +10 on Perception
+Tests for the duration of the drug. Everything feels
+possible to a character on Phlo, and so they are vul-
+nerable to being goaded into actions that might be
+foolish or dangerous (apply a –10 modifier to appro-
+priate Social Skill Tests). [Moderate]
+
+HEALTH DRUGS
+Pharma-foods that boost the consumer’s health and
+physical state are common.
+  Bananas Furiosas: This drug reverses some of the
+effects of de-ionizing radiation on the cells of the
+body. Although a pill form is available, it most com-
+monly comes in large bunches of bright orange-red
+bananas. Bananas reduce the severity of a radiation
+dosage (gamemaster determines effect). [Low]

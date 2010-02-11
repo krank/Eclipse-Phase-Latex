@@ -1,0 +1,118 @@
+summary. If you started with the concept of “xeno-so-
+ciologist,” expand it to “open-minded amateur linguist
+and expert xeno-sociologist who is fascinated by alien
+cultures, collects Factor kitsch, has a high-tolerance
+for ‘yuck factors,’ and whose best friends tend to be
+uplifts and AIs.” This will give you a few more details
+around which you can focus the character’s strengths
+and weaknesses.
+
+CHOOSE BACKGROUND
+The first step to creating your character is to choose a
+background. Was your character born on Earth before
+the Fall? Were they raised on a habitat commune? Or
+did they start existence as a disembodied AI?
+  You must choose one of the backgrounds for your
+character from the list below. Choose wisely, as each
+background may provide your character with certain
+skills, traits, limitations, or other characteristics to
+start with. Keep in mind that your background is
+where you came from, not who you are now. It is
+the past, whereas your faction represents whom your
+character is currently aligned with. Your future, of
+course, is yours to make.
+  The background options presented below cover a
+wide selection of transhumanity, but they cannot cover
+every possibility. If your gamemaster allows it, you
+may work with them to develop a background that is
+not included on this list, using these as guidelines to
+keep it balanced.
+
+DRIFTER
+You were raised with a social grouping that remained
+on the move throughout the Sol system. This could
+have been free traders, pirates, asteroid farmers, scav-
+engers, or just migrant workers. You are used to roam-
+ing space travel between habitats and stations.
+Advantages: +10 Navigation skill, +20 Pilot: Spacecraft
+  skill, +10 Networking: [Field] skill of your choice
+Disadvantages: None
+Common Morphs: All, especially Bouncers and
+  Hibernoids
+
+FALL EVACUEE
+You were born and raised on Earth and evacuated
+during the horrors of the Fall, leaving your old life
+(and possibly your friends, family, and loved ones)
+behind you. You were lucky enough to survive with
+your body intact and continue to make a life for your-
+self out in the system.
+Advantages: +10 Pilot: Groundcraft skill, +10 Net-
+  working: [Field] skill of your choice, +1 Moxie
+Disadvantages: Only 2,500 Starting Credit (can still
+  buy credit with CP)
+Common Morphs: Flats, Splicers
+
+HYPERELITE
+You are privileged to have been raised as part of the
+immortal upper class that rules many inner system
+habitats and hypercorps. You were pampered with
+wealth and influence that most people can only
+dream of.
+Advantages: +10 Protocol skill, +10,000 Credit, +20
+  Networking: Hypercorps skill
+Disadvantages: May not start with flat, splicer, or any
+  pod, uplift, or synthetic morphs
+Common Morphs: Exalts, Sylphs
+
+INFOLIFE
+You entered existence as a digital consciousness—
+an artificial general intelligence (AGI). Your very
+existence is illegal in certain habitats (a legacy of
+those who place the Fall at the feet of rampant AIs).
+Unlike the seed AIs responsible for their Fall, your
+capacity for self-improvement is limited, though you
+do have full autonomy.
+Advantages: +30 Interfacing skill, Computer skills (In-
+  fosec, Interfacing, Programming, Research) bought
+  with Customization Points are half price
+Disadvantages: Real World Naiveté trait, Social Stigma
+  (AGI) trait, may not purchase Psi trait, Social skills
+  bought with Customization Points are double price
+Common Morphs: Infomorphs, synthetic morphs
+
+ISOLATE
+You were raised as part of a self-exiled grouping on
+the fringes of the system. Whether raised as part of
+a religious group, cult, social experiment, anti-tech
+cell, or a group that just wanted to be isolated, you
+spent most if not all of your upbringing isolated
+from other factions.
+Advantages: +20 to two skills of your choice
+Disadvantages: –10 starting Rep
+Common Morphs: All
+
+LOST
+You are a legacy of one of the most infamous debacles
+since the Fall. As a member of the “Lost generation,”
+you went through an accelerated-growth childhood,
+somehow surviving where others of your kind died,
+went insane, or were persecuted (see The Lost, p. 233).
+Your background is a social stigma, but it does provide
+you with certain advantages ... and burdens.
+Advantages: +20 to two Knowledge skills of your
+   choice, Psi trait
+Disadvantages: Mental Disorder (choose two) trait,
+   Social Stigma (Lost) trait, must start with Futura
+   morph
+Common Morphs: Futuras
+
+LUNAR COLONIST
+You experienced your childhood in one of the cramped
+dome cities or underground stations on Luna, Earth’s
+moon. You had a ringside seat to the Fall of Earth.
+Advantages: +10 Pilot: Groundcraft skill, +10 to one
+  Technical, Academic: [Field], or Profession: [Field] skill
+  of your choice, +20 Networking: Hypercorps skill
+Disadvantages: None
+Common Morphs: Flats, Splicers

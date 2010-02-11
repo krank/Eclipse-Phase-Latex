@@ -1,0 +1,139 @@
+JOVIAN SPY                                         APTITU
+                  COG          COO    INT    REF     SAV    SOM
+            Base 15             15     15     15      15     15
+     Morph Bonus
+            Total 15            15     15     15      15     15
+
+
+
+
+      MOX      TT      LUC      IR    WT     DUR     DR
+                                                            ST
+                                                            INIT
+       3        6       30      60     6      30     45      60
+
+
+
+                                                           SKI
+                                                       MORPH
+                                      APT    BASE      BONUS
+       Academics: Cryptography        COG     60
+          Academics: Linguistics      COG     60
+                            Blades    SOM     45
+                          Climbing    SOM     55
+                             Clubs    SOM     45
+                        Deception     SAV     60
+                      Demolitions     COG     45
+                          Disguise    INT     45
+                               Fray   REF     45
+                          Free Fall   REF     45
+                      Freerunning     SOM     45
+                   Impersonation      SAV     45
+                        Inﬁltration   COO     60
+                           Infosec    COG     60
+   Interests: Autonomist Groups       COG     55
+       Interests: Criminal Groups     COG     55
+    Interests: Hypercorp Politics     COG     55
+                          Kinesics    SAV     45
+       Language: Native Spanish       INT     85
+               Language: English      INT     50
+           Networking: Criminals      SAV     40
+          Networking: Ecologists      SAV     45
+         Networking: Hypercorps       SAV     45
+                          Palming     COO     45
+                       Perception     INT     55
+   Profession: Security Systems       COG     55
+   Profession: Smuggling Tricks       COG     45
+             Profession: Spycraft     COG     55
+                  Spray Weapons       COO     25
+                Unarmed Combat        SOM     55
+
+
+
+
+You’re a dedicated soldier to the      the republic, you have n
+bioconservative cause, convinced       about using technolog
+that unrestricted technology is        you otherwise want rest
+driving the human race to extinc-      banned, and you apprec
+tion. The Jovian Republic has          irony of using the tools
+trained you and modified you to        shuman monsters again
+serve their interests, whether that    You prefer ﬂats, and you
+means infiltrating a hypercorp         it a point of pride that yo
+to steal its secrets or sabotag-       into a non-genetically-
+ing an autonomist habitat. As a        body with no cortical s
+skilled professional in service to     still kick transhuman ass.
+
+                                               “Not so immort
+ES
+WIL
+15
+
+15
+
+
+
+TS
+ PD
+ (2)
+
+
+
+LS
+TAL
+0
+0
+5
+5
+5
+0
+5
+5
+5
+5
+5
+5
+0
+0
+5
+5
+5
+5
+5
+0
+0
+5
+5          Background: Original Space Colonist
+5          Faction: Jovian
+5          Morph: Flat
+5          Motivations: -Anarchism +Bioconservativism -Tec
+5
+          TRAITS                             Primary Wea
+5         Ego: Modiﬁed Behavior (Blood-        Railgun (10
+5           thirsty, boosted), Morphing      Starting Cred
+5           Disorder (Level 1) ■             Implants: Ne
+          Morph: Genetic Defect              Gear: Backup
+            (Heart Disease),                   (1 month),
+            Unattractive (Level 1) ■           10 Frag Gr
+                                               Cloak, Liqu
+ alms
+          REP                                  ture Radio
+  that
+          c-rep:   50                          MRDR (1 d
+ed or
+          e-rep:   30                          (1 dose), R
+e the
+          g-rep:   20                          table QE C
+tran-
+                                               Low-Capa
+hem.
+          EQUIPMENT                            3 Speck Bo
+sider
+          Armor: Body Armor (with Ther-        Network S
+eeve
+            mal Dampening) +Second Skin        Knife, Whi
+ ified
+            [14/16] ■
+  and
+
+
+ow, are we, frankenfreak scum!”

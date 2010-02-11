@@ -1,0 +1,122 @@
+                                                   HEALING
+INJURY
+
+Healing normal damage to a character who has taken 3 or fewer
+
+Restoring major lost body parts like arms or legs, or healing dying
+who has taken 4 wounds.
+Restoring recently dead character who was placed in medical stas
+who is mostly intact.
+Restoring recently dead character who is placed in medical stasis
+and who is missing most of their body.
+Augmentation
+Minor implants and bioware, minor cosmetic changes like alterati
+color or shape, or hair color, texture or distribution, minor alterati
+body fat distribution.
+Major brain and neural implants, nanoware or bioware, sex chang
+no more than 5% or weight by no more than 20%.
+Major physical modiﬁcations like adding limbs or radical changes
+
+
+
+ contain information about their implants, bioware, or
+ advanced nanotechnology, all of these modifications
+ are also fully restored.
+    Few people suffer injuries serious enough to require
+ a healing vat. Most are used as a safe and easy way
+ to perform bodysculpting or to install implants or
+ bioware. Healing vats use specialized nanomachines
+ to either alter the patient’s body or integrate implants
+ or bioware. One advantage of using a healing vat is
+ that no additional healing time is needed, the patient
+ leaves the vat fully recovered from the augmentation
+ and ready to go. Every hospital, clinic, bodyshop, and
+ augmentation parlor has several healing vats. The
+ time required by a healing vat varies with the sever-
+ ity of the damage it is healing or the extent of the
+ modification being made, as noted on the Healing Vat
+ table, p. 327. [High]
+
+ NANODETECTORS
+ Nanodetectors are small devices that suck in air and
+ micro debris in order to scan for and detect nano-
+ bots. Given that nanobots are so small, the density of
+ nanobots in the area has a large impact on its success.
+ The nanodetector has a base skill of 30 for detecting
+ nanobots, modified by +30 if an active nanoswarm or
+ hive is present, +0 if a nanoswarm or hive was active
+ recently, and –10 for the presence of nanobots outside
+ of a swarm or hive. Once a nanobot is detected it may
+ be analyzed either by the user or the nanodetector’s AI,
+ using Academics: Nanotechnology 30 skill. Nanode-
+ tectors are often worn and left on, set to alert the user
+ if a hostile nanoswarm is detected. [Low]
+
+ NANOFABRICATORS
+ Nanofabrication machines are universal assemblers
+ that perform almost all of the manufacturing in the
+ solar system. The user loads in raw materials and
+ electronic plans and it can produce literally any
+AT TABLE
+                                HEALING TIME
+                               2 hours per wound
+nds.
+                           (min. 1 hour for 0 wounds)
+early dead character
+                              12 hours per wound
+
+ avoid death, but
+                                1 day per wound
+
+void death,
+                               3 days per wound
+
+
+n skin color, eye
+o face shape or                     1 hour
+
+hanging height by
+                                    12 hours
+
+eight and weight.                   3 days
+
+
+
+   manufactured good, from a weapon to an ultralight
+   plane to a hot and delicious dinner. Many nanofabri-
+   cators come equipped with a library of common-use
+   blueprints (basic foods, standard clothing, common
+   tools, etc.). Other blueprints must either be purchased
+   online, self-programmed, or acquired through some
+   other method (see Nanofabrication, p. 284). The larg-
+   est nanofabrication units are more than 10 meters on
+   a side and are used to produce small consumer goods
+   in bulk as well as building large devices like orbital
+   transfer vehicles.
+      The availability and legality of nanofabricators
+   varies widely throughout the system. In the inner
+   system and Jovian Republic, cornucopia machines
+   are commonly restricted and sometimes illegal, with
+   licenses only available to hypercorps, military units,
+   and other officials and elites. In these habitats, only
+   more limited fabbers are available to the general
+   populace. Additionally, blueprints are licensed and
+   protected by copyright laws, and many nanofabrica-
+   tors feature pre-programmed restrictions that prevent
+   them from using unlicensed blueprints as well as
+   from manufacturing weapons, explosives, or other
+   restricted items. Among the autonomists of the outer
+   system, however, nanofabricators are commonly ac-
+   cessible, shared by everyone, and unrestricted.
+      For rules on creating goods in a nanofabricator, see
+   Nanofabrication, p. 284.
+      Desktop Cornucopia Machine: Cornucopia ma-
+   chines (CMs) are general-purpose nanofabricators.
+   The smallest CMs are desk-sized cubes approximately
+   half a meter on a side with a volume of at least 40
+   liters. They can produce any small object, from tools
+   to well-folded suits of clothing to handguns or a bowl
+   of cereal. It is sometimes possible to assemble larger
+   items, but they must be manufactured in smaller
+   pieces and then assembled (likely requiring an appro-
+   priate Hardware Test).

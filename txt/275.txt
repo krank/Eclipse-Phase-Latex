@@ -1,0 +1,116 @@
+         I wake up with a taste like guava and umami
+         fresh on my tongue. Last night there was laugh-
+         ter. We drank quinoa wine, and I was introduced
+         to people I had never met before, though I had
+         years of intimate knowledge of most of them.
+         Half of Illyria Module is curled naked around
+         me in my sleeping chamber. Last night we
+         made music with synthesizers, wood blocks,
+         and a lur. We drank mushroom tea brewed in
+         water from a rogue comet. Looking around me
+         as the morning sun starts to light the far orbital
+         horizon of Ceres, it appears we had an orgy.
+         Last night was my resleeving party. This version
+         of me—me 3.0—is ready for life.
+         —Zheng du Thierry, Carnival of the Goat
+
+
+
+
+FORKING AND MERGING
+With all of these backups of transhuman minds on
+file and an abundance of mesh space on which to run
+them as virtual brains, one might wonder what’s to
+stop post-Fall transhumanity from multiplying its
+numbers by running additional copies of them. The
+short answer is: nothing, aside from massive social
+stigma and thorny psychological issues. Taking a
+backup of a transhuman mind, copying it, and re-
+instancing it as an infomorph is called forking. It’s one
+of the most useful and still-controversial applications
+of transhumanity’s brain science.
+   There are four classifications of forks: alpha, beta,
+delta, and gamma. Though typically copied as info-
+morphs, there is nothing preventing a fork from being
+sleeved in a physical morph as well, other than legali-
+ties and custom.
+
+ALPHA FORKS
+An alpha fork is an exact copy of the original ego,
+re-instanced as a separate infomorph. An alpha fork
+may be created by copying and running an infomorph
+(from a backup, infomorph, synthmorph cyberbrain,
+or directly from the cortical stack). Alpha forks are an
+exact copy of the character’s ego, with all of the same
+skills, memories, stats, traits, personality, etc. New
+alpha forks must make an Alienation Test (p. 272),
+and possibly a Continuity Test (p. 272) if copied from
+a backup.
+   Creating alpha forks is illegal in many jurisdic-
+tions, including most of the inner system and the
+Jovian Republic. In others it tends to be viewed with
+distaste, though there are some habitats/cultures in
+which it is encouraged.
+
+BETA FORKS
+Beta forks are partial copies of the ego. They are
+intentionally hobbled so as to not to be considered
+an equal to the character, for legal and other reasons.
+Beta forks have most of the same skills as the original
+ego, though sometimes reduced. Their memories are
+                        CONTINUITY STRESS
+SITUATION                                               STRE
+Backup from cortical stack
+  Character remembers peaceful or not notable death   1d10 ÷
+  Character remembers sudden or violent death
+Backup from archive
+  Short memory gap (less than 1 day)                  1d10 ÷
+  Memory gap greater than one day
+  Not knowing if/how you died
+  Uploading-to-resleeve with continuity (p. 269)
+  Uploading-to-resleeve without continuity            1d10 ÷
+  Character is a fork
+
+
+ also drastically curtailed, usually tailored to whatever
+ task they are intended to perform.
+   Beta forks are created by a process known as
+ neural pruning (p. 274). They are legal and even
+ common in many places, except for bioconservative
+ holdouts like the Jovian Republic, though delta forks
+ are more favored. Beta forks rarely have anything
+ resembling civil rights or citizenship and are usually
+ treated as the property of the originating ego. They
+ are commonly used as digital aids or to represent the
+ original ego when communicating with others over
+ great distances.
+   A beta fork’s stats are determined as follows:
+
+  • Reduce all aptitudes by 5 (to a minimum of 1).
+    This affects all skills as well. Likewise, this re-
+    duces LUC by 10 and INIT by 20.
+  • Active skills have a maximum value of 60.
+  • Moxie is reduced to 1.
+  • The Psi trait is removed. At the gamemaster’s dis-
+    cretion, other traits may no longer apply as well.
+
+   Additional changes may apply as determined by
+ the neural pruning test. Beta forks take 1 minute
+ to generate.
+
+ DELTA FORKS
+Delta forks are extremely limited copies of an ego.
+They are more akin to AI templates upon which
+the ego’s surface personality traits are imprinted.
+Also created via neural pruning, delta forks are
+highly functional (as competent as a beta fork or
+AI) but have extremely limited skills and heav-
+ily edited memories, usually to the point of being
+functional amnesiacs.
+   A delta fork’s stats are determined as follows:
+
+  • Reduce all aptitudes by 10 (to a minimum of 1).
+    This affects all skills as well. Likewise, this re-
+    duces LUC by 20 and INIT by 40.
+  • Active skills have a maximum value of 40. The
+    fork may have no more than 5 Active skills.

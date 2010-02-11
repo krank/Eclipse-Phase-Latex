@@ -1,0 +1,120 @@
+eyes, snakeskin, endowed genitalia, and more unusual
+physical alterations. [Low]
+   Nanotats: Tattoos created with nanobots can
+move around the body, change shape/color/bright-
+ness, texture, alternate text and images, and/or even
+create minor holographic effects on the skin’s sur-
+face, all controllable via mesh inserts. [Low]
+   Piercings: Name any part of the body and some-
+one’s figured out a way to pierce it, probably mul-
+tiple times. Hoops, barbells, plugs, and chains are
+extremely common, often made of shapechanging
+smart materials. [Trivial]
+   Scarification: Given modern medical abilities, scars
+of any sort are purely an affectation. [Trivial]
+   Scent Alteration: Minor changes to a body’s bio-
+chemistry can alter a character’s natural smell or
+constantly perfume them. [Low]
+   Skindyes: Dye jobs are available in all conceivable
+colors and patterns. [Trivial]
+   Subdermal Implants: Adding small implants under
+the skin can create bumps, ridges, piercing anchors,
+and similar textures and alterations. [Trivial]
+
+ROBOTIC ENHANCEMENTS
+The following modifications are only available to
+synthmorphs/robots.
+
+ARMOR
+These armor modifications replace the synthmorph’s
+built-in Armor rating.
+   Heavy Combat Armor: The synthmorph’s frame is
+loaded with armor that offers protection from heavy
+weapons for serious combat operations. This modi-
+fication is bulky and noticeable; the bot frame is en-
+cased in a heavy-duty carapace. It increases the bot’s
+built-in Armor to 16/16. The shell’s mobility systems
+and power output are also enhanced to deal with the
+extra load. [High]
+   Industrial Armor: The shell is equipped with protec-
+tion against collisions, extreme weather, industrial ac-
+cidents, and similar wear-and-tear. Increase the bot’s
+built-in Armor rating to 10/10. [Moderate]
+   Light Combat Armor: The synthmorph’s frame is
+protected by armor designed for policing and secu-
+rity duties. This increases the bot’s built-in Armor to
+14/12. [Moderate]
+
+MOBILITY SYSTEMS
+Shells are designed with a wide-range of propulsion
+systems, and are sometimes built for a specific environ-
+ment/gravity. Some synthmorphs may have multiple
+mobility systems. Many such systems are retractable,
+meaning they can be folded away into the shell’s frame.
+  Hopper: Hoppers have two or more legs designed
+to propel the morph forward or up, much like a frog
+or grasshopper. [Moderate]
+  Hovercraft: The shell uses an impeller to blast a
+cushion of high-pressure air off the surface below,
+repelling the frame off the ground (modern hovercraft
+do not use rubber skirts). Most hovercraft travel a
+meter or so above the ground, but can temporarily
+levitate themselves higher for short periods. [Low]
+   Ionic: The shell uses principles of magnetohydro-
+dynamics to levitate and fly, by ionizing surrounding
+air into plasma to create lift and momentum. The
+shell is also spun for stability. This system does not
+work in vacuum, but an underwater version uses the
+same mechanics for propulsion in liquid environ-
+ments. [High]
+   Microlight: Popular in low-grav and microgravity
+environments, microlights encompass several types
+of ultralight or lighter-than-air systems, such as pow-
+ered paragliders, autogyros, balloons, aerostats, and
+blimps. These systems do not work in vacuum. [Low]
+   Roller: Only for circular shells, this system allows
+the synthmorph to roll like a ball. The shell rolls
+around an interior axle, propelled by a motor-driven
+pendulum. [Moderate]
+   Rotorcraft: Rotating blades create lift, allowing
+the shell to move and hover like a helicopter. Most
+models use tilt-rotors or tilt-wings so that the rotor-
+blades may be moved forward (for faster propeller-
+like propulsion) and for better maneuverability in
+zero-G. This system does not work in vacuum. [Low]
+   Snake: Commonly used by slitheroids, these shells
+use lateral undulation, flexing their body from left to
+right and waving their frame forward. Such shells may
+also use sidewinding or a concertina motion (straight-
+ening forward, then retracting the rear) to move. They
+also featured gyroscope stabilization so that they may
+circle into a hoop and roll like a wheel. [Moderate]
+   Submarine: Designed for undersea mobility, subma-
+rine shells use propellers or pumpjets to push through
+water. [Moderate]
+   Tracked: Tracked shells use smart rotating treads to
+work their way across surfaces that would bog down
+other ground vehicles. They can prop themselves up
+in order to overcome taller obstacles or to lay them-
+selves down to bridge across a ditch or crevice. [Low]
+   Thrust Vector: These shells use either turbofans or
+turbojets to create atmospheric lift with a set of wings.
+The engines may be maneuvered to point and generate
+thrust in different directions for vertical takeoffs/land-
+ings and better maneuverability in zero-G. [Moderate]
+   Walker: Walkers use two or more limbs to walk or
+crawl across a surface. Many use grip pads (p. 305) or
+magnetic systems (p. 310) to stick to surfaces. [Low]
+   Wheeled: Most wheeled shells feature smart
+spokes that allow the wheels to conform their shape
+to obstacles and even climb stairs. Some low-grav
+shells feature puncture-resistant and self-repairing
+compressed-gas tires. [Low]
+   Winged: Primarily used by smaller shells, this system
+of four independently-controlled wings allows the
+shell to hover or move rapidly in any direction. [Low]
+
+PHYSICAL MODIFICATIONS
+These mods are applied to the shell’s physical frame.
+  Extra Limbs: The shell is equipped with one or
+more extra limbs. A character using these limbs

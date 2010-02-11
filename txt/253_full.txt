@@ -1,0 +1,60 @@
+need to carefully measure out their distribution of                Detecting stealth signals (p. 252), however, is a bit
+intel and clues to players. Give them too much too              more challenging. To detect a stealthed signal, the scan-
+soon, and they may spoil the plot. Fail to give them            ning party must actively search for such signals, taking
+enough, and they may get frustrated or pursue dead              a Complex Action and making an Interfacing Test with
+ends. Timing is everything.                                     a –30 modifier. If successful, they detect the hidden emis-
+                                                                sions. If the character aiming for stealth engages in active
+REAL-TIME SEARCHES                                              countermeasures, also requiring a Complex Action, then
+Characters may also set up ongoing mesh scans that will         an Opposed Interfacing Test is called for (with the –30
+alert them if any relevant information comes up new or          modifier still applying to the scanning party).
+updated, or is somehow changed. This is a task usually             For covert devices that are only transmitting in
+assigned to muses for continuous oversight. Whenever            short bursts, wireless detection is only possible during
+such data arises, the gamemaster secretly makes a Re-           the short period the burst transmission is being made.
+search Test, modified by the obscurity of the topic. If
+successful, the update is noted. If not, it is missed, though   PHYSICAL TRACKING
+the gamemaster may allow another test if and when the           Many users willingly allow themselves to be physically
+topic reaches a wider range of circulation or interest.         tracked via the mesh. To them, this is a useful feature—
+                                                                it allows their friends to find them, their loved ones to
+HIDDEN DATA                                                     know where they are, and for authorities to come to
+It is important to remember that not everything can             their aid in the event of some emergency. Finding their
+be found online. Some data may only be acquired (or             location is simply a matter of looking them up in the
+may be more easily gotten) by asking the right people           local directory, no test required (assuming you know
+(see Networking, p. 286). Information that is consid-           who they are). Mesh positioning is accurate to within
+ered private, secret, or proprietary will likely be stored      5 meters. Once located, the position of the target can
+away behind VPN firewalls, in off-mesh hardwired                be monitored as they move as long as they maintain
+networks, or in private and commercial archives. This           an active wireless connection to the mesh.
+would require the character to gain access to such
+networks in order to get the data they need (assuming           TRACKING BY MESH ID
+they even know where to look).                                  An unknown user’s physical location can also be
+   It’s worth noting that some entities send out AIs            tracked via their online mesh activity—or more spe-
+into the mesh with the intent of finding and erasing            cifically, by their mesh ID (p. 246). Network security
+data they’d rather hide, even if this requires hacking          will often trace intruders this way and then dispatch
+into systems to alter such information.                         security squads to bring them in. To track an unknown
+                                                                user by their mesh ID alone requires a Research Test.
+                                                                If successful, they have been tracked to their current
+SCANNING, TRACKING,                                             physical location (if still online) or last point of in-
+                                                                teraction with the mesh. If the character is in privacy
+AND MONITORING                                                  mode (p. 252), a –30 modifier applies.
+Most users leave traces of their physical and digital
+presence all throughout the mesh. Accounts they access,         TRACKING BY BIOMETRICS
+devices with which they interact, services they use, ent-       Given the existence of so many spimes and public
+optics they perceive—all of these keep logs of the event,       cameras and sensors, people may also be tracked by
+and some of these records are public. Simply passing            their facial profile alone using facial recognition soft-
+nearby some devices is enough to leave a trail, as near-        ware. This software scans accessible video feeds and
+field radio interactions are often logged. This electronic      attempts to match it to a photo of the target. Given
+datatrail can be used to track a user, both to ascertain        the sheer volume of cameras, however, and the typical
+their physical location or to note their online activities.     range of false-positives and false-negatives, finding
+                                                                the target often boils down to luck. Priority can be
+WIRELESS SCANNING                                               given to cameras monitoring major thoroughfares, to
+To interface with a wireless device or network, whether         narrow the search, but this risks missing the target if
+to establish a connection or for other purposes, the            they avoid heavy traffic areas. The success of searches
+target device/network must be located first. To locate          of this nature is best left to gamemaster fiat, but a
+an active node, it’s wireless radio transmissions must be       Research Test can also be called for, modified ap-
+detected. Most wireless devices automatically scan for          propriately by the range of the area being watched,
+other devices in range (see Radio and Sensor Ranges, p.         whenever there is a chance the target may be spotted.
+299) as a matter of course, so no test is required. This          Other biometric signatures may also be used for
+means that it’s trivial for any character to pull up a          tracking this way, though these are usually less avail-
+list of the wireless devices and networks around them,          able than cameras: thermal signatures (requires infra-
+along with associated mesh IDs. Likewise, a muse or             red cameras), walking gait, scent (requires olfactory
+device can be instructed to alert the user when a new           sensors), DNA (requires DNA scanners), etc. Each
+signal (or a specific user) comes into range.                   biometric scan requires a separate type of software.

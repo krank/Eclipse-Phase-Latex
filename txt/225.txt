@@ -1,0 +1,122 @@
+CRITICALS
+If the defender rolls a critical success, the character
+attempting to wield psi is temporarily locked out of
+the target’s mind. The psi user may not target that
+character with sleights until an appropriate “reset”
+period has passed, determined by the gamemaster.
+   If the async rolls a critical failure, they suffer tempo-
+rary incapacitation as their mind dysfunctions in some
+harsh and distressing ways (see Psi Drawbacks, p. 221).
+   If a psi user rolls a critical success against a de-
+fender, or the defender rolls a critical failure, double
+the potency of the sleight’s effect. In the case of psi at-
+tacks, the DV can be doubled or mental armor can be
+bypassed. Alternately, when using Psi Assault (p. 183),
+the targeted character may be in danger of infection
+by the Watts-Macleod strain (p. 362).
+
+MENTAL ARMOR
+The Psi Shield sleight (p. 228) provides mental armor,
+a form of neural hardening against psi-based attacks.
+Like physical armor, this mental armor reduces the
+amount of damage inflicted by a psi assault.
+
+DURATION
+Psi sleights have one of four durations: constant, in-
+stant, temporary, or sustained.
+   Constant: Constant sleights are always “on.”
+   Instant: Instant sleights take effect only in the
+Action Phase in which they are used.
+   Temporary: Temporary sleights last for a limited
+duration with no extra effort from the async. The
+temporary duration is determined by the async’s WIL
+÷ 5 (round up) and is measured in either Action Turns
+or minutes, as noted. Strain for the sleight is applied
+immediately when used, not at the end of the duration.
+   Sustained: Sustained sleights require active effort
+to maintain for as long as the async wants to keep
+it active. Sustaining a sleight requires concentration,
+and so the async suffers a –10 modifier to all other
+skill tests while the sleight is sustained. The async
+must also stay within the range appropriate to the
+sleight, otherwise the sleight immediately ends. More
+than one sleight may be sustained at a time, with a
+cumulative modifier. Strain for the sleight is applied
+immediately when used, not at the end of the dura-
+tion. At the gamemaster’s discretion, sleights that are
+sustained for long periods may incur additional strain.
+
+STRAIN
+The use of psi is physically (and sometimes psycho-
+logically) draining to a psi user. This phenomenon is
+known as strain, and manifests as fatigue, exhaustion,
+pain, neural overload, cardiovascular stress, and
+adynamia (loss of vigor). Though strain has only
+rarely been known to actually kill an async, the use
+of too much active psi can be life-threatening in some
+circumstances.
+   In game terms, every active sleight has a Strain
+Value of 1d10 ÷ 2 (round up) DV. Every active sleight
+lists a Strain Value Modifier that modifies this amount.
+For example, a sleights with a Strain Value Modifier
+of –1 inflicts (1d10 ÷ 2) –1 DV.
+   If the damage points suffered from strain exceed
+the character’s Wound Threshold, they may inflict a
+wound just like other damage (see Wounds, p. 207).
+
+
+           Matric is investigating a disappearance, so he
+           decides to use his Qualia sleight to boost his
+           Intuition while hunting for clues. That psi-chi
+           sleight takes only a Quick Action to initiate and
+           requires no test. Matric’s WIL is 25, so the dura-
+           tion of this temporary sleight is 5 Action Turns (25
+           ÷ 5 = 5). The sleight’s Strain modiﬁer is –1, so
+           he is facing (1d10 ÷ 2) –1 DV. He rolls a 1, so he
+           takes no strain at all!
+              Later on, Matric ﬁnds himself in a life-or-death
+           struggle with a kidnapper. Lucky for Matric,
+           they’re in a melee, so he’s close enough to try
+ EXAMPLE
+
+
+
+
+           and touch his opponent. On his Action Phase, he
+           makes an Unarmed Combat Test with a +20 mod-
+           iﬁer (for a touch-only attack) and succeeds. This
+           allows him to try and use his Psychic Stab sleight.
+           He rolls his Psi Assault of 57 against the target’s
+           WIL x 2 (32). His target is in a worker pod morph,
+           however, which is less susceptible to psi, so he
+           receives a +30 modiﬁer (32 + 30 = 62). Matric
+           rolls a 32 and the worker pod a 64—Matric wins!
+           For damage, he rolls 1d10 + (WIL ÷ 10). His WIL
+           is 25, so that’s 1d10 + 3. He rolls a score a 7 and
+           inﬂicts 10 (7 + 3) points of damage. The worker
+           pod screams in pain, suffering a wound from the
+           psychic assault.
+
+
+PSI-CHI SLEIGHTS
+Psi-chi sleights are async abilities that speed up cogni-
+tive informatics (internal information processing) and
+enhance the user’s perception and cognition.
+
+AMBIENCE SENSE
+       PSI TYPE:    Passive        ACTION:    Automatic
+   RANGE:      Self        DURATION: Constant
+This sleight provides the async with an instinctive
+sense about an area and any potential threats nearby.
+The async receives a +10 modifier to all Investigation,
+Perception, Scrounging, and Surprise Tests.
+
+COGNITIVE BOOST
+       PSI TYPE:    Active         ACTION:    Quick
+       RANGE:       Self           DURATION: Temp (Action Turns)
+
+    STRAIN MOD: –1
+The async can temporarily elevate their cognitive
+performance. In game terms, Cognition is raised by 5
+for the chosen duration. This boost to Cognition also
+raises the rating of skills linked to that aptitude.

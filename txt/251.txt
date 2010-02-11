@@ -1,0 +1,120 @@
+or bumped for higher-priority items, the gamemaster
+can increase this time at their discretion. If the research
+involves correlation and fine-tuning the search param-
+eters based on data accumulated from different locals,
+the timeframe may be exponentially increased due to
+the need for back-and-forth interaction.
+   If the character is simply communicating with or
+accessing non-local networks, an appropriate time lag
+must be introduced between communications and ac-
+tions. The effects of this lag are largely up to the game-
+master, as fitting current distances and other factors.
+
+ACCESSING MULTIPLE DEVICES
+Meshed characters may connect to and interact with
+numerous devices, networks, and services simulta-
+neously. There is no penalty for doing this, but the
+character may only focus on one system at a time. In
+other words, you may only interact with one system
+at a time, though you may also switch between them
+freely, even within the same Action Phase. You could,
+for example, spend several Quick Actions to send a
+message with your ecto, tell your spime oven at home
+to start cooking dinner, and look up a friend’s updated
+profile on a social network. You may not, however,
+hack into two separate systems simultaneously.
+   Note that you may send the same command to
+multiple slaved devices or teleoperated drones with
+the same Quick Action, as noted above.
+
+
+
+ONLINE RESEARCH
+The Research skill (p. 184) represents a character’s
+ability to track down information in the mesh. Such
+information includes any type of digitized data: text,
+pictures, vids, XP, sensor feeds, raw data, software, etc.
+This data is culled from all manner of sources: blogs,
+archives, databases, directories, social networks, rep
+networks, online services, forums, chat rooms, torrent
+caches, and regular mesh sites of all kinds. Research
+is conducted using various public and private search
+engines, both general and specialized, as well as data
+indices and search AIs.
+   Research has other uses as well. Hackers use it
+when looking for specific information on a network or
+device on which they have intruded. Likewise, since
+everyone inevitably uses and interacts with the mesh,
+Research skill is also a way to identify, backtrack, and/
+or gather information on people as long as they have
+not hidden their identity, worked anonymously, or
+covered their identity with a shroud of disinformation.
+
+SEARCH CHALLENGES
+Due to the sheer amount of data available, find-
+ing what you’re looking for may sometimes seem a
+daunting task. Thankfully, information is fairly well
+organized, thanks to the hard work of “spider” AIs
+that cruise the mesh and constantly update data and
+search indices. Additionally, information on the mesh
+is tagged with semantics, meaning that it’s presented
+with code that allows a machine to understand the
+context of that information as well as a human reader
+would. This helps AIs and search software correlate
+data more efficiently. So finding the data is usually not
+as difficult as analyzing it and understanding it. Find-
+ing specialized or hidden info or correlating data from
+multiple sources is usually the real challenge.
+  Perhaps a larger issue is the amount of incorrect data
+and misinformation online. Some data is simply wrong
+(mistakes happen) or outdated, but the nature of the
+mesh means that such things can linger on for years
+and even propagate far and wide as they are circulated
+without fact-checking. Likewise, given the amount of
+
+
+
+  SEARCH CAPABILITIES
+  Online research in Eclipse Phase is not the same
+  as just googling something. Here are ﬁve ways in
+  which it is vastly improved:
+     Pattern Recognition: Biometrics and other forms
+  of pattern recognition are efﬁcient and intelligent.
+  It is not only possible to run image recognition
+  searches (in real-time, via all available spimes
+  and sensor feeds), but to search for patterns such
+  as gait, sounds, colors, emotive displays, trafﬁc,
+  crowd movement, etc. Kinesics and behavioral
+  analysis even allow sensor searches for people
+  exhibiting certain behavioral patterns, such as sus-
+  picious loitering, nervousness, or agitation.
+     Metadata: Information and ﬁles online come
+  with hidden data about their creation, alteration,
+  and access. A photo’s metadata, for example,
+  will note what gear it was taken on, who took
+  it, when, and where, as well as who accessed it
+  online, though such metadata may be easily
+  scrubbed or anonymized.
+     Data Mash-Ups: The combination of abundant
+  computing, archived data, and ubiquitous public
+  sensors enable intriguing correlations to be
+  drawn from data that is mined and collated. In
+  the midst of a habitat emergency such as a ter-
+  rorist bombing, for example, the ID of everyone
+  in the vicinity could be scanned, compared to
+  data archives to separate out those who have a
+  history of being in the vicinity at that particular
+  time, with those remaining checked against
+  databases of criminal/suspect history and their
+  recorded actions analyzed for unusual behavior.
+     Translation: Real-time translation of audio and
+  video is available from open source translation bots.
+     Forecasting: A signiﬁcant percentage of what
+  people do on any day or in response to certain situ-
+  ations conforms to routines, enabling easy behav-
+  ioral prediction. Muses take advantage of this to
+  anticipate needs and provide whatever is desired
+  at the right moment and in the right context. The
+  same logic applies to actions by groups of people,
+  such as economics and social discourse, making pre-
+  dictions markets a big deal in the inner system. ■

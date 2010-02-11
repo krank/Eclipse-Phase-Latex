@@ -1,0 +1,60 @@
+WHERE DOES IT TAKE PLACE?                                 nanofabrication that allow unlimited data storage
+While Eclipse Phase is set in the not-too-distant         and near-instantaneous transmission capacities. With
+future, the changes that have taken place due to the      micro-scale, cheap-to-produce wireless transceivers so
+advancements of technology have transformed the           abundant, literally everything is wirelessly connected
+Earth and its inhabitants almost beyond recognition.      and online. Via implants or small personal comput-
+As players dive into the universe, they’ll generally      ers, characters have access to archives of information
+encounter one of the following settings.                  that dwarf the entire 21st-century internet and sensor
+                                                          systems that pervade every public place. People’s
+HUMANITY’S HABITATS                                       entire lives are recorded and lifelogged, shared with
+The Earth has been left an ecologically-devastated        others on one of numerous social networks that link
+ruin, but humanity has taken to the stars. When           everyone together in a web of contacts, favors, and
+Earth was abandoned, so too were the last of the          reputation systems.
+great nation-states; transhumanity now lacks
+a single unifying governing body and is instead           EGO VS. MORPH
+subject to the laws and regulations of whomever           The distinction between ego (your mind and per-
+controls a given habitat.                                  sonality, including memories, knowledge, and skills)
+  The majority of transhumanity is confined to             and morph (your physical body and its capabilities)
+orbital habitats or satellite stations scattered           is one of the defi ning characteristics of Eclipse
+throughout the Sol system. Some of these were             Phase. A good understanding of the concept right
+constructed from scratch in the orbit or Lagrange          up front will allow players a glimpse at all the story
+points of planetary bodies, others have been hewn          possibilities out of the gate.
+out of solid satellites and large asteroids. These sta-      Your body is disposable. If it gets old, sick, or too
+tions have myriad purposes from trade to warfare,          heavily damaged, you can digitize your conscious-
+espionage to research.                                     ness and download it into a new one. The process
+  Mars continues to be one of transhumanity’s              isn’t cheap or easy, but it does guarantee you ef-
+largest settlements, though it too, suffered heavily       fective immortality—as long as you remember to
+during the Fall. Numerous cities and settlements           back yourself up and don’t go insane. The term
+remain, however, though the planet is only partially       morph is used to describe any type of form your
+terraformed. Venus, Luna, and Titan are also home          mind inhabits, whether a vat-grown clone sleeve,
+to significant populations. Additionally, there are a      a synthetic robotic shell, a part-bio/part-synthetic
+small number of colonies that have been established       “pod,” or even the purely electronic software state
+on exoplanets (on the other side of the Pandora            of an infomorph.
+Gates) with environments that are not too hostile            A character’s morph may die, but the character’s
+towards humanity.                                          ego may live on, assuming appropriate backup
+   Some transhumans prefer to live on large colony         measures have been taken. Morphs are expendable,
+ships or linked swarms of smaller spacecraft, moving       but your character’s ego represents the ongoing,
+nomadically. Some of these rovers intentionally exile      continuous life path of your character’s mind and
+themselves to the far limits of the solar system, far      personality. This continuity may be interrupted by
+from everyone else, while others actively trade from       an unexpected death (depending on how recently
+habitat to habitat, station to station, serving as         the backup was made), but it represents the totality
+mobile black markets.                                      of the character’s mental state and experiences.
+                                                              Some aspects of your character—particularly skills,
+THE GREAT UNKNOWN                                          along with some stats and traits—belong to your
+The areas of the galaxy that have felt the touch of        character’s ego and so stay with them throughout
+humanity are few and far between. Lying betwixt            the character’s development. Some stats and traits,
+these occasional outposts of questionable civilization     however, are determined by morph, as noted, and so
+are mysteries both dangerous and wonderful. Ever          will change if your character leaves one body and
+since the discovery of the Pandora Gates, there has        takes on another. Morphs may also affect other skills
+been no shortage of adventurers brave or foolhardy         and stats, as detailed in the morph description.
+enough to strike out on their own into the unknown
+regions of space in hopes of finding more alien ar-       WHERE TO GO FROM HERE?
+tifacts, or even establishing contact with one of the     Now that you know what this game is about, we sug-
+other sentient races in the universe.                     gest that you next read the Time of Eclipse chapter
+                                                          (p.  30), to get a feel for the game’s default setting
+THE MESH                                                  (which you are, of course, free to change to suit your
+While not a “setting” in the traditional sense, as        whims). Then read the Game Mechanics chapter
+the sections describe above, the computer net-            (p. 112) to get a grasp of the rules. After that, you
+works known as the “mesh” are all-pervasive. This         can move on to Character Creation and Advancement
+ubiquitous computing environment is made pos-             (p. 128) and create your first character!
+sible thanks to advanced computer technologies and

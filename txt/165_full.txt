@@ -1,0 +1,78 @@
+MERCURIAL INVESTIGATOR
+           APTITUDES  COG     COO      INT     REF    SAV     SOM     WIL
+            Base       20      10       15      15     20      5      20
+     Morph Bonus
+            Total      20      10       15     15      20       5      20
+
+
+
+
+      MOX      TT     LUC      IR      WT     DUR     DR
+                                                             STATS
+                                                             INIT     SPD
+       4        8      40      80      —       —      —       60      1 (3)
+
+
+
+                                                            SKILLS
+                                                        MORPH
+                                      APT      BASE     BONUS       TOTAL
+     Academics: Anthropology          COG       60                    60
+ Academics: Computer Science          COG       60                    60
+            Academics: Physics        COG       50                    50
+                  Art: Digital Art    INT       50                    50
+                       Deception      SAV       40                    40
+                              Fray    REF       35                    35
+                         Free Fall    REF       30                    30
+                         Gunnery      INT       50                    50
+                  Impersonation       SAV       45                    45
+                       Inﬁltration    COO       50                    50
+                          Infosec     COG       60                    60
+        Interests: Crime Groups       COG       60                    60
+      Interests: Cultural Trends      COG       45                    45
+                      Interfacing     COG       50                    50
+                   Investigation      INT       60                    60
+                         Kinesics     SAV       50                    50
+      Language: Native English        INT       90                    90
+          Networking: Criminals       SAV       50                    50
+           Networking: Firewall       SAV       40                    40
+       Networking: Hypercorps         SAV       40                    40
+                      Perception      INT       45                    45
+                   Pilot: Aircraft    REF       55                    55
+               Pilot: Anthroform      REF       55                    55
+              Pilot: Groundcraft      REF       30                    30
+          Profession: Forensics       COG       60                    60
+ Profession: Police Procedures        COG       50                    50          Background: Infolife
+  Profession: Security Systems        COG       45                    45          Faction: Mercurial
+                   Programming        COG       60                    60          Morph: Infomorph
+                                                                                  Motivations: +AGI Rights +Personal Development +
+                        Research      COG       60                    60
+
+                                                                                  TRAITS                                  Gear: AR Illus
+                                                                                  Ego: Real World Naiveté, Social           Backup In
+                                                                                    Stigma (AGI) ■                          Covert Ops
+You are a digital life form, coded      at sifting, sorting, and correlating
+                                                                                                                            Exploit Sof
+to be “friendly” and molded with        this data, in fact, selling your ser-
+                                                                                  REP                                       age Recog
+transhuman mindsets and world           vices as a mesh-based investiga-
+                                                                                  c-rep:    20                              2 Gnat Bot
+views. You resent the backlash          tor. For most of your inquiries, a
+                                                                                  g-rep:    10                              Holograph
+against AGIs and criticize resur-       physical form isn’t necessary, as
+                                                                                  i-rep:    20                              Narcoalgo
+gent human tendencies towards           you acquire data on the physi-
+                                                                                                                            Scout Nan
+technophobia and xenophobia             cal world through sensors. When
+                                                                                  EQUIPMENT                                 tor Bot, Sm
+as harmful to the emerging tran-        physical interaction is called
+                                                                                  Armor: None [0/0] ■                       Software,
+shuman society. You immerse             for, however, you can operate
+                                                                                  Primary Weapon: None ■                    Software,
+yourself fully in transhuman cul-       or jam a bot or catch a ride in a
+                                                                                  Starting Credit: 250 ■                    Software,
+ture and the data it produces,          ghostrider module or, as a last
+                                                                                                                            5 XP Clips
+bathing in its richness. You excel      resort, in a meat puppet. ■
+
+                                     “Oh this is great, I think I found it! What is a ‘red light district?’ Oh, I see.”

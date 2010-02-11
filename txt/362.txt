@@ -1,0 +1,115 @@
+METHODS
+Unobtrusive—that is the standard operating pro-
+cedure for any sentinel. Firewall’s continued suc-
+cess relies on its secrecy. The larger the footprint
+it leaves during a given mission the easier it is for
+other organizations to monitor Firewall’s efforts or
+even attempt to infiltrate the group. As such, Fire-
+wall constantly works to expand its base of allies
+(using assets from those ally organizations in place
+of its own as much as possible), place long-term
+moles, conduct remote operations (hacking in place
+of on-site personnel), small group infiltrations (acti-
+vating only as many sentinels as required to achieve
+mission goals), and so on.
+   When it comes to allies, Firewall often obfuscates
+its real intentions and even its real identity. Often
+such allies are gained through the use of well-placed
+sentinels who act on behalf of their own non-
+Firewall positions to gain access to another orga-
+nization’s resources. At the end of the day, however,
+a slice of these resources are secretly set aside for
+Firewall’s future use. For example, a department
+head at Starware may have spent years sealing a
+deal to ship crucial spacecraft parts to the isola-
+tionist Jovian Junta. The lucrative deal brings huge
+prestige, a job promotion, and a salary increase, all
+accomplishments the department head strives for in
+his regular life. Yet this particular department head
+is a long-standing sentinel, so such accomplish-
+ments bring allies to Firewall, whether they know
+it or not. Not only can the department head siphon
+off a thin stream of revenue for Firewall use (hidden
+thoroughly by vectors), but he’s also in a position
+to move sentinels, as needed, into the Jovian Junta
+habitats (or personnel out), a job usually extremely
+difficult to accomplish. The danger of such an act,
+of course—and the consequences of losing such a
+critically placed sentinel—means such a use of re-
+sources is reserved for only the most dire threats.
+   In additional to aid from ally organizations, Fire-
+wall places caches of supplies on different habitats
+and worlds, available to sentinels as needed. How
+many and which sentinels are aware of which
+caches depends wholly on the situation and on the
+decisions of the router(s) involved. In a given habi-
+tat, a cache may include weaponry and equipment
+of escalating power, archived information, or even
+relics stashed from previous missions until Firewall
+decides what to do with them. Large habitats may
+even feature several caches, with routers only re-
+vealing the ones with heavy firepower when abso-
+lutely needed. Some caches may be so dangerous,
+however, that once a mission is complete, a router
+will authorize the cortical stack destruction of all
+sentinels involved, resleeving them to a backup that
+has no knowledge of the cache’s existence.
+   As noted under erasure squads, Firewall will not
+hesitate to react with swift and unequivocal force if
+an unobtrusive approach has failed and the danger
+  WHAT HELP CAN A
+  SENTINEL EXPECT?
+   Exactly what help Firewall provides to a senti-
+   nel during a mission is wholly dependent upon
+   the situation and the gamemaster. Generally
+   speaking, Firewall’s unobtrusive approach also
+   applies to activated sentinels, meaning that
+   sentinels are largely left to operate on their
+   own accord. Beyond access to a cache of sup-
+   plies—usually under-stated, forcing a sentinel
+   to use their own resources if they want more—
+   Firewall expects its sentinels to be capable of
+   handling a situation. In addition to their skills
+   and wits, sentinels can, of course, rely heavily
+   on their i-rep to gain the resources and favors
+   they need to achieve success.
+      In some rare cases, the gamemaster may
+   decide that a situation warrants more or less
+   equipment in a cache or help from social engi-
+   neers or vectors. Such intervention should be
+   kept to a minimum, however, to lesson the
+   players’ feelings of Deus Ex Machina, ensuring
+   the appropriate response of awe when such
+   events do occur.
+     The one thing for which Firewall can always
+   be relied on is backup insurance. Any Firewall
+   killed in the line of duty will be resleeved at
+   Firewall’s expense—though the morph used
+   and whether the sentinel was backed up from
+   their cortical stack or a backup (perhaps even
+   an old backup) depends entirely on the circum-
+   stances of death and their router’s whim. Fire-
+   wall usually makes an extra effort to retrieve
+   cortical stacks, however, not in the least as they
+   don’t want their agents’ backups falling into
+   the wrong hands.
+      Similarly, if a Firewall mission involves ego-
+   casting or travel to another destination, Fire-
+   wall will usually foot the bill. In many cases
+   it is easier for sentinels to cover the expense
+   themselves and bill Firewall later, but in times
+   of need Firewall can be called on to handle
+   such expenses directly.                         ■
+
+
+
+
+ reaches a certain threat level. What constitutes a
+“threat threshold” is actually calculated by special-
+ ized risk assessment software and may change from
+ mission to mission according to other external fac-
+ tors. In some instances, if the situation is dangerous
+ enough and the scale of the consequences of failure
+ large enough, a Promethean will be tapped to cal-
+ culate the threat level and decide when it is time to
+ tactically withdrawal and “thermally cleanse.”

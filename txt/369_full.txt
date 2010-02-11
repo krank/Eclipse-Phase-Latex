@@ -1,0 +1,60 @@
+ • Stage 1 (initial infection to 3 months): Upon ini-    to their personality or mind-state. A few ideas for
+   tial infection, the character suffers 1d10 mental     haunting effects are noted here, but gamemasters are
+   stress and gains the Psi trait (p. 147) at Level 1    encouraged to be creative when inventing their own
+   (also meaning they pick up the Mental Disorder        to apply:
+   trait, as noted on p. 150). They also gain one free
+   psi-chi sleight, chosen randomly or by the game-        • Altered Perceptions: The victim’s perceptions are
+   master. If a player character has become infected,        changed in disturbing and unusual ways. They
+   they may still be played as normal (see Roleplay-         may see things that aren’t there, feel a presence
+   ing Exsurgents, p. 368), and may purchase new             behind or watching them, inexplicably smell
+   psi-chi sleights with Rez Points. NPCs acquire 1          blood, hear voices, suffer synaesthesia, or sud-
+   new sleight per 2–4 weeks.                                denly perceive the people around them as nothing
+   At this stage, the infection is usually hidden,           but outlandish, blabbering sacks of meat.
+   though the character will suffer from occasional        • Behavioral Modification: Treat as behavioral con-
+   haunting effects (see below). As each week passes,        trol or personality editing psychosurgery (p. 231).
+   the character’s personality should shift a minute         This is typically applied to shape the character
+   amount, slowly becoming more callous and con-             closer to being a pawn of the ETI.
+   niving and changing in other ways as well. If           • Dream Manipulation: The character’s dreams
+   possible, the player should be kept in the dark           become lucid, weird, and surreal. They may find
+   about what is happening, but the gamemaster               themselves dreaming of life as an alien on some
+   should provide them with roleplaying advice to            exotic exoplanet, as a robotic probe soaring
+   reflect their condition. Likewise, the discovery          through the vast emptiness of space, or fantasiz-
+   and initial use of psi sleights should be played          ing different methods of inflicting mass destruc-
+   out, providing some interesting roleplaying op-           tion and death.
+   portunities. Characters and players who know of         • Emotional Manipulation: Treat as emotional
+   the Exsurgent virus and Watts-Macleod strains             control psychosurgery (p. 231).
+   should not know at this point which strain they         • Inexplicable Urges: The character will be flushed
+   are infected with—make them sweat.                        with strange alien urges and may sometimes find
+ • Stage 2 (3 months to 6 months): The target suf-           themselves doing highly unusual things without
+   fers another 1d10 ÷ 2 (round up) mental stress            realizing at all they are doing it. These may in-
+   and acquires the Psi trait at Level 2 (also pick-         clude taking devices apart to understand how
+   ing up another disorder). Player characters may           they work, testing the limits on programming a
+   still be played as normal and may purchase psi-           nanofabricator, cutting a living thing apart to see
+   gamma slights with Rez Points. NPCs acquire 1             how it is put together biologically, testing weap-
+   new sleight per 2–4 weeks.                                ons, eating things that are only barely edible, pro-
+   Once three months have passed, the character              miscuous and unusual sexual activity, lying just
+   should be aware they are under the influence              to see what they can get away with, and so on.
+   of something, but this awareness likely comes
+   too late. Haunting effects (below) should occur       MINDSTEALER VIRUS
+   regularly. At this point a character is likely to     Very similar to the haunting virus, the mindstealer
+   consider offing themselves and resorting to an         strain is much quicker acting. Instead of slowly sub-
+   uninfected backup, seeking help, or actively en-      verting the target’s mind over the course of months,
+   couraging others to interfere. The infection will     the mindstealer virus rapidly recodes the victim’s brain
+   actively block and hinder such thoughts and ac-       in a matter of minutes. This infection is much more
+   tions, however. To actively overcome this mental      invasive and brute-force, often causing significant
+   control, the character must succeed in a WIL Test.     side effects to the target’s mental state as a result. This
+   At the gamemaster’s discretion, failure may result     strain is only spread as a digital virus, nanoplague, or
+   in 1d10 ÷ 2 (round up) mental stress as the char-     basilisk hack (not as a biological nanovirus).
+   acter realizes they are no longer fully in control        Once the victim is infected, it takes the virus a
+   of their own thoughts and actions.                    number of Action Turns equal to COG + INT + SAV
+ • Stage 3 (6 months+): The victim suffers another       to completely take over their mind (20 Action Turns
+   1d10 ÷ 2 (round up) mental stress and acquires        = 1 minute). During this time, the target is actively
+   the Psi trait at Level 3 (see below). The character   aware that their mind is under attack and undergo-
+   is now considered an exsurgent and becomes            ing massive changes against their will. This process
+   an NPC. It may no longer be played as a player        is confusing, frightening, and painful, inflicting a
+   character. The victim also gains a permanent          –30 modifier to all of the character’s actions for the
+   +5 bonus to COG and WIL and acquires 1 new            duration. Many victims are reduced to whimpering,
+   sleight every 1–2 months.                             drooling, or convulsing for the duration.
+                                                            This mental transformation inflicts 2d10 mental
+  As noted above, characters infected with this strain    stress to the target. Once complete, the victim is an
+suffer from different haunting effects—changes            exsurgent NPC, under the gamemaster’s control.

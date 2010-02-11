@@ -1,0 +1,121 @@
+out what type of action you want to take. In Eclipse
+Phase, actions are categorized as Automatic, Quick,
+Complex, or Task, based on how much time and
+effort they entail.
+
+AUTOMATIC ACTIONS
+Automatic Actions require no effort. These are abili-
+ties or activities that are “always on” (assuming you
+are conscious) or are otherwise reflexive (they happen
+automatically in response to certain conditions, with
+no effort from you). Breathing, for example, is an au-
+tomatic action—your body does it without conscious
+effort or thinking on your part.
+   In most cases, Automatic Actions are not something
+that you initiate—they are always active, or at least
+on standby. Certain circumstances, however, will bring
+an Automatic Action to bear. Such Automatic Actions
+are invoked and handled immediately whenever they
+apply, without requiring effort from your character.
+
+RESISTANCE
+Resisting damage—whether from combat, a poison, or
+a psi attack—is one example of an Automatic Action
+that occurs in response to something else.
+
+BASIC PERCEPTION
+Your senses are continuously active, accumulating data
+on the world around you. Basic perception is consid-
+ered an Automatic Action, and so the gamemaster can
+call on you to make a Perception Test whenever you
+receive sensory input that your brain might want to
+take notice of (see Perception, p. 182). Likewise, you
+may ask the gamemaster at any time—even during
+other character’s actions—to make a basic Perception
+Test, just to find out what your character is noticing
+around them.
+  Because basic perception is an automatic, subcon-
+scious activity, however, you will suffer a –20 modifier
+for distraction—your attention is focused elsewhere.
+In order to avoid the distraction modifier, you must
+actively engage in detailed perception or use an oracle
+implant (p. 308).
+
+QUICK ACTIONS
+Quick Actions are fast and simple, and they may often
+be multi-tasked. They require minimal thought and
+effort. You may undertake multiple Quick Actions on
+your turn during each Action Phase, limited only by
+the gamemaster’s judgment. If you are taking noth-
+ing but Quick Actions during an Action Phase, you
+should be allowed a minimum of 3 separate Quick
+Actions. If you are also engaging in a Complex or Task
+Action during that same Action Phase, you should be
+allowed a minimum of 1 Quick Action. Ultimately, the
+gamemaster decides what activity you can or can’t fit
+into a single Action Phase.
+   Some examples of Quick Actions include: talking,
+switching a safety, activating an implant, standing
+up, dropping prone, gesturing, drawing/readying a
+weapon, handling an object, or using a simple object.
+AIMING
+Aiming is a special case in that it is a Quick Action
+but requires a degree of concentration that rules out
+other minor actions. If you wish to aim before making
+an attack in the same Action Phase, aiming is the only
+Quick Action you may make during that Action Phase
+(see Aimed Shots, p. 193).
+
+DETAILED PERCEPTION
+Detailed perception involves taking a moment to
+actively use your senses in search of information and
+assess what you are perceiving (see Perception, p.
+182). It requires slightly more effort and brainpower
+(or computer power) than basic perception, which is
+automatic. As a Quick Action, you may only engage
+in detailed perception on your turn during an Action
+Phase, but you do not suffer a modifier for distrac-
+tion (unless you happen to be in a heavily distracting
+environment, such as a gunfight or agitated crowd).
+
+COMPLEX ACTIONS
+Complex Actions require more concentration and
+effort than Quick Actions—they effectively monopo-
+lize your attention. You may only take one Complex
+Action on each your Action Phase turns. Additionally,
+you may not engage in a Complex Action and a Task
+Action during the same Action Phase.
+   Examples of Complex Actions include: attacking,
+shooting, acrobatics, full defense, disarming a bomb,
+using a complex device, or reloading a weapon.
+
+TASK ACTIONS
+A Task Action is any activity that requires longer than one
+Action Turn to complete. Each Task Action lists a time-
+frame for how long the task takes to accomplish. This
+timeframe may range anywhere from 2 Action Turns to 2
+years. While engaged in a Task Action, you may not also
+undertake a Complex Action, though in some cases you
+may take a break from the task and return to it later. For
+more information, see Task Actions, p. 120.
+   Examples of Task Actions include: repairing a
+device, programming, conducting a scientific analysis,
+searching a room, climbing a wall, or cooking a meal.
+
+
+
+MOVEMENT
+Movement in Eclipse Phase is handled just like any
+other action, and may change from Action Phase to
+Action Phase. Walking and running both count as Quick
+Actions, as they do not require your full concentration.
+The same also applies to slithering, crawling, floating,
+hovering, or gliding. Running, however, may inflict a
+–10 modifier on other actions that are affected by your
+jostling movement. Even more, sprinting is an all-out run,
+ and so requires a Complex Action (see Sprinting, p. 191).
+   At the gamemasters discretion, other movement
+ may also call for a Complex Action. Hurdling a fence,
+pole vaulting, jumping from a height, swimming, or
+freerunning through a habitat in zero-gravity all re-
+quire a bit of finesse and attention to detail, so would

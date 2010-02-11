@@ -1,0 +1,118 @@
+PSI DRUGS
+Research into the Watts-MacLeod strain has resulted in
+several exceptional breakthroughs involving the creation
+of psi-impacting drugs. Each of these drugs is in the ex-
+perimental stage, but they are already finding some use
+among Firewall and similar secretive groupings.
+   Inhibitor: Inhibitor is a cocktail of neurochemicals
+that block some brain receptor and transmitter func-
+tions in an attempt to reduce psi-waves and block or
+impair sleights. This drug is commonly used to restrain
+async prisoners from using their abilities. A drugged
+character must make a WIL x 2 Test. If they fail, they
+lose all psi abilities for the drug’s duration. If they suc-
+ceed, they suffer a –30 impairment on Psi skills and
+all strain is doubled. Inhibitor has an unfortunate side
+effect of doping the character down, however; apply
+a –10 modifier to their COG. Inhibitor-influenced
+characters tend to have a glazed, dopey expression and
+have difficulty getting excited or emotional. [High]
+   Psi-Opener: Psi-opener drugs are variants of the
+Watts-MacLeod strain with a temporary effect and
+which do not permanently alter the user’s brain. Psi-
+opener temporarily imbues the user with the ability
+to use one particular sleight, regardless of whether or
+not they have the Psi trait. Each type of Psi-opener is
+customized for a particular sleight. While primarily
+intended for non-asyncs, non-asyncs may not possess
+Psi skills, so they must default to WIL. For this reason,
+Psi-Opener is often doubled up with Psike-out.
+   Using Psi-opener is a mind-wrenching experience.
+Users are occasionally subject to hallucinations
+(gamemaster discretion). When the drug wears off, it
+inflicts 1d10 points of mental stress, +2 if the drug
+imbues a psi-gamma sleight. [Expensive]
+   Psike-Out: Psike-out bolsters an async’s psi abilities.
+Apply a +20 modifier to the async’s Psi skill tests for the
+drug’s duration. However, also apply +2 to all strain
+DVs for the drug’s duration. Psike-out is mentally ad-
+dictive, with an Addiction Modifier of –10. [Expensive]
+
+
+
+EVERYDAY TECHNOLOGY
+The following devices are all exceptionally common
+and can be acquired in almost any habitat. Almost
+everyone in Eclipse Phase either owns these devices or
+knows several people who do.
+   Ecto: Ectos are the external version of basic mesh
+inserts (p. 300), minus the medical sensors. These col-
+orful devices serve as a wearable mesh terminal, PDA,
+locator, and camera-phone. The devices are flexible
+(often worn as bracelets), dirt-resistant, self-cleaning,
+and may be stretched out to increase screen size. They
+may project holographic displays and are typically
+equipped with wireless-enabled glasses or contact
+lenses and decorative earpieces or earrings so that the
+user may access augmented reality. Given the ubiquity
+of mesh inserts, ectos are growing less common, but
+they are still used by bioconservatives, others without
+implants, and those who prefer to access the mesh via
+an external device for security concerns. [Low]
+                               TOXINS
+                     TYPE APPLICATION ONSET TIME
+Chemical Toxins
+BTX2                 Chem       D, Inj, O      1 Action Turn    3
+CR Gas               Chem        D, Inh        1 Action Turn
+Flight                Bio          Inh         3 Action Turns
+Nervex               Chem     D, Inh, Inj, O     1 minute
+Oxytocin-A            Bio        Inh, Inj        3 minutes
+Twitch               Chem     D, Inh, Inj, O 3 Action Turns
+Nanotoxins
+Degeneration         Nano        Inj, O         Immediate
+Necrosis             Nano        Inj, O        3 Action Turns
+Neuropath            Nano       D, Inj, O      3 Action Turns
+Nutcracker           Nano        Inj, O         Immediate
+Psi Drugs
+Inhibitor            Chem        Inj, O        3 Action Turns
+Psi-Opener            Bio        Inj, O         20 minutes
+Psike-Out            Chem        Inj, O          1 minute
+
+
+   Holographic Projectors: These devices are capable
+of projecting high-definition, ultra-realistic three-
+dimensional images and movies. From a distance
+(20+ meters), such holograms can be difficult to
+distinguish as fake, but up close they are easier to
+see for what they are (+20 Perception Test modifier).
+Holograms do not appear wavelengths other than
+visual light, and so are easily identified by anyone
+with enhanced vision. [Low]
+  Micrograv Shoes: These shoes are equipped with
+velcro and/or a magnetic system, allowing the wearer
+to walk normally on appropriate surfaces in micro-
+grav and zero-G environments, rather than floating or
+bouncing. [Trivial]
+   Portable Sensor: This is a small portable (possibly
+even wearable) sensor system. The type of sensor must
+be chosen (for example: infrared, lidar, radar, x-ray).
+Combined sensor systems are also available, at a cu-
+mulative cost. See Radio and Sensor Ranges, p. 299.
+and Using Enhanced Senses, p. 302. [Moderate]
+   Smart Clothing: Smart clothing can change its
+color, texture, and even its cut, taking only a minute
+or two to transform from a solid color jumpsuit to a
+plaid party dress or a replica of a pinstriped, late 20th
+century business suit. More advanced (and expensive)
+models can also attempt to camouflage their wearers,
+providing a +20 bonus to Infiltration Tests to avoid
+being seen or noticed, as long as the wearer is station-
+ary or not moving faster than a slow walk. When worn
+by someone moving faster, the clothing still provides a
++10 modifier. Smart clothing also keeps the character
+warm or cool, allowing the character to exist comfort-
+ably in environments from –40 to 70 C. [Low]
+   Smart Vac Clothing: Just like regular smart cloth-
+ing, this outfit can also transform into a light vacsuit
+(p. 333). It also functions as armor with a rating of
+2/4. [Moderate]

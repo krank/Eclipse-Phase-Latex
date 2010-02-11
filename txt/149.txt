@@ -1,0 +1,73 @@
+this patron can pull strings on the character’s behalf,
+supply resources, introduce them to people they need
+to know, and bail them out of trouble. The player
+and gamemaster should work together to define ex-
+actly who this NPC is and what their relationship
+with the player character is. Specifically, the question
+of why this patron is supporting the character should
+be answered (familial obligation? childhood buddies?
+the character saved their life once?). Gamemasters
+should be careful that this trait does not get abused.
+The patron should be an occasional help (probably
+no more than once per game session at most) but is
+not always at the character’s beck-and-call. If the
+character asks for too much, too often, they should
+find the patron’s support drying up. Additionally, the
+character may need to take action to maintain the
+relationship, such as undertaking a mission on the
+patron’s behalf. In fact, the character may only have
+their patronage because they are on-call or of use to
+the NPC in some way.
+
+PSI
+Cost: 20 CP (Level 1), 25 CP (Level 2)
+  The character has been infected with the Watts-
+MacLeod strain of the Exsurgent virus, which altered
+their brain structure and opened the potential for their
+mind to enhance their cognitive abilities and read and
+manipulate the biological minds of others (see Psi,
+p. 220). The character may purchase and learn psi
+sleights (p. 223). At Level 1, the character may only
+use psi-chi sleights. At Level 2, the character may use
+both psi-chi and psi-gamma sleights.
+  Though this trait is not very expensive, gamemasters
+should not allow it to be abused. There are a number
+of negative side effects to Watts-MacLeod infection,
+noted under Psi Drawbacks, p. 220.
+PSI CHAMELEON (EGO OR MORPH TRAIT)
+Cost: 10 CP
+  The character’s mental state is naturally resistant to
+psi sensing. Apply a –10 modifier to any attempts to
+locate or detect the character via psi sleights.
+
+PSI DEFENSE (EGO OR MORPH TRAIT)
+Cost: 10 (Level 1) or 20 (Level 2) CP
+  The character’s mind is inherently resistant to
+mental attacks. At Level 1, apply a +10 modifier to
+all defense tests made against psi attacks. At Level 2,
+apply a +20 modifier.
+
+RAPID HEALER (MORPH TRAIT)
+Cost: 10 CP
+  The morph recovers from damage more quickly.
+Reduce the timeframes for healing by half, as noted
+on the Healing table, p. 208. This trait is only avail-
+able to biomorphs.
+
+RIGHT AT HOME
+Cost: 10 CP
+  The character chooses one type of morph (splicer,
+neo-hominid, case, etc.). The character always
+feels right at home in morphs of this type. When
+resleeving into this type of morph, the character au-
+tomatically adjusts to the new body, no Integration
+or Alienation Test needed, suffering no penalties and
+no mental stress.
+
+SECOND SKIN
+Cost: 15 CP
+   If your character background or faction enforces a
+restriction on your starting morph (for example, up-
+lifts must start with an uplift morph), this trait allows
+you to ignore that restriction and purchase a starting
+morph of your choice.

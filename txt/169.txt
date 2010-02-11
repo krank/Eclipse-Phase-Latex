@@ -1,0 +1,129 @@
+TITANIAN EXPLOR
+            APTITU    COG     COO       INT    REF     SAV        SOM
+            Base       15      15        20     15      15         20
+     Morph Bonus               5                 5                 10
+            Total      15      20        20     20      15         30
+
+
+
+
+      MOX      TT      LUC      IR        WT    DUR     DR INIT
+                                                                 ST
+       4      4 (6)   20 (30) 40 (60)      8     40     60 70 (80
+
+
+
+                                                             SKI
+                                                         MORPH
+                                       APT      BASE     BONUS
+    Academics: Astrosociology          COG       60
+      Academics: Astrozoology          COG       55
+            Academics: Botany          COG       45
+    Academics: Xenolinguistics         COG       60
+                         Climbing      SOM       45          10
+                              Fray     REF       50          5
+                         Free Fall     REF       40          5
+                     Freerunning       SOM       60          10
+        Hardware: Groundcraft          COG       45
+                       Inﬁltration     COO       50          5
+        Interests: Gatecrashing        COG       60
+         Interests: Sci-Fi Aliens      COG       45
+                   Investigation       INT       35
+                         Kinesics      SAV       30
+               Kinetic Weapons         COO       45          5
+     Language: Native Swedish          INT       85
+             Language: English         INT       40
+          Medicine: Paramedic          COG       40
+                      Navigation       INT       60
+      Networking: Autonomists          SAV       55
+           Networking: Firewall        SAV       45
+         Networking: Scientists        SAV       55
+                      Perception       INT       60
+              Pilot: Groundcraft       REF       45          5
+               Pilot: Spacecraft       REF       35          5
+       Profession: First Contact       COG       60
+          Profession: Surveying        COG       45
+   Profession: Smuggling Tricks        COG       60
+                         Protocol      SAV       50
+                     Scrounging        INT       60
+
+
+
+
+The gates have opened a new
+frontier to transhumanity and you        preserved, you support c
+are ready to step through and face       and expanding transhu
+the challenges such opportunities        presence while maintainin
+bring. You are a professional gate-      mal impact on alien eco
+crasher, eager to experience new         You are also trained in Firs
+worlds ﬁrst-hand, despite the dan-       scenarios and are hopefu
+gers—or even because of them.            ing new intelligent life—
+Unlike those who feel that new           without sparking some
+planets should be protected and          deadly interstellar inciden
+                                     “I just ﬁnished my analysis
+                                              to what the Boyle-C
+R
+ES
+WIL
+10
+ 5
+15
+
+
+
+TS
+ PD
+ 1
+
+
+
+LS
+TAL
+0
+5
+5
+0
+5
+5
+5
+0
+5
+5
+0
+5
+5
+0
+0
+5
+0
+0
+0
+5
+5
+5
+0
+0
+0          Background: Drifter
+0          Faction: Titanian
+5          Morph: Olympian
+0          Motivations: +Alien Contact +Exploration +Nano-Ec
+0
+           TRAITS                               Implants: Ad
+0
+           None ■                                 Biomods, B
+                                                  Cortical St
+           REP                                    Sense, Enh
+           @-rep:    50                           Medichine
+           i-rep:    20                           Temperatu
+           r-rep:    30                         Gear: Backup
+ izing                                            Breadcrum
+nity’s     EQUIPMENT                              tem, Diamo
+mini-      Armor: Vacsuit (Standard Smart-        ics Net, Ele
+ ems.        fabric with Immunogenic              Portable Li
+ntact        System) [7/7] ■                      System, Ra
+ ﬁnd-      Primary Weapon: Kinetic Assault        Bot, Shelte
+efully       Riﬂe (100 rounds regular ammo) ■     Container,
+ d of      Starting Credit: 4,150 ■               Climber, Ta
+                                                  ware, Trac
+he xenolife amino acids and it’s nothing close
+s hypothesis suggested it should be.”

@@ -1,0 +1,60 @@
+simulspace programs. Though few are portable, some               At the gamemaster’s discretion, mist can interfere
+of them come close.                                            with a user’s sensory perceptions. This modifier can
+                                                               range from –10 to –30, and in some cases might be
+SOFTWARE                                                       so distracting as to affect all of a character’s actions.
+A wide manner of software is available for mesh users,         To lift the data fog, a character or muse must adjust
+from firewalls and AIs to hacking and encryption tools         their filter settings by succeeding in an Interfacing Test
+to tacnets and skillsofts. These programs are listed on        modified by the mist modifier. Alternately, the charac-
+p. 331 of the Gear chapter. Like other gear, software          ter can completely disable AR input, but this is likely
+may enable a character to perform a task they could            to impede them in other ways.
+not otherwise. The quality of the software may also be
+a factor, applying a modifier as appropriate (see Mesh         SLAVING DEVICES
+Gear Quality, p. 247).                                            For ease of use, as well as for privacy and security
+   Some software is equipped with digital restrictions         purposes, one or more devices may be slaved to each
+to prevent it from being copied and shared with others.        other. One device (usually the character’s mesh inserts
+These restrictions may be defeated, but it is a time-con-      or ecto) takes the role of master, while the other
+suming task, requiring a Task Action Programming Test          device(s) takes the role of slave. All traffic to and
+with a timeframe of 2 months. Thanks to the efforts            from slaved devices is routed through the master. This
+of the open source movement and numerous individual            allows a slaved device to rely on the master’s security
+software pirates, however, quite a bit of software is          features and active monitoring. Anyone that wants to
+available free or online. The availability of pirated soft-    connect to or hacked into a slaved device is rerouted
+ware or freeware will depend on the local habitat and          to the master for authentication and security scrutiny.
+legalities. Finding it may be a matter of a simple search,     Slaved devices automatically accept commands from
+or it may require some use of reputation to find some-         their master device. This means that a hacker who
+one who has it. Usually there is at least one local crime      penetrates a master system can legitimately access
+syndicate that is willing to help you out—for a price.         and issue commands to a slaved device, assuming their
+                                                               access privileges allow for it.
+SOFTWARE COMPATIBILITY                                            PANs are typically formed by slaving all of a char-
+In most instances, software compatibility is not going         acter’s devices to their ecto or mesh inserts. Similarly,
+to be an issue for characters. Gamemasters who like            individual components of a security system (doors,
+it as a plot device, however, can introduce compat-            sensors, etc.) are usually slaved to a central security
+ibility problems in certain cases, whether this is done        node that serves as a chokepoint for anyone hoping
+to increase drama, slow the characters down, or create         to hack the system. The same is often true for other
+obstacles that they must overcome. Such incompat-              networks and facilities.
+ibilities are more likely to arise when dealing with
+outdated systems or devices, or at least ones that are         ISSUING COMMANDS
+unlikely to have the latest patches and software up-           Characters may issue commands to any slaved device
+dates. Incompatibilities can also be used as a drawback        or teleoperated bot (see Shell Remote Control, p. 196)
+to acquiring software from untrustworthy sources.              with a Quick Action. Each command counts separately,
+   Conflicting software issues are going to have one of        unless the character is issuing the same command to
+two effects. Either the software will simply not work          multiple devices/drones.
+with certain devices, or it will inflict a –10 to –30
+modifier due to instabilities and glitches. If the game-       DISTANCE LAG
+master allows it, a character may reduce this penalty          Anytime you extend your communications over great
+by patching up the software, requiring a successful            distances, you run into the risk of time lags. Most
+Programming Task Action (1 day). For every 10 points           communications are restricted to “local” for this
+of MoS, reduce the incompatibility modifier by 10.             reason, which generally means your local habitat
+                                                               and any others within 50,000 kilometers. On plan-
+TRAFFIC FILTERS AND MIST                                       etary bodies like Mars, Venus, Luna, or Titan, “local”
+Mesh networks and AR are overrun with yottabytes of            encompasses all of the habitats and linked mesh net-
+information. Though mesh inserts and ectos can deal            works on that planetary body.
+with a lot of data traffic in terms of bandwidth and             If a character is searching the mesh beyond their
+processing power, using filters to weed out unwanted           local area, the most efficient way is to transmit a search
+traffic is quite simply a necessity. This is especially true   AI (usually a copy of your muse) or a fork to the non-
+of AR, where unwanted entoptics can clutter your               local area, which will then run its search and return
+vision and distract you. Nevertheless, entoptic spam of        completed results. This process does, however, add to
+many flavors—advertisements, political screeds, porn,          the time of transmission to the timeframe (i.e., search-
+scams—do their best to bypass these filters, and in            ing the mesh of a station 10 light-minutes away adds
+many areas the amount of unfiltered entoptics can be           20 minutes to the search as the search is transmitted
+overwhelming—a phenomenon colloquially referred                over and the results are transmitted back). Since long-
+to as “mist.”                                                  distance communications are sometimes interfered with

@@ -1,0 +1,118 @@
+ shielded and surge-protected, this has no major
+ damaging effect. Antennas, however, are vulnerable,
+ especially finer wires like those used with mesh inserts.
+ As a result, the primary effect of EMP is to disable
+ radio communications—every radio within range of
+ the blast is reduced to 1/10th the normal range. The
+ base blast radius for EMP is 50 meters. [High]
+    Frag: Fragmentation explosives spread a cloud of
+ lethal flechettes over the area of effect. They are re-
+ sisted with kinetic armor. [Moderate]
+    Gas/Smoke: Gas/smoke munitions emit a cloud of
+ their contained substance. Smoke impedes sight by
+ releasing thick fumes upon ignition of the seeker. The
+ smoke can be of any color and is often heated (called
+ thermal smoke) to obfuscate heat signatures moving
+ through the smoke as cover. Note that gases dissipate
+ much more quickly under certain environmental con-
+ ditions (wind, rain, etc.) [Low]
+    High-Explosive: High-explosive seekers and gre-
+ nades are designed to create a very destructive shock
+ and heat wave. This damage is resisted with energy
+ armor. [Moderate]
+    High-Explosive Armor-Piercing (HEAP): A design
+ only available for seekers (not grenades), HEAP
+ warheads use high explosives to blast a path for
+ a penetrating round. HEAPs lose –4 damage per
+ meter distance from the blast, as opposed to the
+ usual –2. [Moderate]
+    Overload: Overload grenades and seekers launch an
+ all-out assault on the target’s sensory spectrum. This
+ attack includes blinding by intense flashing light, a
+ deafening thunderclap followed by intense ultrasonic
+ screaming, nausea-inducing malodorants, and infra-
+ sonic frequencies that can trigger unpleasant emotion-
+ al responses (anxiety, uneasiness, extreme sorrow, ner-
+ vous feelings of revulsion or fear). For an extra kick,
+ overloads are also packed with “stingballs”—rubber
+ pellets that inflict pain when detonated near an under-
+ armored target. Anyone caught in the base 10-meter
+ blast radius must make a SOM + WIL Test. If they fail,
+ they must immediately leave the area of effect. If they
+ fail with an MoF of 30+, they are incapacitated for
+ 3 Action Turns with disorientation and/or vomiting,
+ after which they must roll again. Overload munitions
+
+
+
+                                      GRENADES
+GRENADE/SEEKER TYPE                    AP
+Concussion                              —
+Frag                                    –4
+EMP                                     —
+Gas/Smoke                               —
+High-Explosive                          —
+HEAP                                    –8
+Overload                             (AV x 2)
+Plasmaburst                             –6
+Splash                                  —
+Thermobaric                            –10
+   remain in effect for 1 full minute. Anyone in the area
+   of effect suffers a –30 action modifier, which reduces
+   by 10 per Action Turn after they leave the area. Ad-
+   ditionally, anyone facing the direction of the overload
+   round suffers a –10 glare modifier (neutralized by
+   anti-glare systems). [Moderate]
+      Plasmaburst: Also called “hellballs,” these muni-
+   tions release a burst of plasma upon detonation that
+   causes searing heat and fire damage across the area of
+   effect without the devastating shockwaves of explo-
+   sions that might rebound in an enclosed environment
+   and/or breach a habitat’s infrastructure. [High]
+      Splash: Splash rounds spread a contained substance
+   (drug, chemical, nanoswarm, paint) over a base 10-
+   meter blast radius when they detonate. [Low plus
+   payload cost]
+      Thermobaric: Thermobaric grenades and seekers
+   utilize a more deadly form of explosion. When they
+   detonate, they disperse a cloud of aerosol explosive
+   over an area and then ignite, literally setting the air
+   on fire, generating a devastating pressure wave, and
+   sucking the oxygen out of the area. Thermobarics use
+   the rules for uniform blast (p. 194). [High]
+
+   STICKY GRENADES
+   Sticky grenades have a special coating that when trig-
+   gered becomes a sticky adhesive, allowing the grenade
+   to be stuck to almost any surface. Sticky grenades can
+   even be wielded in melee combat, smacking them on
+   an opponent to be detonated later. [Trivial]
+
+   EXOTIC RANGED WEAPONS
+  These weapons are either rare or distinctly separate
+  from other weapons types. These weapons are wielded
+  with an Exotic Ranged Weapon skill of the appropri-
+  ate field.
+     Vortex Ring Gun: This less-lethal two-handed
+  weapon detonates a blank cartridge and accelerates
+  the explosive pressure down a widening barrel so that
+  it develops into a high-speed vortex ring—a spinning,
+  donut-shaped blast vortex. This concussive blast is
+  used to knock down and incapacitate close-range
+  targets. Struck targets suffer a –10 action modifier for
+  the rest of that Action Turn and must must succeed in
+
+
+
+ND SEEKERS
+  DV              AVERAGE DV      ARMOR USED TO RESIST
+1d10 ÷ 2                5                    E
+3d10 + 6               22                    K
+  —                    —                    —
+  —                    —                    —
+d10 + 10               26                    E
+d10 + 12               28                    K
+1d10 ÷ 2                5                    K
+d10 + 10               26                    E
+  —                    —                    —
+3d10 + 5               21                    E

@@ -1,0 +1,60 @@
+tools, and an advanced nanotechnology generator             radar or x-rays. The drawback is that anything con-
+capable of producing nanobots that can bore or cut          cealed within the cloak can’t see out. This is easily
+through almost any material and disable or open             overcome by using external sensor feeds (if available)
+almost any electronic lock.                                 and entoptics to navigate. Alternately, a small piece of
+   Cutting out a lock or boring a 1-millimeter hole in      anti-cloak, which cancels the cloak’s invisibility prop-
+a wall with a COT requires ((Durability + Armor) ÷          erties when touched together, can be used to create a
+10) seconds. Cutting out a 1-meter diameter hole in         small window to peep out of, though this increases
+a wall requires ((Durability + Armor) ÷ 10) minutes.        the chance of being spotted. Noticing such a window
+These same nanobots can later be used to repair this        requires a Perception Test with a –30 modifier. [High]
+damage so that it is invisible to any but the most care-       Microbug: This device is a tiny camera and micro-
+ful and detailed examination.                               phone 1 millimeter across. It has the visual capabili-
+   A COT can easily open any old-fashioned mechani-         ties of a set of specs (p. 325). It can hear everything
+cal lock simply by analyzing it and shaping an ap-          within 20 meters and see everything within the same
+propriate key, though this takes a full Action Turn.        range that is in its line of sight. A microbug can record
+It can also open electronic locks by infiltrating them      up to 100 hours of information. Microbugs can be
+with nanobots that influence the lock’s electronics,        set to broadcast continuously, at set intervals, or only
+no matter what authentication system the lock uses.         when they receive a special signal. If desired, they
+Opening electronic locks takes a full Action Turn, but      can also be set to only record if there is movement
+success is practically guaranteed. Opening an elec-         or voices in the room they are in. Microbugs have
+tronic lock in this manner will, however, trigger an        adhesive backs and can stick to almost any surface.
+alarm and/or be logged as an event. For more details,       Microbugs can also establish their location via mesh
+see Electronic Locks, p. 291. [High]                        positioning or GPS, and so double as tracking devices.
+   Cuffband: This smart plastic loop restricts around       To avoid being detected by their radio transmissions,
+a prisoner’s limbs when activated. If the prisoner          some microbugs are attached to miniature quantum
+struggles, it will tighten more. Cuffbands will inform      farcasters (p. 314). These microbugs are much larger
+the user if they are cut or loosened and are electron-      (1 centimeter) and easy to see, but their transmissions
+ically-controlled, so the user can release the prisoner     cannot be detected or blocked. [Trivial, Low for quan-
+remotely. Some cuffband variants including a shock          tum farcaster bugs]
+system (treat as a shock baton, p. 334) to zap and             Prisoner Mask: This hood tightens around the
+restrain unruly prisoners. [Low]                            head of a prisoner, blocks all vision frequencies, and
+   Dazzler: The dazzler is a tiny laser system set on       engages in low-level jamming in order to prevent any
+a rotating ball. When activated, it consistently spins      wireless communication via mesh inserts. [Medium]
+and emits laser pulses in all directions. These laser          Psi Jammer: This device jams frequencies used
+pulses are not dangerous, but they detect the lenses        by brainwaves within a 20-meter radius. This has
+of camera systems (including specs, viewers, and bot/       no effect on brain functions, but it does prevent
+synthmorph sensors) and repeatedly zap them with            any ranged used of psi sleights within this area of
+laser pulses of varying strength to overload and dazzle     effect. [Moderate]
+them. For as long as a dazzler is active, any camera           Quantum Computer: These advanced devices
+system (visual, infrared, and ultraviolet) within line      make use of quantum computation, allowing them
+of sight and within 200 meters is blinded. [Moderate]       to handle extremely large numbers with ease. This
+   Disabler: This handy device emits an overloading         makes them especially useful for codebreaking, as
+surge that completely incapacitates and disables a          noted on p. 254. [Expensive]
+synthetic morph or pod (anything with a cyberbrain)            Smart Dust: This device is a walnut-sized special-
+when it is plugged into an access jack and activated.       ized nanobot generator that creates tiny sensor nano-
+The affected cyberbrain will be unable to function until    bots, each one of which is a tiny sphere the diameter
+the signal is deactivated, effectively shutting down the    of a human hair. A packet of smart dust nanobots is
+ego (or AI). In order to plug a disabler into an unwill-    sufficient to perform detailed surveillance on a large
+ing target, the target must first be grappled or a called   room like an auditorium has a volume of 1 cubic
+shot must be successfully made in melee combat. This        centimeter and contains 3 million nanobots. Each
+device does not work on larger synthetic morphs (like       nanobot contains tiny cameras, microphones, a tiny
+vehicles) or on cyberbrainless robots.[High]                computer, a radio, and chemical sensors, as well as
+   Fiber Eye: This is a flexible and electronically-con-    short legs that allow them to walk and climb at a rate
+trollable length of fiberoptic cable and viewer, which      of 5 cm per second.
+can be worked through cracks, under doors, and                 When a character dumps a packet of smart dust in
+around corners to peep unobtrusively. [Low]                 a room, it will cover every surface in the room within
+   Invisibility Cloak: This cloak is made of metama-        20 minutes, including all furniture and the insides
+terials with a negative refractive index, so that light     of every drawer and other space that is not airtight.
+actually bends around it, making it and anything it         At this point, the smart dust has recorded all data
+covers invisible. This invisibility works from the          about the room that can be obtained by exceedingly
+microwave to ultraviolet spectrums, but not against         detailed observation, including the DNA of everyone

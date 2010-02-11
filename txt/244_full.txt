@@ -1,0 +1,57 @@
+features such as ego authentication and public key             On rare occasions, office environments are run
+encryption. VPNs are regularly used to mesh mobile          in simulspace with time dilation to maximize effi-
+offices into a corporate network or mesh people to-         ciency. Since this requires the workers to access a
+gether who work on or contribute a certain project.         centralized wired network and leave their bodies
+Other VPNs—particularly social networks and rep             unattended while accessing simulspace, however, it
+networks—operate with minimal security features,            requires an extra level of physical security that is
+simply serving as a network of specific users within        typical only of some governmental installations and
+the mesh and making it easier to keep in touch,             corporate habitats.
+transfer information, make updates, and so on. Most
+VPNs come as specialized software suites that run
+custom environmental software that integrates into          ISLANDS IN THE NET
+the user’s normal mesh interface and AR.                    In the time of Eclipse Phase, information can become
+                                                            outdated quite fast, and the accessibility of new infor-
+SOCIAL NETWORKS                                             mation depends on your location. It’s easy to keep up-
+Social networks are the fabric of the mesh, weaving         to-date on your local habitat/city or planetary body,
+people together. They are the means by which most           but keeping current on events elsewhere is typically
+people keep in contact with their friends, colleagues,      reliant on the speed of light.
+and allies, as well as current events, the latest trends,      If you happen to be in a station in the Kuiper Belt,
+new memes, and other developments in shared                 on the edge of the solar system 50 astronomical units
+interests. They are an exceptionally useful tool for        from the terrestrial inner planets, waiting on a mes-
+online research, getting favors, and meeting new            sage from Mars, the signal carrying the message will
+people. In some cases, they are useful for reaching         be roughly seven hours old when it reaches you. Of
+or mobilizing masses of people (as often illustrated        course it will only reach you that fast if you are using
+by anarchists and pranksters). There are thousands          quantum farcast, which is only limited by the speed
+of social networks, each serving different cultural         of light (not to mention rare and expensive in most
+and professional interests and niches. Most social          habitats). If you are not using a quantum farcaster,
+networks allow users to feature a public profile to         the signal may take even longer and is prone to in-
+the entire mesh and a private profile that only those       terference and noise, deteriorating the quality and
+close to them can access.                                   possibly losing some of the content, especially over
+  Reputation plays a vital part in social networks,         major distances. Whenever you start dealing with
+serving as a measure of each person’s social capital.       communication between habitats, you have to factor
+Each person’s reputation score is available for lookup,     in the light-speed lag, the amount of time it takes
+along with any commentary posted by people who              even the fastest transmission to reach you. This lag
+favored or disfavored them and rebuttals by the user.       works both ways, so trying to hold a conversation
+Many people automate their reputation interactions,         with someone just 5 light-seconds away means that
+instructing their muse to automatically ping some-          you’re waiting at least 10 seconds to get the reply
+one with a good review after a positive action and          to whatever you just said. For this reason, AR and
+to likewise provide negative feedback to people with        VR communications are almost always conducted lo-
+whom the interaction went poorly.                           cally, while standard messaging is used for nonlocal
+                                                            communications. For detailed discussions, it is often
+MOBILE OFFICES                                              simpler to send a fork of yourself (p. 273) to have the
+Due to the lack of office space and the wireless ac-        conversation and then return.
+cessibility of most information, most businesses              Quantum-entanglement communicators (p. 314)
+now operate virtually, with few or no fixed offices         are one solution to this light-speed lag, although a
+or even assets. Instead, individuals have become their      burdensome and expensive one. QE comms allow
+own mobile office. Bit-pushers and bureaucrats like         for faster-than-light communication to an entangled
+hypercorp executives, clerical workers, accountants,        communicator, though each transmission uses up a
+and researchers—as well as innovators like artists,         precious amount of quantum-entangled bits, which
+writers, engineers, and designers—work wherever             are in limited supply.
+they want to.                                                 Transmissions made between habitats almost
+  The most prominent example of this phenomenon             always occur via each station’s massive data relays,
+are the bankers of the Solaris hypercorp. Each em-          where they are then distributed into the local mesh.
+ployee acts as a mobile one-person banking office,          This bottleneck is often used by authoritarian habitats
+managing transactions via Solaris’s robust VPN.             to monitor data transmissions and even filter or censor
+                                                            certain public non-encrypted content. Some messages
+                                                            are also prioritized over others, potentially meaning
+                                                            further delays.

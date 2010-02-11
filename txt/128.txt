@@ -1,0 +1,29 @@
+category, which is used during character generation
+and any time the gamemaster wants to keep costs
+simple. See the Gear Costs table on p. 137.
+
+IMPLANTS
+Implants include cybernetic, bionic, genetech, and
+nanoware enhancements to your character’s morph
+(or mechanical enhancements in the case of a synthetic
+shell). These implants may give your character special
+abilities or modify their stats, skills, or traits. Some
+morphs come pre-equipped with implants, as noted in
+their descriptions (see p. 139). You may also special-
+order morphs with specific implants (see Morph Ac-
+quisition, p. 277). If you want to upgrade a morph
+you are already in, you can undergo surgery or other
+treatments to have an enhancement installed (see
+Healing Vats, p. 326. For a complete list of available
+implant/enhancement options, see pp. 300-311, Gear.
+
+PSI
+Psi is a rare and anomalous set of mental abilities that
+are acquired due to infection by a strange nanovirus
+released during the Fall. Psi abilities are not completely
+understood, but they give characters certain advan-
+tages—as well as some disadvantages. A character
+requires the Psi trait (p. 147) to use psi abilities, which
+are called sleights. Psi users are called asyncs. A full
+explanation of psi and details on the various sleights
+can be found in the Mind Hacks chapter, p. 216.

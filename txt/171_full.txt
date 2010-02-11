@@ -1,0 +1,66 @@
+VENUSIAN NEGOTIATOR
+           APTITUDES  COG      COO       INT    REF     SAV        SOM     WIL
+            Base       15       15        15     10      20         15     15
+     Morph Bonus                5                        10                 5
+            Total       15      20        15     10      30        15       20
+
+
+
+
+     MOX TT           LUC        IR        WT    DUR     DR
+                                                               STATS
+                                                                   INIT     SPD
+      5  6 (8)       30 (40)   60 (80)      7     35     53         50       1
+
+
+
+                                                              SKILLS
+                                                          MORPH
+                                         APT    BASE      BONUS           TOTAL
+           Academics: Memetics           COG     70                         70
+         Academics: Psychology           COG     60                         60
+           Academics: Sociology          COG     60                         60
+                     Art: Rhetoric       INT     55                         55
+                      Art: Speech        INT     60                         60
+                        Deception        SAV     60           10            70
+                              Fray       REF     25                         25
+       Interests: Cultural Memes         COG     60                         60
+           Interests: Hypercorps         COG     50                         50
+ Interests: Inner System Politics        COG     60                         60
+                      Intimidation       SAV     50           10            60
+                     Investigation       INT     55                         55
+                          Kinesics       SAV     70           10            80
+        Language: Native Arabic          INT     85                         85
+             Networking: Firewall        SAV     50           10            60
+         Networking: Hypercorps          SAV     50           10            60
+              Networking: Media          SAV     60           10            70
+                       Perception        INT     45                         45
+                       Persuasion        SAV     50           10            60
+                    Pilot: Aircraft      REF     20                         20
+               Pilot: Groundcraft        REF     20                         20
+    Profession: Culture Jamming          COG     50                         50
+          Profession: Media Ops          COG     60                         60
+         Profession: Spin Control        COG     55                         55
+                          Protocol       SAV     60           10            70
+                   Psychosurgery         COG     45                         45
+                        Research         COG     45                         45
+                                                                                  Background: Reinstantiated
+                                                                                  Faction: Venusian
+                                                                                  Morph: Sylph
+                                                                                  Motivations: +Fame +Personal Career +Venusian S
+
+                                                                                  TRAITS                              Implants: Ba
+You are known as a communica-             a frenzy. Your social manipulation      Ego: Common Sense ■                   Basic Mes
+tor and deal-maker, but you are           skills work even better face-to-        Morph: Striking Looks (Level 1) ■     Metabolism
+perhaps best described as a social        face, where you can run rhetori-                                              Endocrine
+engineer. In an age of mimetic            cal circles around opponents and        REP                                   Pheromon
+skirmishes, you excel in shaping          scan body language and microex-         c-rep:    80                          Mnemonic
+policy and public opinion. A night-       pressions to spot the slightest hint    f-rep:    60                          Nanophag
+mare combination of marketing             of untruthfulness or deception. You     i-rep:    60                        Gear: Backup
+agent and political ofﬁcer, you are       excel at fostering dissension and                                             (1 month),
+adept at media relations, spin con-       fragmenting loyalties, ultimately       EQUIPMENT                             Recognitio
+trol, suppressing dangerous ideas,        getting others to do exactly what       Armor: Armor Clothing [3/4] ■         Bots, Mus
+psychological warfare, ideological        you want while convincing them          Primary Weapon: None ■                Specs, Tra
+purity, and whipping a crowd into         it’s in their own best interests. ■     Starting Credit: 5,700 ■
+
+                    “It’s time we discussed these rumors of Planetary Consortium interference in Morningstar’s affairs.”

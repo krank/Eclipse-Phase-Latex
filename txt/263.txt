@@ -1,0 +1,128 @@
+a great way for a hacker to subvert a system without
+necessarily being in danger when they do it.
+   Scripts can be programmed on the fly or prepro-
+grammed. When composing the script, the character
+must detail what system operations the set will call
+for, in what order and at what times (or at what trig-
+ger steps). The script cannot contain more steps/tasks
+than the character’s Programming skill ÷ 10 (round
+down). To program a script, the character must suc-
+ceed in a Programming Test with a timeframe deter-
+mined by the gamemaster.
+   To load the script, the character must have suc-
+cessfully intruded in the system and must succeed
+in an Infosec Test (or an Opposed Infosec Test if the
+system is actively monitored). If successful, the script
+is loaded into the system and will run as programmed.
+   Once the script is activated, it carries out the pre-
+programmed sequence of actions. The programmer’s
+Infosec skill is used for any tests those actions call for.
+   Inactivated scripts may be detected in a security
+audit, just like backdoors (p. 260).
+
+
+           Sarlo has inﬁltrated a security system and wants
+           to arrange it so that a particular security sensor
+           deactivates and a door unlocks at a set time, al-
+           lowing his team to inﬁltrate a high-security area.
+           He creates a script that will activate at 2200 hours
+           with the following steps:
+           1) At 2200 hours, disable security sensor
+           2) Then unlock door
+ EXAMPLE
+
+
+
+
+           3) At 2230 relock door
+           4) Then re-enable security sensor
+           5) Eliminate traces
+              This script has 5 steps, which Sarlo can handle
+           with his Programming skill of 70. Sarlo succeeds in
+           his Programming and Infosec Tests, and the script
+           is loaded. It will then activate at the appropriate
+           time. Since Sarlo’s account did not have access
+           rights to perform these actions, each will require
+           an Infosec Test using Sarlo’s skill to succeed.
+
+
+
+
+CYBERBRAIN HACKING
+Pods and synthmorphs (including some bots and ve-
+hicles) are equipped with cybernetic brains. While this
+technology allows a transhuman ego to sleeve into and
+control these forms, they carry the disadvantage of being
+vulnerable to hacking, like any other electronic device.
+   Cyberbrains are not wireless-enabled for security
+reasons, but they do have access jacks (p. 306) and
+are directly linked to mesh inserts. This means that
+in order to hack a cyberbrain, the hacker either must
+have direct physical access to the morph’s body in
+order to jack in, or they must first hack into the mesh
+inserts and then break into the cyberbrain from there.
+   Due to their importance, cyberbrains are equipped
+with numerous hard-coded security features that make
+intrusion very difficult. Apply a –30 modifier to all
+attempts to hack into and subvert a cyberbrain. (Note
+that the –30 modifier for hacking an admin account
+does not apply to cyberbrains.)
+  Cyberbrains are treated just like other systems for
+intrusion and subversion purposes, but since they
+house the morph’s controlling ego they present several
+unique hacking opportunities.
+
+ENTRAPMENT
+An intruding character can attempt to lock in an ego,
+preventing it from evacuating the cyberbrain. The
+hacker (with the –30 modifier noted above) must
+beat the defending character or muse in an Opposed
+Infosec Test. If successful, the ego is prevented from
+transferring itself to another system.
+  To fully pen the ego in, the ego character and its
+protecting muse must also be locked out (p. 257) from
+controlling the cyberbrain’s system, otherwise the ego
+could potentially be freed.
+   Trapped egos are quite vulnerable. They could, for
+example, be subject to enforced uploading, enforced
+forking, or psychosurgery.
+
+MEMORY HACKING
+All cyberbrains incorporate mnemonic augmentation
+(p. 307), or digitally recorded memories. A hacker
+who has accessed the cyberbrain can read, alter, or
+delete these memories with a successful Research or
+Interfacing Test (the –30 modifier applies).
+
+PUPPETEERING
+Cyberbrains also incorporate a puppet sock (p. 307),
+enabling remote users to take over the pod or synth-
+morph body and control it via teleoperation or jam-
+ming (p. 196). This allows a hacker to seize control
+of the body and manipulate it remotely. To do so, the
+hacker must take a Complex Action and beat the de-
+fending character or muse in an Opposed Infosec Test;
+the hacker suffers the –30 modifier noted above.
+   A defender who is not locked out may continue
+to fight for control of the morph, using a Complex
+Action. In this case, another Opposed Infosec Test
+is called for. This can result in a situation where the
+morph repeatedly slips control from the hacker to the
+defender, or perhaps slips into a catatonic state as the
+two sides battle it out.
+
+SCORCHING
+Having direct access to a cyberbrain opens the possi-
+bility for certain kinds of attacks that are normally in-
+feasible due to the strict content filtering that occurs on
+the link between the cyberbrain and mesh inserts. One
+of these possibilities is scorching—the use of damaging
+                                   —the
+neurofeedback algorithms to harm the victim’s mind.
+   In order to make a scorching attack, the cyberbrain
+intruder must deploy a scorch program. To utilize a
+scorch program, the intruder must beat the defending
+Ego in an Opposed Infosec Test. The –30 modifier for
+cyberbrain hacking applies to the attacker.
+   Several types of scorch programs exist, with dif-
+ferent effects: cauterizers (damage), bedlams (stress),

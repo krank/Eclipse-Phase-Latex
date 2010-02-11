@@ -1,0 +1,109 @@
+BARSOOMIAN FREE
+
+
+                                                          A
+
+
+
+
+                                                       Inte
+
+
+
+
+an
+n
+
+ rship +Martian Liberation +Sousveillance
+
+
+                   Starting Credit: 1,450 ■
+n (Narcoal-        Enhancements: Access Jacks,
+ d Behavior          Basic Mesh Inserts, Cortical
+ Tendencies) ■       Stack, Cyberbrain, Enhanced
+ma (Clanking         Hearing, Enhanced Smell,           Pro
+ y Valley ■          Enhanced Vision, Lidar,
+                     Mnemonic Augmentation,
+                     Radar, T-Ray Emitter ■
+                   Gear: Backup Insurance
+                     (1 month), Covert Ops Tool,
+                     Facial/Image Recognition         Thank
+                     Software, Gnat Bots (3),         ubiqui
+                     Linkstate Narcoalgorithm,        crowd
+                     Microbugs (5), Muse,             report
+                                                      can st
+                     Radio Booster, Repair Spray,
+                                                      tion, h
+2/2] ■               Saucer Bot, Speck Bots (2),      schoo
+hredder              Smart Dust, Tracking Software,   raking
+                     Trike Exoskeleton ■              and in
+                                                      helped
+                                     “What? No, I’m not rec
+          Anything you have to say about the Hellas massac
+ ANCE JOURNALIST
+          APTITUDES
+              COG      COO       INT     REF      SAV       SOM    WIL
+     Base      15       10        20      10       20        15    15
+rph Bonus                                  5                 5
+     Total      15       10       20      15       20        20     15
+
+
+
+
+OX     TT      LUC       IR      WT      DUR      DR
+                                                            STATS
+                                                         INIT      SPD
+        6       30       60       8       40      80    60 (70)     1
+
+
+
+                                                        SKILLS
+                                                    MORPH
+                                 APT      BASE      BONUS         TOTAL
+  Academics: Memetics            COG       55                       55
+emics: Political Science         COG       35                       35
+Academics: Psychology            COG       45                       45
+       Art: Performance          INT       60                       60
+               Art: Writing      INT       50                       50
+                Deception        SAV       50                       50
+                       Fray      REF       40           5           45
+              Freerunning        SOM       45           5           50
+                  Gunnery        INT       45                       45
+     Hardware: Robotics          COG       55                       55
+                Inﬁltration      COO       35                       35
+                    Infosec      COG       40                       40
+s: Inner System Rumors           COG       55                       55
+ erests: Martian Politics        COG       55                       55
+erests: Post-Fall History        COG       45                       45
+               Interfacing       COG       40                       40
+              Intimidation       SAV       20                       20
+            Investigation        INT       60                       60
+                  Kinesics       SAV       60                       60
+ uage: Native Mandarin           INT       90                       90
+      Language: English          INT       40                       40
+        Language: Hindi          INT       40                       40
+etworking: Autonomists           SAV       50                       50
+    Networking: Criminal         SAV       40                       40
+Networking: Hypercorps           SAV       50                       50
+     Networking: Media           SAV       60                       60
+               Perception        INT       50                       50
+               Persuasion        SAV       50                       50
+            Pilot: Aircraft      REF       50           5           55
+       Pilot: Groundcraft        REF       20           5           25
+ ion: Social Engineering         COG       50                       50
+                  Protocol       SAV       40                       40
+                 Research        COG       55                       55
+         Spray Weapons           COO       30                       30
+       Unarmed Combat            SOM       45           5           50
+he mesh, lifelogging, XP, and     the cyberdemocratic facade. You make
+ surveillance, journalism is a    a sport out of bypassing the hypercorp
+ced industry—everyone is a        content filters and initiating subver-
+ ard work, skill, and attitude    sive memes. Equal parts investigator,
+ rn you a name and recogni-       paparazzi, adventurer, and activist, you
+ver. Your committment to old      embrace a gonzo journalist style that
+ estigative journalism and        borders on entertainment. You prefer
+muck that the power brokers       synths because they are innocuous and
+nce peddlers wallow in has        employ numerous drones and electronic
+ose the puppet strings behind     spies to obtain the real story. ■
+ ing.
+ s strictly between you and me.”

@@ -1,0 +1,115 @@
+ROLEPLAYING MUSES
+Muses should not be viewed as a mere tool for
+getting extra skills, but as an opportunity to
+enhance roleplaying. Though typical muse AIs
+are not complete intelligences (though they can
+be, see Infomorphs as Muses), their personality
+matrix is often quite sophisticated and they are
+very good at adapting to their user’s personality
+quirks. On the other hand, they share the same
+Real World Naiveté (p. 151) as AGI characters
+when it comes to understanding all the facets
+of transhuman behavior, social interaction,
+body language, or emotion. Their personalities
+are more non-human, abstract, alien, and less
+passionate than transhuman life forms, often
+leading to conceptual misunderstandings and
+miscommunications. Likewise, their creative
+capacities are limited, instead bolstered by an
+ability to calculate odds, run simulations and
+evaluate outcomes, and make predictions based
+on previous experiences.
+   Depending on the user’s stance towards sen-
+tient programs, muses can be viewed as intel-
+ligent toys, followers, servants, slaves, friends,
+or pets, which should somehow be reﬂected in
+game play. Most transhumans have also acquired
+a tendency to bond with a muse mentally due to
+its omnipresence and devotion to the user (like
+bonding to a child or puppy that then grows to
+be an adult). Therefore the subversion or even
+destruction of a muse personality is sometimes
+even equated with rape or murder.              ■
+
+
+
+
+  SOFTWARE MINDS
+ At their core, infomorphs are just programs and so
+ they are treated like other software in terms of rules.
+ They must be run on a specific personal computer or
+ server (see Computer Capabilities, p. 247). If that
+ device is shut down, the infomorph also shuts down
+ into a state of unconsciousness, restarting along with
+ the device (infomorphs may also shut themselves
+ down, though it is rare that they do so). If the device is
+ destroyed, the infomorph is killed along with it (unless
+ their data can somehow be extracted from any surviv-
+ ing components, perhaps resulting in a vapor, p. 274).
+ Infomorphs may copy themselves, though in some
+ places this is illegal and in most places is frowned
+ upon as it raises numerous ethical and legal questions.
+ For this reason many infomorphs that copy and trans-
+ fer themself to run on a new device will thoroughly
+ erase themselves off the old one.
+   As digital beings, infomorphs have no physical
+ mind, but it is a simple matter for them to possess
+ an uninhabited synthmorph, taking up residence in
+ the cyberbrain (see Resleeving Synthmorphs, p. 271).
+  INFOMORPHS AS
+  MUSES
+  Instead of relying on underdeveloped muses for
+  aid and companionship, characters may prefer to
+  have a full-ﬂedged digital intelligence at their
+  side, whether that be an AGI, a backed-up bio-
+  logical ego, or fork of the character’s own per-
+  sonality. Alternately, a character with a ghostrider
+  module (p. 307) could have both, carrying a muse
+  in their mesh inserts and an infomorph in the
+  ghostrider module.
+    This possibility is very useful for infomorph
+  player characters, as they can ride along in some-
+  one’s head and participate in team affairs with-
+  out needing a morph of their own.                 ■
+
+
+
+They may also download into biomorph bodies ac-
+cording to standard resleeving rules (p. 271). Even
+when disembodied, they may interact with the
+physical world via the mesh, viewing through sensors,
+streaming XP feeds, communicating with characters,
+commanding slaved devices, and teleoperating/jam-
+ming drones.
+   Infomorphs have a Speed of 3, reflecting their digi-
+tal nature and their ability to act at electronic speeds.
+If an infomorph sleeves into a body, however, it takes
+on the Speed of that morph.
+
+AGI CHARACTERS
+Though AGIs were not born in a biological body, their
+programming encompasses the full spectrum of human
+personality, outlook, emotions, and mental states. AGIs
+are in fact raised in a manner similar to human chil-
+dren, so that they are socialized much like humans are.
+Nevertheless, on a fundamental level they are non-hu-
+mans programmed to act human. There are inevitably
+points where the programming does not mask or alter
+the fact that AGIs often possess or develop personality
+traits and idiosyncrasies that are quite different from
+human norms and often outright alien.
+   Unlike standard crippled AIs, AGIs are capable of
+full-fledged creativity, learning, and self-improvement
+(at a slow but steady pace equivalent to humans). Just
+like other characters, they earn Rez points and may
+improve their skills and capabilities. AGIs suffer none
+of the skill limitations placed on weak AIs, using skills
+just like any other character.
+   On an emotional level, AGIs run emotional subrou-
+tines that are comparable to biological human emo-
+tions. AGIs are, in fact, programmed to have empathy
+and share an interest in human affairs and prosperity,
+and to place significant relevance on life of all kinds.
+In game terms, AGIs emote like humans (and so Kine-
+sics may be used against them) and are vulnerable to
+emotionally manipulative effects, fear, etc.

@@ -1,0 +1,60 @@
+movement. A smaller pair of manipulator arms near           REAPER
+the head allows for closer handling and tool use. In        The reaper is a common combat bot, used in place of
+zero-G environments, arachnoids can retract their           biomorph soldiers and typically operated via teleop-
+arms/legs and maneuver with vectored air thrusters.         eration or by autonomous AI. The reaper’s core form
+Enhancements: Access Jacks, Basic Mesh Inserts,             is an armored disc, so that it can turn and present a
+  Cortical Stack, Cyberbrain, Enhanced Vision, Extra        thin profile to an enemy. It uses vector thrust nozzles
+  Limbs (6 Arms/Legs), Lidar, Mnemonic Augmenta-            to maneuver in microgravity, and also takes advan-
+  tion, Pneumatic Limbs, Radar                              tage of an ionic drive for fast movement over distance.
+Mobility System: Walker (4/24), Thrust Vector (8/40)        Four legs/manipulating arms and four weapon pods
+Aptitude Maximum: 30                                        are folded inside its frame. The reaper’s shell is made
+Durability: 40                                              of smart materials, allowing these limbs and weapon
+Wound Threshold: 8                                          mounts to extrude in any direction desired and even
+Advantages: +5 COO, +10 SOM, Armor 8/8                      to change shape and length. In gravity environments,
+CP Cost: 45                                                 the reaper walks or hops on two or four of these limbs.
+Credit Cost: Expensive (minimum 40,000+)                    Reapers are infamous due to numerous war XPs, and
+                                                            bringing one into most habitats will undoubtedly raise
+DRAGONFLY                                                   eyebrows, if not get you arrested.
+The dragonfly robotic morph takes the shape of a            Enhancements: 360-Degree Vision, Access Jacks,
+meter-long flexible shell with multiple wings and ma-          Anti-Glare, Basic Mesh Inserts, Cortical Stack,
+nipulator arms. Capable of near-silent turbofan-aided          Cyberbrain, Cyber Claws, Extra Limbs (4), Heavy
+flight in Earth gravity, dragonfly bots fare even better       Combat Armor, Magnetic System, Pneumatic Limbs,
+in microgravity.                                               Puppet Sock, Radar, Reflex Booster, Shape Adjusting,
+Enhancements: Access Jacks, Basic Mesh Inserts, Cor-           Structural Enhancement, T-Ray Emitter, Weapon
+   tical Stack, Cyberbrain, Mnemonic Augmentation              Mount (Articulated, 4)
+Mobility System: Winged (8/32)                              Mobility System: Walker (4/20), Hopper (4/20), Ionic
+Aptitude Maximum: 30 (20 SOM)                                  (12/40), Vectored Thrust (4/20)
+Durability: 25                                              Aptitude Maximum: 40
+Wound Threshold: 5                                          Speed Modifier: +1 (Reflex Booster)
+Advantages: Flight, +5 REF, Armor (2/2)                     Durability: 50 (60 with Structural Enhancement)
+CP Cost: 20                                                 Wound Threshold: 10 (12 w/Structural Enhancement)
+Credit Cost: High                                           Advantages: 4 Limbs, +5 COO, +10 REF (+20 with
+                                                               Reflex Booster), +10 SOM, Armor 16/16
+FLEXBOTS                                                    CP Cost: 100
+Designed for multi-purpose functions, flexbots can          Credit Cost: Expensive (minimum 50,000+)
+transform their shells to suit a range of situations
+and tasks. Their core frame consists of a half-dozen        SLITHEROIDS
+interlocking and shape-adjustable modules capable           Slitheroid bots are synthetic shells taking the form of
+of auto-transforming into a variety of shapes: multi-       a 2-meter-long segmented metallic snake, with two re-
+legged walker, tentacle, hovercraft, and many others.       tractable arms for tool use. Snake bots can coil, twist,
+Each module features its own sensor units and “bush         and roll their bodies into a ball or hoop, moving either
+robot” fractal-branching digits (each capable of break-     by slithering, burrowing, rolling, or pulling themselves
+ing into smaller digits, down to the micrometer scale,      along by their arms. The sensor suite and control com-
+allowing for ultra-fine manipulation). The flexbot          puter are housed in the head.
+control computer is also distributed between modules.       Enhancements: Access Jacks, Basic Mesh Inserts,
+Individual flexbots are only the size of a large dog, but      Cortical Stack, Cyberbrain, Enhanced Vision, Mne-
+multiple flexbots can join together for larger mass            monic Augmentation
+operations, even taking on heavy-duty tasks such as         Mobility System: Snake (4/16; 8/32 rolling)
+demolition, excavation, manufacturing, robotics as-         Aptitude Maximum: 30
+sembly, and so on.                                          Durability: 45
+Enhancements: Access Jacks, Basic Mesh Inserts, Cor-        Wound Threshold: 9
+   tical Stack, Cyberbrain, Fractal Digits, Mnemonic        Advantages: +5 COO, +5 SOM, +5 to one other apti-
+  Augmentation, Modular Design, Shape Adjusting                tude of the player’s choice, Armor 8/8
+Mobility System: Walker (4/16), Hover (8/40)                CP Cost: 40
+Aptitude Maximum: 30                                        Credit Cost: Expensive
+Durability: 25
+Wound Threshold: 5                                          SWARMANOID
+Advantages: Armor 4/4                                       The swarmanoid is not a single shell per se, but rather
+CP Cost: 20                                                 a swarm of hundreds of insect-sized robotic micro-
+Credit Cost: Expensive (minimum 30,000+)                    drones. Each individual “bug” is capable of crawling,
+                                                            rolling, hopping several meters, or using nanocopter

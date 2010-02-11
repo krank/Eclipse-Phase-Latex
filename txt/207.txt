@@ -1,0 +1,89 @@
+target (or group of targets), make a secret Perception
+Test for the ambushee(s). Unless they are alert for sur-
+prises, this test should suffer the typical –20 modifier
+for being distracted. This is an Opposed Test against
+the ambusher(s) Infiltration skill. Depending on the
+attacker’s position, other modifiers may also apply
+(distance, visibility, cover, etc.).
+   If the Perception Test fails, the character is surprised
+by the attack and cannot react to or defend against it. In
+this case, simply give the attacker(s) a free Action Phase
+to attack the surprised character(s). Once the attackers
+have taken their actions, roll Initiative as normal.
+   If the Perception Test succeeds, the character is
+alerted to something a split-second before they are
+ambushed, giving them a chance to react. In this case,
+roll Initiative as normal, but the ambushed character(s)
+suffers a –30 modifier to the Initiative Test. The am-
+bushed character may still defend as normal.
+   In a group situation, things can get more compli-
+cated when some characters are surprised and others
+aren’t. In this case, roll Initiative as normal, with all
+non-ambushers suffering the –30 modifier. Any charac-
+ters who are surprised are simply unable to take action
+on the first Action Phase, as they are caught off-guard
+and must take a moment to assess what’s going on
+and get caught up with the action. As above, surprised
+characters my not defend on this first Action Phase.
+
+TACTICAL NETWORKS
+Tactical networks are specialized software programs
+used by teams that benefit from the sharing of tacti-
+cal data. They are commonly used by sports teams,
+security outfits, military units, AR gamers, gatecrash-
+ers, surveyors, miners, traffic control, scavengers, and
+anyone else who needs a tactical overview of a situa-
+tion. Firewall teams regularly take advantage of them.
+   In game terms, tacnets provide specialized software
+skills and tools to a muse or AI, as best fits their tac-
+tical needs. These tools link together and share and
+analyze data between all of the participants in the
+network, creating a customizable entoptics display for
+each user that summarizes relevant data, highlights
+interactions and priorities, and alerts the user to mat-
+ters that require their attention.
+COMBAT TACNETS
+The following list is a sample of a typical combat tacnet’s
+features. Gamemasters are encouraged to modify and
+expand these options as appropriate to their game:
+
+  • Maps: Tacnets assemble all available maps and
+    can present them to the user with a bird’s eye
+    view or as a three-dimensional interactive, with
+    distances between relevant features readily acces-
+    sible. The AI or muse can also plot maps based
+    on sensory input, breadcrumb positioning sys-
+    tems (p. 332), and other data. Plotted paths and
+    other data from these maps can be displayed as
+    entoptic images or other AR sensory input (e.g.,
+    a user who should be turning left might see a
+    transparent red arrow or feel a tingling sensation
+    on their left side).
+  • Positioning: The exact positioning of the user and
+    all other participants are updated and mapped
+    according to mesh positioning and GPS. Likewise,
+    the positioning of known people, bots, vehicles,
+    and other features can also be plotted according
+    to sensory input.
+  • Sensory Input: Any sensory input available to a
+    participating character or device in the network
+    can be fed into the system and shared. This
+    includes data from cybernetic senses, portable
+    sensors, smartlink guncams, XP output, etc. This
+    allows one user to immediately call up and access
+    the sensor feed of another user.
+  • Communications Management: The tacnet
+    maintains an encrypted link between all users
+    and stays wary both of participants who drop
+    out or of attempts to hack or interfere with the
+    communications link.
+  • Smartlink/Weapon Data: The tacnet monitors the
+    status of weapons, accessories, and other gear via
+    the smartlink interface or wireless link, bringing
+    damage, shortages, and other issues to the user’s
+    attention.
+  • Indirect Fire: Members of a tacnet can provide
+    targeting data to each other for purposes of indi-
+    rect fire (p. 195).
+  • Analysis: The muses and AIs participating in
+    the tacnet are bolstered with skill software and

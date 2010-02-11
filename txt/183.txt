@@ -1,0 +1,112 @@
+to provide clues to players, especially when the subject
+matter is something their character might know well
+but the player does not.
+Specializations: Evidence Analysis, Logical Deductions,
+  Physical Investigation, Physical Tracking
+
+KINESICS
+Type: Active, Social
+Linked Aptitude: SAV
+   What it is: Kinesics is the art of empathy and non-
+vocal communication.
+   When you use it: Use Kinesics to read body language,
+tells, social cues, and other subconscious indicators. It
+can also be used to emote more effectively. Kinesics
+is used defensively whenever someone is trying to de-
+ceive you; make an Opposed Test against that person’s
+Deception or Impersonation skill.
+   Though synthetic morphs are also designed to
+emote, reading them is not as easy. Apply a –30 modi-
+fier when judging a synthetic morph inhabited by a
+character or AGI. Likewise, standard AIs are also dif-
+ficult to read; apply a –60 modifier when judging a
+synthetic morph or pod operated by an AI.
+Specializations: Judge Intent, Nonvocal Communication
+
+JUDGING EMOTIONS AND INTENTIONS
+Transhumans are empathic beings, and so you can
+attempt to gauge the demeanor and/or intent of
+someone you are dealing with by rolling a Kinesics
+Test. This attempt to read someone is far from exact,
+however, and it is easy to misjudge. The gamemaster
+should make this test in secret and only allow a hint
+if successful—it is not possible to read someone with
+absolute certainty. If the person being judged is inten-
+tionally trying to deceive the character, this should be
+an Opposed Test against their Deception skill.
+
+NONVOCAL COMMUNICATION
+Experts in Kinesics can effectively communicate
+with each other simply by posture, stances, gestures,
+demeanors, and looks. Such communication is nec-
+essarily limited in the amount of information it can
+convey, but feelings, attitudes, affirmation/negation,
+and simple concepts may be passed. To effectively
+communicate complex concepts, the gamemaster may
+require successful Kinesics Tests from both parties, ap-
+plying modifiers as appropriate.
+
+KINETIC WEAPONS
+Type: Active, Combat
+Linked Aptitude: COO
+   What it is: Kinetic Weapons covers the use and
+maintenance of standard kinetic projectile weapons
+like firearms and railguns (p. 335).
+   When you use it: Use this skill whenever attacking
+with a kinetic weapon in ranged combat (p. 191).
+Specializations: Assault Rifles, Machine Guns, Pistols,
+   Sniper Rifles, Submachine Guns
+  LANGUAGES IN
+  ECLIPSE PHASE
+  With the Fall of Earth, the languages that
+  remain most prominent in the solar system are
+  those that were extensively carried into space
+  by countries and hypercorps with aggressive
+  space programs or by the large populations
+  of poor laborers and infomorph refugees that
+  followed. No single language dominated the
+  realm of space expansion, and multilingual-
+  ism was common. Many habitats and (sub)
+  cultural groupings cling to speciﬁc languages
+  as a method of retaining cultural identity. De-
+  spite the availability of instant translation via
+  the mesh, many people remain versed in two or
+  more languages.
+    The ten most common languages in the solar
+  system by speaking populations are: Arabic,
+  Cantonese, English, French, Hindi, Japanese,
+  Mandarin, Portuguese, Russian, and Spanish.
+  Other languages that remain strong include
+  Bengali, Dutch, Farsi, German, Italian, Javanese,
+  Korean, Polish, Punjabi, Swedish, Tamil, Turkish,
+  Urdu, Vietnamese, and Wu. Some languages
+  were effectively lost during the Fall, especially
+  those in some undeveloped regions, as their
+  speaking populations did not migrate into space
+  pre-Fall and were not privileged enough to sur-
+  vive in large numbers as infomorph refugees. ■
+
+
+
+LANGUAGE: [FIELD]
+Type: Field, Knowledge
+Linked Aptitude: INT
+  What it is: Language covers the speaking and
+reading of languages other than the player’s native
+tongue. A speaker is considered fluent at a skill level
+of 50; anything above this indicates further refine-
+ment in technical vocabulary, accents, and knowl-
+edge of dialects.
+  When you use it: Use the Language skill whenever
+you want to speak, understand, or read something in
+a language at which you are skilled. Most speaking
+and reading comprehension tests can be considered
+Simple Success Tests if your skill is over 50, unless the
+gamemaster rules the subject is sufficiently complex
+that a non-native speaker would have trouble under-
+standing it.
+Sample Fields: Arabic, Cantonese, English, French,
+  Hindi, Japanese, Mandarin, Portuguese, Russian,
+   Spanish
+Specializations: As appropriate to the field, represent-
+   ing dialects, technical jargon, and subcultural slang

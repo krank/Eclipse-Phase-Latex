@@ -1,0 +1,137 @@
+SIMPLIFYING
+MODIFIERS
+Rather than looking up and accumulating a
+long list of modiﬁers for each action and doing
+the math, the gamemaster can instead choose
+to simply “eyeball” the situation and apply the
+modiﬁer that best sums up the net effect. This
+method is quicker and allows for easier test
+resolution. One way to eyeball the situation is
+to simply apply the most severe modiﬁer affect-
+ing the situation.
+
+
+           Tyska is trying to escape from some thing that’s
+           chasing him through a derelict habitat. The
+           gamemaster calls for a Freerunning Test, but
+           there are a number of modifying conditions: it’s
+ EXAMPLE
+
+
+
+
+           dark, he’s running with a ﬂashlight, and there’s
+           debris everywhere. Tyska, however, has an en-
+           toptic map of the best route out of there to help
+           him out. The gamemaster assesses the situation
+           and decides the overall effect is that the test is
+           challenging, and so a –20 modiﬁer is applied.
+
+
+NARRATIVE MODIFIERS
+If you wish to develop a more cinematic feel for
+your game, or if you simply wish to encourage
+your players to invest more detail and creativ-
+ity into the storyline, you can award “narrative
+modiﬁers” to a character’s test when that player
+describes what the character is doing in excep-
+tionally colorful, inventive, or dramatic detail.
+The better the detail, the better the modiﬁer.
+
+
+           Cole doesn’t just want his character to jump over
+           the table, he wants to make an impact. Cole tells
+           the gamemaster that his character kicks a chair
+           out of the way, rolls over the dinner table on
+ EXAMPLE
+
+
+
+
+           his shoulder, grabs a fork as he does it, makes
+           sure to knock all of the ﬁne china on the ﬂoor,
+           then lands on his feet in a defensive martial
+           arts posture, fork raised high. The gamemaster
+           decides the extra description is worth +10 to his
+           Freerunning Test.
+
+
+
+
+CRITICALS: ROLLING DOUBLES
+Any time both dice come up with the same number—
+00, 11, 22, 33, 44, etc.—you have scored a critical
+success or critical failure, depending on whether your
+roll also beat your target number. 00 is always a
+critical success, whereas 99 is always a critical failure.
+Rolling doubles means that a little something extra
+happened with the outcome of the test, either positive
+or negative. Criticals have a very specific application
+in combat tests (see p. 192), but for all other purposes
+the gamemaster decides what exactly went wrong or
+right in a specific situation. Criticals can be used to
+amplify a success or failure: you finish with a flour-
+ish or fail so spectacularly that you remain the butt
+of jokes for weeks to come. They can also result in
+some sort of unexpected secondary effect: you repair
+the device and improve its performance; or you fail
+to shoot your enemy and hit an innocent bystander.
+Alternately, a critical can be used to give a boost (or
+a hindrance) to a follow-up action. For example, you
+not only spot a clue, but you immediately suspect it
+to be red herring; or you not only fail to strike the
+target, but your weapon breaks, leaving you defense-
+less. Gamemasters are encouraged to be inventive with
+their use of criticals and choose results that create
+comedy, drama, or tension.
+
+
+  Audrey is attempting to intimidate a low-level
+  triad mook into giving her information. Unfortu-
+  nately she rolls a 99—a critical failure. Not only
+  does she fail to scare the guy, but she accidentally
+                                                          EXAMPLE
+
+
+
+
+  lets slip an important piece of information that she
+  didn’t want the triad to know. If she rolled a 00
+  instead—a critical success—she would browbeat
+  the man so thoroughly that he throws in some
+  extra important information just so she’ll leave
+  him alone in the future.
+
+
+DEFAULTING: UNTRAINED SKILL USE
+Certain tests may call for a character to use a skill they
+don’t have—a process called defaulting. In this case,
+the character instead uses the rating of the aptitude
+(see p. 123) that is linked to the skill in question as the
+target number.
+   Not all skills may be defaulted; some of them are
+so complex or require such training than an unskilled
+character can’t hope to succeed. Skills that may not be
+defaulted on are noted on the Skill List (p. 176) and in
+the skill description.
+   In rare cases, a gamemaster might allow a character
+to default to another skill that also relates to a test
+(see p. 173). When allowed, defaulting to another skill
+incurs a –30 modifier.
+
+
+  Toljek is trying to casually sneak inside a hyper-
+  corp facility when he unexpectedly runs into a
+  hypercorp employee. The woman he’s encountered
+  doesn’t necessarily have grounds to be suspicious
+                                                          EXAMPLE
+
+
+
+
+  of Toljek’s presence, but the gamemaster calls for
+  Toljek to make a Protocol Test to pass himself off as
+  someone that belongs there. Unfortunately, Toljek
+  doesn’t have that skill, so he must default to its
+  linked aptitude, Savvy, instead. His Savvy score is
+  only 18, so Toljek better hope he gets lucky.

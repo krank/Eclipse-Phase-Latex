@@ -1,0 +1,60 @@
+  While users can purchase bulk raw materials, CMs            General Hive: General hives are capable of produc-
+also come equipped with a disassembler. The user           ing any conceivable type of nanobot with the right
+loads garbage and other objects into the disassembler      blueprints and/or programming. Even at their smallest
+so that they can be turned into raw materials for the      size they are not really portable, with a minimum size
+CM. All legally-available disassemblers only decon-        being cubes 30 centimeters on a side and a volume of
+struct non-living material. [Expensive]                    25 liters. [Expensive]
+   Fabber: Fabbers are specialized nanofabricators,           Specialized Hive: Specialized hives are far more
+portable and considerably smaller than CMs. There          common than general hives, though they can produce
+are a wide variety of portable fabbers, including          only one type of nanomachines (i.e., choose one type
+ones that can make any hand tool or small piece of         of nanoswarm per hive). The smallest specialized
+personal electronics, ones that can turn any organic       hives are approximately the size of a 12-gauge shot-
+material into food and drink, and ones that can create     gun shell or a large cherry tomato. [High]
+any drug or medicine as well as bandages and spe-
+cialized dressings. The most common fabbers have a         EGO BRIDGES
+volume of 4 liters. Larger hand tools and devices are      Ego bridges are vat devices used for uploading and
+produced as 2 or 3 separate parts that must be fitted      downloading minds. See Backups and Uploading, p.
+together. Like CMs, fabbers also contain miniature         268, and Resleeving, p. 271. [Expensive]
+disposal units. [Moderate]
+   Maker: Makers are specially-designed to produce         NANOSWARMS AND MICROSWARMS
+food and drink for the user. Raw materials can be pro-     Swarms are colonies of nanobots or larger microbots
+vided by the addition of any water-containing liquid       created in a hive, programmed with specific instruc-
+and collected biomass like leftover food, grass, dirt,     tions, and then set free to perform a set task. Each
+dead animals, or transhuman waste. Some models are         swarm is composed of hundreds or thousands of
+built into standard vacsuits. Makers can produce water     nanobots or microbots, ranging in size from a mi-
+and various flavored beverages, as well as ration bars     crobe to a small insect. Nanobots are typically invis-
+or thick pudding-like edible gels. With adequate raw       ible to the naked eye, though they can be detected
+material, a maker can indefinitely provide food and        with a nanodetector (p. 326) or nanoscopic vision (p.
+drink for up to three transhumans. Most units, how-        311). Microbots are more noticeable but still quite
+ever, have a very limited range of flavors and textures    small, usually the size of a grain of sand or a dust
+that are widely considered to be fairly bad. Models        mote, or occasionally as big as a flea. Individual bots
+with a wider and better range of flavors and textures      in a swarm are directed by nanocomputers, with be-
+are more expensive, but produce food that is consid-       havioral routines modeled on biological insect and
+ered adequate or occasionally good. [Low to Moderate]      animal swarms. These swarms stick together and
+   Blueprints: If you want a nanofabricator to make        work as a whole, communicating with nanoradios,
+something, you need to instruct the device how to          nanolasers, or chemical cues, and sharing informa-
+create it from the molecular level up. Such blueprints     tion between each bot in the swarm. Note that nano-
+are available for almost every conceivable item out        swarms don’t invade inside living bodies (though they
+there. The cost of such blueprints typically equals        may attack externally)—internal nano is handled by
+the cost of purchasing the item, though factors like       nanoware (p. 308), nanodrugs (p. 321), and nanotox-
+legality and quality may affect the cost as usual (see     ins (p. 324).
+Acquiring Gear, p. 296). [One Cost Category Higher            Nanobots and microbots may be designed with
+Than Item Cost]                                            all manner of miniaturized propulsion systems (see
+                                                           Mobility Systems, p. 310), with the exception of ionic
+ADVANCED NANOTECHNOLOGY                                    drives. They are powered by tiny batteries or solar
+Advanced nanotechnology includes more recent               cells. Their tiny sensors are very effective at allow-
+developments. Like basic nanotech, advanced nano-          ing them to identify materials and objects, and so to
+technology cannot self-replicate but the nanobots          target discriminatingly. Nanobots or microbots could,
+can function normally in most environments and are         for example, be programmed to ignore metal objects,
+highly resistant to bacterial attacks and other environ-   certain types of plants, specific morphs, females, or
+mental problems. Typical advanced nanotech consists        specific individuals. Swarms may either be released
+of a generator—known as a “hive”—that produces             directly from a hive or from pre-packaged program-
+nanobots as long as it is supplied with raw materials.     mable canisters.
+Every such hive also includes a miniature disassembly         Swarms must be programmed before they are re-
+unit and/or specialized nanomachines that collect          leased. The programming first determines how long
+raw materials for the generator. These hives produce       the swarm is active. This timeframe is open-ended,
+nanobot swarms that are set loose to perform some          though most swarms deteriorate into ineffectiveness
+function in the world.                                     after 2 weeks unless they are replenished by a hive.
+  Examples of advanced nanotech include COTs (p.           The programming then sets what area the swarm is
+315), medichines (p. 308), smart dust (p. 316), and        to occupy. This is also open to interpretation and
+utilitools (p. 326), among others.                         can vary from “coat this person” to “spread out to a

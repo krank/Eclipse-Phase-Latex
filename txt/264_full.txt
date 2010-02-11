@@ -1,0 +1,60 @@
+spasms (pain), nightmares (fear), and shutters (sensory
+deprivation). These are described on p. 332 of Gear.       SIMULSPACES
+                                                           Simulspaces are virtual reality environments where
+SHUTDOWN                                                   the resolution advances beyond realistic high defini-
+If a cyberbrain is shut down (p. 257), the morph im-       tion and into the hyper-real. The environments they
+mediately ceases activity, perhaps collapsing or rolling   create are comprehensive and authentic illusions, from
+to a stop. Pods will appear to be in a coma. The ego,      aspects like lighting, day or lunar cycles, and weather
+however, will be rebooted along with the cyberbrain.       down to minute details and sensations. Jacking into
+                                                           a simulspace is much like crossing over into a alter-
+TERMINATE CORTICAL STACK FEED                              nate world or reality, which is why simulspaces have
+The cyberbrain feeds backup data to the cortical stack.    become increasingly popular in entertainment.
+This is a one-way connection, so the cortical stack may       While simulspaces usually cannot harm characters
+not be hacked, but the transfer of data may be cut off.    immersed in them as the sensory algorithms are not
+This termination action requires an Opposed Infosec        intended to be offensive programs or routines, experi-
+Test between the hacker (with the –30 modifier) and        ences in simulspaces can have a strong psychological
+the defender. The ego’s backup will not be updated for     impact on an ego, as the simulation is as close to
+as long as the connection remains off.                     reality as you can get. A character who is “physically”
+                                                           tortured within a simulspace will not be physically
+                                                           harmed, but the mental stress of the experience might
+RADIO JAMMING                                              still be sufficient to cause permanent traumas.
+Radio jamming is a method of transmitting radio
+signals that deliberate interfere with other radio         SIMULMORPHS
+signals in order to disrupt communications. In the         Characters access simulspace using an avatar-like per-
+highly-networked world of Eclipse Phase, intentional       sona called a simulmorph. This simulmorph is created by
+jamming is often illegal, not to mention rude.             the simulspace, based on the domain rules of the simu-
+  Radio jamming does not require any special equip-        lation and certain characteristics of the morph or ego
+ment other than a standard wireless device, such as        accessing the simulation. Depending on the simulation,
+an ecto or mesh inserts. Jamming can be selective          this simulmorph may be customizable to varying degrees.
+or universal. Selective jamming targets a particular          While interacting with the simulation, treat simul-
+device or set of devices. In order to selectively jam,     morphs as basic infomorphs for all rules purposes,
+the character must have scanned the target device(s)       even if the egos are still possessing another morph
+(p. 251). Universal devices target all radio-equipped      body in reality.
+devices indiscriminately.                                     When accessing a simulspace, muses are usually not
+  Jamming simply requires a Complex Action and an          transferred into the simulation, though they can po-
+Interfacing Test. If successful, affected devices within   tentially come along if domain rules permit it. In this
+range have their radio communications disrupted—           case, muses are treated as separate characters within
+they are cut off from the mesh and may not commu-          the simulspace with their own simulmorph body.
+nicate wirelessly. Wired devices are unaffected.              Depending on the role a simulspace is intended to play
+   Devices equipped by AIs will automatically attempt      in the story, the gamemaster may want to invent “physi-
+to overcome jamming, which requires a Complex              cal stats” for the simulmorph bodies, especially if the
+Action (transhuman users may also do the same). In         characters are likely to spend a lot of time in the simula-
+this case, a Variable Opposed Test is made between         tion. These statistics can literally be made up—it is a vir-
+the jammer and defender. If the jammer wins, all com-      tual reality after all, and anything goes. Alternately, the
+munications are blocked; if the defender wins, they        gamemaster can simply wing it and invent any necessary
+are unaffected. If both parties succeed, the defender’s    statistics on the fly as the need for them comes up.
+communications are impacted but not completely cut
+off. The gamemaster decides how much information           IMMERSION
+the defender can get through, and how this situation       When a character immerses themselves in a simulspace,
+affects mesh use.                                          they “become” the simulmorph. The character’s physi-
+                                                           cal body, typically secluded and protected in a vat or
+JAMMING RADAR                                              couch, slumps inertly. While immersed, they suffer –60
+Jamming can also be used to interfere with radar. In       on all Perception Tests or attempts to take action with
+this case, if the jammer makes an Interface Test. If       their physical morph. Characters can enter and leave
+successful, the radar suffers interference, imposing       the simulspace as will, but toggling in or out takes a
+a –30 modifier on all sensor-related tests. The entity     Complex Action.
+operating the radar may attempt to overcome this             If the simulspace crashes or the character is other-
+interference by beating the jammer in an Opposed           wise dumped from it, they immediately resume con-
+Interface Test.                                            trol of their own morph as normal. VR dumpshock is
+                                                           extremely jarring, and the character suffers 1d10 ÷ 2
+                                                           mental stress.

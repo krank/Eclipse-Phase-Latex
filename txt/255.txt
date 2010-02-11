@@ -1,0 +1,121 @@
+are legit business (in places where it is legal), some
+are criminals operating illegally, others are hacktivists
+promoting the privacy meme, and still others are hy-
+percorps or other organizations offering such services
+internally to their own staff/membership.
+   The interaction between the vendor and user is
+encrypted and anonymous, with no logs kept, so even
+if the vendor’s servers are hacked, an intruder will
+not find any leads. While some anonymous accounts
+are established for regular use, the truly paranoid use
+(multiple) one-time accounts for maximum security.
+One-time accounts are used for a single message (in-
+coming or outgoing) or credit transaction, and then
+are securely erased.
+   Tracking an anonymous account is a practical
+impossibility, and something that only an extremely
+resourceful organization employing a systematic and
+expensive effort could attempt.
+
+DISPOSABLE ECTOS
+Another option for those seeking privacy and se-
+curity is to simply use disposable ectos. Using this
+method, all activity is routed through a specific ecto
+(using its mesh ID), the ecto is used for a limited
+period (until it gets hot), and then it is simply dis-
+carded or destroyed.
+
+
+
+MESH SECURITY
+Given the lessons of the Fall and the very real risk still
+posed by hackers, virii, and similar threats, network
+security is taken extremely seriously in Eclipse Phase.
+Four methods are typically used: authentication, fire-
+walls, active monitoring, and encryption.
+
+AUTHENTICATION
+Most devices, networks (PANs, VPNs, etc.), and ser-
+vices require some kind of authentication (a process
+by which a system determines whether the claimed
+identity of a user is genuine) before they grant an ac-
+count and access privileges (p. 246) to a user. There
+are several different ways for a system to authenticate
+a user. Some are more reliable and secure than others,
+but for the most part, the more secure the method, the
+higher the operational expenses.
+   Account: If you have access to an account on one
+system, this may give you automatic access to related
+systems or subsystems. This is typical of slaved devices
+(p. 248), where access to the master automatically
+grants you access to slaves.
+   Mesh ID: Some systems accept mesh IDs as authen-
+tication. This is extremely common with most public
+systems, which merely log the mesh ID of any user
+that wishes access. Other systems will only allow
+access to specific mesh IDs, but these are vulnerable
+to spoofing (p. 255).
+   Passcode: This is a simple string of alphanumeric
+characters or logographic symbols, submitted in an
+encrypted format. Anyone with the passcode can
+access the account.
+   Biometric Scan: This calls for a scan of one or more
+of the user’s biometric signatures (fingerprint, palm
+print, retinal scan, DNA sample, etc.). Popular before
+the Fall, such systems have fallen out of use as they
+are impractical with synthmorphs or users that fre-
+quently resleeve.
+   Passkey: Passkey systems call for some of encrypted
+code that is either hardwired into a physical device
+(that is either implanted or physically jacked into
+an ecto) or extracted from specialized software. Ad-
+vanced passkeys combine hardwired encryption with
+physical nanotech etching to create a unique key. To
+access such systems, the passkey must either be ac-
+quired or somehow spoofed.
+   Ego Scan: This system authenticates the user’s ego
+ID (p. 279).
+   Quantum Key: Quantum key systems rely on the un-
+breakable encryption of quantum cryptography (p. 254).
+
+FIREWALLS
+Firewalls are software programs (sometimes hard-
+wired into a device) that intercept and inspect all traf-
+fic to and from a protected network or device. Traffic
+that meets specified criteria that designates it as safe
+is passed through, whereas all other traffic is blocked.
+In Eclipse Phase, every network and device can be
+assumed to have a firewall by default. Firewalls are
+the main obstacle that an intruder must overcome, as
+discussed under Intrusion Tests, p. 255.
+   Like other gear, firewalls come in varying quality
+levels and so may apply modifiers to certain tests.
+
+ACTIVE MONITORING
+Instead of relying on authentication and firewalls
+alone, secure systems are actively monitored by a se-
+curity hacker or a muse. These digital security guards
+inspect network traffic using a number of software
+tools and applications that flag conspicuous events.
+Active surveillance makes intrusions more difficult,
+since the interloper must beat the monitoring hacker/
+AI in an Opposed Test (see Intrusion, p. 254). Active
+monitoring also includes monitoring any devices
+slaved to the monitored system.
+   Characters may actively monitor their own PANs if
+they so choose, though this requires a moderate level
+of attention (count as a Quick Action). It is far more
+common for a muse to actively guard a user’s PAN.
+
+ENCRYPTION
+Encryption is an exceptionally effective extra layer of
+security. There are two types of encryption commonly
+used in Eclipse Phase: public key cryptosystems and
+quantum cryptography.
+
+PUBLIC KEY CRYPTO
+In public key cryptosystems, two keys are generated
+by the user, a public key and a secret key. The public
+key is used to encrypt messages to that user, and is
+made freely available. When messages are encrypted
+using that public key, only the secret key—controlled

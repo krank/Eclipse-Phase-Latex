@@ -1,0 +1,58 @@
+                                                                        Rocket Buggy: This vehicle is the most common
+  ROBOTS AND VEHICLES                                                form of medium to long distance personal transport
+ The following is a small selection of the many vehicles             on Luna, and is in common on most other moons
+ in use in the solar system. Almost all of the vehicles              and large asteroids. On these airless worlds, a rocket
+ in current use, including all of the vehicles listed here,          buggy can reach orbit and return or take a parabolic
+ have built-in AIs capable of piloting the vehicle under             path to any destination on that moon in less than
+ almost all circumstances. In most cases, passengers                 an hour. This vehicle is also regularly used to travel
+ simply state their destination and the vehicle takes                between habitats that are less than 30,000 km apart.
+ them there. Manual piloting is primarily used in                    The vehicle is pressurized, but is designed for short
+ emergencies or by people who prefer the exotic thrill               duration travel only. The seats are relatively small
+ of controlling their own vehicle.                                   and the life support system contains no provisions
+   Rules for handling robots and vehicles are detailed               for recycling food or water and can only support the
+ on p. 195. Any of these shells may be modified for use              passengers for an absolute maximum of 50 uncom-
+ as a synthetic morph by adding a cyberbrain system                  fortable hours. Rockets buggies come equipped with
+ (p. 300). Each of the shells listed here comes with a               headlights, radio boosters, and radar with a range of
+ puppet sock (p. 307) for remote-control operation.                  up to 250 km.
+                                                                       A version of this vehicle is also used on both Mars
+  AIRCRAFT                                                           and Titan, but here the frame has been modified to
+ On Mars, Venus, and within large open-space habitats                act as a lifting body, and it has a top speed in the thin
+ like O’Neil cylinders, aircraft of various kinds see regular        Martian atmosphere of 2,500 km/hour and a range
+ use. This includes modern version of rotorcraft (helicop-           of 8,000 km on Mars. On Titan is has a top speed
+ ters, autogyros, tilt-rotors), fixed-wing planes, and zep-          of 3,000 kph in the atmosphere, but it can also reach
+ pelins and other lighter-than-air craft. These are typically        orbit. [Expensive]
+ propelled by turbofan or jet engines, rotors, or vectored              Small Jet: Methane-powered jet planes are one of
+ thrust. These vehicles are piloted with Pilot: Aircraft skill.      the most common forms of fast transport on Mars
+    Microlight: This ultra-light personal aircraft is                and Venus. Similar planes are used on Titan, except
+ not much more than a strut-based wing, an airframe,                 that they carry both liquid methane and liquid oxygen.
+ and an electric propeller engine. They are ideal for                These jets range in size from huge vehicles the size of
+ getting around inside large habitats with enclosed                  late 20th-century airliners to small planes designed to
+ airspace. [Low]                                                     carry half a dozen passengers. All jets are made using
+    Portable Plane: Powered by superconducting bat-                  smart materials, so that their wings and frames can
+ teries and with an exceedingly small but powerful                   adapt to a wide range of speeds and altitudes. One
+ electric motor, this light but durable propeller plane              common small jet has similar versions in use on Venus,
+ is made of smart materials that allow it to be swiftly              Mars, and Titan, has a single jet engine and has a life
+ folded up into a small portable package. Different ver-             support system capable of providing air for up to 100
+ sions are designed for flight on Mars, Titan, or Venus,             hours. The Venusian and Martian versions both have
+ each taking 10 minutes to assemble or disassemble.                  a top speed of 900 kph, a wingspan of 11 m, and a
+ The Martian version unpacks into an airplane with a                 maximum range of 5,000 km. The version designed
+ wingspan of 11 m with a top speed of 250 kph and a                  for Titan has a wingspan of 8 m, a top speed of 650
+ cruising speed of 220 kph and a range of 1,300 km.                  kph, and a range of 4,000 km. Jets are equipped with
+ The Venusian version has a wingspan of 9 m, a top                   headlights, radio boosters, and radar with a range of
+ speed of 200 kph and a range of 1,000 km. The ver-                  up to 250 km. [Expensive]
+ sion designed for use on Titan has a wingspan of 8
+ m and has a top speed of 200 kph and a range of                     EXOSKELETONS
+ 2,000 km. In all versions, the two occupants ride in                Exoskeletons are powered mechatronic skeleton
+ an inflatable and insulated pressurized bubble with a               frameworks worn by a person. Servo-hydraulic joints
+ life support system capable of providing clean air and              allow the exoskeleton to be maneuvered by mimick-
+ comfortable temperatures for 20 hours on Mars and                   ing the wearer’s own movements, as well as enhanc-
+ Venus, and 15 hours on Titan. [High]                                ing their strength. Exoskeletons may also be piloted
+
+
+                                              VEHICLES—AIRCRAFT
+                    PASSENGER                      MOVEMENT                                                        WOUND
+AIRCRAFT             CAPACITY       HANDLING         RATE         MAX VELOCITY       ARMOR       DURABILITY      THRESHOLD
+Microlight                1             +20            8/40           100              —              30              10
+Portable Plane            2             +10             —           200–250           10/6            50              10
+Rocket Buggy              4             –10            8/32        2,500–3,000        24/16           100             20
+Small Jet                 6             +20             —           650-900           30/20           200             30

@@ -1,0 +1,114 @@
+                                                  MER
+
+
+                                                            Aca
+
+
+
+
+                                                              In
+
+
+
+
+                                                              L
+
+
+
+(Octopus)
+
+
+ration +Reclaiming Earth +Uplift Rights
+
+                      Implants: Basic Biomods, Basic
+ x 2) ■                 Mesh Inserts, Chameleon
+el 2) ■                 Skin, Cortical Stack, Direction
+                        Sense, Echolocation, Electrical
+                        Sense, Enhanced Vision, Grip
+                        Pads, Medichines, Oracles,
+                        Radiation Sense ■
+                      Gear: Backup Insurance
+                        (1 month), Breadcrumb Posi-
+                        tioning System, Disassembly       You m
+                        Tools, Mobile Lab, Muse, Nano-    it har
+                        detector, Radio Booster, Shel-    modif
+/4 or 4/6] with         ter dome, Specimen Container,     have
+ng ■                    Superthermite Charge, Tactical    limbs
+netic Pistol            Network Software, Vacsuit         and b
+                                                          stant
+tandard                 (Standard), X-Ray Emitter ■
+                                                          did by
+                      Advantages: 8 Arms, Beak Attack
+                                                          rende
+■                       (1d10 DV, use Unarmed Combat      ceede
+                        skill), Ink Attack (blinding),    ing th
+                        360-degree Vision ■               Neve
+                  “Maybe it’s the kind of trap that would catch
+                     but my superior physiology was able to
+CURIAL SCAVENGER
+           APTITUDES
+              COG      COO     INT     REF     SAV       SOM    WIL
+     Base      10       20      15      15      10        20    15
+rph Bonus      5        5       5
+     Total     15       25      20      15      10       20      15
+
+
+
+
+OX     TT      LUC      IR     WT     DUR      DR
+                                                         STATS
+                                                      INIT      SPD
+        6       30      60      6      30      45    60 (70)     1
+
+
+
+                                                     SKILLS
+                                                 MORPH
+                               APT     BASE      BONUS         TOTAL
+Academics: Engineering         COG      50         5             55
+mics: Materials Science        COG      50         5             55
+     Academics: Physics        COG      50         5             55
+         Art: Ink Painting     INT      45         5             50
+                  Climbing     SOM      30                       30
+              Demolitions      COG      40           5           45
+ otic Ranged: Ink Attack       COO      35           5           40
+                  Free Fall    REF      45                       45
+  Hardware: Electronics        COG      40           5           45
+    Hardware: Industrial       COG      40           5           45
+                Inﬁltration    COO      50           5           55
+nterests: Post-Fall Earth      COG      40           5           45
+ erests: Ruined Habitats       COG      55           5           60
+ests: Spaceship Models         COG      40           5           45
+               Interfacing     COG      30           5           35
+            Investigation      INT      35           5           40
+       Kinetic Weapons         COO      50           5           55
+ uage: Native Japanese         INT      80           5           85
+etworking: Autonomists         SAV      30                       30
+    Networking: Criminal       SAV      40                       40
+ Networking: Ecologists        SAV      40                       40
+    Networking: Firewall       SAV      30                       30
+Networking: Hypercorps         SAV      30                       30
+                  Palming      COO      40           5           45
+               Perception      INT      45           5           50
+            Pilot: Aircraft    REF      35                       35
+        Pilot: Spacecraft      REF      45                       45
+   Profession: Appraisal       COG      40           5           45
+ rofession: Salvage Ops        COG      60           5           65
+              Scrounging       INT      60           5           65
+                Swimming       SOM      50                       50
+       Unarmed Combat          SOM      50                       50
+
+ e an “uplift,” but you find    and derelict habitats left behind
+ot to feel sorry for these      by transhumanity to be fascinating
+monkeys around you who          to explore, so you spend much of
+ et by with half as many        your time combing through space-
+ping sensory blind spots,       craft hulls and shattered stations,
+ e bones that are con-          looking for curiosities and lost trea-
+ eaking. Any favors they        sures. Such activities tend to take
+ ifting octopus-kind were       you close to Earth as well, where
+  moot when they suc-           you support the efforts of those who
+  despoiling and abandon-       hope to take the planet back. Your
+ me planet you all shared.      ultimate dream is to someday swim
+ ess, you find all the ruins    in the oceans of your ancestors. ■
+knuckle-dragging monkey,
+ ily squeeze out of it.”

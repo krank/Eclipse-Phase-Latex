@@ -1,0 +1,117 @@
+motivating themselves. They were old when longevity
+treatments first became available, survived the Fall,
+and continue to soldier onward—though they find
+it increasingly harder to care, take interest in things
+around them, or fear final death. The character only
+receives half the Moxie and Rez Points award for
+completing motivational goals.
+   This trait may not be purchased by characters with
+the infolife or uplift backgrounds.
+
+IMPLANT REJECTION (MORPH TRAIT)
+Bonus: 5 (Level 1) or 15 (Level 2) CP
+   This morph does not accept implants well. At Level
+1, any implants acquired are more expensive as they
+required specialized anti-rejection treatments. Increase
+the Cost category of the implant by one. At Level 2,
+the morph cannot accept implants of any kind.
+
+INCOMPETENT
+Bonus: 10 CP
+  The character is completely incapable of perform-
+ing a particular chosen active skill, no matter any
+training they may receive. They may not buy this skill
+during character creation or later advancement, and
+the modifier for defaulting to the linked aptitude of
+this particular skill is –10. This may not be used for
+exotic weapon skills, and should be used for a skill
+that could be of use to the character.
+
+LEMON (MORPH TRAIT)
+Bonus: 10 CP
+  This trait is only available for synthetic morphs.
+This particular morph has some unfixable flaws. Once
+per game session (preferably at a time that will maxi-
+mize drama or hilarity), the gamemaster can call for
+the character to make a MOX x 10 Test (using their
+current Moxie score). If the character fails, the morph
+immediately suffers 1 wound resulting from some me-
+chanical failure, electrical glitch, or other breakdown.
+This wound may be repaired as normal.
+
+LOW PAIN TOLERANCE (EGO OR MORPH TRAIT)
+Bonus: 20 CP
+   Pain is the character’s enemy. The character has
+a very low threshold for pain tolerance and is more
+severely impaired when suffering. Increase the modi-
+fier for each wound take by an additional –10 (so
+the character suffers –20 with one wound, –40 with
+another, and –60 with a third). Additionally, the
+character suffers a –30 modifier on any test involving
+pain resistance. This morph version of this trait is only
+available for biomorphs.
+
+MENTAL DISORDER
+Bonus: 10 CP
+  You have a psychological disorder from a previous
+traumatic experience in your life. Choose one of the
+disorders listed on p. 211.
+MILD ALLERGY (MORPH TRAIT)
+Bonus: 5 CP
+  The morph is allergic to a specific chosen allergen
+(dust, dander, plant pollen, certain chemicals) and suf-
+fers mild discomfort when exposed to it (eye irritation,
+sneezing, difficult breathing). Apply a –10 modifier to
+all tests while the character remains exposed. This
+trait is only available for biomorphs.
+
+MODIFIED BEHAVIOR
+Bonus: 5 (Level 1), 10 (Level 2), or 20 (Level 3) CP
+   The character has been conditioned via time-
+accelerated behavioral control psychosurgery. This is
+common among ex-felons, who have been conditioned
+to respond to a specific idea or activity with vehement
+horror and disgust, but may have occurred for some
+other reason or even been self-inflicted. At Level 1, the
+chosen behavior is either limited or boosted, at Level
+2 it is either blocked or encouraged, and at Level 3 it
+is expunged or enforced (see p. 231 for details). This
+trait should only be allowed for behaviors that are
+either limited or, if encouraged, impact the character
+in a negative way.
+
+MORPHING DISORDER
+Cost: 10 (Level 1), 20 (Level 2), or 30 (Level 3) CP
+  Adapting to new morphs is particularly challeng-
+ing for this character. The character suffers a –10
+modifier per level on Integration Tests and Alien-
+ation Tests (p. 272).
+
+NEURAL DAMAGE
+Bonus: 10 CP
+   The character has suffered some type of neurologi-
+cal damage that simply cannot be cured. The affliction
+is now part of the character’s ego and remains with
+them even when remorphing. This damage may have
+been inherited, it may have resulted from a poorly de-
+signed morph or implant, or it may have been inflicted
+by one of the TITAN nanovirii that targeted neural
+systems during the Fall (p. 384). The gamemaster and
+player should agree on a specific disorder appropriate
+to their game. Some possibilities are:
+
+ • Partial aphasia (difficulty communicating or
+   using words)
+ • Color blindness
+ • Amusica (inability to make or understand music)
+ • Synaesthesia
+ • Logorrhoea (excessive use of words)
+ • Loss of face recognition
+ • Loss of depth perception (double range
+   modifiers)
+ • Repetitive behavior
+ • Mood swings
+ • The inability to shift attention quickly
+
+  The gamemaster may decide to inflict modifiers
+resulting from this affliction as appropriate.

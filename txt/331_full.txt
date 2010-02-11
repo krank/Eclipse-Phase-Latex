@@ -1,0 +1,60 @@
+diameter of 20 meters” to “find the nearest chemical         Engineers: Engineer microswarms are used for
+traces and track them to their source.” Finally, pro-     various construction purposes: erecting walls, digging
+gramming sets any other parameters for the swarm’s        tunnels, sealing holes, reinforcing foundations, and so
+mission—for example, if it should ignore certain ma-      on. [Moderate]
+terials, if it should send a report at a predetermined       Fixers: This is the nanoswarm version of repair
+time, or if it should self-destruct into harmless dust    spray (p. 333). [Moderate]
+when it has completed a certain task.                        Injectors: Injector microswarms are equipped with
+   Programming is generally handled as a Simple           tiny needles and a drug payload. A biological target
+Success Test using Programming (Nanoswarm) skill.         affected by an injector swarm suffers 1 point of
+Failure simply infers that the programming is imper-      damage and the effects of the carried drug, chemical,
+fect, and so the swarm may not operate completely as      or toxin. [Moderate]
+planned. An actual Programming (Nanoswarm) Suc-              Gardeners: This microswarm is useful for a number
+cess Test is only called for if the swarm’s programming   of agricultural purposes: killing weeds, planting seeds,
+is substantially complex or if the character seeks to     trimming plants, pollinating, and even harvesting
+have the swarm act outside of its usual set functions.    small items. It may also be programmed to simply
+The bots in each swarm are specially equipped for the     defoliate an area. [Moderate]
+task they are designed for, however, so attempting           Guardians: Guardians watch for and attack other
+to drastically repurpose a swarm may be difficult or      unauthorized swarms. Guardians inflict 1d10 ÷ 2
+pointless at the gamemaster’s discretion.                 damage (round up) on other swarms they come into
+   Swarms may also be teleoperated, controlled, and/      contact with per Action Turn. [Moderate]
+or (re)programmed once they are released, via radio          Proteans: This nanoswarm is designed to disassem-
+or laser link.                                            ble other materials and objects and to create a single
+   Swarms are treated as a whole. The standard swarm      specific, pre-programmed device from the components
+size is enough to cover a 10 x 10 x 10 meter cube,        (much like a specialized nanofabricator). The proteans
+and this is the standard “unit” of swarm released by      must be able to scavenge appropriate raw materials
+a canister or hive. Swarms may be larger, but they are    (for example, to create a metallic device the nanobots
+treated as individual swarm units. Each swarm has         must transform something else made of metal). The
+a Durability of 50 and is immune to wounds. Most          construction time takes 1 hour per cost category of
+attacks against a swarm simply inflict 1 point of         the item (1 hour for a Trivial cost item, 2 hours for
+damage. Area-effect weapons, plasma rifles, and fire      Low, etc.). [High]
+inflict 1d10 damage, plasma grenades do full damage.         Saboteurs: Sab nanobots are designed to infiltrate
+Swarms are not affected by vacuum.                        electronics or machinery and sabotage them in small
+   Cleaners: This nanoswarm cleans, polishes, and         but difficult to discern ways: severing connections,
+removes dirt and stains. It may be used on an area,       disabling components, gumming up moving parts,
+specific objects, or people. Some facilities employ       etc. Saboteurs inflict damage on devices similar to
+permanent cleaner swarms to keep their area spotless.     disassemblers, but the target is not destroyed and
+Cleaners may also be programmed to remove specific        such damage is not immediately obvious. They inflict
+toxins, chemicals, or other hazardous substances in       1d10 ÷ 2 points of damage to synthmorphs, bots, and
+order to decontaminate an area. Covert operatives         other devices every Action Turn. Armor has no effect,
+and criminals sometimes use cleaners to eliminate         but accumulated damage counts as a wound when the
+any evidence they may have left at a scene usable for     Wound Threshold is reached. [High]
+forensics purposes, such as blood, hair, or anything         Scouts: A scout nanoswarm will system-
+that could be DNA-typed. [Low]                            atically map and explore an area, collecting
+   Disassemblers: Also known as smart corrosives,         samples of all materials and substances it
+these nanobots break down any matter. Their ad-           encounters. The samples are carried back
+vantage over common acids is that not only are            to the hive or canister and chemically ana-
+they able to break down any material by using             lyzed. Scouts can also be used for forensic
+energy to disrupt chemical bonds, but that they           purposes, collecting DNA samples, analyz-
+can be programmed to take apart certain compo-            ing chemical residues, and examining other
+nents while ignoring others, leaving them intact.         evidence. [High]
+Disassemblers are a common weapon used against               Taggants: Taggants seek to lodge themselves
+synthmorphs, eating away their components with-           onto everything in their area of dispersal.
+out having to worry about accidentally splashing          Each carries a unique identifier, so that if it is
+biomorphs. Upon contact, these nanobots infl ict          found later, the tagged person or object can
+1d10 ÷ 2 damage (round up) per Action Turn. Ac-           be linked back to the point they were tagged.
+cumulated damage counts as a wound when the               Taggants can be programmed to remain silent,
+Wound Threshold is reached. Both Energy and Ki-           only responding to query broadcasts made
+netic armor protect against this damage, but these        with the proper crypto codes, or they can be
+armors are eaten away as well, so the Armor Value         programmed to broadcast their location back
+is reduced by the soaked DV. [High]                       to the deployer via the mesh. [Low]

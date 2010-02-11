@@ -1,0 +1,60 @@
+   Emergency Distress Beacon: This small but power-         can keep producing and retracting cable indefinitely.
+ful transmitter is powered by a nuclear battery and         By setting the maximum production speed at 10 m/
+will broadcast any programmed distress call for years.      second a character with a spindle can safely jump
+Though portable and medium-sized, this beacon has           off a building and land safely, using the cable to slow
+a range of 500 km in urban areas and 5,000 km else-         their descent. [Moderate]
+where. [Moderate]                                              Spindle Climber: This device attaches to a spindle
+   Flashlight: These handheld, wearable, or portable        and transforms it into a highly effective climbing
+lights can display light in the normal visual spectrum,     device. The spindle climber has two functions. First, it
+infrared, or ultraviolet, as desired. [Trivial]             attaches hardened tips to the spindle’s cable and fires
+   Nanobandage: Characters without medichines must          it at high speed, up to 50 meters, with sufficient force
+rely on external sources of healing. The most common        to imbed the tip into almost any sufficiently durable
+option is the nanobandage—a plum-sized advanced             surface. Second, the spindle climber can pull itself and
+nanotechnology generator built into a reusable, self-       up to 250 kg up the cable at a speed of up to 2 m/sec.
+sterilizing bandage. It can treat all forms of injury and   A spindle climber has enough power to shoot and pull
+illness, from poisoning to burns to trauma. Characters      up the cable 50 times before it must be recharged. A
+simply apply the bandage to the wound and let the           spindle fits inside a spindle climber. [Low]
+nanobots do the work. It removes pain and discom-
+fort and speeds healing (see Biomorph Healing, p.           VACUUM SUITS
+208). For especially severe injuries, physical first aid    Most vacuum suits are skin-tight garments that use
+such as setting bones and removing projectiles may          the pressure of their advanced smartfabrics on the
+be necessary (gamemaster’s choice). If the wounds are       wearer’s body to resist vacuum. When the wearer is in
+too severe (the patient has suffered more than five         a breathable atmosphere, the smartfabric also loosens
+wounds), the unit places the patient in medical stasis      the suits to serve as ordinary clothing or be easily
+and radios for emergency services. [Trivial]                put on or taken off. In all cases, the suits can become
+   Repair Spray: This nanobot generator creates             skin-tight within 3 Action Turns. All vacsuits contain
+nanobots designed to repair synthmorphs, vehicles,          advanced rebreather units capable of maintaining a
+and other common objects. Repair spray contains             breathable atmosphere for several hours or days.
+the specifications and plans for almost all commonly           Light Vacsuit: Everyone living in a sealed habitat
+used synthmorphs and devices and is a ubiquitous            owns at least one of these suits. They come in a vari-
+household item. If it does not contain the specifica-       ety of forms. Inexpensive versions are typically light-
+tions for something it is being used to repair, it must     weight jumpsuits made of simple smart fabric that
+query the object’s voice for these details, otherwise it    adjusts to fit and folds up small enough to fit into a
+cannot repair it. Simply touch it to the damaged area,      coat pocket. The best models include suits of high-end
+push the button on top, and it sprays out a number of       smart clothing that can transform into a vacsuit and
+nanobots sufficient to make repairs. These nanobots         an advanced nanotech generator the size of a large
+repair 1d10 points of damage per 2 hours. Once all          orange that deploy nanobots that cover the user and
+damage is restored, the nanobots repair wounds at           fit together into a vacuum suit. Both can transform
+the rate of 1 per day. Repair spray also cleans and         into a vacsuit in 2 full Action Turns and do so either
+polishes items and returns them to a pristine and           on command or if their sensors reveal that life sup-
+new state. Repair spray is not effective on any object      port is needed.
+with more than 3 wounds, but it provides a +30 to              All models include a lightweight belt or torc
+all repair rolls on anything too badly damaged for it       containing a miniature oxygen tank and advanced
+to fully repair (see Synthmorph and Object Repair, p.       rebreather unit that provides 3 hours of air. How-
+208). [Low]                                                 ever, the suits contain no food or water recycling. All
+   Shelter Dome: A variant of the emergency bubble,         models include an ecto (p. 325) and a headlight, but
+this package unfolds into a dome with a 2.5-meter           typically little else beyond atmosphere sensors to let
+ceiling and a floor 4 meters across. To safely use this     the wearer know when it is safe to take off the suit.
+shelter, it must be staked down to the surface it is        They protect the wearer from temperatures from –75
+placed on. [Moderate]                                       to 100 C. These vacuum suits also provide an Armor
+   Spindle: A spindle is an advanced nanotechnology         rating of 5/5 and instantly self-seal breaches unless
+generator that produces a super-strong cable. It can        more than 20 points of damage are inflicted at once.
+produce up to 2 kilometers of 0.2 millimeter diameter       [Low, Moderate for smartfabric suits]
+line than can support up to 250 kilograms before it            Standard Vacsuit: These suits resemble light vac-
+needs more raw materials. The spindle can produce           suits made from thicker and more durable materials
+up to 20 meters of cable every second. It can produce       that resist tearing and provides the wearer with light
+line in a continuous length or cut the cable it produces    armor. They are fitted with more substantial life sup-
+to any length. Spindles can also reabsorb their cable,      port belts that includes a maker (p. 327) capable of
+retracting it at a rate of 5 m per second. As long as       recycling all wastes and producing air for up to 48
+it is recharged and has small amounts of additional         hours and food and water indefinitely. The best suits
+material added every 1,000 hours of use, a spindle          are made of smart materials that can transform from

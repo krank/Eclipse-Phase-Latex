@@ -1,0 +1,59 @@
+                                                            back in. For intruders, this means making an Infosec
+INTRUSION COUNTERMEASURES                                   Test, modified by –10 for the passive alert, to satisfy
+If an intruding hacker fails to penetrate a system’s        the system that they are a legitimate user.
+defenses (i.e., they are Spotted or Locked, see p. 256),
+then the system goes on alert and activates certain         REDUCE PRIVILEGES
+defenses. The nature of the applied countermeasures         As a protective measure, some systems will immedi-
+depends on the capabilities of the system, the abilities    ately reduce access privileges available to standard
+of its security defender(s), and the policy of its owner/   users, and sometimes security users as well. One
+admins. While some nodes will simply seek to kick           common tactic is to protect all logs, backing them up
+the intruder out and keep them shut out, others will        and making sure no one has rights to delete them.
+actively counterattack, seeking to track the intruder
+and potentially hack the intruder’s own PAN.                ACTIVE COUNTERMEASURES
+                                                            Active countermeasures can only be launched if the
+SECURITY ALERTS                                             intruder has acquired Locked status.
+Security alerts come in two flavors: passive and active.
+                                                            COUNTERINTRUSION
+PASSIVE ALERT                                               A security hacker or guardian AI can proactively
+Passive alerts are triggered when an intruder hits Spot-    defend a system by attacking the intruder’s source. For
+ted status. The system immediately flags a visual or        this to occur, the intruder must first be successfully
+acoustic cue to anyone actively monitoring the system       traced (p. 251). Once this occurs, the security forces
+and possibly the owner or admins. It immediately            can then launch their own intrusion on the hacker’s
+launches one or more passive countermeasures (see           home ecto/mesh inserts and/or PAN.
+below). Depending on the system, extra security hack-
+ers or AIs may be brought in to help investigate. If the    LOCKOUT
+intruder is not encountered again or located within a       A system that has locked onto an intruder may also
+set time period (usually about 10 minutes), the alarm       attempt to lock them out. Lockout is an attempt to
+is deactivated and the event is logged as an anomaly.       remove the compromised account, sever the connec-
+Depending on the security level of the system, some-        tion between the two, and dump the hacker from
+one may analyze the logs at some point and try to           the system.
+ascertain what happened—and prevent it from hap-               Lockout must be initiated by someone with secu-
+pening again.                                               rity or admin privileges. An Opposed Infosec Test is
+   All intruders suffer a –10 modifier for tests involv-    made, with the intruder suffering a –20 modifier for
+ing a system that is on passive alert.                      being Locked. If the character defending the system
+                                                            succeeds, the intruder is immediately ejected from
+ACTIVE ALERT                                                the system and the account they used will be placed
+An active alert is triggered when an intruder hits          on quarantine or deleted. That account will not be
+Locked status. The system immediately alerts the            usable again until a security audit approves it and
+owners, admins, and monitoring security agents.             replaces the authentication. Any attempt to access
+Additional security assets (hackers and AIs) may be         the system from the same mesh ID as the intruder
+called in. The system also launches active countermea-      automatically fails.
+sure against the intruder (see below). Active alerts are
+maintained for as long as the intruder is present, and      REBOOT/SHUTDOWN
+sometimes for a lengthy period afterwards just in case      Perhaps the most drastic option for dealing with an
+the hacker returns.                                         interloper is to simply shut down the system. In this
+                                                            case, the system closes all wireless connections (if it
+PASSIVE COUNTERMEASURES                                     has any), logs off any users, terminates all processes,
+Passive countermeasures are launched as a precaution        and shut itself down—thereby locking out the intruder.
+whenever an intruder acquires Spotted status.               The disadvantage, of course, is that the system must
+                                                            interrupt its activities. For example, shutting down
+LOCATE INTRUDER                                             your mesh inserts or ecto means losing all communica-
+A security hacker or AI monitoring a system may at-         tion with teammates, access to augmented reality, and
+tempt to track down the source of the passive alert.        control over slaved/linked devices.
+See Zeroing In, p. 256.                                        Initiating a reboot/shutdown is only a Complex
+                                                            Action, but the actual process of shutdown takes
+RE-AUTHENTICATE                                             anywhere from 1 Action Turn (personal devices) to 1
+When a passive alert is triggered, a firewall can be set    minute (large hardwired networks with multiple users),
+to re-authenticate all active users, starting with the      determined by the gamemaster. Rebooting a system
+most recent. At the beginning of the next Action Turn,      takes the same amount of time to get started again.
+everyone on the system must take an action to log

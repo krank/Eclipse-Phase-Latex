@@ -1,0 +1,116 @@
+who has visited the room in the last week or two. The
+smart dust can then either broadcast a brief, highly
+compressed signal, or it can send all of its informa-
+tion to a few hundred nanobots that then walk to a
+pre-arranged destination for pickup and downloading
+by their user. The user need only find a single nano-
+bot with a nanodetector to acquire the information
+obtained by the smart dust. If ordered to do so, the
+remaining nanobots can either power down and await
+further orders or self-destruct in a fashion that turns
+them into a tiny amount of dust made mostly of metal
+and silicon. [Moderate]
+   Traction Pads: This set of specialized fingerless
+gloves, shoes, and kneepads is designed to emulate the
+pads on geckos’ feet. Characters can support them-
+selves on a wall or ceiling by placing any two of these
+pads against any surface not made from a material
+specially designed to resist such devices. Characters
+can climb any surface and move easily across walls
+and ceilings that can support their weight (+30 to
+Climbing Tests). In addition to climbing, these devices
+are also very popular in zero-g environments. Wearing
+this item does not impair the user’s agility or manual
+dexterity. [Low]
+  White Noise Machine: This small and wearable
+device generates masking sounds that protect a con-
+versation from being audibly recorded or overheard
+by anyone not in the immediate vicinity. [Trivial]
+  X-Ray Emitter: This device is designed to be used
+with either the enhanced vision augmentation (p.
+301) or specs (p. 325). It emits a focused beam of
+low-powered x-rays that allows the user of either
+device to both see and see through most objects using
+backscatter x-ray radiation (p. 303). This allows the
+character to literally see through walls and into con-
+tainers, including ones made of metal. [Low]
+
+
+
+DRUGS, CHEMICALS, AND TOXINS
+In Eclipse Phase, the transhuman desire to enhance
+the body and mind—especially with chemicals—
+merges right into humanity’s popular pastime of
+recreational substance abuse. Drugs of all kinds,
+whether they be chemical, nano-based, or electronic,
+are not only popular but widespread. While advances
+in biotechnology have eliminated many of the side
+effects that once plagued drug users, transhuman
+bodies remain complicated environments, and so side
+effects (especially with long-term use) are still a factor.
+Additionally, addiction is always a consideration for
+anyone who gets comfortable with popping the same
+pills too often, though there are also drugs for addic-
+tion of course
+   Drug descriptions include benefits, side effects, no-
+ticeable signs that a person is using the drug, addictive-
+ness, and effects from long-term use). Descriptions also
+include the drug’s Duration and its Addiction Modifier
+(see Addiction and Substance Abuse).
+SUBSTANCE RULES
+These rules explain how to handle drugs and toxins.
+
+CLASSIFICATION OF SUBSTANCES
+Substances fall into four categories:
+   Chemicals: These are pharmacologically-active
+small chemical compounds (toxins, pharmaceuticals,
+chemical drugs) that have been produced by chemical
+synthesis, nanotech fabrication, or enzymatic biosyn-
+thesis in (transgenic) organisms. They include natural-
+ly-occurring drugs from known species of (exo-)flora
+and fauna, endotoxins produced by biological organ-
+isms, enhancements of endogenic substances (designer
+drugs), and de novo developments designed for a
+specific medical or recreational application. Chemical
+drugs affect only biological morphs and pods.
+   Biologicals: These include peptides, hormones, and
+biologically-based substances like biotoxins, bacteria,
+and viral organisms—drugs devised or based on
+naturally-occurring endogenic biological substances.
+This category also includes infectious biological or-
+ganisms that can produce drug-like effects, like virii
+and bacteria. Biologicals affect biomorphs and pods
+but not synthetic morphs or infomorphs.
+   Nanodrugs: These are temporary nanobot colonies
+programmed to create a certain effect. While nano-
+bots are generally able to target or infect all morph
+types except infomorphs, exactly which morphs are
+affected usually depends on the pre-programmed
+effect (i.e., whether it targets a biological or mechani-
+cal mechanism).
+   Electronic: Electronic drugs include software and
+technology that affect the brain directly, such as ma-
+nipulative XP programs or retro-tech like transcranial
+magnetic stimulation or cranial electrotherapy. It also
+includes narcoalgorithms—programs that reproduce
+drug-like effects for AIs, infomorphs, and egos resid-
+ing in cyberbrains.
+
+APPLICATION METHODS
+There are number of vectors by which a substance
+may be applied to a morph.
+   Dermal (D): This drug or toxin is absorbed via
+the skin (or exterior hull with some nanotoxins) as
+either a gas, liquid, or solid (e.g., paste). Slap patches
+and slap bands are commonly used, loaded with the
+chemical DMSO, which transfers the drug through
+the skin.
+   Inhalation (INH): This is a gas that is breathed into
+the lungs or snorted nasally. Used for inhalers, aero-
+sols, powders, and gas grenades/seekers.
+   Injected (INJ): This liquid is applied via either
+an intramuscular or intravenous injection. Used for
+needles and piercing weapons.
+   Oral (O): This is a liquid or solid that is absorbed
+through the stomach or oral cavity (eating or drink-
+ing). Used with pills and liquids.

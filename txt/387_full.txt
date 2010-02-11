@@ -1,0 +1,60 @@
+the character has with people capable of pinging their        impressive planetoid-scale event, complete an exten-
+Rep with positive or negative feedback. Actions that          sive project (1 month work or 1 week of difficult/
+happen in secret, without anyone ever knowing, should         specialized work), risk death.
+have no effect. Likewise, pissing off a Factor or a brinker      Extreme Award (9–10 points): Do a Level 5 favor,
+isolate who never communicates with outsiders isn’t           start this year’s hot fashion trend, make a major scien-
+going to matter because no one else will ever hear of it      tific discovery, close the deal on a major corporate ac-
+(unless the character lifelogs it and posts it to the mesh    quisition, start (or put down) a revolution, complete
+later ... ). Note that Rep modifications only apply to Rep    a major project (1 year work or 1 month difficult/
+scores tied to the character’s known identity.                specialized work), risk true death.
+   Note that characters may gain and lose Rep score
+in networks they don’t actively participate in. For           REPUTATION LOSSES
+example, a character with r-rep of 0 may help bring           Rep losses are suffered by characters who fail to render
+out a major scientific discovery that is shared with the      aid when needed, lose professional credibility, make
+solar system’s scientific community at large, thus gain-      major or public blunders, doublecross their friends,
+ing the character a few points of r-rep even though           and so on. Some suggested examples are noted here:
+they never hang out with argonauts or scientists—                Trivial Loss (–1 or –2 points): Fail to do a Level 1
+what matters is that people who access r-rep will find        favor, inconvenience others, be involved in profession-
+positive details when they ping the person’s score on         al dispute, ruin someone’s day, never are available.
+that particular rep network.                                     Minor Loss (–3 or –4 points): Fail to do a Level 2
+   Certain actions may result in a character simulta-         favor, embarrass yourself at a public event, piss off
+neously gaining Rep with one network while losing             somebody important.
+Rep in another. For example, an anarchist prankster              Moderate Loss (–5 or –6 points): Fail to do a Level
+who embarrasses a major hypercorp figure in public            3 favor, endanger someone’s physical safety, make
+will certainly gain some @-rep points, but their c-rep        the news for something negative, ruin an event for
+is likely to go down by an equal amount.                      everybody.
+   Rep changes provide an excellent way for gamemas-             Major Loss (–7 or –8 points): Fail to do a Level 4
+ters to include more roleplaying and more interactions        favor, screw up a major mission or activity, endanger
+with the Eclipse Phase universe in their games. Social        someone’s life, associate with hated rivals.
+networks are a two-way street, meaning that members              Extreme Loss (–9 or –10 points): Fail to do a Level
+of the character’s social networks might contact them         5 favor, botch a major mission or activity spectacularly,
+for equipment, favors, and information during game            betray a faction to its rivals or enemies.
+play for things that are completely unrelated to the
+mission the character is on. A character who ignores          BACKUPS, RECORD-KEEPING,
+such requests risks losing Rep. Fulfilling such requests      AND SAVE POINTS
+may gain the character Rep and may also provide               Thanks to cortical stacks and archived backups, char-
+comic relief or even plant some plot hooks for the            acters in Eclipse Phase can recover from death. When
+next scenario.                                                restoring a character from an earlier backup, however,
+                                                              it is important to be able to know what the state of
+REPUTATION GAINS                                              the character was as of that backup. Any Rez Points
+Rep awards are given for characters who help people           gained or spent, any character advancements made,
+out, benefit a faction, do something creative, make           any key information or memories acquired since that
+a major discovery or strides in a particular area of          backup was made are lost. This means that in terms of
+activity, pull off successful publicity stunts, win a         game stats, resorting to an old backup can mean loss
+competition, and so on. Some suggested examples are           of a character’s hard-earned advancements—that’s the
+noted here:                                                   trade-off for being effectively immortal.
+   Trivial Award (1–2 points): Do a Level 1 favor,               Since these changes can have a serious effect on
+make a moderate contribution to free/open source              game play, it’s important to conduct accurate record-
+projects, throw a good party, make your sales quota,          keeping. This sort of bookkeeping isn’t hard, and
+do the job no one else wants to do.                           there are two ways to do it. The first is to simply
+   Minor Award (3–4 points): Do a Level 2 favor, de-          make a copy of a the character’s record sheet any
+liver a kick-ass or moving performance, make a minor          time a character makes an archived backup, forks off
+contribution to science, win impressively at some             an alpha or beta copy, or dies (thus freezing the corti-
+public event.                                                 cal stack backup). Each of these is considered a “save
+   Moderate Award (5–6 points): Do a Level 3 favor,           point.” In this case, carefully note the date and time
+make a serious business score, lead the winning side          (both in character and out of character), and what
+in a decisive engagement, create the meme everyone            the event was that prompted the backup. Since what
+talks about for a week and then forgets, make the             knowledge a character knows at different points in
+news for something positive, risk serious injury.             their life may be important, you may also want to
+   Major Award (7–8 points): Do a Level 4 favor,              note what important information they may hold in
+design the new tool everyone wants, throw an                  their head, as well as what the recent events in their

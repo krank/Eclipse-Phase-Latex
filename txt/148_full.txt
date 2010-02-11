@@ -1,0 +1,60 @@
+EIDETIC MEMORY (EGO OR MORPH TRAIT)                          INNOCUOUS (MORPH TRAIT)
+Cost: 10 CP                                                  Cost: 10 CP
+  Much like a computer, the character has perfect              In an age when exotic appearances and good looks
+memory recall. They can remember anything they have          are commonplace, the morph’s look is surprisingly
+sensed, often even from a single glance. This works the      bland and undistinguished, in that cookie cutter sort of
+same as the eidetic memory implant (p. 301).                 way. The character’s physical looks are so mundane that
+                                                             others have a hard time picking them out of a crowd,
+EXCEPTIONAL APTITUDE                                         describing their appearance, or otherwise remember-
+Cost: 20 CP                                                  ing physical details. Apply a –10 modifier to all tests
+  The character may raise one of their maximum               made to spot, describe, or remember the character. This
+aptitude up to 10 points over the normal aptitude cap        modifier does not apply to psi or mesh searches.
+(30 for flats, 35 for splicers, 40 for all others). Note
+that this trait just raises the maximum, it does not         LIMBER (MORPH TRAIT)
+give the character more 10 aptitude points. This trait       Cost: 10 (Level 1) or 20 (Level 2) CP
+may be taken only once.                                         The morph is especially flexible and supple, capable
+                                                             of graceful contortions and interesting positions. At
+EXPERT                                                       Level 1, the character can smoke with their toes, do the
+Cost: 10 CP                                                  splits, and squeeze into small, cramped spaces. At Level
+  The character is a legend in the use of one particular     2, they are double-jointed escape artists. Each level pro-
+skill. The character may raise one learned skill over 80,    vides a +10 modifier to escaping from bonds, fitting into
+to a maximum of 90, during character creation. This          narrow confines, and other acts relying on contortion or
+trait does not actually increase the skill, it just raises   flexibility. This trait is only available to biomorphs.
+the maximum. This trait may only be taken once.
+                                                             MATH WIZ
+FAST LEARNER                                                 Cost: 10 CP
+Cost: 10 CP                                                    The character can perform any feat of calculation,
+  The character improves skills and learns new               including the most complex and advanced math-
+ones in half the time it normally takes (see Improv-         ematics, instantly and with great precision, with the
+ing Skills, p. 152).                                         same ease an unmodified human can add 2 + 3. The
+                                                             character can calculate odds with great precision, find
+FIRST IMPRESSION                                             correlations in numerical data, and perform similar
+Cost: 10 CP                                                  tasks with great ease. Apply a +30 modifier on tests
+  The character has a way of charming or otherwise           involving math calculations.
+making a good impression the first time they interact
+with someone. This innate social lubricant allows them       NATURAL IMMUNITY (MORPH TRAIT)
+to more readily deal with new contacts and slip right        Cost: 10 CP
+into new social environments. Apply a +10 modifier              The morph has a natural immunity to a specific
+on social skill tests when the character is interacting      drug, disease, or toxin. When afflicted with that spe-
+with another character for the first time only.              cific chemical, poison, or pathogen, the character re-
+                                                             mains unaffected. At the gamemaster’s discretion, this
+HYPER LINGUIST                                               immunity may not apply to certain agents. It may not
+Cost: 10 CP                                                  be applied to nanodrugs or nanotoxins. This trait is
+   The character has an intuitive understanding of           only available to biomorphs.
+linguistic structures that facilitates learning new
+languages easily. The character requires one-third the       PAIN TOLERANCE (EGO OR MORPH TRAIT)
+normal amount of time and experience to learn any            Cost: 10 (Level 1) or 20 (Level 2) CP
+language (see Improving Skills, p. 152). The character         The character has a high threshold for pain toler-
+can also learn any human language in one day simply          ance and is better at ignoring the effects of pain on
+by constant immersive exposure to it. Additionally,          their abilities and concentration. Level 1 allows them
+the character receives a +10 modifier when attempting        to ignore the –10 modifier from 1 wound. Level
+to interpret languages they don’t know.                      2 allows them to ignore the –10 modifiers from 2
+                                                             wounds. This trait is only available for biomorphs.
+IMPROVED IMMUNE SYSTEM (MORPH TRAIT)
+Cost: 10 (Level 1) or 20 (Level 2) CP                        PATRON
+   The morph’s immune system is robust and more              Cost: 30 CP
+resistant to diseases, drugs, and toxins—even more              The character has an influential person in their
+than basic bio-mods. At Level 1, apply a +10 modifier        life who can be relied on for occasional support.
+whenever making a test to resist infection or the ef-        This could be a wealthy hyperelite family member, a
+fects of a toxin or drug. At Level 2, increase this modi-    high-ranking triad boss, or an anarchist networker
+fier to +20. This trait is only available to biomorphs.      with an unbeatable reputation. When called upon,

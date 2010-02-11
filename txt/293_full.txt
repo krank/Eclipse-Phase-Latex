@@ -1,0 +1,60 @@
+                                                           when it goes off, but transhuman flesh is sufficient to
+SECURITY                                                   prevent it destroying medichines or other implanted
+                                                           nanobots. Infiltrators trying to gather data in areas
+Firewall sentinels make a regular habit of being in
+places where they are not supposed to be and bring-        protected by zappers generally resort to going around
+ing things with them that others would prefer they         them or trying to plant macroscale devices.
+not have. Security has a different character post-Fall
+than in the 21st century. Due to hyper-abundance,          ELECTRONIC LOCKS
+physical security measures such as locks, doors, and       Electronic locks (e-locks) are commonly used as a
+walls are less important than in the past to common        means of maintaining privacy. They are easy to defeat,
+citizens. People don’t worry about theft as much as        however, and so are rarely used in very secure areas.
+in the past because most items can be replaced by a        E-locks have several advantages over old-fashioned
+nanofabricator. The items that do tend to engender         mechanical locks. Different users can have different
+this type of security are irreplaceable or rare items      authentication methods, they can log all events (entry,
+such as artifacts of Earth.                                exit, failed authentications), and they can be con-
+   Post-Fall physical security focuses heavily on          nected (usually hardwired but sometimes encrypted
+surveillance—identifying intruders and tracking            wireless) to security systems for remote control and
+them so that they can be interdicted by transhuman         alarm triggering.
+or robotic defenders. Surveillance is more effec-             E-locks use one of several authentication systems,
+tive than in pre-Fall societies because AIs with           or sometimes a combination of systems:
+near-human faculties of pattern recognition and               Biometric: The lock scans one or more of the user’s
+indentured infomorphs can be employed to monitor           biometric prints. Common biometrics include DNA,
+surveillance data.                                         facial thermographic, fingerprint, gait, hand veins, iris,
+  The emphasis on surveillance results from the ease       keystroke, odor, palm, retinal, and voice prints.
+with which most material barriers can be breached             Keypad: This is an alphanumeric keypad upon
+by high-powered hand weaponry and devices like             which users enter a specific code. Different users can
+the covert operations tool (p. 315). However, physi-       have different codes.
+cal barriers designed to actively resist intruders by         Token: Authorized users must carry some sort of
+healing themselves or attacking tools used to damage       physical token that interacts with the lock to open the
+them are used at key points in secure installations.       door, such as a keycard, electronic key, etc.
+Such barriers are typically very expensive and so are         Wireless Code: Users must emit a cryptographic
+used sparingly.                                            code via near-proximity wireless signal.
+  Transhuman, animal, and infolife defenders are              Though various technologies exist to defeat each
+cornerstones of most security systems. The avail-          of these systems, there are three methods that work
+ability of a huge pool of infomorph labor to guard         against almost all e-locks. The first is use of a covert
+facilities means that someone is always on duty,           operations tool (p. 315), which infiltrates a lock with
+whether as part of the surveillance system or in a         nanobots that swarm in and engage the electronic
+robotic shell.                                             mechanism. The drawback to using a COT is that its
+                                                           use is immediately logged by the e-lock and an alarm
+ACCESS CONTROL                                             is triggered. Some e-locks are equipped with guardian
+The first step in any security system is simply to enact   nanoswarms (p. 329) to defeat COTs, but the COT
+measure to keep unwanted people out. At a basic level      nanobots usually manage to open the lock before the
+this involves walls, locks, fencing, defensive landscap-   guardians eat them.
+ing, security lighting, and entoptic warnings.                The second method is to hack the e-lock. Most
+   Barriers of different sorts present an obstacle that    e-locks are slaved to a security system, so this often
+must be cut through or blown apart in order to             means intruding into the security system and then
+defeat. Barriers are treated just like other inanimate     opening the lock from within. This can be difficult,
+objects for purposes of attack sand damage; see Ob-        however, especially if the security system is wire-
+jects and Structures, p. 202.                              lessly isolated or hardwired. The advantage is that,
+                                                           if done right, all evidence of the lock being opened
+BUG ZAPPERS                                                can be erased.
+Bug zappers create minute EMP pulses that are harm-           The third method is to physically open and ma-
+less to most electronic equipment and implants but         nipulate the lock. This requires first opening the
+wreak havoc on nanobot swarms, microbugs, and              lock’s case and then triggering the lock mechanism
+specks. Bug zappers are generally applied to surfaces,     to open the door. Both of these are handled as
+and as such they only destroy floating/flying swarms       separate Hardware: Electronics Task Actions with
+or specks if they land. In areas with heavily shielded     a timeframe of 1 minute each. In addition, most e-
+electronics, they may be installed to destroy targets      locks have anti-tamper circuits that will set off an
+in an entire room. A zapper instantly destroys all         alarm if the attacker does not achieve an Excellent
+free-crawling or flying nanobots and specks in a room      Success when opening the case.

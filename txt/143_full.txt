@@ -1,0 +1,60 @@
+only 1-2 hours a day on average. They also have the           RUSTERS
+ability to trigger a form of voluntary hibernation,           Adapted for survival with minimum gear in the not-
+effectively stopping their metabolism and need for            yet-terraformed Martian environment, these transgenic
+oxygen. Hibernoids make excellent long-duration               morphs feature insulated skin for more effective ther-
+space travelers and habtechs, but these morphs are            moregulation and respiratory system improvements to
+also favored by personal aides and hypercapitalists           require less oxygen and filter carbon dioxyde, among
+with non-stop lifestyles.                                     other mods.
+Implants: Basic Biomods, Basic Mesh Inserts, Circa-           Implants: Basic Biomods, Basic Mesh Inserts, Cortical
+   dian Regulation, Cortical Stack, Hibernation                 Stack, Enhanced Respiration, Temperature Tolerance
+Aptitude Maximum: 25                                          Aptitude Maximum: 25
+Durability: 35                                                Durability: 35
+Wound Threshold: 7                                            Wound Threshold: 7
+Advantages: +5 INT, +5 to one aptitude of the player’s        Advantages: +5 SOM, +5 to one aptitude of the
+   choice                                                       player’s choice
+CP Cost: 25                                                   CP Cost: 25
+Credit Cost: Expensive                                        Credit Cost: Expensive
+
+NEOTENICS                                                     NEO-AVIANS
+Neotenics are transhumans modified to retain a child-         Neo-avians include ravens, crows, and gray parrots
+like form. They are smaller, more agile, inquisitive,         uplifted to human-level intelligence. Their physical
+and less resource-depleting, making them ideal for            sizes are much larger than their non-uplifted cous-
+habitat living and spacecraft. Some people find neo-          ins (to the size of a human child), with larger heads
+tenic sleeves distasteful, especially when employed in        for their increased brain size. Numerous transgenic
+certain media and sex work capacities.                        modifications have been made to their wings, allow-
+Implants: Basic Biomods, Basic Mesh Inserts, Cortical         ing them to retain limited flight capabilities at 1 g,
+   Stack                                                      but giving them a more bat-like physiology so they
+Aptitude Maximum: 20 (SOM), 30 (all else)                     can bend and fold better, and adding primitive digits
+Durability: 30                                                for basic tool manipulation. Their toes are also more
+Wound Threshold: 6                                            articulated and now accompanied with an opposable
+Advantages: +5 COO, +5 INT, +5 REF, +5 to one                 thumb. Neo-avians have adapted well to microgravity
+   aptitude of the player’s choice; neotenics count as a      environments, and are favored for their small size and
+   small target (–10 modifier to hit in combat)               reduced resource use.
+Disadvantages: Social Stigma (Neotenic) trait                 Implants: Basic Biomods, Basic Mesh Inserts,
+CP Cost: 25                                                      Cortical Stack
+Credit Cost: Expensive                                        Aptitude Maximum: 25 (20 SOM)
+                                                              Durability: 20
+REMADE                                                        Wound Threshold: 4
+The remade are completely redesigned humans:                  Advantages: Beak/Claw Attack (1d10 DV, use Un-
+humans 2.0. Their cardiovascular systems are stronger,           armed Combat skill), Flight, +5 INT, +10 REF, +5
+the digestive tract has been sanitized and restructured          to one other aptitude of the player’s choice
+to eliminate flaws, and they have otherwise been opti-        CP Cost: 25
+mized for good health, smarts, and longevity with nu-         Credit Cost: Expensive
+merous transgenic mods. The remade are popular with
+the ultimates faction. The remade look close to human,        NEO-HOMINIDS
+but are different in very noticeable and sometimes eerie      Neo-hominids are uplifted chimpanzees, gorillas, and
+ways: taller, lack of hair, slightly larger craniums, wider   orangutans. All feature enhanced intelligence and
+eyes, smaller noses, smaller teeth, and elongated digits.     bipedal frames.
+Implants: Basic Biomods, Basic Mesh Inserts, Circa-           Implants: Basic Biomods, Basic Mesh Inserts,
+  dian Regulation, Clean Metabolism, Cortical Stack,            Cortical Stack
+  Eidetic Memory, Enhanced Respiration, Tempera-              Aptitude Maximum: 25
+  ture Tolerance, Toxin Filters                               Durability: 30
+Aptitude Maximum: 40                                          Wound Threshold: 6
+Durability: 40                                                Advantages: +5 COO, +5 INT, +5 SOM, +5 to one other
+Wound Threshold: 8                                              aptitude of the player’s choice, +10 Climbing skill
+Advantages: +10 COG, +5 SAV, +10 SOM, +5 to two               CP Cost: 25
+  other aptitudes of the player’s choice                      Credit Cost: Expensive
+Disadvantages: Uncanny Valley trait
+CP Cost: 60                                                   OCTOMORPHS
+Credit Cost: Expensive (minimum 40,000+)                      These uplifted octopi sleeves have proven quite useful
+                                                              in zero-gravity environments. They retain eight arms,

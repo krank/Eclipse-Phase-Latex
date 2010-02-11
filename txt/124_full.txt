@@ -1,0 +1,100 @@
+                                                                  • The character may ignore all modifiers that apply
+           Tyska is sleeved in a run-of-the-mill splicer morph      to a test. The Moxie point must be spent before
+           with a Durability of 30. That gives him a Wound          dice are rolled.
+ EXAMPLE
+
+
+
+
+           Threshold of 6 (30 ÷ 5) and a Death Rating of          • The character may flip-flop a d100 roll result. For
+           45 (30 x 1.5). If Tyska acquired an implant that         example, an 83 would become a 38.
+           boosted his Durability by +10 to 40, his Wound         • The character may upgrade a success, making it a
+           Threshold would be 8 (40 ÷ 5) and his Death              critical success, as if they rolled doubles. The char-
+           Rating would be 60 (40 x 1.5).                           acter must succeed in the test before they spend
+                                                                    the Moxie point.
+                                                                  • The character may ignore a critical failure, treat-
+LUCIDITY (LUC)                                                      ing it as a regular failure instead.
+Lucidity is similar to Durability, except that it measures
+                                                                  • The character may go first in an Action Phase (p. 189).
+mental health and state of mind rather than physical
+well-being. Your Lucidity determines how much stress
+                                                                   Only 1 point of Moxie may be spent on a single roll.
+(mental damage) you can take before you are incapaci-
+                                                                 Moxie points will fluctuate during gameplay, as they
+tated or driven insane (see Mental Health, p. 209).
+                                                                 are spent and sometimes regained.
+  Lucidity is unlimited, but generally ranges from
+                                                                    Regaining Moxie: At the gamemaster’s discretion,
+20 to 60 for baseline unmodified humans. Lucidity is
+                                                                 Moxie points may be refreshed up to the character’s
+determined by your Willpower aptitude x 2.
+                                                                 full Moxie stat any time the character rests for a sig-
+                                                                 nificant period. Moxie points may also be regained if
+TRAUMA THRESHOLD (TT)                                            the character achieves a personal goal, as determined
+The Trauma Threshold determines if you suffer a
+                                                                 by their Motivation (see p. 121). The gamemaster de-
+trauma (mental wound) each time you take stress (see
+                                                                 termines how much Moxie is regained in proportion
+Mental Health, p. 209). A higher Trauma Threshold
+                                                                 to the goal achieved.
+means that your mental state is more resilient against
+experiences that might inflict psychiatric disorders or
+other serious mental instabilities.                                Audrey has a difﬁcult Piloting: Aircraft roll to make.
+  Trauma Threshold is calculated by dividing Lucidity              Her skill is 61, but she’s facing a lot of modiﬁers
+by 5 (rounding up).                                                (–30), and if she fails she’s in big trouble. She
+
+
+
+
+                                                                                                                            EXAMPLE
+                                                                   could spend a point of Moxie before the test to
+INSANITY RATING (IR)                                               ignore the modiﬁers, but she decides to take her
+Your Insanity Rating is the total amount of stress your            chances against the target number of 31. Unfor-
+mind can take before you go permanently insane and                 tunately, she rolls an 82. Luckily, she can spend
+are lost for good. Insanity Rating equals LUC x 2.                 a Moxie point to ﬂip-ﬂop that roll and make it a
+                                                                   28—a success!
+ EXAMPLE
+
+
+
+
+           Cole’s Willpower is 16. That makes his Lucidity
+           stat 32 (16 x 2), his Trauma Threshold 7 (32 ÷ 5,     DAMAGE BONUS
+           rounded up), and his Insanity Rating 64 (32 x 2)        The Damage Bonus stat quantifies how much extra
+                                                                 oomph your character is able to give their melee and
+                                                                 thrown weapons attacks. Damage Bonus is deter-
+MOXIE                                                            mined by dividing your Somatics aptitude (see below)
+Moxie represents your character’s inherent talent at
+                                                                 by 10 and rounding down.
+facing down challenges and overcoming obstacles
+with spirited fervor. More than just luck, Moxie is
+your character’s ability to run the edge and do what
+                                                                 CHARACTER SKILLS
+                                                                 Skills represent your character’s talents. Skills are
+it takes, no matter the odds. Some people consider it
+                                                                 broken down into aptitudes (ingrained abilities that
+the evolutionary trait that spurred humankind to pick
+                                                                 everyone has) and learned skills (abilities and knowl-
+up tools, expand our brains, and face the future head
+                                                                 edge picked up over time). Skills determine the target
+on, leaving other mammals in the dust. When the sky
+                                                                 number used for tests (see Making Tests, p. 115).
+is falling, death is imminent, and no one can help you,
+Moxie is what saves the day.
+   The Moxie stat is rated between 1 and 10, as pur-
+                                                                 APTITUDES
+                                                                 Aptitudes are the core skills that every character has
+chased during character creation (and perhaps raised
+                                                                 by default. They are the foundation on which learned
+later). In game play, Moxie is used to influence the
+                                                                 skills are built. Aptitudes are purchased during charac-
+odds in your favor. Every game session, your character
+                                                                 ter creation and rate between 1 and 30, with 10 being
+begins with a number of Moxie points equal to their
+                                                                 average for a baseline unmodified human. They repre-
+Moxie stat. Moxie points may be spent for any of the
+                                                                 sent the ingrained characteristics and talents that your
+following effects:
+                                                                 character has developed from birth and stick with you
+                                                                 even when you change morphs—though some morphs
+                                                                 may modify your aptitude ratings.

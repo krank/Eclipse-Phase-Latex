@@ -1,0 +1,59 @@
+ Test (SOM x 3 for synthmorphs or biomorphs with                    overheating, however, and so require 1 full Action
+ any form of pain tolerance). Failure means the target              Turn of cool-down time after every 2 shots. Plasma
+ is temporarily stunned and disoriented and loses                   rifles only fire in single shot mode. [Expensive]
+ their next action. A critical failure means the target                Stunner: The stunner is an electrolaser that cre-
+ is knocked down and paralyzed for 1 Action Turn per                ates an electrically-conductive plasma channel to the
+ 10 points of MoF. In this stun setting, the pulser fires           target, down which it transmits a powerful electric
+ only in single-shot mode.                                          current, shocking the target. Stunners do not work in
+    Microwave Agonizer: The agonizer fires millimeter-              vacuum. Stunners fire in semi-auto mode. [Moderate]
+ wave beams that create an unpleasant burning sen-
+ sation in skin (even through armor) and to metals.                 SEEKERS
+ Agonizers have two settings. The first is an active                Seekers are a combination of automatic grenade
+ denial setting that causes extreme burning pain in the             launcher, micromissile, coilgun, and smart munitions
+ target, inflicting –20 to the target’s actions and forc-           technology. Unlike traditional launchers of the past,
+ ing them to move away from the beam on their next                  miniaturization allows the manufacture of seeker mi-
+ action unless they succeed in a WIL Test (targets with             cromissile launchers in personal weapon sizes. Seeker
+ Level 1 Pain Tolerance or the equivalent only suffer               rounds are fired at high-velocity via rings of magnetic
+ a –10 modifier and roll WIL x 2). Synthetic morphs                 coils, after which the micromissile or minimissile uses
+ and biomorphs with Level 2 Pain Tolerance (or the                  scramjet technology to propel itself and maintain high
+ equivalent) are immune to this weapon. The second                  velocities over great distances. Seekers are wielded
+ setting (colloquially known as the “roast” setting) has            using Seeker Weapon skill.
+ the same effect of the first, but also actually burns the             Seeker missiles are detailed on p. 340. Like gre-
+ target, inflicting the listed damage. Originally devel-            nades, seekers may be programmed for a variety of
+ oped for crowd control, the agonizer is also useful for            trigger events (see Grenades and Seekers, p. 199). All
+ repelling animals. The agonizer is small-sized (p. 297)            seeker weapons are smartlink-equipped (p. 342).
+ and fires in semi-auto mode. [Moderate]                               Disposable Launcher (Standard Missile): This
+    Particle Beam Bolter: This weapon shoots a bolt of              launcher is pre-packed with one standard missile.
+ accelerated particles at near light speed that transfer            [Moderate (includes missile)]
+ massive amounts of kinetic energy to the target, su-                  Seeker Armband (Micromissile): This weapons unit
+ perheating and creating an explosion when striking.                is worn on the arm, allowing the user to point and
+ The bolter’s beam is not diffused by the cloud that                fire using an entoptic smartlink system. Though highly
+ occurs when it strikes, and so it has greater penetra-             portable, the armband’s micromissile supply is low. It
+ tion than the laser pulser. Likewise, the bolter is not            fires in single-shot mode. [Moderate]
+ affected by smoke, fog, or rain. The bolter’s beam is                 Seeker Pistol (Micromissile): This pistol-sized
+ invisible. Note that bolters are designed for either               seeker launcher fires micromissiles in semi-auto
+ atmospheric or exoatmospheric (vacuum) operation,                  mode. [Moderate]
+ and will not function in the opposite environment
+ (though bulkier dual models, combining both models,
+ are also available). Bolters fire in semi-auto mode and                         SEEKER WEAPONS
+ are rifle-sized two-handed weapons. [High]
+                                                                SEEKER WEAPONS           FIRING MODES             AMMO
+    Plasma Rifle: This bulky, heavy, two-handed
+ weapon blasts a stream of nova-hot plasma at the               Disposable Launcher              SS                  1
+ target, inflicting severe burns and thermal damage,            Seeker Armband                   SS                  4
+ possibly melting or evaporating the target entirely.           Seeker Pistol                    SA                  8
+ Plasma rifles are perhaps the deadliest man-portable           Seeker Riﬂe                      SA     12 micromissile/6 minimissi
+ weapons in use. Plasma guns suffer from dangerous              Underbarrel Seeker               SA                  6
+
+
+
+                                                BEAM WEAPONS
+BEAM WEAPONS                     ARMOR PENETRATION (AP)      DAMAGE VALUE (DV)          AVERAGE DV FIRING MODES           AMMO
+Cybernetic Hand Laser (p. 308)             —                         2d10                   11             SA                50
+Laser Pulser                               —                         2d10                   11             SA               100
+   Stun Mode                               —                         1d10                   5               SS               —
+Microwave Agonizer                         —                 pain (see description)         —              SA               100
+   Roast Mode                              –5                        2d10                   11             SA                50
+Particle Beam Bolter                       –2                      2d10 + 4                 15             SA                50
+Plasma Riﬂe                                –8                     3d10 + 12                 28              SS               10
+Stunner                                    —              (1d10 ÷ 2) + shock (p. 204)       —              SA               200

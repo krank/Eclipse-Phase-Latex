@@ -1,0 +1,64 @@
+WHAT YOUR MUSE                                                   NON-STANDARD AIS
+CAN DO FOR YOU                                                   AND AGIS
+• Make Research Tests to ﬁnd information for you.                Not all AIs and AGIs were programmed and de
+• Scan newsfeeds and mesh updates for keyword alerts.            signed to adhere to human modes of thought
+                                                                 and interests. Such creations are illegal in some
+• Monitor your mesh inserts/ecto/PAN and slaved devices
+                                                                 jurisdictions, as they are considered a potential
+  for intrusion.
+                                                                 threat. Several hypercorps and other groups have
+• Launch countermeasures against intruders.
+                                                                 initiated research into this ﬁeld, however, with
+• Teleoperate and command robots.                                varying results. In some cases these digital minds
+• Monitor your Rep score and alert you to drastic changes.       are so different from human mindsets that com
+• Automatically provide feedback for other people’s              munication is is impossible. In others, enough
+  Rep scores.                                                    crossover exists to allow limited communication
+• Run audio input through an online, real-time language          but such entities are invariably quite strange.
+  translation system.                                               Rumors persist that some AIs began their
+                                                                 life as transhuman backups or forks, who were
+• Put you in privacy mode and/or proactively stealth your
+                                                                 then heavily edited and pruned down to AI
+  wireless signal.
+                                                                 level intelligences.                            ■
+• Falsify/ﬂuctuate your mesh ID.
+• Track people for you.
+• Anticipate your needs and act accordingly, pre-empting
+                                                              enough resources to handle them. Others are impris-
+  your requests.                                         ■
+                                                              oned inside simulspaces, killing time in whatever way
+                                                              they choose until an opportunity to resleeve comes
+                                                              their way. Quite a few are free to roam the mesh, in-
+  strict restrictions, forcing such infolife to hide their    teracting with physically-sleeved transhumans, keep-
+  true natures or illegally darkcast to enter habitats or     ing up with current events, and sometimes even form-
+  stations. AGI mind programming emulates transhu-            ing activist political blocs to campaign for infomorph
+  man brain patterns sufficiently well that they can be       rights or interests. Still others find or are forced into
+  sleeved into biomorphs if they choose.                      virtual careers, slaving away in the digital sweatshops
+                                                              of hypercorps or criminal syndicates. A few find com-
+  SEED AI                                                     panions who are willing to bring them along in their
+  Due to the capability for unlimited self-upgrading,         ghostrider module and become an integral part of
+  seed AIs have the capacity to grow into god-like            their lives, much like a muse.
+  digital entities far beyond the level of transhumans           Some transhumans willingly choose the infomorph
+  or AGIs. They require massive processing power and          lifestyle, either for hedonism (custom simulspace and
+  are always increasing in complexity due to a continual      VR games until the end of time), escapism (loss of a
+  metamorphosis of their code. Seed AIs are too com-          loved ones leads them to write off physical concerns
+  plex to be downloaded into a physical morph, even           for awhile), freedom (go anywhere the mesh takes
+  a synthetic one. Even their forks require impressive        you—some have even beamed copies of themselves to
+  processing environments, so doing so is rare. In fact,      far distant solar systems, hoping someone or something
+  most seed AIs require the capacities of hard-wired          will receive their signal when they arrive), experimen-
+  networks to survive.                                        tation (forking and merging, running simulations, and
+    The only seed AIs known to the public are the             weirder things), or because it is ensured immortality.
+  infamous TITANs who are widely regarded as being
+  responsible for the Fall. In truth, the TITANs were
+  not the first seed AIs and will probably not be the last.   EVERYDAY MESH MECHANICS
+  There are no publicly known TITANs (or other seed           Everyone (and everything) is meshed in Eclipse Phase.
+  AIs) currently residing in the solar system, despite        The following rules and concerns apply to standard
+  circulating rumors of damaged TITANs who were left          mesh use. Note that various mesh-related terms are
+  behind on Earth, speculated TITAN activity under the        explained, along with other Eclipse Phase concepts,
+  clouds of Venus, or whispers of new seed AIs hidden         under Terminology, p. 25.
+  away in secret networks on the edges of the system.
+                                                              MESH INTERFACE
+  TRANSHUMAN INFOMORPHS                                       Characters have a choice of which interface to use, the
+  For thousands of infugees, embodying a digital form         entoptic interface of basic mesh inserts or the haptic
+  is their only choice. Some of these are locked away         interface of an ecto.
+  in mesh-separated virtual holding areas or even inac-         The basic mesh inserts used by most users allows
+  tive storage, locked up by habitats who didn’t have         them to interact with AR, VR, XP, and the mesh at the

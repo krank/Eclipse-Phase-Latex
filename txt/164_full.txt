@@ -1,0 +1,68 @@
+                                                             LUNAR EGO HUNTER
+                                                                        APTITUDES
+                                                                                COG     COO      INT      REF    SAV        SOM    WIL
+                                                                      Base       15      20       15       10     10         15    20
+                                                               Morph Bonus       5                5               5                 10
+                                                                      Total      20      20       20      10     15         15      30
+
+
+
+
+                                                                MOX  TT     LUC       IR               WT DUR DR INIT
+                                                                                                                        STATS      SPD
+                                                                 1  8 (12) 40 (60) 80 (120)             7  35 53 50 (70)           1 (2)
+
+
+
+
+                                                                                                                  MORPH
+                                                                                                                       SKILLS
+                                                                                                 APT      BASE    BONUS           TOTAL
+                                                                   Academics: Neurology          COG       55       5               60
+                                                                  Academics: Psychology          COG       60       5               65
+                                                                                Art: Dance       INT       45       5               50
+                                                                               Art: Painting     INT       45       5               50
+                                                                           Beam Weapons          COO       60                       60
+                                                                                       Clubs     SOM       45                       45
+                                                                                     Control     WIL       50          10           60
+                                                                                        Fray     REF       50                       50
+                                                                               Freerunning       SOM       55                       55
+                                                                                 Inﬁltration     COO       50                       50
+                                                                                     Infosec     COG       45          5            50
+                                                                   Interests: Conspiracies       COG       55          5            60
+                                                            Interests: Hypercorp Projects        COG       55          5            60
+                                                                         Interests: TITANs       COG       60          5            65
+                                                                               Intimidation      SAV       20          5            25
+                                                                              Investigation      INT       50          5            55
+                                                                                    Kinesics     SAV       40          5            45
+                                                                Language: Native English         INT       85          5            90
+                                                                     Language: Japanese          INT       85          5            90
+                                                                          Language: Hindi        INT       25          5            30
+                                                                     Networking: Criminal        SAV       30          5            35
+                                                                   Networking: Ecologists        SAV       40          5            45
+                                                                 Networking: Hypercorps          SAV       50          5            55
+ nal Development +Self-Protection +Vengeance                                    Perception       INT       40          5            45
+                                                                  Profession: Ego Hunting        COG       55          5            60
+                   EQUIPMENT                               Profession: Inner System Law          COG       45          5            50
+er (Borderline     Armor: Body Armor (Light) [10/10] ■     Profession: Police Procedures         COG       55          5            60
+ntal Disorder      Primary Weapon: Agonizer ■                                   Psi Assault      WIL       40          10           50
+ ulsive), Psi      Starting Credit: 2,700 ■
+                                                                                  Research       COG       55          5            60
+Stigma (Lost),     Implants: Adrenal Boost,
+                     Basic Biomods, Basic Mesh                                        Sense      INT       55          5            60
+                     Inserts, Cortical Stack, Eidetic                    Unarmed Combat          SOM       55                       55
+                     Memory, Emotional Dampers,
+Control,             Enhanced Hearing, Enhanced          You survived your accelerated            and sometimes even their memo-
+ old, Instinct,      Smell, Enhanced Vision,             growth experience as a member            ries and mannerisms. All the while
+ d■                  Medichines, Oracles ■               of the Lost generation, the col-         you viciously hide your own history
+can, Ego Sense,    Gear: Backup Insurance                lapse of the project, and the scan-      and out-maneuver those who want
+bliminal ■           (1 month), Disabler, Facial/        dal and witchhunts that followed.        to track your kind down. You are
+                     Image Recognition Software,         You’ve immersed yourself in a            not content to be a victim or a mer-
+                     Fake Ego ID, Muse, Shock Ba-        new life and identity. Now you put       cenary for others, however. Slowly
+                     ton, Sniffer Software, Tactical     your particular skills and talents to    but surely you are amassing infor-
+                     Network Software, Taggant           use tracking people as a bounty          mation on those responsible for
+                     Nanoswarm, Track Software,          hunter—a daunting task consider-         the Lost project—for what they
+                     Tracker Dye (1 dose), Twitch        ing that your targets can change         did to you—and some day you will
+                     (1 dose) ■                          not only their faces but their bodies    make them pay. ■
+                               “Hello, doctor, you’re a hard man to ﬁnd.
+                  I have some questions about some children that I’d like to ask you.”

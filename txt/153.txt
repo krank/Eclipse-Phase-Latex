@@ -1,0 +1,119 @@
+NO CORTICAL STACK (MORPH TRAIT)
+Bonus: 10 CP
+  The morph lacks the cortical stack that is common
+to morphs of its type. This means the character cannot
+be resleeved from the cortical stack if the character
+dies, they can only be resleeved from a standard
+backup. This trait is not available for flats.
+
+OBLIVIOUS
+Bonus: 10 CP
+  The character is particularly oblivious to events
+around them or anything other than what their at-
+tention is focused on. They suffer a –10 modifier
+to Surprise Tests and their modifier for being Dis-
+tracted is –30 rather than the usual –20 (see Basic
+Perception, p. 190).
+
+ON THE RUN
+Bonus: 10 CP
+  The character is wanted by the authorities of a
+particular habitat/station or faction, who continue to
+actively search for the character. They either commit-
+ted a crime or somehow displeased someone in power.
+The character deals with that faction in question at
+their own risk, and may occasionally be forced to deal
+with bounty hunters.
+
+PSI VULNERABILITY (EGO OR MORPH TRAIT)
+Bonus: 10 CP
+  Something about the character’s mind makes
+them particularly vulnerable to psi attack. They
+suffer a –10 modifier when resisting such attacks.
+The morph version of this trait may only be taken
+by biomorphs.
+
+REAL WORLD NAIVETÉ
+Bonus: 10 CP
+   Due to their background, the character has very
+limited personal experience with the real (physical)
+world—or they have spent so much time in simul-
+space that their functioning in real life is impaired.
+They lack an understanding of many physical proper-
+ties, social cues, and other factors that people with
+standard human upbringings take for granted. This
+lack of common sense may lead the character to
+misunderstand how a device works or to misinterpret
+someone’s body language.
+   Once per game session, the gamemaster may in-
+tentionally mislead the character when giving them
+a description about some thing or some social in-
+teraction. This falsehood represents the character’s
+misunderstanding of the situation, and should be
+roleplayed appropriately, even if the player realizes
+the character’s mistake.
+   This trait should only be available to characters
+with the infolife or reinstantiated backgrounds,
+though the gamemaster may allow it for characters
+who have extensive virtual reality/XP use in their
+personal histories.
+SEVERE ALLERGY (MORPH TRAIT)
+Bonus: 10 (uncommon) or 20 (common) CP
+   The morph’s biochemistry suffers a severe allergic
+reaction (anaphylaxis) when it comes into contact
+(touched, inhaled, or ingested) with a specific allergen.
+The allergen may be common (dust, dander, plant pollen,
+certain foods, latex) or uncommon (certain drugs, insect
+stings). The player and gamemaster should agree on an
+allergen that fits the game. If exposed to the allergen,
+the character breaks into hives, has difficulty to breath-
+ing (–30 modifier to all actions), and must make a DUR
+Test or go into anaphylactic shock (dying of respiratory
+failure in 2d10 minutes unless medical care is applied).
+This trait is only available to biomorphs.
+
+SLOW LEARNER
+Bonus: 10 CP
+  New skills are not easy for this character to pick
+up. The character takes twice as long as normal to
+improve skills or learn new ones (p. 152).
+
+SOCIAL STIGMA (EGO OR MORPH TRAIT)
+Bonus: 10 CP
+   An unfortunate aspect of the character’s back-
+ground means that they suffer from a stigma in
+certain social situations. They may be sleeved in
+a morph viewed with repugnance, be a survivor of
+the infamous Lost generation, or may be an AGI in
+a post-Fall society plagued by fear of artificial intelli-
+gence. In social situations where the character’s nature
+is known to someone who view that nature with dis-
+taste, fear, or repugnance, they suffer a –10 to –30
+modifier (gamemaster’s discretion) to social skill tests.
+
+TIMID
+Bonus: 10 CP
+ This character frightens easily. They suffer a –10
+modifier when resisting fear or intimidation.
+
+UNATTRACTIVE (MORPH TRAIT)
+Bonus: 10 CP (Level 1), 20 CP (Level 2), 30 CP (Level 3)
+   In a time when good looks are easily purchased,
+this morph is conspicuously ugly. As unattractiveness
+is increasingly associated with being poor, backward,
+or genetically defective, responses to a lack of good
+looks range from distaste to horror. The character suf-
+fers a –10 modifier on social tests for Level 1, –20 for
+Level 2, and –30 for Level 3.
+   Only biomorphs may take this trait. This modifier
+does not apply to interactions with xenomorphs or
+those with the infolife or uplift backgrounds. This
+modifier may be purchased for uplift morphs, but at
+half the bonus, and it is only effective against char-
+acters with that specific uplift background (i.e., neo-
+avians, neo-hominids, etc.).
+
+UNCANNY VALLEY (MORPH TRAIT)
+Bonus: 10 CP
+  There is a point where synthetic human looks
+become uncannily realistic and human-seeming, but

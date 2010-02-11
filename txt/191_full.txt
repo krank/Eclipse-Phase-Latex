@@ -1,0 +1,74 @@
+INITIATIVE ORDER
+A character’s Initiative stat is equal to their Intuition +           SIMPLIFYING
+Reflexes aptitudes multiplied by 2. This score may be
+further modified by morph type, implants, drugs, psi,                 INITIATIVE
+or wounds.                                                            For speedier resolution, simply have characters
+  In the first step of each Action Turn, every charac-                roll Initiative once for an entire scene. That
+ter makes an Initiative Test, rolling d100 and adding                 Initiative result stays with them on each Action
+their Initiative stat. Whoever rolls highest goes first,              Turn until the combat or scenario is over. Like-
+followed by the other characters in descending order,                 wise, ignore Initiative modiﬁers from wounds. ■
+highest to lowest. In the event of a tie, characters go
+simultaneously.
+
+
+           Adam, Bob, and Cami are rolling Initiative. Adam’s       Phases as well. For example, a character with Speed
+           Initiative stat is 80, Bob’s is 110, and Cami’s is 60.   2 can act in the first and second Action Phases, and
+           Adam rolls a 38, Bob rolls a 24, and Cami rolls a        a character with Speed 3 can act in the first through
+ EXAMPLE
+
+
+
+
+           76. Adam’s total Initiative score is 118 (80 + 38),      third Action Phases. A character with Speed 4 is
+           Bob’s is 134 (110 + 24), and Cami’s is 136 (60 +         able to act in every Action Phase. This represents
+           76). Cami rolled highest, so she goes ﬁrst, followed     the character’s enhanced reflexes and neurology, al-
+           by Bob and then Adam. If Cami & Bob had tied,            lowing them to think and act much faster than non-
+           they would both go at the same time.                     enhanced characters.
+                                                                      If a character’s Speed does not allow them to act
+                                                                    during an Action Phase, they can initiate no actions
+INITIATIVE AND DAMAGE                                               during the pass—they must simply bide their time.
+Characters who are suffering from wounds have their                 The character may still defend themself, however, and
+Initiative score temporarily reduced (see Wounds, p.                any automatic actions remain “on.” Note that any
+207). This modifier is applied immediately when the                 movement the character initiated is considered to still
+wound is taken, which means that it may modify an                   be underway even during the Action Phases they do
+Initiative score in the middle of an Action Turn. If a              not participate in (see Movement, p. 190).
+character is wounded before they go in that Action
+Phase, their Initiative is reduced accordingly, which               DELAYED ACTIONS
+may mean they now go after someone they were pre-                   When it’s your turn to go during an Action Phase,
+viously ahead of in the Initiative order.                           you may decide that you’re not ready to act yet. You
+                                                                    may be awaiting the outcome of another character’s
+                                                                    actions, hoping to interrupt someone else’s action, or
+           Before Bob’s Action Phase comes up, Bob takes
+ EXAMPLE
+
+
+
+
+                                                                    may simply be undecided about what to do yet. In this
+           two wounds, knocking his Initiative down from
+                                                                    case, you may opt to delay your action.
+           134 to 114. This means that Adam, with an Initia-
+                                                                      When you delay your action, you’re putting your-
+           tive of 118, now goes before him.
+                                                                    self on standby. At some later point in that Action
+                                                                    Phase, you can announce that you are now taking
+INITIATIVE, MOXIE, AND CRITICALS                                    your action—even if you interrupt another character’s
+A character may spend a point of Moxie to go first in               action. In this case, all other activity is put on hold
+an Action Phase, regardless of their Initiative roll (see           until your action is resolved. Once your action has
+Moxie, p. 122). If more than one character chooses                  taken place, the Initiative order continues on where
+this option, then order is determined as normal first               you interrupted.
+among those who spent Moxie, followed by those                        You may delay your action into the next Action
+who didn’t.                                                         Phase, or even the next Action Turn, but if you do not
+   Similarly, any character that rolls a critical on Ini-           take it by the time your next action comes around in
+tiative automatically goes first, even before someone               the Initiative order, then you lose it. Additionally, if
+who spent Moxie. If more that two characters rolled                 you do delay your action into another phase or turn,
+criticals, determine order between them as normal.                  then once you take it you lose any action you might
+                                                                    have in that Action Phase.
+SPEED
+Speed determines how many times a character can
+act during an Action turn. Every character starts with              ACTIONS
+a default Speed stat of 1, meaning they can act in the              When it’s your turn to act during an Action Phase,
+first Action Phase of the turn only. Certain morphs,                you have many options for what you can do—far too
+implants, drugs, psi, and other factors may cumu-                   many to list here. There is a limit to what you can
+latively increase their Speed to 2, 3, or even 4 (the               accomplish in 3 seconds, however, so some limita-
+maximum), allowing them to act in further Action                    tions must be adhered to. The first step is to figure

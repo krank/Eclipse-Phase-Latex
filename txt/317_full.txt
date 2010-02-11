@@ -1,0 +1,84 @@
+   Because it is exceptionally safe and secure, quantum
+farcasting via neutrino communications is the primary
+means of both long-distance communication between
+                                                              BUGS AND
+habitats and egocasting (p. 276). The neutrino signal
+cannot be blocked and it can only be decrypted if a
+                                                              SURVEILLANCE
+                                                              Though surveillance technologies are pervasive
+character has access to the computer that is sending
+                                                              and easy to come by in Eclipse Phase, secretly
+or receiving the signal.
+                                                              obtaining information on someone who wants
+  Miniature Radio Farcaster: Miniature farcasters
+                                                              to retain privacy can be quite difﬁcult. Micro-
+communicate with each other using standard radio
+                                                              bugs, smart dust, and similar recording devices
+transceivers. As noted above, they may only securely
+                                                              that are all but invisible may be exceptionally
+communicate with the other farcasters with which they
+                                                              easy to put into place, but once they begin ac-
+are entangled. Most miniature farcasters are worn as
+                                                              tively transmitting, they are easy to to detect
+jewelry or fitted into clothing or other equipment. [Low]
+                                                              (see Wireless Scanning, p. 251). An eavesdropper
+                                                              may attempt to stealth the signal (see Stealthed
+QUANTUM ENTANGLED COMMUNICATION                               Signals, p. 252), but this is not guaranteed to
+The rarest form of communications is quantum en-
+                                                              work. Once a signal is detected, locating the
+tangled (QE) communication. QE communication is
+                                                              broadcasting device is usually just a matter of
+instantaneous and works over any distance, but is
+                                                              time (see Tracking, p. 251).
+also very limited. QE communication requires pairs
+                                                                 Some recording devices attempt to avoid this
+of entangled particles known as qubits. To use QE,
+                                                              problem by using miniature quantum farcasters
+large number of pairs of qubits are created and then
+                                                              (p. 314), but those are far larger and more dif-
+separated from each other. Millions of these sepa-
+                                                              ﬁcult to hide. Often the most effective way to
+rated pairs of particles are stored in special containers
+                                                              acquire discrete information is to plant a surveil-
+known as qubit reservoirs. If two QE communicators
+                                                              lance device, set to record but not transmit, and
+each have a qubit reservoir containing qubits that are
+                                                              then retrieve it later. While doing this is often
+each entangled with qubits in the other communica-
+                                                              difﬁcult and risky, the recording device never
+tor’s qubit reservoir, then characters can use the two
+                                                              reveals its presence by broadcasting and so is
+QE communicators to commutate with one another
+                                                              more difﬁcult to detect.                        ■
+instantaneously. Characters can use QE to instantly
+communicate between any two locations, even if one
+character is in the solar system and the other has
+passed through a Pandora gate and is standing on a
+planet 500 light years away.                                COVERT AND ESPIONAGE TECHNOLOGIES
+   Each bit of data transmitted between these two QE        These technologies allow characters to acquire pro-
+comms uses up one qubit. Once all of the qubits are         tected information and to gain access to places that
+used up, the two QE comms can no longer communi-            others try to keep them out of. Many of these devices
+cate with each other until they each get a new batch        are mesh-capable and equipped with radios, see p. 296
+of entangled qubits. Qubits are expensive to produce,       for radio ranges.
+contain, and transport, making this an exceedingly             Chameleon Cloak: This loose, poncho-like cloak
+expensive form of communication. As a result, ex-           contains a network of sensors that perceive wave-
+tremely high bandwidth communications like full             lengths from microwave to ultra-violet. A similar net-
+sensory AR and egocasting cannot be performed using         work of miniature emitters precisely replicate the in-
+QE communication.                                           formation its sensors receive, making the wearer seem
+   Portable QE Comm: This is a handheld FTL com-            transparent to those wavelengths. A chameleon cloak
+munications device. The actual communications unit          allows a character to effectively become invisible as
+can be made as small as desired, but must be large          long as they are stationary or not moving faster than
+enough to connect to or hold a qubit reservoir. Be-         a slow walk. When worn by someone moving faster,
+cause qubit reservoirs are relatively large and must be     the cloak still provides a +30 modifier to Infiltration
+replaced, they are rarely implanted. Some miniature         Tests to avoid being seen or noticed.
+farcasters are designed so that users can also attach          Chameleon cloaks are not effective against radar,
+qubit reservoirs to enable them to be used for both         x-ray, or gamma-ray sensors. They do hide the char-
+light speed and FTL communication. [Low]                    acter from thermal infrared, however, by absorbing
+   Low-Capacity Qubit Reservoir: Low-capacity qubit         the character’s body heat into its heat sink. The cloak
+reservoirs can be used for 10 hours of high-resolution      can only absorb a character’s body heat for one hour
+video conferencing or meshbrowsing and 100 hours            before it must emit this heat. Heat emission also re-
+of voice or text only communications. [High]                quires one hour, during which time the character is
+   High-Capacity Qubit Reservoir: High-capacity qubit       easily visible in the thermal infrared spectrum. [Low]
+reservoirs can be used for 100 hours of high-resolution        Covert Operations Tool (COT): This handheld
+video conferencing or meshbrowsing and 1,000 hours          device is the ultimate in infiltration technology. It con-
+of voice or text only communications. [Expensive]           tains both smart matter micromanipulators, cutting

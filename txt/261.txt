@@ -1,0 +1,120 @@
+SUBVERSION
+Once an intruder has successfully invaded a device
+or network, they can pursue whatever tasks they are
+interested in, as fitting that particular system. Depend-
+ing on the type of account the intruder hacked, they
+may or may not have access privileges to do what
+they want to do. If their access rights allow it, the
+activity is handled like that of a legitimate user and
+no test is called for (unless the activity itself calls for
+some kind of test, such as Research). For example, a
+hacker who infiltrates a habitat’s security system with
+a security account can monitor cameras, deactivate
+sensors, review recorded surveillance footage, and so
+on, as any legitimate user with security right would be
+allowed to do.
+   Engaging in any sort of activity for which you
+don’t have access rights is more difficult and requires
+hacking the system. This typically requires an Infosec
+Success Test, modified by the difficulty of the action
+as noted on the Subversion Difficulties table. In most
+cases this in not an Opposed Test even if the system is
+actively monitored, unless specifically stated otherwise.
+Failing such tests, however, will result in a change of
+the hacker’s intruder status (see Failing Tests, p. 256).
+   Examples for different types of system subversion
+are given in the Subversion Examples sidebar. This
+is not an exhaustive list, however, and gamemasters
+and players are encouraged to improvise game effects
+in case an action has not been explicitly described.
+
+AUGMENTED REALITY ILLUSIONS
+A hacker who has infiltrated an ecto, mesh inserts, or
+some other device with an AR interface may inject
+different kinds of visual, auditory, tactile, and even
+emotional illusions into the augmented reality of
+the device’s user, depending on the type of interface
+used. How the hacked user will respond to the illu-
+sion depends on a number of factors, such as whether
+they are aware of the intruder (i.e., the hacker has
+Spotted or Locked status), what type of interface they
+are using (entoptic or haptic), and how realistic the
+illusion is.
+   The best illusions are, of course, crafted in advance,
+using the best image and sensory manipulation tools
+available. Such illusions are hyper-realistic. Anyone
+making a Perception Test to identify them as fake
+
+
+                                         SUBVERSION
+                                              Difﬁculty modiﬁers
+
+MODIFIER TASK
+             Execute commands, view restricted information, run
+    –0
+             copy/delete ﬁles, access sensor feeds, access slaved d
+   –10       Change system settings, alter logs/restricted ﬁles
+   –20       Interfere with system operations, alter sensor/AR inp
+   –30       Shut system down, lockout user/muse, launch counte
+                   SUBVERSION EXAMPLES
+         In addition to the tasks noted under the Subversion Difﬁculties
+              these modiﬁers present some additional example actions.
+
+MODIFIER TASK
+     Hacking Bots/Vehicles
+    –0         Give orders to drones
+   –10         Alter sensor system parameters, disable sensors or weapo
+   –20         Alter smartlink input, send false data to AI or teleoperato
+   –30         Lockout AI or teleoperator, seize control via puppet sock
+     Hacking Ectos/Mesh Inserts
+               Interact with entoptics, befriend everyone in range, make
+    –0
+               purchases using user’s credit, intercept communications,
+               Alter social network proﬁle/status, adjust AR ﬁlters, twea
+   –10
+               interface, change AR skin, change avatar, access VPN
+               Block or shufﬂe senses, inject AR illusions, spoof comman
+   –20
+               drones/slaved devices
+   –30         Boot user out of AR
+     Hacking Habitat Systems
+    –0         Open/close doors, stop/start elevators, operate intercom
+               Adjust temperature/lighting, disable safety warnings, repl
+   –10
+               tic skin, lock doors, switch trafﬁc timers
+               Disable subsystems (plumbing, recycling, etc.), disable wi
+   –20
+               dispatch repair crews
+   –30         Override safety cutoffs
+     Hacking Security Systems
+    –0         Move/manipulate cameras/sensors, locate security systems
+               Adjust patterns of sensor sweeps, view security logs, disa
+   –10
+               systems
+   –20         Delete security logs, dispatch security teams
+   –30         Disable alerts
+     Hacking Simulspace Systems
+    –0         View current status of simulspace, simulmorphs, and acce
+               Change domain rules, add cheats, alter parameters of sto
+   –10
+               simulmorphs, change time dilation
+   –20         Eject simulmorph, alter/erase character AIs
+   –30         Abort simulation
+     Hacking Spimes
+    –0         Get status report, use device functions
+   –10         Adjust AI/voice personality settings, adjust timed operatio
+   –20         Disable sensors, disable device functions
+
+
+
+
+DIFFICULTIES
+ommon computer tasks
+
+
+cted software, open/close connections to other systems, read/write/
+es
+
+
+
+asures at others

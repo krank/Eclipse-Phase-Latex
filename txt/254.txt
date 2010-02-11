@@ -1,0 +1,121 @@
+DIGITAL ACTIVITY TRACKING
+Tracking someone’s online activities (meshbrowsing,
+entoptic interactions, use of services, messaging, etc.)
+is slightly more difficult, depending on what exactly
+you’re after. Gathering information on a user’s public
+mesh activities—social network profiles, public
+forums posts, public lifelogging, etc.—is handled just
+like standard online research (p. 249).
+
+TRACKING BY MESH ID
+A more investigate search can attempt to use the
+target’s mesh ID (p. 246), using it as a sort of digital
+fingerprint to look up where else they’ve been online.
+This primarily involves checking access/transaction
+logs, which are not always publicly accessible. This
+sort of search requires a Research Test, handled as a
+Task Action with a timeframe of 1 hour.
+
+SNIFFING
+Wireless radio traffic is broadcast through the air (or
+space), meaning that it can be intercepted by other wire-
+less devices. “Sniffing” involves the capture and analysis
+of data traffic flowing through the wireless mesh.
+   To eavesdrop on wireless communications, you need
+a sniffer program (p. 331) and you must be within
+radio range (p. 299) of the target (alternately, you can
+access a device that is within radio range of the target,
+and sniff from that location). To capture the informa-
+tion you must succeed in an Infosec Test. If successful,
+you capture data traffic from any targeted devices in
+range. Note that sniffing does not work on encrypted
+traffic (including VPNs and anything else using public
+key cryptography) as the results are gibberish. Quan-
+tum encrypted communications cannot be sniffed.
+   Once you have the data, finding the information
+you’re looking for can be a challenge. Handle this as
+a standard Research Test (p. 245).
+
+REMOTE SNIFFING VIA MESH ID
+Finally, a mesh ID may also be actively monitored
+to see what mesh activity it engages in. This requires
+special sniffer software (p. 331) and a Research Test.
+If successful, the monitoring will provide information
+on that user’s public mesh activities (how much is
+determined by the gamemaster and the MoS), such
+as which sites they access, who they message, etc. It
+will not, however, uncover anything that is encrypted
+(unless the encryption is broken) or anything that
+takes place on a VPN (unless the VPN is hacked first),
+though it will show that encrypted communications
+and/or VPN use are taking place.
+
+
+
+PRIVACY AND ANONYMIZATION
+Given how easily mesh activities are monitored, many
+users pursue privacy and anonymization options.
+
+PRIVACY MODE
+Characters who go into privacy mode hide their online
+presence and activities from others to a limited degree.
+The exact settings are adjustable, but typically involve
+masking their social profiles and presence to other
+users in the immediate vicinity, like having an unlisted
+phone number. Privacy mode can also be used to limit
+the use of mesh IDs and other data in access and
+transaction logs, applying a –30 modifier to attempts
+to research or track them by their online activity.
+
+STEALTHED SIGNALS
+Another tactic that can be taken for privacy is to
+stealth the wireless radio signals you emit. This
+method uses a combination of spread-spectrum signals,
+frequency hopping, and modulation to make your
+radio transmissions harder to detect with scanning (p.
+251). Stealthing your signals is either a passive activity
+(Automatic Action, –30 modifier on Interface Tests to
+locate the signal) or an active one (Complex Action,
+requires an Opposed Test to locate).
+
+ANONYMIZATION
+Anonymization takes the issue of privacy a bit further.
+The user does not just hide their mesh ID, but they
+actively use false mesh IDs and take other measures to
+reroute and obfuscate their datatrail. Anonymization
+is a necessity both for clandestine operatives and those
+engaging in illicit mesh activities.
+
+FALSE MESH IDS
+The easiest method of making mesh activities anony-
+mous is to set your muse to supply false mesh IDs in
+online transactions. Though illegal in many jurisdic-
+tions, this is an easy task for any character or muse to
+do. Multiple false IDs are used, making it extremely dif-
+ficult for anyone to tie all of the user’s activities together.
+   This method makes it extremely difficult for anyone
+to track the user’s online actions. Someone attempting
+to track the character via these false mesh IDs must
+beat them in an Opposed Test, pitting their Research
+skill with a –30 modifier against the character’s (or
+more likely, their muse’s) Infosec skill. This is a Task
+Action with a base timeframe of 1 hour, adjusted
+higher according to the amount of activity they hope
+to track. If successful, the tracker manages to dig
+together enough correlating evidence and records of
+false IDs to get a picture of the character’s activities
+(how thorough this picture is depends on their MoS).
+If the fail, the anonymous character has effectively
+camouflaged themselves in the mesh.
+   Actively monitoring a character who is fluctuating
+their mesh ID with a sniffer program, or physically
+tracking them via the mesh, is next to impossible, as
+the continual shifting of IDs and intentional decoys
+make it too difficult to keep up.
+
+ANONYMOUS ACCOUNT SERVICES
+A number of people—not just criminals, hackers, and
+secret agents—have an interest in keeping some of
+their affairs anonymous. To meet this demand, various
+online service vendors offer anonymous accounts for
+messaging and credit transfers. Some of these vendors

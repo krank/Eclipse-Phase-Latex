@@ -1,0 +1,109 @@
+    COMPLETE SKILL LIST
+   This section details all of the learned skills avail-
+   able in Eclipse Phase. Gamemasters and players
+   may, of course, agree to add additional skills to
+   this list as appropriate to their campaign.
+
+    ACADEMICS: [FIELD]
+   Type: Field, Knowledge
+   Linked Aptitude: COG
+      What it is: Academics covers any sort of spe-
+   cialized non-applied knowledge you can only get
+   through intensive education. Most theoretical and
+   applied sciences, social sciences, transhumanities,
+   etc. are covered by this skill. Most of the other
+   skills listed in this chapter could also be taken as
+   an Academics field, reflecting a working theoretical
+   knowledge of the skill—for example, Academics:
+   Armorer or Academics: Interrogation.
+      When you use it: Academics is used when a
+   character wishes to call upon a specific body of
+   knowledge. For example, Academics: Chemistry
+   could be used to identify a particular substance,
+   understand an unusual chemical reaction, or deter-
+   mine what elements are needed to nanofabricate
+   something that requires exotic materials. At the
+   gamemaster’s discretion, some Academics-related
+   tests might not be defaultable, given that only
+   someone who has been educated in that subject is
+   likely to be able to tackle it.
+   Sample Fields: Archeology, Astrobiology, As-
+      tronomy, Astrophysics, Astrosociology, Bio-
+      chemistry, Biology, Botany, Computer Science,
+
+
+
+
+NECESSARY SKILLS
+While characters will need a mix of skills to
+ucceed in the varied tasks they encounter in
+ clipse Phase, some skills are crucial for any
+haracter. If a character lacks these, they will
+ ave a difﬁcult time getting by, so it is impor-
+ant for players and gamemasters to know
+hese particular skills.
+  Fray: Fray is the primary skill you use to avoid
+ etting hit in combat. Even if you plan to avoid
+ombat, being able to get out of the way when
+ ecessary is a handy survival skill to have.
+  Networking: Unless you live in total isolation,
+ou need a Networking skill—preferably several.
+ etworking is how you interact with people in
+  particular social circle to obtain information,
+pread rumors, call in favors, and so on.
+  Perception: Perception Tests get called for
+ uite often, so if you want your character to
+ now what’s going on around them, make sure
+o get this skill. Investigation and Scrounging
+ re also good, but Perception is king.          ■
+                     SKILL LIST
+ L                          LINKED APTITUDE          CATEGORY
+ emics: [Field]                    COG               Knowledge
+ al Handling                       SAV              Active, Social
+ Field]                            INT               Knowledge
+m Weapons                          COO             Active, Combat
+es                                 SOM             Active, Combat
+bing                               SOM             Active, Physical
+ s                                 SOM             Active, Combat
+ rol                        WIL (no defaulting)   Active, Mental, Psi
+ ption                             SAV              Active, Social
+ olitions                   COG (no defaulting)    Active, Technical
+uise                               INT             Active, Physical
+ c Melee Weapon: [Field]           SOM             Active, Combat
+ c Ranged Weapon: [Field]          COO             Active, Combat
+ t                                 SOM             Active, Physical
+                                   REF             Active, Combat
+ Fall                              REF             Active, Physical
+ unning                            SOM             Active, Physical
+nery                               INT             Active, Combat
+ ware: [Field]                     COG             Active, Technical
+ rsonation                         SAV              Active, Social
+ ation                             COO             Active, Physical
+ ec                         COG (no defaulting)    Active, Technical
+ est: [Field]                      COG               Knowledge
+ acing                             COG             Active, Technical
+ idation                           SAV              Active, Social
+ tigation                          INT              Active, Mental
+sics                               SAV              Active, Social
+ ic Weapons                        COO             Active, Combat
+ uage: [Field]                     INT               Knowledge
+ cine: [Field]                     COG             Active, Technical
+gation                             INT              Active, Mental
+working: [Field]                   SAV              Active, Social
+ ing                               COO             Active, Physical
+ ption                             INT              Active, Mental
+uasion                             SAV              Active, Social
+     [Field]                       REF              Active, Vehicle
+ ssion: [Field]                    COG               Knowledge
+ ramming                    COG (no defaulting)    Active, Technical
+ocol                               SAV              Active, Social
+ ssault                     WIL (no defaulting)   Active, Mental, Psi
+hosurgery                          INT             Active, Technical
+ arch                              COG             Active, Technical
+unging                             INT              Active, Mental
+ er Weapons                        COO             Active, Combat
+ e                          INT (no defaulting)   Active, Mental, Psi
+y Weapons                          COO             Active, Combat
+mming                              SOM             Active, Physical
+wing Weapons                       COO             Active, Combat
+ med Combat                        SOM             Active, Combat

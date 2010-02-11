@@ -1,0 +1,118 @@
+LOCKBOTS
+The 21st century saw a move from mechanical
+locks to e-locks and other largely electronic locking
+mechanisms. These devices worked well for about
+50 years, until electronic infi ltration capabilities
+rendered them largely useless. The more recent de-
+velopment of lockbots has more in common with
+their early mechanical forebears. They are unique,
+expensive, artisan items.
+   A typical lockbot is heavily integrated with the
+portal and barrier it protects. Lockbots usually
+include an AI or indentured infomorph, self-healing
+materials (treat as a self-healing barrier), and a
+swarm of guardian nanobots (p. 329). A lockbot
+monitors its surroundings and has visual recogni-
+tion software that knows what its users and its keys
+look like (Perception skill 40). Picking a lockbot is
+thus incredibly difficult, because it will shut its ori-
+fice and not accept a key that doesn’t look right or
+that comes from an unrecognized user. Unfamiliar
+nanobots trying to enter the orifice are targeted and
+destroyed by the guardian nanobots. Finally, exter-
+nal tools used to harm the portal or the lock will be
+attacked by fractal appendages extruded from the
+portal surface or the lock itself. These appendages
+have a range of 1 meter, attack with skill of 40, and
+inflict 1d10 +2 DV.
+   Lockbots are generally immune to being hacked
+because, for security, they aren’t connected to
+the mesh. If attacked, however, lockbots are pro-
+grammed to send out an alarm signal via the mesh.
+   There are several ways to defeat a lockbot. One
+is to get a copy or image of the key and then forge
+a copy (using nanofabrication). Another is to attack
+the lockbot or the portal it guards with so much
+force that the lockbot is unable to repair it (usually
+using ranged weapons, as anything within a meter
+of a lockbot may be counterattacked). A third is to
+somehow image the cavity beyond the lockbot’s ori-
+fice without the imaging device being destroyed and
+to then forge the key. All of these are difficult and
+time-consuming processes.
+   Some lockbots have the ability to destroy what
+they’re protecting. For example, lockbots are a
+common protection for the physical interfaces to
+hardwired networks. If the lockbot is compromised,
+it may, as a last resort, destroy the interface it was
+protecting.
+
+PORTAL DENIAL SYSTEM
+Installed in corridors or doorways, this is essentially
+a laser trap device. When an unauthorized person
+enters the portal denial system’s area, it uses lasers
+to create a grid of plasma channels that are used to
+deliver a powerful electric current to the target. This
+system has both lethal and nonlethal settings.
+  Nonlethal: 1d10 DV + shock (p. 204)
+  Lethal: 2d10 +5 DV
+SELF-HEALING BARRIERS
+Walls and doors that are able to rapidly repair them-
+selves are sometimes found in high security instal-
+lations. These barriers are made of materials that
+automatically expand to “heal” small holes and that
+are equipped with nanosystems that slowly repair
+larger amounts of damage. The best of these barriers
+do no more than slow down the most determined
+assailants, but in combination with surveillance sys-
+tems they are a nuisance to invaders and can slow
+down attempts to flee the scene.
+   Self-healing barriers heal any single source of
+damage that is less than 5 points of damage almost
+immediately, sealing the hole in 1 Action Turn. They
+will also seal the holes infl icted by a covert ops
+tool (p. 315) in the same time period. Additionally,
+these barriers repair larger themselves at the rate of
+1d10 damage per 2 hours; once all damage is fixed
+any wounds are repaired at the rate of 1 per day.
+Damage of 3 wounds or more may not be repaired
+by self-healing.
+
+SLIPPERY WALLS
+On planetary surfaces, high walls and fences are still
+common as a first line of defense against interlop-
+ers. Slippery walls are surface treated with the slip
+chemical (p. 323), creating a virtually frictionless
+surface that is exceptionally difficult to climb.
+
+WIRELESS INHIBITORS
+Wireless inhibitors are simple paint jobs or construc-
+tion materials that block radio signals. They are
+used to create a contained area in which a wireless
+network may operate freely without worry that the
+signals will escape out of the area, where they can
+be intercepted. Wireless inhibitors allow the conve-
+nience of using wireless links within a secure area
+rather than the clumsier hardwired connections. If
+an intruder manages to gain access inside the area,
+however, they can intercept, sniff, and hack wireless
+devices as normal.
+
+DETECTION AND SURVEILLANCE
+Should security measures fail to keep an intruder
+out, the second step is to detect an interloper and
+track their activity.
+
+NANOTAGGING
+A lot of post-Fall security centers not around keeping
+people out of private spaces, but tracking them after
+they come and go. What little privacy transhumans
+have, they cherish. Trespassing is a worse offense
+than theft in many places.
+  A room protected by a taggant nanoswarm (p. 329)
+usually has two or more hives, one each at floor and
+ceiling level (if in gravity; on the opposite side of the
+room if in microgravity) that generate and recycle
+nanobots. The taggants emerge from one hive, float
+through the room, and then return to the other for
+recharging and reuse. A feed line usually connects the

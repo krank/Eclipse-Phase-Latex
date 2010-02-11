@@ -1,0 +1,117 @@
+SYNTHMORPHS AND
+BIOWARE
+Though bioware is preferred and more common,
+many types of bioware can be mimicked with cy-
+bernetics. This is especially useful for synthmorphs/
+robots, which cannot be enhanced with bioware.
+The following bioware items may be replicated as
+cybernetics for synthmorphs and robots:
+  • Chameleon Skin
+  • Drug Glands
+  • Eelware
+  • Emotional Dampers
+  • Enhanced Senses (All)
+  • Grip Pads
+  • Mental Augmentations (All)
+  • Muscle Augmentation
+  • Neurachem
+  • Poison Glands
+  • Prehensile Feet
+  • Prehensile Tail                                ■
+
+
+
+ breathe smoke and drink salt water. Unlike medich-
+ ines, toxin immunity prevents the character from ex-
+ periencing even brief harm or discomfort from a toxin
+ (medichines merely rapidly repair damage caused by
+ the toxin and then remove it from the morph). This
+ augmentation provides no resistance to concentrated
+ acid, nanotechnological attacks, or similar destruc-
+ tive agents. Some characters with this augmentation
+ learn to enjoy the taste of various chemical toxins like
+ cyanide or arsenic. [Moderate]
+    Vacuum Sealing: To possess this augmentation, the
+ character must also possess some form of bioware
+ armor or carapace armor. The morph has been spe-
+ cially designed to survive the effects of vacuum. The
+ character’s skin resists vacuum as well as protecting
+ the wearer from temperatures from –75 to 100 C.
+ In addition, the character’s mouth, nose, and other
+ orifices can seal sufficiently well to resist vacuum,
+ and the morph possesses a special membrane that
+ extends over their eyes, allowing the character to
+ see in vacuum without risking any eye damage. This
+ augmentation is usually combined with either the en-
+ hanced respiration or oxygen storage augmentation,
+ or both together. [High]
+
+
+
+ CYBERWARE
+Very little cyberware is physically implanted. Instead,
+the morph is placed in a healing vat (p. 326) and the
+vat’s nanobots construct the cyberware inside the bio-
+morph’s body. Cyberware is rarely used for anything
+that can be accomplished using bioware.
+  Synthmorphs and bots may also also use cyberware.
+ENHANCED SENSES
+   In addition to being able to duplicate the affects of
+all bioware enhanced senses, there are a few enhanced
+senses that can only be produced using cyberware.
+   Anti-Glare: This visual mod eliminates penalties for
+glare. [Low]
+   Electrical Sense: The character can sense electric
+fields. Within 5 meters, the character can instantly
+tell if an electrical device is on or off and can see the
+precise location of electrical wiring behind a wall or
+inside a device. This sense gives the character a +10
+modifier on any test involving analyzing, repairing, or
+modifying electrical equipment. [Low]
+   Radiation sense: The character can sense the pres-
+ence and approximate source of all forms of danger-
+ous radiation, including neutrons, charged particles,
+and cosmic rays. [Low]
+   T-Ray Emitter: Mounted under the skin of the
+user’s forehead, this implant generates low-powered
+beams of terahertz radiation (T-rays) that allow the
+character to see using reflected T-rays. As discussed in
+Using Enhanced Senses, p. 302, this implant combined
+with the enhanced vision enhancement (or a terahertz
+sensor) allows the user to effectively see through cloth,
+plastic, wood, masonry, composites, and ceramics as
+well as being able to determine the composition of
+various materials. This implant allows the user to see
+using reflected T-rays for 20 meters in a normal atmo-
+sphere and for 100 meters in vacuum. [Low]
+
+MENTAL AUGMENTATION
+These cybernetic augmentations enhance the brain
+and mental functions.
+  Access Jacks: Usually located in the base of the skull
+or neck, this implant is an external socket with a direct
+neural interface. It allows the character to establish a
+direct wired connection using a fiberoptic cable to
+external devices or other characters, which can be
+useful in places where wireless links are unreliable or
+complete privacy is required. Two characters linked
+via access jack can “speak” mind-to-mind and transfer
+information between their mesh inserts and other im-
+plants. All synthmorphs have these by default. [Low]
+   Dead Switch: This cortical stack (p. 300) accessory is
+designed to keep the stack from falling into the wrong
+hands. If the morph is killed, the dead switch wipes
+and melts the cortical stack completely, so that the ego
+cannot be recovered. This option is generally only used
+by covert operatives with recent backups. [Low]
+   Emergency Farcaster: Only characters with corti-
+cal stacks can possess this augmentation. The morph
+has an implanted quantum farcaster (p. 314) linked
+to a highly secure storage facility. The high cost of
+this implant also covers the cost of this storage. Using
+standard radio and quantum encryption, the farcaster
+broadcasts full backups of the character’s ego (pulled
+from the cortical stack) once every 48 hours. At the
+gamemaster’s discretion, the backup interval may be
+scheduled more or less frequently, keeping in mind
+that ego broadcasts are generally limited for security

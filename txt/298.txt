@@ -1,0 +1,121 @@
+■GEAR■GEAR■GEAR■GEAR■GEAR■G
+
+
+
+
+ The accelerated technological levels of Eclipse Phase
+ enable a number of devices for personal enhancement,
+ survival, and other uses.
+
+
+
+ EQUIPMENT RULES
+ The following rules apply to all technological items in
+ Eclipse Phase.
+
+ ACQUIRING GEAR
+ During character creation, players purchase gear for
+ their characters using the credits they have during
+ the character creation process. Once play begins,
+ however, characters must obtain any equipment they
+ need the usual way: by buying, borrowing, making,
+ or stealing it.
+    In the inner system, hypercorp, and Jovian Republic
+ settlements—and other places where capitalism still
+ reigns—gear acquisition is simply a matter of finding
+ a seller and buying it. Each item has a listed cost, from
+ Trivial to Expensive, as noted on the Gear Costs table.
+ Due to local availability of resources, supply and
+ demand, and legalities, these listed costs are meant
+ to be approximations. When no other factors apply,
+ the listed Average Cost for that category can be used.
+ Otherwise the gamemaster should modify the item’s
+ worth as they see fit, according to local economic fac-
+ tors, while still keeping it within that cost category
+ range. The Cost Modifiers table lists out some sug-
+ gested changes to an item’s cost, but these are simply
+ recommendations, and can be ignored or followed as
+ the gamemaster deems fit. The exact local conditions
+ are largely up to the gamemaster to determine, as best
+ fits their game.
+    In some circumstances, characters may attempt to
+ haggle over gear prices. This is best handled as ro-
+ leplaying, but the gamemaster may also call for an
+ Opposed Persuasion Test (or possibly an Intimidation
+ Test). The character who wins may increase or reduce
+ the price by 10% per 10 points of MoS.
+    In the outer system, anarchist, Titanian, scum, and
+ other habitats that use the reputation economy, charac-
+ ters must rely on their rep scores to acquire the goods
+ and services they need. The mechanics for this are cov-
+ ered under Reputation and Social Networks, p. 285.
+    Characters are of course free to get their hands
+ on equipment by any other means they devise—con
+ schemes, borrowing from friends, and outright
+ theft, with all of the appropriate tests and conse-
+ quences. In some cases, acquiring gear may be an
+ adventure unto itself.
+
+ FABRICATING GEAR
+ Thanks to nanofabrication technology, characters may
+ also create their own equipment using cornucopia
+AR■GEAR■GEAR■GEAR■GEAR■GEAR■
+                      ■GEAR■
+                       GEAR■
+
+                                                               11
+
+
+  machines and similar nanofab devices (p. 327). The
+  character must have the appropriate blueprints to do
+  so, whether they come with the fabber, are bought
+  legitimately or on the black market, acquired with rep,
+  or found online. Characters may also code their own
+  blueprint desires, using the Programming: Nanofab-
+  rication skill.
+
+   GEAR MODIFIERS
+  In the technological future, gear is a necessity. In many
+  cases, use of equipment provides no bonuses, it simply
+  allows a character to perform a task they would oth-
+  erwise be unable to do. For example, it is impossible
+  to pick a mechanical lock without lockpick or some
+  sort of tool.
+     In other cases, however, gear provides a bonus to
+  the task at hand. Climbing a wall may be possible
+  without tools, but if you happen to have gecko gloves
+  or other climbing gear, it’s going to be a lot easier. The
+  specific modifier applied is usually noted in the gear
+  item’s description, typically ranging from +10 to +30.
+
+   GEAR QUALITY
+  In both of the situations above, it is possible to have
+  items that are of either exceptional or inferior quality,
+  with corresponding positive or negative modifiers. The
+  gear may be well-crafted, state-of-the-art, cutting-edge
+  experimental, or simply top-of-the-line, applying an
+  additional +10 to +30. Or it may be outdated, shoddy,
+  or in disrepair, inflicting a –10 to –30 modifier (in
+  some cases canceling out the basic gear bonus).
+
+
+
+                       GEAR COSTS
+ CATEGORY RANGE (IN CREDITS)          AVERAGE (IN CREDITS)
+ Trivial        1–99                  50
+ Low            100–499               250
+ Moderate       500–1,499             1,000
+ High           1,500–9,999           5,000
+ Expensive      10,000+               20,000
+
+
+
+                   COST MODIFIERS
+ ECONOMIC FACTOR              SUGGESTED COST MODIFIER
+ Item Stolen                  –50%
+ Item Used                    –25%
+ Item Restricted              +25%
+ Item Illegal                 +50%
+ Item Scarce                  +25%
+ Item Extremely Rare          +50%
+ Item Common                  –25%

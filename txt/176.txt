@@ -1,0 +1,109 @@
+                                       APTITUDE R
+ASSESSMENT         SOMATICS     COORDINATION       REFLEXE
+ child average         inept           clumsy          slow
+ adult average         weak             able           paced
+anshuman average        ﬁt           coordinated       swift
+   enhanced          enhanced           agile           fast
+  superhuman           gifted          nimble        lightnin
+  posthuman            elite          unerring        synapt
+
+
+  SKILL RANGES
+  What is the difference between being a clumsy neo-
+  phyte wobbling in zero gravity and being a veteran
+  gliding effortlessly through space as though you were
+  dancing? The answer is training and skill. The greater
+  your skill, the more likely you are to not only succeed
+  at what you want to do, but succeed well.
+    Aptitudes in Eclipse Phase range from 1 to 30,
+  while learned skills range from 0 to 99. These num-
+  bers are an abstraction of the range of transhuman
+  abilities and traits. The Aptitude Range table provides
+  a breakdown of different aptitude levels and how they
+  relate to each other. Likewise, the Learned Skill Range
+  table provides an interpretation for the capabilities at
+  different skill levels.
+
+
+
+  APTITUDES
+  There are 7 aptitudes in Eclipse Phase, described on p.
+  123. Each character has these aptitudes at a minimum
+  rating of 1.
+
+  APTITUDE-ONLY TESTS
+  In rare cases, a test may call for using an aptitude
+  only, rather than a learned skill. This should only
+  occur when no learned skills are appropriate to the
+  test, and these circumstances are usually noted in
+  the rules.
+    Aptitude-only tests must be handled carefully, as
+  the range of aptitude ratings (1–30) is typically much
+  smaller than the rating of learned skills (0–99). For
+  this reason, most aptitude tests should use a target
+  number equal to the aptitude x 3. In rare cases where
+
+
+
+APTITUDE COMPARISON:
+FLATS VS. SPLICERS AND
+Compared to humans in the early 21st Century, the ave
+smarter, stronger, and healthier than their unaugment
+ﬂats (p. 139), most closely approximate the type of per
+however, inhabit bodies that are known as splicers (p. 1
+anyway). Splicers are geneﬁxed to avoid genetic defect
+are tweaked to make them superior across the board:
+cognitive capacity, and are more attuned to the world
+NGE
+COGNITION              INTUITION            SAVVY          WILLPOWER
+    limited               aware            awkward           distracted
+   intelligent          perceptive         personable        controlled
+     bright                sharp          charismatic         focused
+    learned              uncanny            dazzling          resolute
+    brilliant            prescient        mesmerizing       unwavering
+    genius           near omniscient        hypnotic        unshakable
+
+
+
+           LEARNED SKILL RANGES
+  SKILL         EQUIVALENCE
+    00          No exposure or familiarity, completely unskilled
+    10          Very rudimentary knowledge
+    20          Basic operator’s proﬁciency (driver’s license, gun permit,
+                high school diploma)
+    30          Hands-on experience, some professional training
+    40          Basic professional certiﬁcation (police driving, army riﬂe
+                certiﬁed, college diploma)
+    50          Experience from professional-level work, some
+                advanced training
+    60          Expert competence (competitive driver, marksman, PhD)
+    70          Experience from expert-level work, has had unique in-
+                novations or insights
+    80          Worthy of being a system-renowned authority on
+                the subject
+    90          Nobel/Olympic/grandmaster
+    99          Pinnacle of current understanding and innovation
+
+
+
+   the test is more difficult, the gamemaster may simply
+   use an aptitude x 2, or just the straight aptitude rating.
+   In some cases, more than one aptitude may be rel-
+   evant to the test, and so they may be added together
+   to derive the target number.
+     What follows are a few examples where an aptitude-
+   only test might be appropriate. Gamemasters may call
+   for similar tests in other situations, but learned skills
+   should be used whenever possible.
+
+
+
+
+EXALTS
+e transhuman in the world of Eclipse Phase is faster,
+predecessors. Normal unaugmented humans, called
+ that was born in our time. The majority of people,
+ or exalts (p. 139) (well, those with biological bodies
+ d optimized for certain characteristics, while exalts
+ey are more attractive, more athletic, have greater
+und them than their unaugmented kin.                 ■

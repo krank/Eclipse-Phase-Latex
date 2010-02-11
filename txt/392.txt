@@ -1,0 +1,163 @@
+TER CREATION                       BACKGROUN
+ Y                              Drifter: +10 Navigation sk
+                                   Spacecraft skill, +10 Ne
+ter Concept (p. 130)               [Field] skill of your choi
+ ound (p. 131)                  Fall Evacuee: +10 Pilot: G
+n (p. 132)                         skill, +10 Networking: [
+ints (p. 134)                      your choice, +1 Moxie,
+                                   Starting Credit (can still
+e points                           with CP)
+                                Hyperelite: +10 Protocol
+                                   Credit, +20 Networking
+                                   skill, may not start with
+ue                                 or any pod, uplift, or sy
+ization Points (p. 135)            morphs
+spend                           Infolife: +30 Interfacing s
+                                   Computer skills (Infosec
+oxie                               Programming, Research
+titude point                       with Customization Poi
+ leight                            price, Real World Naive
+  ialization                       Stigma (AGI) trait, may
+
+
+
+
+                              TABLES
+  point (61-80)                    Psi trait, Social skills bo
+                                   Customization Points ar
+  point (up to 60)
+                                Isolate: +20 to two skills o
+ credit                            –10 starting Rep
+p                               Lost: +20 to two Knowled
+minimum: 400 skill points          your choice, Psi trait, M
+skill minimum: 300 skill points    (choose two) trait, Socia
+ting Morph (pp. 136 and 139)       (Lost) trait, must start w
+ s (pp. 136 and 145)               morph
+  (p. 136)                      Lunar Colonist: +10 Pilot:
+                                   skill, +10 to one Techni
+ation (p. 137)                     [Field], or Profession: [F
+aining Stats (p. 138)              of your choice, +20 Net
+ racter (p. 138)                   Hypercorps skill
+                                Martian: +10 Pilot: Groun
+                                   +10 to one Technical, A
+                                   [Field], or Profession: [F
+                                   of your choice, +20 Net
+                                   Hypercorps skill
+                         277    Original Space Colonist: +
+                                   Spacecraft or Freefall sk
+STS (ALPHABETICAL)                 a Technical, Academic: [
+                                   Profession: [Field] skill o
+    CP            COST             +20 to a Networking: [F
+     45       Expensive (40k+)     your choice
+     40          Expensive
+                                Re-instantiated: +10 Pilot
+      5          Moderate
+                                   skill, +10 to a Networki
+     20            High
+     30          Expensive         skill of your choice, +2 M
+      0            High            Memories trait, 0 Starti
+     20       Expensive (30k+)     still buy credit with CP)
+     75       Expensive (40k+)  Scumborn: +10 Persuasio
+     40       Expensive (50k+)     skill, +10 Scrounging sk
+     70       Expensive (40k+)     Networking: Autonomi
+     25          Expensive      Uplift: +10 Fray skill, +10 P
+      0              0             +20 to two Knowledge s
+     40          Expensive         choice, must choose an u
+     25          Expensive         to start
+     25          Expensive
+     25          Expensive
+     60       Expensive (30k+)       137
+     50       Expensive (30k+)
+     40          Expensive                     GEAR COS
+     20            High                              RANGE
+    100       Expensive (50k+)   CATEGORY
+                                                   (CREDITS)
+     60       Expensive (40k+)
+     25          Expensive      Trivial                1–99
+     40          Expensive      Low                  100–499
+     10            High
+     25          Expensive      Moderate            500–1,499
+     40          Expensive      High               1,500–9,999
+     30            High
+     20            High         Expensive            10,000+
+S               FACTIONS
++20 Pilot:      Anarchist: +10 to a skill of your choice,
+rking:            +30 Networking: Autonomists skill
+                Argonaut: +10 to two Technical,
+ndcraft           Academic: [Field], or Profession:
+d] skill of       [Field] skills; +20 Networking:
+ 2,500            Scientists
+y credit        Barsoomian: +10 Freerunning, +10
+                  to one skill of your choice, +20
+  +10,000         Networking: Autonomists skill
+percorps        Brinker: +10 Pilot: Spacecraft skill,
+ , splicer,       +10 to a skill of your choice, +20 to
+etic              a Networking: [Field] skill of your
+                  choice
+                Criminal: +10 Intimidation skill, +30
+ erfacing,        Networking: Criminal skill
+ ught
+                Extropian: +10 Persuasion skill, +20
+are half
+                  Networking: Autonomists skill, +10
+ ait, Social
+                  Networking: Hypercorps skill
+ purchase
+t with          Hypercorp: +10 Protocol skill, +20
+ouble price       Networking: Hypercorps skill, +10 to
+                  any Networking: [Field] skill
+our choice,
+                Jovian: +10 to two weapon skills
+                  of your choice, +10 Fray, +20
+skills of
+                  Networking: Hypercorps skill. must
+al Disorder
+                  start with a Flat or Splicer morph,
+igma
+                  may not start with any nanoware or
+ Futura
+                  advanced nanotech
+                Lunar: +10 to one Language: [Field]
+oundcraft
+                  of your choice, +20 Networking:
+Academic:
+                  Hypercorps skill, +10 Networking:
+ ] skill
+                  Ecologists skill
+ king:
+                Mercurial: +10 to any two skills of your
+                  choice, +20 to a Networking: [Field]
+aft skill,
+                  skill of your choice
+emic:
+] skill         Scum: +10 Freefall skill, +10 to a skill
+king:             of your choice, +20 Networking:
+                  Autonomists skill
+Pilot:          Socialite: +10 Persuasion skill, +10
++10 to            Protocol skill, +20 Networking: Media
+d], or            skill, may not start with ﬂat, pod,
+our choice,       uplift, or synthetic morphs
+ ] skill of     Titanian: +10 to two Technical or
+                  Academic skills of your choice, +20
+oundcraft         Networking: Autonomists skill
+ Field]         Ultimate: +10 to two skills of your choice,
+ie, Edited        +20 to a Networking: [Field] skill of
+ redit (can       your choice, may not start with Flat,
+                  Splicer, uplift, or pod morphs
+ Deception      Venusian: +10 Pilot: Aircraft, +10
+ 20               to one skill of your choice, +20
+kill              Networking: Hypercorps skill
+eption skill,
+  of your
+ t morph                                               135
+                   CUSTOMIZATION POINTS
+                15 CP = 1 Moxie point
+                10 CP = 1 aptitude point
+                 5 CP = 1 psi sleight
+AVERAGE
+(CREDITS)        5 CP = 1 specialization
+     50          2 CP = 1 skill point (61-80)
+     250         1 CP = 1 skill point (up to 60)
+    1,000        1 CP = 1,000 credit
+    5,000        1 CP = 10 Rep
+    20,000      Trait and morph costs vary as noted.

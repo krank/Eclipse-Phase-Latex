@@ -1,0 +1,36 @@
+ COMBAT SUMMARY
+• Combat is handled as an
+     Opposed Test.
+• Attacker rolls attack skill
+     +/– modiﬁers.
+• Melee: Defender rolls
+     Fray or melee combat
+     skill +/– modiﬁers.
+• Ranged: Defender rolls
+     (Fray skill ÷ 2, round
+     down) +/– modiﬁers.
+• If attacker succeeds and
+     rolls higher than the
+     target, the attack hits.
+• Critical hits are armor-
+     defeating.
+• An Excellent Success
+     increases the damage
+     by +5 (MoS 30+) or
+     +10 (MoS 60+).
+• Armor is reduced by
+     the attack’s Armor
+     Penetration value (AP).
+• The weapon’s damage is
+     reduced by the target’s
+     modiﬁed Armor rating
+     (unless the attack is
+     armor-defeating).
+• If damage exceeds
+     Wound Threshold, a
+     wound is also scored.
+     (Multiple wounds
+     apply if the damage
+     exceeds Wound
+     Threshold by multiple
+     factors.)

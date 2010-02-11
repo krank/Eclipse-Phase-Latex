@@ -1,0 +1,81 @@
+MEDICINE: [FIELD]
+Type: Field, Active, Technical
+Linked Aptitude: COG
+  What it is: Medicine is the applied care and mainte-
+nance of biological beings and life.
+  When you use it: Use Medicine whenever you need
+to apply medical care beyond the immediate help
+provided by first responders. This includes conduct-
+ing physical exams, diagnosing ailments, treating
+problems and illnesses, surgery, using biotech and
+nanotech medical tools, and long-term care. See Heal-
+ing and Repair, p. 208.
+Sample Fields: Biosculpting, Exotic Biomorphs,
+  Gene Therapy, General Practice, Implant Surgery,
+  Nanomedicine, Mercurials (by type), Paramedic,
+  Pods, Psychiatry, Remote Surgery, Trauma Surgery,
+  Veterinary
+Specializations: As appropriate to the field
+
+NAVIGATION
+Type: Active, Mental
+Linked Aptitude: INT
+  What it is: Navigation is the art of finding your way,
+whether using AR maps, a compass, the stars, or an
+astrogation AI.
+  When you use it: Use Navigation whenever you
+need to plot out a course, determine a direction, or
+otherwise keep from getting lost.
+Specializations: Astrogation, Map Making, Map
+  Reading
+
+NETWORKING: [FIELD]
+Type: Active, Social
+Linked Aptitude: SAV
+  What it is: Networking is your skill at working your
+contacts, trading favors, and keeping your finger on
+the pulse of a particular faction or cultural grouping.
+  When you use it: Use Networking to gather infor-
+mation or call on services using your Reputation (see
+Reputation and Social Networks, p. 285).
+Sample Fields: Autonomists (@-rep), Criminals (g-rep),
+  Ecologists (e-rep), Firewall (i-rep), Hypercorps (c-
+  rep), Media (f-rep), Scientists (r-rep). At the game-
+  master’s discretion, this list can be expanded to
+  other (sub)cultural groupings.
+Specializations: As appropriate to each field
+
+PALMING
+Type: Active, Physical
+Linked Aptitude: COO
+  What it is: Palming is the skill of handling items quick-
+ly and nimbly without others noticing. Palming is not
+only about dexterous manipulation of objects but also
+relies heavily on obfuscation, timing, and misdirection.
+  When you use it: Use Palming any time you are
+trying to conceal an item on your person, shoplift,
+pick a pocket, surreptitiously discard something, or
+perform a magic trick. Palming is an Opposed Test
+against the Perception of any onlookers. The game-
+master may wish to make this roll secretly.
+Specializations: Pickpocketing, Shoplifting, Tricks
+
+PERCEPTION
+Type: Active, Mental
+Linked Aptitude: INT
+  What it is: Perception is the use of your physical
+senses (including cybernetic) and awareness of the
+physical world around you. Perception differs from
+Investigation in that it is noticing things by chance,
+rather than actively searching for something.
+  When you use it: Use Perception whenever you
+wanted to take a detailed account of your surround-
+ings (see Detailed Perception, p. 190). Perception
+can also be considered an Automatic Action (see
+Basic Perception, p. 190) and so the gamemaster may
+call for a Perception Test to determine if you notice
+something; it is recommended that such tests be rolled
+secretly by the gamemaster. Perception is also used as
+an Opposed Test whenever someone around you is
+trying to be sneaky with Infiltration or Palming.
+Specializations: Aural, Olfactory, Tactile, Taste, Visual

@@ -1,0 +1,30 @@
+of news, media, discourse, knowledge, environmental          listen. Since visual, auditory, and other sensors are
+data, business, and culture. Transhumans embrace             absurdly tiny and inexpensive, they are ubiquitously
+the mesh as a tool for exchange, communication,              incorporated into nearly every object or product a
+and participation with other users, both local and far       person might wear, apply, use, or internalize. This
+away. As such, the mesh is an up-to-date, authoritative      allows almost any user to reach out through the mesh
+source on all transhuman knowledge and activities.           and gather environmental data and ambient sensor
+   Not everything online is available for free, of course,   recordings from a specific location (or at least public
+except perhaps in the autonomist zones. Quite a bit of       locales—private areas typically block such signals or
+proprietary data is kept off the grid in secure storage      slave them to a local AI that filters their output).
+or sequestered away in private networks. Some of this
+is for sale, and heavily encumbered with digital restric-    SURVEILLANCE, PRIVACY, AND SOUSVEILLANCE
+tions—software, media, nanofabrication blueprints,           While spimes are easily trackable, they also con-
+skillsofts, etc. A thriving open source movement offers      tribute to an environment of universal surveillance.
+free and open source alternatives to much proprietary        Between spimes, microsensors, ubiquitous security
+data, however, and numerous digital piracy groups            systems, and the recording capabilities of the mesh
+deal out cracked versions of proprietary material,           inserts used by almost everyone, just about every-
+despite pressure from some authorities. Other data is        thing is recorded. Factor in the availability of mesh-
+simply secured from competitive interests (hypercorp         tracking, facial recognition, rep/social networks, and
+research projects) or is an extremely private affair,        other data mining software, and it rapidly becomes
+such as ego backups.                                         clear that privacy is an outdated concept. Special
+                                                             considerations must be embraced by anyone that
+SPIMES                                                       seeks to mask their identity or cover their movements.
+Along with the accumulated data of transhuman                Alternately, off-the-shelf looks common with some
+affairs, the mesh is also cluttered with information         morphs (especially synthmorphs and pods) allow a
+derived from untold numbers of wireless-capable sen-         user to blend in with the masses.
+sor-enabled devices that continuously update the mesh           Though in part this may seem an Orwellian sur-
+with their location, sensor recordings, and other data.      veillance nightmare, the abundance of recording
+Colloquially called “spimes,” these location-aware,          tech actually works as “sousveillance” (watching
+environment-aware, self-logging, self-documenting            from below), serving a role in making everything
+objects broadcast their data to anyone who cares to          transparent and putting checks on abuses of power.

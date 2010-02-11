@@ -1,0 +1,39 @@
+Egocasting within a cluster or planetary system is          DARKCASTING
+usually just a matter of minutes. Egocasting from the          Characters who want to egocast without the atten-
+sun to the Kuiper Belt, however, takes between 40 and       tion of public officials like Immigration and Customs
+70 hours, and so egocasting all of the way across the       must seek out so-called darkcasting services—illegal
+solar system can take even longer.                          farcaster transceivers typically operated by criminal
+  Once an ego arrives at the destination receiver, it       syndicates and other clandestine groups. To locate
+can be archived, run as an infomorph, or resleeved          such a service, a character must use their Networking
+as normal.                                                  skill and possibly their reputation (p. 285).
+
+EGOCASTER SECURITY
+Beaming yourself across interplanetary space is a           MORPH BROKERAGE
+mature technology and usually works seamlessly. Be-         Morphs are a major commodity in transhuman society.
+cause egocasting uses quantum farcasters, there is no       The technology and materials needed to grow new
+danger of radio interference cooking the signal and         morphs are cheap and abundant, though they take
+causing data loss. Normally the entire process is medi-     time. Cloned biomorphs take at least a year and a half,
+ated by the character’s backup service, and security        even with accelerated growth. Pods, which are typi-
+breaches are uncommon.                                      cally pieced together from vat-grown parts, take about
+   However, there are several risks involved in ego-        6 months. Synthmorphs like cases and synths can be
+casting. The most obvious is that the character’s con-      produced in a day, whereas more complicated models
+sciousness is transferred as a digital backup file at the   can take a week or more. Theoretically, supply will one
+destination. If the egocaster on the other end is not       day outstrip demand to the point where flesh is free.
+trusted or the networks at the destination are privately       Characters have several options for acquiring
+controlled by the receiver, the character is potentially    morphs when they travel by egocast, suffer heavy
+putting themself at the mercy of their host. Most hy-       damage, or just feel like a new body. When egocasting,
+percorps consider meddling with a transmitted ego to        the most common method for travelers of middling
+be a serious breach of etiquette, whereas autonomist        means is to store their current morph in a body bank’s
+types would find it unthinkably repressive. However,        secure facility and lease a morph at their destina-
+political extremist groups and criminal organizations       tion. Less commonly, characters may rely on public
+in control of egocasters suffer from fewer restraints.      resleeving facilities, or, if they have the means, they
+   A more subtle risk is the possibility for hackers to     may purchase a new morph outright. Characters who
+exploit security holes in the egocaster and its attached    expect to stay at their destination indefinitely or who
+virtual space to steal a fork of the character. This is     decide to resleeve but aren’t traveling might instead
+extremely difficult to do. It almost never happens          opt for a trade-in on their old body, leaving it behind
+during a normal upload, because the uploading ser-          permanently in most cases.
+vices are security conscious to the point of paranoia.
+Even so, the forks stolen by such attempts more often       MORPH AVAILABILITY
+than not end up being vapors, because the intruder          As noted under Resleeving and the Gamemaster (p. 271),
+is usually stopped before a full copy can be obtained.      finding the model of morph you want is not always easy.
+                                                            While many basic morph types (cases, synths, splicers)

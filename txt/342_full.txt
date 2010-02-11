@@ -1,0 +1,58 @@
+    Seeker Rifle (Micromissile/Minimissile): The seeker                 Sprayer: This is a general-purpose two-handed
+ rifle comes in a bullpup configuration and fires either             squirtgun, loaded with tanks filled with the chemical
+ micromissiles or minimissiles in semi-auto mode. It is              or drug of the wielder’s choice. [Low]
+ a two-handed weapons. [High]                                           Torch: This modern flamethrower uses condensed
+    Underbarrel Seeker (Micromissile): This seeker                   ammunition capsules rather than fuel tanks, scorch-
+ micromissile launcher is commonly attached to the                   ing targets and setting them on fire. Any hit that is
+ underbarrel of SMGs or assault rifles. It fires in semi-            an Excellent Success (MoS 30+) sets the target on
+ auto mode. [Moderate]                                               fire, where they will continue to take 2d10 damage
+                                                                     per Action Turn. These chemical fires are particularly
+ SPRAY WEAPONS                                                       difficult to put out unless they are deprived of oxygen.
+ Spray weapons blast their ammunition outwards in a                  Torches are two-handed. [Moderate]
+ widening cone, allowing them to strike several targets
+ at once. These weapons are wielded with Spray Weap-                 GRENADES AND SEEKERS
+ ons skill. Spray weapon ammunition has a flat cost                 Grenades and seeker missiles come in similar muni-
+ of Low per 100 shots (with the exception of buzzers,               tions packages and with similar trigger mechanisms,
+ which use nanoswarms).                                             though their packaging, physical form, and methods
+    Buzzer: Equipped with a specialized nanobot hive,               of application differ. Seeker missiles are fired from a
+ Buzzers are used to spray a nanoswarm (p. 328) on a                 seeker launcher (p. 339) using Seeker Weapons skill.
+ target or area. They have a limited capacity of swarms,            Grenades are thrown at targets using Throwing Weap-
+ though the nanohive can construct one new swarm                    ons skill. If a grenade or seeker misses, use the rules
+ each hour. This weapon is two-handed. [Moderate]                   for scatter (p. 204).
+    Freezer: Freezers spew out a fast-hardening foam                   Grenades are available in standard form or as
+ that immediately begins to harden. They are primar-                microgrenades. Similarly, missiles are available in
+ ily used as a non-lethal method of immobilizing or                  standard, minimissile, or micromissile sizes. Standard
+ securing a target. Struck characters must immediately               grenades and minimissiles are the baseline standard
+ make a REF x 3 Test or become trapped. Apply a –30                 for listed effects. All are area effect weapons (p. 193).
+ modifier to this test if the attacker scored an Excel-             Minigrenades and micromissiles inflict –1d10 damage
+ lent Success (MoS 30+). The foam allows characters                 (or have another decreased effect as noted). Standard
+ to breath even if their mouth and nose are covered,                missiles double the listed DV. For weapons with a
+ but it may impede sight. Freezer foam can be spiked                unfirom blast effect or other static blast area, divide
+ with contact toxins or drugs to additionally sedate                the base listed radius in half for minigrenades and mi-
+ the target. It can also be used to construct temporary              cromissiles and double it for standard missiles. Listed
+ barricades or cover. Hardened foam has an Armor of                  costs are for 10 grenades/missiles.
+ 10 and Durability of 20. It slowly breaks down and                    Each seeker has one smart ammo option (p. 338)
+ degrades over a 12 hour period. Freezers are two-                  other than biter or flayer.
+ handed. [Moderate]                                                    Concussion: These devices emit a concussive blast
+    Shard Pistol: The shard pistol is a flechette weapon,           designed to knock opponents off their feet and stun
+ firing a stream of of diamondoid monomolecular                     them. Any character caught within a base blast radius
+ shards at high velocities. These micro flechettes are              of 10 meters must make a SOM x 2 Test. If they fail,
+ very good at penetrating armor, but they do not dis-               they are knocked down. If their MoF is 30+, they are
+ perse kinetic energy well and so do not cause as much              additionally stunned until the end of the next Action
+ tissue damage as kinetic weapons. Shard ammunition                 Turn. Anyone caught in the blast radius suffers a
+ is often coated with drugs or toxins for extra effi-               –10 action modifier for the rest of that Action Turn.
+ ciency. [Low]                                                      [Moderate]
+    Shredder: A heavier version of the shard pistol,                   EMP: EMP munitions fire off a strong electromag-
+ the shredder fires a larger cloud of lethal flechettes,            netic pulse when they “detonate.” Since most electron-
+ enough to shred a portion of the target into a fine                ics in Eclipse Phase are built with optical technology,
+ mist. [Moderate]                                                   and power supplies and sensitive microcircuits are
+
+
+                                                SPRAY WEAPONS
+SPRAY WEAPONS          ARMOR PENETRATION (AP)        DAMAGE VALUE (DV)            AVERAGE DV        FIRING MODES      AMMO
+Buzzer                             —                         nanoswarm                  —                 SS             3
+Freezer                            —                        incapacitation              —                 SA            20
+Shard                              –10                        1d10 + 6                  11             SA, BF, FA       100
+Shredder                           –10                        2d10 + 5                  16             SA, BF, FA       100
+Sprayer                      as chemical/drug           as chemical/drug         as chemical/drug         SA            20
+Torch                              –4                           3d10                    16                SS            20

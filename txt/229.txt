@@ -1,0 +1,77 @@
+An async using this sleight can implant a memory
+of up to an hour’s length inside the target’s mind.
+This memory very obviously does not belong to the
+target—there is no way they will confuse it for one
+of their own. The intent is not to fake memories, but
+to place one of the async’s memories in the target’s
+mind so that the target can access it just like any other
+memory. This can be useful for “archiving” important
+data with an ally, providing a literal alternate perspec-
+tive, or simply making a “data dump” for the target
+to peruse. Implant Memory requires an Opposed Test
+against unwilling participants. At the gamemaster’s
+discretion, particularly traumatic memories might
+inflict mental stress on the recipient (p. 215).
+
+IMPLANT SKILL
+    PSI TYPE:   Active       ACTION:     Complex
+    RANGE:      Touch        DURATION: Temp (Action Turns)
+
+     STRAIN MOD: +0          SKILL:   Control
+Similar to Implant Memory, this sleight allows the
+async to impart some of their expertise and implant it
+into the target’s mind. For the duration of the sleight,
+the target benefits when using that skill. If the async’s
+skill is between 31 and 60, the target receives a +10
+bonus. If the async’s skill is 61+, the target receives
+a +20 bonus. Implant Skill requires an Opposed Test
+against unwilling participants. In some cases, the
+target has been known to use the skill with the async’s
+flair and mannerisms.
+
+MIMIC
+    PSI TYPE:   Active       ACTION:     Quick
+    RANGE:      Close        DURATION:   Instant
+   STRAIN MOD: +0         SKILL:   Sense
+In a setting where changing your body and face is
+not unusual, people learn to recognize habits and
+personality quirks more often. The async must use
+this sleight on a target and succeed in a Success Test.
+If successful, the async acquires an “imprint” of the
+target’s mind that they can take advantage of when
+impersonating that ego. The async then receives a +30
+bonus on Impersonation Tests when mimicking the
+target’s behavior and social cues.
+
+MINDLINK
+   PSI TYPE:     Active                 ACTION:     Quick
+   RANGE:        Touch                  DURATION:   Sustained
+   STRAIN MOD:                SKILL:
+                 +1/target after ﬁrst  Control
+Mindlink allows two-way mental communication
+with a target. This may be used on more than one
+target simultaneously, in which case the async can act
+as a telepathic “server,” so that everyone mindlinked
+with the async may also telepathically communicate
+with each other (via the async, however, so they
+overhear). Language is still a factor in mindlinked
+communications, but this barrier may be overcome by
+transmitting sounds, images, emotions, and other sen-
+sations. Mindlink requires an Opposed Test against
+unwilling participants.
+
+OMNI AWARENESS
+   PSI TYPE:     Active                 ACTION:     Quick
+   RANGE:        Close                  DURATION: Temp (Minutes)
+
+    STRAIN MOD: –1           SKILL:    Sense
+An async with Omni Awareness is hypersensitive to
+other biological life that is observing them. During
+this sleight’s duration, the async makes a Sense Test
+that is opposed by any life that has focused their at-
+tention on them within the sleight’s range; if success-
+ful, the async knows they are being watched, but not
+by whom or what. It does, however, apply a +30 Per-
+ception bonus to spot the observer. This sleight does
+not register partial attention or fleeting attention, or
+simple perception of the async, it only notices targets

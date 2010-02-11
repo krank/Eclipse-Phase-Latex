@@ -1,0 +1,59 @@
+motivating themselves. They were old when longevity         MILD ALLERGY (MORPH TRAIT)
+treatments first became available, survived the Fall,       Bonus: 5 CP
+and continue to soldier onward—though they find               The morph is allergic to a specific chosen allergen
+it increasingly harder to care, take interest in things     (dust, dander, plant pollen, certain chemicals) and suf-
+around them, or fear final death. The character only        fers mild discomfort when exposed to it (eye irritation,
+receives half the Moxie and Rez Points award for            sneezing, difficult breathing). Apply a –10 modifier to
+completing motivational goals.                              all tests while the character remains exposed. This
+   This trait may not be purchased by characters with       trait is only available for biomorphs.
+the infolife or uplift backgrounds.
+                                                            MODIFIED BEHAVIOR
+IMPLANT REJECTION (MORPH TRAIT)                             Bonus: 5 (Level 1), 10 (Level 2), or 20 (Level 3) CP
+Bonus: 5 (Level 1) or 15 (Level 2) CP                          The character has been conditioned via time-
+   This morph does not accept implants well. At Level       accelerated behavioral control psychosurgery. This is
+1, any implants acquired are more expensive as they         common among ex-felons, who have been conditioned
+required specialized anti-rejection treatments. Increase    to respond to a specific idea or activity with vehement
+the Cost category of the implant by one. At Level 2,        horror and disgust, but may have occurred for some
+the morph cannot accept implants of any kind.               other reason or even been self-inflicted. At Level 1, the
+                                                            chosen behavior is either limited or boosted, at Level
+INCOMPETENT                                                 2 it is either blocked or encouraged, and at Level 3 it
+Bonus: 10 CP                                                is expunged or enforced (see p. 231 for details). This
+  The character is completely incapable of perform-         trait should only be allowed for behaviors that are
+ing a particular chosen active skill, no matter any         either limited or, if encouraged, impact the character
+training they may receive. They may not buy this skill      in a negative way.
+during character creation or later advancement, and
+the modifier for defaulting to the linked aptitude of       MORPHING DISORDER
+this particular skill is –10. This may not be used for      Cost: 10 (Level 1), 20 (Level 2), or 30 (Level 3) CP
+exotic weapon skills, and should be used for a skill          Adapting to new morphs is particularly challeng-
+that could be of use to the character.                      ing for this character. The character suffers a –10
+                                                            modifier per level on Integration Tests and Alien-
+LEMON (MORPH TRAIT)                                         ation Tests (p. 272).
+Bonus: 10 CP
+  This trait is only available for synthetic morphs.        NEURAL DAMAGE
+This particular morph has some unfixable flaws. Once        Bonus: 10 CP
+per game session (preferably at a time that will maxi-         The character has suffered some type of neurologi-
+mize drama or hilarity), the gamemaster can call for        cal damage that simply cannot be cured. The affliction
+the character to make a MOX x 10 Test (using their          is now part of the character’s ego and remains with
+current Moxie score). If the character fails, the morph     them even when remorphing. This damage may have
+immediately suffers 1 wound resulting from some me-         been inherited, it may have resulted from a poorly de-
+chanical failure, electrical glitch, or other breakdown.    signed morph or implant, or it may have been inflicted
+This wound may be repaired as normal.                       by one of the TITAN nanovirii that targeted neural
+                                                            systems during the Fall (p. 384). The gamemaster and
+LOW PAIN TOLERANCE (EGO OR MORPH TRAIT)                     player should agree on a specific disorder appropriate
+Bonus: 20 CP                                                to their game. Some possibilities are:
+   Pain is the character’s enemy. The character has
+a very low threshold for pain tolerance and is more          • Partial aphasia (difficulty communicating or
+severely impaired when suffering. Increase the modi-           using words)
+fier for each wound take by an additional –10 (so            • Color blindness
+the character suffers –20 with one wound, –40 with           • Amusica (inability to make or understand music)
+another, and –60 with a third). Additionally, the            • Synaesthesia
+character suffers a –30 modifier on any test involving       • Logorrhoea (excessive use of words)
+pain resistance. This morph version of this trait is only    • Loss of face recognition
+available for biomorphs.                                     • Loss of depth perception (double range
+                                                               modifiers)
+MENTAL DISORDER                                              • Repetitive behavior
+Bonus: 10 CP                                                 • Mood swings
+  You have a psychological disorder from a previous          • The inability to shift attention quickly
+traumatic experience in your life. Choose one of the
+disorders listed on p. 211.                                   The gamemaster may decide to inflict modifiers
+                                                            resulting from this affliction as appropriate.

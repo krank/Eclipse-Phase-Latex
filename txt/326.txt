@@ -1,0 +1,120 @@
+   CR Gas: This potent incapacitating agent causes
+eye twitching and temporary blindness, severe cough-
+ing and breathing difficulty, skin irritation, and panic.
+Affected characters suffer 1d10 ÷ 2 damage, a –30
+modifier to sight-based Perception Tests, and a –20
+modifier to all other actions for 20 minutes (5 min-
+utes if the character has medichines). [Low]
+   Flight: This drug is derived from human pheromones
+released due to fear, and is intended to instill alarm or
+even terror in the character. Affected characters must
+make a WIL x 3 Test (+30 with medichines) or suffer
+a panic attack, inflicting 1d10 stress. Dosed characters
+also suffer a –30 modifier for resisting intimidation or
+fear-based emotional manipulations. Flight affects last
+for 1 hour (5 minutes with medichines). [Low]
+   Nervex: Derived from deadly nerve agents like cy-
+closarin, VX, and novichok, this genetically-modified
+toxin is deployed as a colorless, odorless gas that
+turns safely inert 10 minutes after deployment. It
+causes involuntary contraction of the muscles, sei-
+zures, and death by respiratory failure. One minute
+after exposure, the character must make a SOM Test
+or be incapacitated by seizures, paralysis, or nausea
+and vomiting; unaffected characters still suffer a –20
+modifier to all actions. After 10 minutes, the character
+will die unless an antidote (such as atropine, p. 323) is
+applied. Characters with medichines suffer the initial
+effects, but recover after 5 minutes. [High]
+   Oxytocin-A: A genetically-improved variant of oxy-
+tocin, this drug induces trust in the recipient. Drugged
+characters suffer a –30 modifier on all WIL and Kine-
+sics Tests where trust is a factor. Medichines provide
+immunity. [Low]
+  Twitch: Twitch is a convulsive agent, a nonlethal
+nerve gas. Affected characters must succeed in a SOM
+Test (+30 with medichines) or become incapacitated
+with severe muscle tremors. Unaffected characters still
+suffer a –20 on all actions. The effects of Twitch last for
+10 minutes, 5 if the character has medichines. [Low]
+
+NANOTOXINS
+Disruption: This nanotoxin attacks the myelin sheath
+on nerves, disrupting nerve impulses and inflicting
+symptoms of multiple sclerosis. Every hour the morph
+suffers a –5 modifier to COO, REF, and COG. If any
+aptitudes are reduced to zero,the morph is effectively
+paralyzed and catatonic. [Moderate]
+   Necrosis: Necrosis nanobots attack the walls of cells
+inside the body, killing tissue. This nanotoxin inflicts
+1d10 ÷ 2 damage per Action Turn for one minute, after
+which the nanobots disable and flush from the body.
+Necrosis only affects biomorphs. [Moderate]
+   Neuropath: These nanobots are designed to stimu-
+late the pain receptors of a morph on a systemic level
+to cause agony and impairment. While most neuro-
+paths target biological receptors, variants are avail-
+able that induce comparable (phantom) pain stimula-
+tions in the cyberbrains of synthmorphs to create an
+equivalent effect. The affected character must succeed
+in a WIL x 3 Test or become incapacitated. Even if
+they succeed, they suffer –30 from the inflicted agony.
+Any form of pain resistance that allows a character
+to ignore wound modifiers will negate the neuropath
+pain modifier by an appropriate amount. [Moderate]
+   Nutcracker: Nutcrackers are nanobots designed to
+locate, migrate, and decompose the synthdiamond
+case of a cortical stack within a morph by attacking
+its crystal lattice. This process takes approximately
+6 hours, after which the cortical stack is destroyed.
+These nanobots also attack the cortical stack’s connec-
+tions to the (cyber)brain and brain-mapping nanobots.
+After 1 hour, the victim will be aware that their corti-
+cal stack is threatened. After 3 hours, all connections
+will be severed and the cortical stack will no longer be
+able to back up the character. [High]
+
+PATHOGENS
+A pathogen is an infectious biological agent that
+causes disease or illness to its host. While natural
+pathogens rarely strive to kill their hosts, germ war-
+fare programs revived during the Fall—or instigated
+by the TITANs—sought to modify and use pathogens
+as a weapon of war. The ideal characteristics of lethal
+biological agents are high infectivity, high potency,
+availability of vaccines, and delivery as an aerosol.
+Most biomorphs are immune to standard pathogens
+thanks to their basic bio-mods, and medichines will
+protect against most others. However, even these
+defenses may not protect against diseases left by
+the TITANs or a new terrorist cell’s biowar bug. It
+is largely recommended that pathogens be handled
+as a plot device, rather than an active threat to the
+characters. Pathogens have no effect on synthmorphs.
+   Degen: Characters exposed to this degenerative
+neurological disease must make a DUR x 2 Test or
+become infected. Medichines will defeat the disease,
+but others will not show signs of infection for 1 week,
+when the symptoms of a rapidly progressing dementia
+will become clear: memory loss, personality changes,
+and hallucinations. If untreated, Degen will progress
+for another week with more serious symptoms, in-
+cluding speech impediments, jerky movements, loss
+of balance and coordination, and even seizures. This
+is reflected by a 5 point loss in all aptitudes per day
+(after the first week). When any aptitude reaches 0,
+the character dies. Degen is notorious for its effect
+in corrupting cortical stack backups before infection
+symptoms manifest. [Expensive]
+   Trigger: Trigger is a designer virus that selectively
+targets and infects mast cells to trigger a hyper-allergic
+reaction. The resulting anaphylactic shock due to sys-
+temic vasodilatation (associated with a sudden drop
+in blood pressure) and bronchial swelling (resulting in
+constriction and difficulty breathing) usually leads to
+death in a matter of minutes after onset, if not treated.
+Infected characters must succeed in a DUR Test (using
+their current Durability score minus damage) or die
+quickly. Even medichines have difficulty reacting in
+time against this virus; characters with medichines
+must make a DUR x 2 Test to survive. [Expensive]

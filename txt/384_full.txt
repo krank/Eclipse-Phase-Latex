@@ -1,0 +1,38 @@
+whims, some of them retain aspects of their original         of each fractal branch ends in a nanoscale manipula-
+minds and do not always fall in step as quickly as the       tor. Fractals are deceptively potent adversaries, having
+others. Gamemasters can use this to their advantage,         the capability to dismantle almost anything at the
+creating plots that allow the characters to exploit          molecular level, much like a disassembler nanoswarm
+differences between the TITANs in order to escape            (p. 329), and also to rebuild anything just like a nano-
+otherwise deadly or impossible situations.                   fabricator (p. 327). Attacking them with projectiles is
+   In game terms, the TITANs are not given stats.            futile, as they absorb the ammunition, break it down
+They are as potent as the gamemaster needs them to           into its constituent atoms or molecules, and then use
+be. Like the Prometheans, the TITANs are incapable           those as components to build a weapon to use back
+of downloading their full intelligence into physical         against you.
+morphs, though they may puppeteer morphs or create              Fractals can be equipped with any type of gear the
+limited delta forks for sleeving purposes. Like the Pro-     gamemaster desires—if they don’t have something,
+metheans, they should rarely be used or encountered          they can make it. Fractals are also able to nanofab-
+directly by the player characters                            ricate items much more quickly than transhuman
+  While the TITANs may no longer be the direct               nanofabricators; reduce all times by half (half an hour
+threat they once were, they left behind an arsenal of        per Cost category). Fractals are difficult to damage, as
+weapons, nanoswarms, and virii that still linger on          their “bodies” are actually airy assemblages of fractal
+Earth, the Zone on Mars, and various derelict habitats       branches. Any damaged branches that are broken off
+and deserted places. Characters venturing into such          are caught and absorbed by others. Reduce damage
+places may encounter these as a threat or they may           from all standard non-area effect or spray attacks to
+need to work against an outbreak of such dangers in          the minimum possible damage. Area effect and spray
+an inhabited habitat.                                        weapons do half damage. Fractals are self-repairing,
+                                                             regenerating damage at the rate of 1d10 points per
+DEADLY MACHINES                                              half hour and repairing wounds at the rate of 1 per
+The TITANs unleashed a number of deadly machines             hour after all damage is healed.
+during the Fall, many of which still seek out transhu-        COG    COO     INT   REF    SAV    SOM    WIL    MOX
+mans to attack.                                                30     25      30    20     10     25    30      —
+
+                                                              INIT   SPD    LUC     TT     IR    DUR    WT     DR
+FRACTALS                                                      100     1      —      —      —      50    20     —
+Fractals are advanced bush robots. In their standard         Skills: Beam Weapons 50, Climbing 60, Fray 40, Free
+form, fractals resemble a strange sort of metallic             Fall 40, Freerunning 50, Infiltration 70, Infosec 65,
+bush surrounded with an eerie glittering haze. In              Interfacing 45, Intimidation 50, Kinetic Weapons
+their center are a number of metallic branches, linked         60, Perception 50, Programming: Nanofabrication
+together with a flexible joint. Each of these branches         80, Research 40, Spray Weapons 45, Unarmed
+splits into two or more smaller branches, also with            Combat 55
+flexible joints. These branches also split, and then split   Notes: Any implants, gear, weapons, or enhancements
+again, and so on down to the molecular scale. The tip          the gamemaster desires

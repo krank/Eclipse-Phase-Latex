@@ -1,0 +1,79 @@
+GUARDIANS
+Guardian Factors serve as bodyguards for ambassadors
+or other Factors whenever they leave a Factor ship.
+ COG    COO     INT   REF    SAV    SOM    WIL    MOX
+  20     20      15    20     10     25     15     —
+
+ INIT   SPD    LUC     TT     IR    DUR    WT     DR
+  70     1      —      —      —      50    10     75
+Movement Rate: 4/20
+Skills: Climbing 40, Exotic Ranged Attack: Factor
+  Dust 65, Fray 50, Free Fall 40, Freerunning 40, Infil-
+  tration 40, Intimidation 50, Kinesics 20, Perception
+  50, Profession: Security Procedures 50, Unarmed
+  Combat (Tentacles) 50 (60)
+Notes: Chameleon Skin, Eelware, Electrical Sense,
+  Grip Pads, Infrared Sensing, Magnetoception,
+  Poison Gland (Factor Dust Toxin), Tentacle Whip
+  (DV 2d10 + 1, AP –1)
+
+
+
+THE IKTOMI
+Little is known about the alien race known as the
+Iktomi except for the ancient ruins they left behind
+on Echo V (p. 109). No Iktomi specimens have been
+found so far, though certain architectural remains
+suggest a predilection for web-like structures. This
+has been bolstered by certain other features and relics
+which suggest these aliens had a segmented, multi-
+legged, arthropod-type form—thus their given name,
+after a Native American spider god.
+   What is clear is that the Iktomi suffered through
+some sort of cataclysmic event that wiped out their
+civilization. The nature of this event has yet to be de-
+termined, but it raises concerns for many researchers.
+Having suffered through its own near-apocalypse, it
+is not comforting for transhumanity to find evidence
+that other alien species did not.
+   Though the Iktomi are likely long extinct, the rem-
+nants of their civilizations presents a plot hook for
+gamemasters to use for building scenarios. Perhaps
+evidence is uncovered of Iktomi settlements in other
+star systems, and the characters are sent to investigate
+or a relic is unearthed that suggests the Iktomi fell
+prey to some danger that now threaten transhumanity.
+
+
+
+THE PANDORA GATES
+The five known Pandora Gates (see Opening Pandora’s
+Gate, p. 46) all look and operate in a similar fashion,
+though they vary wildly in terms of size, shape, and
+available destinations. The gates are built from some
+sort of stable exotic matter whose full atomic struc-
+ture scientists haven’t come close to cracking. To touch
+and sight, however, the gates appear to be constructed
+from a timeless-seeming polished black metal with no
+signs of aging or wear and tear. Something about the
+gates’ physical composition makes them difficult to
+look at, as if the viewer cannot quite focus on their
+outlines. Some onlookers have reported feelings of
+vertigo and nausea, while others have insisted that the
+gate outlines move on the edges of their visions, as if
+the lines are reflowing or the edges are vibrating at
+high frequencies. Due to this disturbing feature, most
+gate sites keep the actual gate structures covered.
+   Structurally, the gates themselves are partially
+enclosed by an irregular spherical cage composed of
+black arms that are bent and angled in unusual ways
+and sometimes interlocking. When new wormhole
+location is programmed into the gate, these arms
+physically change shape, move, and reflow around
+the spherical gate area (suggesting they are made of
+some sort of programmable matter). The openings
+between arms are sometimes only large enough for
+a transhuman to enter, while others are large enough
+to allow a freight train of supplies to pass through.
+In many cases, large vehicles or equipment must be
+dismantled, carried through, and reassembled on the

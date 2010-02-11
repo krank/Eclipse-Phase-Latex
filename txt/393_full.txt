@@ -1,0 +1,85 @@
+                          176–185
+                                                                             SKILL LIST
+                                                  LINKED                                                              LINKED
+                              SKILL                                CATEGORY                      SKILL                               CATEGORY
+                                                 APTITUDE                                                            APTITUDE
+                   Academics: [Field]               COG          Knowledge            Investigation                      INT        Active, Mental
+                   Animal Handling                  SAV         Active, Social        Kinesics                           SAV        Active, Social
+                   Art: [Field]                      INT         Knowledge            Kinetic Weapons                   COO        Active, Combat
+                   Beam Weapons                     COO        Active, Combat         Language: [Field]                  INT         Knowledge
+                   Blades                           SOM        Active, Combat         Medicine: [Field]                 COG        Active, Technical
+                   Climbing                         SOM        Active, Physical       Navigation                         INT        Active, Mental
+                   Clubs                            SOM        Active, Combat         Networking: [Field]                SAV        Active, Social
+                   Control                       WIL (no def) Active, Mental, Psi     Palming                           COO        Active, Physical
+                   Deception                        SAV         Active, Social        Perception                         INT        Active, Mental
+                   Demolitions                   COG (no def) Active, Technical       Persuasion                         SAV        Active, Social
+                   Disguise                          INT       Active, Physical       Pilot: [Field]                     REF        Active, Vehicle
+                   Exotic Melee Weapon: [Field]     SOM        Active, Combat         Profession: [Field]               COG          Knowledge
+                   Exotic Ranged Weapon: [Field]    COO        Active, Combat         Programming                    COG (no def) Active, Technical
+                   Flight                           SOM        Active, Physical       Protocol                           SAV        Active, Social
+                   Fray                              REF       Active, Combat         Psi Assault                    WIL (no def) Active, Mental, Psi
+                   Free Fall                         REF       Active, Physical       Psychosurgery                      INT       Active, Technical
+                   Freerunning                      SOM        Active, Physical       Research                          COG        Active, Technical
+                   Gunnery                           INT       Active, Combat         Scrounging                         INT        Active, Mental
+                   Hardware: [Field]                COG        Active, Technical      Seeker Weapons                    COO        Active, Combat
+                   Impersonation                    SAV         Active, Social        Sense                          INT (no def) Active, Mental, Psi
+                   Inﬁltration                      COO        Active, Physical       Spray Weapons                     COO        Active, Combat
+                   Infosec                       COG (no def) Active, Technical       Swimming                          SOM        Active, Physical
+                   Interest: [Field]                COG          Knowledge            Throwing Weapons                  COO        Active, Combat
+                   Interfacing                      COG        Active, Technical      Unarmed Combat                    SOM        Active, Combat
+                   Intimidation                      SAV        Active, Social
+ 145–152
+                                                                                 TRAITS
+POSITIVE TRAITS                                       CP COSTS                         NEGATIVE TRAITS                                          CP C
+Adaptability                                   10 (Level 1) or 20 (Level 2)            Addiction (Ego or Morph Trait)             5 (Minor), 10 (Mod
+Allies                                                      30                         Aged (Morph Trait)                                             1
+Ambidextrous                                                10                         Bad Luck                                                       3
+Animal Empathy                                               5                         Blacklisted                                                  5o
+Brave                                                       10                         Black Mark                                 10 (Level 1), 20 (Lev
+Common Sense                                                10                         Combat Paralysis                                               2
+Danger Sense                                                10                         Edited Memories                                                1
+Direction Sense                                              5                         Enemy                                                          1
+Eidetic Memory (Ego or Morph Trait)                         10                         Feeble                                                         2
+Exceptional Aptitude                                        20                         Frail (Morph Trait)                              10 (Level 1) o
+Expert                                                      10                         Genetic Defect (Morph Trait)                                10 o
+Fast Learner                                                10                         Identity Crisis                                                1
+First Impression                                            10                         Illiterate                                                     1
+Hyper Linguist                                              10                         Immortality Blues                                              1
+Improved Immune System (Morph Trait)           10 (Level 1) or 20 (Level 2)            Implant Rejection (Morph Trait)                   5 (Level 1) o
+Innocuous (Morph Trait)                                     10                         Incompetent                                                    1
+Limber (Morph Trait)                           10 (Level 1) or 20 (Level 2)            Lemon (Morph Trait)                                            1
+Math Wiz                                                    10                         Low Pain Tolerance (Ego or Morph
+Natural Immunity (Morph Trait)                              10                                                                                       2
+                                                                                       Trait)
+Pain Tolerance (Ego or Morph Trait)            10 (Level 1) or 20 (Level 2)
+                                                                                       Mental Disorder                                               1
+Patron                                                      30
+                                                                                       Mild Allergy (Morph Trait)
+Psi                                             20 (Level 1), 25 (Level 2)
+                                                                                       Modiﬁed Behavior                           5 (Level 1), 10 (Lev
+Psi Chameleon (Ego or Morph Trait)                          10
+                                                                                       Morphing Disorder                          10 (Level 1), 20 (Lev
+Psi Defense (Ego or Morph Trait)               10 (Level 1) or 20 (Level 2)
+                                                                                       Neural Damage                                                  1
+Rapid Healer (Morph Trait)                                  10
+                                                                                       No Cortical Stack (Morph Trait)                                1
+Right At Home                                               10
+                                                                                       Oblivious                                                      1
+Second Skin                                                 15
+                                                                                       On the Run                                                     1
+Situational Awareness                                       10
+                                                                                       Psi Vulnerability (Ego or Morph Trait)                         1
+Striking Looks (Morph Trait)                  10 (Level 1) or 20 (Level 2)
+                                                                                       Real World Naiveté                                             1
+Tough (Morph Trait)                     10 (Level 1), 20 (Level 2), or 30 (Level 3)
+                                                                                       Severe Allergy (Morph Trait)                  10 (uncommon)
+Zoosemiotics                                                 5
+                                                                                       Slow Learner                                                   1
+                                                                                       Social Stigma (Ego or Morph Trait)                             1
+                                                                                       Timid                                                          1
+                                                                                       Unattractive (Morph Trait)                  10 (Level 1), 20 (L
+                                                                                       Uncanny Valley (Morph Trait)                                   1
+                                                                                       Unﬁt (Morph Trait)                                10 (Level 1)
+                                                                                       VR Vertigo                                                     1
+                                                                                       Weak Immune System (Morph Trait)                 10 (Level 1) o
+                                                                                       Zero-G Nausea (Morph Trait)                                    1

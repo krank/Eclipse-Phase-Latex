@@ -1,0 +1,218 @@
+A                                                   values, 312                           Bu
+Aarhus, 106                                         vest, 312                             Bu
+Ablative patches, 313                           Arm slide, 341-42                         Bu
+Abramsen, 107                                   Art skill, 177                            Bu
+Academics skill, 176-77                         Ashoka, 94                                Bu
+Access control, 291-92                          Asphyxiation, 194                         Bu
+Access jacks, 306                               Asteroid belt                             Bu
+Access privileges, reducing, 257                    Ceres, 97                             Bu
+Account access, 253                                 Extropia (44 Nysa), 97
+Accushot, 338                                       habitats, 97                          C
+Acquire                                             Nova York (Metis), 97                 Ca
+     information, 289-90                            resources, economics, 97              Ca
+     services, 289-90                           Async, 126                                Ca
+     unload goods, 289                              roleplaying, 221                      Ca
+Action, 189-90                                  Atavism, 212
+     complications, 193-206                     Aten, 88
+     types, 119-20                              Atlas (Volkograad), 103
+Action turns, 119, 127                          Atmospheric contamination, 200            Ca
+     declare, resolve actions, 188              Attack declaration, 191                   Ca
+     ﬁrst phase, 188                            Attention deﬁcit hyperactivity disorder   Ca
+     roll initiative, 188                       (ADHD), 212                               Ca
+     rotate and repeat, 188                     Augmented reality illusions, 259-60       Ca
+Active alert, 257                               Authentication, 253                       Ca
+Active monitoring, 253                              circumvention, 254-55                 Ca
+Active psi, 221                                     forging, 255                          Ca
+Active skill, 172                                   spooﬁng, 255                          Ca
+Adaptability, 145                               Authophagy, 212                           Ce
+Addiction, 148, 212, 317-18                     Automatic actions, 119, 190               Ch
+Admin accounts, 247                             Automatic riﬂes, 335
+Adrenal boost, 301-2                            Automech, 345
+Aerogel, 298                                    Autonomist Alliance, 57, 76-79
+Aged, 148                                       Avatars, 239                              Ch
+AGI (artiﬁcial general intelligence), 81, 236   Avoidance, minor, 210
+     attitudes toward, 48
+     infolife and, 244                          B
+     infomorphs and, 264-65                     Babylon, 111
+     non-standard AI and, 245                   Backdoor, 260
+AI (artiﬁcial intelligence), 236                Background, 120, 131-32
+     commanding, 264                            Backup, 330, 359
+     infolife and, 244                              complications, 270-71
+     limitations, 264                               cortical stack, 268
+     non-standard, 245                              insurance, 269-70, 330-31
+     subversion, 364                            Bad luck, 148
+Aimed shots, 193                                Bananas furiosas, 319-20
+Aiming, 190                                     Barsoomian, 79-80, 132-33
+Airburst, 199                                   Basilisk hacks, 364-66
+Aircraft, 342-43                                Battle suit, 344
+
+
+
+
+                                                                                          I
+AIs, 331-32                                     Beam weapons, 194, 203, 338-39
+Alienation, 225-26                                  skill, 177
+     modiﬁers, 272                              Bedlam, 332                               Ch
+     test, 272                                  Behavioral control, 231
+Aliens, 40                                      Behavioral masking, 231
+     mindset, 376                               Beta forks, 273-74
+     psi sleights, 222                          Big Circle Gang, 84
+Allergy                                         Bioconservatives, 80
+     mild, 150                                  Biological, 317
+     severe, 151                                    functions, lack of, 143
+Allies, 145                                         nanovirus, 363
+Alpha, 320                                      Biometric                                 Ch
+Alpha forks, 273                                    lock, 291                             Ch
+Amathea (Solano), 98                                scan, 253                             Ch
+Ambassadors, 376-77                                 tracking, 251                         Ch
+Ambelina, Claudia, 84                           Biomods, basic, 300                       Ch
+Ambidextrous, 145                               Biomorph, 139-42, 369-70                  Ch
+Ambience sense, 223                                 healing, 208                          Ch
+Ammunition, 337                                     resleeving, 271                       Ch
+     reloading, 193                             Bioware, 301-306                          Ch
+Analysis software, 205-6                            synthmorph and, 306                   Ch
+Anarchism, 57, 77, 132                          Bioweave armor, 302-03                    Ch
+Animal                                          Bipolar disorder, 212                     Ci
+     empathy, 145                               Biter, 338                                Ci
+     handling skill, 177                        Blacklisted, 149                          Ci
+     targets, 221-22                            Black mark, 149                           Ci
+Anonymization, 252-53                           Black market morphs, 277                  Cl
+Anonymous                                       Blackout, major, 211                      Cl
+     accounts, 330                              Blades, 334                               Cl
+     account services, 252-53                       skill, 177                            Cl
+Anti-electronics sleight, 372                   Blast weapons, 193                        Cl
+Anti-glare, 306                                 Bleeding, 208                             Cl
+Anti-matter rocket (AM), 347                    Blind attacks, 194                        Cl
+Anxiety, minor, 210                             Blueprints, 328                           Cl
+Aphrodite Prime, 90                                 open source, 284
+Aptitude, 122-23, 127, 172                          programming, 284-85                   Cl
+     customizing, 135                               restrictions, 284                     Co
+     improving, 152                             Bluewood, 111                             Co
+     maximums, 124                              Body                                      Co
+     -only tests, 174-75                            armor, 312                            Co
+     range, 174                                     bank, 331                             Co
+     starting, 135                                  dysmorphia, 212                       Co
+AR (augmented reality), 236, 239-40                 sculpting, 309
+     games, 53-54                               Borderline personality disorder, 212
+     illusions, 331                             Bot, 195-96
+     intrusions, 49-50                              -pod rental, 331
+Arachnoids, 143                                     -vehicle AI, 331
+Arcadia, 111                                    Bouncers, 140
+Area effect weapons, 193                        Bounty hunters, 60
+Argonauts, 79, 132                              Brainwave scans, 279
+Armor, 194, 310, 312                            Brave, 145                                Co
+     bypassing, 197                             Breadcrumb positioning system, 332        Co
+     clothing, 312                              BringIt, 319                              Co
+     modiﬁcation, 192, 313                      Brinkers, 80, 133                         Co
+     penetration, 194                           Brute-force hacking, 256                  Co
+     -piercing, 336                             Brute strength, 175                       Co
+     repair, 209                                BTX2, 323                                 Co
+ rlds, 281                     management, 205                 Diamond axe
+ 336-37                   Complementary skills, 173            Dice, 22, 114
+ers, 291                  Complex actions, 120, 190            Diffusion sle
+kill, 179                 Composure, 175                       Digital activi
+er, 347                   Computer capabilities, 247           Digital ID
+(BF), 198                 Concentrated ﬁre, 194                     code, 28
+                          Concussion, 340                           tamperin
+40                        Cone weapons, 193                    Digital virus,
+                          Confusion, moderate, 211             Dione (Thoro
+                          Conservatives, 359                   Direct Action
+ots, 196-97               Conspiracy theme, 19                 Direction sen
+ 9-100                    Continuity                           Disabler, 316
+  , 88                         stress, 273                     Disarming, 1
+ns                             test, 272-73                    Disassemble
+ ate, 23                  Control skill, 178                   Disassembly
+ lt, 22-23                Core skills, 172                     Discord Gate
+ g, 22                    Cortical stack, 300                  Disguise skil
+88                             backups, 268                    Disorders, 20
+337                            destruction, 268                Disorientatio
+ armor, 303                    feed, termination, 262          Disposable la
+ 3                             retrieval, 268                  Distance
+  rce repulsion, 372      Cosmetic mods, 309                        lag, 248
+ , 365                    Counterintrusion, 257                     real and
+  stupor, 365             Countermeasures, active, 293         Dizziness, mi
+thrown objects, 175       Courier, 347                         DMSO, 323
+r, 332                    Covert intruder, 256                 Domain rule
+                          Covert operations tool (COT), 315    Downtime, 2
+ n                        Covert technologies, 315-17          Dr. Bot, 345
+ 315                      Cowboys, 359                         Dragonﬂy, 14
+ng, 313                   CR Gas, 324                          Drifter, 131
+303                       Cranial computer, 300                Drive, 226, 3
+                          Crashing, 196                        Drug glands,
+  cement, 152-53          Crash suit, 312                      Drugs
+265                       Credit, 125, 135                          cognitive
+ pt, 120-21                    buying more, 136                     combat,
+ , 125                         making, 153                          health, 3
+121                       Creepers, 369                             recreatio
+125-26                    Creepy, 345                               social, 3
+ ty, 124                  Crime, 23                                 substanc
+ nts, 126                 Criminal, 133                        Dueling, 54
+h, 123                    Critical success/failure, 116, 189   Durability (D
+ ations, 120-21                psi, 223                        Dwarfs, 345
+  attributes of, 124      Crows, 358
+26                        Cryokinesis, 372                     E
+ation, 125                Cuffband, 316                        Earth, 24
+  122                     Cultural experimentation, 44              Fresh Kil
+   networks, 124-25       Cultural regions, 44                      habitats,
+
+
+
+
+NDEX
+ 121-23, 138              Culture, 41                               history a
+  123, 145-52             Customization points, 135-36              Paradise
+  generation              Customized morphs, 277                    populati
+  round, 131-32           Customs, 282-83                           Vo Nguy
+ pt, 130-31               Cyberbrain, 300                      Echo, 109-10
+mization points, 135-36        evacuation, 271                 Echolalia, mi
+ ing, 138                      hacking, 261-62, 364            Echolocation
+ n, 132-34                Cyberclaws, 307                      Echopraxia, m
+ oints, 134-35            Cyberlimb, 307                       Ecologene, 7
+purchasing, 136-37        Cyberlimb plus, 308                  Economy,
+ ations, 137-38           Cycle, 344                                new, 62-
+ ceiving, 197                                                       old, 61
+  197                     D                                         transitio
+   226                    Damage                               EcoWave, 12
+95                            bonus, 138                       Ecto, 50, 237
+   108                        bonus stat, 122, 138             Edited memo
+  263                         determination, 192               Eelware, 304
+  , 323                       initiative, 189                  Ego, 24-25,
+ sniffer, 311, 293            points, 207                           bridges,
+ substances, 317              types, 207                            hunters,
+ derate, 211                  value, 207                            scan, 25
+ty, 82-83                 Dang Fish Echo, 103                       sense, 2
+  regulation, 304         Danger sense, 145                         stats, 12
+ st, 125                  Dangerous technologies, 63           Egocasting, 2
+ p, 63                    Darkcasting, 243, 276                Eidetic mem
+125                       Darkly Selving, 322                  Electrical sen
+masses, 66                Dazzler, 316                         Electrogravit
+ 4                        DDR, 323                             Electromagn
+ 329                      Dead switch, 306                     Electronic ar
+tabolism, 304             Death, 50-51, 207, 208               Electronic dr
+skill, 177                    rating (DR), 121, 138            Electronic lo
+ 59                           uploading after, 269             Electronic ro
+ mory, 226                Deception skill, 178                 Electronic se
+4                         Deep learning, 231                   Elysium, 95
+178                       Deep scan, 226                       Emergency
+ lony, 281                Defaulting, 116, 127, 173                 bubble, 3
+70                        Defense                                   distress
+  boost, 223                  declaration, 191                      farcaster
+  drugs, 318, 320             full, 198                        Emotional co
+bles, 281                 Degeneration, 324                    Emotional da
+   196                    Delayed actions, 189                 Emotions, 18
+                          Delphinium Six, 322                  EMP, 340
+ ications, 193-206        Delta forks, 273                     Empathic sca
+, 319, 320                Demolitions, 197                     Enceladus (P
+ﬁers, 193                     skill, 178                       Encryption, 2
+ sis, 149                 Densiplast gloves, 334               Encumbranc
+ ing, 191-92              Depression, 213                      Enemy, 149
+ ship, 284                Derangements, 210-11                 Energy armo
+ ary, 206                 Dermal application, 317              Energy dama
+ts, 205-6                 Desktop cornucopia machine, 327      Engineers, 3
+sensor systems, 303       Destroyer, 347-48                    Enhanced cr
+omet Express), 70-71      Destructive uploading, 269           Enhanced ph
+320                       Detailed perception, 190             Entertainmen
+ , issuing, 248           Detailing, character, 138            Entrapment,
+information, 290          Detection, 293                       Environment
+sense, 145                Device AI, 331                       Epimethus, 1
+cations, 313-14           Diamond, 298                         Equipment r

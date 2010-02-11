@@ -1,0 +1,110 @@
+                STRESSFUL EXPERIENCES
+SITUATION
+Failing spectacularly in pursuit of a motivational goal   1d10 ÷ 2
+Helplessness                                              1d10 ÷ 2
+Betrayal by a trusted friend                              1d10 ÷ 2
+Extended isolation                                        1d10 ÷ 2
+Extreme violence (viewing)                                1d10 ÷ 2
+Extreme violence (committing)
+Awareness that your death is imminent
+Experiencing someone’s death via XP
+Losing a loved one                                        1d10 ÷ 2
+Watching a loved one die                                        1
+Being responsible for the death of a loved one                  1
+Encountering a gruesome murder scene
+Torture (viewing)                                               1
+Torture (moderate suffering)                                    2
+Torture (severe suffering)                                      3
+Encountering aliens (non-sentient)                        1d10 ÷ 2
+Encountering aliens (sentient)
+Encountering hostile aliens                                     1
+Encountering highly-advanced technology                   1d10 ÷ 2
+Encountering Exsurgent-modiﬁed technology                 1d10 ÷ 2
+Encountering Exsurgent-infected transhumans
+Encountering Exsurgent life forms                               1
+Exsurgent virus infection                                   Varies
+Witnessing psi-epsilon sleights                                 1
+
+
+    Every time you succeed in a Willpower Test to avoid
+ taking stress from a particular source, take note. If you
+ successfully resist such a situation 5 times, you become
+ effectively immune to taking stress from that source.
+    The drawback to hardening yourself to such situa-
+ tions is that you grow detached and callous. In order
+ to protect yourself, you have learned to cut off your
+ emotions—but it is such emotions that make you
+ human. You have erected mental walls that will affect
+ your empathy and ability to relate to others.
+    Each time you harden yourself to one source of
+ stress, your maximum Moxie stat is reduced by 1.
+ Psychotherapy may be used to overcome such harden-
+ ing, in the same way a disorder is treated.
+
+ MENTAL HEALING AND PSYCHOTHERAPY
+ Stress is trickier to heal than physical damage. There
+ are no nano-treatments or quick fix options (other
+ than killing yourself and reverting to a non-stressed
+ backup). The options for recuperating are simply natu-
+ ral healing over time, psychotherapy, or psychosurgery.
+                PSYCHOTHERAPY CARE
+                Characters with an appropriate skill—
+                Medicine: Psychiatry, Academics: Psychol-
+und down)        ogy, or Professional: Psychotherapy—can
+                 assist a character suffering mental stress
+und down)
+                 or trauma with psychotherapy. This treat-
+und down)
+                 ment is a long-term process, involving
+und down)        methods such as psychoanalysis, counsel-
+und down)        ing, roleplaying, relationship-building,
+0                hypnotherapy, behavioral modification,
+0                drugs, medical treatments, and even psy-
+0                chosurgery (p. 229). AIs skilled in psycho-
+und down)        therapy are also available.
+                    Psychotherapy is a task action, with a
++2
+                 timeframe of 1 hour per point of stress,
++5              8 hours per trauma, and 40 hours per
+0                disorder. Note that this only counts the
++2               time actually spent in psychotherapy with
++3               a skilled professional. After each psycho-
++5               therapy session, make a test to see if the
+und down)        session was successful. Successful psycho-
+                 surgery adds a +30 modifier to this test; at
+0
+                 the gamemaster’s discretion, other modi-
++3
+                 fiers may apply. Likewise, each disorder
+und down)        the character holds inflicts a –10 modifier.
+und down)       Traumas may not be healed until all stress
+0                is eliminated.
++3                  When a trauma is healed, the derange-
+ p. 366          ment associated with that trauma is
++2               eliminated or downgraded. Disorders are
+                 treated separately from the trauma that
+                 caused them, and may only be treated
+                when all other traumas are removed.
+      Gamemaster and players are encouraged to roleplay
+    a character’s suffering and relief from traumas and
+    disorders. Each is an experience that makes a profound
+    impact on a character’s personality and psyche. The
+    process of treatment may also change them, so in the
+    end they may be a transformed from the person they
+    once were. Even if treated, the scars are likely to remain
+    for some time to come. According to some opinions,
+    disorders are never truly eradicated, they are just eased
+    into submission ... where they may linger beneath the
+    surface, waiting for some trauma to come along.
+
+   NATURAL HEALING
+   Characters who eschew psychotherapy can hopefully
+   work out the problems in their head on their own over
+   time. For every month that passes without accruing
+   new stress, the character may make a WIL x 3 Test. If
+   successful, they heal 1d10 points of stress or 1 trauma
+   (all stress must be healed first). Disorders are even more
+   difficult to heal, requiring 3 months without stress or
+   trauma, and even then only being eliminated with a
+   successful WIL Test. As a result, disorders can linger
+   for years until resolved with actual psychotherapy.

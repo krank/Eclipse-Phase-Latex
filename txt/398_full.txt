@@ -1,0 +1,104 @@
+          Fire, 198                                        Gamma-ray sensors, 303                   Helmet, 312                                      test, 271
+               rate of, 198                                Ganymede, 99-100                         Hibernation, 305                            Intentions, 181
+-326      Firearms, 335-36                                 Gardeners, 329                           Hibernoids, 140                             Interest skill, 180
+          Fireprooﬁng, 313                                 Gas/smoke munitions, 341                 Hidden compartment, 311                     Interface, gear, 298
+          Firewall, 84-85, 253, 331, 356-61                Gatecrashing, 378-79                     Hidden data, 251                            Interfacing skill, 180
+               defeating, 255                              Gatekeeper Corporation, 72               Hidden intruder, 256                        Interrogation, 232
+               Project Ozma and, 380                       Gateway (Pandora), 104                   High-capacity qubit reservois, 315          Intimidation skill, 180
+          Firing modes, 198                                Gear, 126                                High explosive, 341                         Intruder
+          First impression, 146                                 acquiring, 296                      High-explosive armor-piercing (HEAP), 341        changing status, 256
+          Fissure Gate, 46, 108                                 concealing, 297                     High gravity, 199                                locating, 256, 257
+          Fixation, minor, 211                                  costs, 136-37, 296                  Hinduism, 83                                     status, 256
+          Fixers, 329                                           design, fashion, 297-98             History, 32-36, 38                          Intrusion, 254-56
+          Flashlight, 333                                       fabricating, 296                    Hither, 321                                      countermeasures, 257-58
+          Flash suppressor, 342                                 mass, encumbrance, 297              Hives, 328                                       preconditions, 254
+          Flats, 139, 174                                       modiﬁers, 296-97                    Hollow-point, 338                                tests, 255
+          Flayer, 338                                           quality, 296                        Holographic projectors, 325                      traces, eliminating, 260
+          Flex cutter, 334                                      sizes, 297                          Homing, 338                                 Intrusion, 254-56
+          Flexbots, 144                                    Gender, 45, 114                          Hooverman-Geischecker, 88                   Inuit moonlet, 104
+          Flight drug, 324                                 General anxiety disorder (GAD), 213      Hopper, 310                                 Investigation skill, 180-81
+          Flight skill, 178                                General exploration vehicle (GEV), 348   Horror, 19, 389                             Invisibility cloak, 316
+          Floating worlds, 68                              Genetic defect, 149                      Hostile environments, 200-201               Io, 99
+          Flux, 337                                        Gerlach, 90                              Hovercraft, 310                             Ionic, 310
+          Forgotten Hand, 322                              Ghostrider module, 307                   Human Cognome Project, 229, 233             Irrationality, major, 211
+          Fork handling, 274                               Ghosts, 140                              Hunger, minor, 211                          Irreproducible goods, 64
+          Forking, 273-74                                  Gills, 305                               Hunter-killers, 383                         Islam, 83
+          14K Triad, 84                                    Glitch, 108                              Hydrogen-oxygen rocket (HO), 347            Isolates, 40, 131
+          Fractal digits, 311                              Gnat, 345                                Hyoden, 100                                 iZulu, 104
+          Fractals, 382                                    Go-nin Group, 72                         Hyper linguist, 146, 301
+          Frag, 340-41                                     Gorgon Defense Systems, 72               Hypercorps, 55-57, 70-74, 133               J
+          Frail, 149                                       Grand mal seizure, 365                   Hyperdense exoskeleton, 344                 Jammers, 338
+          Fray skill, 178-79                               Gravity, 198-99                          Hyperelite, 131                             Jamming, 196, 262
+          Free fall skill, 179                                  and range, 203                      Hyperion, 104                               Janus Commons, 103
+          Free points, 134-35                                   transition zones, 200               Hyperthymesia, 224                          Jellies, 370
+          Freerunning skill, 179                                well escape, 346                    Hypochondria, 213                           Jewelry, nostalgia, 41
+          Freezer, 340                                     Gravy, 321                               Hysteria, major, 211                        Jovian Republic, 57, 58, 75, 134
+          Frenzy, major, 211                               Greek asteroids                                                                           Firewall, 361
+          Frequency, 321                                        Lot 49, 101-2                       I                                                punishment, 60
+          Fresh Kills, 92                                       resources, economies, 100           Iapetus, 104                                Jovian Trojans, 96
+          Fugue, 213                                       Grenades, 199-200                        ID (intelligent design) crew, 83            Judaism, 82-83
+          Full automatic (FA), 198                              jumping on, 200                     Ideas, 175                                  Juice, 320
+          Full defense, 198                                     seekers and, 340-41                 Identity, 124                               Jumping, 191
+               attack, 191                                      throwing back, 200                        circumventing checks, 280             Jupiter
+               psi, 222                                    Grin, 319                                      crisis, 149                                Amathea (Solano), 98
+          Fullerenes/Fullerites, 298                       Grip pads, 305                                 reputation and, 289                        habitats, moonlets, 98
+          Fur coat, 330                                    Grok, 224                                      veriﬁcation, 279-80                        Io, 99
+          Furies, 140                                      Groundcraft, 344-45                      Iktomi, 377                                      resources, economy, 97
+          Fusion rocket (F), 347                           Guanxi, 125                              Illiterate, 149                             Jupiter brain, 92
+          Futures, 140                                     Guardian angel, 345                      Ilmarinen, 108
+                                                           Guardians, 329, 377                      Imaging scope, 342                          K
+          G                                                Gunnery skill, 179                       Immersion, 262-63                           Kaos AI, 331
+), 361,   Gallic moonlet, 104                              Gyromount, 342                           Immigration, 282-83                         Keypad lock, 291
+          Game effects, disorders, 212, 213, 214, 215                                               Immortality blues, 149-50                   Kick, 318-19
+          Gamemaster, 21                                   H                                        Immune system, improved, 146                Kinesics skill, 181
+          Gamemastering                                    Habitat, 24, 86                          Immunogenic system, 313                          superior, 225
+33            backups, 385                                     asteroid belt, 97                    Impact, 199                                 Kinetic
+              fundamentals, 386                                diversity, 45                        Impaired cognition, 365                          ammunition, 336-38
+              inspiration, 388-89                              Earth, 91                            Impersonation skill, 180                         damage, 207
+              player challenges, 386-87                        electronic arrivals, 283             Implant, 126                                     friction, 372
+              record-keeping, 385-86                           Europa, 99                                 memory, 226-27                             weapons, 181, 334-35
+              reputation gain/loss, 384-85                     Ganymede, Callisto, 99-100                 nanotoxins, 308                       Klar, 318
+              resleeving, 271                                  Jupiter, 98                                rejection, 150                        Knife, 334
+              responsibilities, 386                            largest, 68                                skill, 227                            Knockback, 202
+              Rez point awards, 384, 386                       Luna, 92-94                          Improvised weapons, 202                     Knockdown, 202, 207-8
+              secrets, 387-88                                  Mars, 93-96                          Impulse control disorder, 213               Knowledge skill, 172, 185
+              transhumanism, 389                               Martian Trojans, 96                  Incompetent, 150
+          Gamemaster rules                                     Mercury, 88                          Indecisiveness, minor, 211                  L
+              exhumans, 362                                    microgravity, 68-69                  Indenture, 277                              Language skill, 181
+              exsurgents, 369-71                               physical arrivals, 282-83            Indirect ﬁre, 195, 205                      Large lander and orbit transfer vehicle
+9-82          exsurgent virus, 362-69                          planetary settlement, 66-67          Individual factors, 373                     (LLOTV), 348
+              extraterrestrial intelligence, 352-53, 361       private, 69                          Industrial armor, 310                       Laser
+              factors, 373-77                                  Sol, 86, 88                          Inequality, 38-39                                -guided, 338
+              Firewall organization, 356-61                    space, 67-68, 280-81                 Inﬁltration skill, 180                           -microwave link, 314
+              iktomi, 377                                      Venus, 89-90                         Infolife, 131                                    pulsers, 338
+              optional i-Rep, 357                              Vulcanoids, 88-89                    Infomorph, 145                                   sight, 342
+              Pandora Gates, 377-79                        Hacker, 243, 246                               AGI and, 264-65                       Law enforcement, 58, 59-60
+              Project Ozma, 379-80                             failing tests, 256                         muses as, 265                         Layered armor, 194
+              Prometheans, 381                                 upgrading status, 256                      refugees, 65-66                       Learned skills, 123, 127, 136
+              secrets, 352-55                                  zeroing in, 256                            resleeving, 272                            new, 153
+              TITANs, 354-55                               Hacking, 254-56                                software minds, 265                        ranges, 174
+          Game playing                                         cyberbrain, 261-62                         subversion, 364                       Lemon, 150
+              action turns, 119-20, 127                        joint, 258                           Information                                 Less complex life forms, 221-22
+              alternate campaigns, 23                          memory, 261                                acquire, 290                          Libertarians, 57-58
+              campaign setting, 22-23                          sequence, 255                              overload, 237-38                      Liberty, 100
+              character deﬁning, 120                           simulspaces, 263-64                  Infosec skill, 180                          Lidar (visible light) sensors, 303, 311
+              critical success/failure, 116                    VPNs, 260                            Infotech, 46-48                             Life, 50-51
+              defaulting, 116                              Hallucinations, 211, 365                 Infrared sensors, 302-3                          in space, 280-84
+              default setting, 22-23                       Hamilton cylinders, 281                  Inhalation, 317                             Light combat armor, 310
+              group of players, meeting place, 20-21       Hand laser, 308                          Inhibitor, 325                              Limber, 146
+              imagination, 22                              Haptics, 245-46                          Initiative (INIT), 121, 138, 188            Linkstate, 323
+              margin of success/failure, 118               Hard suit, 334                                 damage, 189                           Liquid thermite, 323
+              modiﬁers, 115-16                             Hardened skeleton, 308                         moxie, criticals, 189                 Living space, 64
+              note taking, 21-22                           Hardening, 214-15                              order, 189                            Local conditions, 239
+              roles, 22                                    Hardware skill, 179                            simplifying, 189                      Lockbots, 292
+              rules summary, 127                           Haunting virus, 366-67                   Injected application, 317                   Locked intruder, 256
+              taking time, 117-18, 127                     Haute nosh, 64                           Injectors, 329                              Lockout, 257
+              target numbers, 115                          Headhunters, 383                         Inner System                                Locus, 101
+              teamwork, 117                                Healing, 208-9                                 Firewall, 361                         Logorrhea, minor, 211
+              ten-sided dice, 22, 114                      Healing vats, 326                              politics, 55-57, 75                   Loonie, 134
+              test difﬁculty, 115                          Health drugs, 319-20                     Innocuous, 146                              Lost generation, 131, 233
+              test making, 115, 127                        Hearing, enhanced, 301                   Insanity rating (IR), 122, 138, 209         Lot 49, 102
+              test types, 117-19                           Heartbeat sensors, 293                   Insomnia, 213                               Lotus coating, 313
+              trying again, 117                            Heavy combat armor, 310                  Instinct, 224                               Low-capacity qubit reservoir, 315
+              ultimate rule, 114                           Helium-3 mining, 92                      Integration                                 Low gravity, 199
+          Gamma forks, 274                                 Hellball, 341                                  modiﬁers, 27                          Luca, 110

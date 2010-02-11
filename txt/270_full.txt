@@ -1,0 +1,64 @@
+                                                  ■GEAR■
+                                                   GEAR■
+■GEAR■GEAR■GEAR■GEAR■GEAR■GEAR■GEAR■GEAR■GEAR■GEAR■GEAR■
+
+
+
+ERATED FUTURE                                                                                                              10
+
+
+ The future setting of Eclipse Phase introduces a            a character may need to extract a cortical stack in the
+ number of technological elements that have a strong         field, whether because transporting the corpse is im-
+ impact on transhuman society. These include backups         practical or because the dead person is an enemy and
+ and uploading, resleeving, egocasting, forking, nano-       they either don’t want them knowing who killed them
+ fabrication, reputation systems, space habitats, and        or they want to interrogate them with psychosurgery
+ space travel, among others.                                 in a simulspace.
+                                                                The process of cutting out a cortical stack is called
+                                                            “popping,” as a skilled extractor can usually get the
+ BACKUPS AND UPLOADING                                       smooth-shelled implant to pop right out by making
+ The transhuman mind is no longer a prisoner of the          an incision in the correct place and applying pressure.
+ biological hardware on which it originates. Through         One does need to be careful that the tiny, blood-slick
+ various mechanisms, biological brains may be digitally      stack doesn’t slip away once popped.
+ emulated, allowing people to make a backup of their            Popping can be done with a sharp knife and elbow
+ minds, including their entire personality, memories,        grease, though it is grisly. Popping a stack is a Task
+ and skills—a process known as uploading.                   Action that requires a Medicine: [any appropriate
+   The primary use of backups is to ensure the person’s      field] Test with a timeframe of 1 minute and a modi-
+ ego can be retrieved in case of death, in which case        fier of +20. Morphs with stacks in non-standard loca-
+ they may be resleeved (p. 271). For this reason, almost     tions or with anatomical shielding (carapace plates,
+ everyone in the solar system is equipped with a corti-      etc.) around the stack may incur penalties to this test
+ cal stack (p. 300). Backups may also be safely archived     at the gamemaster’s discretion. Of course, if you don’t
+ in secure storage (p. 269) or used to create infomorphs     have the time for a precise extraction, you can always
+ (p. 264). A person may also egocast themselves across       just cut the entire head off and take it with you.
+ the solar system as a form of travel (p. 276).                 Once a cortical stack is retrieved, it may be loaded
+                                                             into an ego bridge (p. 328) and used to bring the ego
+ CORTICAL STACK BACKUPS                                      back, either as an infomorph or by resleeving.
+ Cortical stack implants deploy a network of nano-              Living Subjects: Cortical stacks may be excised
+ bots throughout the brain that take a snapshot of           from living people, but the process is usually fatal (or
+ the mind’s neural state, storing the data as a backup       at least paralyzing) as it involves cutting through the
+ within the cortical stack. The average transhuman’s         spinal column. If the target is not unconscious or oth-
+ cortical stack backs up their ego 86,400 times per day.     erwise incapacitated, they must first be immobilized
+ Only the most recent backup is kept within the stack;       in melee combat (see Subdual, p. 204). Cutting out
+ older ones are overwritten. Pods and synthmorphs            the stack is handled like a Medicine Task Action as
+ also can be equipped with cortical stacks (though           above, but this process inflicts 3d10 + 10 damage on
+ AI-piloted bots often lack this feature), though these      the target. If the test fails, they still inflict 1d10 + 10
+ versions maintain an updated copy of the ego running        damage to the target. If the person removing the stack
+ in the morph’s cyberbrain.                                 wants to leave the target alive or harm them as little
+    In the case of death, accidental or otherwise, a cor-    as possible, they suffer a –20 modifier on the test, but
+ tical stack can be retrieved from a corpse and used to      may reduce the damage by 1d10 per 10 full points of
+ recover the character, either as an infomorph or by         MoS. Living through the process of having your stack
+ resleeving them in a new morph. Cortical stacks are         removed is traumatic; anyone who does so suffers
+ diamond-hardened and protected, so they may often          1d10 mental stress.
+ be retrieved even if the corpse is badly mangled or
+ damaged. If the corpse cannot be recovered or the          DESTROYING A CORTICAL STACK
+ cortical stack is destroyed, the backup is lost.           Cortical stacks have an Armor of 20 and a Durability
+    High rollers, well-equipped brinkers, and others        of 20 for anyone attempting to destroy them.
+ in dangerous professions often opt for an emergency
+ farcaster accessory (p. 306) that periodically (usually    UPLOADING
+ every 48 hours, but varying according to contract)         Uploading a backup into secure storage is usually
+ transmits a backup from the cortical stack to a remote     handled with a brain scan at the storage facility’s clinic
+ storage facility. This option is quite expensive, how-     using a bread box-sized unit called an ego bridge (p.
+ ever, and so is generally only afforded by the wealthy.    328). When activated, the ego bridge’s sensor array
+                                                            twists open like a morning glory blossom, revealing an
+ RETRIEVING A CORTICAL STACK                                enclosure with a neck rest that automatically adjusts
+ Most cortical stacks are carefully excised from a          itself to morphs with oddly-sized or -shaped heads.
+ corpse with surgery. In certain circumstances, however,    The neck rest deploys millions of specialized nanobots

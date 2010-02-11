@@ -1,0 +1,70 @@
+                                                              CRIMINAL HACKER
+                                                                        APTITUDES
+                                                                             COG      COO      INT      REF      SAV     SOM       WIL
+                                                                  Base        20       15       15       10       20      10       15
+                                                           Morph Bonus
+                                                                  Total        20      15       15       10       20       10       15
+
+
+
+
+                                                            MOX       TT     LUC       IR      WT      DUR       DR
+                                                                                                                         STATS
+                                                                                                                         INIT      SPD
+                                                             3         6      30       60       6       30       60       50        1
+
+
+
+                                                                                                                       SKILLS
+                                                                                                                   MORPH
+                                                                                               APT      BASE       BONUS        TOTAL
+                                                       Academics: Computer Science             COG       60                       60
+                                                            Academics: Cryptography            COG       60                       60
+                                                              Academics: Engineering           COG       50                       50
+                                                                 Art: Electronic Music         INT       45                       45
+                                                                       Beam Weapons            COO       40                       40
+                                                                              Deception        SAV       55                       55
+                                                                                     Fray      REF       40                       40
+                                                                                Free Fall      REF       30                       30
+                                                                Hardware: Electronics          COG       60                       60
+                                                                  Hardware: Industrial         COG       45                       45
+                                                                  Hardware: Robotics           COG       55                       55
+                                                                         Impersonation         SAV       45                       45
+                                                                              Inﬁltration      COO       60                       60
+                                                                                 Infosec       COG       70                       70
+                                                      Interests: Hacker Mesh Forums            COG       55                       55
+                                                             Interests: Online Banking         COG       50                       50
+                                                           Interests: Triad Economics          COG       45                       45
+                                                                             Interfacing       COG       55                       55
+                                                                            Intimidation       SAV       30                       30
+                                                                                Kinesics       SAV       40                       40
+                                                            Language: Native Russian           INT       85                       85
+                                                             Networking: Autonomists           SAV       40                       40
+                                                                Networking: Criminals          SAV       60                       60
+antiated                                                          Networking: Firewall         SAV       40                       40
+                                                              Networking: Hypercorps           SAV       40                       40
+d
+                                                                             Perception        INT       50                       50
+e +Subverting Technology +Thrill-Seeking
+                                                                          Pilot: Aircraft      REF       30                       30
+                  Enhancements: Access Jacks,                        Pilot: Groundcraft        REF       20                       20
+es, On the          Basic Mesh Inserts, Cortical               Profession: Accounting          COG       50                       50
+ Constella-         Stack, Cyberbrain, Electrical     Profession: Security Operations          COG       55                       55
+me ■                Sense, Enhanced Vision, Lidar,     Profession: Social Engineering          COG       60                       60
+                    Magnetic System, Mental Speed,                        Programming          COG       60                       60
+                    Mnemonic Augmentation, Nano-                               Research        COG       60                       60
+                    scopic Vision, Radar, Swarm
+                    Composition, T-Ray Emitter ■
+                  Gear: Automech, Backup Insur-
+                    ance (1 month), EMP Grenade,     There's never been a system you            of course, but you've never let moral-
+                    Exploit Software, Fake Ego       couldn't crack, given time. That's what    ity get in your way. In fact, you make a
+                    ID, Guardian Bot, Guardians      got you put away the ﬁrst time, but now    good living selling your talents to crimi-
+                    Nanoswarm, Saboteur              that you have a second chance you'll       nal groups like the triads and ID Crew.
+one ■               Nanoswarm, Servitor Bot,         never get caught again. You take pride     You've never been a joiner, though—
+0■                  Sniffer Software, Spoof          at circumventing firewalls and mesh        you remain strictly freelance. In fact,
+                    Software, Tactical Network       defenses—nothing surpasses the thrill      you'll sell your services to almost
+                                                     of digital trespassing and accessing       anyone—it's the thrill of the hack that
+                    Software, Tracking Software ■
+                                                     secrets. Such intrusions are illegal,      really counts. ■
+
+        “You call this secure? Maybe it would keep me out if I was a particularly slow child.”

@@ -1,0 +1,114 @@
+PERSUASION
+Type: Active, Social
+Linked Aptitude: SAV
+  What it is: Persuasion is the art of convincing
+someone to do what you want through the use of
+words and gestures. This does not include persuasion
+through threats or force (that is covered by Intimida-
+tion) or by lying (covered by Deception).
+  When you use it: Use Persuasion any time you are
+trying to bargain with, convince, or manipulate some-
+one. This can include motivating your subordinates or
+peers to take action, seducing a companion, winning
+a political debate, or negotiating a contract, among
+other things. Persuasion is handled as an Opposed
+Test against the target’s WIL + WIL + SAV when one
+person is simply trying to win over another. If both
+parties are trying to convince each other, make it an
+Opposed Test between Persuasion skills.
+Specializations: Diplomacy, Morale Boosting, Negoti-
+   ating, Seduction
+
+PILOT: [FIELD]
+Type: Field, Active, Vehicle
+Linked Aptitude: REF
+  What it is: Pilot is your skill at driving/flying a ve-
+hicle of a particular type.
+  When you use it: You use Pilot skill whenever you
+need to maneuver, control, or avoid crashing a vehicle,
+whether you are in the pilot’s seat, remote controlling
+a robot, or directly jamming a vehicle with VR. Each
+vehicle has a Handling modifier that applies to this
+test, along with other situational modifiers (see Bots,
+Synthmorphs, and Vehicles, p. 195).
+Sample Fields: Aircraft, Anthroform (walkers), Exotic
+  Vehicle, Groundcraft (wheeled or tracked), Space-
+   craft, Watercraft
+Specializations: As appropriate to the field
+
+PROFESSION: [FIELD]
+Type: Field, Knowledge
+Linked Aptitude: COG
+  What it is: Profession skills indicate training in a
+profession practiced in Eclipse Phase. This can indi-
+cate either formal training or informal, on-the-job type
+training, and includes both legal and extralegal trades.
+  When you use it: Use Profession to perform work-
+related tasks for a specific trade (i.e. mining, balancing
+accounts, designing a security system, etc.) or to refer-
+ence specialized knowledge that someone trained in
+that profession might have.
+Sample Fields: Accounting, Appraisal, Asteroid Pros-
+   pecting, Banking, Cool Hunting, Con Schemes,
+   Distribution, Forensics, Lab Technician, Mining,
+   Police Procedures, Psychotherapy, Security Ops,
+   Smuggling Tricks, Social Engineering, Squad Tactics,
+  Viral Marketing, XP Production
+Specializations: As appropriate to the field
+PROGRAMMING
+Type: Active, Technical
+Linked Aptitude: COG (no defaulting)
+  What it is: Programming is your talent at writing
+and modifying software code.
+  When you use it: Use Programming to write new
+programs, modify or patch existing software, break
+copy protection, find or introduce exploitable flaws,
+write virii or worms, design virtual settings, and so
+on. See the Mesh chapter, p. 234. Programming is also
+applied when using nanofabrication devices.
+Specializations: AI Code, Malware, Nanofabrication,
+  Piracy, Simulspace Code
+
+NANOFABRICATION
+Nanofabrication is use of Programming skill to create
+objects using a cornucopia machine, fabber, or maker
+(p. 327). If you have appropriate blueprints and raw
+materials, most uses of a nanofabricator can be treated
+as a Simple Success Test (p. 118). If you wish to create
+an item for which you do not have blueprints or the
+proper raw materials, however, or you wish to alter an
+item’s design, then a Nanofabrication Test is called for.
+See Nanofabrication, p. 284.
+Specializations: Art, Clothing, Electronics, Food, Forg-
+   ery, Weapons
+
+PROTOCOL
+Type: Active, Social
+Linked Aptitude: SAV
+  What it is: Protocol is the art of making a good
+impression in social settings. This includes keeping
+up with the latest memes, trends, gossip, interests and
+habits of various (sub)cultural group.
+  When you use it: Use Protocol whenever you need
+to choose your words carefully, determine who is the
+appropriate person to speak to, impress someone with
+your grasp of customs, or otherwise fit into a specific
+social/cultural grouping. Part etiquette, part streetwise,
+Protocol allows you to navigate treacherous social
+waters and put people at ease. If the character is deal-
+ing with a suspicious or hostile audience, make this an
+Opposed Test against the target’s WIL + WIL + SAV.
+Specializations: Anarchist, Brinker, Criminal, Factor,
+  Hypercorp, Infomorph, Mercurial, Reclaimer, Pres-
+  ervationist, Scum, Ultimate
+
+NEGATING SOCIAL GAFFES
+Sometimes a player will make a mistake that their
+character never would, whether that’s failing to stand
+in the presence of hypercorp royalty, confusing a gang
+leader for a peon, or accidentally insulting someone’s
+heritage. In cases like this, the player may make a Pro-
+tocol Test for the appropriate field in order to negate
+the gaffe. If successful, the character never actually
+screwed up, or at least managed to cover their tracks
+without ruffling any feathers.

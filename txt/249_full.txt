@@ -1,0 +1,59 @@
+on the mesh. Public accounts do not require any sort                     characters will get their hands on some old relic or
+of authentication or login process, the user’s mesh ID                   find themselves in secluded or decrepit places with
+is enough. These accounts are used to provide access                     local systems and gear that aren’t up to date. Likewise,
+to any sort of data that is considered public: mesh                      they may acquire some cutting-edge gear straight
+sites, forums, public archives, open databases, social                   from the labs or may run up against a state-of-the-art
+network profiles, etc. Public accounts usually have                      installation with next-generation defenses. To reflect
+the ability to read and download data, and some-                         this, mesh tests can be modified according to the state
+times to write data (forum comments, for example),                       of the hardware or software being used, as noted on
+but little else.                                                         the Mesh Gear Modifiers table
+                                                                        .
+USER ACCOUNTS                                                            COMPUTER CAPABILITIES
+User accounts are the most common accounts. User                        Computerized electronics can be broken down into
+accounts require some form of authentication (p. 253)                   three simple categories: peripherals, personal comput-
+to access the device, network, or service. Each user ac-                ers, and servers. In game terms, all are collectively
+count has specific access privileges allotted to it, which              referred to as devices.
+are tasks the user is allowed to perform on that system.
+For example, most users are allowed to upload and                       PERIPHERALS
+download data, change basic content, and use the                        Peripherals are micro-computerized devices that don’t
+standard features of the system in question. They are                   need the full processing power and storage capacity of
+not, however, usually allowed to alter security features,               a personal computer, but benefit from online network-
+add new accounts, or do anything that might impact                      ing and other computerized functions. Peripherals may
+the security or functioning of the system. As some sys-                 run software, but the gamemaster may decide that too
+tems are more restrictive than others, the gamemaster                   many programs (10+) will degrade the system’s perfor-
+decides what privileges each user account provides.                     mance. AIs and infomorphs are incapable of running
+                                                                        on peripherals, though they may access them. Peripher-
+SECURITY ACCOUNTS                                                       als only have public and user accounts (users accounts
+Security accounts are intended for users that need                      include security and admin functions; see p. 247).
+greater rights and privileges than standard users, but                    Common peripherals include: spimes, appliances, most
+who don’t need control over the entire system, such                     cybernetic implants, individual sensors, and weapons.
+as security hackers and muses. Security access rights
+usually allow for reading logs, commanding security                     PERSONAL COMPUTERS
+features, adding/deleting accounts, altering the data of                Personal computers account for a wide range of com-
+other users, and so on.                                                 puter types, but essentially account for anything that
+                                                                        has the capabilities evolved from generations and gen-
+ADMIN ACCOUNTS                                                          erations of personal computers to meet an everyday
+Admin accounts provide complete control over the                        user’s needs. Most personal computers are portable
+system. Characters with admin rights can do every-                      and tailored for use by multiple users at a time. Per-
+thing security accounts can, plus they can shut down/                   sonal computers may run one AI or infomorph at a
+reboot the system, alter access rights of other users,                  time. They may not run simulspace programs.
+view and edit all log files and statistics, and stop or                   Common personal computers include: mesh inserts,
+start any software available on the system.                             ectos, and vehicles.
+
+MESH GEAR QUALITY                                                       SERVERS
+Not all gear is created equal, and this is especially true              Servers have much greater processing power and
+of computers and software, where new innovations                        data management capabilities than personal comput-
+are made on a daily basis. Keeping up-to-date with                      ers. They are capable of handling hundreds of users,
+the last specs isn’t too difficult, but on occasion the                 multiple AIs and infomorphs, and they may run
+
+
+                                          MESH GEAR MODIFIERS
+MODIFIER SOFTWARE/HARDWARE
+   –30      Bashed-up devices, no-longer-supported software, relics from Earth or the early expansion into space
+   –20      Malfunctioning/inferior devices, buggy software, pre-Fall technology
+   –10      Outdated and low quality systems
+    0       Standard ectos, mesh inserts, and software
+   +10      High-quality goods, standard security-grade products
+   +20      Next-generation devices, advanced software
+   +30      Newly-developed, state-of-the-art, top-of-the-line technology
+  >+30      TITANs and/or alien technology

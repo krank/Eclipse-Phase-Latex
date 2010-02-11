@@ -1,0 +1,57 @@
+ solar system in a matter of days or weeks, instead of                suitable for travel both on and underwater. In addi-
+ weeks or months.                                                     tion, it contains a small metallic hydrogen engine that
+    Anti-matter drive fast couriers are vessels de-                   allow it to maneuver in space with an acceleration of
+ signed for this specific purpose. This vessel can                    up to 0.1 G. GEVs have a Maximum Velocity of 200
+ travel from Venus to Mars in a week and from                         (wheeled)/40 (walker)/60 (sea)/40 (submerged).
+ Mars to Jupiter in a month. The fast courier is the                     The GEV also has a closed cycle life support system
+ swiftest vessels currently made and is able to reach                 that can support up to 6 (fairly cramped) living
+ at much as one half of one percent of the speed                      occupants for up to one month and limited electro-
+ of light. To manage this, this spacecraft must also                  magnetic shielding against charged particle radiation.
+ carry 6 tons of antimatter in a 100 ton magnetic                     All models are fitted with advanced AI piloting and
+ containment vessel. In an emergency, this contain-                   navigation as well as limited self-repair capacity. In
+ ment facility can be jettisoned.                                     addition, GEV’s have an extensible airlock, a single
+    Destroyer: One of the largest military spacecraft                 healing vat, several desktop CMs, and a variety of
+ in common use, destroyers use an antimatter drive                    sensors, including both radar and telescopic full spec-
+ holding 150 tons of antimatter in a 2,000-ton mag-                   trum cameras.
+ netic containment vessel. This antimatter can also                      Large Lander and Orbit Transfer Vehicle (LLOTV):
+ be used to provide the spacecraft’s missiles with                    This common vehicle is used for transporting passen-
+ anti-matter for devastatingly powerful anti-matter                   gers and cargo between a planet or moon and orbit
+ warheads. This spacecraft is also armed with                         and for short distance transfers between habitats
+ railguns, nuclear and high explosive missiles, and                   less than 100,000 km apart. This conical vehicle has
+ point defense lasers.  In addition, all destroyers                   a curved heat shield on the base and smart material
+ carry a contingent of 20 fighters.                                   landing legs and grapples so that it can rest securely
+    Fighter: This small, short range military vessel is de-           on any stable terrain and link up with all forms of
+ signed to be crewed by an infomorph or AI. If needed,                docking clamps. It comes in variants designed to use
+ however, it can hold a single synthmorph or vaccum-                  either a hydrogen-oxygen chemical rocket or a me-
+ adapted biomorph as a pilot. It carries 3 lasers and 2               tallic hydrogen rocket. The use of light-weight smart
+ railguns mounted on small pods placed around the                     materials allows the interior to be easily and rapidly
+ middle of ship that can fire in any direction. A single              reconfigured to accommodate different amounts of
+ missile launcher is located in the nose of the fighter               fuel, passenger seats, and cargo space. LLOTVs that
+ and typically holds 6 small high explosive missiles or               are not designed for planetary landing or which are
+ tactical nuclear missiles (or even anti-matter missiles              designed only to land on airless moons are unstream-
+ if facing high-threat targets).                                      lined and look considerably blockier.
+    General Exploration Vehicle (GEV): A GEV is one                      LLOTVs come in two configurations: high or low
+ of the standard vehicles used for exploration beyond                 velocity. High velocity configuration allows the vehicle
+ the Pandora Gates. It is specifically designed to handle             to land and take off again on Venus or Earth without
+ almost any environment. It is a boxy vehicle, 6 meters               refueling and for rapid transport between nearby
+ long, 2.2 meters wide, and 2 meters high. It makes                   habitats. Low velocity configuration is designed to
+ extensive use of smart matter in the lower part of the               land and take off again on Mars or various large
+ chassis, and can create wheels or short legs (primar-                moons without refueling and for slower and more
+ ily useful for exceedingly rough terrain). It can even               fuel efficient transport between nearby habitats. The
+ produce limited hull streamlining and propulsion                     extensive use of smart materials in this vehicle means
+
+
+
+                                          VEHICLES—SPACECRAFT
+SPACECRAFT                     PASSENGER CAPACITY                 HANDLING      ARMOR        DURABILITY WOUND THRESHOLD
+Bulk Carrier                              110                        —             20            750               150
+Courier                                    13                        —             15            500               100
+Destroyer                                  90                        —             30           2,000              500
+Fighter                                    1                        +30            20            240                60
+GEV                                        6                        –10            15            200                40
+LLOTV (HO)               20 (high-velocity)/100 (low-velocity)      –10            20            800               160
+LLOTV (MH)               250 (high-velocity)/350 (low-velocity)     –10            20            800               160
+Scum Barge                              20,000                       —             20           1,500              150
+SLOTV (HO)                 3 (high-velocity)/30 (low-velocity)      –10            20            400                80
+SLOTV (MH)               70 (high-velocity)/100 (low-velocity)      –10            20            400                80
+Standard Transport                        200                        —             20            750               150

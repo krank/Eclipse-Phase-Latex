@@ -1,0 +1,117 @@
+of strong magnetic fields can be devastating. Note that
+many of the conditions that result in vehicles, bots,
+and gear being exposed to strong magnetic field activ-
+ity coincide with strong radioactivity.
+   Magnetic fields affect synthmorphs, robots, vehicles,
+cybernetic implants, and electronics after 1 minute of
+exposure. Like radiation exposure, these effects can
+vary drastically. At the low end, communication and
+sensors will suffer interference and shortened ranges;
+at high ends, electronic systems will simply suffer
+damage and fail.
+
+RADIATION
+Ionizing radiation is one of the more prevalent haz-
+ards in the solar system and one of the most difficult
+problems for transhumanity to defeat. Radiation
+damages genetic material, sickens, and kills by ion-
+izing the chemicals involved in cell division within the
+human body. Effects range from nausea and fatigue to
+massive organ failure and death. However, radiation
+sickness is not solely a somatic phenomenon. The real
+terror of radiation for transhumans, especially at high
+dose levels such as those experienced on the surface of
+Ganymede and other Jovian moons, is damage to the
+neural network. This can lead to flawed uploads and
+backups. Nanomedicine that can rapidly reverse the
+ionization of cellular chemicals and new materials that
+offer thinner and better shielding help, but the sheer
+magnitude of the radiation put out by some bodies in
+the solar system defeats even these.
+   Radiation poisoning is a complicated affair, and de-
+tailed rules are beyond the scope of this book. Sources
+of radiation include the Earth’s Van Allen belt, Jupi-
+ter’s radiation belt, Saturn’s magnetosphere, cosmic
+rays, solar flares, fission materials, unshielded fusion
+or antimatter explosions, and nuclear blasts, among
+others. Effects can vary drastically depending on the
+strength of the source, the amount of time exposed,
+and the level of shielding available. The immediate
+effects on biomorphs (manifesting anywhere from
+within minutes to 6 hours) can include nausea, vomit-
+ing, fatigue (reduced SOM), as well as both physical
+damage and minor amounts of mental stress. This
+is followed by a latency period where the biomorph
+seems to get better, lasting anywhere from 6 hours
+to 2 weeks. After this point, the final effects kick in,
+which can include hair loss, sterility, reduced SOM
+and DUR, severe damage to gastric and intestinal
+tissue, infections, uncontrolled bleeding, and death.
+   Synthmorphs are not quite as vulnerable as
+biomorphs, but even they can be damaged and dis-
+abled by severe radiation dosages.
+
+TOXIC ATMOSPHERE
+Neptune, Titan, Uranus, and Venus all have toxic
+atmospheres. Similar atmospheres may be found on
+some exoplanets, or might be intentionally created as
+a security measure within a habitat or structure.
+  A character who is unaware of atmospheric toxicity
+and does not immediately hold their breath (requir-
+ing a REF x 3 Test) suffers 10 points of damage per
+Action Turn. A character who manages to hold their
+breath can last a bit longer; apply the rules for as-
+phyxiation (p. 194).
+  Corrosive Atmospheres: In addition to being toxic,
+Venus has the only naturally occurring corrosive at-
+mosphere in the system. Corrosive atmospheres are
+immediately dangerous: characters take 10 points of
+damage per Action Turn, regardless of whether they
+hold their breath or not. Corrosive atmospheres also
+damage vehicles and gear not equipped with anti-
+corrosive shielding. Such items take 1 point of damage
+per minute. At greater concentrations, such as in the
+dense sulfuric acid clouds in the upper atmosphere of
+Venus, items takes 5 points of damage per minute.
+
+UNBREATHABLE ATMOSPHERE
+Very few of the planetary bodies in the solar system
+actually have toxic atmospheres. In most unbreathable
+atmospheres, the primary hazard for transhumans
+without breathing apparatus or modifications to their
+morph is lack of oxygen. Treat exposure to unbreath-
+able atmospheres the same as asphyxiation.
+
+UNDERWATER
+In general, any physical skill performed underwater suf-
+fers a –20 penalty due to the resistance of the medium.
+Skills relying on equipment not adapted for underwa-
+ter use may be more difficult or impossible to use. A
+character’s movement rate while swimming or walking
+underwater is one quarter their normal rate on land.
+If a character begins to drown underwater, follow the
+rules for asphyxiation (p. 194). Note that drowning
+characters do not immediately recover if rescued from
+the water; they will continue to asphyxiate until medical
+treatment is applied to clear the water from their lungs.
+
+VACUUM
+   Biomorphs without vacuum sealing (p. 305) can
+spend one minute in the vacuum of space with no ill
+effects, provided they curl up into a ball, empty their
+lungs of air, and keep their eyes closed (something kids
+in space habitats learn at a very young age). Contrary
+to popular depictions in pre-Fall media, a character
+exposed to hard vacuum does not explosively de-
+compress, nor do their internal fluids boil (other than
+relatively exposed liquids such as saliva on the tongue).
+Rather, the primary danger for characters on EVA sans
+vacsuit is asphyxiation due to lack of oxygen and as-
+sociated complications such as edema in the lungs.
+   After one minute in space, the character begins to
+suffer from asphyxiation (p. 194). Damage is doubled
+if the character tries to hold air in their lungs or is not
+curled up in a vacuum survival position as described
+above. Additionally, characters trapped in space with-
+out adequate thermal protection suffer 10 points of
+damage per minute from the extreme cold.

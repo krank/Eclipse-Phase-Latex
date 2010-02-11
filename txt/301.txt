@@ -1,0 +1,65 @@
+ MESHED GEAR
+Almost all technology in Eclipse Phase is designed
+to be operated via radio signals from the user’s basic
+implant, although models usable by characters with-
+out basic implants are also available. In addition all
+devices contain a nearly microscopic computer and
+radio link (known as a “voice”) that allows the user to
+easily locate the object and that reports on the condi-
+tion of the object or device, how to properly use and
+care for it, as well as telling the user when it needs
+to be repaired and how. Most are discrete and highly
+useful, but cheaply made goods sometimes have overly
+annoying voices.
+   This means that almost all devices can be accessed
+via the mesh or directly if within radio range. This
+makes them vulnerable to hacking and intrusion at-
+tempts (p. 254) as well as radio jamming (p. 262).
+Many devices are, however, publicly accessible (see
+Spimes, p. 238). Meshed gear may also be tracked
+through the mesh (p. 251). For privacy and security,
+these devices are often slaved to other systems (see
+Slaving Devices, p. 248); devices worn/carried by
+
+
+                                 RADIO AND SE
+SIZE CATEGORY           URBAN RANGE                   OP
+Nano                       20 meters                      1
+Micro                      50 meters                      5
+Mini                      1 kilometer                     20
+Small                     5 kilometers                    50
+Medium                   25 kilometers                25
+Large                    500 kilometers              5,00
+   characters are usually made part of the personal area
+   network and slaved to the character’s mesh inserts/
+   ecto. For more info on meshed devices, see the Mesh
+   chapter, p. 234.
+     Many devices come equipped with AIs, who are
+   equipped with skillsofts that enable them to oper-
+   ate the device on their own, as according to voiced
+   instructions or commands issued through the net. AIs
+   are described on p. 264 and p. 331.
+
+   RADIO AND SENSOR RANGES
+   In Eclipse Phase, almost all devices are equipped with
+   small radios so that they may be meshed. Likewise,
+   many pieces of gear are equipped with sensors such as
+   cameras, microphones, or other detectors. The Radio
+   and Sensor Ranges table notes what range these de-
+   vices operate at.
+
+   POWER
+   All of the powered devices in Eclipse Phase require
+   electricity to function. With rare exceptions, most of
+   them rely on either solar cells or powerful batteries.
+   These batteries are high-density, room-temperature
+
+
+NSOR RANGES
+RANGE        EXAMPLES
+meters       Smart Dust, Nanobot/Microbot Swarms
+meters       Microbugs
+ meters      Mesh Inserts
+ meters      Ectos, Miniature Radio Farcasters, Portable Sensors
+ometers      Radio Boosters, Vehicle Sensors
+lometers

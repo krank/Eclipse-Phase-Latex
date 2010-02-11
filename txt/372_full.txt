@@ -1,0 +1,60 @@
+JELLIES (BIOMORPH)                                                           COG       COO        INT     REF     SAV     SOM      WIL         MOX
+These exsurgents resemble collections of massive, slimy,                    +5 (20)   +5 (30)    — (20) +10 (30) +5 (20) +10 (35) +10 (30)      —
+mucus-filled bubbles. Their soft, amorphous shape                            INIT      SPD       LUC       TT       IR     DUR        WT       DR
+allows jellies to squeeze, slide, and slither through                        100        2         —        —        —       70        14       140
+even tiny spaces. Jellies are equipped with a number                       Mobility System: Walker (4/24)
+of “limbs” that resemble long meaty tongues studded                        Skills: Climbing 45, Fray 40, Freerunning 40, Percep-
+with hard fleshy spikes that provide excellent gripping                      tion 40, Unarmed Combat (Pincers) 55 (65)
+ability. The lubricating coating that envelopes jellies is                 Notes: 360-degree Vision, Armor (16/16), Enhanced
+both toxic and slightly corrosive, melting plastics and                      Vision, Extra Limbs (9, 12, or 15 total), Lidar,
+biological materials after a half hour of exposure. This                     Magnetic System, Pincers (DV 2d10 + 3, AP –3),
+substance may also be “spit” at targets.                                     Structural Enhancement
+ COG        COO        INT     REF     SAV      SOM        WIL       MOX
++10 (30)   –5 (10)   +10 (30) — (15)   — (15)   +5 (20)   +10 (30)    —    WHIPPERS (BIOMORPH)
+  INIT      SPD       LUC      TT       IR      DUR         WT       DR    These small barrel-shaped creatures have a mass
+   90        1         —       —        —        70         14       105   of small legs under their trunk that allows for fast
+Movement Rate: 4/16                                                        movement. At the top of their trunk is another mass
+Skills: Exotic Ranged Attack (Spit) 40, Free Fall 50,                      of 3-meter long, strong, whip-like tentacles. Some
+  Perception 60, Unarmed Combat 40                                         of these tentacles feature gripping surfaces for grab-
+Notes: Armor (12/12), Enhanced Smell, Spit Attack                          bing and holding (both for tool use and mobility),
+  (area effect), Tongue (DV 1d10 + 3, AP 0), Toxin                         while others are sharp-edged and useful for slicing
+  (Application: D, O; Onset Time: 1 Action Turn, Du-                       through opponents.
+  ration: 5 Action Turns, Effect: 1d10 ÷ 2 (round up)                        COG       COO        INT      REF    SAV      SOM        WIL      MOX
+  DV per Action Turn ). Due to their physical form,                         +5 (20)   +10 (30)   +5 (20) +10 (30) — (15)   +5 (25)   +5 (20)    —
+  jellies suffer the minimum amount of damage from                           INIT      SPD       LUC       TT       IR     DUR        WT       DR
+  standard kinetic weapon and blade attacks.                                 100        2         —        —        —       35         7       53
+                                                                           Movement Rate: 8/40
+SHIFTERS (SYNTHMORPH)                                                      Skills: Climbing 40, Fray 50, Free Fall 40, Freerunning 50,
+Shifters are synthmorphs whose material frames have                          Infiltration 40, Perception 50, Unarmed Combat
+been converted to an exotic smart matter liquid metal.                       (Tentacles) 45 (55)
+This shapeshifting material can stabilize as a hardened                    Notes: Enhanced Vision, Tentacle Whip (DV 2d10 + 1,
+metallic shell or liquefy and reshape itself into other                      AP –1)
+forms. This allows the shifter to reflow its shell in a
+matter of seconds, enabling it to visually mimic other                     WRAPPERS (BIOMORPH)
+forms, including biomorphs (though they are easily                         These exsurgents resemble large, thin, four-armed,
+detectable as synthmorphs at other wavelengths or by                       spiny starfish, capable of walking in a quadruped
+touch). Shifters may also reshape parts of their shell                     manner, though they are seemingly better adapted for
+into melee weapons such as knives or clubs.                                microgravity. A large circular mouth resides in their
+  COG       COO       INT     REF     SAV     SOM      WIL           MOX
+                                                                           middle on one side and each arm ends in small sharp-
+ +5 (20)   +5 (30)   — (20) +10 (30) +5 (20) +10 (30) +10 (30)        —    clawed digits, useful for climbing and tool use. Small
+  INIT      SPD       LUC      TT       IR      DUR         WT       DR    vent sacs allow for thrusting in microgravity and
+  100        2         —       —        —        60         12       120   sensory bands on the upper part of each arm provide
+Mobility System: Walker (4/20)                                             low-frequency hearing and infrared-equivalent sens-
+Skills: Blades 60, Deception 55, Disguise 60, Fray 50,                     ing. Their name comes from their tendency to drop on
+  Freerunning 55, Impersonation 60, Perception 50,                         opponents from above, wrapping themselves around
+  Unarmed Combat 50                                                        the head and arms.
+Notes: Armor (13/13), Enhanced Hearing, Enhanced                             COG       COO        INT      REF     SAV    SOM      WIL         MOX
+  Vision, Shape-Adjusting (Programmable Liquid                              +5 (20)   +5 (20)    +5 (20) +10 (30) — (10) +10 (30) +10 (30)      —
+  Metal Form)                                                                INIT      SPD       LUC       TT       IR     DUR        WT       DR
+                                                                             100        1         —        —        —       45         9       68
+SNAPPERS (SYNTHMORPHS)                                                     Movement Rate: 4/16
+Snapper exsurgents are typically crafted from vehicles                     Skills: Fray 40, Free Fall 50, Perception 50, Unarmed
+or other large synthetic shells or by melding multiple                       Combat (Grapple) 50 (60)
+synthmorphs together. They take the form of an in-                         Notes: Armor (8/8), Bite (DV 2d10 + 3, AP –5, must
+sectoid multi-segmented hexagonal tube with multiple                         grapple first), Chameleon Skin, Claws (DV 1d10
+sets of limbs, three apiece, set radially 120 degrees                        + 2, AP –2), Enhanced Hearing, Infrared Sensing,
+around the torso. These limbs are heavy, double-                             Vacuum Sealing
+jointed, and articulated with three joints. Each limb
+ends in either a triad of manipulatory digits or a larger
+pincer-like claw.

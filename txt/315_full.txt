@@ -1,0 +1,60 @@
+distribute the kinetic energy (though still flexible         armor. Apply a +30 modifier when defending against
+enough at the joints not to impede movement). A spe-         liquid-based attacks. [Trivial]
+cialized hive, worn by the character, replenishes the           Offensive Armor: When activated, the outer layer of
+nanobots and stores them when not in use. Deploying          this armor is rigged to shock anyone or anything that
+the nanobots across the body takes a full Action Turn.       contacts it with electricity. Treat its DV and effect as a
+Smart skin has an Armor Value of 3/2, and may be             shock baton (p. 334). [Low]
+worn with other armor without penalty. [Low]                    Reactive Coating: A thick layer of advanced
+  Spray Armor: This fast armor application comes in          nanotech is applied to the armor, protecting it with
+a spray can and disperses a smart chemical polymer           a colony of nanobots designed to sense incoming
+that sticks to bare flesh (but does not adhere to hair       attacks. When an attack strikes the coating, it deto-
+and eyes). The polymer solidifies into a form fitting        nates to disrupt the attack. Bursts and full autofire
+body armor fabric when exposed to body temperature           are treated as a single attack. A reactive coating
+with the look and feel of a latex suit. Spray armor          increases the Armor Value by +5/+5, but each deto-
+does not work on synthetic morphs or on clothing or          nation automatically inflicts 1 point of damage on
+other armor. The color and feel of the armor can be          the wearer. Reactive armor also works against melee
+adjusted with electric currents and additional poly-         attacks, but the attacker also suffers 1d10 ÷ 2 (round
+mers, making it popular among some socialite and             up) points of damage per attack (armor protects)
+nightlife scenes. The spray-on armor does not wash           from the microexplosion. Reactive coating only
+off, but degrades 1 point of armor (both energy and          works against 5 attacks, after which the specialized
+kinetic) every 12 hours. It may be removed with a            nanobot hive replenishes the coating at the rate of 1
+special nanotech solvent. Spray armor has an Armor           use per hour. [Moderate]
+Value of 2/2. [Low]                                             Refractive Glazing: A combination of reflectors,
+                                                             refractive metamaterials, and an energy transfer
+ARMOR MODS                                                   system with heat radiators provides extra protection
+Armor modifications add extra materials or coatings          against energy weapons. Increase the Armor Value
+that either enhance the armor’s resistance to certain        by +3/+0. [Low]
+dangers or provide other effects. Armor mods may be             Self-Healing: The armor is equipped with a nano-
+easily added or removed with the appropriate nano-           hive that acts like repair spray (p. 333). [Moderate]
+bot applicators.                                                Shock Proof: Shock proof armor is electronically
+   Ablative Patches: These thin and light slap-on            insulated to discharge and reduce the effect of shock
+patches of stick to armor and are designed to absorb         weapons. Apply an additional +10 modifier when resist-
+heat and energy from beams and explosions, safely            ing the DV and effects of shock weapons (p. 204). [Low]
+vaporizing and blowing hot gas away. Ablative                   Thermal Dampening: Thermal dampening obfus-
+patches increases the Armor Value by +4/+2, but each         cates heat signatures by converting body heat into
+hit reduces both the energy and kinetic value of the         electric energy. It makes the target more difficult to
+ablative armor by 1. [Trivial]                               spot with thermal sensors; apply a –30 modifier for
+   Chameleon Coating: This provides the armor with           Perception Tests. [Moderate]
+the same effect as the chameleon cloak (p. 315). [Trivial]
+   Fireproofing: Fireproofing includes the addition of       COMMUNICATIONS
+heat-resistant ceramic or fire-resistant layers, both        The oldest and most widespread communications
+capable of withstanding extremely high temperatures.         technology still in regular use is radio. Every habitat
+Fireproofing increases the Armor Value by +2/+0, and         and world inhabited by transhumanity is awash in
+provides an additional 10 points of armor against            radio traffic, with humans, machines, and uplifts all
+heat or fire specifically. [Trivial]                         constantly communicating with one another. The
+   Immunogenic System: The immunogenic mod                   smallest radios are no larger than a spec of dust and
+adds an active nanobot swarm, maintained by a spe-           have a range of no more than 20 meters, while the
+cialized hive, that coats the outer layer of armor and       largest are the size of a truck and have a range of
+also the non-armored parts of the wearer’s morph.            many thousands of miles. Radios large and small are
+It acts as an outer immune system designed to neu-           ubiquitous and almost all devices contain at least
+tralize toxic agents and nanotoxins with which it            short-range radios so they may interact with the
+comes into contact. This provides immunity to drugs,         mesh. Most morphs are equipped with basic mesh
+toxins, and nanotoxins applied dermally, such as             inserts (p. 300) that include an implanted radio. For
+with a slap patch or splash grenade. It has no effect        radio ranges, see p. 296.
+on inhaled, oral, or injected drugs (including coated          Fiberoptic Cable: Fiberoptic cables are used to
+weapons). [Low]                                              establish wired connections between two devices.
+   Lotus Coating: The armor has been impregnated             Given the ubiquity of radios and the tangled mess
+with a superhydrophic coating (contact angle of              wires cause, they are typically only used for privacy
+around 170°) that repels all water-like liquids. If the      (unlike radio communication, fiberoptic signals may
+armor is splashed by liquid toxins or chemicals, the         not be intercepted) or in areas with heavy radio
+effect is reduced since the liquids starts to roll off the   interference. [Trivial]

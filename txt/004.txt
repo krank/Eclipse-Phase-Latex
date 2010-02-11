@@ -1,0 +1,171 @@
+LACK                                     6   FACTIONS
+                                              The Hypercorps
+ENTER                                         Psiclone
+ THE SINGULARITY ...                    16    War Crimes
+STARTING OUT                            18    Union Busting
+ What Is A Roleplaying Game?            18    Political Blocs
+ What is Transhumanism?                 18    Zbrny Limited +
+ Post-apocalyptic, Conspiracy, and            Inner System Pol
+    Horror Themes                       19    Autonomist Allia
+ But How Do You Actually Play?          20    Call for Solidarit
+ What Do Players Do?                    22    Carnival of the G
+ Where Does It Take Place?              24    Socio-Political M
+ Ego vs. Morph                          24    Neo-Primitivists
+ Where To Go From Here?                 24    Out’sters
+ Terminology                            25    Sybils
+                                              Religious Group
+A TIME OF ECLIPSE                       30    Criminal Faction
+A PEOPLE’S HISTORY OF AN                      Firewall
+  UNFORTUNATE UNIVERSE                  32    Project Ozma
+ Eclipse Phase Timeline                 37   SYSTEM GAZETE
+THE SOLAR SYSTEM                              Sol (The Sun)
+  AFTER THE FALL                        38    A Quick Primer O
+TRANSHUMANITY                           38       Transhuman H
+ Inequality                             38    Solar System Ma
+ Clades and Separation                  39    Vulcanoids
+ First Contact: The Factors             40    Mercury
+CULTURE AND SOCIETY                     41    Venus
+ The Longing For Earth                  41    Earth
+ Nostalgia Jewelry                      41    Venusian Rumor
+ Fear and Paranoia                      42    Luna
+ An Exsurgent Threat?                   42    TILION’s Jupiter
+ Real and Social Distance               43    Mars
+ Singularity Seekers                    43    Martian Manhun
+ The Rise of Cultural Regions           44    Martian Trojans
+ Cultural Experimentation               44    Asteroid Belt
+ Gender, Sexuality, and Relationships   45    Jupiter
+ The Diversity of Habitats              45    Europa
+                                              Ganymede and C
+TECHNOLOGY                              45    The Trojans (Jov
+ Living With Infotech                   46
+                                                 and Greek As
+ Opening Pandora’s Gate                 46
+                                              Saturn
+ Going Beyond the Known                 47
+                                              Gate Expedition
+ Muses                                  47
+                                              Titan
+ Attitudes Toward AGIs                  48
+                                              Uranus
+ Attitudes Towards Mental Alterations   48
+                                              Neptune
+ Travel                                 48
+                                              The Edge of the
+ Privacy                                49
+                                              Extrasolar System
+ Incapacitating Inputs                  49
+                                              Analysis: Myst T
+ Low-Tech Existence                     50
+ Life, Death, and Morphs                50   GAME MECHA
+ Entertainment and Media                51    The Ultimate Ru
+ Lost Lore                              51    Dice
+ Metacelebrities                        52    Making Tests
+ Popular Types of Entertainment         52    A Note on Termi
+POLITICS AND POWER                      55    Target Numbers
+ The Inner System                       55    When to Make T
+ The Outer System                       57    Difficulty and M
+KEEPING THE PEACE                       58    Criticals: Rolling
+  Law Enforcement                       59    Defaulting: Untr
+  Punishment                            60    Teamwork
+                                              Simplifying Mod
+THE ECONOMY                             61
+ The Old Economy                        61   TYPES OF TESTS
+ The Transitional Economy               62     Success Tests
+ The New Economy                        62   TIME AND ACTIO
+ Restricting Dangerous Technologies     63    Action Turns
+ Irreproducible Goods                   64    Types of Actions
+HABITATS                                66   DEFINING YOUR
+ Planetary Settlements                  66     Concept
+ Space Habitats                         67     Motivations
+ A Diversity of Floating Worlds         68     Ego vs. Morph
+ The Largest Habitats                   68     Character Stats
+ Microgravity Habitats                  68     Ego Stats
+ Private Habitats                       69     Morph Stats
+                                               Character Skills
+                                               Character Traits
+                                               Character Morph
+               70    THINGS CHARACTERS USE               124
+               70      Identity                          124
+               70      Social Networks                   124
+               71      Cred                              125
+               72      Rep                               125
+               74      Gear                              125
+spiracy        74      Implants                          126
+               75      Psi                               126
+               76      Game Rules Summary                127
+               77
+               78
+                     CHARACTER CREATION AND
+ments          79     ADVANCEMENT         128
+               80    CHARACTER GENERATION                130
+               80      Character Concept                 130
+               81      Step-by-Step Guide to Character
+               82         Creation                       130
+               83      Choose Background                 131
+               84      Choose Faction                    132
+               85      Spend Free Points                 134
+               86      Spend Customization Points        135
+               86      Purchase Gear                     137
+                       Choose Motivations                138
+tats           86      Example Motivations               138
+               87      Final Touches                     138
+               88    STARTING MORPHS                     139
+               88      Biomorphs                         139
+               89      Pods                              142
+               90      Synthetic Morphs                  143
+               90      Infomorphs                        145
+               91    TRAITS                              145
+ n             92      Positive Traits                   145
+               93      Negative Traits                   148
+               95    CHARACTER ADVANCEMENT               152
+               96      Changing Motivation               152
+               96      Switching Morphs                  152
+               97      Improving Aptitudes               152
+               99      Improving Skills                  152
+to             99      Specializations                   153
+ rojan                 Improving Moxie                   153
+ds)           100      Gaining/Losing Traits             153
+              102      Improving Rep                     153
+ort 901127    102      Making Credit                     153
+              106      Improving Psi                     153
+              107
+              108    SAMPLE CHARACTERS                   154
+m             109
+              109
+                     SKILLS                              170
+              111    SKILLS OVERVIEW                     172
+                       Core Skills: Aptitudes            172
+CS           112       Learned Skills                    172
+               114     Specializations                   173
+               114   USING SKILLS                        173
+               114     Defaulting                        173
+ gy and Gender 114     Complementary Skills              173
+               115     Skill Ranges                      174
+               115
+ ers           115
+                     APTITUDES                           174
+                      Aptitude-Only Tests                174
+ubles          115
+                      Aptitude Comparison:
+d Skill Use    116
+                        Flats vs. Splicers and Exalts    174
+               116
+               116   COMPLETE SKILL LIST                 176
+                      Academics: [Field]                 176
+              117
+                      Animal Handling                    177
+              117
+                      Art: [Field]                       177
+             119      Beam Weapons                       177
+              119     Blades                             177
+              119     Climbing                           177
+ARACTER      120      Clubs                              178
+              120     Control                            178
+              120     Deception                          178
+              121     Demolitions                        178
+              121     Disguise                           178
+              121     Exotic Melee Weapon: [Field]       178
+              121     Exotic Ranged Weapon: [Field]      178
+              122     Flight                             178
+              123
+              123

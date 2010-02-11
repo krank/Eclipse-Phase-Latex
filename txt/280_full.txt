@@ -1,0 +1,62 @@
+   new indenture. Typical contracts require years of in-     closely monitored and tracked, and the hypercorps are
+   dentured labor—terraforming Mars, herding comets,         not above sending ego hunters to retrieve a runaway.
+   asteroid mining, constructing habitats, colonizing
+   exoplanets, etc.—in exchange for a cheap synthetic        PUBLIC RESLEEVING
+   morph or splicer at the end of the term. Gamemasters      Some locales, notably Titan, have a well-developed
+   may use their discretion in offering such terms, though   public resleeving infrastructure intended to provide a
+   in many cases the terms offered will temporarily or       body to anyone who needs one. Morphs provided are
+   permanently end the character’s career as a free agent.   usually unremarkable cases, synths, or splicers with
+   Hypercorps using indentured labor are notorious for       no Positive traits or optional implants. Anyone hold-
+   changing the terms at a whim, extending the service       ing citizenship in a locale with public resleeving may
+   period, or slamming the indenture with a slew of          apply for a body. Wait times are between a month and
+   hidden and outrageous charges that were not made          two years, with Reputation influencing wait times at
+   clear up front. Characters may, of course, enter into     the gamemaster’s discretion.
+   such service fully intending to grab their morph and
+   run at the first opportunity, but the hypercorps are      RENTING MORPHS
+   very protective of their investments. Indentures are      For temporary visits where an infomorph won’t do,
+                                                             morphs may be leased rather than bought. The cost
+                                                             to rent a morph is 1% of its cost per day, plus a Low
+
+ USTOM-GROWN OR                                              charge for resleeving. This cost includes rental insur-
+                                                             ance (see below). If the rental insurance is waived
+
+DESIGNED MORPHS                                              (not always possible unless you have a good Rep), the
+                                                             rental cost may be reduced by half.
+me people are very particular about their morphs.              Characters who are leasing a morph may also use
+ them, nothing “off the shelf” will do, even if it’s         their previous morph as collateral. In this case, deduct
+customized model tricked out with speciﬁc im-                the cost of the character’s current morph from the
+ants, traits, and biosculpting. Instead, they desire         rental morph before calculating the 1% cost per day,
+mething unique, something that must be specially             with a minimal rental cost of 10 credits per day.
+own or designed.
+ n the case of biomorphs, this can mean several              PENAL LEASE
+ ngs. Usually it means that the patron desires a             Characters visiting the inner system or Jovian
+ry speciﬁc set of genetic traits. This could be traits       Republic may be able to lease morphs belonging
+ m their original genetic lineage, traits copied from        to prisoners. In most jurisdictions, criminals are
+meone they idolized or honored, genes artfully               sentenced to terms in rehabilitative simulspace with
+afted by a renowned genetic designer, or mystery             a stipulation that the prisoner’s morph becomes
+ its purchased at great expense from the Factors or          state property during their term of incarceration.
+tracted from a lost TITAN lab. Alternatively, it could       Morphs acquired this way often have complicated
+ean the client seeks something more speciﬁc, such            histories but also tend to have modifications useful
+ an exact duplicate clone of their original body.            to Firewall agents. Conversely, characters who find
+While it is possible to put an existing morph in a           themselves imprisoned may be subject to having
+ aling vat and alter its genetics with metamorph-            their body leased out during incarceration.
+g nanovirii in a matter of days, these procedures              The effects of taking a penal lease are at the dis-
+e difﬁcult and prone to disaster. In many cases, it          cretion of the gamemaster. A character may have
+preferred to simply grow the desired clone from              to pull some strings with their Reputation in order
+ atch, though even with accelerated growth this              to lease such a morph, especially if it has restricted
+kes from 1.5 to 2 years (or 6 months to 1 year in            or illegal modifi cations. Negative traits, cases of
+e case of pods). Nevertheless, some hyperelites              mistaken identity, and unfortunate encounters with
+ ve taken steps to ensure that the morph they                friends and associates of the morph’s former oc-
+ sire is available at all likely egocast destinations.       cupant are among the possible drawbacks to this
+Though rarer, custom synthmorphs are sometimes               type of arrangement. On the up side, penal leases
+ught after, usually by people who wish to showcase           may reduce costs for both leasing and insuring the
+ ique or artistic robotic designs, but sometimes also        morph, again subject to the gamemaster’s discretion.
+  engineers or agents who are ﬁeld-testing proto-
+pes. Assuming blueprints are available, such models          RENTAL INSURANCE
+n be constructed in a matter of hours or days.               Leased morphs must be covered by an insurance
+Aside from time, the largest barrier to custom and           policy, which often restricts the character from
+ ique morph designs is typically cost. Ultimately it is      breaking the law or taking the morph anywhere
+e gamemaster’s decision on what expenses such mea-           too dangerous or lawless. Characters may purchase
+ es entail—typically starting at Expensive and moving        hazard insurance that will cover taking the morph
+ —or even whether they are possible at all.          ■       into certain dangerous situations, but this will
+                                                             double the rental price at minimum.

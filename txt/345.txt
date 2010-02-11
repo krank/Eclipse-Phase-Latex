@@ -1,0 +1,115 @@
+  ROBOTS AND VEHICLES
+ The following is a small selection of the many vehicles
+ in use in the solar system. Almost all of the vehicles
+ in current use, including all of the vehicles listed here,
+ have built-in AIs capable of piloting the vehicle under
+ almost all circumstances. In most cases, passengers
+ simply state their destination and the vehicle takes
+ them there. Manual piloting is primarily used in
+ emergencies or by people who prefer the exotic thrill
+ of controlling their own vehicle.
+   Rules for handling robots and vehicles are detailed
+ on p. 195. Any of these shells may be modified for use
+ as a synthetic morph by adding a cyberbrain system
+ (p. 300). Each of the shells listed here comes with a
+ puppet sock (p. 307) for remote-control operation.
+
+  AIRCRAFT
+ On Mars, Venus, and within large open-space habitats
+ like O’Neil cylinders, aircraft of various kinds see regular
+ use. This includes modern version of rotorcraft (helicop-
+ ters, autogyros, tilt-rotors), fixed-wing planes, and zep-
+ pelins and other lighter-than-air craft. These are typically
+ propelled by turbofan or jet engines, rotors, or vectored
+ thrust. These vehicles are piloted with Pilot: Aircraft skill.
+    Microlight: This ultra-light personal aircraft is
+ not much more than a strut-based wing, an airframe,
+ and an electric propeller engine. They are ideal for
+ getting around inside large habitats with enclosed
+ airspace. [Low]
+    Portable Plane: Powered by superconducting bat-
+ teries and with an exceedingly small but powerful
+ electric motor, this light but durable propeller plane
+ is made of smart materials that allow it to be swiftly
+ folded up into a small portable package. Different ver-
+ sions are designed for flight on Mars, Titan, or Venus,
+ each taking 10 minutes to assemble or disassemble.
+ The Martian version unpacks into an airplane with a
+ wingspan of 11 m with a top speed of 250 kph and a
+ cruising speed of 220 kph and a range of 1,300 km.
+ The Venusian version has a wingspan of 9 m, a top
+ speed of 200 kph and a range of 1,000 km. The ver-
+ sion designed for use on Titan has a wingspan of 8
+ m and has a top speed of 200 kph and a range of
+ 2,000 km. In all versions, the two occupants ride in
+ an inflatable and insulated pressurized bubble with a
+ life support system capable of providing clean air and
+ comfortable temperatures for 20 hours on Mars and
+ Venus, and 15 hours on Titan. [High]
+
+
+                                              VEHICLES—
+                    PASSENGER                      MOVEMENT
+AIRCRAFT             CAPACITY       HANDLING         RATE
+Microlight                1             +20            8/40
+Portable Plane            2             +10             —
+Rocket Buggy              4             –10            8/32
+Small Jet                 6             +20             —
+      Rocket Buggy: This vehicle is the most common
+   form of medium to long distance personal transport
+   on Luna, and is in common on most other moons
+   and large asteroids. On these airless worlds, a rocket
+   buggy can reach orbit and return or take a parabolic
+   path to any destination on that moon in less than
+   an hour. This vehicle is also regularly used to travel
+   between habitats that are less than 30,000 km apart.
+   The vehicle is pressurized, but is designed for short
+   duration travel only. The seats are relatively small
+   and the life support system contains no provisions
+   for recycling food or water and can only support the
+   passengers for an absolute maximum of 50 uncom-
+   fortable hours. Rockets buggies come equipped with
+   headlights, radio boosters, and radar with a range of
+   up to 250 km.
+     A version of this vehicle is also used on both Mars
+   and Titan, but here the frame has been modified to
+   act as a lifting body, and it has a top speed in the thin
+   Martian atmosphere of 2,500 km/hour and a range
+   of 8,000 km on Mars. On Titan is has a top speed
+   of 3,000 kph in the atmosphere, but it can also reach
+   orbit. [Expensive]
+      Small Jet: Methane-powered jet planes are one of
+   the most common forms of fast transport on Mars
+   and Venus. Similar planes are used on Titan, except
+   that they carry both liquid methane and liquid oxygen.
+   These jets range in size from huge vehicles the size of
+   late 20th-century airliners to small planes designed to
+   carry half a dozen passengers. All jets are made using
+   smart materials, so that their wings and frames can
+   adapt to a wide range of speeds and altitudes. One
+   common small jet has similar versions in use on Venus,
+   Mars, and Titan, has a single jet engine and has a life
+   support system capable of providing air for up to 100
+   hours. The Venusian and Martian versions both have
+   a top speed of 900 kph, a wingspan of 11 m, and a
+   maximum range of 5,000 km. The version designed
+   for Titan has a wingspan of 8 m, a top speed of 650
+   kph, and a range of 4,000 km. Jets are equipped with
+   headlights, radio boosters, and radar with a range of
+   up to 250 km. [Expensive]
+
+   EXOSKELETONS
+   Exoskeletons are powered mechatronic skeleton
+   frameworks worn by a person. Servo-hydraulic joints
+   allow the exoskeleton to be maneuvered by mimick-
+   ing the wearer’s own movements, as well as enhanc-
+   ing their strength. Exoskeletons may also be piloted
+
+
+AIRCRAFT
+                                                 WOUND
+MAX VELOCITY       ARMOR       DURABILITY      THRESHOLD
+    100              —              30              10
+  200–250           10/6            50              10
+ 2,500–3,000        24/16           100             20
+  650-900           30/20           200             30

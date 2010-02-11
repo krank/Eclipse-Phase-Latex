@@ -1,0 +1,132 @@
+           Tyska is sleeved in a run-of-the-mill splicer morph
+           with a Durability of 30. That gives him a Wound
+ EXAMPLE
+
+
+
+
+           Threshold of 6 (30 ÷ 5) and a Death Rating of
+           45 (30 x 1.5). If Tyska acquired an implant that
+           boosted his Durability by +10 to 40, his Wound
+           Threshold would be 8 (40 ÷ 5) and his Death
+           Rating would be 60 (40 x 1.5).
+
+
+LUCIDITY (LUC)
+Lucidity is similar to Durability, except that it measures
+mental health and state of mind rather than physical
+well-being. Your Lucidity determines how much stress
+(mental damage) you can take before you are incapaci-
+tated or driven insane (see Mental Health, p. 209).
+  Lucidity is unlimited, but generally ranges from
+20 to 60 for baseline unmodified humans. Lucidity is
+determined by your Willpower aptitude x 2.
+
+TRAUMA THRESHOLD (TT)
+The Trauma Threshold determines if you suffer a
+trauma (mental wound) each time you take stress (see
+Mental Health, p. 209). A higher Trauma Threshold
+means that your mental state is more resilient against
+experiences that might inflict psychiatric disorders or
+other serious mental instabilities.
+  Trauma Threshold is calculated by dividing Lucidity
+by 5 (rounding up).
+
+INSANITY RATING (IR)
+Your Insanity Rating is the total amount of stress your
+mind can take before you go permanently insane and
+are lost for good. Insanity Rating equals LUC x 2.
+ EXAMPLE
+
+
+
+
+           Cole’s Willpower is 16. That makes his Lucidity
+           stat 32 (16 x 2), his Trauma Threshold 7 (32 ÷ 5,
+           rounded up), and his Insanity Rating 64 (32 x 2)
+
+
+MOXIE
+Moxie represents your character’s inherent talent at
+facing down challenges and overcoming obstacles
+with spirited fervor. More than just luck, Moxie is
+your character’s ability to run the edge and do what
+it takes, no matter the odds. Some people consider it
+the evolutionary trait that spurred humankind to pick
+up tools, expand our brains, and face the future head
+on, leaving other mammals in the dust. When the sky
+is falling, death is imminent, and no one can help you,
+Moxie is what saves the day.
+   The Moxie stat is rated between 1 and 10, as pur-
+chased during character creation (and perhaps raised
+later). In game play, Moxie is used to influence the
+odds in your favor. Every game session, your character
+begins with a number of Moxie points equal to their
+Moxie stat. Moxie points may be spent for any of the
+following effects:
+ • The character may ignore all modifiers that apply
+   to a test. The Moxie point must be spent before
+   dice are rolled.
+ • The character may flip-flop a d100 roll result. For
+   example, an 83 would become a 38.
+ • The character may upgrade a success, making it a
+   critical success, as if they rolled doubles. The char-
+   acter must succeed in the test before they spend
+   the Moxie point.
+ • The character may ignore a critical failure, treat-
+   ing it as a regular failure instead.
+ • The character may go first in an Action Phase (p. 189).
+
+  Only 1 point of Moxie may be spent on a single roll.
+Moxie points will fluctuate during gameplay, as they
+are spent and sometimes regained.
+   Regaining Moxie: At the gamemaster’s discretion,
+Moxie points may be refreshed up to the character’s
+full Moxie stat any time the character rests for a sig-
+nificant period. Moxie points may also be regained if
+the character achieves a personal goal, as determined
+by their Motivation (see p. 121). The gamemaster de-
+termines how much Moxie is regained in proportion
+to the goal achieved.
+
+
+  Audrey has a difﬁcult Piloting: Aircraft roll to make.
+  Her skill is 61, but she’s facing a lot of modiﬁers
+  (–30), and if she fails she’s in big trouble. She
+                                                           EXAMPLE
+
+
+
+
+  could spend a point of Moxie before the test to
+  ignore the modiﬁers, but she decides to take her
+  chances against the target number of 31. Unfor-
+  tunately, she rolls an 82. Luckily, she can spend
+  a Moxie point to ﬂip-ﬂop that roll and make it a
+  28—a success!
+
+
+DAMAGE BONUS
+  The Damage Bonus stat quantifies how much extra
+oomph your character is able to give their melee and
+thrown weapons attacks. Damage Bonus is deter-
+mined by dividing your Somatics aptitude (see below)
+by 10 and rounding down.
+
+CHARACTER SKILLS
+Skills represent your character’s talents. Skills are
+broken down into aptitudes (ingrained abilities that
+everyone has) and learned skills (abilities and knowl-
+edge picked up over time). Skills determine the target
+number used for tests (see Making Tests, p. 115).
+
+APTITUDES
+Aptitudes are the core skills that every character has
+by default. They are the foundation on which learned
+skills are built. Aptitudes are purchased during charac-
+ter creation and rate between 1 and 30, with 10 being
+average for a baseline unmodified human. They repre-
+sent the ingrained characteristics and talents that your
+character has developed from birth and stick with you
+even when you change morphs—though some morphs
+may modify your aptitude ratings.

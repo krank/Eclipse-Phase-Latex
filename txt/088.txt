@@ -1,0 +1,115 @@
+SYSTEM GAZETEER
+Transhumanity has extended out from its lost home-
+world and colonized not only the solar system but var-
+ious exoplanets as well, thanks to the discovery of the
+Pandora Gates. This section provides an overview and
+incomplete sampling of transhumanity’s settlements.
+
+SOL (THE SUN)
+The solar system was formed billions of years ago
+through the accretion of material remaining from the
+formation of its star, Sol, the sun. Locked ever since in
+its orbit, the history and present disposition of virtu-
+ally every object within two light years is shaped by
+its relationship to this body. The sun is a bright G2
+main sequence star, theoretically on the hot end of the
+continuum of stars able to give rise to life. For most
+of its history, transhumanity fueled its rises and falls
+with the sun’s energy, first as stored in materials like
+hydrocarbons, later directly with solar converters.
+   Today the sun remains a crucial source of energy,
+but its outer reaches have also become home to
+some. The adaptations required to dwell here make
+these suryas one of transhumanity’s most unusual
+offshoots.
+
+SURYAS AND SALAMANDERS (CORONAL MORPHS)
+Perhaps an example of transhumanity’s most extreme
+neogenetic creations are the morphs adapted to live
+in the sun’s corona. Suryas, named after a Hindu sun
+deity, are large, whale-like, and uniquely adapted to
+dwell in the brilliant, superheated plasma cloud of the
+sun’s outermost layer. Each surya is like a miniature
+version of a circumsolar habitat. Their metabolisms
+generate powerful magnetic fields that shield them
+from the sun’s heat and radiation, while acting as
+magnetic sails and scoops by which they sail on the
+currents of the solar wind and extract elements carried
+on it. Suryas are protected by layers of liquid water
+“blubber” that capture harmful ions, which internal
+medichines extract and eject, while maintaining useful
+elements such as oxygen and hydrogen, from which
+more water can be synthesized. They communicate
+using patterns of dark and light coloration on their
+exterior skins and are extremely sensitive to the he-
+lioseismic soundwaves that are the sun’s pulse, using
+these vibrations to predict and avoid heavy weather in
+the coronal atmosphere.
+   A second type of coronal morph is the salamander,
+a tiny humanoid morph with gas jets on the back and
+chest for maneuvering in vacuum. Salamanders have
+very similar metabolisms to suryas, but are unable to
+survive unprotected in the corona. They subsist on the
+chemicals and energy extracted from the corona by
+Ukko Jylina, the only habitat where they are found.
+   Both suryas and salamanders communicate
+either via transmissions from their implants or by
+“sunspotting”—shifting dark and light patterns on
+their skins to form language.
+HABITATS
+Habitats in Sol’s corona face challenges more extreme
+than those faced by habs anywhere else in the system.
+Transhumanity’s only means of shielding a habitat
+from the heat and radiation emitted by a G2 star is to
+generate strong electromagnetic fields. Even then, the
+dangers posed by solar flares and coronal mass ejec-
+tions—massive explosions that jettison coronal material
+tens of thousands of kilometers out into circumsolar
+space—mean that the Sun’s polar regions are the only
+safe space in which to position habitats. As such, cir-
+cumsolar habs require extraordinary expense to build
+and maintain, and two of the three major circumsolar
+habitats are heavily backed by distant organizations.
+   The outer layers of circumsolar habitats are covered
+with thousands of electromagnetic dynamos drawing
+power from the sun itself. These dynamos generate
+the powerful fields necessary for shielding. Within
+are intermediate layers filled with liquid water that
+captures ionized particles, teeming with nanites that
+collect the ions and vent them into space. The water
+must be regularly replaced from captured iceteroids
+that are imported using heavy electromagnetic shield-
+ing of their own. Within the water shield is a cluster
+habitat, an array of modules on a framework follow-
+ing a roughly spherical plan.
+
+
+
+
+ A QUICK PRIMER ON
+ TRANSHUMAN HABITATS
+  Habitats are covered in detail on p. 280. A quick overview is
+    provided here:
+  • Aerostats are massive cities ﬂoating in the upper cloud
+    layers of Venus.
+  • Beehives are tunnel warrens inside asteroids and moons.
+  • Clusters are microgravity habitats consisting of intercon-
+    nected modules.
+  • Cole bubble habitats are hollowed-out asteroids, ter-
+    raformed on the inside, and also spun for gravity.
+  • Dome habitats are massive domes built on the surface of
+    moons, asteroids, or Mars.
+  • Hamilton cylinders are self-building advanced nano-
+    tech habitats designs.
+  • O’Neill cylinder habitats are like large soda cans, only
+    huge, over a kilometer wide and several kilometers long.
+    The interior is terraformed and the entire cylinder is spun
+    for light gravity. O’Neill cylinders are sometimes paired
+    together, end to end.
+  • Reagan cylinders are an inefﬁcient type of O’Neill
+    cylinder, built by hollowing a cylinder within a spinning
+    asteroid, and used in the Jovian Republic.
+  • Tin can habitats are small, cramped, cheap, modular
+    boxes, typically used in early space colonization.
+  • Torus habitats are big donuts or wheels, spun so that the
+    outer rim has gravity. The interior spokes are zero-G.  ■

@@ -1,0 +1,120 @@
+WATTS-MACLEOD VIRUS
+The Watts-Macleod strain is a strangely benevolent
+version of the Exsurgent virus, seeming to imbue its
+victims with psi abilities without any of the other
+transformative elements typical of other strains.
+Perhaps created as an accidental mutation of the Ex-
+surgent virus, there are many who wonder if the true
+detrimental effects of this strain simply have yet to
+reveal themselves.
+  As noted in the Mind Hacks chapter section on Psi
+(p. 220), characters infected with this strain gain the
+Psi trait (p. 147) at either Level 1 or 2. If a character
+is so infected during game play, this trait must be
+purchased with Rez Points (if the character does not
+have any points currently available, they pay out of
+the points they earn until the debt is paid off). All of
+the other side effects of Watts-Macleod infection (p.
+367) also apply.
+   Though infection with this strain does apply some
+benefits to the character, the gamemaster should make
+sure to play up the creepy and unsettling nature of
+this virus. The character should never be certain that
+they haven’t in fact been subtly influenced by the virus
+in ways they can’t immediately pinpoint—they should
+always feel like the ax may fall at any moment.
+
+XENOMORPH VIRUS
+The xenomorph strain transforms the target’s body
+in addition to their mind. Over time, the victims
+morph physically transmogrifies into some sort
+of alien life form. It is only spread as a biological
+nanovirus or nanoplague (not as a digital virus or
+basilisk hack). Different variants of this strain pro-
+duce different alien forms. It is not known where
+these different alien templates originated, meaning
+they may be copies of (once) existing alien species
+or simply neogenetic creatures created from scratch.
+The one trait they have in common is that they are
+universally dangerous. Some speculation in Firewall
+circles suggests that the Exsurgent virus may in fact
+have a “library” of creature types to deploy, under
+the assumption that at least some will be more effec-
+tive than others for exterminating whatever victim
+species they are fielded against.
+   This strain follows the same rules as the haunting
+virus (above), but with the following changes. The
+timeframe is typically much quicker, though the game-
+master may adjust this as they see fit.
+   Stage 1: The effects from Stage 1 of the haunting
+virus apply. Additionally, the character begins to suffer
+minor physical changes that are definitely unusual but
+are not impeding in any way and are easily hidden
+from others. Example biomorph alterations might be:
+unusual hair or fibrous growth, some skin discolor-
+ation or translucence, severe rashes, dermal thicken-
+ing, weakened or enhanced sensory organs, strong
+body odor, hair loss, teeth gain or loss, vestigial tail or
+other limb growth, minor dietary changes, and so on.
+Synthmorphs might experience minor system glitches,
+malfunctioning or improved components, and spots
+of material stress or transfiguration. Gamemasters
+are encouraged to be creative. This stage typically
+lasts from initial infection to 1 week for biological
+nanovirus strains, or from infection to just 1 hour for
+nanoplague strains.
+   Stage 2: As with haunting virus Stage 2, plus the
+character begins to seriously transmogrify in ways
+that are diffi cult to hide from others, becoming
+more and more monstrous as the stage progresses.
+Example biomorph transformations include: grow-
+ing scales or feathers, partial modification of limb
+structure, partial new limb growth, vestigial sensory
+organ growth, sensory loss, extension of claws or
+spines, severe dietary changes, etc. Synthmorphs
+might experience radical system and shape altera-
+tions, limited or enhanced sensor functions, or even
+conversion of their robotic shell to smart materials.
+These physical changes weaken the victim, inflicting
+1d10 physical damage. This stage typically lasts 1
+week for biological nanovirus strains or just 1 hour
+for nanoplague strains.
+   Stage 3: As with haunting virus Stage 3, a character
+reaching this stage becomes an NPC. Additionally,
+the victim completely undergoes a transformation
+into some sort of creature that is no longer even re-
+motely human. Example exsurgents of this nature are
+detailed on p. 369.
+
+USING THE EXSURGENT VIRUS
+The frightening thing about the Exsurgent virus is
+its adaptability. It was written by a near omnipotent
+ETI with the intent of corrupting any alien seed AIs
+or similar singularities it encountered, and it is very
+good at it. This means it has the capability to ana-
+lyze, understand, and mimic almost any alien digital
+protocols and communication methods it comes into
+contact with, no matter how diverse the alien mindset
+that constructed what it encounters. It then has a cun-
+ning ability to circumvent any safeguards and infect
+such systems. From there, it rapidly assimilates any
+data it can about the target species/civilization and
+does it best to mutate into other forms that can attack
+this target from other vectors.
+   Given its constant morphing nature then, the Ex-
+surgent virus is likely to continue to mutate in new
+and interesting ways. Some of these mutations may
+be effective, many not. This does, however, afford the
+gamemaster an opportunity to invent new variants of
+their own to deploy against unsuspecting characters.
+
+ROLEPLAYING EXSURGENTS
+The primary thing for gamemasters to keep in mind
+when roleplaying entities that have been taken over
+by the Exsurgent virus is that exsurgents are follow-
+ing an alien agenda. The specific goals and actions of
+each exsurgent may differ, but they are generally con-
+cerned with two things: spreading the Exsurgent virus
+and destroying anything that isn’t affected. In some
+cases, this may mean immediate and enraged hostile
+action against anything non-exsurgent around them.

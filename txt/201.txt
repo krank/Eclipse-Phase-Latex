@@ -1,0 +1,120 @@
+fall have likely experienced simulations of life in a
+gravity well.
+   At the gamemaster’s discretion, characters who
+have spent long periods acclimating to one range of
+gravity may find a shift in conditions a bit challeng-
+ing to cope with, at least until they grow accustomed
+to the new gravity. In this case, the gamemaster can
+apply a –10 modifier to both physical and social skills.
+The physical penalty results from simple difficulties
+in maneuvering. The social penalty applies because
+it’s hard to look impressive, intimidating, or seductive
+when you haven’t figured out how to arrange your
+clothes so that they don’t float up into your face. The
+physical penalty can be increased to –20 for situa-
+tions involving combat skills and skills requiring fine
+manipulation, building, or repairing of items. These
+penalties will apply until the character adjusts, which
+typically takes about 3 days.
+   Any biomorph with basic biomods (p. 300) is
+immune to ill health from the effects of long-term
+exposure to microgravity.
+
+MICROGRAVITY
+Microgravity includes both zero-G and gravities that
+are slightly higher but negligible. These conditions are
+found in space, on asteroids and some small moons,
+and on (parts of) spaceships and habitats that are not
+rotated for gravity. Objects in microgravity are effec-
+tively weightless, but size and mass are still factors.
+   Things behave differently in microgravity. For
+example:
+
+ • Objects not anchored down will tend to drift
+   off in whatever direction they were last moving.
+   Floating objects will eventually settle in the direc-
+   tion of the densest part of the habitat or spacecraft.
+ • Thrown or pushed items will travel in a straight
+   line until they hit something.
+ • Smoke does not rise in streams. Instead, it forms
+   a roughly spherical halo around its source.
+ • Liquids have little cohesion, scattering into clouds
+   of tiny droplets if released into the air. Drinks
+   come in sealed bulbs or bottles. Food is eaten so
+   that sauces and bits of liquid don’t escape. Blood
+   goes everywhere.
+
+  Movement and maneuvering in microgravity is
+handled using Free Fall skill (p. 179). Most everyday
+activity in free fall does not require a test. The game-
+master can, however, call for a Free Fall Test for any
+complicated maneuvers, flying across major distances,
+sudden changes in direction or velocity, or when en-
+gaged in melee combat. A failed roll means the char-
+acter has miscalculated and ends up in a position other
+than intended. A Severe Failure means the character has
+screwed up badly, such as slamming themselves into a
+wall or sending themselves spinning off into space.
+  For convenience, most microgravity habitats
+feature furniture covered with elastic loops, mesh
+pockets to keep individual objects from floating all
+over the place, and moving beltways with hand loops
+for major thoroughfares. Magnetic or velcro shoes
+are also used to walk around, rather than climbing
+or flying. Zero-g environments are often designed to
+make maximum use of space, however, taking advan-
+tage of the lack of ceilings and floors. Because object
+are weightless, characters can move even massive
+objects around easily.
+   Movement Rate: Characters who are climbing, pull-
+ing, or pushing themselves along move at half their
+movement rate (p. 191) in microgravity.
+   Terminal Velocity: It is not difficult to reach escape
+velocity on small asteroids and similar bodies—
+something to keep in mind with thrown objects and
+projectile weapons. In some cases, characters who
+move fast enough and jump can reach escape veloc-
+ity themselves, though these situations are left up to
+the gamemaster.
+
+LOW GRAVITY
+Low gravity includes anything from 0.5 g to micro-
+gravity. These conditions are found on Luna, Mars,
+Titan, and the rotating parts of most spun spacecraft
+and habitats. Low gravity is not that different from
+standard gravity, though characters may jump twice as
+far and thrown/projectile objects have a longer range
+(p. 203). Increase the running rate for characters in
+low gravity by x1.5.
+
+HIGH GRAVITY
+High gravity is anything significantly stronger than
+standard Earth gravity (1.2 g +). High gravity in
+Eclipse Phase is typically only found on exoplanets.
+High gravity can be particularly hard on characters
+as their bodies are strained because they carry more
+weights, muscles are fatigued from needing to push
+more around, and the heart must work harder to
+pump blood. For every 0.2 g over 1 that a character is
+not acclimated to, treat it as if the character is suffer-
+ing from the effects of 1 wound. At the gamemaster’s
+discretion, movement rates may also be modified.
+
+GRENADES AND SEEKERS
+Modern grenades, seekers, and similar explosives do
+not necessarily detonate the instant they are thrown
+or strike the target. In fact, several trigger options
+are available, each set by the user when deploying
+the weapon. Missed attacks, or attacks that do not
+explode in transit or when they strike, are subject to
+scatter (p. 204).
+  Airburst: Airburst means that the device explodes in
+mid-air as soon as it travels a distance programmed at
+launch. In this case, the explosive’s effects are resolved
+immediately, in that user’s Action Phase. Note that
+airburst munitions are programmed with a safety fea-
+ture that will prevent detonation if they fail to travel
+a minimum precautionary distance from the launcher,
+though this can be overridden.
+   Impact: The grenade or missile goes off as soon as it
+hits something, whether that be the target, ground, or

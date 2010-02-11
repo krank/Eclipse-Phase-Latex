@@ -1,0 +1,117 @@
+SECURITY
+Firewall sentinels make a regular habit of being in
+places where they are not supposed to be and bring-
+ing things with them that others would prefer they
+not have. Security has a different character post-Fall
+than in the 21st century. Due to hyper-abundance,
+physical security measures such as locks, doors, and
+walls are less important than in the past to common
+citizens. People don’t worry about theft as much as
+in the past because most items can be replaced by a
+nanofabricator. The items that do tend to engender
+this type of security are irreplaceable or rare items
+such as artifacts of Earth.
+   Post-Fall physical security focuses heavily on
+surveillance—identifying intruders and tracking
+them so that they can be interdicted by transhuman
+or robotic defenders. Surveillance is more effec-
+tive than in pre-Fall societies because AIs with
+near-human faculties of pattern recognition and
+indentured infomorphs can be employed to monitor
+surveillance data.
+  The emphasis on surveillance results from the ease
+with which most material barriers can be breached
+by high-powered hand weaponry and devices like
+the covert operations tool (p. 315). However, physi-
+cal barriers designed to actively resist intruders by
+healing themselves or attacking tools used to damage
+them are used at key points in secure installations.
+Such barriers are typically very expensive and so are
+used sparingly.
+  Transhuman, animal, and infolife defenders are
+cornerstones of most security systems. The avail-
+ability of a huge pool of infomorph labor to guard
+facilities means that someone is always on duty,
+whether as part of the surveillance system or in a
+robotic shell.
+
+ACCESS CONTROL
+The first step in any security system is simply to enact
+measure to keep unwanted people out. At a basic level
+this involves walls, locks, fencing, defensive landscap-
+ing, security lighting, and entoptic warnings.
+   Barriers of different sorts present an obstacle that
+must be cut through or blown apart in order to
+defeat. Barriers are treated just like other inanimate
+objects for purposes of attack sand damage; see Ob-
+jects and Structures, p. 202.
+
+BUG ZAPPERS
+Bug zappers create minute EMP pulses that are harm-
+less to most electronic equipment and implants but
+wreak havoc on nanobot swarms, microbugs, and
+specks. Bug zappers are generally applied to surfaces,
+and as such they only destroy floating/flying swarms
+or specks if they land. In areas with heavily shielded
+electronics, they may be installed to destroy targets
+in an entire room. A zapper instantly destroys all
+free-crawling or flying nanobots and specks in a room
+when it goes off, but transhuman flesh is sufficient to
+prevent it destroying medichines or other implanted
+nanobots. Infiltrators trying to gather data in areas
+protected by zappers generally resort to going around
+them or trying to plant macroscale devices.
+
+ELECTRONIC LOCKS
+Electronic locks (e-locks) are commonly used as a
+means of maintaining privacy. They are easy to defeat,
+however, and so are rarely used in very secure areas.
+E-locks have several advantages over old-fashioned
+mechanical locks. Different users can have different
+authentication methods, they can log all events (entry,
+exit, failed authentications), and they can be con-
+nected (usually hardwired but sometimes encrypted
+wireless) to security systems for remote control and
+alarm triggering.
+   E-locks use one of several authentication systems,
+or sometimes a combination of systems:
+   Biometric: The lock scans one or more of the user’s
+biometric prints. Common biometrics include DNA,
+facial thermographic, fingerprint, gait, hand veins, iris,
+keystroke, odor, palm, retinal, and voice prints.
+   Keypad: This is an alphanumeric keypad upon
+which users enter a specific code. Different users can
+have different codes.
+   Token: Authorized users must carry some sort of
+physical token that interacts with the lock to open the
+door, such as a keycard, electronic key, etc.
+   Wireless Code: Users must emit a cryptographic
+code via near-proximity wireless signal.
+   Though various technologies exist to defeat each
+of these systems, there are three methods that work
+against almost all e-locks. The first is use of a covert
+operations tool (p. 315), which infiltrates a lock with
+nanobots that swarm in and engage the electronic
+mechanism. The drawback to using a COT is that its
+use is immediately logged by the e-lock and an alarm
+is triggered. Some e-locks are equipped with guardian
+nanoswarms (p. 329) to defeat COTs, but the COT
+nanobots usually manage to open the lock before the
+guardians eat them.
+   The second method is to hack the e-lock. Most
+e-locks are slaved to a security system, so this often
+means intruding into the security system and then
+opening the lock from within. This can be difficult,
+however, especially if the security system is wire-
+lessly isolated or hardwired. The advantage is that,
+if done right, all evidence of the lock being opened
+can be erased.
+   The third method is to physically open and ma-
+nipulate the lock. This requires first opening the
+lock’s case and then triggering the lock mechanism
+to open the door. Both of these are handled as
+separate Hardware: Electronics Task Actions with
+a timeframe of 1 minute each. In addition, most e-
+locks have anti-tamper circuits that will set off an
+alarm if the attacker does not achieve an Excellent
+Success when opening the case.

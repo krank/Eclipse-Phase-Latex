@@ -1,0 +1,100 @@
+                                                             L
+
+
+
+
+                                                            In
+
+
+
+
+ nal Development +Self-Protection +Vengeance
+
+                   EQUIPMENT                               Pr
+er (Borderline     Armor: Body Armor (Light) [10/10] ■     Pro
+ntal Disorder      Primary Weapon: Agonizer ■
+ ulsive), Psi      Starting Credit: 2,700 ■
+Stigma (Lost),     Implants: Adrenal Boost,
+                     Basic Biomods, Basic Mesh
+                     Inserts, Cortical Stack, Eidetic
+                     Memory, Emotional Dampers,
+Control,             Enhanced Hearing, Enhanced          You s
+ old, Instinct,      Smell, Enhanced Vision,             grow
+ d■                  Medichines, Oracles ■               of th
+can, Ego Sense,    Gear: Backup Insurance                lapse
+bliminal ■           (1 month), Disabler, Facial/        dal a
+                     Image Recognition Software,         You’v
+                     Fake Ego ID, Muse, Shock Ba-        new l
+                     ton, Sniffer Software, Tactical     your p
+                     Network Software, Taggant           use t
+                     Nanoswarm, Track Software,          hunte
+                     Tracker Dye (1 dose), Twitch        ing th
+                     (1 dose) ■                          not on
+                               “Hello, doctor, you’re a har
+                  I have some questions about some childr
+UNAR EGO HUNTER
+          APTITUDES
+              COG      COO     INT      REF    SAV        SOM    WIL
+     Base      15       20      15       10     10         15    20
+rph Bonus      5                5               5                 10
+     Total     20       20      20      10     15         15      30
+
+
+
+
+OX     TT     LUC       IR           WT DUR DR INIT
+                                                      STATS      SPD
+      8 (12) 40 (60) 80 (120)         7  35 53 50 (70)           1 (2)
+
+
+
+
+                                                MORPH
+                                                     SKILLS
+                               APT      BASE    BONUS           TOTAL
+  Academics: Neurology         COG       55       5               60
+Academics: Psychology          COG       60       5               65
+               Art: Dance      INT       45       5               50
+              Art: Painting    INT       45       5               50
+          Beam Weapons         COO       60                       60
+                      Clubs    SOM       45                       45
+                    Control    WIL       50          10           60
+                       Fray    REF       50                       50
+              Freerunning      SOM       55                       55
+                Inﬁltration    COO       50                       50
+                    Infosec    COG       45          5            50
+ Interests: Conspiracies       COG       55          5            60
+ sts: Hypercorp Projects       COG       55          5            60
+        Interests: TITANs      COG       60          5            65
+              Intimidation     SAV       20          5            25
+             Investigation     INT       50          5            55
+                   Kinesics    SAV       40          5            45
+ nguage: Native English        INT       85          5            90
+    Language: Japanese         INT       85          5            90
+         Language: Hindi       INT       25          5            30
+    Networking: Criminal       SAV       30          5            35
+ Networking: Ecologists        SAV       40          5            45
+Networking: Hypercorps         SAV       50          5            55
+               Perception      INT       40          5            45
+Profession: Ego Hunting        COG       55          5            60
+ sion: Inner System Law        COG       45          5            50
+sion: Police Procedures        COG       55          5            60
+               Psi Assault     WIL       40          10           50
+                 Research      COG       55          5            60
+                     Sense     INT       55          5            60
+        Unarmed Combat         SOM       55                       55
+
+ ived your accelerated          and sometimes even their memo-
+ xperience as a member          ries and mannerisms. All the while
+ st generation, the col-        you viciously hide your own history
+he project, and the scan-       and out-maneuver those who want
+witchhunts that followed.       to track your kind down. You are
+mmersed yourself in a           not content to be a victim or a mer-
+ nd identity. Now you put       cenary for others, however. Slowly
+ cular skills and talents to    but surely you are amassing infor-
+ ing people as a bounty         mation on those responsible for
+a daunting task consider-       the Lost project—for what they
+ our targets can change         did to you—and some day you will
+heir faces but their bodies     make them pay. ■
+an to ﬁnd.
+hat I’d like to ask you.”

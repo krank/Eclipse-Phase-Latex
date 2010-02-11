@@ -1,0 +1,93 @@
+                                                                                   assembled, their biological
+                                                                                design includes some shortcuts
+                                                                            and limitations, offset with implants
+                                                                          and regular maintenance. They lack
+                                                                     reproductive capabilities. In many habitats,
+                                                                  their legal status is a hotly-contested issue.
+                                                                 Unless otherwise noted, pods are also consid-
+                                                            ered biomorphs for all rules purposes.
+
+                                                           PLEASURE PODS
+                                                           Pleasure pods are exactly what they seem—faux
+                                                           humans designed purely for intimate entertainment
+                                                           purposes. Pleasure pods have extra nerve clusters in
+                                                           their erogenous zones, fine motor control over certain
+                                                           muscle groups, enhanced pheromones, sanitized me-
+                                                           tabolisms, and the genetics for purring. Naturally, they
+                                                           are crafted for good looks and charisma and enhanced
+                                                           in other areas as well. Pleasure pods are capable of
+                                                           switching their sex at will to male, female, hermaph-
+                                                           rodite, or neuter.
+                                                           Implants: Basic Biomods, Basic Mesh Inserts, Clean
+                                                             Metabolism, Cortical Stack, Cyberbrain, Enhanced
+                                                             Pheromones, Mnemonic Augmentation, Puppet
+                                                             Sock, Sex Switch
+               their chameleon ability to change skin
+                                                           Aptitude Maximum: 30
+            color, ink sacs, and a sharp beak. They also
+                                                           Durability: 30
+         have increased cranial capacity and longev-
+                                                           Wound Threshold: 6
+     ity, can breathe both air and water, and lack a
+                                                           Advantages: +5 INT, +5 SAV, +5 to one aptitude of the
+ skeletal structure so they can squeeze through tight
+                                                             player’s choice
+spaces. Octomorphs typically crawl along in zero-
+                                                           Disadvantages: Social Stigma (Pleasure Pod) trait
+gravity using their arm suckers and expelling air for
+                                                           CP Cost: 20
+propulsion and can even walk on two of their arms
+                                                           Credit Cost: High
+in low gravity. Their eyes have been enhanced with
+color vision, provide a 360-degree field of vision, and
+they rotationally adjust to keep the slit-shaped pupil
+                                                           WORKER PODS
+                                                           Part exalt human, part machine, these basic pods are
+aligned with “up.” A transgenic vocal system allows
+                                                           virtually indistinguishable from humans. Worker pods
+them to speak.
+                                                           are often used in menial labor jobs where interaction
+Implants: Basic Biomods, Basic Mesh Inserts, Cortical
+                                                           with humans is necessary.
+   Stack, Chameleon Skin
+                                                              Implants: Basic Biomods, Basic Mesh Inserts, Cor-
+Aptitude Maximum: 30
+                                                           tical Stack, Cyberbrain, Mnemonic Augmentation,
+Durability: 30
+                                                           Puppet Sock
+Wound Threshold: 6
+                                                              Aptitude Maximum: 30
+Advantages: 8 Arms, Beak Attack (1d10 DV, use
+                                                              Durability: 35
+   Unarmed Combat skill), Ink Attack (blinding, use
+                                                              Wound Threshold: 7
+   Exotic Ranged: Ink Attack skill), Limber (Level 2)
+                                                              Advantages: +10 SOM, +5 to one aptitude of the
+   trait, 360-degree Vision, +30 Swimming skill, +10
+                                                           player’s choice
+   Climbing skill, +5 COO, +5 INT, +5 to one other
+                                                              Disadvantages: Social Stigma (Pod) trait
+   aptitude of the player’s choice
+                                                              CP Cost: 20
+CP Cost: 50
+                                                              Credit Cost: High
+Credit Cost: Expensive (minimum 30,000+)
+
+PODS                                                       NOVACRAB
+                                                           Novacrabs are a pod design bio-engineered from
+Pods (from “pod people”) are vat-grown, biological
+                                                           coconut crab and spider crab stock and grown to a
+bodies with extremely undeveloped brains that are
+                                                           larger (human) size. Novacrabs are ideal for hazard-
+augmented with an implanted computer and cybernet-
+                                                           ous work environments as well as vacworker, police,
+ics system. Though typically run by an AI, pods are
+                                                           or bodyguard duties, giving their ten 2-meter long legs,
+socially unfavored in some stations, utilized in slave
+                                                           massive claws, and chitinous armor. They climb and
+labor in others, and even illegal in some areas. Because
+                                                           handle microgravity well and can withstand a wide
+pods underwent accelerated growth in their creation,
+                                                           range of atmospheric pressure (and sudden pressure
+and were mostly grown as separate parts and then
+                                                           changes) from vacuum to deep sea. Novacrabs feature

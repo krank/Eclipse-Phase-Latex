@@ -1,0 +1,65 @@
+PSI DRUGS                                                                                     TOXINS
+Research into the Watts-MacLeod strain has resulted in
+several exceptional breakthroughs involving the creation                            TYPE APPLICATION ONSET TIME
+of psi-impacting drugs. Each of these drugs is in the ex-      Chemical Toxins
+perimental stage, but they are already finding some use        BTX2                 Chem       D, Inj, O      1 Action Turn    3
+among Firewall and similar secretive groupings.                CR Gas               Chem        D, Inh        1 Action Turn
+   Inhibitor: Inhibitor is a cocktail of neurochemicals
+                                                               Flight                Bio          Inh         3 Action Turns
+that block some brain receptor and transmitter func-
+                                                               Nervex               Chem     D, Inh, Inj, O     1 minute
+tions in an attempt to reduce psi-waves and block or
+impair sleights. This drug is commonly used to restrain        Oxytocin-A            Bio        Inh, Inj        3 minutes
+async prisoners from using their abilities. A drugged          Twitch               Chem     D, Inh, Inj, O 3 Action Turns
+character must make a WIL x 2 Test. If they fail, they         Nanotoxins
+lose all psi abilities for the drug’s duration. If they suc-   Degeneration         Nano        Inj, O         Immediate
+ceed, they suffer a –30 impairment on Psi skills and           Necrosis             Nano        Inj, O        3 Action Turns
+all strain is doubled. Inhibitor has an unfortunate side       Neuropath            Nano       D, Inj, O      3 Action Turns
+effect of doping the character down, however; apply
+                                                               Nutcracker           Nano        Inj, O         Immediate
+a –10 modifier to their COG. Inhibitor-influenced
+                                                               Psi Drugs
+characters tend to have a glazed, dopey expression and
+have difficulty getting excited or emotional. [High]           Inhibitor            Chem        Inj, O        3 Action Turns
+   Psi-Opener: Psi-opener drugs are variants of the            Psi-Opener            Bio        Inj, O         20 minutes
+Watts-MacLeod strain with a temporary effect and               Psike-Out            Chem        Inj, O          1 minute
+which do not permanently alter the user’s brain. Psi-
+opener temporarily imbues the user with the ability
+to use one particular sleight, regardless of whether or           Holographic Projectors: These devices are capable
+not they have the Psi trait. Each type of Psi-opener is        of projecting high-definition, ultra-realistic three-
+customized for a particular sleight. While primarily           dimensional images and movies. From a distance
+intended for non-asyncs, non-asyncs may not possess            (20+ meters), such holograms can be difficult to
+Psi skills, so they must default to WIL. For this reason,      distinguish as fake, but up close they are easier to
+Psi-Opener is often doubled up with Psike-out.                 see for what they are (+20 Perception Test modifier).
+   Using Psi-opener is a mind-wrenching experience.            Holograms do not appear wavelengths other than
+Users are occasionally subject to hallucinations               visual light, and so are easily identified by anyone
+(gamemaster discretion). When the drug wears off, it           with enhanced vision. [Low]
+inflicts 1d10 points of mental stress, +2 if the drug            Micrograv Shoes: These shoes are equipped with
+imbues a psi-gamma sleight. [Expensive]                        velcro and/or a magnetic system, allowing the wearer
+   Psike-Out: Psike-out bolsters an async’s psi abilities.     to walk normally on appropriate surfaces in micro-
+Apply a +20 modifier to the async’s Psi skill tests for the    grav and zero-G environments, rather than floating or
+drug’s duration. However, also apply +2 to all strain          bouncing. [Trivial]
+DVs for the drug’s duration. Psike-out is mentally ad-            Portable Sensor: This is a small portable (possibly
+dictive, with an Addiction Modifier of –10. [Expensive]        even wearable) sensor system. The type of sensor must
+                                                               be chosen (for example: infrared, lidar, radar, x-ray).
+                                                               Combined sensor systems are also available, at a cu-
+EVERYDAY TECHNOLOGY                                            mulative cost. See Radio and Sensor Ranges, p. 299.
+                                                               and Using Enhanced Senses, p. 302. [Moderate]
+The following devices are all exceptionally common
+and can be acquired in almost any habitat. Almost                 Smart Clothing: Smart clothing can change its
+everyone in Eclipse Phase either owns these devices or         color, texture, and even its cut, taking only a minute
+knows several people who do.                                   or two to transform from a solid color jumpsuit to a
+   Ecto: Ectos are the external version of basic mesh          plaid party dress or a replica of a pinstriped, late 20th
+inserts (p. 300), minus the medical sensors. These col-        century business suit. More advanced (and expensive)
+orful devices serve as a wearable mesh terminal, PDA,          models can also attempt to camouflage their wearers,
+locator, and camera-phone. The devices are flexible            providing a +20 bonus to Infiltration Tests to avoid
+(often worn as bracelets), dirt-resistant, self-cleaning,      being seen or noticed, as long as the wearer is station-
+and may be stretched out to increase screen size. They         ary or not moving faster than a slow walk. When worn
+may project holographic displays and are typically             by someone moving faster, the clothing still provides a
+equipped with wireless-enabled glasses or contact              +10 modifier. Smart clothing also keeps the character
+lenses and decorative earpieces or earrings so that the        warm or cool, allowing the character to exist comfort-
+user may access augmented reality. Given the ubiquity          ably in environments from –40 to 70 C. [Low]
+of mesh inserts, ectos are growing less common, but               Smart Vac Clothing: Just like regular smart cloth-
+they are still used by bioconservatives, others without        ing, this outfit can also transform into a light vacsuit
+implants, and those who prefer to access the mesh via          (p. 333). It also functions as armor with a rating of
+an external device for security concerns. [Low]                2/4. [Moderate]

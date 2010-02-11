@@ -1,0 +1,81 @@
+                                                                                           PLAYER
+
+
+                                                                                                   CHARACTER S
+                    CHARACTER
+                                                                                      ECLIPSE
+              BACKGROUND                                                               PHASE
+                         Faction
+                                                                                                                     COG       COO       INT           REF       S
+                          Morph                                                                        Base
+            Gender Identity                                                                     Morph Bonus
+                                                                                                       Total
+                     Actual Age
+                                                                                                           WIL x 2             FROM MORPH               (INT + REF)
+    Current Moxie Points
+                                                                                       MOX        TT       LUC         IR       WT       DUR           DR       IN
+                       Rez Points
+                                                                                                 LUC ÷ 5             LUC X 2   DUR ÷ 5                 Biomorphs: D
+                    Motivations                                                                                                                        Synthmorphs
+
+
+                                                                                                                                                         DAM
+                                                                                                                               DAMAGE WOUNDS                     S
+
+ Armor
+           ENERGY                                KINETIC                                                                                          PRIMAR
+              Melee Weapon
+                                    WEAPON                 SKILL              AP          DV                NOTES
+
+           Ranged Weapon
+                                    WEAPON                 SKILL              AP          DV                MODES              AMMO            RANGE
+
+
+
+
+               LINKED                         MORPH                SPECIALIZATION /                           LINKED                        MORPH
+ACTIVE SKILLS APTITUDE                 BASE   BONUS TOTAL           OTHER BONUS                ACTIVE SKILLS APTITUDE             BASE      BONUS TOTAL
+Animal Handling            SAV                                                                           Pilot        REF
+ Beam Weapons             COO                                                                            Pilot        REF
+             Blades       SOM                                                                   Programming          COG*
+          Climbing        SOM                                                                        Protocol         SAV
+              Clubs       SOM                                                                      Psi Assault       WIL*
+           Control        WIL*                                                                 Psychosurgery          INT
+        Deception          SAV                                                                      Research         COG
+     Demolitions          COG*                                                                    Scrounging          INT
+          Disguise         INT                                                               Seeker Weapons          COO
+   Exotic Melee:          SOM                                                                           Sense        INT*
+   Exotic Melee:          SOM                                                                 Spray Weapons          COO
+  Exotic Ranged:          COO                                                                      Swimming          SOM
+  Exotic Ranged:          COO                                                             Throwing Weapons           COO
+              Flight      SOM                                                              Unarmed Combat            SOM
+                Fray       REF
+          Free Fall        REF                                                                               * = no defaulting
+     Freerunning          SOM
+          Gunnery          INT                                                                                         LINKED              MORPH
+        Hardware:         COG                                                           KNOWLEDGE SKILLS              APTITUDE        BASE BONUS TOTAL
+        Hardware:         COG                                                           Academics:                       COG
+  Impersonation            SAV                                                          Academics:                       COG
+        Inﬁltration       COO                                                           Academics:                       COG
+            Infosec       COG*                                                          Academics:                       COG
+       Interfacing        COG                                                           Art:                             INT
+     Intimidation          SAV                                                          Art:                             INT
+    Investigation          INT                                                          Art:                             INT
+           Kinesics        SAV                                                          Art:                             INT
+Kinetic Weapons           COO                                                           Interest:                        COG
+         Medicine         COG                                                           Interest:                        COG
+         Medicine         COG                                                           Interest:                        COG
+      Navigation           INT                                                          Interest:                        COG
+                                                                                        Language:                        INT
+     Networking:           SAV
+                                                                                        Language:                        INT
+     Networking:           SAV
+                                                                                        Language:                        INT
+     Networking:           SAV
+                                                                                        Language:                        INT
+     Networking:           SAV
+                                                                                        Profession:                      COG
+           Palming        COO
+                                                                                        Profession:                      COG
+       Perception          INT                                                          Profession:                      COG
+       Persuasion          SAV                                                          Profession:                      COG

@@ -1,0 +1,120 @@
+or sense certain patterns. These scans are all but
+impossible to fool, however, barring hacking of the
+brainprint scanner itself, and so are considered quite
+reliable. For this reason they are occasionally used in
+high-security facilities.
+   It is worth noting that infection by some variants
+of the Exsurgent virus, notably the Watts-Macleod
+strain (p. 367), sometimes alters a person’s brainwave
+patterns, but not in every case.
+
+DIGITAL CODE
+Digital ID codes are often incorporated into backups and
+infomorphs. Not only does this help identify who the
+backup belongs to, but it serves as an electronic signature
+for verifying ID when the backup is to be resleeved. This
+digital code typically contains the same information as
+the nanotat ID, and is signed with a cryptographic hash
+that makes it difficult to forge and which can be verified
+online. AIs and AGIs also feature such built-in codes.
+
+CIRCUMVENTING ID CHECKS
+Firewall sentinels and clandestine agents often have a
+need to hide or alter their identities. While ID system
+are challenging, they are not insurmountable.
+
+FAKE IDS
+The easiest way to bypass security checks is to establish
+a fake ID. Given the patchwork nature of identity re-
+cords and the lack of any centralized authority, this is
+not very difficult. Numerous crime syndicates and even
+some autonomist groups maintain a thriving ID fabrica-
+tion business, often with complete histories and medical
+covers for implants that might be restricted or illegal.
+   These IDs are usually registered with habitats that are
+either known criminal havens, have autonomist sym-
+pathies, or are isolated and remote. Though the ID is
+actually verifiable and registered with these stations, the
+potential shady origins of such IDs is known to most
+inner system authorities and so the character may be
+exposed to extra scrutiny or monitoring. Fake IDs may
+be acquired that are registered with more respected au-
+thorities, but this often requires a much higher expense
+or connections to hypercorp clandestine operations.
+   Black market darkcast and resleeving options offer
+fake IDs as a matter of course.
+
+ALTERING NANOTAT IDS
+Special nanobot treatments may be manufactured
+to erase, rewrite, or replace nanotat IDs. Erasing a
+nanotat is easy, but not having one is a crime and im-
+mediate grounds for suspicion in many habitats. Re-
+writing a nanotat is also easy, though this means that
+the nanotat will fail its authorization online unless the
+encryption has also been cracked (p. 253). Replacing
+a nanotat ID with a fake one is just as possible, and is
+part of the process of acquiring a fake ID.
+
+DIGITAL ID TAMPERING
+Digital ID codes may also be tampered with, though like
+nanotat IDs this will mean that the ID fails online verifi-
+cation unless the encryption is also defeated (p. 253).
+LIFE IN SPACE
+Transhumanity is not just a spacefaring race, it is
+also largely space-dwelling. While a substantial por-
+tion of transhumanity inhabits planetary bodies like
+Mars, Luna, Venus, and the moons of the gas giants,
+the balance live in a variety of space habitats, ranging
+from the old-fashioned O’Neill cylinders of the inner
+system to the Cole bubbles of the outer system.
+
+SPACE HABITATS
+Space habitats come in many sizes and configura-
+tions, from survivalist outposts designed to support
+ten or fewer people to miniature worlds in resource-
+rich areas housing as many as ten million people. In
+heavily settled regions of space, such as Martian orbit,
+habitats may be integrated into local infrastructure,
+relying to some extent on supply shipments from other
+orbital installations.
+   More commonly, especially in the outer system,
+habitats are independent entities. This usually means
+that in addition to the main space station, the habitat
+is attended by a host of support structures, including
+zero-g factories, gas and volatiles refineries, foundries,
+defense satellites, and mining bases.
+    Habitats—especially large ones—sometimes have
+visitors, as well. Majors habitats are crossroads in
+space. In addition to scheduled bulk freighter stops,
+they may have hangers-on such as scum barges, pros-
+pectors, or out-of-work autonomous bot swarms.
+   Many habitats have some form of transportation
+network. This is most common in large cylindrical
+habitats with centrifugal gravity. Common solutions
+for public transit include monorail trains, trams, and
+dirigible skybuses. Common personal transit options
+included bicycles, scooters, motorcycles, and micro-
+light aircraft, with larger vehicles being uncommon
+and usually reserved for official use.
+   Most habitats with large interior spaces also use aug-
+mented reality overlays to create consensual hallucina-
+tions of a sky and clouds, to which most residents keep
+their AR channels tuned. One would think that in space,
+talking about the weather would have disappeared from
+transhumanity’s repertoire of small talk, but the habit
+persists—only the weather discussed is usually virtual (if
+it’s not real “weather”—solar flare activity and the like).
+
+CLUSTER COLONY
+Clusters are the most common form of microgravity
+habitat. Clusters consist of networks of spherical or
+rectangular modules made of light materials and con-
+nected by floatways. Typically business and residential
+modules are clustered around arterial floatways and in-
+frastructure modules such as farms, power, and waste
+recycling. Limited artificial gravity areas may exists,
+frequently parks or other public places and specialized
+modules like resleeving facilities (morphs often keep
+better when stored in gravity). Arterial floatways in
+large clusters may have “fast lanes” where a constantly
+moving conveyor of grab-loops speeds people along.

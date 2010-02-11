@@ -1,0 +1,39 @@
+speed of thought. This is the default method of mesh      privileges they have on that system. There are four
+use and suffers no modifiers. They are, however, more     types of accounts: public, user, security, and admin.
+prone to visual and operative impairments (virtual il-
+lusions, denial-of-service effects) when hacked.          PUBLIC ACCOUNTS
+  Characters who use the haptic interface of an ecto,     Public accounts are used for systems that allow
+however, suffer a slight delay on their mesh activities   access (or access to parts of their system) to anyone
+due to manual toggling, physical controls, and physi-
+cal interaction with virtual controls. In game terms,
+the use of haptics imposes a –10 skill modifier to
+all mesh tests where timing is rushed (particularly         ELITE EXPLOITS
+combat and or any sort of mesh use under pressure).         The mesh gear quality rules allow for players
+Additionally, increase the timeframe for mesh-based         and gamemasters to make a distinction between
+Task Actions by +25% when interfacing via haptics.          software tools, separating the open-source,
+On the positive side, ectos can be easily removed and       stock-repertoire exploit tools of amateur hackers
+discarded if compromised—for this reason, many              from cutting-edge military-grade penetration
+hackers and security-conscious users use an ecto in         wares. While many characters will simply buy or
+addition to their mesh inserts, routing all high-risk       otherwise acquire such programs, a hacker with
+traffic through the ecto as an extra line of defense.       the do-it-yourself ethic is likely going to want
+                                                            to design their own personalized applications,
+MESH ID                                                     based on their playbook of closely-guarded in-
+Every mesh user (and, in fact, every device) has a          trusion/counterintrusion methods.
+unique code called their mesh ID. This ID distin-              To reﬂect the efforts a hacker character makes
+guishes them from all other users and devices, and is       by designing, coding, and modifying their own
+the mechanism by which others can find them online,         customized personal arsenals, they may make a
+like a combination phone number, email address, and         Task Action Programming Test with timeframe
+screen name. Mesh IDs are used in almost all online in-     of 2 weeks. If they succeed, they upgrade one
+teractions, which are often logged, meaning that your       of their software tools by one level of quality
+activities online leave a datatrail that can be tracked     (i.e., from +0 to +10). Multiple Programming
+(p. 251). Fortunately for Firewall sentinels and others     Tests can be made to enhance a program, but for
+who value their privacy, their are ways around this         each level add the target modiﬁer as a negative
+(see Privacy and Anonymity, p. 252). AIs, AGIs, and         modiﬁer to the test (so upgrading a +0 suite to
+infomorphs also each have their own unique mesh ID.         +10 is a –10 modiﬁer on the Programming Test).
+                                                               Similarly, at the gamemaster’s discretion, soft-
+ACCOUNTS AND ACCESS PRIVILEGES                              ware tools—particularly exploits—may degrade
+Devices, networks (such as PANs, VPNs, and hard-            in quality over time, reﬂecting that they have
+wired networks), and services require that every user       become outdated. As a general rule, such pro-
+that accesses them does so with an account. The             grams should degrade in quality about once
+account serves to identify that particular user, is         every 3 months.                                 ■
+linked to their mesh ID, and determines what access

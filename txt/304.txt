@@ -1,0 +1,117 @@
+USING ENHANCED SENSE
+Personal augmentations and technological aids
+have drastically increased the sensory capabilities
+of most transhumans. The following notes provide
+some details on what capabilities these sensory func-
+tions provide. The capabilities are typically the same
+whether it’s a biological sense or a technological
+sensor, though tech sensors can “turn off” certain
+wavelengths and sense only specific frequencies,
+whereas biological senses perceive the full spectrum
+with no ability to ﬁlter parts out.
+
+SENSORY DATABASES
+ Both technological sensors and enhanced biological
+ senses come equipped with databases of scanned
+“signatures” that make it easier to identify whatever
+ the user is sensing (in the case of bioware, these da-
+ tabases are stored and accessed via the character’s
+ mesh inserts). For example, infrared sensors feature
+ databases listing the heat signatures of different
+ animals and items, making it easier to identify such
+ things. In relevant situations, apply a +20 modiﬁer
+ for identifying targets sensed this way.
+
+ACTIVE VS. PASSIVE
+An active scanner must actually emit its particular
+frequency and then measure the reﬂections; this
+means a similar sensor can detect it and home in on
+the emitting source. For example, a character with
+enhanced vision can literally see the terahertz radia-
+tion emitted by someone using an active terahertz
+sensor, much like someone with normal vision can
+see the light emitted by a ﬂashlight.
+  A passive scanner simply scans frequencies that occur
+naturally—there is nothing to give the sensor away.
+
+ELECTROMAGNETIC
+SPECTRUM
+   For Eclipse Phase rules purposes, the EM spectrum
+is broken down by wavelength and frequency into
+these categories: radio, microwave, terahertz, infrared,
+
+
+
+
+    Having an extra ego in your head, working in the
+  background, is helpful for multitasking. The character
+  receives an extra Complex Action each turn that may
+  only be used for mental or mesh actions. [High]
+
+  PHYSICAL AUGMENTATIONS
+  Most physical bioware augmentations are derived
+  from the capabilities of animals.
+     Adrenal Boost: This adrenal gland enhancement
+  supercharges the character’s adrenal response to
+  situations that invoke stress, pain, or strong emotions
+  (fear, anger, lust, hate). When activated, the concen-
+  trated burst of norepinephrine accelerates heart rate
+  and blood flow and burns carbohydrates. In game
+  ible light, ultraviolet, X-rays, and gamma rays.
+ Radar (Radio/Microwave): Radar sensors work by
+ tively emitting radio waves and microwaves and
+ easuring them as they bounce off the target. Radar
+ orks best when detecting metallic objects, and is
+ ss effective (–20 modiﬁer) against biomorphs and
+mall items. Resolution is not high, however, so it can
+ e shapes but not colors or ﬁne details. It can be
+ ed to detect both speed and movement, can “see”
+ rough walls (up to a cumulative Armor + Durabil-
+    of 100), and can detect cybernetic implants or
+  ncealed items. At close ranges (1-2 meters), it can
+  tect pulse rate and respiration by measuring the
+ otion of the chest cavity.
+ Terahertz: Terahertz sensors emit t-rays, measure
+ e reﬂections, and compare them to a database
+   terahertz signatures that different items/materi-
+ s have. The resolution is higher than radar, but
+  th slightly less detail than normal vision. Similar
+   radar, terahertz sensors can see through walls
+  d other materials, but to a lesser extent (up to a
+  mulative Armor + Durability of 50). T-rays occur
+  turally, but terahertz sensors normally require an
+mitter as they are absorbed by atmosphere (as well
+   water and metal). In space, however, an emitter
+ ould not be required. Likewise, passive terahertz
+ ans within atmosphere have an effective range of
+   meters. T-rays do not penetrate skin, so are inef-
+ ctive for locating implants.
+ Infrared: Near-infrared wavelengths are used
+ r night vision, providing resolution and detail
+  uivalent to regular vision under low-light condi-
+ons. Mid-long infrared is excellent for detecting
+  at sources (unobstructed by fog or smoke) and
+ mperature differences (as small as 0.1 degree C),
+  d such thermal imaging will sense the dissipat-
+ g heat traces left by warm sources on colder ones,
+  owing the user to see where someone was sitting,
+ace fading heat footprints, or see what buttons
+ ere pressed if they are quick enough. Infrared
+
+
+
+
+   terms, this allows the character to ignore the –10
+   modifier from 1 wound and temporarily increases
+   REF by +10 (also boosting REF-linked skills and
+   Initiative). These modifiers apply until the character
+   has calmed down (if the character also has endocrine
+   control, p. 304, then adrenal boosts can be activated
+   and deactivated at will, and the negated wounds are
+   cumulative). [High]
+      Bioweave Armor (Light): Bioweave armor involves
+   lacing the morph’s skin with artificial spider silk bio-
+   logical fibers. This provides an Armor rating of 2/3
+   without changing the appearance, texture, or sensitiv-
+   ity of the morph’s skin. This armor is cumulative with
+   worn armor. [Low]

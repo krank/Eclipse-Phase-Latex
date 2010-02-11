@@ -1,0 +1,61 @@
+any protection, though toxin filters (p. 305) and            CYBERBRAIN HACKING
+medichines (p. 308) each give a +30 bonus (though it         Exsurgent virii that manage to infiltrate the cyber-
+is likely only a matter of time before a mutant Exsur-       brains of pods and synthmorphs may also target the
+gent strain learns to bypass them). If the test fails, the   digital egos within, using the same rules as given for
+victim is infected. See the strain descriptions (p. 366)     AI and infomorph subversion above. Alternately, the
+for specific details.                                        virus may conduct a traditional brainhacking attack,
+   Within 12 hours of being infected, biomorphs              as noted on p. 261, or unleash a basilisk hack.
+become contagious to others. (Note that for the
+Watts-Macleod strain, they only remain contagious            NANOPLAGUE
+for 12 hours after that.)                                    While the abundance of nanotechnology has been a
+                                                             blessing for transhumanity’s journey to the stars, it has
+DIGITAL VIRUS                                                also been a curse. Via the TITANs and mesh-connected
+Digital strains are purely information- or code-based        nanofabrication machines, the Exsurgent virus manu-
+versions of the virus. They resemble typical computer        factured nanobot swarms equipped with variants of
+virii, worms, or trojans, spreading throughout the           the virus. These nanobot plagues are capable of target-
+mesh, exploiting holes, mimicking protocols, and             ing all types of morphs and sometimes other machin-
+taking advantage of it like a skilled hacker.                ery as well. Unlike the biological nanovirus, which uses
+   Digital versions of the Exsurgent virus are treated       biological mechanisms to rewrite biological/neural
+as intelligent programs, using the same rules as info-       structures, these nanoplagues physically restructure
+morphs (p. 264), with the following stats:                   both people and things at the molecular level.
+ COG     COO    INT    REF    SAV    SOM     WIL   MOX
+  40      10     40     40     40     40     40     —        NANOPLAGUE INFECTION
+  INIT   SPD    LUC     TT     IR    DUR     WT     DR       Exsurgent nanoswarms follow all of the rules given
+  160     3      —      —      —      —      —      —        for nanoswarms on p. 328. Unlike transhuman
+Skills: Hardware: Electronics 50, Infosec 70, Interfac-      nanoswarms, though, Exsurgent nanoplagues may
+  ing 60, Investigation 50, Perception 60, Program-          penetrate a biomorph internally, affecting the body
+  ming 50                                                    within as well as without.
+Software: Exploit, Firewall, Sniffer, Spoof, Track, plus       Any morph that comes into contact with a nano-
+  any others the gamemaster considers appropriate            plague is considered infected. The only defenses are
+                                                             guardian nanobots and nanophages (which work the
+DIGITAL INFECTION                                            same as guardian nanobots in this situation), though
+  As a matter of course, this Exsurgent virus will seek      these are less effective against Exsurgent nanobots,
+to access any new systems it comes into contact with,        inflicting –2 damage to the swarm each Action Turn.
+hacking in and copying a version of itself.                  Some Exsurgent nanoplagues have developed coun-
+                                                             termeasures against such systems, inflicting (1d10 ÷ 2,
+AI AND INFOMORPH SUBVERSION                                  round up) damage to such defenses each Action Turn.
+   An Exsurgent virus may take a Complex Action to           Note that nanoplague-infected characters are gener-
+initiate an “attack” against any other intelligent pro-      ally not contagious themselves ... usually.
+gram (AI, AGI, or infomorph) that is running on the             See the strain descriptions (p. 366) for specific in-
+same system. If it encounters such programs as they          fection details.
+are accessing a system it is on, it will attempt to hack
+their home system where they are running so as to            BASILISK HACKS
+attack them directly.                                        Thanks to the vast databanks of knowledge the TITANs
+   The attack is handled as an Opposed Test, each roll-      had absorbed from transhumanity, the Exsurgent virus
+ing COG + INT. If the Exsurgent virus wins, the target       was able to thoroughly analyze the biology and func-
+is infected and will be corrupted by the virus in 10         tioning of transhuman minds. In a few short months, by
+Action Turns, minus 1 turn per 10 full points of MoS.        accessing all of the research at their disposal, the Exsur-
+If the target succeeded but rolled lower than the virus,     gent and TITAN minds made several cognitive leaps in
+they are aware that they are slowly being taken over.        their understanding of transhuman brain functions—
+This immediately causes them 1d10 points of mental           breakthroughs that will take transhumanity decades to
+stress. An infected program has only one option for          reach. One of these discoveries was a method of apply-
+defending itself before the virus takes over—shutdown        ing sensory input as a weapon, exploiting weaknesses
+and reboot. It takes the AI or infomorph 1 full Action       in the brain’s neuro-cerebral wiring.
+Turn to shut down. Restarting takes 3 full Action Turns         Known as “basilisk hacks,” these attacks take
+(possibly longer if the gamemaster so decides), upon         advantage of the way biological transhuman brains
+which the AI or infomorph must make another Op-              interpret and process sensory input in the cerebral
+posed COG + INT Test against the virus. If this test also    cortex. Just as epileptics are susceptible to visualiza-
+fails, then the virus has already embedded itself in the     tions that strobe at certain frequencies, basilisk hacks
+AI or infomorph’s code and will continue its infection.      employ special visual and auditory patterns that trig-
+   One the infection is complete, the AI/infomorph           ger glitches in the brain’s neuronal wiring to inflict
+becomes an Exsurgent NPC.

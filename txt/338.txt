@@ -1,0 +1,112 @@
+BRAND NAME WEAPONS
+AND COMBINED ARMS
+The weapons listed in this book deﬁne generic
+samples of each weapon. Gamemasters are en-
+couraged to offer brand name versions of each
+weapon, each with its particular idiosyncrasies
+and small variations. For example, a Direct
+Action A30 SMG might lack a semi-automatic
+setting but come equipped with an extra ammo
+capacity of 35. Likewise, a Medusan Arms Longi-
+nus sniper riﬂe may inﬂict an extra +2 damage
+but have an AP of only –12.
+  Similarly, many of the weapons listed here are
+available as combined arms weapons systems. A
+police-issue assault riﬂe may also feature a stun-
+ner—all built into the same weapon. For com-
+bined arms, simply add together the individual
+weapon component costs.                         ■
+
+
+
+   Machine Gun: Machine guns are heavy weapons,
+ typically mounted, and intended to provide continu-
+ ous fire for support or suppressive purposes. They fire
+ in burst fire or full auto modes, and are two-handed
+ weapons. [High]
+
+ RAILGUNS
+ Railguns use a pair of electromagnetic rails to slide
+ and accelerate a non-explosive conductive projectile at
+ extremely high velocities (Mach 6+) to create an over-
+ whelming, penetrating attack. The kinetic energy of
+
+
+                                KINETIC WEAP
+FIREARMS          ARMOR PENETRATION (AP)         DAMAGE
+Light Pistol                  —                            2
+Medium Pistol                 –2                       2d1
+Heavy Pistol                  –4                       2d1
+Submachine Gun                –2                       2d1
+Automatic Riﬂe                –6                       2d1
+Sniper Riﬂe                   –12                     2d1
+Machine Gun                   –4                       2d1
+
+
+
+                                KINETIC WEAP
+RAILGUNS          ARMOR PENETRATION (AP)         DAMAGE
+Light Pistol                  –3                       2d1
+Medium Pistol                 –5                       2d1
+Heavy Pistol                  –7                       2d1
+Submachine Gun                –5                       2d1
+Automatic Riﬂe                –9                       2d1
+Sniper Riﬂe                   –15                     2d1
+Machine Gun                   –7                       2d1
+     the projectile exceeds that of an explosive-filled shell
+     of greater mass and creates shock and heat waves
+     upon impact that shatter and incinerate the target, or
+     portions of it. While railguns are more potent than
+     firearms, the ammunition choices are limited as the
+     projectile must be conductive and able to survive
+     both acceleration and heat created in the process due
+     to friction. Nanofabrication allows railguns to be
+     manufactured on the personal weapons scale while
+     high-energy portable batteries provide the power to
+     fire them. Railgun operation is silent except for the
+     supersonic crack of the projectile.
+        Railguns are available in the same models as fire-
+     arms (pistols through machine guns), with the follow-
+     ing modifications:
+
+      • Increase AP by –3
+      • Increase damage by +2
+      • Increase the maximum for each range category
+        by x1.5
+      • Increase Cost category by one
+      • Railguns may only use regular and armor-pierc-
+        ing ammunition
+      • Railguns also require battery power for each shot.
+        Standard railgun batteries hold enough power for
+        200 shots, after which they must be recharged at
+        the rate of 20 points per hour.
+
+     KINETIC AMMUNITION
+     Ammunition is defined by its various types (standard,
+     gel, APDS, etc.) and by the class of gun (light pistol,
+     heavy pistol, SMG, etc.). For simplicity, each gun
+     can trade ammunition with another gun of its class,
+     though ammunition for firearms and railguns is not
+
+
+NS—FIREARMS
+UE (DV)       AVERAGE DV       FIRING MODES         AMMO
+                   11              SA, BF, FA          10
+2                  13              SA, BF, FA          12
+4                  15              SA, BF, FA          16
+3                  14              SA, BF, FA          20
+6                  17              SA, BF, FA          30
+10                 21              SA, BF, FA          40
+6                  17                BF, FA            50
+
+
+
+NS—RAILGUNS
+UE (DV)       AVERAGE DV       FIRING MODES         AMMO
+2                  13              SA, BF, FA          10
+4                  15              SA, BF, FA          12
+6                  17              SA, BF, FA          16
+5                  16              SA, BF, FA          20
+8                  19              SA, BF, FA          30
+12                 23              SA, BF, FA          40
+8                  19               BF, FA             50

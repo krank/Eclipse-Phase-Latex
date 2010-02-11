@@ -1,0 +1,108 @@
+operatives exists for this purpose). [Low to Moderate
+per month]
+   Body Bank: People who are egocasting to another
+station but whom hope to download back into the
+same body they have before when they return may
+put the morph on ice for the duration of their absence.
+[Moderate per month]
+   Bot/Pod Rental: When you need a helping hand or
+a personal companion for a day or two, renting a bot
+or pod is often the way to go. [Moderate per day]
+   Egocasting: This is the use of a farcaster to trans-
+mit an ego/infomorph. Farcasting is not cheap, and
+the cost is impacted by factors such as distance to
+receiver station and priority service (paying extra to
+get bumped ahead in line). [Expensive]
+   Fake Ego ID: This forged ID will pass in most inner
+system and Jovian Republic habitats, and sometimes
+others. [High]
+   Morph Brokerage: Acquiring a new morph is not
+always easy and is affected by factors such as the type
+of morph, sought-after enhancements/customizations,
+and local availability. Numerous brokerage services
+exist to find you what you need, or close to it. With
+enough lead-time, it may be possible to grow a pod
+that closely imitates your morph of choice. A willing-
+ness to accept used/traded-in morphs helps to reduce
+costs. For more details, see Morph Brokerage, p. 276.
+   Psychosurgery: A character can purchase time in an
+immersive high-fidelity simulspace with expert care
+from psychosurgeons and AIs in order to cope with
+derangements and disorders that build up as a result
+of existing in a transhuman universe. For an addi-
+tional price the procedure can be time shifted to speed
+up the relative time within the simulspace. For more
+details, see Mental Healing and Psychotherapy, p. 215,
+and Psychosurgery, p. 229. [Moderate per month]
+   Simulspace Subscription: This will by you access to
+the simulspace of your choice, whether you want it for
+a private meeting/vacation or to play the latest and
+hottest VR game. [Low (single use/1 day) to Moderate
+(monthly subscription)]
+   Space Travel: Space transport cost depends on a
+number of factors like distance, quality of lodgings,
+and how much cargo you’re bringing with. At the low
+end, an intra-habitat shuttle trip within the same clus-
+ter, or a trip to or from a planetary body’s surface and
+orbit, is not cheap but affordable [High]. Just about
+anything else is progressively more costly. [Expensive]
+SOFTWARE
+For information on using software, see the Mesh chap-
+ter, p. 234.
+
+PROGRAMS
+These programs can be run on any computerized device.
+   AR Illusions: These databases of AR clips can be used
+to create realistic illusions in someone’s entoptic display.
+See Augmented Reality Illusions, p. 259. [Moderate]
+   Exploit: Exploits are hacker tools that take advan-
+tage of known vulnerabilities in other software. They
+are required for intrusion attempts (p. 254). [High]
+   Facial/Image Recognition: This program can be
+used to take an image and run a pattern-matching
+search among public archives. Similar version of this
+program exist for other biometrics: gait recognition,
+vocal recognition, etc. [Low]
+   Firewall: This program protects a device from
+hostile intrusion. Every system comes with a standard
+version of this software by default. [Low]
+   Sniffer: Sniffer programs collect all of the transmis-
+sion that pass to, from, or through the device they are
+running on. See Sniffing, p. 252. [Moderate]
+   Spoof: Spoof is a hacker tool used to fake com-
+mands and transmissions, making them seem as if
+they came from another source. See Spoofing Authen-
+tication, p. 255. [Moderate]
+   Tactical Networks: These programs allow people in
+the same squad to share tactical data in real-time. See
+Tactical Networks, p. 205. [Moderate]
+   Tracking: This software is used to track people by
+their presence online. See Scanning, Tracking, and
+Monitoring, p. 251. [Moderate]
+   XP: Experience playback recordings are clips of
+someone else’s experiences. Depending on the content,
+some XP (porn, snuff, crime, etc.) may be restricted in
+certain jurisdictions. Some XP clips are intentionally
+modified so that their emotive tracks are more intense,
+giving the viewer a greater thrill. [Low to High]
+
+AIS AND MUSES
+Every character starts with a personal muse for free.
+Many devices also come with pre-installed AIs, ca-
+pable of helping the user, responding to commands, or
+even operating the device on their own. Rules for AIs
+can be found on p. 264.
+   Below are some commonly available AI programs.
+Unless otherwise noted, these AIs have aptitudes of 10.
+These AIs may also be equipped with skillsofts (p. 332).
+   Bot/Vehicle AI: These AIs are designed to be capa-
+ble of piloting the robot/vehicle without transhuman
+assistance. REF 20. Skills: Hardware: Electronics 20,
+Infosec 20, Interests: [Bot/Vehicle] Specs 80, Interface
+40, Research 20, Perception 40, Pilot: [appropriate
+field] 40. [High]
+   Device AI: These AIs are designed to operate a par-
+ticular device without transhuman assistance. Skills:
+Infosec 20, Interests: [Device] Specs 80, Interface 30
+(Device Specialization), Programming 20, Research 20,
+Perception 20. [Moderate]

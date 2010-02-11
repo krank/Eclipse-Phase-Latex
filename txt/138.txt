@@ -1,0 +1,84 @@
+LEARNED SKILLS
+Each character must purchase a minimum of 400 skill
+points of Active skills and 300 skill points of Knowl-
+edge skills (see Skills, p. 170). Skills are bought at the
+cost of 1 CP per point. Keep in mind that learned
+skills start at the rating of the linked aptitude. For
+example, if you want to raise a skill to 30 and the
+skill’s linked aptitude is 10, you’ll need to spend 20 CP.
+Skill bonuses from background or faction should also
+be applied to the rating before you start raising the
+skill. For simplicity, it is recommended that skills be
+purchased as multiples of 5, but this is not a necessity.
+  Raising a skill over 60 is expensive. Each point over
+60 costs double. Raising a skill with a linked attribute
+of 20 up to 70 would cost 60 CP: 40 points to get from
+20 to 60, and 20 more points to get from 60 to 70.
+  No learned skill may be raised over 80 during char-
+acter creation (unless you have the Expert trait, p. 146).
+  Though Knowledge skills are grouped into 5 skills,
+each is a field skill (p. 172), meaning that it can be
+taken multiple times with different fields.
+  A complete list of skills can be found on p. 176.
+
+SPECIALIZATIONS
+Specializations (p. 173) may also be purchased at the
+cost of 5 CP per specialization. You may purchase
+specializations for both Active and Knowledge skills.
+Only 1 specialization may be purchased per skill, and
+they may only be bought for skills with a rating of
+30+.
+
+BUYING MORE CREDIT
+If you want more cred to spend on gear, every CP will
+get you 1,000 credits. See Purchase Gear, p. 136, for
+details on buying stuff. The maximum CP you can
+spend on additional credits is 100.
+
+INCREASING REP
+If you want your character to start play with lots of
+social capital, you can increase your Rep score(s) at
+the cost of 1 CP per 10 additional points. No indi-
+vidual Rep score may be raised above 80, and the
+maximum amount of CP that may be spent on Rep
+is 35 points.
+
+STARTING MORPH
+Perhaps the most important use of CP is to buy the
+morph with which your character begins play. This
+may be the original bodily form in which your charac-
+ter started life, or it may simply be the sleeve they are
+currently inhabiting.
+  Available morphs are listed starting on p. 139.
+  Note that any aptitude or skill bonuses provided by
+the morph are applied after all CP are spent. In other
+words, these bonuses do not affect the costs of buying
+aptitude and skill points during character generation.
+No aptitude may be modified over 40.
+
+PURCHASING TRAITS
+Traits represent specific qualities your character has
+that may help or hinder them.
+   Positive traits supply bonuses in certain situations,
+and each has a listed CP cost. You may not spend
+more than 50 CP on positive traits.
+   Negative traits inflict disadvantages on your charac-
+ter, but they also give you extra CP that you can spend
+on customizing your character. You may not purchase
+more than 50 CP worth of negative traits, and no
+more than 25 CP may be negative morph traits.
+   Positive traits are listed on p. 145, negative traits on
+p. 148. Note that traits you receive from your back-
+ground or faction do not cost or provide you with
+bonus CP.
+   Traits listed as morph traits apply to the morph, and
+not the ego. If the character switches to a new morph,
+these traits are lost (and new morph traits may be
+gained). Morph traits may be bought like other traits
+during character generation.
+
+PSI SLEIGHTS
+Characters who purchase the Psi trait (p. 147) may
+spend CP to purchase sleights (see Sleights, p. 223).
+These represent specific psi abilities the character has
+learned. The cost to buy a sleight is 5 CP. No more

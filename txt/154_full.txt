@@ -1,0 +1,62 @@
+they remain just different enough that their looks          character’s life, or the character may have become
+seem creepy or even repulsive—a phenomenon called           disenchanted with particular memes and ideas they
+the “uncanny valley.” Morphs whose looks fall into          previously took to heart.
+this range suffer a –10 modifier on social skill tests         Changing a character’s motivation does not cost
+when dealing with humans. This modifier does not            Rez Points, but it is something that should only
+apply to interactions with xenomorphs or those with         happen in accordance with roleplaying and with
+the infolife or uplift backgrounds.                         life-altering events. Players should not be allowed
+                                                            to simply switch their motivations at whim, there
+UNFIT (MORPH TRAIT)                                         should be a driving reason or explanation for doing
+Bonus: 10 CP (Level 1), 20 CP (Level 2)                     so. For this reason, changing a motivation should only
+  The morph is either not optimized for health and/or       happen when the player and gamemaster discuss the
+just in bad shape. Reduce the aptitude maximums for         matter and both agree that the swap is appropriate to
+Coordination, Reflexes, and Somatics by 5 (Level 1 )        the character’s development and circumstances.
+or 10 (Level 2).                                               If these conditions are met, the character simply
+                                                            drops a previously held motivation and takes on a
+VR VERTIGO                                                  new one. Only one motivation should be switched
+Bonus: 10 CP                                                out at a time.
+   The character experiences intense vertigo and
+nausea when interfacing with any type of virtual real-      SWITCHING MORPHS
+ity, XP, or simulspace. Augmented reality has no effect,    Resleeving—switching from one morph to another—
+but VR inflicts a –30 modifier to all of the character’s    is handled as an in-character interaction, not with Rez
+actions. Prolonged use of VR (gamemaster’s discre-          Points. See Resleeving, p. 271.
+tion) may actually incapacitate the character should
+they fail a WIL x 2 Test.                                   IMPROVING APTITUDES
+                                                            Aptitudes may be raised with Rez Points at the cost of
+WEAK IMMUNE SYSTEM (MORPH TRAIT)                            10 RP per aptitude point. This represents the charac-
+Bonus: 10 (Level 1) or 20 (Level 2) CP                      ter’s improvement in their core characteristics, gained
+   The morph’s immune system is susceptible to diseas-      from exercise, learning, and experience. Aptitudes may
+ es, drugs, and toxins. At Level 1, apply a –10 modifier    not be raised above 30 (bonuses from morphs, im-
+whenever making a test to resist infection or the effects   plants, traits, or other sources do not count towards
+of a toxin or drug. At Level 2, increase this modifier to   this total).
+–20. This trait is only available to biomorphs.               Raising the value of an aptitude also raises the
+                                                            value of all linked skills by an equivalent amount. If
+ZERO-G NAUSEA (MORPH TRAIT)                                 this raises any linked skills over 60, an additional 1
+Bonus: 10 CP                                                RP must be spent per linked skill over 60.
+  This morph suffers from space sickness and does
+not fair well in zero-gravity. The character suffers a      IMPROVING SKILLS
+–10 modifier in any microgravity climate. Addition-         Characters may also spend Rez Points to increase
+ally, whenever the character is first getting acclimated    existing skills or learn new ones. To improve an ex-
+or anytime they must endure excessive movement in           isting skill, the character must have successfully used
+microgravity, they must make a WIL Test or spend 1          that skill in the recent past or must actively practice
+hour incapacitated by nausea per 10 points of MoF.          it in order to get better, perhaps with the aid of an
+                                                            instructor. In the case of Knowledge skills, this means
+                                                            actively studying. As a rough timeframe, this should
+CHARACTER ADVANCEMENT                                       require around 1 week of learning per skill point. A
+As characters accomplish goals and gather experience        number of educational resources are freely available
+during gameplay, they accumulate Rez Points (see
+Awarding Rez Points, p. 384). Rez Points may be used
+to improve the character’s skills, aptitudes, and other            SPENDING REZ POINTS
+characteristics per the following rules. The costs for
+                                                                  15 RP = 1 Moxie point
+spending Rez Points for advancement are the same as
+the costs for spending Customization Points.                      10 RP = 1 aptitude point
+                                                                   5 RP = 1 psi sleight
+CHANGING MOTIVATION                                                5 RP = 1 specialization
+It is only natural that over time a character’s driving
+                                                                   2 RP = 1 skill point (61-99)
+goals and interests will change. The character may
+reach a turning point where they feel certain personal             1 RP = 1 skill point (up to 60)
+agendas have been fulfilled and it is time to move on,             1 RP = 10 Rep
+or they have failed and need to be discarded. New                  1 RP = 1,000 Credits
+urgencies or philosophies may have entered the

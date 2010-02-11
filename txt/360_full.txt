@@ -1,0 +1,58 @@
+personnel are required to rotate between servers
+after one year of time. This incurs the added benefit
+of proxies learning new skill sets and increasing their
+usefulness to Firewall. The actions of each server are
+kept as transparent as possible, with major decisions
+brought to an e-vote before the entire proxy member-
+ship. However, speed often requires servers or indi-
+vidual proxies to move quicker than a vote will allow.
+In all such instances, the proxies involved are held
+accountable for those actions, reviewed by their peers
+at a later time to see if any reprimands, punishments,
+or commendations are required.
+   It is important to note that there is no core leader-
+ship structure among the proxies. No one person or
+cabal is in charge, there is no authority held by one
+proxy or another; all are peers. Though reputation
+and experience play a factor, getting something done
+often means convincing other proxies that it’s the
+right thing to do. The drawback to being a leader
+or person with initiative within Firewall is that this
+usually means you must follow through with such
+tasks yourself. Luckily most proxies are dedicated
+to Firewall’s goals and so this DIY attitude prevails.
+Despite these safeguards, however, rumors of power
+blocks within Firewall (both within servers and
+across the organization) exist. Many of these are
+fueled by the alliances different cliques hold with
+each other. Others, however, whisper that there is
+a secret council among the proxies, working behind
+the scenes and holding on to knowledge they aren’t
+sharing with the rest.
+   Crows: Crows continue the goals of Firewall’s
+predecessor organizations, such as the Lifeboat In-
+stitute and Singularity Foundation. Many of these
+are argonauts, promoting the development and use
+of new technologies that will benefit the transhuman
+condition and minimize risks rather than creating
+new threats or sparking new authoritarian uses—
+and always conscious of unintended consequences.
+Perhaps more importantly, crows actively engage
+in background research of potential x-risk vectors,
+whether those be aliens, the TITANs, terrorists, or
+hypercorp activity. Often they will deploy sentinels
+to aid in this research, via routers, whether this
+means conducting surveillance or breaking and en-
+tering to steal crucial data.
+   Erasure Squads: Erasure squads are cleanup per-
+sonnel. They are called into action if sentinels fail to
+deal appropriately with a situation and the threat is
+moving beyond control. If the watchword for a sen-
+tinel is “unobtrusive,” the watchwords for an erasure
+squad are “overmatched firepower.” If activated, the
+time for a subtle solution is passed, and they will use
+whatever means necessary to resolve the situation.
+If that means nuking a settlement from orbit to an-
+nihilate a nanoswarm and keep it from escaping to
+a larger settlement, then so be it. After which they’ll
+use every trick in Firewall’s bag to erase any evidence

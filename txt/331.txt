@@ -1,0 +1,120 @@
+diameter of 20 meters” to “find the nearest chemical
+traces and track them to their source.” Finally, pro-
+gramming sets any other parameters for the swarm’s
+mission—for example, if it should ignore certain ma-
+terials, if it should send a report at a predetermined
+time, or if it should self-destruct into harmless dust
+when it has completed a certain task.
+   Programming is generally handled as a Simple
+Success Test using Programming (Nanoswarm) skill.
+Failure simply infers that the programming is imper-
+fect, and so the swarm may not operate completely as
+planned. An actual Programming (Nanoswarm) Suc-
+cess Test is only called for if the swarm’s programming
+is substantially complex or if the character seeks to
+have the swarm act outside of its usual set functions.
+The bots in each swarm are specially equipped for the
+task they are designed for, however, so attempting
+to drastically repurpose a swarm may be difficult or
+pointless at the gamemaster’s discretion.
+   Swarms may also be teleoperated, controlled, and/
+or (re)programmed once they are released, via radio
+or laser link.
+   Swarms are treated as a whole. The standard swarm
+size is enough to cover a 10 x 10 x 10 meter cube,
+and this is the standard “unit” of swarm released by
+a canister or hive. Swarms may be larger, but they are
+treated as individual swarm units. Each swarm has
+a Durability of 50 and is immune to wounds. Most
+attacks against a swarm simply inflict 1 point of
+damage. Area-effect weapons, plasma rifles, and fire
+inflict 1d10 damage, plasma grenades do full damage.
+Swarms are not affected by vacuum.
+   Cleaners: This nanoswarm cleans, polishes, and
+removes dirt and stains. It may be used on an area,
+specific objects, or people. Some facilities employ
+permanent cleaner swarms to keep their area spotless.
+Cleaners may also be programmed to remove specific
+toxins, chemicals, or other hazardous substances in
+order to decontaminate an area. Covert operatives
+and criminals sometimes use cleaners to eliminate
+any evidence they may have left at a scene usable for
+forensics purposes, such as blood, hair, or anything
+that could be DNA-typed. [Low]
+   Disassemblers: Also known as smart corrosives,
+these nanobots break down any matter. Their ad-
+vantage over common acids is that not only are
+they able to break down any material by using
+energy to disrupt chemical bonds, but that they
+can be programmed to take apart certain compo-
+nents while ignoring others, leaving them intact.
+Disassemblers are a common weapon used against
+synthmorphs, eating away their components with-
+out having to worry about accidentally splashing
+biomorphs. Upon contact, these nanobots infl ict
+1d10 ÷ 2 damage (round up) per Action Turn. Ac-
+cumulated damage counts as a wound when the
+Wound Threshold is reached. Both Energy and Ki-
+netic armor protect against this damage, but these
+armors are eaten away as well, so the Armor Value
+is reduced by the soaked DV. [High]
+   Engineers: Engineer microswarms are used for
+various construction purposes: erecting walls, digging
+tunnels, sealing holes, reinforcing foundations, and so
+on. [Moderate]
+   Fixers: This is the nanoswarm version of repair
+spray (p. 333). [Moderate]
+   Injectors: Injector microswarms are equipped with
+tiny needles and a drug payload. A biological target
+affected by an injector swarm suffers 1 point of
+damage and the effects of the carried drug, chemical,
+or toxin. [Moderate]
+   Gardeners: This microswarm is useful for a number
+of agricultural purposes: killing weeds, planting seeds,
+trimming plants, pollinating, and even harvesting
+small items. It may also be programmed to simply
+defoliate an area. [Moderate]
+   Guardians: Guardians watch for and attack other
+unauthorized swarms. Guardians inflict 1d10 ÷ 2
+damage (round up) on other swarms they come into
+contact with per Action Turn. [Moderate]
+   Proteans: This nanoswarm is designed to disassem-
+ble other materials and objects and to create a single
+specific, pre-programmed device from the components
+(much like a specialized nanofabricator). The proteans
+must be able to scavenge appropriate raw materials
+(for example, to create a metallic device the nanobots
+must transform something else made of metal). The
+construction time takes 1 hour per cost category of
+the item (1 hour for a Trivial cost item, 2 hours for
+Low, etc.). [High]
+   Saboteurs: Sab nanobots are designed to infiltrate
+electronics or machinery and sabotage them in small
+but difficult to discern ways: severing connections,
+disabling components, gumming up moving parts,
+etc. Saboteurs inflict damage on devices similar to
+disassemblers, but the target is not destroyed and
+such damage is not immediately obvious. They inflict
+1d10 ÷ 2 points of damage to synthmorphs, bots, and
+other devices every Action Turn. Armor has no effect,
+but accumulated damage counts as a wound when the
+Wound Threshold is reached. [High]
+   Scouts: A scout nanoswarm will system-
+atically map and explore an area, collecting
+samples of all materials and substances it
+encounters. The samples are carried back
+to the hive or canister and chemically ana-
+lyzed. Scouts can also be used for forensic
+purposes, collecting DNA samples, analyz-
+ing chemical residues, and examining other
+evidence. [High]
+   Taggants: Taggants seek to lodge themselves
+onto everything in their area of dispersal.
+Each carries a unique identifier, so that if it is
+found later, the tagged person or object can
+be linked back to the point they were tagged.
+Taggants can be programmed to remain silent,
+only responding to query broadcasts made
+with the proper crypto codes, or they can be
+programmed to broadcast their location back
+to the deployer via the mesh. [Low]

@@ -1,0 +1,65 @@
+If you absolutely must know the DV of a spacecraft          in an easily controlled fashion. Metallic hydrogen
+weapon, treat it as a a standard weapon with a DV           engines are used in most planetary landers and short
+multiplier of x3 for small craft (fighters and shuttles),   range vehicles.
+x5 for medium craft, and x10 for larger craft.                 Plasma Rocket (P): This drive heats hydrogen into
+                                                            plasma and accelerates it using a powerful electrical
+SPACECRAFT PROPULSION                                       field. This type of rocket was very common in the
+The most important part of any spacecraft is its engine,    mid 21st century, but has been superseded by fusion
+and the most important features of any engine are           rockets and is only used in older and more primitive
+the exhaust velocity, which determines how much             spacecraft, notably scum barges.
+fuel the rocket requires to reach a given speed, and           Fusion Rocket (F): Similar to a plasma rockets,
+the engine’s thrust, which determines how high the          fusion rockets require significantly higher tempera-
+acceleration can be. Any rocket that has a thrust of        tures and pressures, and the rocket also produces
+less than approximately twice the gravity of a planet       large amounts of power for the spacecraft. Fusion
+or moon cannot take off from that planet or moon.           rockets are now the most common form of propul-
+Sample thrusts and gravities are listed on the Escaping     sion for spacecraft designed for long-distance voyages.
+Gravity Wells table, p. 346.                                   Anti-Matter Rocket (AM): Anti-matter rockets
+   Hydrogen-Oxygen Rocket (HO): Though opti-                work mixing small amounts of anti-matter into the
+mized with improved engine design and light-weight          hydrogen fuel, producing enormous amounts of
+materials, these are essentially the same primitive         energy and an exceptionally fast and powerful ex-
+rockets that humanity used to first reach the moon          haust. These rockets typically carry a heavily shielded
+in the 20th century. These are rarely used and only         magnetically contained anti-matter storage vessel car-
+common with groups too poor or primitive to safely          rying a mass of anti-matter equal to 1% of the mass
+manufacture metallic hydrogen.                              of the hydrogen fuel used by the rocket. The magnetic
+   Metallic Hydrogen Rocket (MH): Metallic hydro-           containment vessels needed to safely contain anti-
+gen is a solid form of hydrogen created using exceed-       matter usually weight at least 10 times the mass of
+ingly high pressures. Although naturally unstable, it       the antimatter used.
+can be stabilized with carefully controlled electrical         Though anti-matter storage is exceptionally safe,
+and magnetic fields, and these field generators are         the vast energy release possible if there was an ac-
+an integral part of every metallic hydrogen fuel tank.      cident means that anti-matter rockets are forbid-
+By selectively reducing these fields near the exhaust       den from coming closer than 25,000 km from any
+nozzle, small amounts of metallic hydrogen can be           inhabited planet or moon. Also, very few habitats
+made to swiftly and explosively revert to conventional      will allow an anti-matter rocket to dock with them,
+hydrogen gas, propelling the rocket with great force        and instead require the spacecraft to remain at least
+                                                            10,000 km away and for all cargo and passengers to
+                                                            be transferred using a small craft like a small LOTV.
+        ESCAPING GRAVITY WELLS                              Anti-matter is exceedingly expensive to produce and
+SPACECRAFT ENGINE                    THRUST (IN GS)         so anti-matter rockets are only used in military vessels
+                                                            and in fast couriers designed to carry critical cargoes
+Hydrogen-Oxygen Rocket                      4+
+                                                            across the solar system in short periods of time.
+Metallic Hydrogen                            3
+Plasma Rocket                              0.01             SAMPLE SPACECRAFT
+Fusion Rocket                              0.05             The following is a representative sample of the most
+Anti-Matter                                 0.2             common type of spacecraft used in the solar system today.
+Rocket Buggy                                0.5                Bulk Carrier: This vessel is simply a standard
+Planets, Moons, Etc.                     Gravity            transport refitted to carry large amounts of cargo in
+                                                            external cargo grapples. Used for carrying refined ores,
+Earth                                        1
+                                                            ice, and similar forms of large, useful, but low priority
+Europa                                     0.13
+                                                            cargos, bulk carriers transport large cargos at rela-
+Jupiter                                    2.53             tively low velocities. They also offer an inexpensive,
+Luna                                       0.17             reliable, and slow method for passengers to travel
+Mars                                       0.38             from one habitat to another and are not infrequently
+Mercury                                    0.38             used by individuals who wish to disappear for a while.
+Neptune                                    1.14             Unlike the standard transport, the bulk carrier lacks
+Pluto                                      0.06             the rotating habitat pods.
+                                                               Courier: In a standard transport, a typical journey
+Saturn                                     0.91
+                                                            from Luna to Mars requires approximately three
+Titan                                      0.14
+                                                            weeks, while a journey from Mars to Jupiter requires
+Uranus                                     0.89             approximately four months. This is sufficient for most
+Venus                                       0.9             purposes, but occasionally characters need to take
+                                                            themselves or sufficiently valuable cargoes across the

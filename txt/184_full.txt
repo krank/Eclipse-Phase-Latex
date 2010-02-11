@@ -1,0 +1,41 @@
+MEDICINE: [FIELD]                                          Sample Fields: Autonomists (@-rep), Criminals (g-rep),
+Type: Field, Active, Technical                               Ecologists (e-rep), Firewall (i-rep), Hypercorps (c-
+Linked Aptitude: COG                                         rep), Media (f-rep), Scientists (r-rep). At the game-
+  What it is: Medicine is the applied care and mainte-       master’s discretion, this list can be expanded to
+nance of biological beings and life.                         other (sub)cultural groupings.
+  When you use it: Use Medicine whenever you need          Specializations: As appropriate to each field
+to apply medical care beyond the immediate help
+provided by first responders. This includes conduct-       PALMING
+ing physical exams, diagnosing ailments, treating          Type: Active, Physical
+problems and illnesses, surgery, using biotech and         Linked Aptitude: COO
+nanotech medical tools, and long-term care. See Heal-        What it is: Palming is the skill of handling items quick-
+ing and Repair, p. 208.                                    ly and nimbly without others noticing. Palming is not
+Sample Fields: Biosculpting, Exotic Biomorphs,             only about dexterous manipulation of objects but also
+  Gene Therapy, General Practice, Implant Surgery,         relies heavily on obfuscation, timing, and misdirection.
+  Nanomedicine, Mercurials (by type), Paramedic,             When you use it: Use Palming any time you are
+  Pods, Psychiatry, Remote Surgery, Trauma Surgery,        trying to conceal an item on your person, shoplift,
+  Veterinary                                               pick a pocket, surreptitiously discard something, or
+Specializations: As appropriate to the field               perform a magic trick. Palming is an Opposed Test
+                                                           against the Perception of any onlookers. The game-
+NAVIGATION                                                 master may wish to make this roll secretly.
+Type: Active, Mental                                       Specializations: Pickpocketing, Shoplifting, Tricks
+Linked Aptitude: INT
+  What it is: Navigation is the art of finding your way,   PERCEPTION
+whether using AR maps, a compass, the stars, or an         Type: Active, Mental
+astrogation AI.                                            Linked Aptitude: INT
+  When you use it: Use Navigation whenever you               What it is: Perception is the use of your physical
+need to plot out a course, determine a direction, or       senses (including cybernetic) and awareness of the
+otherwise keep from getting lost.                          physical world around you. Perception differs from
+Specializations: Astrogation, Map Making, Map              Investigation in that it is noticing things by chance,
+  Reading                                                  rather than actively searching for something.
+                                                             When you use it: Use Perception whenever you
+NETWORKING: [FIELD]                                        wanted to take a detailed account of your surround-
+Type: Active, Social                                       ings (see Detailed Perception, p. 190). Perception
+Linked Aptitude: SAV                                       can also be considered an Automatic Action (see
+  What it is: Networking is your skill at working your     Basic Perception, p. 190) and so the gamemaster may
+contacts, trading favors, and keeping your finger on       call for a Perception Test to determine if you notice
+the pulse of a particular faction or cultural grouping.    something; it is recommended that such tests be rolled
+  When you use it: Use Networking to gather infor-         secretly by the gamemaster. Perception is also used as
+mation or call on services using your Reputation (see      an Opposed Test whenever someone around you is
+Reputation and Social Networks, p. 285).                   trying to be sneaky with Infiltration or Palming.
+                                                           Specializations: Aural, Olfactory, Tactile, Taste, Visual

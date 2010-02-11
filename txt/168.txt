@@ -1,0 +1,96 @@
+elite
+
+d
+nism +Hypercapitalism +Personal Career
+
+                 Implants: Basic Biomods, Basic
+on ■               Mesh Inserts, Claws, Clean
+ma (Pod) ■         Metabolism, Cortical Stack,
+                   Cyberbrain, Enhanced Hearing,
+                   Enhanced Pheromones, Im-
+                                                    You a
+                   planted Nanotoxins (Necrosis),
+                                                    cliqu
+                   Mnemonic Augmentation, Sex
+                                                    the in
+                   Switch, Skinﬂex ■
+                                                    cializ
+                 Gear: Backup Insurance
+                                                    panio
+                   (1 month), Hither (1 dose),
+                                                    enter
+                   Muse, Orbital Hash (2 doses),
+                                                    your
+ [1/3] ■           Servitor Bot, Smart Clothing,
+                                                    You a
+ aws ■             Smart Rats (2), XP Clips (5) ■
+                                                    face
+ 0■
+                                                    and a
+
+                  “I’m just here to make sure you have th
+SOCIALITE ESCORT
+          APTITUDES
+              COG      COO    INT    REF     SAV       SOM    WIL
+     Base      15       10     15     10      20        15    20
+rph Bonus               5      5               5
+     Total      15      15     20     10      25       15      20
+
+
+
+
+OX     TT      LUC      IR    WT     DUR     DR
+                                                       STATS
+                                                    INIT      SPD
+        8       40      80     6      30     45    50 (70)     1
+
+
+
+                                                   SKILLS
+                                               MORPH
+                              APT     BASE     BONUS         TOTAL
+ ademics: Anthropology        COG      55                      55
+          Animal Handling     SAV      45          5           50
+             Art: Dancing     INT      60          5           65
+ rt: Erotic Entertainment     INT      70          5           75
+              Art: Singing    INT      60          5           65
+          Beam Weapons        COO      35          5           40
+                Deception     SAV      50          5           55
+                  Disguise    INT      45          5           50
+                       Fray   REF      40                      40
+           Impersonation      SAV      40          5           45
+                Inﬁltration   COO      40                      40
+                   Infosec    COG      35          5           40
+     Interests: Art History   COG      60                      60
+ erests: Celebrity Gossip     COG      55                      55
+ nterests: Social Cliques     COG      65                      65
+                  Kinesics    SAV      60          5           65
+anguage: Native French        INT      85                      85
+     Language: Mandarin       INT      45                      50
+    Language: Japanese        INT      45                      50
+etworking: Autonomists        SAV      45          5           50
+     Networking: Firewall     SAV      30          5           35
+Networking: Hypercorps        SAV      50          5           55
+       Networking: Media      SAV      60          5           65
+                  Palming     COO      30          5           35
+               Perception     INT      35          5           40
+               Persuasion     SAV      60          5           65
+    Profession: Escorting     COG      55                      55
+                  Protocol    SAV      60          5           65
+         Unarmed Combat       SOM      60                      60
+
+
+
+
+ mmersed in the social         client discreet protection from
+ nd glitterati lifestyle of    plotting rivals thanks to some
+  system elites. You spe-      judicious bodyguard training and
+   being the ideal com-        non-standard modiﬁcations. Given
+ ffering witty banter and      the constantly shifting allegiances
+ment and providing for all     and manipulations of the bored
+nt’s wishes and desires.       and undying rich, you have even
+more than just a pretty        on occasion used your skills to get
+d good time, however,          close to a client in order to elimi-
+capable of offering your       nate them for a rival. ■
+
+ ght of your life!”

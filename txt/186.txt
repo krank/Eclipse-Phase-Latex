@@ -1,0 +1,119 @@
+PSI ASSAULT
+Type: Active, Mental, Psi
+Linked Aptitude: WIL
+  What it is: Psi Assault is the skill of damaging an-
+other ego’s mind. It can only be purchased by charac-
+ters with the Psi trait (p. 147).
+  What it does: Use Psi Assault when attacking an-
+other ego’s mind in psi combat.
+Specializations: By sleight
+
+PSYCHOSURGERY
+Type: Active, Technical
+Linked Aptitude: INT
+   What it is: Psychosurgery is the use of machine-
+aided psychological techniques to repair, damage, or
+manipulate the psyche.
+   When you use it: Use Psychosurgery to attempt the
+tricky process of editing someone’s mind (see Psycho-
+surgery, p. 229). Psychosurgery can be used benefi-
+cially to help patients who remember their deaths, feel
+disconnected after remorphing, or have experienced
+other sorts of mental traumas. This skill may also be
+used to interrogate, torture, or otherwise mess with
+captive minds in a VR environment.
+Specializations: Memory Manipulation, Personality
+   Editing, Psychotherapy
+
+RESEARCH
+Type: Active, Technical
+Linked Aptitude: COG
+  What it is: Research is the skill for looking up infor-
+mation on the Mesh: searching, sifting, mining, and
+interpreting data. This includes knowing where to look,
+what links to follow, and how to optimize your queries.
+  When you use it: Use the Research skill whenever
+you need to look up the answer to a question, find
+databases, search archives, or track down anything
+online. Research is typically a Task Action with the
+timeframe and difficulty modifier determined by the
+gamemaster. See the Online Research, p. 249.
+Specializations: Tracking, by information type
+
+SCROUNGING
+Type: Active, Mental
+Linked Aptitude: INT
+   What it is: Scrounging is your ability to find things,
+particularly things of use or value that are concealed,
+buried, or hard to find. This includes knowing where
+to look and what to look for. Scrounging differs from
+both Perception and Investigation in that it is about
+finding items hidden among others, and in most cases
+about finding something in particular (food, valu-
+ables, etc.).
+   When you use it: Use Scrounging to dumpster-dive a
+meal, search ruins for relics, find bargains at a bazaar,
+forage berries in the forest, locate a spacesuit in an
+abandoned ship, etc. Scrounging is typically handled
+as a Task Action with a timeframe and difficulty
+modifier determined by the gamemaster.
+Specializations: Bazaars, Forests, Habitats, Ruins
+SEEKER WEAPONS
+Type: Active, Combat
+Linked Aptitude: COO
+  What it is: Seeker Weapons covers the use and
+maintenance of seeker launchers (p. 339) and seeker
+missiles (p. 340).
+  When you use it: Use this skill when attacking with
+a seeker in ranged combat (p. 191).
+Specializations: Armband, Pistol, Rifle, Underbarrel
+
+SENSE
+Type: Active, Mental, Psi
+Linked Aptitude: INT
+  What it is: Sense is the use of psi to scan egos. Only
+characters with the Psi trait (p. 147) may purchase
+this skill.
+  What it does: See Psi, p. 220.
+Specializations: By sleight
+
+SPRAY WEAPONS
+Type: Active, Combat
+Linked Aptitude: COO
+  What it is: The Spray Weapons skill covers the use
+and maintenance of cone-effect ranged weapons (see
+Spray Weapons, p. 340).
+  When you use it: A player uses their Sonic Weapons
+skill whenever they are attacking with a spray weapon
+in ranged combat (p. 191).
+Specializations: Buzzer, Freezer, Shard, Shredder, Torch
+
+SWIMMING
+Type: Active, Physical
+Linked Aptitude: SOM
+  What it is: Swimming is the art of moving and
+not drowning within fl uids. It includes fl oating,
+surface swimming, snorkeling, diving, and related
+equipment use.
+  When you use it: Use Swimming whenever you
+need to move and survive in water or another liquid
+environment. Swimming in a non-threatening en-
+vironment can be handled as a Simple Success Test.
+Swimming over a long distance could be handled as
+a Task Action. Diving off a cliff into a lake, prevent-
+ing yourself from being swept away in a raging river
+current, or making sure you’ve set a proper gas mix
+for a deep-sea dive, among other things, requires a
+Success Test.
+Specializations: Diving, Freestyle, Underwater Diving
+
+THROWING WEAPONS
+Type: Active, Combat
+Linked Aptitude: COO
+  What it is: Throwing Weapons skill covers the use
+and maintenance of standard throwing weapons, like
+grenades (p. 340).
+  When you use it: Use Throwing Weapons skill
+whenever you are attacking with a throwing weapon
+in ranged combat (p. 191).
+Specializations: Grenades, Knives, Rocks

@@ -1,0 +1,117 @@
+moving too fast for standard action and combat inter-
+action with other characters. This is when the action
+enters “chase scene” mode—a traveling narrative of
+maneuvering choices and tests with various outcomes.
+Whether or not a chase is actually occurring, the
+gamemaster should remember that Max Velocity is
+not the only factor in high-speed situations. Environ-
+mental factors like terrain, weather conditions, navi-
+gation, pedestrians, and traffic can provide obstacles
+for shells to overcome. A shell tearing across a habitat
+in order to reach a bomb before it detonates should
+have to make several decisions and tests that may
+affect whether it gets there in time or not. Likewise, a
+shell seeking to shake off some hot pursuit will have
+to pull off some fancy maneuvering and hopefully find
+a shortcut or two in order to outrace their opponents.
+
+CRASHING
+Shells that suffer wounds during combat or chases
+may be force to make a Pilot Test to avoid crashing
+or may crash automatically. The exact circumstances
+of a crash are left up to the gamemaster, as best fits
+the story—the shell may simply skid to a stop, plow
+into a tree, fall from the sky, or flip over and land on
+a group of bystanders. Shells that strike other objects
+when they crash typically take further damage from
+the collision (see Collisions).
+
+COLLISIONS
+If a shell crashes into or intentionally rams a person
+or object, someone is likely to get hurt. To determine
+how much DV is inflicted, roll 1d10 and add the shell’s
+DUR divided by 10 (round up). This is the damage
+applied at walking speeds. If the shell was moving at
+running speeds, multiply the DV by 2. If the shell was
+moving at chase speeds, multiply the DV by the shell’s
+velocity ÷ 10 in meters per turn. Both the shell and
+whatever it strikes suffer this damage, assuming the
+collision is with something equal dense and hard. Soft
+and squishy objects like biomorphs will be less dam-
+aging to a shell (unless they happen to be in a hardsuit
+or battlesuit), in which case the shell will only suffer
+half damage from the collision. Kinetic armor defends
+against crash DV.
+   If two moving shells collide head-on, calculate the
+damage from both and inflict to both. If two shells
+moving in the same direction collide, only count the
+difference in velocity.
+   Passengers in a vehicle may also be damaged by col-
+lisions if they are not wearing proper safety restraints.
+They suffer one half the DV applied to their vehicle.
+
+
+
+         COLLISION DAMAGE
+   Base Collision DV: 1d10 + (DUR ÷ 10)
+   Running: DV x 2
+   Chase Speeds: DV x (velocity ÷ 10)
+ATTACKING VEHICLE PASSENGERS
+During combat, passengers within a vehicle may be
+targeted separately from the vehicle itself. Attacks
+made against passengers this way do not harm the
+vehicle itself (unless an area effect weapon is used).
+Targeted passengers benefit both from cover (usually
+Major, –30) and from the vehicle’s structure, adding
+the vehicle’s Armor Value to their own.
+  Passengers within a vehicle are generally not harmed
+by attacks made against the vehicle itself. Exceptions
+include area effect weapons and vehicle crashes. In
+both these cases, the passengers also benefit from the
+vehicle Armor Value.
+
+SHELL REMOTE CONTROL
+Any shell (or biomorph) with a puppet sock (also in-
+ cluded with all cyberbrains) may be remote controlled,
+ either by a character or a remote AI. This requires a
+ communications link between the teleoperator and
+ the shell (the “drone”). The teleoperator controls the
+ drone via an entoptic interface, and receives sensory
+input and other data via the drone’s mesh inserts.
+   When under direct control, the shell’s AI (or resident
+ ego) is subsumed and put on standby. The drone only
+ acts as instructed. Each instruction counts as a Quick
+Action. In this situation, the drone acts with the same
+Initiative as the teleoperator. The teleoperator’s skills and
+ stats are used in place of the shell AI’s. Due to the nature
+ of remote operation, however, all tests are made with a
+–10 modifier. Multiple drones may be controlled at once,
+but commanding them requires separate Quick Actions
+unless they are receiving the same command. Direct
+ control teleoperation is not very feasible at extreme dis-
+ tances, due to the light-speed lag with communications.
+   Alternately, the teleoperator can put the drone in
+autonomous mode, allowing the shell’s AI to resume
+ normal operations. The drone still follows the teleop-
+ erator’s commands to the best of its abilities. In this
+ mode, the drone functions normally, using its own
+Initiative and AI skills and stats.
+
+SHELL JAMMING
+“Jamming” is the colloquial term for a more direct
+ form of remote-control, using VR and XP technol-
+ ogy. When jamming, the drone’s puppet sock feeds
+ the drone’s sensory data directly to the teleoperator’s
+ mesh inserts. The teleoperator subsumes themself in
+ the drone’s sensorium, essentially “becoming” the
+ drone. In this case, the teleoperator surrenders con-
+ trol of their own morph, which slumps inertly. While
+ jamming, they suffer –60 on all Perception Tests or
+ attempts to take action with their morph.
+   Jamming takes a Complex Action to engage and
+ disengage. A jamming teleoperator controls a drone
+ as if it were their own morph. Like direct control te-
+ leoperation, the jammer’s own skills and Initiative are
+ used in place of the drone’s AI. Jammers do not suffer
+ any teleoperation modifiers, but only one drone may
+ be jammed at a time.

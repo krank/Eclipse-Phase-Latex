@@ -1,0 +1,60 @@
+operatives exists for this purpose). [Low to Moderate      SOFTWARE
+per month]                                                 For information on using software, see the Mesh chap-
+   Body Bank: People who are egocasting to another         ter, p. 234.
+station but whom hope to download back into the
+same body they have before when they return may            PROGRAMS
+put the morph on ice for the duration of their absence.    These programs can be run on any computerized device.
+[Moderate per month]                                          AR Illusions: These databases of AR clips can be used
+   Bot/Pod Rental: When you need a helping hand or         to create realistic illusions in someone’s entoptic display.
+a personal companion for a day or two, renting a bot       See Augmented Reality Illusions, p. 259. [Moderate]
+or pod is often the way to go. [Moderate per day]             Exploit: Exploits are hacker tools that take advan-
+   Egocasting: This is the use of a farcaster to trans-    tage of known vulnerabilities in other software. They
+mit an ego/infomorph. Farcasting is not cheap, and         are required for intrusion attempts (p. 254). [High]
+the cost is impacted by factors such as distance to           Facial/Image Recognition: This program can be
+receiver station and priority service (paying extra to     used to take an image and run a pattern-matching
+get bumped ahead in line). [Expensive]                     search among public archives. Similar version of this
+   Fake Ego ID: This forged ID will pass in most inner     program exist for other biometrics: gait recognition,
+system and Jovian Republic habitats, and sometimes         vocal recognition, etc. [Low]
+others. [High]                                                Firewall: This program protects a device from
+   Morph Brokerage: Acquiring a new morph is not           hostile intrusion. Every system comes with a standard
+always easy and is affected by factors such as the type    version of this software by default. [Low]
+of morph, sought-after enhancements/customizations,           Sniffer: Sniffer programs collect all of the transmis-
+and local availability. Numerous brokerage services        sion that pass to, from, or through the device they are
+exist to find you what you need, or close to it. With      running on. See Sniffing, p. 252. [Moderate]
+enough lead-time, it may be possible to grow a pod            Spoof: Spoof is a hacker tool used to fake com-
+that closely imitates your morph of choice. A willing-     mands and transmissions, making them seem as if
+ness to accept used/traded-in morphs helps to reduce       they came from another source. See Spoofing Authen-
+costs. For more details, see Morph Brokerage, p. 276.      tication, p. 255. [Moderate]
+   Psychosurgery: A character can purchase time in an         Tactical Networks: These programs allow people in
+immersive high-fidelity simulspace with expert care        the same squad to share tactical data in real-time. See
+from psychosurgeons and AIs in order to cope with          Tactical Networks, p. 205. [Moderate]
+derangements and disorders that build up as a result          Tracking: This software is used to track people by
+of existing in a transhuman universe. For an addi-         their presence online. See Scanning, Tracking, and
+tional price the procedure can be time shifted to speed    Monitoring, p. 251. [Moderate]
+up the relative time within the simulspace. For more          XP: Experience playback recordings are clips of
+details, see Mental Healing and Psychotherapy, p. 215,     someone else’s experiences. Depending on the content,
+and Psychosurgery, p. 229. [Moderate per month]            some XP (porn, snuff, crime, etc.) may be restricted in
+   Simulspace Subscription: This will by you access to     certain jurisdictions. Some XP clips are intentionally
+the simulspace of your choice, whether you want it for     modified so that their emotive tracks are more intense,
+a private meeting/vacation or to play the latest and       giving the viewer a greater thrill. [Low to High]
+hottest VR game. [Low (single use/1 day) to Moderate
+(monthly subscription)]                                    AIS AND MUSES
+   Space Travel: Space transport cost depends on a         Every character starts with a personal muse for free.
+number of factors like distance, quality of lodgings,      Many devices also come with pre-installed AIs, ca-
+and how much cargo you’re bringing with. At the low        pable of helping the user, responding to commands, or
+end, an intra-habitat shuttle trip within the same clus-   even operating the device on their own. Rules for AIs
+ter, or a trip to or from a planetary body’s surface and   can be found on p. 264.
+orbit, is not cheap but affordable [High]. Just about         Below are some commonly available AI programs.
+anything else is progressively more costly. [Expensive]    Unless otherwise noted, these AIs have aptitudes of 10.
+                                                           These AIs may also be equipped with skillsofts (p. 332).
+                                                              Bot/Vehicle AI: These AIs are designed to be capa-
+                                                           ble of piloting the robot/vehicle without transhuman
+                                                           assistance. REF 20. Skills: Hardware: Electronics 20,
+                                                           Infosec 20, Interests: [Bot/Vehicle] Specs 80, Interface
+                                                           40, Research 20, Perception 40, Pilot: [appropriate
+                                                           field] 40. [High]
+                                                              Device AI: These AIs are designed to operate a par-
+                                                           ticular device without transhuman assistance. Skills:
+                                                           Infosec 20, Interests: [Device] Specs 80, Interface 30
+                                                           (Device Specialization), Programming 20, Research 20,
+                                                           Perception 20. [Moderate]

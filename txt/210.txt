@@ -1,0 +1,117 @@
+ requires either backup insurance (p. 269) or the good
+ graces of whomever ends up with their body/stack.
+    If the cortical stack is not retrievable, the character
+ still be re-instantiated from an archived backup (p.
+ 268). Again, this either requires backup insurance or
+ someone who is willing to pay to have them revived.
+    If the character’s cortical stack is not retrieved
+ and they have no backup, then they are completely
+ and utterly dead. Gone. Kaput. (Unless they happen
+ to have an alpha fork of themselves floating around
+ somewhere; see Forking and Merging, p. 273.)
+
+
+
+ HEALING AND REPAIR
+ Use the follow rules for healing and repairing dam-
+ aged and wounded characters.
+
+ BIOMORPH HEALING
+ Thanks to advanced medical technologies, there are
+ many ways for characters in biological morphs (in-
+ cluding pods) to heal injuries. Medichine nanoware
+ (p. 308) helps characters to heal quickly, as do nano-
+ bandages (p. 333). Healing vats (p. 326) will heal even
+ the most grievous wounds in a matter of days, and
+ can even restore characters who recently died or have
+ been reduced to just a head.
+   Characters without access to these medical tools are
+ not without hope, of course. The medical skills of a
+ trained professional can abate the impact of wounds,
+ and over time bodies will of course heal themselves.
+
+ MEDICAL CARE
+ Characters with an appropriate Medicine skill (such
+ as Medicine: Paramedic or Medicine: Trauma Sur-
+ gery) can perform first aid on damaged or wounded
+ characters. A successful Medicine Test, modified as
+ the gamemaster deems fit according to situational
+ conditions, will heal 1d10 points of damage and will
+ remove 1 wound. This test must be made within 24
+ hours of the injury, and any particular injury may only
+ be treated once. If the character is later injured again,
+ however, this new damage may also be treated. Medi-
+ cal care of this sort is not effective against injuries that
+ have been treated with medichines, nanobandages, or
+ healing vats.
+
+
+
+                                                                  HEA
+CHARACTER SITUATION
+Character without basic biomods
+Character with basic biomods
+Character using nanobandage
+Character with medichines
+Poor conditions (bad food, not enough rest/heavy activity,
+poor shelter and/or sanitation)
+Harsh conditions (insufﬁcient food, no rest/strenuous activity,
+little or no shelter and/or sanitation)
+  NATURAL HEALING
+  Characters trapped far from medical technology—in
+  a remote station, the wilds of Mars, or the like—may
+  be forced to heal naturally if injured. Natural healing
+  is a slow process that’s heavily influenced by a number
+  of factors. In order for a character to heal wounds,
+  all normal damage must be healed first. Consult the
+  Healing table.
+
+  SURGERY
+ In Eclipse Phase, most grievous injuries can be han-
+ dled by time in a healing vat (p. 326) or simply rest
+ and recovery. In circumstances where a healing vat is
+ not available, the gamemaster may decide that a par-
+ ticular wound requires actual surgery from an intelli-
+ gent being (whether a character or AI-driven medbot).
+ Usually in this case the character will be incapable of
+ further healing until the surgery occurs. The surgery
+ is handled as a Medical Test using a field appropriate
+ to the situation and with a timeframe of 1–8 hours. If
+ successful, the character is healed of 1d10 damage and
+ 1 wound and recovers from that point on as normal.
+
+  SYNTHMORPH AND OBJECT REPAIR
+  Unlike biomorphs, synthetic morphs and objects do not
+  heal damage on their own and must be repaired. Some
+  synthmorphs and devices have advanced nanotech self-
+  repair systems, similar to medichines for biomorphs (see
+  Fixers, p. 329). Repair spray (p. 333) may also be used
+  to conduct fixes and is an extremely useful option for
+  non-technical people. Barring these options, technicians
+  may also work repairs the old-fashioned way, using
+  their skills and tools (see Physical Repairs, below). As a
+  last resort, synthmorphs and objects may be repaired in
+  a nanofabrication machine with the appropriate blue-
+  prints (using the same rules as healing vats, p. 326).
+
+  PHYSICAL REPAIRS
+  Manually fixing a synthmorph or object requires a
+  Hardware Test using a field appropriate to the item
+  (Hardware: Robotics for synthmorphs and bots,
+  Hardware: Aerospace for aircraft, etc.), with a –10
+  modifier per wound. Repair is a Task Action with
+  a timeframe of 2 hours per 10 points of damage
+  being restored, plus 8 hours per wound. Appropriate
+
+
+
+ING
+AMAGE HEALING RATE              WOUND HEALING RATE
+  1d10 (5) per day                     1 per week
+1d10 (5) per 12 hours                  1 per 3 days
+ 1d10 (5) per 2 hours                   1 per day
+ 1d10 (5) per 1 hour                  1 per 12 hours
+
+  double timeframe                  double timeframe
+
+   triple timeframe                 no wound healing

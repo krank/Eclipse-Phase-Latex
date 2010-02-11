@@ -1,0 +1,118 @@
+  without receiving any bonus CP. The gamemaster
+  and player should agree on a disorder appropriate
+  to the character. This disorder may be treated over
+  time, according to normal rules (see Mental Healing
+  and Psychotherapy, p. 215).
+• Characters with the Psi trait are also vulnerable to
+  infection by other strains of the Exsurgent virus.
+  The character suffers a –20 modifier when resisting
+  Exsurgent infection (p. 362).
+• Critical failures when using psi tend to stress the
+  async’s mind. Each time a critical failure is rolled
+  when making a sleight-related test, the async suffers
+  a temporary brain seizure. They suffer a –30 modi-
+  fier and are incapable of acting until the end of the
+  next Action Turn. They must also succeed in a WIL
+  + COG Test or fall down.
+
+PSI SKILLS AND SLEIGHTS
+Transhuman psi users can manipulate their egos and
+otherwise create effects that can often be neither
+matched nor mimicked by technological means. To use
+these abilities, they train their mental processes and
+practice cognitive algorithms called sleights, which
+they can subconsciously recall and use as necessary.
+Sleights fall into two categories: psi-chi (cognitive
+enhancements, p. 223) and psi-gamma (brainwave
+reading and manipulation, p. 225). Psi-chi sleights are
+available to anyone with the Psi trait (p. 147), but psi-
+gamma sleights are only available to characters with
+the Psi trait at Level 2. In order to use these sleights,
+the async must be skilled in the Control (p. 178), Psi
+Assault (p. 183), and/or Sense skills (p. 184), as ap-
+propriate to each sleight.
+
+ROLEPLAYING ASYNCS
+Any player who chooses to play an async should keep
+the origin of their abilities in mind: Watts-MacLeod
+strain infection. The character may not be aware of
+this source, but they undoubtedly know that they un-
+derwent some sort of transformation and have talents
+that no one else does. If unaware of the infection, they
+have likely learned to keep their abilities secret lest
+they be ridiculed, attacked, or whisked away to some
+secret testing program. Learning the truth about their
+nature could even be the starting point of a campaign
+and/or their introduction to Firewall. If they know the
+truth, however, the character must live with the fact
+that they are the victim of a nanoplague likely spread
+by the TITANs that may or may not lead to complica-
+tions, side effects, or other unexpected revelations in
+their future.
+   Gamemasters and players should make an effort
+to explore the nature of this infection and how the
+character perceives it. As noted previously, asyncs are
+often profoundly-changed people. The invasive and
+alien aspect of their abilities should not be lost on
+them. For example, an async might conceive of their
+psi talents as a sort of parasitic entity, living off their
+sleights, or they might feel that using these powers
+puts them in touch with some sort of fundamental
+substrate of the universe that is weird and terrifying.
+Alternately, they could feel as if their personality was
+melded with something different, something that
+doesn’t belong. Each async is likely to view their situ-
+ation differently, and none of them pleasantly.
+
+USING PSI
+Using psi—i.e., drawing on a certain sleight to pro-
+cure some kind of effect—does not always require a
+test. Each sleight description details how the power
+is used.
+
+ACTIVE PSI
+Active psi sleights must be “activated” to be used.
+These sleights usually require a skill test. Sleights that
+target other sentient beings or life forms are always
+Opposed Tests, while others are handled as Success
+Tests. The level of concentration required to use these
+sleights varies, and so may call for a Quick, Complex,
+or Task Action. Active sleights also cause strain (p.
+223) to the async. Most psi-gamma sleights fall into
+this category.
+
+PASSIVE PSI
+Passive psi sleights encompasses abilities that are con-
+sidered automatically active and subconscious. They
+rarely require an action to be activated and require
+no effort or strain by the psi user. Passive sleights typi-
+cally add bonuses to various activities or allow access
+to certain abilities rather than calling for some kind of
+skill test. Most psi-chi sleights fall into this category.
+
+PSI RANGE
+Sleights have a Range of either Self, Touch, or Close.
+   Self: These sleights only affect the async.
+  Touch: Sleights with a Touch range may be used
+against other biological life, but the async must have
+physical contact with the target. If the target avoids
+being touched, this requires a successful melee attack,
+applying the touch-only +20 modifier. This attack
+does not cause damage, and is considered part of the
+same action as the psi use.
+   Close: Close sleights involve interaction with other
+biological life from a short distance. The optimal dis-
+tance is within 5 meters. For each meter beyond that,
+apply a –10 modifier to the test.
+   Psi vs. Psi: Due to the nature of psi, sleights are
+more effective against other psi users. Sleights with
+a range of Touch may be used from a Close range
+against another async. Likewise, a sleight with a Close
+range may be used at twice the normal distance (10
+meters) when wielded on another async.
+
+TARGETING
+Synthmorphs, bots, and vehicles may not be targeted
+by psi sleights, as they lack biological brains. Pods—
+with brains that are half biological and half com-
+puter—are less susceptible and receive a +30 modifier

@@ -1,0 +1,120 @@
+   Emergency Distress Beacon: This small but power-
+ful transmitter is powered by a nuclear battery and
+will broadcast any programmed distress call for years.
+Though portable and medium-sized, this beacon has
+a range of 500 km in urban areas and 5,000 km else-
+where. [Moderate]
+   Flashlight: These handheld, wearable, or portable
+lights can display light in the normal visual spectrum,
+infrared, or ultraviolet, as desired. [Trivial]
+   Nanobandage: Characters without medichines must
+rely on external sources of healing. The most common
+option is the nanobandage—a plum-sized advanced
+nanotechnology generator built into a reusable, self-
+sterilizing bandage. It can treat all forms of injury and
+illness, from poisoning to burns to trauma. Characters
+simply apply the bandage to the wound and let the
+nanobots do the work. It removes pain and discom-
+fort and speeds healing (see Biomorph Healing, p.
+208). For especially severe injuries, physical first aid
+such as setting bones and removing projectiles may
+be necessary (gamemaster’s choice). If the wounds are
+too severe (the patient has suffered more than five
+wounds), the unit places the patient in medical stasis
+and radios for emergency services. [Trivial]
+   Repair Spray: This nanobot generator creates
+nanobots designed to repair synthmorphs, vehicles,
+and other common objects. Repair spray contains
+the specifications and plans for almost all commonly
+used synthmorphs and devices and is a ubiquitous
+household item. If it does not contain the specifica-
+tions for something it is being used to repair, it must
+query the object’s voice for these details, otherwise it
+cannot repair it. Simply touch it to the damaged area,
+push the button on top, and it sprays out a number of
+nanobots sufficient to make repairs. These nanobots
+repair 1d10 points of damage per 2 hours. Once all
+damage is restored, the nanobots repair wounds at
+the rate of 1 per day. Repair spray also cleans and
+polishes items and returns them to a pristine and
+new state. Repair spray is not effective on any object
+with more than 3 wounds, but it provides a +30 to
+all repair rolls on anything too badly damaged for it
+to fully repair (see Synthmorph and Object Repair, p.
+208). [Low]
+   Shelter Dome: A variant of the emergency bubble,
+this package unfolds into a dome with a 2.5-meter
+ceiling and a floor 4 meters across. To safely use this
+shelter, it must be staked down to the surface it is
+placed on. [Moderate]
+   Spindle: A spindle is an advanced nanotechnology
+generator that produces a super-strong cable. It can
+produce up to 2 kilometers of 0.2 millimeter diameter
+line than can support up to 250 kilograms before it
+needs more raw materials. The spindle can produce
+up to 20 meters of cable every second. It can produce
+line in a continuous length or cut the cable it produces
+to any length. Spindles can also reabsorb their cable,
+retracting it at a rate of 5 m per second. As long as
+it is recharged and has small amounts of additional
+material added every 1,000 hours of use, a spindle
+can keep producing and retracting cable indefinitely.
+By setting the maximum production speed at 10 m/
+second a character with a spindle can safely jump
+off a building and land safely, using the cable to slow
+their descent. [Moderate]
+   Spindle Climber: This device attaches to a spindle
+and transforms it into a highly effective climbing
+device. The spindle climber has two functions. First, it
+attaches hardened tips to the spindle’s cable and fires
+it at high speed, up to 50 meters, with sufficient force
+to imbed the tip into almost any sufficiently durable
+surface. Second, the spindle climber can pull itself and
+up to 250 kg up the cable at a speed of up to 2 m/sec.
+A spindle climber has enough power to shoot and pull
+up the cable 50 times before it must be recharged. A
+spindle fits inside a spindle climber. [Low]
+
+VACUUM SUITS
+Most vacuum suits are skin-tight garments that use
+the pressure of their advanced smartfabrics on the
+wearer’s body to resist vacuum. When the wearer is in
+a breathable atmosphere, the smartfabric also loosens
+the suits to serve as ordinary clothing or be easily
+put on or taken off. In all cases, the suits can become
+skin-tight within 3 Action Turns. All vacsuits contain
+advanced rebreather units capable of maintaining a
+breathable atmosphere for several hours or days.
+   Light Vacsuit: Everyone living in a sealed habitat
+owns at least one of these suits. They come in a vari-
+ety of forms. Inexpensive versions are typically light-
+weight jumpsuits made of simple smart fabric that
+adjusts to fit and folds up small enough to fit into a
+coat pocket. The best models include suits of high-end
+smart clothing that can transform into a vacsuit and
+an advanced nanotech generator the size of a large
+orange that deploy nanobots that cover the user and
+fit together into a vacuum suit. Both can transform
+into a vacsuit in 2 full Action Turns and do so either
+on command or if their sensors reveal that life sup-
+port is needed.
+   All models include a lightweight belt or torc
+containing a miniature oxygen tank and advanced
+rebreather unit that provides 3 hours of air. How-
+ever, the suits contain no food or water recycling. All
+models include an ecto (p. 325) and a headlight, but
+typically little else beyond atmosphere sensors to let
+the wearer know when it is safe to take off the suit.
+They protect the wearer from temperatures from –75
+to 100 C. These vacuum suits also provide an Armor
+rating of 5/5 and instantly self-seal breaches unless
+more than 20 points of damage are inflicted at once.
+[Low, Moderate for smartfabric suits]
+   Standard Vacsuit: These suits resemble light vac-
+suits made from thicker and more durable materials
+that resist tearing and provides the wearer with light
+armor. They are fitted with more substantial life sup-
+port belts that includes a maker (p. 327) capable of
+recycling all wastes and producing air for up to 48
+hours and food and water indefinitely. The best suits
+are made of smart materials that can transform from

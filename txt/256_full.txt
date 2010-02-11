@@ -1,0 +1,40 @@
+by the user—can decrypt them. Public key crypto is           figure out some way to get the secret key’s passcode.
+widely used both for encrypting data traffic between         Common methods include the old standbys of bribery,
+two users/networks/devices and for encrypting                blackmail, threats, and torture. Other options involve
+files. Due to the strength of the public key system          espionage or social engineering to somehow acquire
+algorithms, such crypto is essentially unbreakable           the passcode. Hackers could also find some other
+without a quantum computer (see Quantum Code-                method to compromise the system and gain inside
+breaking, p. 254).                                           access, bypassing the encryption entirely.
+
+QUANTUM CRYPTOGRAPHY                                         QUANTUM CODEBREAKING
+Quantum key distribution systems use quantum me-             As noted above, quantum computers can also be used
+chanics to enable secure communications between two          to break public key encryption. This requires an Infosec
+parties by generating a quantum key. The major advan-        Task Action Test with a +30 modifier and a timeframe
+tage of transmitting information in quantum states is        of 1 week (once started, the quantum computer finishes
+that the system itself instantly detects eavesdropping       the job on its own; the user does not need to provide
+attempts as quantum systems are disturbed by any sort        constant oversight). Gamemasters should feel free to
+of external interference. In practical terms, this means     modify this timeframe as fits the needs of their game.
+that quantum encrypted data transfers are unbreakable        Note that quantum computers cannot break quantum-
+and attempts to intercept automatically fail. Note that      encrypted communications, only encrypted files.
+quantum crypto doesn’t work for basic file encryption,
+its only use is in protecting communication channels.
+   While quantum key systems have an advantage over          INTRUSION
+public key systems, they are both more expensive and         The art of intrusion lies in penetrating a device’s secu-
+less practical. In order to generate a quantum key,          rity. The best methods involve infiltrating a system qui-
+the two communications devices must be entangled             etly, without catching a watchdog’s attention, by using
+together on a quantum level, in the same location,           exploits—code glitches, flawed security protocols—to
+and then separated. So quantum key encrypted                 create a path circumventing the target’s defenses. When
+communications channels require some setup effort,           called for, however, a hacker can toss aside pretenses
+especially if long distances are involved. Since the         and attempt to brute-force their way in.
+implementation of quantum cryptographic protocols
+is an extraordinary expense, it is usually only adopted      PRECONDITIONS
+for major high-security communications links.                In order to hack a device, the hacker needs to establish
+                                                             a direct connection to the target computer system. If
+BREAKING ENCRYPTION                                          the hacker is making a direct wireless connection to
+What this means is that encrypted communications             the target, the target system must be wireless-capable
+lines and files are very safe if using public key systems,   and within range (p. 299), and the hacker must know
+and that data transfers are absolutely safe if using         the target is there (see Wireless Scanning, p. 251). If
+quantum crypto. Gamemasters should take note, how-           the system is hard-wired, the hacker must physically
+ever: while this may be useful to player characters, it      jack in by using a regular jacking port or somehow
+may also hinder them. If the characters need to get at       tapping into a cable that carries the network’s data
+something that is encrypted, they’re going to need to        traffic. If the hacker is accessing the target through the

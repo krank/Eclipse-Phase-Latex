@@ -1,0 +1,95 @@
+INTERROGATION
+    TIMEFRAME:   Variable (gamemaster discretion; 1 week default)
+    PM:          +30
+    SV:       1d10
+  Psychosurgery can be used for interrogative pur-
+poses via the application of mental torture and ma-
+nipulation. A successful Psychosurgery Test applies a
++30 modifier to the Intimidation Test for interrogation.
+
+MEMORY EDITING
+    TIMEFRAME:   1 week (2 weeks adding/replacing)
+    PM:          –10 (willing) or –30 (forced)
+    SV:       (1d10 ÷ 2, round up)
+   By monitoring memory recall (forcibly invoked
+if necessary), psychosurgeons can identify where
+memories are stored in the brain and target them for
+removal. Memory storage is complex and diffused,
+however, and often linked to other memories, so re-
+moving one memory may affect others (gamemaster
+discretion).
+  Adding or replacing memories is a much more com-
+plicated operation and requires that such memories be
+copied from someone who has experienced them or
+manufactured with XP software. Even when success-
+fully implanted, fake memories may clash with other
+(real) memories unless those are also erased.
+
+PERSONALITY EDITING
+    TIMEFRAME:   1 week
+    PM:          Minor –10; Moderate –20, Major –30
+    SV:        (1d10 ÷ 2, round up) + 3
+   Possibly the most drastic psychosurgery procedure,
+personality editing involves altering the subject’s core
+personality traits. The personality factors that may be
+modified is almost unlimited, including traits such as
+openness, conscientiousness, altruism, extroversion/
+introversion, impulsiveness, curiosity, creativity, con-
+fidence, sexual orientation, and self-control, among
+others. These traits may be enhanced or reduced to
+varying degrees. The effect is largely reflected by role-
+playing, but the gamemaster may apply modifiers as
+they see fit.
+
+PSYCHOTORTURE
+    TIMEFRAME:   Variable
+    PM:          +30
+    SV:       1d10 SV per day
+  Psychotorture is mental manipulation for the simple
+intention of causing pain and anguish, reflected in
+game terms as mental stress and traumas. Prolonged
+torture can lead to serious mental disorders or worse.
+PSYCHOTHERAPY
+    TIMEFRAME:   Variable
+    PM:          +0
+    SV:        0
+  Therapeutic psychosurgery is beneficial for charac-
+ters suffering from mental stress, traumas, and disor-
+ders. A successful Psychosurgery Test applies a +30
+modifier to mental healing tests, as noted on p. 215.
+
+SKILL IMPRINTS
+    TIMEFRAME:   1 week per +10
+    PM:          +0
+    SV:        1 per +10
+  Skill imprinting is the use of psychosurgery to insert
+skill-set neural patterns in the subject’s brain, tempo-
+rarily boosting their ability. Skill imprints are artificial
+boosts, however, degrading at the rate of –10 per day.
+No skill may be boosted higher than 60.
+
+SKILL SUPPRESSION
+    TIMEFRAME:   1 day per –10
+    PM:          –10
+    SV:       1 per +10
+  Skill suppression attempts to identify where skills
+are stored in the brain and then block or remove
+them. The subject’s skill is impaired and may be lost
+entirely.
+
+TASPING
+    TIMEFRAME:   1 day
+    PM:          +10
+    SV:         1
+   Tasping is the use of deep brain stimulation tech-
+niques to tickle the mind’s pleasure centers. Though
+this procedure is often used for therapeutic purposes
+for patients suffering from depression or other mental
+illnesses, the intent with tasping is to overload the
+subject into a prolonged state of almost unendurable
+bliss. Such stimulation is highly addictive, however, so
+character’s exposed to it for any length of time (over
+1 hour, subjective) are likely to pick up the Addiction
+trait (p. 148). Some criminal organizations have been
+known to use tasping addiction and rewards as a
+means of controlling those under their thrall.

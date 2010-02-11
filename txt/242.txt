@@ -1,0 +1,126 @@
+ E-tags are viewable in AR, and can hold almost any
+ type of data, though short notes and pictures are the
+ most common. E-tags are often linked to particular
+ social networks or circles within that network, so that
+ people can leave notes, reviews, memorabilia media,
+ and similar things for friends and colleagues.
+
+ SKINNING
+ Since reality can be overlaid with entoptics of hyper-
+ real quality, modern users can “skin” their reality by
+ modifying their perceptual input. Environments around
+ them may be modified to fit their particular tastes or
+ mood. Need your spirits boosted? Pull up a skin that
+ makes it seems like your outdoors, with the sun shining
+ down, the sounds of gentle surf in the background, and
+ butterflies drifting lazily overhead. Pissed off? Be com-
+ forted as flames engulf the walls and thunder grumbles
+ ominously in the distance. It is not uncommon for
+ people to go about their day, accompanied by their own
+ personal soundtrack that only they can hear. Even ol-
+ factory and taste receptors can be artificially stimulated
+ to experience sensations like the smell of roses, fresh air,
+ or freshly-baked pastries. While originally developed
+ to make “space food” less distasteful and as a method
+ to counter space-induced cabin fever for those that
+ weren’t born in space, vast archives of aromas, tastes,
+ and environments are available for download.
+    Skins do not need to be kept private, they may
+ also be shared with others via the mesh. Tired of
+ your cramped habitat cubicle? Decorate it with a
+
+
+
+
+JABBER
+       # Start Æther Jabber #
+       # Active Members: 2 #
+
+           1
+             I have to tell you, after losing Kiri and Sal to that Exsur
+             infection, my team is a lot more worried about contracting
+             virus from digital sources. Actually, I’d label them as paran
+             I don’t think they’ll ever touch any salvaged electronics a
+             unless they’re behind a zillion ﬁrewalls and the device is c
+             pletely isolated and tested by a delta fork loaded with e
+             antiviral ware we can ﬁnd ﬁrst. Even then, they’d rather sho
+             than access directly or hook it up to an important network. A
+             seeing what the virus did to Sal, I don’t blame them.
+       2
+             In our line of work, paranoia can be healthy.
+           1
+             Sure, but it’s also a pain in the ass. Security is always a tr
+             off. Firewall’s gotta have something up its sleeve that I can
+             along to the rest to put their guards at ease.
+       2
+             Yes ... and no. It’s complicated.
+           1
+             I don’t see why. Do we have a way of detecting and killing
+             thing or not?
+       2
+             Sort of.
+           1
+             You’re killing me.
+       2
+             Look. Ever since the Fall, we’ve had measures in plac
+             detect and counteract Exsurgent infections and all of the o
+custom-themed skin and share it with visitors to make
+them feel more comfortable. Found a new music track
+that livens up your day? Share it with others around
+you, so they can nod to the same beat.
+  Skinning can also be used for the opposite effect.
+Any undesired content of reality can be edited out,
+veiled, or censored by modern software programs or
+muses that engage in real-time editing. Tired of look-
+ing at someone’s face? Add them to your killfile, and
+you’ll never have to acknowledge their presence again.
+AR censorware is also common in some communities
+with strict religious or moral convictions.
+
+VIRTUAL REALITY
+Virtual reality overrides the user’s physical senses and
+places them inside an entirely computer-generated
+environment called a simulspace. While AR is used
+for all common day activities and interactions, VR is
+used mainly for recreation (gaming, virtual tourism,
+escapism), socializing, meeting (when face-to-face
+meetings are not possible), and training. Dedicated
+networks with high-capacity information processing
+are required to render and run large and complex
+hyper-real simulspaces with many users, and these
+are often hard-wired for additional stability. Smaller
+simulspaces capable of hosting a smaller amount of
+users can be run on a smaller distributed network of
+linked devices. Many infomorphs and AIs effectively
+reside within simulspaces, and some transhumans
+have sworn off the physical world altogether.
+
+
+
+
+      worms and malware the TITANs concocted. Firewall went to
+      great lengths to make sure that everyone had access to the
+      detection signatures and countermeasures—and we mean ev-
+      eryone. They’ve been incorporated in almost every commercial
+      and open source security software released in the past decade.
+      Every habitat in the system—well, every one with a lick of
+      sense anyway—employs such measures in their chokepoints
+      and mesh infrastructure.
+    1
+      I sense a “but.”
+2
+      Yes. The problem is that the Exsurgent virus and similar TITAN
+      infowar worms are adaptive. They’re intelligent. Even though
+      we mostly eradicated them from our networks, new versions
+      periodically pop up, using some new trick to get past the
+      Firewall scans and wreak havoc. Our warning and outbreak
+      response system has it down to a science, and such instances
+      are usually contained.
+    1
+      Usually.
+2
+      Well, there’s always the chance that variants are still skipping
+      around out there, under our radar. What’s worse to contemplate,
+      though, is that we may get another major outbreak that spreads
+      to multiple habitats before we can contain it. That might get
+      very, very bad, very, very quickly.

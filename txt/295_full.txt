@@ -1,0 +1,60 @@
+hives so that they can share materials and power.            • All explosives and grenades by their chemical
+   Anyone passing through the room is likely to be             particulate emissions (–30 to conceal)
+dosed with taggant nanobots. Once they lose proxim-          • Poisons and bioagents in flechette weapons
+ity to the rest of the hive, they hide and periodically      • Any weapon or device larger than palm size
+broadcast pulsed transmissions meant to give their po-         (using sound waves and shape recognition)
+sition to pursuers or investigators. Some may drop off
+in clusters to form a breadcrumb trail to the interloper.     Characters trying to sneak weapons and gear past
+                                                            personal weapon scanners must make a Palm-
+SENSORS                                                     ing Test (if concealing) or an Infiltration
+Any of the various sensors described in the Gear            Test (if somehow maneuvering around
+chapter (p. 294) may be deployed within a facility          without notice). This is opposed by a
+to monitor and record the passage of personnel,             Perception Test from the character or
+both authorized and not. These sensors are typically        AI manning the sensor system.
+slaved to the facility’s security network and closely
+monitored by security AIs, meaning they are vulner-         WIRELESS SCANNING
+able to hacking and possibly jamming. A few other           Some high-security areas will in-
+sensor types deserve mention here:                          tentionally monitor for wireless
+   Chemical Sniffers: The chem sniffer described on         radio signals originating within
+p. 311 can also be set to detect the carbon dioxide         their area as a way of detect-
+exhaled in transhuman breaths. This is useful for           ing intruders by their com-
+detecting intruding biomorphs in areas that are             munications emissions. These
+abandoned/off-limits.                                       signals can even be used to
+   Electrical Sensors: Electrical sensors can be set in     track the intruder’s location via
+portals to detect a biomorph’s electromagnetic field        triangulation and other means
+in addition to the electrical fields of synthmorphs.        (see Physical Tracking, p. 251).
+   Heartbeat Sensors: These sensitive sensors detect        To bypass wireless detection sys-
+the vibration caused by transhuman heart beats.             tems, covert operatives can use
+They can even be used to detect the heartbeats of           line-of-sight laser links (p. 313)
+passengers inside a large vehicle.                          for communication or touch-based
+   Seismic Sensors: Embedded in flooring, these sen-        skinlinks (p. 309).
+sors pick up the pressure and vibration of weight
+and movement.                                               ACTIVE COUNTERMEASURES
+                                                            When all else fails, active counter-
+WEAPON SCANNERS                                             measures may be deployed against
+Weapon scanners come in several varieties, includ-          intruders. While live transhu-
+ing those that look for the rare elements used in           man guards are sometimes
+extremely destructive weapons such as nukes, those          used, robotic sentries are more
+that attempt to locate personal weaponry, and those         common, typically AI-driven
+that look for detection taggants.                           synthmorphs such as synths,
+   Rare element scanners are nearly flawless and are        slitheroids, arachnoids, or
+ubiquitous in habitat customs and spaceports. The           reapers, with guardian angels
+only way to circumvent them is to find an alternate         (p. 346) providing air support.
+route into the protected area.                              Occasionally AI-operated gun
+   Personal weapon scanners can monitor a specific          emplacements—armored tur-
+area, such as a small room or doorway. They use             rets that pop out of walls and
+a number of sensing systems to detect and identify          ceilings—are also applied. In
+weapons and other dangerous objects, including              some circumstances, these shells
+chemical sniffers and radar/terahertz/infrared/x-ray/       are teleoperated or even jammed
+ultrasound imaging. They can detect the following           by transhuman security.
+items and substances:                                          dditional countermeasures brought
+                                                            to bear will depend on the facility in
+ • Metal used in kinetic weapons, seekers, and              question. Some sites will engage in active
+   flechette weapons                                        jamming, to deny the intruders any com-
+ • Devices with onboard hives of metallic nano-             munication. Others will deploy hostile nano-
+   bots (e.g., covert operations tools, spindles)           swarms and even chemical weapons.
+ • Magnetic elements in plasma guns and railguns
+ • Propellant from firearms ammunition and seek-
+   ers (–30 to conceal)
+ • Chemical fuels used in torch spray weapons
+   (–30 to conceal)

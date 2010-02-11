@@ -1,0 +1,89 @@
+           Tai is making a character. She decides to create a sal-     WIL to 10. She also wants to be smart and fast on her
+           vage retrieval/scavenger type who started as a Lunar        feet, so takes the extra 10 points that gives her and
+           Colonist but is now a Brinker. Together, her background     raises both COG and REF to 20. So her aptitudes are:
+           and faction give Tai +20 Networking: Autonomists skill,
+           +20 Networking: Hypercorps skill, +10 Pilot: Spacecraft     COG COO        INT     REF      SAV     SOM    WIL
+ EXAMPLE
+
+
+
+
+                                                                                                                                 EXAMPLE
+           skill, and +10 Pilot: Groundcraft skill. She also has +10    20  15         15      20       10      15    10
+           to two other skills (one Academic, Professional, or Tech-
+           nical) that she’ll choose later.                               She marks down her Moxie of 1 and gets her native
+              Tai starts with 105 points for aptitudes, which works    language (Chinese) at 85, both for free.
+           out to 15 each. She wants her character to be impulsive        Noting her 5,000 Credits, Tai divides her Rep score
+           and antisocial, so right away she lowers both SAV and       points evenly among @-rep and c-rep, taking 25 in each.
+
+                                                                         Example continued on p. 137 ➟ ➟ ➟
+
+STARTING APTITUDES                                                       character is given 1,000 CP, which may be used to
+Your character receives 105 free points to distribute
+                                                                         increase aptitudes, buy skills, acquire more Moxie,
+among their 7 aptitudes: Cognition, Coordination,
+                                                                         buy more credit, elevate your Rep, or purchase posi-
+Intuition, Reflexes, Savvy, Somatics, and Willpower
+                                                                         tive traits. You may also take on negative traits in
+(see Aptitudes, p. 123). (That breaks down to an aver-
+                                                                         order to get even more CP with which to customize
+age of 15 per aptitude, so it may be easiest to give
+                                                                         your character. This customization process should be
+each 15 and then adjust accordingly, raising some and
+                                                                         used to tweak your character and specialize them in
+lowering others.) Each aptitude must be given at least
+                                                                         the ways you desire.
+5 points (unless you take the Feeble trait, see p. 149),
+                                                                            If a gamemaster seeks a different level of gameplay,
+and no aptitude may be raised higher than 30 (unless
+                                                                         they can adjust this CP amount. If the gamemaster
+you take the Exceptional Aptitude trait, p. 146). Note
+                                                                         wants a scenario where the starting characters are
+that certain morphs (flats and splicers, for example)
+                                                                         younger or less experienced, they can lower the CP
+may also put a cap on how high your aptitudes may
+                                                                         to 800 or even 700. On the other hand, if you want
+be (see Aptitude Maximums, p. 124).
+                                                                         to create characters who start off as grizzled veterans,
+   For simplicity, it is recommended that aptitude
+                                                                         you can raise the CP to 1,100 or even 1,200.
+scores be handled as multiples of 5, but this is not a
+                                                                            Not all customizations are equal—aptitudes, for ex-
+necessity.
+                                                                         ample, are considerably more valuable than individual
+                                                                         skills. To reflect this, CP must be spent at a specific
+NATIVE TONGUE                                                            ratio according to the specific boost desired.
+Every character receives their natural Language skill
+at a rating of 70 + INT for free. This skill may be
+raised with CP (see below).                                                    CUSTOMIZATION POINTS
+STARTING MOXIE                                                                 15 CP = 1 Moxie point
+Every character starts off with a Moxie stat of 1 (see                         10 CP = 1 aptitude point
+Moxie, p. 122).                                                                 5 CP = 1 psi sleight
+                                                                                5 CP = 1 specialization
+CREDIT
+All characters are given 5,000 credits with which to                            2 CP = 1 skill point (61-80)
+purchase gear during character creation, unless you                             1 CP = 1 skill point (up to 60)
+have the Fall Evacuee or Re-instantiated background                             1 CP = 1,000 credit
+(in which case you start with 2,500 or 0 credits, re-
+                                                                                1 CP = 10 Rep
+spectively). See Purchasing Gear, p. 136, for more
+                                                                               Trait and morph costs vary as noted.
+details.
+
+REP                                                                      CUSTOMIZING APTITUDES
+Your character isn’t a complete newbie. You get 50
+                                                                         Raising your aptitude score is quite expensive at 10
+rep points to divide between the reputation networks
+                                                                         CP per aptitude point. As noted above, no aptitude
+of your choice (see Reputation and Social Networks,
+                                                                         may be increased above 30. Keep in mind that your
+p. 285).
+                                                                         morph may also provide certain aptitude bonuses.
+
+SPEND CUSTOMIZATION POINTS                                               INCREASING MOXIE
+Now that you have the basics of your character
+                                                                         Moxie may be raised at the cost of 15 CP per Moxie
+fleshed out, you can spend additional Customiza-
+                                                                         point. The maximum to which Moxie may be raised
+tion Points (CP) to fine-tune your character. Each
+                                                                         is 10.

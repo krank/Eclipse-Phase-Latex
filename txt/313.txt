@@ -1,0 +1,120 @@
+ suffers an off-hand modifier (p. 193). These limbs
+may be arms (with hand/grippers/etc.), legs, tentacle-
+like, or otherwise articulated and/or prehensile. Some
+ shells have rotational frames that allow them to move
+limbs around their body. [Low]
+    Fractal Digits: The synthmorph has “bush robot”
+digits that are capable of splitting into smaller digits,
+ and those smaller digits into micro digits, and so on
+down to the micrometer scale, allowing for ultra-fine
+manipulation. Apply a +20 COO modifier where such
+fine manipulation is a factor (such as detailed repair
+work). The bot must have functioning nanoscopic
+vision (p. 311) to get this bonus. [Moderate]
+    Hidden Compartment: The shell has a concealed
+ aperture for a shielded interior compartment, ideal for
+ storing valuables or smuggling contraband. Apply a
+–30 modifier to detect this compartment either manu-
+ ally or with sensor scans. [Low]
+    Magnetic System: A magnetic system allows the
+ shell to cling to most ferrous materials. This enables
+the character to walk in zero-G situations by magneti-
+ cally adhering surfaces, hang upside down, and hold
+onto devices without letting them drop or drift away.
+The shell receives a +30 modifier whenever maintain-
+ing a magnetic hold on something. [Low]
+    Modular Design: This shell is designed to lock to-
+ gether with similar modular morphs in different archi-
+tectural patterns to create larger gestalt forms. When
+united with other modules, the group is treated as a
+ single unit/morph, with shared capabilities. If dam-
+ aged and then separated, damage and wounds are dis-
+tributed evenly between modules; uneven amounts are
+ allocated randomly. The exact capabilities of different
+ shapes depends on the composition, and is largely left
+in the gamemaster’s hands. [High]
+    Pneumatic Limbs: The limbs are equipped with
+pneumatic cylinder systems that can generate up to
+1,500 pounds of thrust. This allows the shell to push
+off and make impressive jumps (a synth of human
+ size/weight can leap over 2 meters up). Apply a +20 to
+Freerunning Tests. A pneumatic limb used to strike an
+opponent in unarmed combat inflicts an extra 1d10
+damage. [Low]
+    Retracting/Telescoping Limbs: The shell’s limbs can
+ either be retracted completely inside it’s frame and/or
+ extended for extra length (usually up to 1 or 2 meters
+ extra). Telescoping limbs may give the shell a reach
+ advantage in melee combat (p. 204). [Low]
+    Shape Adjusting: This shell is made from smart
+materials that allow it to alter its shape, altering its
+height, width, circumference, and external features,
+while retaining the same mass. This modification is
+typically employed to reshape the morph into special
+ configurations adapted to specific tasks (for example,
+lengthening to crawl through a tunnel, widening its
+base for stability, expanding to reach out and attach
+to multiple access point simultaneously, and so on).
+This mod also allows the morph to change its features
+for disguise purposes; apply a +30 modifier to Dis-
+ guise Tests. [High]
+   Structural Enhancement: This modification bolsters
+the shell’s structural integrity, boosting its ability to
+take damage. Increase Durability by 10 and Wound
+Threshold by 2. [Moderate]
+   Swarm Composition: The shell is not a single unit
+but a swarm of hundreds of insect-sized robotic mi-
+crodrones. Each individual “bug” is capable of crawl-
+ing, rolling, hopping several meters, or using nano-
+copter fan blades for airlift. The cyberbrain, sensor
+systems, and implants are distributed throughout the
+swarm. Though the swarm can “meld” together into
+a roughly child-sized shape, the swarm is incapable of
+tackling physical tasks like grabbing, lifting, or hold-
+ing as a unit. Individual bugs, however, are quite ca-
+pable of interfacing with electronics. Swarms cannot
+carry most gear or wear armor, and may not make
+strength-based SOM-linked skill tests. For combat
+purposes, use the same rules as given for nanoswarms,
+p. 328. Damage and wounds are reflected as dam-
+aged/massacred bugs. The swarm may be “healed” by
+manufacturing more bugs.[High]
+   Synthetic Mask: The synthmorph is equipped
+with a realistic outer casing of faux-skin and care-
+fully sculpted to pass as a biomorph (perhaps even a
+particular person). The morph can cry, spit, have sex,
+and will even bleed if cut. Only a detailed physical
+examination or a radar, teraherz, or x-ray scan will
+detect the synthmorph’s true nature, and even then
+such exams/scans suffer a –30 modifier. [Moderate]
+   Weapon Mount: The shell carries a built-in (or built-
+on) weapon. This weapon mount may be either internal
+(concealed, only weapons small in relation to the shell
+may fit, –30 to Perception Tests to detect) or external
+(visible). It may be fixed (one direction only), swiveling
+(limited field of fire), or on an articulated mount (all
+directions). [Low; Moderate for concealed/articulated]
+
+SENSORS
+360° Vision: The shell’s visual sensors are situated for
+a 360-degree field of vision. [Low]
+   Chemical Sniffer: This sensor detects molecules in the
+air and analyzes their chemical composition. It enables
+Chemistry Tests to determine the presence of gases, in-
+cluding toxins and other fumes. It can also detect the
+presence of explosives and firearms. [Moderate]
+   Lidar: This sensor emits laser light and measures
+the reflections to judge range, speed, and image the
+target. See Using Enhanced Senses, p. 302. [Low]
+   Nanoscopic Vision: The shell’s visual sensors can
+focus like a microscope, using advanced superlens
+techniques to beat the optical diffraction limit and
+image objects as small as a nanometer. This allows
+the character to view and analyze objects as small as
+blood cells and even individual nanobots. The synth-
+morph must stay relatively steady to view objects at
+this scale. [Moderate]
+   Radar: This sensor system bounces radio or micro-
+waves off targets and measures the reflected waves
+to judge size, composition, and motion. See Using
+Enhanced Senses, p. 302. [Low]

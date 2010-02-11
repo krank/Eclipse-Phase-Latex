@@ -1,0 +1,119 @@
+  Cryptography, Economics, Engineering, Genetics,
+  Geology, Linguistics, Mathematics, Memetics,
+  Nanotechnology, Old Earth History, Physics, Politi-
+  cal Science, Psychology, Sociology, Xeno-archeology,
+  Xenolinguistics, Zoology
+Specializations: As appropriate to the field
+
+ANIMAL HANDLING
+Type: Active, Social
+ Linked Aptitude: SAV
+   What it is: Skilled animal handlers are able to
+ train and control a wide variety of natural and trans-
+ genic animals, including partial uplifts. Though many
+ animal species went extinct during the Fall, a few
+“ark” and zoo habitats keep some species alive, and
+ many others can be resurrected from genetic samples.
+ Exotic animals are considered a sign of prestige
+ among the hypercorp elites, and guard animals are
+ occasionally used to protect high-security installations.
+ Likewise, many habitats and settlements employ small
+ armies of partially uplifted, genetically modified, and
+ behavior-controlled creatures for sanitation or other
+ purposes. Many new and strange breeds of animal are
+ created daily to serve a variety of roles.
+   When you use it: Animal Handling is used whenever
+you are trying to manipulate an animal, whether your
+ intent is to calm it down, keep it from attacking, in-
+ timidate it, acquire its trust, or goad it into attacking.
+Your Margin of Success determines how effective you
+ are at convincing the creature. At the gamemaster’s
+ discretion, modifiers may be applied to the test. Like-
+wise, winning an animal over may sometimes take
+ time, and so could be handled as a Task Action with a
+ timeframe of five minutes or more.
+ Specializations: Per animal species (dogs, horses, smart
+    rats, etc.)
+
+TRAINING ANIMALS
+Training animals is a time-consuming task requiring
+repeated efforts and rewards to reinforce the trained
+behavior. Treat this as a Task Action with a timeframe
+of one day to one month, depending on the complex-
+ity of the action. Apply modifiers to this test based on
+the relative intelligence of the animal being trained,
+how domestic it is, and the complexity of the task.
+   Once an animal has been trained, commanding
+it is treated as a Simple Success Test (p. 118) except
+for unusual or stressful situations, in which case the
+trainer receives a +30 modifier on their Animal Han-
+dling Tests when convincing the animal to complete
+the trained action.
+
+ART: [FIELD]
+Type: Field, Knowledge
+Linked Aptitude: INT
+  What it is: Art confers the ability to create and eval-
+uate artistic endeavors. This is a particularly useful
+skill in Eclipse Phase, especially in the post-scarcity
+economies where creativity and vision can be a key
+component to a character’s reputation.
+  When you use it: The Art skill can be used to either
+create a new work of art or to duplicate an existing
+piece of art in the hopes of passing it off as your own.
+The skill can also determine the approximate value of
+a piece of art either on the open market, for monetary
+exchange systems, or in terms of reputation for the
+artist.
+Sample Fields: Architecture, Criticism, Dance, Drama,
+  Drawing, Painting, Performance, Sculpture, Simul-
+  space Design, Singing, Speech, Writing
+Specializations: As appropriate to the field
+
+BEAM WEAPONS
+Type: Active, Combat
+Linked Aptitude: COO
+What it is: The Beam Weapons skill covers the usage
+and maintenance of standard coherent beam energy
+weapons such as lasers, particle beam weapons,
+plasma rifles, and microwave weapons (p. 338).
+  When you use it: A player uses their Beam Weap-
+ons skill whenever attacking with a beam weapon in
+combat (p. 191). Beam Weapons may also be used for
+tests involving maintenance of the weapon, but not
+for repairing or modifying the weapon (that would be
+Hardware: Armorer skill).
+Specializations: Lasers, Microwave Weapons, Particle
+  Beam Weapons, Plasma Rifles
+
+BLADES
+Type: Active, Combat
+Linked Aptitude: SOM
+  What it is: The Blades skill covers the usage and
+maintenance of standard bladed weapons (p. 334).
+  When you use it: A player uses their Blades skill
+whenever attacking with a blade weapon in melee
+combat (p. 191). Blades may also be used for tests
+involving maintenance of the weapon, but not for
+repairing or modifying the weapon (that would be
+Hardware: Armorer skill). This skill is used for blade
+weapons implanted in the body at the end of an ap-
+pendage (hands, forearms, feet, octomorph arms, etc.),
+but the Exotic Melee Weapon skill is used for blades
+implanted in other parts of the body.
+Specializations: Axes, Implant Blades, Knives, Swords
+
+CLIMBING
+Type: Active, Physical
+Linked Aptitude: SOM
+  What it is: Climbing is the skill of ascending and
+descending sheer surfaces with or without the aid of
+specialized equipment.
+  When you use it: This skill is used whenever a char-
+acter wishes to scale a climbable surface. For heights
+greater than one story, climbing is handled as a Task
+Action with a timeframe equivalent to one meter per
+Action Phase. For rappelling, the timeframe for de-
+scent is 50 meters per Action Turn. Climbing gear (p.
+332-333) provides appropriate modifiers.
+Specializations: Assisted, Freehand, Rappelling

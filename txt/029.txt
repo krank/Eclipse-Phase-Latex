@@ -1,0 +1,111 @@
+■ PAN: Personal area network. The network created when
+  you slave all of your minor personal electronics to your
+  ecto or mesh inserts.
+■ Pandora Gates: The wormhole gateways left behind by
+  the TITANs.
+■ Pods: Mixed biological-synthetic morphs. Pod clones are
+  force-grown and feature computer brains. Also known as
+  bio-bots, skinjobs, replicants. From “pod people.”
+■ Posthuman: A human or transhuman individual or
+  species that has been genetically or cognitively modiﬁed
+  so extensively as to no longer be human (a step beyond
+  transhuman). Aka parahuman.
+■ Prometheans: A group of transhuman-friendly seed AIs
+  that were created by the Lifeboat Project (precursors to
+  the argonauts) years before the TITANs became self-
+  aware and that (mostly) avoided Exsurgent infection. The
+  Prometheans secretly back Firewall and work to defeat
+  existential threats.
+■ Proxies: Members of the Firewall internal structure.
+■ Psi: Parapsychological powers acquired due to infection
+  by the Watts-MacLeod strain of Exsurgent virus.
+■ Reaper: A warbot synthmorph.
+■ Reclaimers: A transhuman faction that seeks to lift the
+  interdiction and reclaim Earth.
+■ Redneck: A rural Martian. See Barsoomian. Aka Reds.
+■ Reinstantiated: Refugees from Earth who escaped
+  only as bodiless infomorphs, but who have since been
+  resleeved.
+■ Resleeving: Changing bodies, or being downloaded into
+  a new one. Also called remorphing, reincarnation, shifting,
+  rebirthing.
+■ Rusters: Biomorphs optimized for life on Mars.
+■ Scorching: Hostile programs that can damage or affect
+  cyberbrains.
+■ Scum: The nomadic faction of space punks/gypsies that
+  travel from station to station in heavily-modiﬁed barges
+  or swarms of ships. Notorious for being a roving black
+  market.
+■ Seed AI: An AGI that is capable of recursive self-improve-
+  ment, allowing it to reach god-like levels of intelligence.
+■ Sentinels: Agents of Firewall.
+■ Shell: A synthetic physical morph. Aka synthmorph.
+■ Simulmorph: The avatar you use in VR simulspace
+  programs.
+■ Simulspace: Full-immersion virtual reality environments.
+■ Singularity: A point of rapid, exponential, and recursive
+  technological progress, beyond which the future becomes
+  impossible to predict. Often used to refer to the ascension
+  of seed AI to god-like levels of intelligence.
+■ Singularity Seeker: People who pursue relics and
+  evidence of the TITANs or other possible avenues to
+  super-intelligence, either to learn more about it or to
+  become part of a super-intelligence themselves.
+■ Skin: A biological physical morph. Aka meat, ﬂesh.
+■ Skinning: Changing your perceived environment via
+  augmented reality programming.
+■ Sleight: A psi power.
+■ Slitheroid: A snake-like robotic synthmorph.
+■ Smart Animals: Partially-uplifted animal species (includ-
+  ing dogs, cats, rats, and pigs). Some other large smart
+  animals (whales, elephants) are nearly extinct.
+■ Spime: Meshed, self-aware, location-aware devices.
+■ Splicers: Humans that are genetically modiﬁed to
+  eliminate genetic diseases and some other traits. Also
+  known as geneﬁxed, cleangenes, tweaks.
+■ Swarmanoid: A synthetic morph composed from a
+  swarm of tiny insect-sized robots.
+■ Sylphs: Transhuman biomorphs with exotic good looks.
+■ Synthmorph: Synthetic morphs. Robotic shells possessed
+  by transhuman egos.
+■ Synths: A speciﬁc type of synthmorph. Synths are
+  standard androids/gynoids; robots that are designed to
+  look humanoid, though they are usually noticeably not
+  human.
+■ Teleoperation: Remote control.
+■ Titanian: Someone from Titan, a moon of Saturn.
+■ TITANs: The human-created, recursively-improving,
+  military seed AIs that underwent a hard-takeoff singular-
+  ity and prompted the Fall. Original military designation
+  was TITAN: Total Information Tactical Awareness Network.
+■ Torus: A donut-shaped habitat, spun for gravity.
+■ Transgenic: Containing genetic traits from other species.
+■ Transhuman: An extensively modiﬁed human.
+■ Trojans: Asteroids or moons that share the same orbit
+  as a larger planet or moon, but follow about 60 degrees
+  ahead or behind at the L4 and L5 Lagrange points. The
+  term Trojans normally refers to the asteroids orbiting at
+ Jupiter’s Lagrange points, but Mars, Saturn, Neptune, and
+  other bodies also have Trojans. See also “Greeks.”
+■ Uplifting: Genetically transforming an animal species to
+  sapience.
+■ Vacworker: Space laborer.
+■ Vapor: A failed mind emulation or crippled fork/info-
+  morph (from vaporware).
+■ VPNs: Virtual private networks. Networks that operate
+  within the mesh, usually encrypted for privacy/security.
+■ VR: Virtual Reality. Imposing an artiﬁcially-constructed
+  hyper-real reality over one’s physical senses.
+■ X-Caster: Someone who transmits/sells XP recordings of
+  their experiences.
+■ Xenomorph: Alien life form.
+■ Xer: As in “X-er”—someone who is addicted or
+  obsessed with XP. Sometime used to refer to people
+  making XP as well.
+■ XP: Experience Playback. Experiencing someone else’s
+  sensory input (in real-time or recorded). Also called
+  experia, sim, simsense, playback.
+■ X-Risk: Existential risk. Something that threatens the
+  very existence of transhumanity.
+■ Zeroes: People without wireless mesh access. Common
+  with some indentures.

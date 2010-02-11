@@ -1,0 +1,119 @@
+  Money is for people who don’t know how to take
+care of themselves. Transhumanity is only a few de-
+cades away from being a mature Type I Kardashev
+civilization, having largely mastered the material
+resources of its own solar system. A character from
+the outer system most likely finds the whole concept
+of money an embarrassment.
+   However, material abundance hasn’t eliminated
+the value of certain goods and services. A transhu-
+man’s lunch might be free, but innovative ideas, new
+designs, health care, sex, and dirty work don’t grow
+in fabricators. What if you need gene therapy on your
+morph to grow infrared sensing cells on your face?
+How about someone to assassinate your renegade
+beta fork after she set off a hallucinogen grenade at
+your gallery opening and kidnapped your boyfriend?
+What if you really need a spanking? You call on your
+social network. If your network is sufficiently deep
+and numerous, and your reputation is good enough,
+someone will help you out.
+   In the inner system, the reputation economy doesn’t
+replace money for the exchange of goods and services,
+but it does hold sway over the network of favors and
+influence. Calling on contacts, getting information,
+and making sure you’re in the best place to see and be
+seen all involve calling on your social network.
+
+SOCIAL NETWORKS
+Social networks represent the people you know, and
+the people they know, and so on. It starts with your
+friends and family, spreads out to your co-workers,
+neighbors, and colleagues, and expands all the way
+out to your acquaintances, from the neo-hominid
+waitron at your favorite cafe to the sylph you flirt
+with at the club. In the always-online, fully-meshed
+universe of Eclipse Phase, this goes even further,
+encompassing all of the people you’ve linked to via
+social mesh networks, everyone who watches your
+blog/lifelog/updates, and everyone you interact with
+on various mesh forums. Now add in the friend-of-a-
+friend factor, and everyone has an impressive ability
+to reach out to people they know, people they sort of
+know, and people you don’t know but who are some-
+how linked to you in one degree or another.
+   Of course, social networks are not homogeneous.
+Among the ever-diversifying ranks of transhumanity,
+there is a tendency to coalesce around various shared
+characteristics, whether those be cultural background,
+personal interests, professional ties, local connections,
+political affiliations, subcultural obsessions, or simply
+common interest from being part of the same sub-
+species clade. The social network of an info-anarchist
+hacker is likely to bear little resemblance to that of
+a hypercorp socialite or an isolate brinker. Neverthe-
+less, social networks quite frequently overlap, often
+in unexpected and interesting ways. Most people can
+be considered members of several different types of
+social networks. This overlap is what links disparate
+groupings of transhumans together.
+NETWORKING
+Just being connected, of course, doesn’t mean you have
+several thousand idle transhumans at your beck and
+call. If you hope to gather the latest gossip, get advice
+from an expert, find someone who can fix your prob-
+lems, acquire a piece of gray market tech, or spread a
+meme, you need to know both who to talk to in that
+social network and how to go about getting what you
+need, especially if you hope to keep things quiet and
+not raise any flags.
+   This is where your Networking: [Field] skills come
+in (p. 182). Networking represents your ability to ma-
+neuver through this web of personal and impersonal
+connections to find who and what you need. This
+could be handled by word-of-mouth, posting the right
+queries in the right places on the mesh, monitoring
+the right personal profiles and forums, harnessing the
+power of the mob with crowdsourcing, or any number
+of similar creative tactics.
+   Each field you have in Networking represents a
+particular network grouping, a common interest that
+ties people together. Most of these fields are based
+on factions (Autonomists, Hypercorp, etc.) and tie
+into a special reputation network (see the Reputation
+Networks table, p. 287). At the gamemaster’s discre-
+tion, other groupings of people could be connected
+through these skills and rep systems. For example,
+artists and journalists of all stripes can fall under
+the Networking: Media skill and f-rep, no matter if
+they are autonomist or hypercorp. Likewise, being a
+diverse group, brinkers do not universally fall into any
+of the categories, and are instead spread out between
+them. If the gamemaster and players agree, other
+Networking fields and rep networks may be added,
+representing other spheres of interest, such as AR
+Games, Sports, Slash Fiction, etc.
+   The exact uses for which you may exploit your social
+networks are noted below. While in some cases the de-
+fining element is who you know and how good you are
+at reaching out to them, in others the defining element
+is how known you are. You might be connected to
+thousands of people, but if you don’t have clout, your
+efforts to make use of these connections is limited. This
+is where Reputation comes into play.
+
+REPUTATION
+Reputation is a measurement of your social currency.
+In the gift economies of the outer system, social repu-
+tation has effectively replaced money. Unlike credit,
+however, reputation is far more stable.
+   Within Eclipse Phase, reputation scores are facili-
+tated by online social networks. Almost everyone is a
+member of one or more of these reputation networks.
+It is a trivial matter to ping the current Rep score and
+history of someone you are dealing with—your muse
+often does this automatically, marking an entoptic
+Rep score badge on anyone with whom you interact,
+updated in real time, so you will see if they suddenly
+take a hit or become popular. The 7 most common
+networks are noted on the Reputation Networks

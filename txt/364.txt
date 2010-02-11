@@ -1,0 +1,120 @@
+in the way as transhumanity would define animos-
+ity because of religious, ethnic, racial, or cultural
+difference. Most likely the ETI is simply indifferent,
+concerned with matters on scales on which trans-
+humanity does not even register. Or it may think of
+transhumanity like a living body might recognize an
+infection or parasite—something the immune system
+will suppress and deal with.
+
+EXHUMANS
+Exhumans are a faction within Eclipse Phase that
+seeks to transcend the transhuman and become
+posthuman. More to the point, exhumans seek to
+perfect their physical and mental capabilities to ex-
+treme levels, in search of some perfectionist ideal or
+to become something higher-up on the evolutionary
+ladder. Exactly what this is differs from exhuman to
+exhuman, but there is generally some adherence to
+Nietzschean philosophy and a goal to reach the pin-
+nacle of the food chain. Some exhumans have trans-
+formed themselves into what they consider to be an
+ideal predator, or a creature that is extra-adaptable
+and so best able to survive. Others radically modify
+their own brains in order to drastically surpass
+transhuman intelligence. Most are singularity seek-
+ers, eager and willing to follow the breadcrumbs
+left by the TITANs or other entities in the hope that
+they will find the means of transcending transhu-
+man limitations.
+   Due to the use of numerous extreme, experimental,
+and dangerous self-modifications, some exhumans
+have done permanent damage to their psyches,
+becoming insane, or perhaps just transferring their
+mode of thinking into something that is no longer
+recognizable as human. Some have also adopted an
+antagonistic view of their former transhuman species,
+viewing it as weak, decadent, and unworthy. This
+has spurred some exhumans to actively attack and
+ravage transhuman settlements and ships, though
+usually in isolated areas.
+  A few examples of exhumans are described below,
+though gamemasters are encouraged to develop
+their own.
+
+NEURODES
+Seeking to achieve a new level of super-intelligence
+and conscience, neurodes have abandoned the typi-
+cal transhuman sleeve in exchange for a multipedal
+neuronal shell that is both body and brain at the same
+time. The bulk of a neurode’s body mass consists of
+amorphic clusters of neuronal and epithelial cells, en-
+closed in a hard carapace shell with four legs and two
+manipulatory digits. The cerebral mass of neurode
+brains gives them impressive calculation and other
+mental capabilities far exceeding that of a normal
+transhuman. Neurodes typically defend themselves
+with swarms of teleoperated drones.
+ COG     COO    INT    REF    SAV   SOM     WIL    MOX
+  40      10     40     20     30    10     40      --
+
+  INIT   SPD    LUC    TT      IR    DUR    WT     DR
+  120     1      80    16     160     35     7     53
+Skills: Fray 30, Investigation 80, Perception 90, others
+  as appropriate
+Implants: Access Jacks, Carapace Armor, Circadian
+  Regulation, Direction Sense, Eidetic Memory, En-
+  docrine Control, Hyper Linguist, Math Boost,
+  Medichines, Multi-Tasking, Oracle, Skillware
+Notes: Mental Disorder trait x 2
+
+PREDATORS
+Predators seek to transform themselves into an ulti-
+mate top-of-the-food-chain evolutionary contender.
+They pursue new avenues in genetic modification and
+prototype implants, often using controversial methods
+and technologies. The biochemical instabilities resulting
+from these untested modifications and altered metabo-
+lisms, however, often negatively impact their emotional
+and mental stability. Pushing this even further, some
+predators undergo experimental psychosurgery to
+modify their consciousnesses in order to increase cun-
+ning and ruthlessness, a procedure that often has other
+negative side effects. A few predators take their surviv-
+al-of-the-fittest ideology to an extreme, modifying their
+digestive systems for a cannibalistic diet, and relishing
+in the slaughter and feasting on of transhumans.
+ COG     COO    INT    REF    SAV   SOM     WIL    MOX
+  30      40     40     40     15    40     30      --
+
+  INIT   SPD    LUC    TT      IR    DUR    WT     DR
+  160     3      60    12     120     65    13     98
+Skills: Blades 60, Fray 60, Free Fall 50, Freerunning 80,
+  Investigation 50, Perception 60, Unarmed Combat 70
+Implants: Adrenal Boost, Carapace Armor (11/11),
+  Chameleon Skin, Cyberclaws, Drug Glands, Endo-
+  crine Control, Enhanced Hearing, Enhanced Smell,
+  Enhanced Vision, Grip Pads, Hardened Skeleton,
+  Medichines, Muscle Augmentation, Neurachem
+  (Rating 2), Oxygen Reserve, Poison Gland, Prehen-
+  sile Feet, Prehensile Tail, Respirocytes, Temperature
+  Tolerance, Toxin Filters, Vacuum Sealing, plus any
+  other mods the gamemaster feels appropriate
+Notes: Mental Disorder trait x 2
+
+
+
+THE EXSURGENT VIRUS
+Only very few people (or entities) who survived the
+diaspora from Earth know of the true reasons and
+the catalyst that culminated in the Fall. The alien Ex-
+surgent virus—as those aware of its existence within
+Firewall call it—set in place by the ETI to infect
+emerging seed AIs, is something beyond transhuman-
+ity’s understanding; something far more complex
+than just a computer virus. Though some strains of
+the Exsurgent virus have been identified and various
+types of infected exsurgents have been encountered,
+it is widely assumed that these are creations of the
+TITANs. Largely defeated and eradicated from off-
+Earth transhuman networks thanks to the efforts of

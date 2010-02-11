@@ -1,0 +1,77 @@
+                                                              ANARCHIST TECHIE
+                                                                        APTITUDES
+                                                                              COG      COO    INT    REF       SAV       SOM      WIL
+                                                                    Base       15       20     15     10        15        15      15
+                                                             Morph Bonus       5        5                                 5
+                                                                    Total      20       25     15     10       15         20       15
+
+
+
+
+                                                              MOX      TT      LUC      IR    WT     DUR       DR
+                                                                                                                         STATS
+                                                                                                                         INIT     SPD
+                                                               4        6       30      60     7      35       53         50       1
+
+
+
+
+                                                                                                                MORPH
+                                                                                                                     SKILLS
+                                                                                              APT    BASE       BONUS           TOTAL
+                                                               Academics: Engineering         COG      60         5               65
+                                                           Academics: Nanotechnology          COG      70         5               75
+                                                                    Academics: Physics        COG      60         5               65
+                                                                           Art: Sculpture     INT      55                         55
+                                                                                  Free Fall   REF      60                         60
+                                                                  Hardware: Aerospace         COG      45            5            50
+                                                                     Hardware: Armorer        COG      55            5            60
+                                                                  Hardware: Electronics       COG      60            5            65
+                                                                     Hardware: Robotics       COG      60            5            65
+                                                                                   Infosec    COG      40            5            45
+                                                               Interests: Martian Beers       COG      45            5            50
+                                                                Interests: Robot Models       COG      45            5            50
+                                                                    Interests: VR Games       COG      55            5            60
+                                                                               Interfacing    COG      50            5            55
+                                                              Language: Native English        INT      85                         85
+                                                                   Language: Mandarin         INT      60                         60
+                                                              Networking: Autonomists         SAV      70                         70
+                                                                   Networking: Firewall       SAV      35                         35
+                                                                 Networking: Scientists       SAV      35                         35
+                                                                               Perception     INT      55                         55
+                                                                            Pilot: Aircraft   REF      45                         45
+                                                                        Pilot: Spacecraft     REF      30                         30
+                                                            Profession: Habitat Systems       COG      60            5            65
+                                                        Profession: Spacecraft Systems        COG      60            5            65
+                                                        Programming (Nanofabrication)         COG    60 (70)         5          65 (75)
+al Space Colonist                                                             Scrounging      INT      45                         45
+                                                                         Spray Weapons        COO      40            5            45
+chism +Open Source +Tech-Hacking
+
+
+                    Implants: Access Jacks, Basic
+el 1) ■               Biomods, Basic Mesh Inserts,
+                                                       You’re an old school hacker—the         for open source technology that
+                      Cortical Stack, Electrical
+                                                       kind that likes to take technologi-     anyone can use or modify as they
+                      Sense, Grip Pads, Oxygen
+                                                       cal toys, dismantle them, modify        see fit and you support decen-
+                      Reserve, Prehensile Feet,
+                                                       them, rebuild them, and then use        tralized models of peer collab-
+                      Wrist-Mounted Tools ■
+                                                       them in ways the designers never        oration—nothing pisses you off
+                    Gear: 2 Automechs, Backup
+                                                       imagined. When you’re not too           more than restrictive proprietary
+                      Insurance (1 month), Engineer
+                                                       busy building crazy robotic sculp-      tech with which you or others
+                      Nanoswarm, Fabber, Fixer
+                                                       tures for art performance pur-          can’t meddle. You take a hands-on
+/6] ■                 Nanoswarm, Muse, Vacsuit
+                                                       poses, your skills are in demand        approach to most problems, but
+eezer                 (Light Smartfabric, 5/5) ■
+                                                       because you can ﬁx almost any-          you become so engrossed in your
+                                                       thing, improve it, or even build        projects that you tend to be oblivi-
+■
+                                                       it from scratch. You advocate           ous to the world around you. ■
+                       “Don't worry, it works; these things run themselves anyway.
+          I voided the warranty, but anything loaded with DRM like that is broken to start with.”

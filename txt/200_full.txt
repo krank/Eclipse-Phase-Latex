@@ -1,0 +1,41 @@
+FIRE                                                       be fired with the same Complex Action. Each burst
+Objects that come into contact with extreme heat or        is handled as a separate attack. Bursts use up 3 shots
+flames may catch fire at the gamemaster’s discretion,      worth of ammunition.
+keeping in mind both the flammability of the material         A burst may be shot against a single target (concen-
+and the strength of the heat/flames. Burning items (or     trated fire), or against two targets who are standing
+characters) will suffer 1d10 ÷ 2 (round up) damage         within one meter of each other. In the case of concen-
+each Action Turn unless otherwise noted. Energy            trated fire against a single target, increase the DV by
+armor will protect against this damage, though it          +1d10.
+too may catch fire, reducing its value by the damage
+inflicted. Depending on the environmental conditions,      FULL AUTOMATIC (FA)
+fires are likely to grow larger unless somehow abated.     Full-auto weapons release a hail of shots with a single
+Every 5 Action Turns, increase the DV inflicted (first     trigger pull. Only one full-auto attack may be made
+to 1d10, then 2d10, then 3d10, then by increments          with each Complex Action. This attack may be made a
+of +5). Adverse conditions (such as rain) or efforts to    single target or against up to three separate targets, as
+extinguish the blaze will reduce the DV accordingly.       long as each is within one meter of another. In the case
+   Note that fire does not burn in vacuum. In micro-       of a concentrated fire on a single individual, increase
+gravity, fire burns in a sphere and grows more slowly,     the DV by +1d10 + 10. Firing in full automatic mode
+as expanding gases push away the oxygen (increase          uses up 10 shots.
+the DV every 10 Action Turns). If there is a lack of air
+circulation, some microgravity fires may extinguish        FULL DEFENSE
+themselves.                                                If you’re expecting to come under fire, you can
+                                                           expend a Complex Action to go on full defense. This
+FIRING MODES AND RATE OF FIRE                              represents that you are expending all of your energy
+Every ranged weapon in Eclipse Phase comes with one        to dodge, duck, ward off attacks, and otherwise get
+or more firing modes that determines their rate of fire.   the hell out of the way until your next Action Phase.
+These firing modes are detailed below.                     During this time, you receive a +30 modifier to defend
+                                                           against all incoming attacks.
+SINGLE SHOT (SS)                                              Characters who are on full defense may use Free-
+Single shot weapons may only be fired once per             running rather than Fray skill to dodge attacks, repre-
+Complex Action. These are typically larger or more         senting the gymnastic movements they are making to
+archaic devices.                                           avoid being hit.
+
+SEMI-AUTOMATIC (SA)                                        GRAVITY
+Semi-automatic weapons are capable of quick, re-           Most characters in Eclipse Phase have considerable
+peated fire. They may be fired twice with the same         experience maneuvering in low gravity or micro-
+Complex Action. Each shot is handled as a separate         gravity and can perform normal actions without
+attack.                                                    penalties. Even characters who grew up on planetary
+                                                           bodies or in rotating habitats have some familiarity
+BURST FIRE (BF)                                            with alternate gravities thanks to childhood train-
+Burst fire weapons release a number of quick shots         ing in simulspace educational scenarios. The same is
+(a “burst”) with a single trigger pull. Two bursts may     also true in reverse; characters who grew up in free

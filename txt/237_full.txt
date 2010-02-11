@@ -1,0 +1,24 @@
+                MESH ABUSES
+The mesh is rife with miscreants, opportu-
+ nistic hackers, and people who plain just
+           don’t agree with you. ■ p. 243
+                                                                                    9
+                       Hackers & Malware: Two primary threats —people, and
+                                                         people’s tools. ■ p. 243
+
+                  Mesh Security: Four prime methods of security on the mesh:
+            authentication, ﬁrewalls, active monitoring, and encryption. ■ p. 253
+
+                   Intrusion: Inﬁltrating a system can happen two ways: slicing
+                    through the security quietly or launching brute-force attacks
+                                               to knock the door down. ■ p. 254
+
+                Hacking Sequence: Quick-and-dirty hacking summary. ■ p. 255
+
+           Intrusion Countermeasures: If your hacking efforts alert the system
+             to your presence, intrusion countermeasures will attempt to locate,
+                                       attack, or otherwise thwart you! ■ p. 257
+
+                     Cyberbrain Hacking: Pods and synthmorphs are equipped
+                              with cybernetic brains—and like other computers,
+                                                  these can be hacked. ■ p. 261

@@ -1,0 +1,60 @@
+of individual members, whether it’s a mesh-site loaded     obtaining things that you need is entirely based on
+with a band member’s songs, a personal archive of          how you are viewed by others.
+stored media, a decade of blog entries reviewing the          Reputation is easily measured by one of several
+best places to score cheap electronics, or a depository    online social networks. Your actions are rewarded
+of research papers and studies someone has worked          or punished by those with whom you interact, who
+on or finds interesting.                                   can ping your Rep score with positive or negative
+  In game play, social networks are quite useful           feedback. These networks are used by all of the fac-
+to characters. Their friends list is an essential          tions, as reputation can affect your social activities in
+resource—a pool of people you can actively poll for        capitalist economies as well. The primary reputation
+ideas, troll for news, listen to for the latest rumors,    networks include:
+buy or sell gear from, hit up for expert advice, and
+even ask for favors.                                        • The @-list: the Circle-A list for anarchists, Bar-
+  While a character’s social networks are nebulous            soomians, Extropians, scum, and Titanians, noted
+and constantly shifting, the use of them is not. A            as @-rep.
+character takes advantage of their social networks via      • CivicNet: used by the Jovian Republic, Lunar-
+the Networking (Field) skill (p. 182). The exact use          Lagrange Alliance, Morningstar Constellation,
+of this skill is covered under Reputation and Social          Planetary Consortium, and many hypercorps,
+Networks, p. 285.                                             referred to as c-rep.
+                                                            • EcoWave: used by nano-ecologists, preservation-
+CRED                                                          ists, and reclaimers, referred to as e-rep.
+The Fall devastated the global economies and cur-           • Fame: the seen-and-be-seen network used by
+rencies of the past. In the years of reconsolidation          socialites, artists, glitterati, and media, referred
+that followed, the hypercorps and governments                 to as f-rep.
+inaugurated a new system-wide electronic monetary           • Guanxi: used by the triads and numerous crimi-
+system. Called credit, this currency is backed by all         nal entities, referred to as g-rep.
+of the large capitalist-oriented factions and is used to    • The Eye: used by Firewall, noted as i-rep.
+trade for goods and services as well for other financial    • RNA: Research Network Affiliation, used by ar-
+transactions. Credit is mainly transferred electroni-         gonauts, technologists, scientists, and researchers,
+cally, though certified credit chips are also common          referred to as r-rep.
+(and favored for their anonymity). Hardcopy bills are
+even used in some habitats.                                  Reputation is rated from 0-99. Depending on your
+   Depending on your background or faction, your           background and faction, you may start with a Rep
+character may be given an amount of credit at the          score in one or more networks. This can be bolstered
+start of the game. During game play, your character        through spending customization points during charac-
+must earn credit the old-fashioned way: by earning         ter creation. During game play, your Rep scores will
+or stealing it.                                            depend entirely on your character’s actions. For more
+                                                           information, see Reputation and Social Networks, p.
+REP                                                        285.
+Capitalism is no longer the only economy in town.            Note that each Rep score is tied to a particular
+The development of nanofabricators allowed for the         identity.
+existence of post-scarcity economies, a fact eagerly
+taken advantage of by anarchist factions and others.       GEAR
+When anyone can make anything, concepts like               Gear is all of the equipment your character owns
+property and wealth become irrelevant. The advent          and keeps on their person, from weapons and armor
+of functional gift and communist economies, among          to clothing and electronics. You buy gear for your
+other alternative economic models, means that in           character with customization points during character
+such systems you can acquire any goods or services         creation (see p. 136) and in the game with Credit or
+you need via free exchange, reciprocity, or barter—        Rep. Certain restricted, illegal, or hard-to-find items
+presuming you are a contributing member of such            may require special efforts to obtain (see Acquiring
+a system and respected by your peers. Likewise, art,       Gear, p. 298). If you have access to a nanofabricator,
+creativity, innovation, and various forms of cultural      you may be able to simply build gear, presuming you
+expression have a much higher worth than they do in        have the proper blueprints (see Nanofabrication, p.
+capitalist economies.                                      284). For a complete listing of equipment options, see
+   In alternative economies, money is often meaning-       the Gear chapter, p. 296.
+less, but reputation matters. Your reputation score           Even among the remaining capitalist economies,
+represents your social capital—how esteemed you            prices can vary drastically. To represent this, all
+are to your peers. Rep can be increased by positively      gear falls into a cost category. Each category defines
+influencing, contributing to, or helping individuals or    a range of costs, so the gamemaster can adjust the
+groups, and it can be decreased through antisocial         prices of individual items as appropriate to the situa-
+behavior. In anarchist habitats, your likelihood of        tion. Each category also lists an average price for that

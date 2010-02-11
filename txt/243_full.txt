@@ -1,0 +1,60 @@
+DEFYING NATURE’S LAWS                                     EXPERIENCE PLAYBACK
+A plethora of simulspace environments are available,      Every morph with mesh inserts has the capability
+ranging from simulations of real places to historical     to transmit or record their experiences, a form of
+recreations to fantastic worlds representing almost       technology called experience playback, or XP. Since
+every genre imaginable. All of these simulations are      the first programs were developed that provide a
+bolstered by the fact that possible scenarios are not     simple interface to “snapshot” ones experiences, it
+bound by the laws of nature. The fundamental forces       has become extremely popular to share XP with
+of reality and nature, like gravitation, electromag-      friends and social networks, or with the online public
+netism, atmosphere, temperature, etc., are program-       at large.
+mable in VR, allowing for environments that are              The level of experiences depends on how much of
+completely unnatural, such as escheresque simulspace      the recorded sensory perception is kept when the clip
+where gravity is relative to position. These domain       is made. Full XP includes exteroceptive, interoceptive,
+rules may be altered and manipulated according to         and emotive tracks. Exteroceptive tracks include the
+the whim of the designer.                                 traditional senses of sight, smell, hearing, touch, and
+  Time itself is an adjustable constant in VR, though     taste that process the outside world. Interoceptive
+deviation from true time has its limits. So far, tran-    tracks include senses originating within the body, such
+shuman designers have achieved time dilation up to        as balance, a sense of motion, pain, hunger and thirst,
+60 times faster or slower than real time (roughly one     and a general sense of the location of one’s own body
+minute equaling either one hour or one second). Time      parts. Emotive tracks include the whole spectrum of
+slowdown is far more commonly used, granting more         emotions which can be aroused in a transhumans.
+time for simulspace recreational activities (more time,   Due to the biological requirements (neuronal and
+more fun!), learning, or work (economically effective).   endocrine systems) of expressing emotions, hardcore
+Time acceleration, on the other hand, is extremely        XP aficionados deem only the experience in and from
+useful for making long distance travel through space      biomorphs as the real deal.
+more tolerable.
+
+ACCESSING SIMULSPACES                                     MESH USES
+Most simulspaces can be accessed through the mesh         There are many reasons people use the mesh. The
+just like any other node. Since VR takes over the         foremost is communication: voice and video calls
+user’s sensorium, however, and sometimes involves         (typically displaying avatars rather than actual
+time perception dilation, users are cut off from other    video), electronic messaging (e-mail, instant mes-
+mesh-delivered sensory input and interacting directly     saging, microblogging), and file and data transfers.
+with other nodes. Instead, outside mesh interactions      Socializing is also key, handled via social and reputa-
+are routed through the simulspace’s interface (mean-      tion networks, personal profiles, lifelogging, chats
+ing that a character may browse the mesh, communi-        and conferences (both AR and VR), and discussion
+cate with others, etc. from inside a simulspace, if the   groups and forums. Information gathering is also
+domain rules allow it).                                   at the top, whether its browsing the popular Solar-
+   Since physical senses are overridden when a user       chive or other databases and directories, tapping
+accesses VR, most people prefer to rest their body        the latest newsfeeds, browsing mesh sites, tracking
+in a safe and comfortable environment while in the        your friends, taking lessons in VR, or looking up just
+simulspace. Body-fitting cushions and couches help        about anything conceivable. Recreation rounds out
+users relax and keep them from cramping up or in-         the pack, covering everything from gaming (AR and
+juring themselves if they happen to thrash around.        VR) to experiencing other people’s lives (XP) to VR
+In case of long-term virtual sojourns (for instance,      tourism and club-hopping.
+during space travel), morphs are normally retained
+in tanks that sustain them in terms of nutrition and      PERSONAL AREA NETWORKS
+oxygen. Many VR entertainment and game networks           Since everything a person carries is meshed, most
+offer dedicated and hardwired physical VR cafes           people maintain personal area networks that route
+with private pods. Visitors rent a pod and physically     all of these devices through their mesh inserts or ecto,
+jack in, using either access jacks or an ultrasonic       which acts as a hub. This is both a security measure,
+trode net that reads and transmits brain patterns         ensuring they maintain control over their own acces-
+when placed on the head.                                  sories, and a convenience factor, as it focuses all of the
+  When accessing a simulspace, the user first enters      controls in one place.
+an electronic buffer “holding space” known as a
+white room. Here the user chooses a customizable          VIRTUAL PRIVATE NETWORKS
+avatar-like persona to represent them in the simul-       Virtual private networks (VPNs) are communica-
+space, called a simulmorph. From this point, the user     tions networks tunneled through the mesh, which
+immerses themself in the virtual reality environment,     are dedicated for a specific group of people. The
+effectively becoming their simulmorph.                    primary use of VPNs is to create privacy and secu-
+                                                          rity for its users, and so they typically use security

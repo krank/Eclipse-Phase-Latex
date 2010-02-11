@@ -1,0 +1,65 @@
+ ESH■THE MESH■THE MESH■THE MESH■THE MESH■THE MESH■THE MESH■THE
+                                                  THE MESH■THE
+                                                      MESH■
+
+
+
+MESH                                                                                                                       6
+
+
+   Before the Fall, humanity interfaced with each other        Wireless radio transmitters and receivers are so unob-
+   through the internet, interconnected networks that          trusively tiny that they can literally be factored into
+   served as the technical backbone for the evolv-             anything. As a result, everything is computerized and
+   ing world wide web. While it began as a electronic          connected, or at least tagged with a radio frequency
+   medium for retrieving information from various              ID (RFID) chip. Even food is tagged with edible chips,
+   sources (replacing even older paper-based info-             complete with expiration date and nutritional content.
+   sources), succeeding generations emphasized digital         Other communications mediums, such as laser and
+   communities and hosted services such as networking          microwave links, add to the information flow.
+   sites, wikis, blogs, and folksonomies. These facili-           Data storage technology has advanced to such high
+   tated openness, collaboration, and sharing, thereby         levels that even an individual user’s surplus storage
+   laying the groundwork for a modern, interconnected          capacity can maintain an amount of information
+   information society. Further stages emphasized wire-        easily surpassing the entire 20th-century internet.
+   less interaction, geolocation, and semantic web ap-         Lifeloggers can literally record every moment of their
+   proaches and achieved quantum leaps in the realm            life and never fear about running out of room. The
+   of user interaction with the advent of brain-computer       amount of data that people carry around in the mesh
+   interfaces, augmented reality (AR), virtual reality         inserts in their head or in portable ecto personal com-
+   (VR), and experience playback (XP).                         puters is staggering.
+      This environment, coupled with the exponential              Processing capabilities also exist at hyper-efficient
+   growth of processing power and memory storage, cre-         levels. Even massive supercomputers are a thing of the
+   ated an evolutionary path for the development of intel-     past when modest handheld devices can fulfill almost
+   ligent agents—designed to augment human informa-            all of your needs, even while simultaneously running a
+   tion processing—that then transformed into artificial       personal AI assistant, downloading media, uploading
+   intelligences (AIs) in the following decades. While these   porn, and scanning thousands of newsfeeds. Within
+  “weak” AIs did not possess the full range of human           the mesh network, devices that near their processing
+   cognitive abilities, tended towards overspecialization,     limits simply share the burden with devices around
+   and were restrained by programmed limitations, the          them, creating a massively distributed framework that
+   digital evolution toward artificial general intelligences   in some ways is like an entire supercomputer to itself,
+   (AGIs)—”strong” AIs with intelligence capabilities          shared by everyone.
+   that equaled or exceeded human abilities—could not             Similarly, transmission capacity now far exceeds
+   be halted. From this point it was but a matter of time      most citizens’ definition of need. Anyone born within
+   before so-called seed AI would come into existence,         the last several generations has always lived in a world
+   machine minds capable of recursive self-improvement,        in which hyper-realistic, multi-sensory media of nearly
+   leading to an exponential growth in intelligence. Un-       any length is available for instantaneous download
+   fortunately for humanity, the TITANs were the result.       or upload from anywhere. Massive databases and
+      Even before the Fall, however, the internet of old       archives are copied back and forth with ease. Band-
+   was transforming into something new. Instead of con-        width is such a non-issue that most people forget it ever
+   necting via central servers, users were wirelessly link-    was. In fact, given the sheer amount of data available,
+   ing to each other, creating a decentralized intermeshed     finding the information or media you’re looking for
+   network of handheld devices, personal computers,            takes considerably longer than downloading it. The
+   robots, and electronic devices. Users were online all of    mesh is also never down. As a decentralized network,
+   the time and connected with everything and everyone         if any one device is taken offline, connections merely
+   around them in a ubiquitous computing environment.          route around it, finding a path via the thousands if not
+  This was especially true of those participating in           millions of available nodes. Similarly, the entire mesh
+   humanity’s expansion into space. Disconnected from          behaves like a peer-to-peer network, so that large trans-
+   the internet due to distance and light-speed commu-         fers are broken into manageable chunks that take inde-
+   nication lags, these users were nevertheless connected      pendent routes. In fact, most users maintain personal
+   with all of the people and objects in their nearby          torrent archives that are publicly accessible and shared.
+   environment or habitat, creating local wireless mesh           Private networks still exist, of course. Some are
+   networks. Thus was the mesh born, taking the place          physically walled away behind closed-access wired net-
+   of the old internet of earth, lost during the Fall.         works or even wireless-inhibiting infrastructure that
+                                                               keep a network isolated and contained. Most, however,
+                                                               operate on top of the public mesh, using encrypted
+  MESH CAPABILITIES                                            tunneling protocols that provide private and secure
+  The mesh, as it exists in Eclipse Phase, is only possible    communications over unsecured networks. In other
+  thanks to major developments made in computer and            words, these private networks are part of the mesh
+  communication technologies and nanofabrication.              along with everything else, but only the participants

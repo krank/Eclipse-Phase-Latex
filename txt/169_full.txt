@@ -1,0 +1,66 @@
+TITANIAN EXPLORER
+            APTITUDES COG     COO       INT    REF     SAV        SOM    WIL
+            Base       15      15        20     15      15         20    10
+     Morph Bonus               5                 5                 10     5
+            Total      15      20        20     20      15         30     15
+
+
+
+
+      MOX      TT      LUC      IR        WT    DUR     DR INIT
+                                                                 STATS   SPD
+       4      4 (6)   20 (30) 40 (60)      8     40     60 70 (80)        1
+
+
+
+                                                             SKILLS
+                                                         MORPH
+                                       APT      BASE     BONUS          TOTAL
+    Academics: Astrosociology          COG       60                       60
+      Academics: Astrozoology          COG       55                       55
+            Academics: Botany          COG       45                       45
+    Academics: Xenolinguistics         COG       60                       60
+                         Climbing      SOM       45          10           55
+                              Fray     REF       50          5            55
+                         Free Fall     REF       40          5            45
+                     Freerunning       SOM       60          10           70
+        Hardware: Groundcraft          COG       45                       45
+                       Inﬁltration     COO       50          5            55
+        Interests: Gatecrashing        COG       60                       60
+         Interests: Sci-Fi Aliens      COG       45                       45
+                   Investigation       INT       35                       35
+                         Kinesics      SAV       30                       30
+               Kinetic Weapons         COO       45          5            50
+     Language: Native Swedish          INT       85                       85
+             Language: English         INT       40                       40
+          Medicine: Paramedic          COG       40                       40
+                      Navigation       INT       60                       60
+      Networking: Autonomists          SAV       55                       55
+           Networking: Firewall        SAV       45                       45
+         Networking: Scientists        SAV       55                       55
+                      Perception       INT       60                       60
+              Pilot: Groundcraft       REF       45          5            50
+               Pilot: Spacecraft       REF       35          5            40     Background: Drifter
+       Profession: First Contact       COG       60                       60     Faction: Titanian
+          Profession: Surveying        COG       45                       45     Morph: Olympian
+   Profession: Smuggling Tricks        COG       60                       60     Motivations: +Alien Contact +Exploration +Nano-Ec
+                         Protocol      SAV       50                       50
+                                                                                 TRAITS                               Implants: Ad
+                     Scrounging        INT       60                       60
+                                                                                 None ■                                 Biomods, B
+                                                                                                                        Cortical St
+                                                                                 REP                                    Sense, Enh
+                                                                                 @-rep:    50                           Medichine
+                                                                                 i-rep:    20                           Temperatu
+The gates have opened a new                                                      r-rep:    30                         Gear: Backup
+frontier to transhumanity and you        preserved, you support colonizing                                              Breadcrum
+are ready to step through and face       and expanding transhumanity’s           EQUIPMENT                              tem, Diamo
+the challenges such opportunities        presence while maintaining a mini-      Armor: Vacsuit (Standard Smart-        ics Net, Ele
+bring. You are a professional gate-      mal impact on alien ecosystems.           fabric with Immunogenic              Portable Li
+crasher, eager to experience new         You are also trained in First Contact     System) [7/7] ■                      System, Ra
+worlds ﬁrst-hand, despite the dan-       scenarios and are hopeful of ﬁnd-       Primary Weapon: Kinetic Assault        Bot, Shelte
+gers—or even because of them.            ing new intelligent life—hopefully        Riﬂe (100 rounds regular ammo) ■     Container,
+Unlike those who feel that new           without sparking some kind of           Starting Credit: 4,150 ■               Climber, Ta
+planets should be protected and          deadly interstellar incident. ■                                                ware, Trac
+                                     “I just ﬁnished my analysis of the xenolife amino acids and it’s nothing close
+                                              to what the Boyle-Cross hypothesis suggested it should be.”

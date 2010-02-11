@@ -1,0 +1,60 @@
+inner system, travel can take days or weeks. Travel to,    that will break down just about anything into its con-
+from, or within the outer system can take much longer,     stituent molecules. Feedstock may also be purchased
+and is usually a matter of several months.                 (at a cost of Trivial). Many habitats route their recy-
+  Most ships operate at zero-g, except for a few larger    cling and waste products directly into disassemblers.
+craft that are able to spin habitat modules for low
+gravity. Periods of high-acceleration also produce         BLUEPRINTS
+temporary gravity in a downward direction, towards         Most nanofabricators are pre-loaded with blueprints
+the burn.                                                  for general purpose items: food, simple clothing, basic
+   Space is a valuable commodity on board spacecraft,      tools, etc. Blueprints for other goods may be acquired
+so room is often tight. Sleeping and personal quarters     in several ways:
+are rarely bigger than large closets, just enough room
+for a sleeping bag and personal effects. Depending          • They may be purchased online (legally or on the
+on the size of the craft, there may be a communal             black market).
+recreation area. The crew tend to only be busy at the       • They may be found for free online (see below).
+beginning and end of a trip, when they must deal with       • They may be acquired with Rep, following the
+acceleration/deceleration and maneuvering around              usual rules for social networking (p. 285).
+other space traffic. The rest of the trip they spend        • They may stolen (usually by hacking a mesh site
+dealing with repairs or otherwise killing time, often         or a nanofabricator containing such plans).
+by accessing XP or VR simulations or playing AR             • They may be self-programmed (see below).
+games. While spacecraft have their own local mesh
+network, they are usually too far to interact with the       Once the blueprints are acquired, they are simply
+mesh networks of other habitats without significant        loaded into the nanofabricator.
+communications lag, so they must make do with
+their own archive of entertainment options. Many           OPEN SOURCE BLUEPRINTS
+long-haul ships are crewed by hibernoid morphs, who        Blueprints for many goods may be found for free
+hunker down for a long nap.                                online, disseminated by an active open source
+                                                           software movement. The availability of such plans
+SPACESHIP COMBAT                                           typically depends on the local mesh. In autonomist
+Combat in space tends to take place over long dis-         habitats, a simple Research Test is likely to turn up the
+tances using massive beam weapons, railguns, and           open source blueprints you need (applying modifiers
+missiles. It also tends to be nasty, brutish, and short.   for unusual items). In more restricted habitats, open
+Significant damage to a vessel can cause atmospheric       source blueprints may be harder to find, as they will
+decompression, killing any biomorph crew who aren’t        be securely hidden from the prying eyes of the authori-
+suited up and strapped down.                               ties. In this case, the character will need to use their
+  For the most part, it is recommended that space          Rep to gain access, bribe a local hacker group, or do
+combat be treated as a plot device, part of the back-      something similar.
+ground story that helps create drama and tension,             Note that restricted nanofabricators may not accept
+rather than an event that characters actively partici-     open source blueprints (see Blueprint Restrictions).
+pate in. This is not to say the characters cannot play a
+role in the combat, or that their actions will have no     BLUEPRINT RESTRICTIONS
+effect on the outcome. They may become involved in         Some nanofabricators are equipped with pre-pro-
+damage control, negotiate with hostile forces, repel       grammed restrictions not to accept blueprints for re-
+boarders, target weapons with Gunnery skill, stage a       stricted items (such as weapons) or non-licensed items
+mutiny, attempt to hack the networks of approach-          (such as black market or open source blueprints).
+ing vessels, escape out the airlock, hide out while the    These restrictions may be circumvented by hacking
+pirates sack the ship, or similar affairs. It is recom-    the nanofabricator and re-programming it, following
+mended, however, that gamemasters steer clear of           normal hacking rules (p. 254).
+space combat situations that could easily lead to the
+whole team dying due to a few bad dice rolls.              PROGRAMMING BLUEPRINTS
+                                                           A dedicated character may simply decide to program
+                                                           their own blueprints, though this is a time-consuming
+NANOFABRICATION                                            endeavor. To do so, the character must make a Pro-
+In order to create an object in a nanofabricator           gramming: Nanofabrication Test with a timeframe of
+(whether a cornucopia machine, fabber, or maker; see       one week per cost level of the item. For example, a
+p. 327), three things are needed: raw materials, blue-     Trivial cost item takes 1 week, a Low cost item takes 2
+prints, and time.                                          weeks, a Moderate item 3 weeks, and so on. Academ-
+                                                           ics: Nanotechnology skill or a skill appropriate to the
+RAW MATERIALS                                              object’s design may be used as a complementary skill
+Raw materials are generally easy to acquire, as most       (p. 173) for this test. A fork or muse may also be as-
+nanofabricators are equipped with disassembler units       signed to such a programming task.

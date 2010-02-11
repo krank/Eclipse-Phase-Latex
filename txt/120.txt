@@ -1,0 +1,149 @@
+skill is under 40 to start with, taking the time may still
+not guarantee a favorable outcome. You may take the
+time even when defaulting (see Defaulting, p. 116).
+   Taking extra time is a solid choice when time is not
+a factor to the character, as it eliminates the chance
+that a critical failure will be rolled and allows the
+player to skip needless dice rolling. For certain tests it
+may not be appropriate, however, if the gamemaster
+decides that no amount of extra time will increase the
+likelihood of success. In that case, the gamemaster
+simply rules that taking the time has no effect.
+   For Task action tests (p. 120), which already take
+time to complete, the duration of the task must be
+increased by 50 percent for each +10 modifier gained
+for taking extra time.
+
+
+           Srit is searching through an abandoned space-
+           ship, looking for a sign of what happened to the
+           missing crew. The gamemaster tells her it will take
+ EXAMPLE
+
+
+
+
+           twenty minutes to search the whole ship. She
+           wants to be extra thorough, however, so she takes
+           an extra thirty minutes. Fifty percent of the original
+           timeframe is ten minutes, so taking an extra thirty
+           minutes means that Srit receives a +30 modiﬁer to
+           her Investigation Test.
+
+
+SIMPLE SUCCESS TESTS
+In some circumstances, the gamemaster may not be
+concerned that a character might fail a test, but instead
+simply wants to gauge how well the character per-
+forms. In this case, the gamemaster calls for a Simple
+Success Test, which is handled just like a standard
+Success Test (p. 117). Rather than determining suc-
+cess or failure, however, the test is assumed to succeed.
+The roll determines whether the character succeeds
+strongly (rolls equal to or less than the target number)
+or succeeds weakly (rolls above the target number).
+
+
+           Dav is taking a short spacewalk between two
+           parked ships. The gamemaster determines that this
+           is a routine operation and calls for Dav to make a
+           Simple Success Test using the Freefall skill. Dav’s
+ EXAMPLE
+
+
+
+
+           skill is only 35. He rolls a 76, but the gamemaster
+           merely determines that Dav has some trouble
+           orienting himself and has to take some extra time.
+           If Dav had rolled a 77—a critical failure—his suit’s
+           maneuvering jets may have died and he may have
+           accidentally propelled himself into deep space.
+
+
+MARGIN OF SUCCESS/FAILURE
+Sometimes it may be important that a character not
+only succeeds, but that they kick ass and take names
+while doing it. This is usually true of situations where
+the challenge is not only difficult but the action must
+be pulled off with finesse. Tests of this sort may call
+for a certain Margin of Success (MoS)—an amount by
+which the character must roll under the target number.
+For example, a character facing a target number of 55
+and a MoS of 20 must roll equal to or less than a 35
+to succeed at the level the situation calls for.
+
+
+  An enemy has thrown an incendiary device near
+  Stoya. She has only a moment to act and decides
+  to try to kick it away from herself. Even better, she
+  hopes to kick it into the open maintenance hatch
+  a dozen meters away. The gamemaster determines
+  that in order to kick it into the hatch, Stoya needs
+  to succeed with an MoS of 30. Her Unarmed
+
+
+
+
+                                                           EXAMPLE
+  Combat skill is 66, so Stoya needs to roll 66 or
+  less to kick the device away (though she may still
+  be damaged when it explodes), and 36 or less to
+  kick it into the hatch (in which case she will be
+  completely safe when it detonates). She rolls a
+  44—missing the hatch, but scoring a critical suc-
+  cess! Her aim is off, but the gamemaster decides
+  that the device rebounds off some machinery and
+  falls into the hatch anyway.
+
+
+  At other times, it may be important to know how
+badly a character fails, as determined by a Margin
+of Failure (MoF), which is the amount by which the
+character rolled over the target number. In some cases,
+a test may note that a character who fails with a
+certain MoF may suffer additional consequences for
+failing so dismally.
+
+
+  Nico is trying to sketch out a picture of someone’s
+  face. He has eidetic memory, but his drawing needs
+  to be good enough for someone else to identify the
+                                                           EXAMPLE
+
+
+
+
+  person. He rolls against his Art: Drawing skill of 34,
+  scoring a 97—a MoF of 63. The illustration is so
+  bad that the gamemaster determines that anyone
+  using that picture to identify the person will need
+  to score a MoS of at least 63 on a Perception Test
+  to recognize the person.
+
+
+EXCELLENT SUCCESSES/SEVERE FAILURES
+Excellent Successes and Severe Failures are a method
+used to benchmark successes and failures with an
+MoS or MoF of 30+. Excellent Successes are used in
+situations where an especially good roll may boost the
+intended effect, such as inflicting more damage with
+a good hit in combat. Severe Failures denote a roll
+that is particularly bad and has a worse effect than a
+simple failure. Neither Excellent Successes or Severe
+Failures are as good or bad as criticals, however.
+
+
+  Stoya has been caught in a deal gone bad. She
+  moves to kick her opponent using her Unarmed
+  Combat of 65. She rolls a 33 (for an MoS of 32),
+                                                           EXAMPLE
+
+
+
+
+  and her opponent rolls a 21 (also successful, but
+  less than Stoya, so she wins). She has succeeded
+  and beaten her opponent with an MoS of 30+,
+  scoring an Excellent Success, meaning she will
+  inﬂict extra damage with the kick.

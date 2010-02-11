@@ -1,0 +1,60 @@
+suffers a –10 to –30 modifier (gamemaster’s discre-         Test to spot the back door. If the backdoor’s installer
+tion). An eclectic collection of software programs          scored an Excellent Success on their Programming
+offer a diverse range of AR illusions.                      Test, this Infosec Test suffers a –30 modifier.
+   Hackers may also improvise illusions on the
+fly, usually by patching in sensor data from others         CRASHING SOFTWARE
+sources, though this is more difficult and more easily      Intruders can attempt to crash software programs
+spotted (typically adding a +10 to +30 modifier to          by killing the processes that run them. This requires a
+Perception Tests). The advantage is that the hacker         Complex Action and an Infosec Test. Note that some
+can modify the illusion in reaction to the user’s ac-       software is set to immediately respawn, but this can take
+tions or environmental factors on the fly. AR illusion      from 1 Action turn to 1 minute, depending on the system.
+software, however, also offers some template illusions         Hackers may crash AIs, AGIs, and even infomorphs
+that can be modified and controlled in real-time via a      this way, but the process is more difficult. In this case,
+connected interface.                                        an Opposed Infosec Test is made against the target,
+   Whenever a user is bombarded with AR illusions, the      who is immediately aware they are under attack. Two
+gamemaster should make a secret Perception Test to see      consecutive tests must succeed in order to crash an AI,
+if they spot the deception. Even if they do, however, the   three in order crash an AGI or infomorph. If successful,
+character may still react to them. Almost anyone will       the AI/infomorph immediately reboots, which generally
+duck when they see an object suddenly flying at their       takes 3 Action Turns, longer if the gamemaster chooses.
+face, as their body reacts on its own before the brain
+comprehends that it’s an illusion and not a threat.         ELIMINATING INTRUSION TRACES
+   Aside from their deceptive value, illusions can be       Hackers who have avoided being Locked may attempt
+used to distract users or otherwise impair their percep-    to clean up all traces of their intrusion before they
+tive faculties. For example, dark illusory clouds can       exit a system. This involves erasing incriminating data
+obscure vision, ear-wrenching high-volume noises can        in the access and security logs, and otherwise hiding
+make people cringe, and a persistent tickling sensation     any evidence of system tampering. This requires a
+might drive anyone crazy. Such effects can apply a –10      Complex Action and an Infosec Test, or an Opposed
+to –30 modifier to Perception Tests and other actions,      Infosec Test if the system is actively monitored. If suc-
+but the user can also adjust their filters and/or turn      cessful, the intruder has wiped anything that might be
+their AR off if necessary.                                  used to track them down later, such as mesh ID, etc.
+
+BACKDOORS                                                   HACKING VPNS
+A backdoor is a method of bypassing a system’s normal       Virtual private networks (VPNs) are more challeng-
+authentication and security features. It enables a hacker   ing to hack than standard devices. Because they exist
+to sneak into a system by exploiting a flaw (which can      as an encrypted network within the mesh, accessing
+take the form of an installed program or modification       channels of communication within a VPN is all but
+to an existing program or hardware device) that was         impossible with the encryption key. This means any
+integrated into the system previously, either by themself   attempt to sniff the VPN traffic is also impossible
+or another hacker (who shared the backdoor).                with the key.
+   To install a backdoor, the hacker must successfully        The only way to hack a VPN is to hack into a
+infiltrate the system and succeed in both a Program-        device that is part of the VPN and running the VPN
+ming and an Infosec Test (or an Opposed Infosec Test        software. Once an intruder has access to such a device,
+if the system is actively monitored). The Programming       they can attempt to access the VPN. The account the
+Test determines how well the backdoor is crafted and        hacker has compromised may have VPN privileges, in
+hidden within system processes, while the Infosec Test      which case they are in. If not, they must hack access,
+represents incorporating it into the system without se-     requiring an Infosec Test with a Minor modifier (–10).
+curity noticing. Modify the Programming Test by –20            Once access to the VPN is acquired, the hacker may
+if the hacker wants to have security privileges when        treat the VPN like any other network. They may hack
+using the backdoor, –30 for admin.                          other devices on the VPN, sniff VPN traffic, track
+   Once installed, using a backdoor requires no test to     other users on the VPN, research data hidden away
+access the system—the hacker simply logs on as if they      on the VPN, and so on.
+were a legitimate user, gaining Covert status. Anyone
+who is aware of a backdoor’s details may use it.            SCRIPTING
+   How long the backdoor lasts depends on many fac-         A script is a simple program—a batch of instructions—
+tors and is largely up to the gamemaster. Backdoors         that a hacker can embed in a system to be executed at
+are only likely to be spotted during complete security      a later pre-scheduled time or upon a certain trigger
+audits, so more paranoid systems are likely to detect       event, even without the hacker being present. When
+them earlier. Security audits may also occur when an        activated, the script will undertake a number of system
+intruder is Spotted but never Locked. Security audits       operations limited by the abilities of the operating
+are a Task Action with a timeframe of 24 hours. The         system and the access rights the hacker had when
+character conducting the audit makes an Infosec             they implemented the script in the system. Scripts are

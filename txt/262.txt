@@ -1,0 +1,120 @@
+suffers a –10 to –30 modifier (gamemaster’s discre-
+tion). An eclectic collection of software programs
+offer a diverse range of AR illusions.
+   Hackers may also improvise illusions on the
+fly, usually by patching in sensor data from others
+sources, though this is more difficult and more easily
+spotted (typically adding a +10 to +30 modifier to
+Perception Tests). The advantage is that the hacker
+can modify the illusion in reaction to the user’s ac-
+tions or environmental factors on the fly. AR illusion
+software, however, also offers some template illusions
+that can be modified and controlled in real-time via a
+connected interface.
+   Whenever a user is bombarded with AR illusions, the
+gamemaster should make a secret Perception Test to see
+if they spot the deception. Even if they do, however, the
+character may still react to them. Almost anyone will
+duck when they see an object suddenly flying at their
+face, as their body reacts on its own before the brain
+comprehends that it’s an illusion and not a threat.
+   Aside from their deceptive value, illusions can be
+used to distract users or otherwise impair their percep-
+tive faculties. For example, dark illusory clouds can
+obscure vision, ear-wrenching high-volume noises can
+make people cringe, and a persistent tickling sensation
+might drive anyone crazy. Such effects can apply a –10
+to –30 modifier to Perception Tests and other actions,
+but the user can also adjust their filters and/or turn
+their AR off if necessary.
+
+BACKDOORS
+A backdoor is a method of bypassing a system’s normal
+authentication and security features. It enables a hacker
+to sneak into a system by exploiting a flaw (which can
+take the form of an installed program or modification
+to an existing program or hardware device) that was
+integrated into the system previously, either by themself
+or another hacker (who shared the backdoor).
+   To install a backdoor, the hacker must successfully
+infiltrate the system and succeed in both a Program-
+ming and an Infosec Test (or an Opposed Infosec Test
+if the system is actively monitored). The Programming
+Test determines how well the backdoor is crafted and
+hidden within system processes, while the Infosec Test
+represents incorporating it into the system without se-
+curity noticing. Modify the Programming Test by –20
+if the hacker wants to have security privileges when
+using the backdoor, –30 for admin.
+   Once installed, using a backdoor requires no test to
+access the system—the hacker simply logs on as if they
+were a legitimate user, gaining Covert status. Anyone
+who is aware of a backdoor’s details may use it.
+   How long the backdoor lasts depends on many fac-
+tors and is largely up to the gamemaster. Backdoors
+are only likely to be spotted during complete security
+audits, so more paranoid systems are likely to detect
+them earlier. Security audits may also occur when an
+intruder is Spotted but never Locked. Security audits
+are a Task Action with a timeframe of 24 hours. The
+character conducting the audit makes an Infosec
+Test to spot the back door. If the backdoor’s installer
+scored an Excellent Success on their Programming
+Test, this Infosec Test suffers a –30 modifier.
+
+CRASHING SOFTWARE
+Intruders can attempt to crash software programs
+by killing the processes that run them. This requires a
+Complex Action and an Infosec Test. Note that some
+software is set to immediately respawn, but this can take
+from 1 Action turn to 1 minute, depending on the system.
+   Hackers may crash AIs, AGIs, and even infomorphs
+this way, but the process is more difficult. In this case,
+an Opposed Infosec Test is made against the target,
+who is immediately aware they are under attack. Two
+consecutive tests must succeed in order to crash an AI,
+three in order crash an AGI or infomorph. If successful,
+the AI/infomorph immediately reboots, which generally
+takes 3 Action Turns, longer if the gamemaster chooses.
+
+ELIMINATING INTRUSION TRACES
+Hackers who have avoided being Locked may attempt
+to clean up all traces of their intrusion before they
+exit a system. This involves erasing incriminating data
+in the access and security logs, and otherwise hiding
+any evidence of system tampering. This requires a
+Complex Action and an Infosec Test, or an Opposed
+Infosec Test if the system is actively monitored. If suc-
+cessful, the intruder has wiped anything that might be
+used to track them down later, such as mesh ID, etc.
+
+HACKING VPNS
+Virtual private networks (VPNs) are more challeng-
+ing to hack than standard devices. Because they exist
+as an encrypted network within the mesh, accessing
+channels of communication within a VPN is all but
+impossible with the encryption key. This means any
+attempt to sniff the VPN traffic is also impossible
+with the key.
+  The only way to hack a VPN is to hack into a
+device that is part of the VPN and running the VPN
+software. Once an intruder has access to such a device,
+they can attempt to access the VPN. The account the
+hacker has compromised may have VPN privileges, in
+which case they are in. If not, they must hack access,
+requiring an Infosec Test with a Minor modifier (–10).
+   Once access to the VPN is acquired, the hacker may
+treat the VPN like any other network. They may hack
+other devices on the VPN, sniff VPN traffic, track
+other users on the VPN, research data hidden away
+on the VPN, and so on.
+
+SCRIPTING
+A script is a simple program—a batch of instructions—
+that a hacker can embed in a system to be executed at
+a later pre-scheduled time or upon a certain trigger
+event, even without the hacker being present. When
+activated, the script will undertake a number of system
+operations limited by the abilities of the operating
+system and the access rights the hacker had when
+they implemented the script in the system. Scripts are

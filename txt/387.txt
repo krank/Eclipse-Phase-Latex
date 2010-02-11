@@ -1,0 +1,120 @@
+the character has with people capable of pinging their
+Rep with positive or negative feedback. Actions that
+happen in secret, without anyone ever knowing, should
+have no effect. Likewise, pissing off a Factor or a brinker
+isolate who never communicates with outsiders isn’t
+going to matter because no one else will ever hear of it
+(unless the character lifelogs it and posts it to the mesh
+later ... ). Note that Rep modifications only apply to Rep
+scores tied to the character’s known identity.
+   Note that characters may gain and lose Rep score
+in networks they don’t actively participate in. For
+example, a character with r-rep of 0 may help bring
+out a major scientific discovery that is shared with the
+solar system’s scientific community at large, thus gain-
+ing the character a few points of r-rep even though
+they never hang out with argonauts or scientists—
+what matters is that people who access r-rep will find
+positive details when they ping the person’s score on
+that particular rep network.
+   Certain actions may result in a character simulta-
+neously gaining Rep with one network while losing
+Rep in another. For example, an anarchist prankster
+who embarrasses a major hypercorp figure in public
+will certainly gain some @-rep points, but their c-rep
+is likely to go down by an equal amount.
+   Rep changes provide an excellent way for gamemas-
+ters to include more roleplaying and more interactions
+with the Eclipse Phase universe in their games. Social
+networks are a two-way street, meaning that members
+of the character’s social networks might contact them
+for equipment, favors, and information during game
+play for things that are completely unrelated to the
+mission the character is on. A character who ignores
+such requests risks losing Rep. Fulfilling such requests
+may gain the character Rep and may also provide
+comic relief or even plant some plot hooks for the
+next scenario.
+
+REPUTATION GAINS
+Rep awards are given for characters who help people
+out, benefit a faction, do something creative, make
+a major discovery or strides in a particular area of
+activity, pull off successful publicity stunts, win a
+competition, and so on. Some suggested examples are
+noted here:
+   Trivial Award (1–2 points): Do a Level 1 favor,
+make a moderate contribution to free/open source
+projects, throw a good party, make your sales quota,
+do the job no one else wants to do.
+   Minor Award (3–4 points): Do a Level 2 favor, de-
+liver a kick-ass or moving performance, make a minor
+contribution to science, win impressively at some
+public event.
+   Moderate Award (5–6 points): Do a Level 3 favor,
+make a serious business score, lead the winning side
+in a decisive engagement, create the meme everyone
+talks about for a week and then forgets, make the
+news for something positive, risk serious injury.
+   Major Award (7–8 points): Do a Level 4 favor,
+design the new tool everyone wants, throw an
+impressive planetoid-scale event, complete an exten-
+sive project (1 month work or 1 week of difficult/
+specialized work), risk death.
+   Extreme Award (9–10 points): Do a Level 5 favor,
+start this year’s hot fashion trend, make a major scien-
+tific discovery, close the deal on a major corporate ac-
+quisition, start (or put down) a revolution, complete
+a major project (1 year work or 1 month difficult/
+specialized work), risk true death.
+
+REPUTATION LOSSES
+Rep losses are suffered by characters who fail to render
+aid when needed, lose professional credibility, make
+major or public blunders, doublecross their friends,
+and so on. Some suggested examples are noted here:
+   Trivial Loss (–1 or –2 points): Fail to do a Level 1
+favor, inconvenience others, be involved in profession-
+al dispute, ruin someone’s day, never are available.
+   Minor Loss (–3 or –4 points): Fail to do a Level 2
+favor, embarrass yourself at a public event, piss off
+somebody important.
+   Moderate Loss (–5 or –6 points): Fail to do a Level
+3 favor, endanger someone’s physical safety, make
+the news for something negative, ruin an event for
+everybody.
+   Major Loss (–7 or –8 points): Fail to do a Level 4
+favor, screw up a major mission or activity, endanger
+someone’s life, associate with hated rivals.
+   Extreme Loss (–9 or –10 points): Fail to do a Level
+5 favor, botch a major mission or activity spectacularly,
+betray a faction to its rivals or enemies.
+
+BACKUPS, RECORD-KEEPING,
+AND SAVE POINTS
+Thanks to cortical stacks and archived backups, char-
+acters in Eclipse Phase can recover from death. When
+restoring a character from an earlier backup, however,
+it is important to be able to know what the state of
+the character was as of that backup. Any Rez Points
+gained or spent, any character advancements made,
+any key information or memories acquired since that
+backup was made are lost. This means that in terms of
+game stats, resorting to an old backup can mean loss
+of a character’s hard-earned advancements—that’s the
+trade-off for being effectively immortal.
+   Since these changes can have a serious effect on
+game play, it’s important to conduct accurate record-
+keeping. This sort of bookkeeping isn’t hard, and
+there are two ways to do it. The first is to simply
+make a copy of a the character’s record sheet any
+time a character makes an archived backup, forks off
+an alpha or beta copy, or dies (thus freezing the corti-
+cal stack backup). Each of these is considered a “save
+point.” In this case, carefully note the date and time
+(both in character and out of character), and what
+the event was that prompted the backup. Since what
+knowledge a character knows at different points in
+their life may be important, you may also want to
+note what important information they may hold in
+their head, as well as what the recent events in their

@@ -1,0 +1,124 @@
+COMPLEX ACTIONS
+Complex actions require concent
+effort. The number of Complex
+character may take per turn is de
+by their Speed stat (see p. 121).
+  Examples: attacking, shooting, a
+disarming a bomb, detailed examin
+
+TASK ACTIONS
+Task actions are any actions tha
+longer than one Action Turn to
+Each Task action has a timeframe
+listed in the task description or o
+determined by the gamemaster. T
+frame determines how long the t
+to complete, though this may be re
+10 percent for every 10 full point
+the character scores on the test (se
+of Success/Failure, p. 118). If a
+fails on a Task action test roll, th
+on the task for a minimum period
+10 percent of the timeframe for ea
+points of MoF before realizing it’s
+   For Task actions with timefram
+day or longer, it is assumed that th
+ter only works eight hours per da
+acter that works more hours per
+reduce the time accordingly. Ch
+working on Task actions may a
+rupt their work to do something
+then pick up where they left off, u
+gamemaster rules that the action
+continuous and uninterrupted atte
+   Similar to taking the time (p
+character may rush the job on a Ta
+taking a penalty on the test in or
+crease the timeframe. The charac
+declare they are rushing the job be
+roll the test. For every 10 percent
+to reduce the timeframe, they inc
+modifier on the test (to a maximu
+tion of 60 percent with a maximum
+of –60).
+
+
+
+DEFINING YOUR CHARA
+In order to gauge and quantify w
+character is merely good at and w
+excel in—or what they are cluele
+and suck at—Eclipse Phase uses
+of measurement factors: stats, sk
+and morphs. Each of these chara
+is recorded and tracked on your c
+record sheet (p. 399).
+
+CONCEPT
+Your character concept defines wh
+in the Eclipse Phase universe. You’r
+a run-of-the-mill plebeian with a b
+           mundane life, you’re a participant in a post-
+on or      apocalyptic transhuman future who gets
+ons a      caught up in intrigue, terrible danger, un-
+mined      speakable horrors, and scrambling for sur-
+           vival. Much like a character in an adventure,
+batics,    drama, or horror story, you are a person
+on         to whom interesting things happen—or if
+           not, you make them happen. This means
+           your character needs a distinct personality
+ quire     and sense of identity. At the very least, you
+ plete.    should be able to sum up your character
+sually     concept in a single sentence, such as “cantan-
+ rwise     kerous neotenic renegade archaeologist with
+  time-    anger management issues” or “thrill-seeking
+ takes     social animal who is dangerously obsessed
+ ed by     with conspiracy theories and mysteries.” If
+  MoS      it helps, you can always borrow ideas from
+ argin     characters you’ve seen in movies or books,
+racter     modifying them to fit your tastes.
+ work         Your character’s concept will likely be
+ual to     influenced by two important factors: back-
+ 0 full    ground and faction. Your background de-
+ailure.    notes the circumstances under which your
+ f one     character was raised, while your faction
+harac-     indicates the post-Fall grouping to which
+   char-   you most recently held ties and allegiances.
+y may      Both of these play a role in character cre-
+acters     ation (p. 128).
+  inter-
+e and      MOTIVATIONS
+ss the     The clash of ideologies and memes is a core
+quires     component of Eclipse Phase, and so every
+on.        character has three motivations—personal
+  7), a    memes that dominate the character’s interests
+ ction,    and pursuits. These memes may be as ab-
+ to de-    stract as ideologies the character adheres to
+  must     or supports—for example, social anarchism,
+e they     Islamic jihad, or bioconservatism—or they
+   wish    may be as concrete as specific outcomes the
+a –10      character desires, such as revealing a certain
+reduc-     hypercorp’s corruption, obtaining massive
+odifier    personal wealth, or winning victories for
+           uplifted rights. A motivation may also be
+           framed in opposition to something; for ex-
+           ample, anti-capitalism or anti-pod-citizenship,
+TER        or staying out of jail. In essence, these are
+           ideas that motivate the character to do the
+  your
+t they     things they do. Motivation is best noted as a
+about      term or short phrase on the character sheet,
+umber      marked with a + (in favor of) or – (opposed
+ traits,   to). Players are encouraged to develop their
+ istics    own distinct motivations for their characters,
+ cter’s    in cooperation with the gamemaster. Some
+           examples are provided on p. 138.
+              In game terms, motivation is used to help
+           define the character’s personality and influ-
+           ence their actions for roleplaying purposes.
+ u are
+           It also serves to regain Moxie points (p. 122)
+ot just
+           and earn Rez Points for character advance-
+ g and
+           ment (p. 152).

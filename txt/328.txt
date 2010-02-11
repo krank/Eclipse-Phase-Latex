@@ -1,0 +1,83 @@
+   Specs: Specs are vision-enhancing glasses. They
+deliver sensory data directly into the wearer’s visual
+cortex by connecting with their basic mesh inserts
+(p. 300), though visual displays are available for bio-
+conservatives and other characters without implants.
+Specs extend the range of the wearer’s vision from
+terahertz waves to gamma rays (p. 302). Specs in-
+clude a t-ray emitter (p. 306), however, using x-rays,
+or gamma rays for visual purposes requires a sepa-
+rate emitter, since neither of these sorts of radiation
+are common inside habitats, or in any safe environ-
+ments. Specs have a variable focus equivalent to 5
+power magnifiers and provide the wearer with a +10
+bonus to all Perception Tests involving vision. [Low]
+   Tools: Tools come in kits (portable), shops (can fit
+into a large vehicle), and facilities (large, non-mobile).
+Each set of tools applies to a particular skill, such
+as Hardware: Electronics or Hardware: Groundraft.
+[Low (Kit), High (Shop), Expensive (Facility)]
+   Utilitool: This hand tool includes a specialized
+small nanobot generator. In its basic form, a utilitool
+is the size and shape of a large fountain pen. It can
+transform into almost any tool, however, from a
+wrench, knife, or powered screwdriver to a rotary
+grinder or pair of pliers. Some inexpensive utilitools
+are optimized for specialized tasks, like cooking
+or wilderness survival, but more expensive models
+become almost any imaginable hand tool. Utilitools
+are normally mentally controlled using the character’s
+basic mesh inserts. Characters without such implants
+can control the tool via voice commands and touch
+controls. Characters using a utilitool gain a +10
+modifier to skills involving repairing or modifying de-
+vices with mechanical parts, opening locks, disarming
+alarm systems, or performing first aid. [Low]
+   Viewers: These small and highly advanced binoculars
+possess all the visual enhancement of specs (p. 325), but
+also provide 50x magnification. They also include a di-
+rectional microphone that magnifies sound from the di-
+rection the viewers are pointed by a factor of 50. View-
+ers provide the user with a +30 bonus to all Perception
+Tests involving vision or hearing for the target they are
+aimed at. This bonus is not cumulative with bonuses
+from any other device or augmentation. [Low]
+
+
+
+NANOTECHNOLOGY
+Nanotechnology is the precise manipulation of matter
+at the atomic level, typically using millions of micro-
+scale nanomachines. Nanotechnology transformed
+manufacturing, enabling new techniques and materi-
+als. The advent of nanofabrication—building objects
+from the molecular level up—transformed economies,
+allowing people to simply manufacture whatever they
+needed from raw materials. Nanotechnology is still a
+growing field, however, and has its limitations. While
+the TITANs unleashed self-replicating nanoswarms
+with the ability to transform or destroy anything
+through the power of geometric growth, such technol-
+ogy remains far beyond transhumanity’s grasp.
+
+BASIC NANOTECHNOLOGY
+Basic nanotechnology is exceedingly widespread
+and used throughout the solar system, serving as the
+primary method of manufacturing for decades. The
+nanobots of basic nanotech are confined to delicate
+and specially-maintained environments like the
+insides of cornucopia machines or healing vats and
+cannot operate elsewhere.
+
+HEALING VATS
+Healing vats were the first type of nanotech medicine
+developed and remain the most powerful medical
+devices in common use. With the exception of a few
+exceptionally deadly nanoplagues, a healing vat can
+cure any disease and heal any injury. As long as the
+patient is alive when they are place in the healing
+vat, they will not only survive, but emerge without a
+scratch. A healing vat can even take a severed head (as
+long as it has been stabilized by medichines or nano-
+tech first aid) and regrow an entire body based on the
+head’s genetics. If the patient’s body or medical records

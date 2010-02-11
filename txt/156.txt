@@ -1,0 +1,106 @@
+                                                          A
+
+
+
+
+                                                            P
+                                                        Prof
+                                                        Prog
+al Space Colonist
+
+
+chism +Open Source +Tech-Hacking
+
+
+                    Implants: Access Jacks, Basic
+el 1) ■               Biomods, Basic Mesh Inserts,
+                                                       You’re
+                      Cortical Stack, Electrical
+                                                       kind t
+                      Sense, Grip Pads, Oxygen
+                                                       cal to
+                      Reserve, Prehensile Feet,
+                                                       them,
+                      Wrist-Mounted Tools ■
+                                                       them
+                    Gear: 2 Automechs, Backup
+                                                       imag
+                      Insurance (1 month), Engineer
+                                                       busy
+                      Nanoswarm, Fabber, Fixer
+                                                       tures
+/6] ■                 Nanoswarm, Muse, Vacsuit
+                                                       poses
+eezer                 (Light Smartfabric, 5/5) ■
+                                                       beca
+                                                       thing
+■
+                                                       it fro
+                       “Don't worry, it works; these things r
+          I voided the warranty, but anything loaded with DR
+ANARCHIST TECHIE
+          APTITUDES
+              COG      COO    INT    REF       SAV       SOM      WIL
+     Base      15       20     15     10        15        15      15
+rph Bonus      5        5                                 5
+     Total     20       25     15     10       15         20       15
+
+
+
+
+OX     TT      LUC      IR    WT     DUR       DR
+                                                         STATS
+                                                         INIT     SPD
+        6       30      60     7      35       53         50       1
+
+
+
+
+                                                MORPH
+                                                     SKILLS
+                              APT    BASE       BONUS           TOTAL
+Academics: Engineering        COG      60         5               65
+emics: Nanotechnology         COG      70         5               75
+    Academics: Physics        COG      60         5               65
+           Art: Sculpture     INT      55                         55
+                  Free Fall   REF      60                         60
+  Hardware: Aerospace         COG      45            5            50
+     Hardware: Armorer        COG      55            5            60
+  Hardware: Electronics       COG      60            5            65
+     Hardware: Robotics       COG      60            5            65
+                   Infosec    COG      40            5            45
+nterests: Martian Beers       COG      45            5            50
+ nterests: Robot Models       COG      45            5            50
+    Interests: VR Games       COG      55            5            60
+               Interfacing    COG      50            5            55
+ nguage: Native English       INT      85                         85
+   Language: Mandarin         INT      60                         60
+etworking: Autonomists        SAV      70                         70
+   Networking: Firewall       SAV      35                         35
+ Networking: Scientists       SAV      35                         35
+               Perception     INT      55                         55
+            Pilot: Aircraft   REF      45                         45
+        Pilot: Spacecraft     REF      30                         30
+ession: Habitat Systems       COG      60            5            65
+on: Spacecraft Systems        COG      60            5            65
+ ming (Nanofabrication)       COG    60 (70)         5          65 (75)
+              Scrounging      INT      45                         45
+         Spray Weapons        COO      40            5            45
+
+
+
+
+  old school hacker—the        for open source technology that
+likes to take technologi-      anyone can use or modify as they
+ dismantle them, modify        see fit and you support decen-
+ uild them, and then use       tralized models of peer collab-
+ ays the designers never       oration—nothing pisses you off
+ . When you’re not too         more than restrictive proprietary
+ding crazy robotic sculp-      tech with which you or others
+   art performance pur-        can’t meddle. You take a hands-on
+ ur skills are in demand       approach to most problems, but
+you can ﬁx almost any-         you become so engrossed in your
+prove it, or even build        projects that you tend to be oblivi-
+  cratch. You advocate         ous to the world around you. ■
+hemselves anyway.
+ike that is broken to start with.”

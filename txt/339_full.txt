@@ -1,0 +1,36 @@
+exchangeable. For example, all railgun SMGs can
+share ammo.
+  The ammunition’s Damage Value and Armor Pen-
+                                                                        KINETIC AMMUNITION
+etration modifiers are added to the weapon’s base           AMMO              AP MODIFIER       DV MODIFIER
+DV and AP. With the exception of regular and armor-         Armor-Piercing        –5                  –2
+piercing rounds, none of this ammunition may be
+                                                            Bug                   +1                –1d10
+used with railguns. Listed costs are per 100 rounds
+                                                            Capsule               +1                 –half
+of ammunition.
+  Armor-Piercing: This tungsten-carbide ammunition          Flux              as ammo type       as ammo type
+penetrates armor effectively. [Low]                         Hollow-Point          +2                +1d10
+   Bug: Bug rounds are equipped with a microbug and         Jammer                —               no damage
+medical sensor nanobots. They attempt to gather in-         Plastic           (AV doubled)           –half
+formation on the target’s location (via standard mesh       Reactive              –2                  +2
+tracking), health (querying the target’s medichines),       Reactive Armor-
+and surroundings (typically hindered by being inside                              –6                  –1
+                                                            Piercing
+the target’s body). They will transmit status reports
+                                                            Regular               —                   —
+in a pre-programmed manner via the mesh or a pre-
+                                                            Splash                —               no damage
+chosen frequency band either continuously or in pre-
+set intervals. [Low]                                        Zap                   +2         –half + shock (p. 204)
+   Capsule: Capsule ammo carries a payload (drug,           SMART AMMO
+toxin, nanobots) that is released inside the target after   Accushot              —                   —
+the round penetrates. [Trivial plus payload cost]           Biter                 —                 +1d10
+   Flux: Flux ammo is made from rheological materi-         Flayer                —                   +2
+als that allow each bullet to be “programmed” so that
+                                                            Homing                —                   —
+they may change from regular rounds to less-lethal soft
+                                                            Laser-Guided          —                   —
+plastic-like rounds. This allows the firer to choose the
+type of round (regular or plastic) made with each shot      Proximity             –1                  +2
+or burst, and then change with the next one. [Low]          Zero                  —                   —
