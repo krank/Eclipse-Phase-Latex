@@ -20,7 +20,7 @@ and superior combat morphs, providing security and
 public police services to self-governing habitats or
 hypercorp installations. Shifting political alliances
 between habitat clusters, corporate rivalry, and the
-constant fear of TITAN agents cater to Direct Action’s
+constant fear of TITAN agents cater to Direct Action's
 paranoia-inducing marketing. The corporation main-
 tains several habitats as physical training facilities and
 armament depots.
@@ -32,14 +32,14 @@ Ecologene specializes in living systems, environmental
 genetics (with a specialty in insects), smart animals,
 bio-architecture, and environmental nanotech. They
 design and maintain the ecosystems inside numerous
-habitats and tunnel colonies. One of Ecologene’s no-
+habitats and tunnel colonies. One of Ecologene's no-
 table projects is building and maintaining a massive
 genetics archive of all life forms, though this endeavor
 was nearly crippled by the Fall. For unknown reasons,
 Ecologene seems to be favored by the Factors. Some
 speculate that Ecologene has some sort of blackmail
 material in hand, while others believe Ecologene is
-trading away transhumanity’s genetic secrets in ex-
+trading away transhumanity's genetic secrets in ex-
 change for a few xeno-tech gifts.
 
 EXOTECH
@@ -66,7 +66,7 @@ Major Industries: Media (AR, VR, XP), News,
 Entertainment, Memetics
 Major Stations: Elysium (Mars)
 Living up to its name, Experia dominates the solar
-system’s news, media, and entertainment market
+system's news, media, and entertainment market
 segments, generating controversy not only with its
 publicly expressed pro-AI stance or inviting an AGI
 to its board of directors, but also by proficient use of
@@ -74,10 +74,10 @@ hyperviral marketing and sophisticated XP-program-
 ming. Another core segment is the production of edu-
 cational XP and infomorph or AI tutors, some of the
 latter regularly ascending to pop-culture icon status.
-Experia is the Planetary Consortium’s prime authority
+Experia is the Planetary Consortium's prime authority
 on designing and deploying customized viral memes,
 developed to counter anything posing a threat to the
-Consortium’s interests. The corp has automated nodes
+Consortium's interests. The corp has automated nodes
 and VR centers on many habitats throughout the solar
 system, and it contracts thousands of freelance lifel-
 oggers as live, roving, citizen journalistas. Claims by
@@ -111,9 +111,9 @@ on Mars.
 WAR CRIMES
                   To: Meshleaks Newswire
                   From: <mesh ID does not exist>
-                      You asked for it: veriﬁable evidence
-                  proving Direct Action’s war crimes
+                      You asked for it: verifiable evidence
+                  proving Direct Action's war crimes
                   during the Fall <link failure>. Go ahead,
                   take it public. The Planetary Consortium
-                  elites will ﬁnd you, kill you, and erase
+                  elites will find you, kill you, and erase
                   your backups. Go ahead. Test them.

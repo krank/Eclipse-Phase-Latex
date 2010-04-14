@@ -1,9 +1,9 @@
 into the brain and central nervous system. The petals
 are full of sensors that image the brain using a combi-
 nation of MRI, sonogram, and positional information
-broadcast by the nanobot swarm in the morph’s brain.
+broadcast by the nanobot swarm in the morph's brain.
 The ego bridge then builds a digital copy of the per-
-son’s brain, which is stored away in the service’s highly
+son's brain, which is stored away in the service's highly
 secure, off-the-mesh, hardwired data vaults.
    In the case of pods, the ego bridge scans the biologi-
 cal brain bits and also accesses the cyberbrain to copy
@@ -21,9 +21,9 @@ medical specialist is a good idea, no test is necessary.
    If an uploading character does not plan to return
 to their morph, it is usually put on ice until someone
 else resleeves into it. If a new resleeve is not ready
-and the uploading character doesn’t want to leave a
+and the uploading character doesn't want to leave a
 potential copy of themselves behind, they can have
-the morph’s mind wiped by the nanobots as part of
+the morph's mind wiped by the nanobots as part of
 the uploading process.
 
 UPLOADING-RESLEEVING CONTINUITY
@@ -41,19 +41,19 @@ and the new sleeve. This connection can even be made
 wirelessly or by farcaster link (with a maximum dis-
 tance of 10,000 kilometers).
    As the mind is uploaded, the ego bridge builds a
-virtual brain by copying the morph’s brain bit by bit,
+virtual brain by copying the morph's brain bit by bit,
 using the data gained from the brain scan. At the same
 time, this data is slowly copied to the new sleeve as
-nanobots rewire the sleeve’s brain structure (a much
+nanobots rewire the sleeve's brain structure (a much
 slower process). As the transfer occurs, the nanobots
 in the brain sever individual neural connections and
 re-route them to their duplicates in the virtual brain,
 and then eventually to the new brain. Effectively, the
-character’s ego is running partially on the meat brain
+character's ego is running partially on the meat brain
 and partially on the virtual copy. By the time the nano-
 bots sever the last of the neural connections in the
 old brain, the ego is running completely on the virtual
-brain and the new sleeve’s brain. Once the resleeving
+brain and the new sleeve's brain. Once the resleeving
 is completed, the virtual brain is shut down.
    In terms of perceptions, the character, who is awake
 during this process, experiences a very gradual shift

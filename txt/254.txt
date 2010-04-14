@@ -1,16 +1,16 @@
 DIGITAL ACTIVITY TRACKING
-Tracking someone’s online activities (meshbrowsing,
+Tracking someone's online activities (meshbrowsing,
 entoptic interactions, use of services, messaging, etc.)
 is slightly more difficult, depending on what exactly
-you’re after. Gathering information on a user’s public
+you're after. Gathering information on a user's public
 mesh activities—social network profiles, public
 forums posts, public lifelogging, etc.—is handled just
 like standard online research (p. 249).
 
 TRACKING BY MESH ID
 A more investigate search can attempt to use the
-target’s mesh ID (p. 246), using it as a sort of digital
-fingerprint to look up where else they’ve been online.
+target's mesh ID (p. 246), using it as a sort of digital
+fingerprint to look up where else they've been online.
 This primarily involves checking access/transaction
 logs, which are not always publicly accessible. This
 sort of search requires a Research Test, handled as a
@@ -33,7 +33,7 @@ traffic (including VPNs and anything else using public
 key cryptography) as the results are gibberish. Quan-
 tum encrypted communications cannot be sniffed.
    Once you have the data, finding the information
-you’re looking for can be a challenge. Handle this as
+you're looking for can be a challenge. Handle this as
 a standard Research Test (p. 245).
 
 REMOTE SNIFFING VIA MESH ID
@@ -41,7 +41,7 @@ Finally, a mesh ID may also be actively monitored
 to see what mesh activity it engages in. This requires
 special sniffer software (p. 331) and a Research Test.
 If successful, the monitoring will provide information
-on that user’s public mesh activities (how much is
+on that user's public mesh activities (how much is
 determined by the gamemaster and the MoS), such
 as which sites they access, who they message, etc. It
 will not, however, uncover anything that is encrypted
@@ -92,18 +92,18 @@ mous is to set your muse to supply false mesh IDs in
 online transactions. Though illegal in many jurisdic-
 tions, this is an easy task for any character or muse to
 do. Multiple false IDs are used, making it extremely dif-
-ficult for anyone to tie all of the user’s activities together.
+ficult for anyone to tie all of the user's activities together.
    This method makes it extremely difficult for anyone
-to track the user’s online actions. Someone attempting
+to track the user's online actions. Someone attempting
 to track the character via these false mesh IDs must
 beat them in an Opposed Test, pitting their Research
-skill with a –30 modifier against the character’s (or
-more likely, their muse’s) Infosec skill. This is a Task
+skill with a –30 modifier against the character's (or
+more likely, their muse's) Infosec skill. This is a Task
 Action with a base timeframe of 1 hour, adjusted
 higher according to the amount of activity they hope
 to track. If successful, the tracker manages to dig
 together enough correlating evidence and records of
-false IDs to get a picture of the character’s activities
+false IDs to get a picture of the character's activities
 (how thorough this picture is depends on their MoS).
 If the fail, the anonymous character has effectively
 camouflaged themselves in the mesh.

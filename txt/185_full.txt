@@ -12,7 +12,7 @@ one. This can include motivating your subordinates or        applied when using 
 peers to take action, seducing a companion, winning          Specializations: AI Code, Malware, Nanofabrication,
 a political debate, or negotiating a contract, among           Piracy, Simulspace Code
 other things. Persuasion is handled as an Opposed
-Test against the target’s WIL + WIL + SAV when one           NANOFABRICATION
+Test against the target's WIL + WIL + SAV when one           NANOFABRICATION
 person is simply trying to win over another. If both         Nanofabrication is use of Programming skill to create
 parties are trying to convince each other, make it an        objects using a cornucopia machine, fabber, or maker
 Opposed Test between Persuasion skills.                      (p. 327). If you have appropriate blueprints and raw
@@ -20,13 +20,13 @@ Specializations: Diplomacy, Morale Boosting, Negoti-         materials, most use
    ating, Seduction                                          as a Simple Success Test (p. 118). If you wish to create
                                                              an item for which you do not have blueprints or the
 PILOT: [FIELD]                                               proper raw materials, however, or you wish to alter an
-Type: Field, Active, Vehicle                                 item’s design, then a Nanofabrication Test is called for.
+Type: Field, Active, Vehicle                                 item's design, then a Nanofabrication Test is called for.
 Linked Aptitude: REF                                         See Nanofabrication, p. 284.
   What it is: Pilot is your skill at driving/flying a ve-    Specializations: Art, Clothing, Electronics, Food, Forg-
 hicle of a particular type.                                     ery, Weapons
   When you use it: You use Pilot skill whenever you
 need to maneuver, control, or avoid crashing a vehicle,      PROTOCOL
-whether you are in the pilot’s seat, remote controlling      Type: Active, Social
+whether you are in the pilot's seat, remote controlling      Type: Active, Social
 a robot, or directly jamming a vehicle with VR. Each         Linked Aptitude: SAV
 vehicle has a Handling modifier that applies to this           What it is: Protocol is the art of making a good
 test, along with other situational modifiers (see Bots,      impression in social settings. This includes keeping
@@ -40,16 +40,16 @@ PROFESSION: [FIELD]                                          social/cultural gro
 Type: Field, Knowledge                                       Protocol allows you to navigate treacherous social
 Linked Aptitude: COG                                         waters and put people at ease. If the character is deal-
   What it is: Profession skills indicate training in a       ing with a suspicious or hostile audience, make this an
-profession practiced in Eclipse Phase. This can indi-        Opposed Test against the target’s WIL + WIL + SAV.
+profession practiced in Eclipse Phase. This can indi-        Opposed Test against the target's WIL + WIL + SAV.
 cate either formal training or informal, on-the-job type     Specializations: Anarchist, Brinker, Criminal, Factor,
 training, and includes both legal and extralegal trades.       Hypercorp, Infomorph, Mercurial, Reclaimer, Pres-
   When you use it: Use Profession to perform work-             ervationist, Scum, Ultimate
 related tasks for a specific trade (i.e. mining, balancing
 accounts, designing a security system, etc.) or to refer-    NEGATING SOCIAL GAFFES
 ence specialized knowledge that someone trained in           Sometimes a player will make a mistake that their
-that profession might have.                                  character never would, whether that’s failing to stand
+that profession might have.                                  character never would, whether that's failing to stand
 Sample Fields: Accounting, Appraisal, Asteroid Pros-         in the presence of hypercorp royalty, confusing a gang
-   pecting, Banking, Cool Hunting, Con Schemes,              leader for a peon, or accidentally insulting someone’s
+   pecting, Banking, Cool Hunting, Con Schemes,              leader for a peon, or accidentally insulting someone's
    Distribution, Forensics, Lab Technician, Mining,          heritage. In cases like this, the player may make a Pro-
    Police Procedures, Psychotherapy, Security Ops,           tocol Test for the appropriate field in order to negate
    Smuggling Tricks, Social Engineering, Squad Tactics,      the gaffe. If successful, the character never actually

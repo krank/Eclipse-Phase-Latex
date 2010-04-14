@@ -2,9 +2,9 @@
  graces of whomever ends up with their body/stack.                      Characters trapped far from medical technology—in
     If the cortical stack is not retrievable, the character             a remote station, the wilds of Mars, or the like—may
  still be re-instantiated from an archived backup (p.                   be forced to heal naturally if injured. Natural healing
- 268). Again, this either requires backup insurance or                  is a slow process that’s heavily influenced by a number
+ 268). Again, this either requires backup insurance or                  is a slow process that's heavily influenced by a number
  someone who is willing to pay to have them revived.                    of factors. In order for a character to heal wounds,
-    If the character’s cortical stack is not retrieved                  all normal damage must be healed first. Consult the
+    If the character's cortical stack is not retrieved                  all normal damage must be healed first. Consult the
  and they have no backup, then they are completely                      Healing table.
  and utterly dead. Gone. Kaput. (Unless they happen
  to have an alpha fork of themselves floating around                    SURGERY
@@ -55,6 +55,6 @@ Character with medichines                                              1d10 (5) 
 Poor conditions (bad food, not enough rest/heavy activity,
                                                                         double timeframe                  double timeframe
 poor shelter and/or sanitation)
-Harsh conditions (insufﬁcient food, no rest/strenuous activity,
+Harsh conditions (insufficient food, no rest/strenuous activity,
                                                                          triple timeframe                 no wound healing
 little or no shelter and/or sanitation)

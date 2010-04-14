@@ -2,10 +2,10 @@ a great way for a hacker to subvert a system without              that the –30
 necessarily being in danger when they do it.                      does not apply to cyberbrains.)
    Scripts can be programmed on the fly or prepro-                  Cyberbrains are treated just like other systems for
 grammed. When composing the script, the character                 intrusion and subversion purposes, but since they
-must detail what system operations the set will call              house the morph’s controlling ego they present several
+must detail what system operations the set will call              house the morph's controlling ego they present several
 for, in what order and at what times (or at what trig-            unique hacking opportunities.
 ger steps). The script cannot contain more steps/tasks
-than the character’s Programming skill ÷ 10 (round                ENTRAPMENT
+than the character's Programming skill ÷ 10 (round                ENTRAPMENT
 down). To program a script, the character must suc-               An intruding character can attempt to lock in an ego,
 ceed in a Programming Test with a timeframe deter-                preventing it from evacuating the cyberbrain. The
 mined by the gamemaster.                                          hacker (with the –30 modifier noted above) must
@@ -14,17 +14,17 @@ cessfully intruded in the system and must succeed                 Infosec Test. 
 in an Infosec Test (or an Opposed Infosec Test if the             transferring itself to another system.
 system is actively monitored). If successful, the script            To fully pen the ego in, the ego character and its
 is loaded into the system and will run as programmed.             protecting muse must also be locked out (p. 257) from
-   Once the script is activated, it carries out the pre-          controlling the cyberbrain’s system, otherwise the ego
-programmed sequence of actions. The programmer’s                  could potentially be freed.
+   Once the script is activated, it carries out the pre-          controlling the cyberbrain's system, otherwise the ego
+programmed sequence of actions. The programmer's                  could potentially be freed.
 Infosec skill is used for any tests those actions call for.          Trapped egos are quite vulnerable. They could, for
    Inactivated scripts may be detected in a security              example, be subject to enforced uploading, enforced
 audit, just like backdoors (p. 260).                              forking, or psychosurgery.
 
 
-           Sarlo has inﬁltrated a security system and wants       MEMORY HACKING
+           Sarlo has infiltrated a security system and wants       MEMORY HACKING
            to arrange it so that a particular security sensor     All cyberbrains incorporate mnemonic augmentation
            deactivates and a door unlocks at a set time, al-      (p. 307), or digitally recorded memories. A hacker
-           lowing his team to inﬁltrate a high-security area.     who has accessed the cyberbrain can read, alter, or
+           lowing his team to infiltrate a high-security area.     who has accessed the cyberbrain can read, alter, or
            He creates a script that will activate at 2200 hours   delete these memories with a successful Research or
            with the following steps:                              Interfacing Test (the –30 modifier applies).
            1) At 2200 hours, disable security sensor
@@ -41,9 +41,9 @@ audit, just like backdoors (p. 260).                              forking, or ps
            with his Programming skill of 70. Sarlo succeeds in    of the body and manipulate it remotely. To do so, the
            his Programming and Infosec Tests, and the script      hacker must take a Complex Action and beat the de-
            is loaded. It will then activate at the appropriate    fending character or muse in an Opposed Infosec Test;
-           time. Since Sarlo’s account did not have access        the hacker suffers the –30 modifier noted above.
+           time. Since Sarlo's account did not have access        the hacker suffers the –30 modifier noted above.
            rights to perform these actions, each will require        A defender who is not locked out may continue
-           an Infosec Test using Sarlo’s skill to succeed.        to fight for control of the morph, using a Complex
+           an Infosec Test using Sarlo's skill to succeed.        to fight for control of the morph, using a Complex
                                                                   Action. In this case, another Opposed Infosec Test
                                                                   is called for. This can result in a situation where the
                                                                   morph repeatedly slips control from the hacker to the
@@ -58,8 +58,8 @@ vulnerable to hacking, like any other electronic device.          bility for cer
 reasons, but they do have access jacks (p. 306) and               the link between the cyberbrain and mesh inserts. One
 are directly linked to mesh inserts. This means that              of these possibilities is scorching—the use of damaging
                                                                                                      —the
-in order to hack a cyberbrain, the hacker either must             neurofeedback algorithms to harm the victim’s mind.
-have direct physical access to the morph’s body in                   In order to make a scorching attack, the cyberbrain
+in order to hack a cyberbrain, the hacker either must             neurofeedback algorithms to harm the victim's mind.
+have direct physical access to the morph's body in                   In order to make a scorching attack, the cyberbrain
 order to jack in, or they must first hack into the mesh           intruder must deploy a scorch program. To utilize a
 inserts and then break into the cyberbrain from there.            scorch program, the intruder must beat the defending
    Due to their importance, cyberbrains are equipped              Ego in an Opposed Infosec Test. The –30 modifier for

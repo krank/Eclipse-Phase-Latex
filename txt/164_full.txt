@@ -27,7 +27,7 @@
                                                                                      Control     WIL       50          10           60
                                                                                         Fray     REF       50                       50
                                                                                Freerunning       SOM       55                       55
-                                                                                 Inﬁltration     COO       50                       50
+                                                                                 Infiltration     COO       50                       50
                                                                                      Infosec     COG       45          5            50
                                                                    Interests: Conspiracies       COG       55          5            60
                                                             Interests: Hypercorp Projects        COG       55          5            60
@@ -57,12 +57,12 @@ Control,             Enhanced Hearing, Enhanced          You survived your accel
  d■                  Medichines, Oracles ■               of the Lost generation, the col-         you viciously hide your own history
 can, Ego Sense,    Gear: Backup Insurance                lapse of the project, and the scan-      and out-maneuver those who want
 bliminal ■           (1 month), Disabler, Facial/        dal and witchhunts that followed.        to track your kind down. You are
-                     Image Recognition Software,         You’ve immersed yourself in a            not content to be a victim or a mer-
+                     Image Recognition Software,         You've immersed yourself in a            not content to be a victim or a mer-
                      Fake Ego ID, Muse, Shock Ba-        new life and identity. Now you put       cenary for others, however. Slowly
                      ton, Sniffer Software, Tactical     your particular skills and talents to    but surely you are amassing infor-
                      Network Software, Taggant           use tracking people as a bounty          mation on those responsible for
                      Nanoswarm, Track Software,          hunter—a daunting task consider-         the Lost project—for what they
                      Tracker Dye (1 dose), Twitch        ing that your targets can change         did to you—and some day you will
                      (1 dose) ■                          not only their faces but their bodies    make them pay. ■
-                               “Hello, doctor, you’re a hard man to ﬁnd.
-                  I have some questions about some children that I’d like to ask you.”
+                               “Hello, doctor, you're a hard man to find.
+                  I have some questions about some children that I'd like to ask you.”

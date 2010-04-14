@@ -1,20 +1,20 @@
-superconductors with 25 times the capacity of the             program, and note pad. It manages the user’s aug-
+superconductors with 25 times the capacity of the             program, and note pad. It manages the user's aug-
 best batteries in common use in the early 21st century.       mented reality input and can run any software the
 Such batteries may also be constructed so that they           character desires (see Software, p. 331). It also
 are flexible, printed on devices, or woven into fabric.       processes XP data, allowing the user to experi-
-They are good for 100–500 hours of use, and will alert        ence other people’s recorded memories, and also
+They are good for 100–500 hours of use, and will alert        ence other people's recorded memories, and also
 the user when they start running low. More power-             allowing the user to share their own XP sensory
 ful radio-isotope nuclear batteries are also available,       input with others in real-time. Facial/image rec-
 heavily shielded so they do not emit radiation and            ognition and encryption software (p. 331) are
 good for 3 years or more of use.                              included by default.
-   In short, power should rarely be an issue in Eclipse     • Radio Transceiver: This transceiver connects the
+   In short, power should rarely be an issue in Eclipse     - Radio Transceiver: This transceiver connects the
 Phase games, unless it happens to fit the plot. Power         user to the mesh and other characters/devices
 failure could also result from a critical failure roll.       within range. It has an effective range of 20 kilo-
                                                               meters in deep space or other locations far from
                                                               radio interference and 1 kilometer in crowded
 PERSONAL AUGMENTATION                                         habitats.
-Almost all citizens of the solar system, whether human,     • Medical Sensors: This array of implants monitors
-AI, or uplifted animal, use various forms of biological,      the user’s medical status, including heart rate,
+Almost all citizens of the solar system, whether human,     - Medical Sensors: This array of implants monitors
+AI, or uplifted animal, use various forms of biological,      the user's medical status, including heart rate,
 cybernetic, or nanotechnological augmentation. The            respiration, blood pressure, temperature, neural
 following is a list of the most common types.                 activity, and much more. A sophisticated medical
   Unless otherwise noted, any bonuses from personal           diagnostic system interprets the data and warns
@@ -28,7 +28,7 @@ following augmentations.                                   CORTICAL STACK
 BASIC BIOMODS                                              protected within a synthdiamond case the size of a
 Almost universal in biomorphs, many habitats will not      grape, implanted at the base of the skull where the
 allow individuals to visit/immigrate if their biomorph     brain stem and spinal cord connect. It contains a
-does not possess these biomods in order to preserve        digital backup of that character’s ego. Part nanoware,
+does not possess these biomods in order to preserve        digital backup of that character's ego. Part nanoware,
 public health. Basic biomods consists of a series of       the implant maintains a network of nanobots that
 genetic tweaks, tailored virii, and bacteria that speed    monitor synaptic connections and brain architecture,
 healing, greatly increase disease resistance, and impede   noting any changes and updating the ego backup in
@@ -50,8 +50,8 @@ equipment for anyone who wants to stay connected           CYBERBRAIN
 and make full use of the wireless mesh. The intercon-      Cybernetic brains are where the ego (or controlling
 nected components of this system include:                  AI) resides in synthmorphs and pods. Modeled on
                                                            biological brains, cyberbrains have a holistic architec-
- • Cranial Computer: This computer serves as the           ture and serve as the command node and central pro-
-   hub for the character’s personal area network           cessing point for sensory input and decision-making.
+ - Cranial Computer: This computer serves as the           ture and serve as the command node and central pro-
+   hub for the character's personal area network           cessing point for sensory input and decision-making.
    and is home to their muse (p. 264). It has all of       Only one ego or AI may “inhabit” a cyberbrain at a
    the functions of a smartphone and PDA, acting           time; to accommodate extras, mesh inserts (p. 300)
    as a media player, meshbrowser, alarm clock/            or a ghost-rider module (p. 307) must be used. Since

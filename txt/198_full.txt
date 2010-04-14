@@ -4,8 +4,8 @@ enters “chase scene” mode—a traveling narrative of          targeted separ
 maneuvering choices and tests with various outcomes.        made against passengers this way do not harm the
 Whether or not a chase is actually occurring, the           vehicle itself (unless an area effect weapon is used).
 gamemaster should remember that Max Velocity is             Targeted passengers benefit both from cover (usually
-not the only factor in high-speed situations. Environ-      Major, –30) and from the vehicle’s structure, adding
-mental factors like terrain, weather conditions, navi-      the vehicle’s Armor Value to their own.
+not the only factor in high-speed situations. Environ-      Major, –30) and from the vehicle's structure, adding
+mental factors like terrain, weather conditions, navi-      the vehicle's Armor Value to their own.
 gation, pedestrians, and traffic can provide obstacles        Passengers within a vehicle are generally not harmed
 for shells to overcome. A shell tearing across a habitat    by attacks made against the vehicle itself. Exceptions
 in order to reach a bomb before it detonates should         include area effect weapons and vehicle crashes. In
@@ -19,33 +19,33 @@ CRASHING                                                     either by a charact
 Shells that suffer wounds during combat or chases            communications link between the teleoperator and
 may be force to make a Pilot Test to avoid crashing          the shell (the “drone”). The teleoperator controls the
 or may crash automatically. The exact circumstances          drone via an entoptic interface, and receives sensory
-of a crash are left up to the gamemaster, as best fits      input and other data via the drone’s mesh inserts.
-the story—the shell may simply skid to a stop, plow            When under direct control, the shell’s AI (or resident
+of a crash are left up to the gamemaster, as best fits      input and other data via the drone's mesh inserts.
+the story—the shell may simply skid to a stop, plow            When under direct control, the shell's AI (or resident
 into a tree, fall from the sky, or flip over and land on     ego) is subsumed and put on standby. The drone only
 a group of bystanders. Shells that strike other objects      acts as instructed. Each instruction counts as a Quick
 when they crash typically take further damage from          Action. In this situation, the drone acts with the same
-the collision (see Collisions).                             Initiative as the teleoperator. The teleoperator’s skills and
-                                                             stats are used in place of the shell AI’s. Due to the nature
+the collision (see Collisions).                             Initiative as the teleoperator. The teleoperator's skills and
+                                                             stats are used in place of the shell AI's. Due to the nature
 COLLISIONS                                                   of remote operation, however, all tests are made with a
 If a shell crashes into or intentionally rams a person      –10 modifier. Multiple drones may be controlled at once,
 or object, someone is likely to get hurt. To determine      but commanding them requires separate Quick Actions
-how much DV is inflicted, roll 1d10 and add the shell’s     unless they are receiving the same command. Direct
+how much DV is inflicted, roll 1d10 and add the shell's     unless they are receiving the same command. Direct
 DUR divided by 10 (round up). This is the damage             control teleoperation is not very feasible at extreme dis-
 applied at walking speeds. If the shell was moving at        tances, due to the light-speed lag with communications.
 running speeds, multiply the DV by 2. If the shell was         Alternately, the teleoperator can put the drone in
-moving at chase speeds, multiply the DV by the shell’s      autonomous mode, allowing the shell’s AI to resume
+moving at chase speeds, multiply the DV by the shell's      autonomous mode, allowing the shell's AI to resume
 velocity ÷ 10 in meters per turn. Both the shell and         normal operations. The drone still follows the teleop-
-whatever it strikes suffer this damage, assuming the         erator’s commands to the best of its abilities. In this
+whatever it strikes suffer this damage, assuming the         erator's commands to the best of its abilities. In this
 collision is with something equal dense and hard. Soft       mode, the drone functions normally, using its own
 and squishy objects like biomorphs will be less dam-        Initiative and AI skills and stats.
 aging to a shell (unless they happen to be in a hardsuit
 or battlesuit), in which case the shell will only suffer    SHELL JAMMING
 half damage from the collision. Kinetic armor defends       “Jamming” is the colloquial term for a more direct
 against crash DV.                                            form of remote-control, using VR and XP technol-
-   If two moving shells collide head-on, calculate the       ogy. When jamming, the drone’s puppet sock feeds
-damage from both and inflict to both. If two shells          the drone’s sensory data directly to the teleoperator’s
+   If two moving shells collide head-on, calculate the       ogy. When jamming, the drone's puppet sock feeds
+damage from both and inflict to both. If two shells          the drone's sensory data directly to the teleoperator's
 moving in the same direction collide, only count the         mesh inserts. The teleoperator subsumes themself in
-difference in velocity.                                      the drone’s sensorium, essentially “becoming” the
+difference in velocity.                                      the drone's sensorium, essentially “becoming” the
    Passengers in a vehicle may also be damaged by col-       drone. In this case, the teleoperator surrenders con-
 lisions if they are not wearing proper safety restraints.    trol of their own morph, which slumps inertly. While
 They suffer one half the DV applied to their vehicle.        jamming, they suffer –60 on all Perception Tests or
@@ -53,7 +53,7 @@ They suffer one half the DV applied to their vehicle.        jamming, they suffe
                                                                Jamming takes a Complex Action to engage and
          COLLISION DAMAGE                                    disengage. A jamming teleoperator controls a drone
                                                              as if it were their own morph. Like direct control te-
-   Base Collision DV: 1d10 + (DUR ÷ 10)                      leoperation, the jammer’s own skills and Initiative are
-   Running: DV x 2                                           used in place of the drone’s AI. Jammers do not suffer
+   Base Collision DV: 1d10 + (DUR ÷ 10)                      leoperation, the jammer's own skills and Initiative are
+   Running: DV x 2                                           used in place of the drone's AI. Jammers do not suffer
    Chase Speeds: DV x (velocity ÷ 10)                        any teleoperation modifiers, but only one drone may
                                                              be jammed at a time.

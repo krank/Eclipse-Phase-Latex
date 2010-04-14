@@ -19,7 +19,7 @@ force trauma.                                               uniform. It provides
    Rules for armor in combat can be found on p. 194.        worn with other armor without penalty. It provides an
 Armored exoskeletons are listed on p. 343.                  Armor Value of 1/3. [Low]
    Armor Clothing: The extra-resilient organoweave             Smart Skin: Smart skin is an advanced nano-
-fibers and fullerene materials that offer basic protec-     fluid that covers the wearer’s skin. It resembles liquid
+fibers and fullerene materials that offer basic protec-     fluid that covers the wearer's skin. It resembles liquid
 tion against kinetic and energy weapons can be woven        mercury but retains the texture and flexibility of
 in with normal smart materials to create a wide range       normal skin until activated, at which point the mate-
 of discreet armor clothing that provides a subtle level     rial becomes rigid enough to protect the wearer and
@@ -29,7 +29,7 @@ and designs. Armor clothing provides an Armor Value                           AR
 of 3/4. [Trivial]
                                                             ARMOR                             ENERGY KINETIC PAGE
    Armor Vest: Armor vests provide more thorough
-protection to a body’s vital areas, covering the abdo-      Armor Clothing                      3       4      311
+protection to a body's vital areas, covering the abdo-      Armor Clothing                      3       4      311
 men and torso completely, protecting the neck with a        Armor Vest                          6       6      312
 rigid collar, and even providing wrap-under protec-         Battle Suit Powered Exoskeleton     18     18      344
 tion for the groin. Though armor vests are not bulky,       Bioweave Armor (Light)              2       3      302
@@ -50,7 +50,7 @@ with a helmet. It provides an Armor Value of 10/10.         Helmet (Light)      
    Body Armor (Heavy): Similar to light body armor,
                                                             Hyperdense Exoskeleton              6      12      344
 but with extra protective layers, often ergonomically
-manufactured to conform to a specific character’s           Riot Shield                         +3     +2      312
+manufactured to conform to a specific character's           Riot Shield                         +3     +2      312
 body, and an environmental seal with climate control        Second Skin                         1       3      312
 to protect the wearer from hostile environments. It         Smart Skin                          3       2      312
 provides an Armor Value of 13/13. [Moderate]                Smart Vac Clothing                  2       4      325

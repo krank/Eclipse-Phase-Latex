@@ -27,7 +27,7 @@ BARSOOMIAN FREELANCE JOURNALIST
                                                                              Freerunning         SOM       45           5           50
                                                                                  Gunnery         INT       45                       45
                                                                     Hardware: Robotics           COG       55                       55
-                                                                               Inﬁltration       COO       35                       35
+                                                                               Infiltration       COO       35                       35
                                                                                    Infosec       COG       40                       40
                                                        Interests: Inner System Rumors            COG       55                       55
                                                              Interests: Martian Politics         COG       55                       55
@@ -66,5 +66,5 @@ ma (Clanking         Hearing, Enhanced Smell,           Profession: Social Engin
 hredder              Smart Dust, Tracking Software,   raking the muck that the power brokers      synths because they are innocuous and
                      Trike Exoskeleton ■              and influence peddlers wallow in has        employ numerous drones and electronic
                                                       helped expose the puppet strings behind     spies to obtain the real story. ■
-                                     “What? No, I’m not recording.
+                                     “What? No, I'm not recording.
           Anything you have to say about the Hellas massacre is strictly between you and me.”

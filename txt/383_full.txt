@@ -5,13 +5,13 @@ ated by transhumanity (by the Singularity Foundation)       designed to consider
 before the Fall. Specifically developed as “friendly”       work in the interests of all of transhumanity, but were
 AIs, the Prometheans are programmed to consider             programmed with factionalism from the start. They
 themselves part of the transhuman family and to act         also were not socialized with transhuman mindsets
-in transhumanity’s best interests. They played a key        and values as the Prometheans and most AGIs were,
+in transhumanity's best interests. They played a key        and values as the Prometheans and most AGIs were,
 role during the Fall, mitigating the damage inflicted       meaning that aside from their programmed military
 by the TITANs and even managing to counteract the           and defense directives they have adapted most of their
 Exsurgent virus to a large degree. During these trying      own self-interests. Given this and their recursively-
 times, numerous Prometheans were destroyed by the           improved intelligence capabilities, it is likely that the
 TITANs or infected and subsumed by the Exsurgent            TITANs are far removed from transhuman interests
-virus. In the aftermath, these seed AIs participated in     and modes of thinking. It’s impossible to say how they
+virus. In the aftermath, these seed AIs participated in     and modes of thinking. It's impossible to say how they
 the formation of Firewall and continue to back the          would have interacted with transhumanity if history
 organization behind the scenes.                             had played out differently, but it is unlikely that they
    Wary of falling prey to the Exsurgent virus, most        would have considered themselves part of the trans-
@@ -21,7 +21,7 @@ in their own self-development, not wanting to become           Though the TITANs
 victims of their own rise to super-intelligence. Fear-      at the end of the Fall, no one is quite sure exactly
 ing a potential backlash by a paranoid transhuman-          what happened or why. It is known that the onslaught
 ity should their existence become known, they hide          of TITAN mesh attacks suddenly broke off in the
-their activities behind multiple layers of secrecy. Even    wake of transhumanity’s off-planet exodus, and that
+their activities behind multiple layers of secrecy. Even    wake of transhumanity's off-planet exodus, and that
 within the ranks of Firewall their existence and sup-       the bulk of TITAN activity on Earth and around the
 port remain a closely guarded secret.                       system came to a distinct halt. After the discovery
    Each Promethean is individually distinct with its        of the Pandora Gates, it was widely assumed that
@@ -57,4 +57,4 @@ out to be in the wake of the Fall. However, there is no        As with transhuma
 saying how the TITANs would have turned out had             ily unified. They have different agendas and goals and
 they not run afoul of the Exsurgent virus. Designed as      may very well come into conflict with one another.
 an intelligent netwar system and emerging to their full     Though all have been corrupted and subverted by the
-capabilities during the conflicts of the Fall, the TITANs   Exsurgent virus, and so they act according to the ETI’s
+capabilities during the conflicts of the Fall, the TITANs   Exsurgent virus, and so they act according to the ETI's

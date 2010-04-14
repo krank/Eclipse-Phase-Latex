@@ -6,17 +6,17 @@ under the thumb of a few individuals with their
 own personal agendas, the nature of transhuman-
 ity ensures that various factions and tendencies
 exist within the group. Termed cliques, these
-circles of inﬂuence sometimes create ripples in the
+circles of influence sometimes create ripples in the
 pool that all Firewall personnel must eventually
 deal with. Some of these cliques are grounded in
-transhumanity’s existing factions, while others are
+transhumanity's existing factions, while others are
 rooted in philosophical differences regarding the
 approach Firewall should be taking. Gamemasters
-can use these cliques to ﬂesh out internal tensions
+can use these cliques to flesh out internal tensions
 within Firewall or to simply throw some curve balls
 to keep players on their toes.
 Backups: The backup clique believes that tran-
-  shumanity’s best chance for survival is to
+  shumanity's best chance for survival is to
   deploy numerous redundant backup measures
   as soon as possible. These include creating as
   many extrasolar colonies as possible, both via
@@ -26,12 +26,12 @@ Backups: The backup clique believes that tran-
 Conservatives: This clique takes an overcau-
  tious, nuke-it-from-orbit approach to most
  x-risks. They believed excessive force is justi-
- ﬁed, and it’s far better to be safe than extinct.
+ fied, and it's far better to be safe than extinct.
  This clique is also opposed to the use of alien/
  TITAN artifacts and psi, and tends to be xeno-
  phobic/isolationist regarding the Factors and
  Pandora Gates.
-Mavericks: The mavericks disdain Firewall’s col-
+Mavericks: The mavericks disdain Firewall's col-
  lective and bureaucratic tendencies, taking a
  more individualistic approach to their work.
  They are known to sometimes circumvent
@@ -45,13 +45,13 @@ Pragmatists: The pragmatists believe in using
  will save transhumanity.
 Structuralists: This clique advocates for a stron-
   ger structure and centralized authority within
-  Firewall, countering the group’s autonomist-
+  Firewall, countering the group's autonomist-
   dominated tendencies. Many also advocate
  for going legitimate, taking Firewall into
  the public eye and making above-board con-
-  nections with other ofﬁcial organizations,
+  nections with other official organizations,
   arguing that this could bring more resources
- to Firewall’s disposal.                        ■
+ to Firewall's disposal.                        ■
 they were there and to place the blame for the inci-
 dent squarely on the shoulders of some other party.
 If necessary, erasure squads can also be called in to
@@ -80,7 +80,7 @@ feeds and mesh traffic, even maintaining taps inside
 certain government and hypercorp communication
 channels. If a danger is detected, it is under their au-
 thority, through routers, that sentinels are activated.
-Due to the power inherent in a scanners’ post, they
+Due to the power inherent in a scanners' post, they
 are held accountable for false activations.
    Social Engineers: Knick-named the Ministry of
 Disinformation, social engineers provide the scape-
@@ -97,7 +97,7 @@ e-voting consensus, though time does not always
 allow such a luxury) what organization—political,
 corporate, independent, etc.—will take the blame and
 subsequent fallout for erasure squad actions.
-   Vectors: Vectors are Firewall’s communications se-
+   Vectors: Vectors are Firewall's communications se-
 curity and digital intrusion specialists—in other words,
 hackers. In addition to defending the mesh security
 of all Firewall operations, vectors are also deployed

@@ -2,7 +2,7 @@
                                                  ACTION TURNS AND INITIATIVE
                                                  During combat, the game moves in small chunks of time
                                                  called Action Turns. The character with the highest Initiative
-                                                 will act ﬁrst within those Action Turns. ■ p. 188
+                                                 will act first within those Action Turns. ■ p. 188
 
 
 

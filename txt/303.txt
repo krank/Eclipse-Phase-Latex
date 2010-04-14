@@ -10,7 +10,7 @@ BIOWARE
 Bioware augmentations can be acquired either as a
 genemod when the morph is designed and grown or
 as a later modification to an existing morph, either
-by using nanomachines to modify the morph’s tissue
+by using nanomachines to modify the morph's tissue
 or by externally growing the organ and implanting it.
 Bioware may be used to enhance biomorphs (includ-
 ing pods and uplifts), but not synthmorphs.
@@ -37,11 +37,11 @@ to that of a bat or dolphin. The character bounces
 brief ultrasonic pulses off their surroundings and uses
 them to form an image of these surroundings through
 the pattern of reflections of these pulses received by
-the character’s ears. For more details, see Using En-
+the character's ears. For more details, see Using En-
 hanced Senses, p. 302. This augmentation works in
 both air and water and has a range of 20 meters in air
 and 100 meters in water. [Low]
-   Enhanced Hearing: The morph’s ears are enhanced
+   Enhanced Hearing: The morph's ears are enhanced
 to hear both higher and lower frequency sounds—the
 range of sounds they can hear is twice that of normal
 human ears (see Using Enhanced Senses, p. 302). In
@@ -52,7 +52,7 @@ mentation can easily overhear even a softly spoken
 conversation at another table in a small restaurant.
 This augmentation provides a +20 modifier to all
 Perception Tests involving hearing. [Low]
-   Enhanced Smell: The morph’s sense of smell is
+   Enhanced Smell: The morph's sense of smell is
 equal to that of a bloodhound. The user can iden-
 tify both chemicals and individuals by smell, and can
 track people and chemically reactive objects by smell
@@ -61,7 +61,7 @@ hours and has not been obscured. The character can
 also gain a general sense of the emotions and health
 of any character within 5 meters (+20 to Perception or
 Kinesics Tests to do so). [Low]
-   Enhanced Vision: The morph’s eyes have tetrachro-
+   Enhanced Vision: The morph's eyes have tetrachro-
 matic vision capable of exceptional color differen-
 tiation. These eyes can also see the electromagnetic
 spectrum from terahertz wave frequencies to gamma
@@ -84,17 +84,17 @@ ago, or even tell you what they had for breakfast on
 a particular date a decade ago. However, they can
 only remember things they paid attention to. The
 character will not remember the contents of a note
-on someone’s desk if they merely glanced at it; they
+on someone's desk if they merely glanced at it; they
 must specifically have read it. No effort is required to
 use this augmentation, the character merely needs to
 attempt to remember a specific fact. [Low]
-   Hyper Linguist: The morph’s brain maintains the
+   Hyper Linguist: The morph's brain maintains the
 linguistic flexibility of a small child, allowing the
 character to learn languages with great ease. This
 functions as the Hyper Linguist trait, p. 146. [Low]
    Math Boost: This implants functions as the Math
 Wiz trait, p. 146. [Low]
-   Multiple Personalities: The character’s brain is in-
+   Multiple Personalities: The character's brain is in-
 tentionally partitioned to accommodate an extra per-
 sonality. This multiplicity is not viewed as a disorder,
 but as a cognitive tool to help people deal with their
@@ -112,7 +112,7 @@ time. The other resides in the background, still active,
 but not on a surface level. Each ego is completely
 aware of what the other is doing, thinking, etc. If for
 some reason the subsumed personality wants to come
-to the fore, but the other personality won’t relinquish
+to the fore, but the other personality won't relinquish
 control, make an Opposed WIL x 3 Test. Each ego
 has its own Lucidity and Trauma Threshold, and they
 track stress and trauma separately. Any psi attacks or

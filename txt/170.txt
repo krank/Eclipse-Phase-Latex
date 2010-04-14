@@ -54,7 +54,7 @@ OX     TT      LUC      IR    WT     DUR    DR
               Freerunning     SOM     45        10             55
                   Gunnery     INT     45                       45
      Hardware: Armorer        COG     50                       60
-                Inﬁltration   COO     50          5            55
+                Infiltration   COO     50          5            55
      Interests: Literature    COG     50          10           60
  terests: Military History    COG     55          10           65
               Intimidation    SAV     35          5            40
@@ -82,10 +82,10 @@ n personal growth. You         where various social cliques and
   hedonism and greed of        hypercorps favor ultimates like
  system and the collec-        yourself, knowing they are less
 d anarchy of the autono-       likely to be tempted or subverted
- you’re more than willing      by rivals. In the end it doesn’t
- eir pay so that they may      matter who pays the credit; you’ll
+ you're more than willing      by rivals. In the end it doesn't
+ eir pay so that they may      matter who pays the credit; you'll
   other. You follow your       take from them, learn from them,
-h, however, and when           and be here long after they’ve
+h, however, and when           and be here long after they've
 e to learn from an expe-       destroyed themselves with their
  increase your own per-        petty intrigues and flawed ideolo-
 pabilities you will move       gies. ■

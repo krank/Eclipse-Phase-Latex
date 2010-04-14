@@ -1,5 +1,5 @@
 REACH
-Some weapons extend a character’s reach, giving
+Some weapons extend a character's reach, giving
 them a significant advantage over an opponent in
 melee combat. This applies to any weapon over half
 a meter long: axes, clubs, swords, shock batons, etc.
@@ -79,7 +79,7 @@ can choose not to).
 immobilized. They may communicate, use mental
 skills, and take mesh actions, but they may not take
 any physical actions other than trying to break free.
-(At the gamemaster’s discretion, they may make small,
+(At the gamemaster's discretion, they may make small,
 restrained physical actions, such as reaching for a
 knife in their pocket or grabbing an item dropped a
 few centimeters away on the floor, but these actions
@@ -97,7 +97,7 @@ may choose to lay down suppressive fire over an area
 rather than targeting anyone specifically, with the
 intent of making everyone in the suppressed area keep
 their heads down. This takes a Complex Action, uses
-up 20 shots, and lasts until the character’s next Action
+up 20 shots, and lasts until the character's next Action
 Phase. The suppressed area extends out in a cone, with
 the widest diameter of the cone being up to 20 meters
 across. Any character who is not behind cover or who

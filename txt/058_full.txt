@@ -9,13 +9,13 @@ be done in any place that has meshbrowsing access.             These same securi
 equally resource-rich locations, all hypercorps main-       these habitats, residents have fairly open freedom
 tain dedicated research and manufacturing stations          of expression and biological self-determination.
 scattered throughout the solar system. Well-known           However, all potential threats to the hypercorp and
-facilities include Starware’s vast shipyards, the largest   its personnel, ranging from attempted sabotage
+facilities include Starware's vast shipyards, the largest   its personnel, ranging from attempted sabotage
 of which are located on Luna and the asteroid Vesta,        to simple civil disobedience, are dealt with quite
-and Omnicor’s huge antimatter factory orbiting Mer-         harshly, with serious offences resulting in forced in-
+and Omnicor's huge antimatter factory orbiting Mer-         harshly, with serious offences resulting in forced in-
 cury. There are many other lesser-known facilities,         denture and occasionally forced mental editing (see
 including the automated mines that the mysterious           Psychosurgery, p. 229). Almost all of these habitats
 Zrbny Group maintains in the main asteroid belt and         use a transitional economy (p. 61) and most residents
-Saturn’s rings, and the qubit factory Nimbus main-          have a high standard of living to compensate for the
+Saturn's rings, and the qubit factory Nimbus main-          have a high standard of living to compensate for the
 tains in Mars orbit.                                        limits on their behavior. Many inhabitants of the
    In addition, there is an even larger number of           more independent colonies in the belt or the outer
 secure and often secret research installations, some        system complain about the repressive nature of the
@@ -33,7 +33,7 @@ of secret corporate research bases is normally far          includes any issue r
 more prosaic, sometimes wonders are created—and             productivity of the hypercorps involved. Votes on
 there have been occasional disasters, often involving       these issues are used in a purely advisory fashion,
 TITAN relics.                                               meaning that they are utterly ignored when the result
-   Some corporate headquarters are similarly secure         of the vote is at odds with the hypercorps’ agendas.
+   Some corporate headquarters are similarly secure         of the vote is at odds with the hypercorps' agendas.
 and secret, including the corporate headquarters               While residents of these settlements and habitats
 of the fabled Zrbny Group. There are a wealth of            can vote about adding a new holiday to honor some
 rumors and stories about such locations. Intrepid           important figure or the location and design of a
@@ -41,7 +41,7 @@ spies, thieves, and reporters regularly attempt to gain     new park, laws regul
 access to these facilities, generally without success.      rity, law-enforcement, or other important concerns
 Many such attempts, especially by would-be thieves          remain under the control of the hypercorps. This
 and spies, end with distinctly negative consequences,       does not mean, however, that the results of elections
-including the thieves’ temporary (and on some occa-         are completely disregarded. If more than two-thirds
+including the thieves' temporary (and on some occa-         are completely disregarded. If more than two-thirds
 sions permanent) death.                                     of the population strongly supports a particular
    Hypercorps also own and manage a number of               issue, the Consortium or the hypercorp controlling
 habitats. Many are primarily homes for hypercorp            the habitat usually finds ways to modify their current

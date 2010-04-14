@@ -20,9 +20,9 @@ to bypass infection safeguards. Like a retrovirus that
 incorporates genetic information into the genome of
 the target cell to subvert the cell to do its bidding, the
 Exsurgent virus does the same but on a more com-
-plex level. It is also known to rewrite a host’s neural
+plex level. It is also known to rewrite a host's neural
 code in a similar manner, in effect restructuring the
-target’s mind and personality.
+target's mind and personality.
    While it began as a digital computer virus—the
 manner in which it infected the TITANs—it has trans-
 formed to be communicable via at least three other
@@ -31,16 +31,16 @@ hack. Each is described below, along with rules for
 infection and defense.
 
 BIOLOGICAL NANOVIRUS
-Exploiting the infected TITANs’ understanding of
+Exploiting the infected TITANs' understanding of
 Terran biology and their access to bio- and nanotech-
 nology, the Exsurgent virus appeared in several biolog-
 ical forms not long into the Fall. These virulent strains
 infected biomorph transhumans and sometimes other
 living creatures as well. The biological nanobots
 spreading this strain act much like other biological
-virii, though they radically modify the victim’s bio-
+virii, though they radically modify the victim's bio-
 logical and mental states. Some versions invade and
-restructure the target’s genetic code, transforming
+restructure the target's genetic code, transforming
 them into the horrible abominations known as ex-
 surgents (p. 369). While first-hand reports relate lurid
 tales of victims metamorphing into hostile monsters,
@@ -48,7 +48,7 @@ such reports are rare and considered unreliable due to
 the mental state of the witnesses (and any recordings
 that can verify such claims have a strange habit of
 disappearing). Other variants of this strain are known
-only to alter the target’s neural code, subverting them
+only to alter the target's neural code, subverting them
 to the will of the virus (and often, by extension, the
 TITANs) and affecting their mental structure in order
 to give them psi ability.

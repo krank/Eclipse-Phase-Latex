@@ -25,7 +25,7 @@ TITANIAN EXPLOR
                          Free Fall     REF       40          5
                      Freerunning       SOM       60          10
         Hardware: Groundcraft          COG       45
-                       Inﬁltration     COO       50          5
+                       Infiltration     COO       50          5
         Interests: Gatecrashing        COG       60
          Interests: Sci-Fi Aliens      COG       45
                    Investigation       INT       35
@@ -56,11 +56,11 @@ are ready to step through and face       and expanding transhu
 the challenges such opportunities        presence while maintainin
 bring. You are a professional gate-      mal impact on alien eco
 crasher, eager to experience new         You are also trained in Firs
-worlds ﬁrst-hand, despite the dan-       scenarios and are hopefu
+worlds first-hand, despite the dan-       scenarios and are hopefu
 gers—or even because of them.            ing new intelligent life—
 Unlike those who feel that new           without sparking some
 planets should be protected and          deadly interstellar inciden
-                                     “I just ﬁnished my analysis
+                                     “I just finished my analysis
                                               to what the Boyle-C
 R
 ES
@@ -117,13 +117,13 @@ TAL
            i-rep:    20                           Temperatu
            r-rep:    30                         Gear: Backup
  izing                                            Breadcrum
-nity’s     EQUIPMENT                              tem, Diamo
+nity's     EQUIPMENT                              tem, Diamo
 mini-      Armor: Vacsuit (Standard Smart-        ics Net, Ele
  ems.        fabric with Immunogenic              Portable Li
 ntact        System) [7/7] ■                      System, Ra
- ﬁnd-      Primary Weapon: Kinetic Assault        Bot, Shelte
-efully       Riﬂe (100 rounds regular ammo) ■     Container,
+ find-      Primary Weapon: Kinetic Assault        Bot, Shelte
+efully       Rifle (100 rounds regular ammo) ■     Container,
  d of      Starting Credit: 4,150 ■               Climber, Ta
                                                   ware, Trac
-he xenolife amino acids and it’s nothing close
+he xenolife amino acids and it's nothing close
 s hypothesis suggested it should be.”

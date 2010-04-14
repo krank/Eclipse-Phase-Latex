@@ -1,6 +1,6 @@
 diameter of 20 meters” to “find the nearest chemical
 traces and track them to their source.” Finally, pro-
-gramming sets any other parameters for the swarm’s
+gramming sets any other parameters for the swarm's
 mission—for example, if it should ignore certain ma-
 terials, if it should send a report at a predetermined
 time, or if it should self-destruct into harmless dust
@@ -10,13 +10,13 @@ Success Test using Programming (Nanoswarm) skill.
 Failure simply infers that the programming is imper-
 fect, and so the swarm may not operate completely as
 planned. An actual Programming (Nanoswarm) Suc-
-cess Test is only called for if the swarm’s programming
+cess Test is only called for if the swarm's programming
 is substantially complex or if the character seeks to
 have the swarm act outside of its usual set functions.
 The bots in each swarm are specially equipped for the
 task they are designed for, however, so attempting
 to drastically repurpose a swarm may be difficult or
-pointless at the gamemaster’s discretion.
+pointless at the gamemaster's discretion.
    Swarms may also be teleoperated, controlled, and/
 or (re)programmed once they are released, via radio
 or laser link.

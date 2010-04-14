@@ -10,11 +10,11 @@ will be vigilant for further intrusions.
 the monitor is aware that something strange is going
 on. The hacker acquires Spotted status.
    If both fail, continue to make the same test on each
-of the hacker’s Action Phases, until one or both succeed.
+of the hacker's Action Phases, until one or both succeed.
 
 INTRUDER STATUS
 Intruder status is a simple way of measuring an
-invader’s situation when they are intruding upon
+invader's situation when they are intruding upon
 a system. This status has an impact on whether the
 hacker has caught any attention or if they managed
 to remain unobtrusive. Status is first determined when
@@ -23,13 +23,13 @@ according to events.
   Note that intruder status is a separate matter from
 account access privileges (p. 246). The latter represents
 what a user can legally do on a system. The former
-indicates how aware the system is of the hacker’s true
+indicates how aware the system is of the hacker's true
 nature as an intruder.
 
 HIDDEN
 An intruder with Hidden status has managed to silent-
 ly sneak into the system without anyone noticing. The
-system’s security is totally unaware of their presence
+system's security is totally unaware of their presence
 and may not act against them. In this case, the hacker
 is not using an account so much as they are exploit-
 ing a flaw in the system that grants them a nebulous,
@@ -41,7 +41,7 @@ any efforts to subvert the system.
 
 COVERT
 An intruder with Covert status has accessed the
-system in a manner that doesn’t attract any unusual
+system in a manner that doesn't attract any unusual
 attention. For all intents and purposes, they appear
 to be a legitimate user with whatever access rights
 they sought. Only extensive checking will turn up any
@@ -50,11 +50,11 @@ not consider them a threat.
 
 SPOTTED
 Spotted status indicates that the system is aware of an
-anomaly or intrusion but hasn’t zeroed in on the in-
+anomaly or intrusion but hasn't zeroed in on the in-
 truder yet. The hacker appears to be a legitimate user
 with whatever access rights they sought, but this will
 not hold up under close scrutiny. The system goes on
-passive alert (inflicting a –10 modifier to the hacker’s
+passive alert (inflicting a –10 modifier to the hacker's
 activities on that system) and may engage the hacker
 with passive countermeasures (p. 257).
 LOCKED
@@ -62,12 +62,12 @@ Locked status means that the intruder—including their
 datatrail—has been pinned down by system security.
 The hacker has access and account privileges, but they
 have been flagged as an interloper. The system is on
-active alert (inflicting a –20 modifier on the hacker’s ac-
+active alert (inflicting a –20 modifier on the hacker's ac-
 tions) and may launch active countermeasures (p. 257)
 against the intruder.
 
 CHANGING STATUS
-An intruder’s status is subject to change according to
+An intruder's status is subject to change according to
 their actions and the actions of the system.
 
 UPGRADING STATUS
@@ -84,7 +84,7 @@ ZEROING IN
 A security hacker or muse that is actively monitoring
 a system can take a Complex Action and attempt to
 hone in on a Spotted intruder. An Opposed Infosec Test
-is made between both parties. If the system’s defender
+is made between both parties. If the system's defender
 wins, the hacker is downgraded to Locked status.
 
 FAILING TESTS
@@ -96,7 +96,7 @@ is rolled, they immediately give themselves away and
 achieve Locked status.
 
 BRUTE-FORCE HACKING
-Sometimes a character simply doesn’t have time to do
+Sometimes a character simply doesn't have time to do
 the job right, and they need to hack in now or never.
 In this case the hacker engages the target system im-
 mediately, head on, without taking any time to pre-

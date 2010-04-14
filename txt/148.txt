@@ -48,11 +48,11 @@ language (see Improving Skills, p. 152). The character
 can also learn any human language in one day simply
 by constant immersive exposure to it. Additionally,
 the character receives a +10 modifier when attempting
-to interpret languages they don’t know.
+to interpret languages they don't know.
 
 IMPROVED IMMUNE SYSTEM (MORPH TRAIT)
 Cost: 10 (Level 1) or 20 (Level 2) CP
-   The morph’s immune system is robust and more
+   The morph's immune system is robust and more
 resistant to diseases, drugs, and toxins—even more
 than basic bio-mods. At Level 1, apply a +10 modifier
 whenever making a test to resist infection or the ef-
@@ -61,9 +61,9 @@ fier to +20. This trait is only available to biomorphs.
 INNOCUOUS (MORPH TRAIT)
 Cost: 10 CP
   In an age when exotic appearances and good looks
-are commonplace, the morph’s look is surprisingly
+are commonplace, the morph's look is surprisingly
 bland and undistinguished, in that cookie cutter sort of
-way. The character’s physical looks are so mundane that
+way. The character's physical looks are so mundane that
 others have a hard time picking them out of a crowd,
 describing their appearance, or otherwise remember-
 ing physical details. Apply a –10 modifier to all tests
@@ -97,7 +97,7 @@ Cost: 10 CP
    The morph has a natural immunity to a specific
 drug, disease, or toxin. When afflicted with that spe-
 cific chemical, poison, or pathogen, the character re-
-mains unaffected. At the gamemaster’s discretion, this
+mains unaffected. At the gamemaster's discretion, this
 immunity may not apply to certain agents. It may not
 be applied to nanodrugs or nanotoxins. This trait is
 only available to biomorphs.

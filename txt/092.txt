@@ -6,14 +6,14 @@ plications for organisms with such radically different
 metabolisms from terrestrial life have been limited.
 
 GERLACH
-Gerlach is an O’Neill cylinder supporting about
+Gerlach is an O'Neill cylinder supporting about
 100,000 transhumans. Generally recognized as
 the research powerhouse of Venus, Gerlach is also
 one of the strangest places in the inner system. The
 inhabitants have strong ties to the argonauts and
 sympathies for the outer system autonomists and are
 strong proponents of morphological freedom, cogni-
-tive experimentation, and open innovation. Gerlach’s
+tive experimentation, and open innovation. Gerlach's
 main activities are planetside research and explora-
 tion, hostile environment morph design, and aerostat
 construction.
@@ -30,7 +30,7 @@ velope filled with helium. The cap of the mushroom
 is a hard, translucent dome that provides an open,
 park like space while also serving as the main gas en-
 velope (oxygen, which is much lighter than the CO2
-making up most of Venus’s atmosphere, is the main
+making up most of Venus's atmosphere, is the main
 source of buoyancy). The habitat is fluted from top to
 
 
@@ -43,17 +43,17 @@ VENUSIAN RUMORS
                 surface. According to reports, an Omnicor
                 research team went missing about a week
                 ago. Unlike many Venus surface teams, these
-                weren’t teleoperated bots but actual synth-
+                weren't teleoperated bots but actual synth-
                 morph-sleeved researchers operating away
-                from the safety of an aerostat’s tether—which
+                from the safety of an aerostat's tether—which
                 is suspicious behavior itself. Search parties
                 have turned up no sign of the missing morphs,
                 but scuttlebutt says they ran into signs of
                 recent TITAN activity that have them freaked
-                out. I haven’t found any evidence to back this
+                out. I haven't found any evidence to back this
                 up, yet—it could just be some misinforma-
                 tion to keep people from digging around part
-                of the surface. I’ve heard that some security
+                of the surface. I've heard that some security
                 corps have some quantum data caches buried
                 away down there. Looking into this may
                 require getting a hold of some heat and pres-
@@ -80,8 +80,8 @@ designed flying squid and balloon fish.
 
 EARTH
 Ecologically devastated and infested by the weird
-spawn of the TITANs, transhumanity’s homeworld
-doesn’t get many visitors. Earth’s once-populous
+spawn of the TITANs, transhumanity's homeworld
+doesn't get many visitors. Earth's once-populous
 urban regions are massive sprawls ruined by war and
 heavy weather, infested with dangerous artificial life
 and the occasional survivalist gang. Elsewhere, irradi-
@@ -104,14 +104,14 @@ species like honey bees and krill destroyed entire eco-
 systems, leaving vast swathes of barren land and sea
 inhabited by only the most adaptable species. Most
 of Europe is sub-artic; much of Africa and North
-America, desert. Ironically, transhumanity’s deploy-
+America, desert. Ironically, transhumanity's deploy-
 ment of nuclear weapons against TITAN surface
 installations arrested the effects of global warming
 by creating a nuclear winter. Nuclear attacks against
 Earth have ceased, but the Lunar mass drivers still
 occasionally hurl captured asteroids at suspected
 surface works created by remaining TITAN war
-machines. In any case, the damage from humanity’s
+machines. In any case, the damage from humanity's
 warming of the globe was already done. The patterns
 of life on Earth, and the very face of the planet, have
 been irrevocably rewritten.

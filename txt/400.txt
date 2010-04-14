@@ -5,8 +5,8 @@
            Self-healing, 292, 313                                 Snake, 310
            Selfhood, 275                                          Snappers, 370
            Semi-automatic (SA), 198                               Sniffer, 293, 331
-           Sense                                                  Snifﬁng, 252
-                 block, 228                                       Sniper riﬂe, 335
+           Sense                                                  Sniffing, 252
+                 block, 228                                       Sniper rifle, 335
                  enhancement, 301-2, 306                          Social drugs, 320
                  skill, 184                                       Social engineers, 359
            Sensor, 293, 311                                       Social gaff negation, 183
@@ -76,12 +76,12 @@ on), 125   Shackle (Shackleton-New Varanasi), 93                  Sousveillance,
            Skillsofts, 332                                        Submarine, 310
            Skillware, 309                                         Substance abuse, 317-18
            Skinaethesia, 73                                       Subversion, 259-61
-           Skindyes, 310                                               difﬁculties, 259
-           Skinﬂex, 309                                                examples, 259
+           Skindyes, 310                                               difficulties, 259
+           Skinflex, 309                                                examples, 259
            Skinlink, 309                                          Success tests, 117-19, 127
            Skinning, 240                                          Sun Yee On, 84
            Skin pocket, 305                                       Superthermite charges, 330
-           Skinthetic, 73                                         Suppressive ﬁre, 204
+           Skinthetic, 73                                         Suppressive fire, 204
            Sky Ark, 111                                           Surgery, 208
            Slaving devices, 248                                   Surprise, 204-5
            Sleep, 365                                             Surveillance, 238, 293
@@ -91,7 +91,7 @@ on), 125   Shackle (Shackleton-New Varanasi), 93                  Sousveillance,
            Slow learner, 151                                      Swarm, 328-29
            Small jet, 343                                              composition, 311
            Small lander and orbit transfer vehicle                Swarmanoid, 144
-                 (SLOTV), 349                                     Sweeping ﬁre, 194
+                 (SLOTV), 349                                     Sweeping fire, 194
            Smart                                                  Swimming skill, 184
                  ammo, 338                                        Sybils, 81
                  clothing, 325                                    Sylphs, 139-40
@@ -108,9 +108,9 @@ Taggants, 329                                  Unbreathable atmosphere, 201
 Target                                         Uncanny valley, 151-52
      multiple, 202                             Unconscious lead, 225
      numbers, 115                              Unconsciousness, 208
-     speciﬁc, 197                              Underbarrel seeker, 339-40
+     specific, 197                              Underbarrel seeker, 339-40
 Task Action Programming Test, 246              Underwater, 201
-Task actions, 120, 127, 190                    Unﬁt, 152
+Task actions, 120, 127, 190                    Unfit, 152
 Tasping, 232                                   Uniform blast, 193
 Teamwork, 117, 127                             Uplifts, 81, 132
 Techno-Creationists, 83                        Uploading, 268-69
@@ -160,14 +160,14 @@ Tough, 148                                     Walker, 310
 Toughness, 143                                 Warbots, 383
 Toxic atmosphere, 201                          Wasp knife, 334
 Toxin, 323-24, 325                             Watts-Macleod virus, 218, 219, 220, 368
-     ﬁlters, 305                               Weak immune system, 152
+     filters, 305                               Weak immune system, 152
 Trace, 258                                     Weapon, 334-42
 Tracked, 310                                       accessories, 341-42
 Tracker Dye, 323                                   improvised, 202
 Tracking, 251-52, 331                              mount, 311
 Traction pads, 317                                 ranges, 203
 Trade, 23                                          scanners, 293
-Trafﬁc ﬁlters, 248                                 wielding two or more, 206
+Traffic filters, 248                                 wielding two or more, 206
 Training animals, 177                          Wheeled, 310
 Traits, 123                                    Whippers, 370
      gaining/losing, 153                       White noise machine, 317

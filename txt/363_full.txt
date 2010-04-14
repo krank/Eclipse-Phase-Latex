@@ -11,20 +11,20 @@ gamemaster is emphasizing (see Cliques, p. 359).              that any and all a
 term strategies and goals that a gamemaster can use           drastically different environmental circumstances
 as desired:                                                   from humans and that grew into intelligence by
                                                               a different path should seem, at best, bizarre
- • Seeding other star systems                                 unusual, and weird. There is no guarantee that
- • Going legit vs. staying clandestine                        a xenomorph’s thought processes or modes of
- • Development of stable seed AIs                             thinking are in any way similar to transhuman
- • Finding out where the TITANs went                          ones, or even that their emotional responses
- • Finding out what happened to the uploaded tran-            (based on a completely different biology—if they
+ - Seeding other star systems                                 unusual, and weird. There is no guarantee that
+ - Going legit vs. staying clandestine                        a xenomorph's thought processes or modes of
+ - Development of stable seed AIs                             thinking are in any way similar to transhuman
+ - Finding out where the TITANs went                          ones, or even that their emotional responses
+ - Finding out what happened to the uploaded tran-            (based on a completely different biology—if they
    shumans that the TITANs disappeared with                   have emotions, that is) are in the same ballpark
- • Figuring out the Factors                                   Communication is likely to be a challenge, and
- • Making contact with other aliens                           misunderstandings are practically guaranteed. ■
- • Finding out what happened to the Iktomi and
+ - Figuring out the Factors                                   Communication is likely to be a challenge, and
+ - Making contact with other aliens                           misunderstandings are practically guaranteed. ■
+ - Finding out what happened to the Iktomi and
    other xeno-archeological oddities
                                                                No one, not even the Factors, has encountered a
 FIREWALL AND OTHER ORGANIZATIONS                            member (if such exists) of the ETI civilization so far.
 The level to which Firewall has infiltrated other orga-     Since it is an intelligence far beyond transhumanity, it
-nizations (and vice versa!) is intentionally left a blank   likely won’t play much of a direct role within Eclipse
+nizations (and vice versa!) is intentionally left a blank   likely won't play much of a direct role within Eclipse
 slate. Eclipse Phase is an active universe, with an on-     Phase, though those who learn the truth about the
 going storyline, so such details will be fleshed out and    Exsurgent virus and the Fall may rightly fear the
 updated as additional sourcebooks are published. Ad-        future. No one can even imagine what might happen
@@ -32,22 +32,22 @@ ditionally, gamemasters should determine the extent of      next, however, or kn
 such infiltrations for their own games and campaigns,       not set more “traps” similar to their bracewell probes
 as dictated by the plot and storyline the gamemaster        or if they have other messengers or servants active in
 and players wish to tell.                                   the galaxy. With things such as the Pandora Gates
-  The following is a quick list of the most obvious         at transhumanity’s disposal, it may just be a matter
+  The following is a quick list of the most obvious         at transhumanity's disposal, it may just be a matter
 interactions.                                               of time before transhuman explorers run afoul some
-                                                            other aspect of the ETI’s existence and activities.
- • Inner System: Almost all inner system factions              It is important to keep the nature of the ETI in
+                                                            other aspect of the ETI's existence and activities.
+ - Inner System: Almost all inner system factions              It is important to keep the nature of the ETI in
    consider Firewall to be an illegal, rogue operation,     perspective. While transhumanity has managed
    tainted by anarchists and undermining the very           what it considers wonders with a small handful of
    fabric of their society. Some hypercorps, however,       resources available from a few planets and other
    believe they can infiltrate the organization and         objects in a bare handful of star systems, the ETI
    use it for their own ends, such as spying on and         has had an entire galaxy at its disposal for eons.
    sabotaging other hypercorps and factions.                Engineering projects on a massive scale—dyson
- • Jovian Republic: The Junta loathes Firewall and          spheres, matrioshka brains, Jupiter brains, stellar
+ - Jovian Republic: The Junta loathes Firewall and          spheres, matrioshka brains, Jupiter brains, stellar
    all it stands for and will use extreme measures to       engines—are within its capabilities. This ETI uses
    combat even the hint of Firewall activity within         star clusters as transhumanity uses fi elds or rich
    its sphere of influence.                                 mineral veins. Given its potential, the ETI likely
- • Titanians: Most Titanians in-the-know are                exists primarily on the galactic rim, far from the
-   not necessarily opposed to Firewall’s activi-            galactic center, where lower temperatures and
+ - Titanians: Most Titanians in-the-know are                exists primarily on the galactic rim, far from the
+   not necessarily opposed to Firewall's activi-            galactic center, where lower temperatures and
    ties, but believe the group should be reined in          scarcer matter make for a good thermodynamic en-
    and legitimized.                                         vironment. The powers in the deep cold dark on the
                                                             edge of the Milky Way have been self-aware since

@@ -14,7 +14,7 @@ sealed habitat surrounded by hard vacuum enjoy
                                                              course of their daily lives are all freely available.
 the idea of easy access to biowar plagues or de-
                                                                In many collectivized habitats, residents are ex-
-vices that can make large holes in their habitat’s
+vices that can make large holes in their habitat's
                                                              pected to pull their weight by contributing to ongo-
 outer hull. Though such incidents are quite rare,
                                                              ing public works in the habitat, typically requiring
@@ -44,7 +44,7 @@ access and heavily encrypt templates needed to
                                                              or put in their share of work for the collective well-
 create military-grade weapons and similar dan-
                                                              being of the station, they will have access to a supply
-gers, though sufﬁciently dedicated individuals
+gers, though sufficiently dedicated individuals
                                                              of energy and raw materials that allows them to use
 can eventually decrypt or reverse-engineer such
                                                              their cornucopia machines to manufacture what they
@@ -53,7 +53,7 @@ designs. Even nanofabricators in anarchist habi-
 tats may be blocked from creating such things or
                                                              anyone staying long is expected to contribute to the
 at the very least will alert the local public mesh
-                                                             habitat if they don’t want to see their reputation slashed.
+                                                             habitat if they don't want to see their reputation slashed.
 if anyone instructs them to do so. Habitats that
 possess almost no other laws regarding posses-
 sion of various objects and devices usually have
@@ -63,7 +63,7 @@ laws against weapons that can do serious harm
                                                              ties and even some luxuries, the allowance has limits.
 to the habitat.
                                                              With the allowance, individuals receive a quota of
-   Many dangerous technologies are speciﬁcally
+   Many dangerous technologies are specifically
                                                              goods and energy they can use every day. This usage
 designed to make use of various exception-
                                                              is impressively lavish by 20th century terms, allowing
@@ -83,7 +83,7 @@ environmental sensors located throughout every
                                                              allowance.
 habitat, security authorities can easily learn
                                                                 Individuals who wish to exceed their basic citizen-
-when someone has acquired signiﬁcant quan-
+when someone has acquired significant quan-
                                                              ship allowance can either use rep to obtain more
 tities of such elements, or catch them if they
                                                              access to resources and energy, or they can pool

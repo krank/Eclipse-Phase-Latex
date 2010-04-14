@@ -3,16 +3,16 @@ Muses should not be viewed as a mere tool for
 getting extra skills, but as an opportunity to                  MUSES
 enhance roleplaying. Though typical muse AIs                    Instead of relying on underdeveloped muses for
 are not complete intelligences (though they can                 aid and companionship, characters may prefer to
-be, see Infomorphs as Muses), their personality                 have a full-ﬂedged digital intelligence at their
+be, see Infomorphs as Muses), their personality                 have a full-fledged digital intelligence at their
 matrix is often quite sophisticated and they are                side, whether that be an AGI, a backed-up bio-
-very good at adapting to their user’s personality               logical ego, or fork of the character’s own per-
+very good at adapting to their user's personality               logical ego, or fork of the character's own per-
 quirks. On the other hand, they share the same                  sonality. Alternately, a character with a ghostrider
 Real World Naiveté (p. 151) as AGI characters                   module (p. 307) could have both, carrying a muse
 when it comes to understanding all the facets                   in their mesh inserts and an infomorph in the
 of transhuman behavior, social interaction,                     ghostrider module.
 body language, or emotion. Their personalities                    This possibility is very useful for infomorph
 are more non-human, abstract, alien, and less                   player characters, as they can ride along in some-
-passionate than transhuman life forms, often                    one’s head and participate in team affairs with-
+passionate than transhuman life forms, often                    one's head and participate in team affairs with-
 leading to conceptual misunderstandings and                     out needing a morph of their own.                 ■
 miscommunications. Likewise, their creative
 capacities are limited, instead bolstered by an
@@ -22,13 +22,13 @@ evaluate outcomes, and make predictions based
                                                               cording to standard resleeving rules (p. 271). Even
 on previous experiences.
                                                               when disembodied, they may interact with the
-   Depending on the user’s stance towards sen-
+   Depending on the user's stance towards sen-
                                                               physical world via the mesh, viewing through sensors,
 tient programs, muses can be viewed as intel-
                                                               streaming XP feeds, communicating with characters,
 ligent toys, followers, servants, slaves, friends,
                                                               commanding slaved devices, and teleoperating/jam-
-or pets, which should somehow be reﬂected in
+or pets, which should somehow be reflected in
                                                               ming drones.
 game play. Most transhumans have also acquired
                                                                  Infomorphs have a Speed of 3, reflecting their digi-

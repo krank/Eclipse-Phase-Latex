@@ -9,12 +9,12 @@
  of light. To manage this, this spacecraft must also                  magnetic shielding against charged particle radiation.
  carry 6 tons of antimatter in a 100 ton magnetic                     All models are fitted with advanced AI piloting and
  containment vessel. In an emergency, this contain-                   navigation as well as limited self-repair capacity. In
- ment facility can be jettisoned.                                     addition, GEV’s have an extensible airlock, a single
+ ment facility can be jettisoned.                                     addition, GEV's have an extensible airlock, a single
     Destroyer: One of the largest military spacecraft                 healing vat, several desktop CMs, and a variety of
  in common use, destroyers use an antimatter drive                    sensors, including both radar and telescopic full spec-
  holding 150 tons of antimatter in a 2,000-ton mag-                   trum cameras.
  netic containment vessel. This antimatter can also                      Large Lander and Orbit Transfer Vehicle (LLOTV):
- be used to provide the spacecraft’s missiles with                    This common vehicle is used for transporting passen-
+ be used to provide the spacecraft's missiles with                    This common vehicle is used for transporting passen-
  anti-matter for devastatingly powerful anti-matter                   gers and cargo between a planet or moon and orbit
  warheads. This spacecraft is also armed with                         and for short distance transfers between habitats
  railguns, nuclear and high explosive missiles, and                   less than 100,000 km apart. This conical vehicle has

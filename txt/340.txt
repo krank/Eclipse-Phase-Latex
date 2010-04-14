@@ -2,7 +2,7 @@
 deform and widen once they penetrate a target, thus
 inflicting more damage. [Trivial]
    Jammer: Jammers stick to the target and pulse out
-jamming electromagnetic signals, jamming the target’s
+jamming electromagnetic signals, jamming the target's
 wireless communications. If an Opposed Test is called
 for, these devices have an Interface of 30. See Radio
 Jamming, p. 262. [Low]
@@ -23,7 +23,7 @@ designed to put holes into morphs. [Trivial]
    Splash: Splash rounds carry a payload like capsule
 ammo, but are designed to break upon impact rather
 than penetrating, splashing their contents on the
-target’s exterior. Splash rounds are typically loaded
+target's exterior. Splash rounds are typically loaded
 with paint, taggant nanobots, tracker dye, and similar
 substances. [Trivial plus payload cost]
    Zap: Zap rounds are rubber or gel bullets that
@@ -59,7 +59,7 @@ cut through the target along with the bullet, inflicting
 additional damage. [Low]
    Homing: When fired with a smartlink system, the
 bullet identifies the target and uses nanosensors to
-lock on, correcting the bullet’s trajectory with surface
+lock on, correcting the bullet's trajectory with surface
 alterations and tiny vectored nozzles. Apply a +10
 modifier to the Attack Test, cumulative with aiming
 and smartlink modifiers. Homing bullets may also be
@@ -102,7 +102,7 @@ it is depleted. Batteries may be recharged at the rate
 of 20 shots per hour.
    Laser Pulsers: Laser weapons use focused beams of
 light to inflict damage on the target by burning into it
-and causing it’s outer surface to vaporize and expand,
+and causing it's outer surface to vaporize and expand,
 creating an explosive effect. The laser beam is pulsed
 in order to bite into the target before the beam is dif-
 fused. Pulsers are vulnerable to atmospheric effects

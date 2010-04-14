@@ -1,5 +1,5 @@
-of individual members, whether it’s a mesh-site loaded
-with a band member’s songs, a personal archive of
+of individual members, whether it's a mesh-site loaded
+with a band member's songs, a personal archive of
 stored media, a decade of blog entries reviewing the
 best places to score cheap electronics, or a depository
 of research papers and studies someone has worked
@@ -10,7 +10,7 @@ resource—a pool of people you can actively poll for
 ideas, troll for news, listen to for the latest rumors,
 buy or sell gear from, hit up for expert advice, and
 even ask for favors.
-  While a character’s social networks are nebulous
+  While a character's social networks are nebulous
 and constantly shifting, the use of them is not. A
 character takes advantage of their social networks via
 the Networking (Field) skill (p. 182). The exact use
@@ -69,22 +69,22 @@ tions, as reputation can affect your social activities in
 capitalist economies as well. The primary reputation
 networks include:
 
- • The @-list: the Circle-A list for anarchists, Bar-
+ - The @-list: the Circle-A list for anarchists, Bar-
    soomians, Extropians, scum, and Titanians, noted
    as @-rep.
- • CivicNet: used by the Jovian Republic, Lunar-
+ - CivicNet: used by the Jovian Republic, Lunar-
    Lagrange Alliance, Morningstar Constellation,
    Planetary Consortium, and many hypercorps,
    referred to as c-rep.
- • EcoWave: used by nano-ecologists, preservation-
+ - EcoWave: used by nano-ecologists, preservation-
    ists, and reclaimers, referred to as e-rep.
- • Fame: the seen-and-be-seen network used by
+ - Fame: the seen-and-be-seen network used by
    socialites, artists, glitterati, and media, referred
    to as f-rep.
- • Guanxi: used by the triads and numerous crimi-
+ - Guanxi: used by the triads and numerous crimi-
    nal entities, referred to as g-rep.
- • The Eye: used by Firewall, noted as i-rep.
- • RNA: Research Network Affiliation, used by ar-
+ - The Eye: used by Firewall, noted as i-rep.
+ - RNA: Research Network Affiliation, used by ar-
    gonauts, technologists, scientists, and researchers,
    referred to as r-rep.
 
@@ -93,7 +93,7 @@ background and faction, you may start with a Rep
 score in one or more networks. This can be bolstered
 through spending customization points during charac-
 ter creation. During game play, your Rep scores will
-depend entirely on your character’s actions. For more
+depend entirely on your character's actions. For more
 information, see Reputation and Social Networks, p.
 285.
   Note that each Rep score is tied to a particular

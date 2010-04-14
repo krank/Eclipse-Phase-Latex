@@ -38,7 +38,7 @@ part of the body, tapping the right foot twenty times),
 pathological behaviors such as gambling or eating,
 or a mental ritual that must be completed (reciting a
 book passage).
-   Suggested Game Effects: If the player doesn’t
+   Suggested Game Effects: If the player doesn't
 engage in the behavior they will grow increasingly
 disturbed and suffer penalties to all actions until they
 are able to engage in the compulsion that alleviates
@@ -87,7 +87,7 @@ disorder treated.
 
 STRESSFUL SITUATIONS
 The universe of Eclipse Phase is ripe with experiences
-that might rattle a character’s sanity. Some of these are
+that might rattle a character's sanity. Some of these are
 as mundane and human as extreme violence, extended
 isolation, or helplessness. Others are less common, but
 even more terrifying: encountering alien species, infec-
@@ -96,7 +96,7 @@ non-human morph.
 
 WILLPOWER STRESS TESTS
 Whenever a character encounters a situation that
-might impact their ego’s psyche, the gamemaster may
+might impact their ego's psyche, the gamemaster may
 call for a (Willpower x 3) Test. This test determines if
 the character is able to cope with the unnerving situa-
 tion or if the experience scars their mental landscape.
@@ -108,7 +108,7 @@ listed on the Stressful Experiences table, p. 215. The
 gamemaster should use these as a guideline, modifying
 them as appropriate to the situation at hand.
    Note that some incidents may be so horrific that a
-modifier is applied to the character’s (Willpower x 3)
+modifier is applied to the character's (Willpower x 3)
 Test.
 
 HARDENING

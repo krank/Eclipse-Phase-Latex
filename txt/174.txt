@@ -45,7 +45,7 @@ S
  in the Freerunning skill (which is linked to Somatics)
  would start with a Freerunning rank of 10 and then
  buy additionally points in that skill.
-   Aptitudes are also used when a character doesn’t
+   Aptitudes are also used when a character doesn't
  posses knowledge of a needed skill (see Defaulting, p.
  116). Aptitudes represent the basic knowledge that a
  character has acquired regarding rudimentary use of that
@@ -70,11 +70,11 @@ LLS■SKILLS■SKILLS■SKILLS■SKILLS■S
  titudes capped by the quality of the morph (see p. 124).
 
  LEARNED SKILLS
- A player’s learned skills are the most important part of
+ A player's learned skills are the most important part of
  their character, representing the acquired knowledge
  they carry with them from morph to morph, knowl-
  edge that plays a fundamental role in helping define
- the person’s ego. Learned skills encompass nearly any
+ the person's ego. Learned skills encompass nearly any
  skill that you might need to use in Eclipse Phase, and
  they range in value from 0 to 99.
    All learned skills have a linked aptitude that is
@@ -90,7 +90,7 @@ LLS■SKILLS■SKILLS■SKILLS■SKILLS■S
  more knowledge-based and intellectual, representing
  ideas and facts. Knowledge skills may play a less dra-
  matic role in certain action-oriented game play mo-
- ments, but they flesh out the character’s background
+ ments, but they flesh out the character's background
  and interests and are integral to roleplaying interac-
  tions. Active and Knowledge skills are purchased
  separately during character creation.

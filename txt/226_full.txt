@@ -5,7 +5,7 @@ DOWNTIME                                                      This sleight does 
   STRAIN MOD: 0                                               device (this bonus only applies to unfamiliar devices,
 This sleight provides the async with the ability              and/or tests the character is defaulting on—it does not
 to send the mind into a fugue-state regenerative              apply to devices the character is familiar with).
-downtime, during which the character’s psyche is
+downtime, during which the character's psyche is
 repaired. The async must enter the downtime for               HIGH PAIN THRESHOLD
 at least 4 hours; every 4 hours of downtime heals                PSI TYPE:   Passive      ACTION:   Automatic
 1 point of stress damage. Traumas, derangements,
@@ -29,7 +29,7 @@ Intimidation skill tests. The async receives a +30
 modifier when defending against such tests.                   INSTINCT
                                                                  PSI TYPE:   Passive      ACTION:   Automatic
 ENHANCED CREATIVITY                                               RANGE:      Self        DURATION: Constant
-  PSI TYPE:   Passive       ACTION:     Automatic             Instinct bolsters the async’s subconscious ability to
+  PSI TYPE:   Passive       ACTION:     Automatic             Instinct bolsters the async's subconscious ability to
   RANGE:     Self         DURATION: Constant                  gauge a situation and make a snap judgment that
 An async with Enhanced Creativity is more imagi-              is just as accurate as a careful, considered decision.
 native and more inclined to think outside the box.            For Task Actions that involve analysis or planning
@@ -46,7 +46,7 @@ FILTER
                                                                  RANGE:     Self         DURATION: Constant
 Filter allows the async to filter out out distractions
 and eliminate negative situational modifiers from             The async can handle vast amounts of information
-distraction, up to the gamemaster’s discretion.               without overload and can perform more than one
+distraction, up to the gamemaster's discretion.               without overload and can perform more than one
                                                               mental task at once. The character receives an extra
 GROK                                                          Complex Action each Action Phase that may only be
                                                               used for mental or mesh actions.

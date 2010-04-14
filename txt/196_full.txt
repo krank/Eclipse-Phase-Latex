@@ -2,13 +2,13 @@ UNIFORM BLAST                                               LAYERED ARMOR
 Uniform blast attacks distribute their power evenly         If two or more types of armor are worn, the armor
 throughout the area of effect. Examples include fuel-       ratings are added together. However, wearing multiple
 air explosives and thermobaric weapons that disperse        armor units is cumbersome and annoying. Apply a –20
-an explosive mixture in a vapor cloud and ignite it all     modifier to a character’s actions for each additional
+an explosive mixture in a vapor cloud and ignite it all     modifier to a character's actions for each additional
 at once. All targets within the noted blast radius suffer   armor layer worn
 the same damage. Damage against targets outside of             Note that items specifically noted as armor accesso-
 the main blast sphere is reduced by –2 per meter.           ries—helmets, shields, etc.—do not inflict the layered
                                                             armor penalty, they simply add their armor bonus.
 CONE                                                        Note also that the armor inherent to a synthetic
-Weapons with a cone effect have an area effect that         morph or bot’s frame does not constitute a layer of
+Weapons with a cone effect have an area effect that         morph or bot's frame does not constitute a layer of
 begins with the tip of the weapon and expands out-          armor (i.e., you may wear armor over the synthetic
 ward in a cone. At short range, this attack effects 1       shell without penalty).
 target; at medium range it affects 2 targets within a
@@ -52,7 +52,7 @@ proof fiber weaves.                                         attacks with a beam 
                                                             Action and who misses with the first attack may treat
 ARMOR PENETRATION                                           that attack as a free Aim action (p. 190), receiving a
 Some weapons have an Armor Penetration (AP) rating.         +10 modifier for the second attack. In other words,
-This represents the attack’s ability to pierce through      though the first attack misses, the character takes the
+This represents the attack's ability to pierce through      though the first attack misses, the character takes the
 protective layers. The AP rating reduces the value of       opportunity to sweep the beam closer to the target
 armor used to defend against the attack (see Step 6:        for the second attack. This only applies when both
 Modify Armor, p. 192).                                      attacks are made against the same target.

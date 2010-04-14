@@ -23,14 +23,14 @@ Control,             Enhanced Hearing, Enhanced          You s
  d■                  Medichines, Oracles ■               of th
 can, Ego Sense,    Gear: Backup Insurance                lapse
 bliminal ■           (1 month), Disabler, Facial/        dal a
-                     Image Recognition Software,         You’v
+                     Image Recognition Software,         You'v
                      Fake Ego ID, Muse, Shock Ba-        new l
                      ton, Sniffer Software, Tactical     your p
                      Network Software, Taggant           use t
                      Nanoswarm, Track Software,          hunte
                      Tracker Dye (1 dose), Twitch        ing th
                      (1 dose) ■                          not on
-                               “Hello, doctor, you’re a har
+                               “Hello, doctor, you're a har
                   I have some questions about some childr
 UNAR EGO HUNTER
           APTITUDES
@@ -61,7 +61,7 @@ Academics: Psychology          COG       60       5               65
                     Control    WIL       50          10           60
                        Fray    REF       50                       50
               Freerunning      SOM       55                       55
-                Inﬁltration    COO       50                       50
+                Infiltration    COO       50                       50
                     Infosec    COG       45          5            50
  Interests: Conspiracies       COG       55          5            60
  sts: Hypercorp Projects       COG       55          5            60
@@ -96,5 +96,5 @@ mmersed yourself in a           not content to be a victim or a mer-
 a daunting task consider-       the Lost project—for what they
  our targets can change         did to you—and some day you will
 heir faces but their bodies     make them pay. ■
-an to ﬁnd.
-hat I’d like to ask you.”
+an to find.
+hat I'd like to ask you.”

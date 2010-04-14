@@ -1,10 +1,10 @@
 for habitation. Ganymede, with its differentiated sur-        normally talking about the Jovian groups. In the early
 face of rocky and icy terrain, has an iron core and thus      days, L4 asteroids (ahead of Jupiter) are named after
-a faint magnetic field. Callisto, the smaller of the two,     Greek heroes of Homer’s Iliad; L5 asteroids (trailing
+a faint magnetic field. Callisto, the smaller of the two,     Greek heroes of Homer's Iliad; L5 asteroids (trailing
 is composed mostly of icy silicate clays. As on Luna,         Jupiter) are named after heroes of Troy. Asteroids
 most cities on Ganymede and Callisto are built below          discovered more recently break the old convention, as
 ground to shield them from meteor impacts (and, on            there are far more objects in the Trojans than there
-Ganymede, from Jupiter’s radioactive bombardment).            were characters in the Iliad.
+Ganymede, from Jupiter's radioactive bombardment).            were characters in the Iliad.
    While within the “protection” of the Jovian Re-               Politically, the Trojans and Greeks may be thought
 public, both moons are a patchwork of city-states.            of as a collection of sometimes overlapping neighbor-
 Some are full members of the Jovian polity, while             hoods whose inhabitants tend to group around par-
@@ -16,10 +16,10 @@ Callisto, outside the worst radioactive effects of the        one other. Because
 Jovian magnetosphere, is an easier place for techno-          Trojan habitats tend to be small—from one to two
 progressivism to gain a foothold.                             thousand people—and built largely along scum barge
                                                               or cluster lines (although it is never advisable to refer
-HYODEN                                                        to someone’s habitat as a scum barge unless they refer
+HYODEN                                                        to someone's habitat as a scum barge unless they refer
 The nucleus of this city-state was a research station         to it that way first).
 founded by a coalition of Pacific Rim nations in Calli-
-sto’s Valhalla region, a massive primordial impact zone       RESOURCES AND ECONOMICS
+sto's Valhalla region, a massive primordial impact zone       RESOURCES AND ECONOMICS
 where the icy subsurface lies exposed, simplifying ex-        Although the sheer size of the two regions means
 traction of clean water. When the Fall came, Hyoden,          a lot of cultural diversity, anarcho-collectivism is a
 which had long faced labor shortages, opened itself           powerful meme here and the reputation economy is
@@ -29,17 +29,17 @@ largest city-state on Callisto and the largest non-Junta      Unlike the denser 
 state in the Jovian system. Hyoden is itself heavily          safety net provided by pervasive transhuman pres-
 militarized, as the tendency of the local authorities to      ence. The ideal Trojan or Greek is a Neo-Renaissance
 turn a blind eye toward operatives using their territory      being, incredibly competent in a wide variety of fields.
-for forays against the Junta makes for uneasy relations       A person who can’t maneuver in zero g; maintain
+for forays against the Junta makes for uneasy relations       A person who can't maneuver in zero g; maintain
 with their powerful neighbor.                                 their gear, ship, and hab; and navigate between rocks
                                                               and habitats can have a tough time surviving. At the
 LIBERTY                                                       same time, a spirit of cooperation prevails. Bartering
 Situated along the southern edge of the vast, rocky           services or even gifting them to gain reputation is
-plain called Galileo Regio, almost on Ganymede’s              common. Everyone appreciates a specialist, as long
-equator, Liberty (population 7 million) is the Junta’s        as they’re not specialized at the expense of baseline
+plain called Galileo Regio, almost on Ganymede's              common. Everyone appreciates a specialist, as long
+equator, Liberty (population 7 million) is the Junta's        as they're not specialized at the expense of baseline
 largest planetary city-state. It is closely tied to Liberty   self-sufficiency.
 Station, a major shipyard and defense installation in            Prospecting and salvage are major activities in
 geosynchronous orbit. Major industries include ship-          the Trojans, where metals and rare elements are
-building, space construction, fabrication, and security       scarce and settlers don’t usually have the economic
+building, space construction, fabrication, and security       scarce and settlers don't usually have the economic
 products and services. The Castle, the central security       muscle to import raw materials from elsewhere.
 network point from which all surveillance data col-           However, the Trojans are rich in silicates, volatiles,
 lected in the Junta is monitored and processes, is            and carbonaceous materials. Necessity has led to
@@ -58,4 +58,4 @@ ter-long arcs of scattered, icy rock asteroids sharing        ited asteroids wit
 the orbit of Jupiter. They orbit in the stable L4 and         (stealthing up on another habitat and resurfacing it
 L5 points sixty degrees ahead of and behind the giant         with nanosculpters to create an art object—mostly a
 planet. Mars and Neptune also have Trojan asteroids,          scum barge pastime).
-but when someone speaks of, “the Trojans,” they’re
+but when someone speaks of, “the Trojans,” they're

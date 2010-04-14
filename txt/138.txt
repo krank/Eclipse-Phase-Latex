@@ -5,7 +5,7 @@ edge skills (see Skills, p. 170). Skills are bought at the
 cost of 1 CP per point. Keep in mind that learned
 skills start at the rating of the linked aptitude. For
 example, if you want to raise a skill to 30 and the
-skill’s linked aptitude is 10, you’ll need to spend 20 CP.
+skill's linked aptitude is 10, you'll need to spend 20 CP.
 Skill bonuses from background or faction should also
 be applied to the rating before you start raising the
 skill. For simplicity, it is recommended that skills be

@@ -6,7 +6,7 @@ not have. Security has a different character post-Fall
 than in the 21st century. Due to hyper-abundance,
 physical security measures such as locks, doors, and
 walls are less important than in the past to common
-citizens. People don’t worry about theft as much as
+citizens. People don't worry about theft as much as
 in the past because most items can be replaced by a
 nanofabricator. The items that do tend to engender
 this type of security are irreplaceable or rare items
@@ -75,7 +75,7 @@ wireless) to security systems for remote control and
 alarm triggering.
    E-locks use one of several authentication systems,
 or sometimes a combination of systems:
-   Biometric: The lock scans one or more of the user’s
+   Biometric: The lock scans one or more of the user's
 biometric prints. Common biometrics include DNA,
 facial thermographic, fingerprint, gait, hand veins, iris,
 keystroke, odor, palm, retinal, and voice prints.
@@ -108,7 +108,7 @@ if done right, all evidence of the lock being opened
 can be erased.
    The third method is to physically open and ma-
 nipulate the lock. This requires first opening the
-lock’s case and then triggering the lock mechanism
+lock's case and then triggering the lock mechanism
 to open the door. Both of these are handled as
 separate Hardware: Electronics Task Actions with
 a timeframe of 1 minute each. In addition, most e-

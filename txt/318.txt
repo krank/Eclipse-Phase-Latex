@@ -13,7 +13,7 @@ ful and detailed examination.
 cal lock simply by analyzing it and shaping an ap-
 propriate key, though this takes a full Action Turn.
 It can also open electronic locks by infiltrating them
-with nanobots that influence the lock’s electronics,
+with nanobots that influence the lock's electronics,
 no matter what authentication system the lock uses.
 Opening electronic locks takes a full Action Turn, but
 success is practically guaranteed. Opening an elec-
@@ -21,7 +21,7 @@ tronic lock in this manner will, however, trigger an
 alarm and/or be logged as an event. For more details,
 see Electronic Locks, p. 291. [High]
    Cuffband: This smart plastic loop restricts around
-a prisoner’s limbs when activated. If the prisoner
+a prisoner's limbs when activated. If the prisoner
 struggles, it will tighten more. Cuffbands will inform
 the user if they are cut or loosened and are electron-
 ically-controlled, so the user can release the prisoner
@@ -59,10 +59,10 @@ actually bends around it, making it and anything it
 covers invisible. This invisibility works from the
 microwave to ultraviolet spectrums, but not against
 radar or x-rays. The drawback is that anything con-
-cealed within the cloak can’t see out. This is easily
+cealed within the cloak can't see out. This is easily
 overcome by using external sensor feeds (if available)
 and entoptics to navigate. Alternately, a small piece of
-anti-cloak, which cancels the cloak’s invisibility prop-
+anti-cloak, which cancels the cloak's invisibility prop-
 erties when touched together, can be used to create a
 small window to peep out of, though this increases
 the chance of being spotted. Noticing such a window

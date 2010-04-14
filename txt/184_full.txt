@@ -1,7 +1,7 @@
 MEDICINE: [FIELD]                                          Sample Fields: Autonomists (@-rep), Criminals (g-rep),
 Type: Field, Active, Technical                               Ecologists (e-rep), Firewall (i-rep), Hypercorps (c-
 Linked Aptitude: COG                                         rep), Media (f-rep), Scientists (r-rep). At the game-
-  What it is: Medicine is the applied care and mainte-       master’s discretion, this list can be expanded to
+  What it is: Medicine is the applied care and mainte-       master's discretion, this list can be expanded to
 nance of biological beings and life.                         other (sub)cultural groupings.
   When you use it: Use Medicine whenever you need          Specializations: As appropriate to each field
 to apply medical care beyond the immediate help

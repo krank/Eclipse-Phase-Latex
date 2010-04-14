@@ -1,28 +1,28 @@
 WHAT YOUR MUSE                                                   NON-STANDARD AIS
 CAN DO FOR YOU                                                   AND AGIS
-• Make Research Tests to ﬁnd information for you.                Not all AIs and AGIs were programmed and de
-• Scan newsfeeds and mesh updates for keyword alerts.            signed to adhere to human modes of thought
+- Make Research Tests to find information for you.                Not all AIs and AGIs were programmed and de
+- Scan newsfeeds and mesh updates for keyword alerts.            signed to adhere to human modes of thought
                                                                  and interests. Such creations are illegal in some
-• Monitor your mesh inserts/ecto/PAN and slaved devices
+- Monitor your mesh inserts/ecto/PAN and slaved devices
                                                                  jurisdictions, as they are considered a potential
   for intrusion.
                                                                  threat. Several hypercorps and other groups have
-• Launch countermeasures against intruders.
-                                                                 initiated research into this ﬁeld, however, with
-• Teleoperate and command robots.                                varying results. In some cases these digital minds
-• Monitor your Rep score and alert you to drastic changes.       are so different from human mindsets that com
-• Automatically provide feedback for other people’s              munication is is impossible. In others, enough
+- Launch countermeasures against intruders.
+                                                                 initiated research into this field, however, with
+- Teleoperate and command robots.                                varying results. In some cases these digital minds
+- Monitor your Rep score and alert you to drastic changes.       are so different from human mindsets that com
+- Automatically provide feedback for other people's              munication is is impossible. In others, enough
   Rep scores.                                                    crossover exists to allow limited communication
-• Run audio input through an online, real-time language          but such entities are invariably quite strange.
+- Run audio input through an online, real-time language          but such entities are invariably quite strange.
   translation system.                                               Rumors persist that some AIs began their
                                                                  life as transhuman backups or forks, who were
-• Put you in privacy mode and/or proactively stealth your
+- Put you in privacy mode and/or proactively stealth your
                                                                  then heavily edited and pruned down to AI
   wireless signal.
                                                                  level intelligences.                            ■
-• Falsify/ﬂuctuate your mesh ID.
-• Track people for you.
-• Anticipate your needs and act accordingly, pre-empting
+- Falsify/fluctuate your mesh ID.
+- Track people for you.
+- Anticipate your needs and act accordingly, pre-empting
                                                               enough resources to handle them. Others are impris-
   your requests.                                         ■
                                                               oned inside simulspaces, killing time in whatever way
@@ -61,4 +61,4 @@ CAN DO FOR YOU                                                   AND AGIS
   For thousands of infugees, embodying a digital form         entoptic interface of basic mesh inserts or the haptic
   is their only choice. Some of these are locked away         interface of an ecto.
   in mesh-separated virtual holding areas or even inac-         The basic mesh inserts used by most users allows
-  tive storage, locked up by habitats who didn’t have         them to interact with AR, VR, XP, and the mesh at the
+  tive storage, locked up by habitats who didn't have         them to interact with AR, VR, XP, and the mesh at the

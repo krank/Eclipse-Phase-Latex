@@ -9,10 +9,10 @@ each additional character helping them out, up to a
 maximum +30 modifier. Note that helping characters
 do not necessarily need to know the skill being used
 if the gamemaster decides that they can follow the
-primary actor’s lead.
+primary actor's lead.
 
 
-           The robotic leg on Eva’s synthetic morph has been
+           The robotic leg on Eva's synthetic morph has been
  EXAMPLE
 
 
@@ -20,7 +20,7 @@ primary actor’s lead.
 
            badly damaged, so she needs to repair it. Max and
            Vic both sit down and help her out, giving her a
-           +20 modiﬁer (+10 for each helper) to her Hard-
+           +20 modifier (+10 for each helper) to her Hard-
            ware: Robotics Test.
 
 
@@ -37,7 +37,7 @@ dard tests used to determine how well a character
 exercises a particular skill or ability.
    Success Tests are handled exactly as described under
 Making Tests, p. 115. The player rolls d100 against a
-target number equal to the character’s skill +/– modi-
+target number equal to the character's skill +/– modi-
 fiers. If they roll equal to or less than the target number,
 the test succeeds, and the action is completed as desired.
 If they roll higher than the target number, the test fails.
@@ -59,7 +59,7 @@ character undertakes an action, meaning that they
 choose to be especially careful when performing the
 action in order to enhance their chance of success. For
 every minute of extra time they take, they increase
-their target number by +10. Once they’ve modified
+their target number by +10. Once they've modified
 their target number to over 99, they are practically as-
 sured of success, so the gamemaster can waive the dice
 roll and grant them an automatic success. Note that

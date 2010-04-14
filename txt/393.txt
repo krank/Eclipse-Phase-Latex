@@ -24,7 +24,7 @@
                    Gunnery                           INT       Active
                    Hardware: [Field]                COG        Active
                    Impersonation                    SAV         Activ
-                   Inﬁltration                      COO        Active
+                   Infiltration                      COO        Active
                    Infosec                       COG (no def) Active
                    Interest: [Field]                COG          Kno
                    Interfacing                      COG        Active
@@ -119,7 +119,7 @@ cial
            Trait)
            Mental Disorder                                               1
            Mild Allergy (Morph Trait)
-           Modiﬁed Behavior                           5 (Level 1), 10 (Lev
+           Modified Behavior                           5 (Level 1), 10 (Lev
            Morphing Disorder                          10 (Level 1), 20 (Lev
            Neural Damage                                                  1
            No Cortical Stack (Morph Trait)                                1
@@ -134,7 +134,7 @@ cial
            Timid                                                          1
            Unattractive (Morph Trait)                  10 (Level 1), 20 (L
            Uncanny Valley (Morph Trait)                                   1
-           Unﬁt (Morph Trait)                                10 (Level 1)
+           Unfit (Morph Trait)                                10 (Level 1)
            VR Vertigo                                                     1
            Weak Immune System (Morph Trait)                 10 (Level 1) o
            Zero-G Nausea (Morph Trait)                                    1

@@ -8,7 +8,7 @@ right into your brain—a mesh insert, sometimes called
                                             There are three protocols used to access
                                             and manipulate data on the mesh. ■ p. 239
 
-                                                                       Augmented Reality (AR): Information overlaid on the user’s physical
+                                                                       Augmented Reality (AR): Information overlaid on the user's physical
                                                                          senses—sight, sound, odors, tastes, and tactile sensations. ■ p. 239
 
                                                                 Virtual Reality (VR): Physical senses are overridden and your character is
@@ -29,10 +29,10 @@ right into your brain—a mesh insert, sometimes called
                                                                                               standard mesh use start here. ■ p. 245
 
              Infolife and Infomorphs                                                   Online Research: Your character will use the
-               Both disembodied transhumans and                                       Research skill to ﬁnd info in the mesh. ■ p. 249
-     artiﬁcial intelligences roam the mesh. ■ p. 244
+               Both disembodied transhumans and                                       Research skill to find info in the mesh. ■ p. 249
+     artificial intelligences roam the mesh. ■ p. 244
 
-                    Muses: A speciﬁc type of AI that functions as a
+                    Muses: A specific type of AI that functions as a
                      personal aide and companion. ■ pp. 244, 264
 
     AGIs: Self-aware digital consciousnesses, capable of intelligent

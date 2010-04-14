@@ -6,7 +6,7 @@ restrict access to some dangerous goods, espe-
 cially military hardware. Few people living in a
 sealed habitat surrounded by hard vacuum enjoy
 the idea of easy access to biowar plagues or de-
-vices that can make large holes in their habitat’s
+vices that can make large holes in their habitat's
 outer hull. Though such incidents are quite rare,
 the memories of horrors like the recent Branson-
 Vesta disaster are still quite fresh. In that inci-
@@ -21,7 +21,7 @@ cal stacks were destroyed in the explosions.
    As a result, standard procedure is to restrict
 access and heavily encrypt templates needed to
 create military-grade weapons and similar dan-
-gers, though sufﬁciently dedicated individuals
+gers, though sufficiently dedicated individuals
 can eventually decrypt or reverse-engineer such
 designs. Even nanofabricators in anarchist habi-
 tats may be blocked from creating such things or
@@ -31,7 +31,7 @@ possess almost no other laws regarding posses-
 sion of various objects and devices usually have
 laws against weapons that can do serious harm
 to the habitat.
-   Many dangerous technologies are speciﬁcally
+   Many dangerous technologies are specifically
 designed to make use of various exception-
 ally rare or human-made elements, including
 radioactive elements and artificially created
@@ -41,7 +41,7 @@ manufacture of these weapons. Since detecting
 radioactive elements is simple using standard
 environmental sensors located throughout every
 habitat, security authorities can easily learn
-when someone has acquired signiﬁcant quan-
+when someone has acquired significant quan-
 tities of such elements, or catch them if they
 attempt to bring them on board.                   ■
 
@@ -86,7 +86,7 @@ of energy and raw materials that allows them to use
 their cornucopia machines to manufacture what they
 need. Visitors are generally also allowed access, though
 anyone staying long is expected to contribute to the
-habitat if they don’t want to see their reputation slashed.
+habitat if they don't want to see their reputation slashed.
 
 VALUE AND SCARCITY IN NEW ECONOMY SOCIETIES
 While basic citizenship allowances cover most necessi-

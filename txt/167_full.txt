@@ -27,7 +27,7 @@ SCUM ENFORCER
                               Fray   REF       70          5            75
                          Free Fall   REF       60          5            65
              Hardware: Armorer       COG       40                       40
-                       Inﬁltration   COO       50          5            55
+                       Infiltration   COO       50          5            55
         Interests: Drug Dealers      COG       50                       50
              Interests: Gambling     COG       40                       40
          Interests: Scum Gangs       COG       50                       50
@@ -54,15 +54,15 @@ SCUM ENFORCER
                                                                                REP                                  Cyberclaw
                                                                                @-rep:   60                          Medichine
 Those jokers in the inner               the universe end. Right now,           c-rep:   40                          (Level 1), T
-system just don’t get it—the            you get your kicks with action,                                           Gear: Backup
+system just don't get it—the            you get your kicks with action,                                           Gear: Backup
 future is about taking life by the      either the violent or kinky kind—      EQUIPMENT                            (1 month),
 enhanced reproductive organs            sometimes both. You thrive as a        Armor: Bioweave Armor (Light)        (2 doses),
 and squeezing every juicy drop          tough chick who will smack the           + Body Armor (Heavy) with          100 rounds
-out. You live the life you want to      hell out of anyone who threat-           Offensive Armor and Shock          Monoﬁlam
+out. You live the life you want to      hell out of anyone who threat-           Offensive Armor and Shock          Monofilam
 live, doing whatever you like to        ens your friends or clients              Proof mods [15/16] ■               Nanoband
 your bodies and mind, and you           during the day, but the real fun       Primary Weapon: Kinetic Pistol       Gloves, Ta
 plan to enjoy the hell out of it        is taking home a different part-         (100 rounds regular ammo) ■        Software,
 until maybe you get to watch            ner every night. ■                     Starting Credit: 1,000 ■
 
-                                               “Oi! Pretty boy! If that’s the best punch you can throw,
-                                              then you’re never gonna get to see the rest of my mods!”
+                                               “Oi! Pretty boy! If that's the best punch you can throw,
+                                              then you're never gonna get to see the rest of my mods!”

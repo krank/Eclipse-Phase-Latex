@@ -1,11 +1,11 @@
    If a character suffers extensive organic damage or
 death while insured, the insurance will cover 80%
-of the morph’s cost, meaning that the character is
+of the morph's cost, meaning that the character is
 expected to pay the other 20%. If they cannot pay,
 their possessions or their stored morph may be
 seized in payment.
    If a character violates their insurance policy by
-intentionally putting themself in harm’s way above
+intentionally putting themself in harm's way above
 the threat level at which the policy was purchased,
 without first communicating with and rendering pay-
 ment to the insurer, the policy may be declared void.
@@ -15,7 +15,7 @@ sions and stored morph may be subject to seizure.
    Seizure takes different forms depending upon the
 local economy and legal system. In hypercorp space,
 it is a straightforward seizure of liquid assets, in-
-cluding forced uploading if the character’s morph is
+cluding forced uploading if the character's morph is
 seized. Elsewhere, the character is more likely to end
 up owing a lot of favors or taking severe hits to their
 reputation, but they are unlikely to undergo forced
@@ -30,37 +30,37 @@ used to the idea of identifying people by how they
 look or even by their biometric data, but this is no
 longer a certified method. What you look like may
 drastically change from one day to the next. You
-may see an olympian you recognize, but perhaps it’s
-been awhile, so you’re no longer certain that it’s the
-same person still in that morph. If you’re sleeved in a
+may see an olympian you recognize, but perhaps it's
+been awhile, so you're no longer certain that it's the
+same person still in that morph. If you're sleeved in a
 popular off-the-rack morph, there may be hundreds
 of other cloned morphs that look exactly like you out
 there—perhaps useful if you desire to blend in. Simi-
 larly, security services can no longer rely on biometric
 technologies. Forensics may be able to identify an indi-
-vidual morph’s presence at a crime scene, but proving
+vidual morph's presence at a crime scene, but proving
 who was in that morph at the time is another matter.
    Identity is, of course, tied to ego, and various
 authorities have instituted verification and security
 measures based on this. Within the inner system, each
 ego is given an ID number, which is used to validate
 their identity, citizenship, legal status, credit accounts,
-licensing, etc. This ego ID is verifiable by the person’s
+licensing, etc. This ego ID is verifiable by the person's
 brainwave patterns, which remain the same even
 when resleeving. When an ego uploads, the upload-
 ing service is required to incorporate this ego ID into
-the person’s backup/infomorph. Likewise, when that
+the person's backup/infomorph. Likewise, when that
 person resleeves, the service handling the procedure
-is required by law to verify the ego’s ID before down-
+is required by law to verify the ego's ID before down-
 loading. The ego ID is then hardcoded into the morph
 itself in the form of a nanotattoo on the tip of the per-
-son’s index finger. This nanotat can be easily scanned
+son's index finger. This nanotat can be easily scanned
 at security checkpoints to verify identity.
    Though efficient, this system is far from perfect. For
 one, ID record-keeping is far from standardized and
 varies drastically from habitat to habitat. Most do not
 share records with each other unless they are part of the
-same political alliance in order to protect their citizens’
+same political alliance in order to protect their citizens'
 privacy. For example, Lunar-Lagrange Alliance stations
 do not share citizenship ID data with the Planetary
 Consortium, though they do share with each other.
@@ -74,7 +74,7 @@ verification. If a person egocasts to Nectar on Mars
 from Qing Long in the Martian Trojans, and the
 Nectar officials have no record of this person, they
 can only trust that the Qing Long officials did their
-job when verifying the subject’s ID and background.
+job when verifying the subject's ID and background.
   To make matters worse, many autonomist habitats
 operate without identity checks altogether. Though
 some ID measures are still used, both to prevent
@@ -86,13 +86,13 @@ quire ID, they are assigned a temporary ID for the du-
 ration of their stay (and sometimes any future visits).
 
 IDENTITY VERIFICATION
-There are three ways to verify someone’s identity:
+There are three ways to verify someone's identity:
 nanotat scan, brainwave scan, and checking the cryp-
 tographic hash on a digital mind.
 
 NANOTAT SCANS
 Special encoded nanobots are used to create a small
-nanotat on a person’s index finger. These nanobots
+nanotat on a person's index finger. These nanobots
 contain encoded information that includes their name
 and identity, brainwave pattern, citizenship/legal status,
 credit account number, insurance information, and
@@ -105,7 +105,7 @@ a special ID scanner that reads the nanobot encoding.
 that did the resleeving, so that the data may be ac-
 cessed and verified with their records online. The data
 on the nanotat is also cryptographically signed with
-the company’s public key, meaning that anyone who
+the company's public key, meaning that anyone who
 checks the data and the signature online can tell if the
 data has been altered.
 
@@ -116,6 +116,6 @@ is in. They are impractical for most security purposes
 as they require a scan with a combination electroen-
 cephalogram and neuroimaging device, referred to as
 a brainprint scanner, which takes approximately 5
-minutes. This device measures the subject’s baseline
-brainwave pattern as well as the subject’s brainwave
+minutes. This device measures the subject's baseline
+brainwave pattern as well as the subject's brainwave
 signature responses when they think certain thoughts

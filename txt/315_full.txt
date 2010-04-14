@@ -23,7 +23,7 @@ Value of 2/2. [Low]                                             Refractive Glazi
                                                              refractive metamaterials, and an energy transfer
 ARMOR MODS                                                   system with heat radiators provides extra protection
 Armor modifications add extra materials or coatings          against energy weapons. Increase the Armor Value
-that either enhance the armor’s resistance to certain        by +3/+0. [Low]
+that either enhance the armor's resistance to certain        by +3/+0. [Low]
 dangers or provide other effects. Armor mods may be             Self-Healing: The armor is equipped with a nano-
 easily added or removed with the appropriate nano-           hive that acts like repair spray (p. 333). [Moderate]
 bot applicators.                                                Shock Proof: Shock proof armor is electronically
@@ -45,7 +45,7 @@ heat or fire specifically. [Trivial]                         constantly communic
    Immunogenic System: The immunogenic mod                   smallest radios are no larger than a spec of dust and
 adds an active nanobot swarm, maintained by a spe-           have a range of no more than 20 meters, while the
 cialized hive, that coats the outer layer of armor and       largest are the size of a truck and have a range of
-also the non-armored parts of the wearer’s morph.            many thousands of miles. Radios large and small are
+also the non-armored parts of the wearer's morph.            many thousands of miles. Radios large and small are
 It acts as an outer immune system designed to neu-           ubiquitous and almost all devices contain at least
 tralize toxic agents and nanotoxins with which it            short-range radios so they may interact with the
 comes into contact. This provides immunity to drugs,         mesh. Most morphs are equipped with basic mesh

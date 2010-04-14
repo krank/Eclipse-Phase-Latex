@@ -12,7 +12,7 @@ These may range from accumulating knowledge and             mindset, however, th
 expertise on how transhumanity functions as a spe-          be accelerated and the character converted into a
 cies to forcibly uploading mass numbers of minds to         gamemaster-operated NPC.
 more esoteric goals such as manufacturing a halfnium
-bomb or converting the solar system’s mass to compu-        EXSURGENTS
+bomb or converting the solar system's mass to compu-        EXSURGENTS
 tronium. The Exsurgent virus is potent and intelligent,     A few examples of exsurgents created from tran-
 and while its methods and goals may sometimes be            shumans transformed by the xenomorph strain of
 opaque to transhumanity, it acts with direction and         the virus are noted below. As always, gamemasters
@@ -24,7 +24,7 @@ where the exsurgent goals become strange or simply          applied to transform
 horrific, such as running experiments on transhuman         aptitude/skill ratings for NPC exsurgents.
 responses to extreme conditions or converting an              Note that simply encountering transformed exsur-
 entire colony to cannibalism.                               gents is stressful to the minds of many transhumans.
-                                                            At the gamemaster’s discretion, such encounters may
+                                                            At the gamemaster's discretion, such encounters may
 EXSURGENT-INFECTED PCS                                      inflict 1d10 + 3 mental stress (p. 215).
 It is possible for player characters infected with some
 strains of the Exsurgent virus to continue on under         CREEPERS (SYNTHMORPHS)

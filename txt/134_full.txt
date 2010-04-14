@@ -2,7 +2,7 @@ MARTIAN                                                     CHOOSE FACTION
   You were raised in one of the stations on or above        After choosing your background, you now choose
 Mars, now the most populated planet in the system.          which primary faction your character belongs to.
 Your home town may or may not have survived the             This faction most likely represents the grouping that
-Fall.                                                       controls your character’s current home habitat/station,
+Fall.                                                       controls your character's current home habitat/station,
 Advantages: +10 Pilot: Groundcraft skill, +10 to one        and to which your character holds allegiance, but this
   Technical, Academic: [Field], or Profession: [Field]      need not be the case. You may be a dissident member
   skill of your choice, +20 Networking: Hypercorps          of your faction, living among them but opposing some
@@ -11,12 +11,12 @@ Disadvantages: None                                         change. Whatever the
 Common Morphs: Flats, Splicers, and Rusters                 your character represents themself in the struggle be-
                                                             tween ideologies post-Fall.
 ORIGINAL SPACE COLONIST                                       You must choose one of the factions listed below.
-You, or your parents, were part of the first “gen-          Like your character’s background, it will provide your
+You, or your parents, were part of the first “gen-          Like your character's background, it will provide your
 erations” of colonists/workers sent out from Earth to       character with certain skills, traits, limitations, or
 stake a claim in space, so you are familiar with the        other characteristics.
 cramped confines of spaceflight and life aboard older         The factions presented here outline the most numer-
 stations and habitats. As a “zero-one G” (zero-gravity,     ous and influential among transhumanity, but others
-first-gen), you were never part of the elite. People from   may also exist. At your gamemaster’s discretion, you
+first-gen), you were never part of the elite. People from   may also exist. At your gamemaster's discretion, you
 your background typically have some sort of special-        may develop another starting faction with them not
 ized tech training as vacworkers or habtechs.               included on this list.
 Advantages: +10 Pilot: Spacecraft or Freefall skill,
@@ -28,7 +28,7 @@ Common Morphs: All. Use of exotic morphs is                 everyone should have
    common.                                                  their lives. According to the primitive and restrictive
                                                             policies of the Inner system and Jovian Junta, this
 RE-INSTANTIATED                                             makes you an irresponsible hoodlum at best and a ter-
-You were born and raised on Earth, but you did not          rorist at worst. In your opinion, that’s comedy coming
+You were born and raised on Earth, but you did not          rorist at worst. In your opinion, that's comedy coming
 survive the Fall. All that you know is that your body       from governments that keep their populations in line
 died there, but your backup was transmitted off-world,      with economic oppression and threats of violence.
 and you were one of the lucky few to be re-instantiated     Advantages: +10 to a skill of your choice, +30 Net-
@@ -38,12 +38,12 @@ Advantages: +10 Pilot: Groundcraft skill, +10 to a          Common Morphs: All
   Networking: [Field] skill of your choice, +2 Moxie
 Disadvantages: Edited Memories trait, 0 Starting            ARGONAUT
   Credit (can still buy credit with CP)                     You are part of a scientific techno-progressive move-
-Common Morphs: Cases, Infomorphs, Synths                    ment that seeks to solve transhumanity’s injustices and
+Common Morphs: Cases, Infomorphs, Synths                    ment that seeks to solve transhumanity's injustices and
                                                             inequalities with technology. You support universal
 SCUMBORN                                                    access to technology and healthcare, open source
 You were raised in the nomadic and chaotic lifestyle        models of production, morphological freedom, and
 common to Scum barges.                                      democratization. You try to avoid factionalism and
-Advantages: +10 Persuasion or Deception skill, +10          divisive politics, seeing transhumanity’s splintering as
+Advantages: +10 Persuasion or Deception skill, +10          divisive politics, seeing transhumanity's splintering as
   Scrounging skill, +20 Networking: Autonomists             a hindrance to its perpetuation.
   skill                                                     Advantages: +10 to two Technical, Academic: [Field],
 Disadvantages: None                                           or Profession: [Field] skills; +20 Networking:

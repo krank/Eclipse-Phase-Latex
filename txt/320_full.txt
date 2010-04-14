@@ -3,18 +3,18 @@ If a character is exposed to a drug via its method of      This means that poor 
 application—for example, they pop a pill, slap on          occasionally find themselves resleeved into a morph
 a dermal patch, are soaked with a splash grenade,          that has a physical addiction. In this case, the charac-
 breathe in gas, or get stabbed with a coated weapon—       ter is subject to the physical addictiveness of the drug
-then they are subject to the drug’s effects. The onset     but not the mental addiction, although if they break
+then they are subject to the drug's effects. The onset     but not the mental addiction, although if they break
 time determines how long these effects take to kick in,    down and indulge in the drug, they may themself
 and the duration determines how long they last.            become physically addicted.
    While there is no resistance test to ignore a drug or     Characters who resleeve as infomorphs can remain
-toxin’s effects once exposed, in some cases (especially    mentally addicted to a substance despite no longer
+toxin's effects once exposed, in some cases (especially    mentally addicted to a substance despite no longer
 toxins) a test might be called for to determine the        having a body. The market is always happy to provide,
 severity of the effects.                                   though; a wide variety of narcoalgorithms mirroring
    Unless otherwise noted or specifically overridden,      the effects of most of the drugs described below are
 medichines (p. 308) will protect a character from          available for infomorphs and AIs. For the infomorph-
 drug/toxin effects (but not nanodrugs/nanotoxins).         ported narcoalgorithm version of any physically-
 Enhancements like toxin filters (p. 305) may also          only addictive drug described below, consider the
-impede a drug’s effect or provide complete resistance.     Addictiveness to be effectively physical. The character
+impede a drug's effect or provide complete resistance.     Addictiveness to be effectively physical. The character
 If an antidote is taken in advance or before the effects   remains addicted as long as they are an infomorph,
 kick in, the drug will not work.                           but they do not remain addicted if they sleeve into a
                                                            physical morph.
@@ -32,26 +32,26 @@ negative trait (p. 148). Addiction is measured in three    as guidelines.
 levels: Minor, Moderate, and Major. The severity de-
 termines how often an addicted character needs the         COGNITIVE DRUGS
 drug and what the negative effects of not using the         Nootropics and similar drugs are intended to boost
-drug are.                                                   the user’s mental faculties.
+drug are.                                                   the user's mental faculties.
    An addicted character must continue to make WIL             Drive: This nootropic speeds up left-right brain
 x 3 Tests as they use the drug, as determined by the        hemisphere communication, stimulates idea produc-
-gamemaster. Failure indicates the character’s addic-        tion, and improves concentration, with no usual side
+gamemaster. Failure indicates the character's addic-        tion, and improves concentration, with no usual side
 tion severity increases.                                    effects. Users receive a +5 bonus to COG while the
    The negative effects from not using a drug end           drug lasts. [Low]
 whenever the character does the drug again. Durabil-           Klar: Klar boosts alertness and enhances clarity and
 ity and Lucidity penalties are not damage, but tempo-       perception. Users report a feeling of being “elevated”
-rary decreases to the character’s maximum values; the       to a higher level. They receive +5 INT while the drug
+rary decreases to the character's maximum values; the       to a higher level. They receive +5 INT while the drug
 character immediately regains the lost Durability or        lasts. [Low]
 Lucidity when they do the drug again.                          Neem: Neem is a mnemonic drug that works by
    Addiction is of indefinite duration. To clean up,       “tagging” experiences and mental input with a set of
 the character must stay off the drug for 1 week for         unique sensations that contribute to the formation
 each level of addiction. Resisting this craving is dif-     of state-based memories. Neem gummy chews come
 ficult, and should at least require another WIL x 3         in a variety of fruit flavors shaped like extinct old
-Test, modified by the drug’s Addiction modifier. Play-      Earth animals. Neem gives characters a +20 bonus
+Test, modified by the drug's Addiction modifier. Play-      Earth animals. Neem gives characters a +20 bonus
 ers and gamemasters are encouraged to roleplay an           on COG Tests to recall information they learned
 attempt to kick a habit. Each week the character is         while on Neem (see Memorizing and Remembering,
 off the drug, the addiction drops by one level. When        p. 176). The drawback to Neem is that memories they
-it reaches 0, the character is clean ... though there is    accumulate while under the drug’s influence have no
+it reaches 0, the character is clean ... though there is    accumulate while under the drug's influence have no
 always danger of a relapse.                                 emotional association. For example, a character who
    Physical addictions do not carry over to a new           witnessed something horrible happening to a friend
 morph if the character resleeves, but mental ad-            or who had a fight with a romantic partner while on

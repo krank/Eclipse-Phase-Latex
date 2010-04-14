@@ -3,18 +3,18 @@ noticing. The hacker has acquired Covert status (p.         LOCKED
 status is Hidden (p. 256).                                  datatrail—has been pinned down by system security.
    If only the monitor succeeds, the hacking attempt        The hacker has access and account privileges, but they
 is spotted and the monitor may immediately lock the         have been flagged as an interloper. The system is on
-hacker out of the system before they manage to fully        active alert (inflicting a –20 modifier on the hacker’s ac-
+hacker out of the system before they manage to fully        active alert (inflicting a –20 modifier on the hacker's ac-
 break in. The intruder may try again, but the monitor       tions) and may launch active countermeasures (p. 257)
 will be vigilant for further intrusions.                    against the intruder.
    If both succeed, the intruder has gained access but
 the monitor is aware that something strange is going        CHANGING STATUS
-on. The hacker acquires Spotted status.                     An intruder’s status is subject to change according to
+on. The hacker acquires Spotted status.                     An intruder's status is subject to change according to
    If both fail, continue to make the same test on each     their actions and the actions of the system.
-of the hacker’s Action Phases, until one or both succeed.
+of the hacker's Action Phases, until one or both succeed.
                                                             UPGRADING STATUS
 INTRUDER STATUS                                             A hacker can attempt to improve their status in order
 Intruder status is a simple way of measuring an             to better protect themself. This requires a Complex
-invader’s situation when they are intruding upon            Action and an Infosec Test. If the hacker has Spotted
+invader's situation when they are intruding upon            Action and an Infosec Test. If the hacker has Spotted
 a system. This status has an impact on whether the          status, this is an Opposed Test between monitor and
 hacker has caught any attention or if they managed          intruder. If the hacker wins and scores an Excellent
 to remain unobtrusive. Status is first determined when      Success (MoS of 30+), they have upgraded their status
@@ -23,13 +23,13 @@ according to events.                                        Intruders with Locke
   Note that intruder status is a separate matter from
 account access privileges (p. 246). The latter represents   ZEROING IN
 what a user can legally do on a system. The former          A security hacker or muse that is actively monitoring
-indicates how aware the system is of the hacker’s true      a system can take a Complex Action and attempt to
+indicates how aware the system is of the hacker's true      a system can take a Complex Action and attempt to
 nature as an intruder.                                      hone in on a Spotted intruder. An Opposed Infosec Test
-                                                            is made between both parties. If the system’s defender
+                                                            is made between both parties. If the system's defender
 HIDDEN                                                      wins, the hacker is downgraded to Locked status.
 An intruder with Hidden status has managed to silent-
 ly sneak into the system without anyone noticing. The       FAILING TESTS
-system’s security is totally unaware of their presence      Any time an intruder scores a Severe Failure (MoF
+system's security is totally unaware of their presence      Any time an intruder scores a Severe Failure (MoF
 and may not act against them. In this case, the hacker      30+) on a test involving manipulating the system, they
 is not using an account so much as they are exploit-        are automatically downgraded one status level (from
 ing a flaw in the system that grants them a nebulous,       Covert to Spotted, for example). If a critical failure
@@ -37,11 +37,11 @@ behind-the-scenes sort of presence in the system. The       is rolled, they imme
 hacker effectively has admin access rights, but does        achieve Locked status.
 not show up as an admin-level user in logs or other
 statistics. Hidden characters receive a +30 modifier on     BRUTE-FORCE HACKING
-any efforts to subvert the system.                          Sometimes a character simply doesn’t have time to do
+any efforts to subvert the system.                          Sometimes a character simply doesn't have time to do
                                                             the job right, and they need to hack in now or never.
 COVERT                                                      In this case the hacker engages the target system im-
 An intruder with Covert status has accessed the             mediately, head on, without taking any time to pre-
-system in a manner that doesn’t attract any unusual         pare an attack. The hacker simply brings all of their
+system in a manner that doesn't attract any unusual         pare an attack. The hacker simply brings all of their
 attention. For all intents and purposes, they appear        software exploit tools to bear, throwing them at the
 to be a legitimate user with whatever access rights         target and hoping that one works. This is handled as
 they sought. Only extensive checking will turn up any       an Infosec Test, but as a Task Action with a timeframe
@@ -50,10 +50,10 @@ not consider them a threat.                                 a +30 modifier on th
                                                             rush the job (see Task Actions, p. 120), in order to cut
 SPOTTED                                                     this time even shorter.
 Spotted status indicates that the system is aware of an       The drawback to brute-force hacking is that it imme-
-anomaly or intrusion but hasn’t zeroed in on the in-        diately triggers an alarm. If the system is actively moni-
+anomaly or intrusion but hasn't zeroed in on the in-        diately triggers an alarm. If the system is actively moni-
 truder yet. The hacker appears to be a legitimate user      tored, the hacker must beat the monitor in an Opposed
 with whatever access rights they sought, but this will      Infosec Test or be immediately locked out as soon as
 not hold up under close scrutiny. The system goes on        they break in. Even if they succeed, the hacker has
-passive alert (inflicting a –10 modifier to the hacker’s    Locked status and is subject to active countermeasures.
+passive alert (inflicting a –10 modifier to the hacker's    Locked status and is subject to active countermeasures.
 activities on that system) and may engage the hacker
 with passive countermeasures (p. 257).

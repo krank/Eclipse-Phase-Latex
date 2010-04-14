@@ -10,7 +10,7 @@
  sation in skin (even through armor) and to metals.
  Agonizers have two settings. The first is an active
  denial setting that causes extreme burning pain in the
- target, inflicting –20 to the target’s actions and forc-
+ target, inflicting –20 to the target's actions and forc-
  ing them to move away from the beam on their next
  action unless they succeed in a WIL Test (targets with
  Level 1 Pain Tolerance or the equivalent only suffer
@@ -27,10 +27,10 @@
  accelerated particles at near light speed that transfer
  massive amounts of kinetic energy to the target, su-
  perheating and creating an explosion when striking.
- The bolter’s beam is not diffused by the cloud that
+ The bolter's beam is not diffused by the cloud that
  occurs when it strikes, and so it has greater penetra-
  tion than the laser pulser. Likewise, the bolter is not
- affected by smoke, fog, or rain. The bolter’s beam is
+ affected by smoke, fog, or rain. The bolter's beam is
  invisible. Note that bolters are designed for either
  atmospheric or exoatmospheric (vacuum) operation,
  and will not function in the opposite environment
@@ -54,7 +54,7 @@ Laser Pulser                               —
 Microwave Agonizer                         —
    Roast Mode                              –5
 Particle Beam Bolter                       –2
-Plasma Riﬂe                                –8
+Plasma Rifle                                –8
 Stunner                                    —              (1d
     overheating, however, and so require 1 full Action
     Turn of cool-down time after every 2 shots. Plasma
@@ -86,7 +86,7 @@ Stunner                                    —              (1d
        Seeker Armband (Micromissile): This weapons unit
     is worn on the arm, allowing the user to point and
     fire using an entoptic smartlink system. Though highly
-    portable, the armband’s micromissile supply is low. It
+    portable, the armband's micromissile supply is low. It
     fires in single-shot mode. [Moderate]
        Seeker Pistol (Micromissile): This pistol-sized
     seeker launcher fires micromissiles in semi-auto
@@ -98,7 +98,7 @@ Stunner                                    —              (1d
 Disposable Launcher              SS                  1
  eeker Armband                   SS                  4
  eeker Pistol                    SA                  8
- eeker Riﬂe                      SA     12 micromissile/6 minimissi
+ eeker Rifle                      SA     12 micromissile/6 minimissi
 Underbarrel Seeker               SA                  6
 
 

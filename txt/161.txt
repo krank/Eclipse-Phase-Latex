@@ -27,7 +27,7 @@ EXTROPIAN SMUG
                           Free Fall     REF      30
                           Gunnery       INT      40          5
            Hardware: Aerospace          COG      50
-                        Inﬁltration     COO      40          5
+                        Infiltration     COO      40          5
                            Infosec      COG      35
         Interests: Black Markets        COG      55
       Interests: Criminal Groups        COG      35
@@ -53,9 +53,9 @@ Profession: Customs Procedures          COG      50
 
 
 Despite the failures of statist capi-     or pirating nanofab blue
-talism, you’re a die-hard believer in     an age of automated m
-free markets—and when markets             you’re a damn good pilot
-aren’t free, you have no qualms           can talk or shoot your w
+talism, you're a die-hard believer in     an age of automated m
+free markets—and when markets             you're a damn good pilot
+aren't free, you have no qualms           can talk or shoot your w
 about undermining them.                   messy situations. Where
    You make a living supplying the        people look down on synt
 inner system and Jovian black mar-        you embrace the post-biol

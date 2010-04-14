@@ -66,7 +66,7 @@ Academics: Engineering           COG       50                       50
      Hardware: Industrial        COG       45                       45
      Hardware: Robotics          COG       55                       55
             Impersonation        SAV       45                       45
-                 Inﬁltration     COO       60                       60
+                 Infiltration     COO       60                       60
                     Infosec      COG       70                       70
  s: Hacker Mesh Forums           COG       55                       55
  terests: Online Banking         COG       50                       50
@@ -92,7 +92,7 @@ Networking: Hypercorps           SAV       40                       40
 
  ever been a system you           of course, but you've never let moral-
  ack, given time. That's what     ity get in your way. In fact, you make a
-   away the ﬁrst time, but now    good living selling your talents to crimi-
+   away the first time, but now    good living selling your talents to crimi-
  ave a second chance you'll       nal groups like the triads and ID Crew.
   aught again. You take pride     You've never been a joiner, though—
   enting firewalls and mesh       you remain strictly freelance. In fact,

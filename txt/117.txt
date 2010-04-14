@@ -10,7 +10,7 @@ or fail, and to what degree.
   You make tests in Eclipse Phase by rolling d100 and
 comparing the result to a target number. The target
 number is typically determined by one of your char-
-acter’s skills (discussed below) and ranges between 1
+acter's skills (discussed below) and ranges between 1
 and 98. If you roll less than or equal to the target
 number, you succeed. If you roll higher than the target
 number, you fail.
@@ -18,7 +18,7 @@ number, you fail.
 99 is always a failure.
 
 
-           Jaqui’s character needs to make a skill test. Her
+           Jaqui's character needs to make a skill test. Her
  EXAMPLE
 
 
@@ -73,10 +73,10 @@ an enemy is trying to sneak past a character on guard,
 for example, the gamemaster will alert the player that
 something is amiss if they ask them to make a perception
 test. This means that the gamemaster should keep a copy
-of each character’s record sheet on hand at all times.
+of each character's record sheet on hand at all times.
 
 DIFFICULTY AND MODIFIERS
-The measure of a test’s diffi-
+The measure of a test's diffi-
 culty is reflected in its modifiers.
 Modifiers are adjustments made
                                                     TEST DI
@@ -87,13 +87,13 @@ it. A test of average difficulty
 will have no modifiers, whereas
 actions that are easier will have       Easy
 positive modifiers (raising the         Average
-target number, making success           Difﬁcult
+target number, making success           Difficult
 more likely) and harder ac-
                                         Challenging
 tions will have negative modi-
 fiers (lowering the target number,      Hard
 making success less likely). It is
-the gamemaster’s job to deter-
+the gamemaster's job to deter-
 mine if a particular test is harder             MODIFIER
 or easier than normal and to
                                         SEVERITY
@@ -102,7 +102,7 @@ Test Difficulty table) and to then      Minor
 apply the appropriate modifier.         Moderate
    Other factors might also play a      Major
 role in a test, applying additional
-modifiers aside from the test’s
+modifiers aside from the test's
 general level of difficulty. These factors include the en-
 vironment, equipment (or lack thereof), and the health
 of the character, among other things. The character
@@ -120,16 +120,16 @@ exceed + or – 60.
 
 
   Jaqui is attempting to leap from one door to an-
-  other across a large chamber in zero gravity. She’s
-  in a hurry. If she misses the door, she’ll lose valu-
+  other across a large chamber in zero gravity. She's
+  in a hurry. If she misses the door, she'll lose valu-
                                                             EXAMPLE
 
 
 
 
   able time, so the gamemaster calls for a Freefall
-  Skill Test. Jaqui’s Freefall skill is 46. Unfortunately
-  the chamber is ﬁlled with ﬂoating debris that could
+  Skill Test. Jaqui's Freefall skill is 46. Unfortunately
+  the chamber is filled with floating debris that could
   get in her way. The gamemaster determines this is
-  a Moderate modiﬁer, reducing the target number
+  a Moderate modifier, reducing the target number
   by 20. Jaqui must roll a 26 or less to succeed.

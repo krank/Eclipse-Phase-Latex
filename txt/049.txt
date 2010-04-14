@@ -28,7 +28,7 @@
  rarily speed up thought are in great demand, since
  they allow individuals to do extensive research and
  rehearse each statement they are going to make with-
- out a moment’s pause. People who can afford such
+ out a moment's pause. People who can afford such
  software almost always seem more suave, charismatic,
  and intelligent than those who do not.
    All this means that those who lack all mesh and AR
@@ -48,8 +48,8 @@ that there is either no data at all on the subject or
 that the only data is purely speculative and should
 be regarded as dangerously unreliable. This can be
 especially troubling when the subject in question is
-a small creature that has just landed on the person’s
-shoulder and the individual wants to know if it’s
+a small creature that has just landed on the person's
+shoulder and the individual wants to know if it's
 harmless or deadly. Most people who are less than
 sixty years old have never been in an environment
 where they could not gain basic information about
@@ -62,19 +62,19 @@ MUSES
 Most individuals have a dedicated AI that serves as
 their media agent. Commonly known as a muse, this
 AI has been a lifelong companion for most people
-less than seventy years old. Muses learn their owners’
+less than seventy years old. Muses learn their owners'
 tastes, habits, and preferences, and do their best to
 make life and technology use as easy as possible.
 Muses can be alarm clocks, data retrieval gophers,
 appointment schedulers, accountants, and many other
-functions often limited only by their owners’ imagina-
+functions often limited only by their owners' imagina-
 tions. Some of their tasks do not even need to be as-
-signed them—muses are skilled at figuring out people’s
-needs and acting on them. For example, the muse’s
+signed them—muses are skilled at figuring out people's
+needs and acting on them. For example, the muse's
 scheduling function may tell it when its user needs to
 be up in the morning, and it will act as an alarm clock
 without any additional instructions from the user. If a
-muse is uncertain about its owner’s preferences, it asks,
+muse is uncertain about its owner's preferences, it asks,
 but after working with a user for a few decades muses
 rarely need to do this. Most people keep multiple
 back-ups of their muse, because the loss of a muse

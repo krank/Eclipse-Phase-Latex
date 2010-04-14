@@ -3,7 +3,7 @@ Locus is the largest cluster habitat ever formed. It
 is still growing, with over one million inhabitants
 in the habitat proper and another million in the
 nearby suburbs of scum barges and small asteroid
-stations. Locus is located in Cassandra’s Reach, one
+stations. Locus is located in Cassandra's Reach, one
 of the denser regions in the L5 Trojans. The habitat
 is positioned at the center of mass around which the
 two asteroids making up the binary object Patro-
@@ -17,9 +17,9 @@ along some spars is faster than others. A quarter of its
 total volume is cut out in a roughly conical shape all
 the way to the Amoeba, an immense, softly glowing
 sculpture at the center of the habitat. Some differences
-from smaller Trojan clusters are dictated by Locus’s
+from smaller Trojan clusters are dictated by Locus's
 size. The immense structural spars radiating from the
-habitat’s center are hollow, with arterial floatways and
+habitat's center are hollow, with arterial floatways and
 elevator-trams running inside of them. Lesser spars
 run between the arterial spars, providing more moor-
 ing points for modules. Adjacent to each arterial spar
@@ -36,7 +36,7 @@ teems with small craft and people on thrustpacks or
 voidscooters as they cross the habitat, play zero-g
 games, or visit the free-floating spimes and sculptures
 that dot the area. The Amoeba, which periodically
-changes color and shape based on its resident AI’s
+changes color and shape based on its resident AI's
 programming (often it looks like some sort of animal),
 
 
@@ -75,8 +75,8 @@ programming (often it looks like some sort of animal),
    unteers. Inhabitants interested in security monitor
    incoming ships and operate crowdsourcing systems
    that dispatch volunteers to perform WMD scans on
-   new arrivals. Ships that won’t submit to a scan are
-   asked to leave. If they don’t, anyone who’s designed
+   new arrivals. Ships that won't submit to a scan are
+   asked to leave. If they don't, anyone who's designed
    a cool new weapons system recently is welcome to
    take a shot.
       Locus is one focal point in a cold war between the
@@ -96,7 +96,7 @@ programming (often it looks like some sort of animal),
    took a dim view of any Planetary Consortium ex-
    pansion beyond the belt. The Titanians now main-
    tain a permanent base near Locus. Rumor has it they
-   agreed to a mutual defense pact with one of Locus’
+   agreed to a mutual defense pact with one of Locus'
    citizens, possibly the famous programmer-armsman
    Teilhard Liu.
 
@@ -107,14 +107,14 @@ as your destination, using   Listen: my neighbor three doors toward
 rrier Atsuko van Vogt as     the Amoeba from here is a physicist.
   ComEx corporate policy     She has a box that generates micro-
  inform you that the des-    singularities in her lab. If people along
-arrier you have selected     my spar found out I’d stolen a fork of
- ed and possibly unsafe.     someone, they’d pop my stack with a
+arrier you have selected     my spar found out I'd stolen a fork of
+ ed and possibly unsafe.     someone, they'd pop my stack with a
 no responsibility for the    grapefruit knife and throw it in there.
- our consciousness upon      That’s what we call, ‘accountability.’ See
+ our consciousness upon      That's what we call, ‘accountability.' See
 ssume any and all risks      if you get the same from ComEx.”
 his point, including theft       —Atsuko van Vogt
 etion. ComEx will include
  ecord of travel with this
- r ﬁle. Would you like to
+ r file. Would you like to
 
 gal disclaimer

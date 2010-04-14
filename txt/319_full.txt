@@ -12,7 +12,7 @@ them into a tiny amount of dust made mostly of metal          ly-occurring drug
 and silicon. [Moderate]                                       and fauna, endotoxins produced by biological organ-
    Traction Pads: This set of specialized fingerless          isms, enhancements of endogenic substances (designer
 gloves, shoes, and kneepads is designed to emulate the        drugs), and de novo developments designed for a
-pads on geckos’ feet. Characters can support them-            specific medical or recreational application. Chemical
+pads on geckos' feet. Characters can support them-            specific medical or recreational application. Chemical
 selves on a wall or ceiling by placing any two of these       drugs affect only biological morphs and pods.
 pads against any surface not made from a material                Biologicals: These include peptides, hormones, and
 specially designed to resist such devices. Characters         biologically-based substances like biotoxins, bacteria,
@@ -20,7 +20,7 @@ can climb any surface and move easily across walls            and viral organism
 and ceilings that can support their weight (+30 to            naturally-occurring endogenic biological substances.
 Climbing Tests). In addition to climbing, these devices       This category also includes infectious biological or-
 are also very popular in zero-g environments. Wearing         ganisms that can produce drug-like effects, like virii
-this item does not impair the user’s agility or manual        and bacteria. Biologicals affect biomorphs and pods
+this item does not impair the user's agility or manual        and bacteria. Biologicals affect biomorphs and pods
 dexterity. [Low]                                              but not synthetic morphs or infomorphs.
   White Noise Machine: This small and wearable                   Nanodrugs: These are temporary nanobot colonies
 device generates masking sounds that protect a con-           programmed to create a certain effect. While nano-
@@ -39,7 +39,7 @@ tainers, including ones made of metal. [Low]                  includes narcoalgo
 DRUGS, CHEMICALS, AND TOXINS
 In Eclipse Phase, the transhuman desire to enhance            APPLICATION METHODS
 the body and mind—especially with chemicals—                  There are number of vectors by which a substance
-merges right into humanity’s popular pastime of               may be applied to a morph.
+merges right into humanity's popular pastime of               may be applied to a morph.
 recreational substance abuse. Drugs of all kinds,                Dermal (D): This drug or toxin is absorbed via
 whether they be chemical, nano-based, or electronic,          the skin (or exterior hull with some nanotoxins) as
 are not only popular but widespread. While advances           either a gas, liquid, or solid (e.g., paste). Slap patches
@@ -54,5 +54,5 @@ tion of course                                                an intramuscular o
    Drug descriptions include benefits, side effects, no-      needles and piercing weapons.
 ticeable signs that a person is using the drug, addictive-       Oral (O): This is a liquid or solid that is absorbed
 ness, and effects from long-term use). Descriptions also      through the stomach or oral cavity (eating or drink-
-include the drug’s Duration and its Addiction Modifier        ing). Used with pills and liquids.
+include the drug's Duration and its Addiction Modifier        ing). Used with pills and liquids.
 (see Addiction and Substance Abuse).

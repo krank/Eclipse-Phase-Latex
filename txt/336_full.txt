@@ -18,7 +18,7 @@ atmospheres of external pressure. Characters wearing       pressurized environme
 hard suits can safely explore the upper atmosphere         gas bursts out of the body cavity to escape (+2d10
 of a gas giant. They are well armored against punc-        damage in such situations). Wasp knives may also
 tures and radiation and possess miniature plasma           be loaded with chemicals, drugs, or nanobots. The
-thrusters capable of delivering 0.01G for 10 hours. A      target must be damaged for the canister’s contents to
+thrusters capable of delivering 0.01G for 10 hours. A      target must be damaged for the canister's contents to
 built-in high quality maker produces sufficient food,      affect them. [Low]
 air, and water that a user can remain in a hard suit
 indefinitely. Explorers have used them continuously        CLUBS
@@ -37,7 +37,7 @@ WEAPONS
 A wide range of weapons are available in Eclipse           EXOTIC MELEE WEAPONS
 Phase, from the primitive to the technologically           Unusual weapons requires a specific Exotic Melee
 advanced.                                                  field skill to use.
-                                                              Monowire Garrote: This assassin’s weapon fea-
+                                                              Monowire Garrote: This assassin's weapon fea-
 MELEE WEAPONS                                              tures a dangerous monomolecular wire wrapped
 Melee weapons are those wielded by hand (or foot) in       around a contained spool with two handles. One
 melee combat. They are divided by the skill be which       handle grips the spool, while the other extends the

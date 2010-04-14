@@ -7,8 +7,8 @@ back if they have not checked in for X amount of time         ing with an immort
 (a calendar function automatically handled by your            back no matter how often you kill them.
 muse) and cannot be located.                                    Other dangers also exist. An entire habitat may be
    It is worth noting that some criminal syndicates           destroyed, taking you, your backups, and your insur-
-also offer backup insurance at a much reduced rate.           ance provider’s records with it. A resourceful enemy
-The likelihood that copies of your backup are being           might penetrate a provider’s security and delete your
+also offer backup insurance at a much reduced rate.           ance provider's records with it. A resourceful enemy
+The likelihood that copies of your backup are being           might penetrate a provider's security and delete your
 used for illicit purposes, however, is quite high. For        backups, or simply bribe the right people to make
 some people, however, what happens to a copy of               sure they get “accidentally” corrupted. Given these
 themselves is of no concern.                                  possibilities, the paranoid often make sure to get
@@ -18,7 +18,7 @@ Backup insurance is not always perfect. Though in-
 surance providers are required to make a reasonable           BACKUP COMPLICATIONS
 effort to retrieve your cortical stack, for many hyper-       In most cases, backing up/uploading is risk free unless
 corps this is a simple cost-benefit analysis that often       someone tampers with the equipment. If the character
-will not work in the character’s favor. If you died in a      suffered brain or neurological damage, the backup is
+will not work in the character's favor. If you died in a      suffered brain or neurological damage, the backup is
 dangerous area such as the Zone on Mars, in a remote          transferred via farcasting, or the upload is made from
 area such as the Kuiper Belt, or are simply difficult         a dead character, then the backup may be damaged
 to track down (pushed out an airlock somewhere),              due to missing neural information. In any of these
@@ -37,7 +37,7 @@ Likewise, if you struck a backup insurance deal with
 a medical collective from an autonomist habitat and           of giving a new body to an ego. Changing bodies
 then go and die on a hypercorp station, the hypercorp         is a normal part of life for hundreds of millions of
 is very likely to refuse to recognize the authority of a      transhumans, and it is an even more frequent occur-
-bunch of anarchists and won’t hand your stack over.           rence for people in certain professions. Characters
+bunch of anarchists and won't hand your stack over.           rence for people in certain professions. Characters
    Even an archived backup and a missing person               involved in specialized work may resleeve as often as
 clause is no guarantee. A determined enemy could              once a month. Those who travel frequently may do so
 capture you, pry the backup insurance access codes            even more often. Also, given the number of infugees

@@ -6,7 +6,7 @@ Initially born from the merger of several scientific
 institutions and their corporate financiers, this hy-
 percorp made a name for itself overnight when it
 announced the successful decoding of the wormhole
-gateway discovered on Saturn’s moon Pandora. Under
+gateway discovered on Saturn's moon Pandora. Under
 the leadership of the eccentric but charismatic xeno-
 archeologist Xander Rabin, the consortium funds
 gatecrasher explorations through the Pandora gate,
@@ -23,7 +23,7 @@ GO-NIN GROUP
 Major Industries: Banking, Agritech, Robotics, and
 Services
 Major Stations: Tsukomo (Luna)
-Considered a relic of Earth’s capitalist market
+Considered a relic of Earth's capitalist market
 economy, the Go-nin Group is a traditional Japanese
 keiretsu, a conglomerate of companies with interwo-
 ven relationships and shareholdings, horizontally-
@@ -32,8 +32,8 @@ vertically-integrated within a business sector as well),
 and centered around the long-lived Tamahashi en-
 terprise consultancy firm. Tamahashi evolved from
 an influential corporate lobby to a diversified bank
-holding major equity in the group’s partners; it now
-controls the group’s assets and directs the partnership’s
+holding major equity in the group's partners; it now
+controls the group's assets and directs the partnership's
 overall business strategy. Through its member corps,
 the Go-nin Group has a sizable presence throughout
 the entire system and—without dominating a specific
@@ -102,7 +102,7 @@ ments, and habitat defense systems. While prominent
 UNION BUSTING
                  To: OmniSec Alpha
                  From: OmniSec 837302
-                    Surveillance has conﬁrmed it. The bio-sleeved
+                    Surveillance has confirmed it. The bio-sleeved
                  workers at our secure Didenko facility are indeed
                  communicating with outside autonomist interests
                  and discussing militant free union organizing
@@ -113,9 +113,9 @@ UNION BUSTING
                  ommend the immediate insertion of a counterin-
                  surgency squad and implementation of standard
                  union-busting protocols, including but not limited
-                 to loyalty testing, chemical paciﬁcation, tactical
+                 to loyalty testing, chemical pacification, tactical
                  psychosurgery, selective excision of leadership
                  nodes, memetic counterstrikes, and replacing the
-                 workforce with modiﬁed backups. The entire op-
+                 workforce with modified backups. The entire op-
                  eration will take place using a purported mission
-                 to root out a Starware inﬁltration as cover.
+                 to root out a Starware infiltration as cover.

@@ -1,7 +1,7 @@
           Fire, 198                                        Gamma-ray sensors, 303
                rate of, 198                                Ganymede, 99-100
 -326      Firearms, 335-36                                 Gardeners, 329
-          Fireprooﬁng, 313                                 Gas/smoke munitions, 341
+          Fireproofing, 313                                 Gas/smoke munitions, 341
           Firewall, 84-85, 253, 331, 356-61                Gatecrashing, 378-79
                defeating, 255                              Gatekeeper Corporation, 72
                Project Ozma and, 380                       Gateway (Pandora), 104
@@ -12,7 +12,7 @@
           Fixers, 329                                           design, fashion, 297-98
           Flashlight, 333                                       fabricating, 296
           Flash suppressor, 342                                 mass, encumbrance, 297
-          Flats, 139, 174                                       modiﬁers, 296-97
+          Flats, 139, 174                                       modifiers, 296-97
           Flayer, 338                                           quality, 296
           Flex cutter, 334                                      sizes, 297
           Flexbots, 144                                    Gender, 45, 114
@@ -81,14 +81,14 @@
               action turns, 119-20, 127                        joint, 258
               alternate campaigns, 23                          memory, 261
               campaign setting, 22-23                          sequence, 255
-              character deﬁning, 120                           simulspaces, 263-64
+              character defining, 120                           simulspaces, 263-64
               critical success/failure, 116                    VPNs, 260
               defaulting, 116                              Hallucinations, 211, 365
               default setting, 22-23                       Hamilton cylinders, 281
               group of players, meeting place, 20-21       Hand laser, 308
               imagination, 22                              Haptics, 245-46
               margin of success/failure, 118               Hard suit, 334
-              modiﬁers, 115-16                             Hardened skeleton, 308
+              modifiers, 115-16                             Hardened skeleton, 308
               note taking, 21-22                           Hardening, 214-15
               roles, 22                                    Hardware skill, 179
               rules summary, 127                           Haunting virus, 366-67
@@ -96,7 +96,7 @@
               target numbers, 115                          Headhunters, 383
               teamwork, 117                                Healing, 208-9
               ten-sided dice, 22, 114                      Healing vats, 326
-              test difﬁculty, 115                          Health drugs, 319-20
+              test difficulty, 115                          Health drugs, 319-20
               test making, 115, 127                        Hearing, enhanced, 301
               test types, 117-19                           Heartbeat sensors, 293
               trying again, 117                            Heavy combat armor, 310
@@ -146,7 +146,7 @@ Identity, 124                               Jumping, 191
       circumventing checks, 280             Jupiter
       crisis, 149                                Amathea (Solano), 98
       reputation and, 289                        habitats, moonlets, 98
-      veriﬁcation, 279-80                        Io, 99
+      verification, 279-80                        Io, 99
 Iktomi, 377                                      resources, economy, 97
 Illiterate, 149                             Jupiter brain, 92
 Ilmarinen, 108
@@ -169,11 +169,11 @@ Impulse control disorder, 213               Knowledge skill, 172, 185
 Incompetent, 150
 Indecisiveness, minor, 211                  L
 Indenture, 277                              Language skill, 181
-Indirect ﬁre, 195, 205                      Large lander and orbit transfer vehicle
+Indirect fire, 195, 205                      Large lander and orbit transfer vehicle
 Individual factors, 373                     (LLOTV), 348
 Industrial armor, 310                       Laser
 Inequality, 38-39                                -guided, 338
-Inﬁltration skill, 180                           -microwave link, 314
+Infiltration skill, 180                           -microwave link, 314
 Infolife, 131                                    pulsers, 338
 Infomorph, 145                                   sight, 342
       AGI and, 264-65                       Law enforcement, 58, 59-60
@@ -205,4 +205,4 @@ Insanity rating (IR), 122, 138, 209         Lot 49, 102
 Insomnia, 213                               Lotus coating, 313
 Instinct, 224                               Low-capacity qubit reservoir, 315
 Integration                                 Low gravity, 199
-      modiﬁers, 27                          Luca, 110
+      modifiers, 27                          Luca, 110

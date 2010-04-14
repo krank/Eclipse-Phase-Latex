@@ -1,4 +1,4 @@
-commands in the target’s mind, similar to posthyp-           lest they construct some sort of defense. Basilisk hack
+commands in the target's mind, similar to posthyp-           lest they construct some sort of defense. Basilisk hack
 notic suggestions. Nicknamed “You gotta believe me”          sources may be self-erasing or contain coding or coun-
 attacks, YGBMs are a sort of remote digital brain-           termeasures that would hinder recording, such as white
 washing attempt used to create sleeper terrorists and        noise to defeat audio recording or lens-blinding flashes
@@ -10,7 +10,7 @@ backdoor the Exsurgents discovered in the transhu-           much like a terrori
 man brain, and altering the mind by brute force.             Firewall has a standard interest in evaluating and en-
   A character experiencing a YGBM basilisk hack              abling some sort of defense against basilisk hacks, most
 must make a COG + INT + SAV Test. If this fails, a           Firewall personnel consider it foolish to handle such
-single suggestion is implanted in the character’s mind,      toys and would rather destroy such recordings outright.
+single suggestion is implanted in the character's mind,      toys and would rather destroy such recordings outright.
 without their knowledge. This subliminal command
 will be triggered at some later point, either at some        EXSURGENT STRAINS
 predesignated time or according to certain pre-set           Four variants of the Exsurgent virus are described
@@ -19,9 +19,9 @@ out the action with all of the conviction that it is their   own to keep players
 own idea. The implanted suggestion may be something
 as simple as “kill the Firewall agent” to something as       HAUNTING VIRUS
 complex as “manufacture an explosive device and              This strain is the most insidious of the Exsurgent virii.
-plant it in the cargo hold of any ship heading to Mars,      Over time, it rewrites the target’s personality and
+plant it in the cargo hold of any ship heading to Mars,      Over time, it rewrites the target's personality and
 set to explode one day after they disembark.”                motivations, slowly but surely subverting and taking
-   Since YGBM attacks are not intended to completely         control of the victim’s mind. At first the character is
+   Since YGBM attacks are not intended to completely         control of the victim's mind. At first the character is
 convert the target, but instead to simply convert them       unlikely to even be aware of the infection, and as it
 into a temporary tool or weapon, implanted com-              progresses the changes the virus makes to the target
 mands are not designed to last long. The duration            will at first seem natural to the target, as if some new

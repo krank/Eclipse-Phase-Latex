@@ -18,7 +18,7 @@ nanobots do the work. It removes pain and discom-
 fort and speeds healing (see Biomorph Healing, p.
 208). For especially severe injuries, physical first aid
 such as setting bones and removing projectiles may
-be necessary (gamemaster’s choice). If the wounds are
+be necessary (gamemaster's choice). If the wounds are
 too severe (the patient has suffered more than five
 wounds), the unit places the patient in medical stasis
 and radios for emergency services. [Trivial]
@@ -29,7 +29,7 @@ the specifications and plans for almost all commonly
 used synthmorphs and devices and is a ubiquitous
 household item. If it does not contain the specifica-
 tions for something it is being used to repair, it must
-query the object’s voice for these details, otherwise it
+query the object's voice for these details, otherwise it
 cannot repair it. Simply touch it to the damaged area,
 push the button on top, and it sprays out a number of
 nanobots sufficient to make repairs. These nanobots
@@ -66,7 +66,7 @@ their descent. [Moderate]
    Spindle Climber: This device attaches to a spindle
 and transforms it into a highly effective climbing
 device. The spindle climber has two functions. First, it
-attaches hardened tips to the spindle’s cable and fires
+attaches hardened tips to the spindle's cable and fires
 it at high speed, up to 50 meters, with sufficient force
 to imbed the tip into almost any sufficiently durable
 surface. Second, the spindle climber can pull itself and
@@ -78,7 +78,7 @@ spindle fits inside a spindle climber. [Low]
 VACUUM SUITS
 Most vacuum suits are skin-tight garments that use
 the pressure of their advanced smartfabrics on the
-wearer’s body to resist vacuum. When the wearer is in
+wearer's body to resist vacuum. When the wearer is in
 a breathable atmosphere, the smartfabric also loosens
 the suits to serve as ordinary clothing or be easily
 put on or taken off. In all cases, the suits can become

@@ -9,9 +9,9 @@ the mesh and making it easier to keep in touch,             corporate habitats.
 transfer information, make updates, and so on. Most
 VPNs come as specialized software suites that run
 custom environmental software that integrates into          ISLANDS IN THE NET
-the user’s normal mesh interface and AR.                    In the time of Eclipse Phase, information can become
+the user's normal mesh interface and AR.                    In the time of Eclipse Phase, information can become
                                                             outdated quite fast, and the accessibility of new infor-
-SOCIAL NETWORKS                                             mation depends on your location. It’s easy to keep up-
+SOCIAL NETWORKS                                             mation depends on your location. It's easy to keep up-
 Social networks are the fabric of the mesh, weaving         to-date on your local habitat/city or planetary body,
 people together. They are the means by which most           but keeping current on events elsewhere is typically
 people keep in contact with their friends, colleagues,      reliant on the speed of light.
@@ -28,12 +28,12 @@ networks allow users to feature a public profile to         the signal may take 
 the entire mesh and a private profile that only those       terference and noise, deteriorating the quality and
 close to them can access.                                   possibly losing some of the content, especially over
   Reputation plays a vital part in social networks,         major distances. Whenever you start dealing with
-serving as a measure of each person’s social capital.       communication between habitats, you have to factor
-Each person’s reputation score is available for lookup,     in the light-speed lag, the amount of time it takes
+serving as a measure of each person's social capital.       communication between habitats, you have to factor
+Each person's reputation score is available for lookup,     in the light-speed lag, the amount of time it takes
 along with any commentary posted by people who              even the fastest transmission to reach you. This lag
 favored or disfavored them and rebuttals by the user.       works both ways, so trying to hold a conversation
 Many people automate their reputation interactions,         with someone just 5 light-seconds away means that
-instructing their muse to automatically ping some-          you’re waiting at least 10 seconds to get the reply
+instructing their muse to automatically ping some-          you're waiting at least 10 seconds to get the reply
 one with a good review after a positive action and          to whatever you just said. For this reason, AR and
 to likewise provide negative feedback to people with        VR communications are almost always conducted lo-
 whom the interaction went poorly.                           cally, while standard messaging is used for nonlocal
@@ -48,10 +48,10 @@ hypercorp executives, clerical workers, accountants,        communicator, though
 and researchers—as well as innovators like artists,         precious amount of quantum-entangled bits, which
 writers, engineers, and designers—work wherever             are in limited supply.
 they want to.                                                 Transmissions made between habitats almost
-  The most prominent example of this phenomenon             always occur via each station’s massive data relays,
+  The most prominent example of this phenomenon             always occur via each station's massive data relays,
 are the bankers of the Solaris hypercorp. Each em-          where they are then distributed into the local mesh.
 ployee acts as a mobile one-person banking office,          This bottleneck is often used by authoritarian habitats
-managing transactions via Solaris’s robust VPN.             to monitor data transmissions and even filter or censor
+managing transactions via Solaris's robust VPN.             to monitor data transmissions and even filter or censor
                                                             certain public non-encrypted content. Some messages
                                                             are also prioritized over others, potentially meaning
                                                             further delays.

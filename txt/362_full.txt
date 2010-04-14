@@ -1,12 +1,12 @@
 METHODS
 Unobtrusive—that is the standard operating pro-
-cedure for any sentinel. Firewall’s continued suc-          WHAT HELP CAN A
+cedure for any sentinel. Firewall's continued suc-          WHAT HELP CAN A
 cess relies on its secrecy. The larger the footprint
 it leaves during a given mission the easier it is for       SENTINEL EXPECT?
-other organizations to monitor Firewall’s efforts or         Exactly what help Firewall provides to a senti-
+other organizations to monitor Firewall's efforts or         Exactly what help Firewall provides to a senti-
 even attempt to infiltrate the group. As such, Fire-         nel during a mission is wholly dependent upon
 wall constantly works to expand its base of allies           the situation and the gamemaster. Generally
-(using assets from those ally organizations in place         speaking, Firewall’s unobtrusive approach also
+(using assets from those ally organizations in place         speaking, Firewall's unobtrusive approach also
 of its own as much as possible), place long-term             applies to activated sentinels, meaning that
 moles, conduct remote operations (hacking in place           sentinels are largely left to operate on their
 of on-site personnel), small group infiltrations (acti-      own accord. Beyond access to a cache of sup-
@@ -17,25 +17,25 @@ its real intentions and even its real identity. Often        handling a situatio
 such allies are gained through the use of well-placed        and wits, sentinels can, of course, rely heavily
 sentinels who act on behalf of their own non-                on their i-rep to gain the resources and favors
 Firewall positions to gain access to another orga-           they need to achieve success.
-nization’s resources. At the end of the day, however,           In some rare cases, the gamemaster may
+nization's resources. At the end of the day, however,           In some rare cases, the gamemaster may
 a slice of these resources are secretly set aside for        decide that a situation warrants more or less
-Firewall’s future use. For example, a department             equipment in a cache or help from social engi-
+Firewall's future use. For example, a department             equipment in a cache or help from social engi-
 head at Starware may have spent years sealing a              neers or vectors. Such intervention should be
 deal to ship crucial spacecraft parts to the isola-          kept to a minimum, however, to lesson the
-tionist Jovian Junta. The lucrative deal brings huge         players’ feelings of Deus Ex Machina, ensuring
+tionist Jovian Junta. The lucrative deal brings huge         players' feelings of Deus Ex Machina, ensuring
 prestige, a job promotion, and a salary increase, all        the appropriate response of awe when such
 accomplishments the department head strives for in           events do occur.
 his regular life. Yet this particular department head          The one thing for which Firewall can always
 is a long-standing sentinel, so such accomplish-             be relied on is backup insurance. Any Firewall
 ments bring allies to Firewall, whether they know            killed in the line of duty will be resleeved at
-it or not. Not only can the department head siphon           Firewall’s expense—though the morph used
+it or not. Not only can the department head siphon           Firewall's expense—though the morph used
 off a thin stream of revenue for Firewall use (hidden        and whether the sentinel was backed up from
-thoroughly by vectors), but he’s also in a position          their cortical stack or a backup (perhaps even
+thoroughly by vectors), but he's also in a position          their cortical stack or a backup (perhaps even
 to move sentinels, as needed, into the Jovian Junta          an old backup) depends entirely on the circum-
-habitats (or personnel out), a job usually extremely         stances of death and their router’s whim. Fire-
+habitats (or personnel out), a job usually extremely         stances of death and their router's whim. Fire-
 difficult to accomplish. The danger of such an act,          wall usually makes an extra effort to retrieve
 of course—and the consequences of losing such a              cortical stacks, however, not in the least as they
-critically placed sentinel—means such a use of re-           don’t want their agents’ backups falling into
+critically placed sentinel—means such a use of re-           don't want their agents' backups falling into
 sources is reserved for only the most dire threats.          the wrong hands.
    In additional to aid from ally organizations, Fire-          Similarly, if a Firewall mission involves ego-
 wall places caches of supplies on different habitats         casting or travel to another destination, Fire-
@@ -59,7 +59,7 @@ will authorize the cortical stack destruction of all
                                                            tors. In some instances, if the situation is dangerous
 sentinels involved, resleeving them to a backup that
                                                            enough and the scale of the consequences of failure
-has no knowledge of the cache’s existence.
+has no knowledge of the cache's existence.
                                                            large enough, a Promethean will be tapped to cal-
    As noted under erasure squads, Firewall will not
                                                            culate the threat level and decide when it is time to

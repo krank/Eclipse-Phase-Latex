@@ -11,11 +11,11 @@ STARTING OUT                            18    Union Busting
  What Do Players Do?                    22    Carnival of the G
  Where Does It Take Place?              24    Socio-Political M
  Ego vs. Morph                          24    Neo-Primitivists
- Where To Go From Here?                 24    Out’sters
+ Where To Go From Here?                 24    Out'sters
  Terminology                            25    Sybils
                                               Religious Group
 A TIME OF ECLIPSE                       30    Criminal Faction
-A PEOPLE’S HISTORY OF AN                      Firewall
+A PEOPLE'S HISTORY OF AN                      Firewall
   UNFORTUNATE UNIVERSE                  32    Project Ozma
  Eclipse Phase Timeline                 37   SYSTEM GAZETE
 THE SOLAR SYSTEM                              Sol (The Sun)
@@ -28,7 +28,7 @@ CULTURE AND SOCIETY                     41    Venus
  The Longing For Earth                  41    Earth
  Nostalgia Jewelry                      41    Venusian Rumor
  Fear and Paranoia                      42    Luna
- An Exsurgent Threat?                   42    TILION’s Jupiter
+ An Exsurgent Threat?                   42    TILION's Jupiter
  Real and Social Distance               43    Mars
  Singularity Seekers                    43    Martian Manhun
  The Rise of Cultural Regions           44    Martian Trojans
@@ -39,7 +39,7 @@ CULTURE AND SOCIETY                     41    Venus
 TECHNOLOGY                              45    The Trojans (Jov
  Living With Infotech                   46
                                                  and Greek As
- Opening Pandora’s Gate                 46
+ Opening Pandora's Gate                 46
                                               Saturn
  Going Beyond the Known                 47
                                               Gate Expedition

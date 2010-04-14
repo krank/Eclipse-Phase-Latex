@@ -24,7 +24,7 @@ the attack test is equal to your Moxie stat      tiative
                                                  determ
 INDIRECT FIRE                                    AI (in
 With the help of a spotter, you may target       may a
-an enemy that you can’t see using indirect       AI or
+an enemy that you can't see using indirect       AI or
 fire. In this case you must be meshed with       vehicl
 a character, bot, or sensor system that has         Ha
 the target in its sights and which feeds         specia
@@ -38,9 +38,9 @@ lar target designator system. An “attack”        vehicl
 must first be made to paint the target with      AIs an
 the laser sight using an appropriate skill.
 If this succeeds, it negates the –30 indirect    SHELL
-fire modifier for the seeker launcher’s          Like c
+fire modifier for the seeker launcher's          Like c
 attack test. the target must be held in          a wal
-the spotter’s sights (requiring a Complex        This i
+the spotter's sights (requiring a Complex        This i
 Action each Action Phase) until the seeker       engag
 strikes.                                         other
                                                     She
@@ -80,7 +80,7 @@ synthmorph characters, certain
 d, etc.) and stat modifiers (Ini-
 peed, etc.) are determined by
 l physical shell. Other stats are
- d by the bot/vehicle’s operating
+ d by the bot/vehicle's operating
 ce of an ego). Bots and vehicles
   have traits that apply to their
  sical shell. For sample bots and
@@ -106,7 +106,7 @@ hat are capable of greater speeds
    have a Maximum Velocity
 is is the highest rate at which the
  safely move, listed in kilometers
- At the gamemaster’s discretion,
+ At the gamemaster's discretion,
  lls may push their limits and
   further, but at significant risk—
 master should apply appropriate

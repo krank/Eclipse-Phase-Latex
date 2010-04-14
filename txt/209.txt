@@ -10,7 +10,7 @@ Psi damage is caused by offensive psi sleights like
 Psychic Stab (p. 228).
 
 DURABILITY AND HEALTH
-Your character’s physical health is measured by their
+Your character's physical health is measured by their
 Durability stat. For characters sleeved in biomorphs,
 this figure represents the point at which accumu-
 lated damage points overwhelm your character and
@@ -30,7 +30,7 @@ morph is broken and immobile until repaired.
 
 DEATH
 An extreme accumulation of damage points can
-threaten your character’s life. If the damage reaches
+threaten your character's life. If the damage reaches
 your Durability x 1.5 (for biomorphs) or Durability x
 2 (for synthetic morphs), your body dies. This known
 as your Death Rating. Synthetic morphs that reach
@@ -88,7 +88,7 @@ treated or heals.
 
 WOUND EFFECTS
 Each wound applies a cumulative –10 modifier to all
-of the character’s actions. A character with 3 wounds,
+of the character's actions. A character with 3 wounds,
 for example, suffers –30 to all actions.
   Some traits, morphs, implants, drugs, and psi allow
 a character to ignore wound modifiers. These effects
@@ -114,6 +114,6 @@ per minute) until they receive medical care or die.
 
 DEATH
 For many people in Eclipse Phase, death is not the end
-of the line. If the character’s cortical stack can be re-
+of the line. If the character's cortical stack can be re-
 trieved, they can be resurrected and downloaded into
 a new morph (see Resleeving, p. 271). This typically

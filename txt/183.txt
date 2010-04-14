@@ -13,7 +13,7 @@ vocal communication.
 tells, social cues, and other subconscious indicators. It
 can also be used to emote more effectively. Kinesics
 is used defensively whenever someone is trying to de-
-ceive you; make an Opposed Test against that person’s
+ceive you; make an Opposed Test against that person's
 Deception or Impersonation skill.
    Though synthetic morphs are also designed to
 emote, reading them is not as easy. Apply a –30 modi-
@@ -67,7 +67,7 @@ Specializations: Assault Rifles, Machine Guns, Pistols,
   followed. No single language dominated the
   realm of space expansion, and multilingual-
   ism was common. Many habitats and (sub)
-  cultural groupings cling to speciﬁc languages
+  cultural groupings cling to specific languages
   as a method of retaining cultural identity. De-
   spite the availability of instant translation via
   the mesh, many people remain versed in two or
@@ -92,7 +92,7 @@ LANGUAGE: [FIELD]
 Type: Field, Knowledge
 Linked Aptitude: INT
   What it is: Language covers the speaking and
-reading of languages other than the player’s native
+reading of languages other than the player's native
 tongue. A speaker is considered fluent at a skill level
 of 50; anything above this indicates further refine-
 ment in technical vocabulary, accents, and knowl-

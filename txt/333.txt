@@ -41,9 +41,9 @@ hottest VR game. [Low (single use/1 day) to Moderate
 (monthly subscription)]
    Space Travel: Space transport cost depends on a
 number of factors like distance, quality of lodgings,
-and how much cargo you’re bringing with. At the low
+and how much cargo you're bringing with. At the low
 end, an intra-habitat shuttle trip within the same clus-
-ter, or a trip to or from a planetary body’s surface and
+ter, or a trip to or from a planetary body's surface and
 orbit, is not cheap but affordable [High]. Just about
 anything else is progressively more costly. [Expensive]
 SOFTWARE
@@ -53,7 +53,7 @@ ter, p. 234.
 PROGRAMS
 These programs can be run on any computerized device.
    AR Illusions: These databases of AR clips can be used
-to create realistic illusions in someone’s entoptic display.
+to create realistic illusions in someone's entoptic display.
 See Augmented Reality Illusions, p. 259. [Moderate]
    Exploit: Exploits are hacker tools that take advan-
 tage of known vulnerabilities in other software. They
@@ -80,7 +80,7 @@ Tactical Networks, p. 205. [Moderate]
 their presence online. See Scanning, Tracking, and
 Monitoring, p. 251. [Moderate]
    XP: Experience playback recordings are clips of
-someone else’s experiences. Depending on the content,
+someone else's experiences. Depending on the content,
 some XP (porn, snuff, crime, etc.) may be restricted in
 certain jurisdictions. Some XP clips are intentionally
 modified so that their emotive tracks are more intense,

@@ -1,7 +1,7 @@
 fatigue. Finally, the ability to regulate pain reception   connections. Neurachem can be mentally activated or
 allows the character to ignore the –10 modifier from       triggered by charged emotions. Level 1 neurachem in-
-1 wound. [High]                                            creases the character’s Speed stat by +1, with no side
-   Enhanced Pheromones: The morph’s biochemistry           effect. Level 2 raises the Speed stat by +2, but each
+1 wound. [High]                                            creases the character's Speed stat by +1, with no side
+   Enhanced Pheromones: The morph's biochemistry           effect. Level 2 raises the Speed stat by +2, but each
 has been altered so that it produces enhanced phero-       time it is used the character suffers a nervous system
 monal signals that subconsciously affect the behavior      fatigue hangover for 1 hour after the boost wears off
 of other humans in the vicinity. These pheromones          (apply a –20 modifier to all actions). [High (Level 1),
@@ -11,50 +11,50 @@ skill tests, such as Persuasion. This augmentation only    morph has special gla
 affects characters who can smell the pheromones, and       like the venom glands of a snake. The morph has
 it does not affect uplifts or xenomorphs. [Low]            poison glands in its fingers and mouth, so that it can
    Enhanced Respiration: By boosting both lung ef-         deliver either poison by scratching someone with a
-ficiency and the blood’s oxygen-carrying capacity, the     fingernail, biting them hard enough to draw blood,
+ficiency and the blood's oxygen-carrying capacity, the     fingernail, biting them hard enough to draw blood,
 character can live comfortably in both high and low        or even by sharing a beverage with someone or spit-
 pressure environments, from 0.2 atmospheres to 5           ting into their drink. The morph is immune to the
 atmospheres, with no dizziness or need for gradual         poisons it produces. These glands may not produce
 decompression. In addition, the character can hold         nanotoxins. [Low]
-their breath for up to 30 minutes when performing             Prehensile Feet: The morph’s feet and leg joints are
+their breath for up to 30 minutes when performing             Prehensile Feet: The morph's feet and leg joints are
 minimal activity or for up to 10 minutes while per-        altered so that its toes are longer and more dexter-
 forming highly strenuous activity. [Low]                   ous and the big toe is transformed into an opposable
-   Gills: The morph’s lung tissue has been adapted to      thumb. Physically, the morph’s feet resemble a longer
+   Gills: The morph's lung tissue has been adapted to      thumb. Physically, the morph's feet resemble a longer
 function as gills, allowing the morph to breathe both      narrower hand or a human foot with finger (and
 air and water, as long as the water is not toxic or too    thumb)-like toes. The character can walk normally
 stagnant. Characters with this augmentation breathe        but must wear specially designed shoes. However, this
 in water and then expel the water through slits just       morph runs somewhat slower than a morph with un-
 underneath their lowest pair of ribs that seal when the    modified feet (–1 meter per Action Turn). In addition,
-character is not underwater. [Low]                         the morph’s hips are slightly modified to allow greater
+character is not underwater. [Low]                         the morph's hips are slightly modified to allow greater
    Grip Pads: The morph possesses specialized pads         mobility. In a properly constructed chair, or when
 on its palms, lower arms, shins, and the bottoms of        floating in zero-G, the character can use both their
 its feet. Designed to emulate the pads on gecko feet,      hands and their feet to manipulate the same object.
 characters can support themselves on a wall or ceiling     Most morphs used by characters who live in zero-G
 by placing any two of these pads against any surface       possess this augmentation. [Low]
 not made from a material specially designed to resist         Prehensile Tail: A long (1.5 meters) prehensile tail
-this augmentation. Characters can climb any surface        is added to the morph’s backside, extending out from
+this augmentation. Characters can climb any surface        is added to the morph's backside, extending out from
 and move easily across ceilings that can support their     the tailbone. This tail is prehensile and may be used to
 weight. Apply a +30 modifier to Climbing Tests. The        grab, hold, and even manipulate objects. The character
-pads must be free to touch the surface the character is    can control the tail’s movements with concentration,
+pads must be free to touch the surface the character is    can control the tail's movements with concentration,
 climbing (no gloves). The nature of these pads is obvi-    but it otherwise tends to move on its own. The tail
-ous to anyone looking at them, but they do not impair      also improves the character’s balance; apply a +10 to
-the character’s sense of touch or manual dexterity. If     any Physical skill tests where balance is a factor. [Low]
+ous to anyone looking at them, but they do not impair      also improves the character's balance; apply a +10 to
+the character's sense of touch or manual dexterity. If     any Physical skill tests where balance is a factor. [Low]
 combined with the vacuum sealing augmentation, the            Sex Switch: A complex suite of alterations allows
 character can even stick to surfaces in the vacuum of      the character to switch their physical sex to male,
 space. [Low]                                               female, hermaphrodite, or neuter. This change is
    Hibernation: The character can voluntarily reduce       mentally triggered but takes approximately 1 week to
-the morph’s metabolism to the point that the morph         complete. [Moderate]
+the morph's metabolism to the point that the morph         complete. [Moderate]
 requires only 5% of the normal amount of food,                Skin Pocket: The morph has a pocket within its skin
 water, and air. The character appears to sink into a       layer, capable of holding and providing concealment
 deep sleep, but can maintain a dim awareness of both       (+30) for small items. [Trivial]
-touch and sound and so can be easily awakened. En-            Temperature Tolerance: The morph’s temperature
+touch and sound and so can be easily awakened. En-            Temperature Tolerance: The morph's temperature
 tering or leaving this state requires 3 minutes where      regulation and circulation are both substantially en-
 the character is relatively helpless. With sufficient      hanced allowing the character to survive in tempera-
 air, characters can safely hibernate for up to 40 days     tures as low as –30 degrees Celsius and as high as 60
 without food or water. [Low]                               degrees Celsius without discomfort or ill effects. [Low]
-   Muscle Augmentation: The morph’s muscle mass               Toxin Filters: The morph gains an improved liver
+   Muscle Augmentation: The morph's muscle mass               Toxin Filters: The morph gains an improved liver
 has been enhanced and toned and myofibers strength-        and kidneys and biological filters in its lungs. Charac-
 ened. Apply a +5 modifier to SOM. [High]                   ters with this augmentation are immune to all chemi-
    Neurachem: This bioware modification enhances           cal and biological toxins, including everything from
-the character’s chemical synapses and juices their         recreational chemicals to nerve agents to spoiled food.
+the character's chemical synapses and juices their         recreational chemicals to nerve agents to spoiled food.
 neurotransmitters, drastically speeding up neural          In addition, the character can safely and comfortably

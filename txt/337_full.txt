@@ -5,7 +5,7 @@
  early 21st century, however, and now fall into two                  Note that older, pre-Fall firearms still exist and are
  categories: chemical firearms and railguns. Though               traded by black marketeers, though they use outdated
  their mechanisms for firing are different, they are              system such as liquid propellants or cased ammuni-
- roughly similar in effect. Railguns have a higher                tion. At the gamemaster’s discretion, these relics may
+ roughly similar in effect. Railguns have a higher                tion. At the gamemaster's discretion, these relics may
  penetration and inflict more damage, which is offset             suffer shorter ranges, less penetration, fewer firing
  by more limited ammunition choices. While modern                 modes, or reduced damage.
  beam weapons have their uses, they rarely match the                 Pistols: Pistols are small-sized (p. 297) and de-
@@ -17,7 +17,7 @@
  produced even without nanofabrication. By default,                  Submachine Guns: SMGs use pistol ammuni-
  modern kinetic weapons are ambidextrous but more                 tion, but are medium-sized (p. 297) and may fire in
  importantly feature safety and smartlink systems (p.             semi-auto, burst fire, or full auto modes. They typi-
- 342) that automatically connect to the wielder’s mesh            cally are designed in a bullpup configuration for
+ 342) that automatically connect to the wielder's mesh            cally are designed in a bullpup configuration for
  inserts for firing assistance, target recognition, and           close quarters operations and are ideal for tactical
  tactical networking.                                             and strike teams. [Moderate]
    The wielder of a firearm or railgun uses Kinetic                  Automatic Rifles: Automatic rifles use rifle ammu-
@@ -35,7 +35,7 @@ BLADES                      ARMOR PENETRATION (AP)                 DAMAGE VALUE 
 Diamond Ax                              –3                         2d10 + 3 + (SOM ÷ 10)               14 + (SOM ÷ 10)
 Flex Cutter                             –1                         1d10 + 3 + (SOM ÷ 10)               8 + (SOM ÷ 10)
 Knife                                   –1                         1d10 + 2 + (SOM ÷ 10)               7 + (SOM ÷ 10)
-Monoﬁlament Sword                       –4                         2d10 + 2 + (SOM ÷ 10)               13 + (SOM ÷ 10)
+Monofilament Sword                       –4                         2d10 + 2 + (SOM ÷ 10)               13 + (SOM ÷ 10)
 Vibroblade                              –2                          2d10 + (SOM ÷ 10)                  11 + (SOM ÷ 10)
 Wasp Knife                              –1                         1d10 + 2 + (SOM ÷ 10)               7 + (SOM ÷ 10)
 

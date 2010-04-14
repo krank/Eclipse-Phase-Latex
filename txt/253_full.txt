@@ -25,10 +25,10 @@ away behind VPN firewalls, in off-mesh hardwired                be monitored as 
 networks, or in private and commercial archives. This           an active wireless connection to the mesh.
 would require the character to gain access to such
 networks in order to get the data they need (assuming           TRACKING BY MESH ID
-they even know where to look).                                  An unknown user’s physical location can also be
-   It’s worth noting that some entities send out AIs            tracked via their online mesh activity—or more spe-
+they even know where to look).                                  An unknown user's physical location can also be
+   It's worth noting that some entities send out AIs            tracked via their online mesh activity—or more spe-
 into the mesh with the intent of finding and erasing            cifically, by their mesh ID (p. 246). Network security
-data they’d rather hide, even if this requires hacking          will often trace intruders this way and then dispatch
+data they'd rather hide, even if this requires hacking          will often trace intruders this way and then dispatch
 into systems to alter such information.                         security squads to bring them in. To track an unknown
                                                                 user by their mesh ID alone requires a Research Test.
                                                                 If successful, they have been tracked to their current
@@ -49,11 +49,11 @@ WIRELESS SCANNING                                               given to cameras
 To interface with a wireless device or network, whether         narrow the search, but this risks missing the target if
 to establish a connection or for other purposes, the            they avoid heavy traffic areas. The success of searches
 target device/network must be located first. To locate          of this nature is best left to gamemaster fiat, but a
-an active node, it’s wireless radio transmissions must be       Research Test can also be called for, modified ap-
+an active node, it's wireless radio transmissions must be       Research Test can also be called for, modified ap-
 detected. Most wireless devices automatically scan for          propriately by the range of the area being watched,
 other devices in range (see Radio and Sensor Ranges, p.         whenever there is a chance the target may be spotted.
 299) as a matter of course, so no test is required. This          Other biometric signatures may also be used for
-means that it’s trivial for any character to pull up a          tracking this way, though these are usually less avail-
+means that it's trivial for any character to pull up a          tracking this way, though these are usually less avail-
 list of the wireless devices and networks around them,          able than cameras: thermal signatures (requires infra-
 along with associated mesh IDs. Likewise, a muse or             red cameras), walking gait, scent (requires olfactory
 device can be instructed to alert the user when a new           sensors), DNA (requires DNA scanners), etc. Each

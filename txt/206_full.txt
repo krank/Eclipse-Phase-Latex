@@ -1,5 +1,5 @@
 REACH                                                          A biomorph that succeeds the DUR Test is still
-Some weapons extend a character’s reach, giving             shocked but not incapacitated. They suffer half the
+Some weapons extend a character's reach, giving             shocked but not incapacitated. They suffer half the
 them a significant advantage over an opponent in            listed DV and suffer a –30 modifier until the end of
 melee combat. This applies to any weapon over half          the next Action Turn. This modifier reduces by 10 per
 a meter long: axes, clubs, swords, shock batons, etc.       Action Turn. Modifiers from additional shocks are
@@ -21,7 +21,7 @@ This is the direction from the target that the missed          A subdued opponen
 blast lands. The die roll also determines how far away      immobilized. They may communicate, use mental
 the blast lands, in meters. If the MoF on the attack is     skills, and take mesh actions, but they may not take
 over 30, this distance is doubled. If the MoF exceeds       any physical actions other than trying to break free.
-60, the distance is tripled. This point determines the      (At the gamemaster’s discretion, they may make small,
+60, the distance is tripled. This point determines the      (At the gamemaster's discretion, they may make small,
 epicenter of the blast; resolve the effects of damage       restrained physical actions, such as reaching for a
 against anyone caught within its sphere of effect as        knife in their pocket or grabbing an item dropped a
 normal (see Blast Effect, p. 193).                          few centimeters away on the floor, but these actions
@@ -39,7 +39,7 @@ normal (see Blast Effect, p. 193).                          few centimeters away
                                                             rather than targeting anyone specifically, with the
                                                             intent of making everyone in the suppressed area keep
 SHOCK ATTACKS                                               their heads down. This takes a Complex Action, uses
-Shock weapons use high-voltage electrical jolts to          up 20 shots, and lasts until the character’s next Action
+Shock weapons use high-voltage electrical jolts to          up 20 shots, and lasts until the character's next Action
 physically stun and incapacitate targets. Shock weap-       Phase. The suppressed area extends out in a cone, with
 ons are particularly effective against biomorphs and        the widest diameter of the cone being up to 20 meters
 pods, even when heavily armored. Synthmorphs, bots,         across. Any character who is not behind cover or who

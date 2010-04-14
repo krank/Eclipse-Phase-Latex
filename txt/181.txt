@@ -10,7 +10,7 @@ Linked Aptitude: REF
 microgravity environments.
   When you use it: Use whenever you need to maneu-
 ver in a zero-g situation, such as propelling yourself
-across a large open space or making sure you don’t
+across a large open space or making sure you don't
 accidentally send yourself spinning off into space.
 Free Fall is also used when moving with spacesuit
 maneuvering jets and when parachuting.
@@ -80,7 +80,7 @@ Damaged items may be repaired in a similar manner. See
 the rules for Synthmorph and Object Repair, p. 209.
 
 MODIFYING
-Altering an object’s design and function follows the
+Altering an object's design and function follows the
 same basic rules as build and repair, above. The time-
 frame is determined by the gamemaster as appropriate
 to the modification.

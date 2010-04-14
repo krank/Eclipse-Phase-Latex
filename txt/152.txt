@@ -41,7 +41,7 @@ This wound may be repaired as normal.
 
 LOW PAIN TOLERANCE (EGO OR MORPH TRAIT)
 Bonus: 20 CP
-   Pain is the character’s enemy. The character has
+   Pain is the character's enemy. The character has
 a very low threshold for pain tolerance and is more
 severely impaired when suffering. Increase the modi-
 fier for each wound take by an additional –10 (so
@@ -91,7 +91,7 @@ NEURAL DAMAGE
 Bonus: 10 CP
    The character has suffered some type of neurologi-
 cal damage that simply cannot be cured. The affliction
-is now part of the character’s ego and remains with
+is now part of the character's ego and remains with
 them even when remorphing. This damage may have
 been inherited, it may have resulted from a poorly de-
 signed morph or implant, or it may have been inflicted
@@ -100,18 +100,18 @@ systems during the Fall (p. 384). The gamemaster and
 player should agree on a specific disorder appropriate
 to their game. Some possibilities are:
 
- • Partial aphasia (difficulty communicating or
+ - Partial aphasia (difficulty communicating or
    using words)
- • Color blindness
- • Amusica (inability to make or understand music)
- • Synaesthesia
- • Logorrhoea (excessive use of words)
- • Loss of face recognition
- • Loss of depth perception (double range
+ - Color blindness
+ - Amusica (inability to make or understand music)
+ - Synaesthesia
+ - Logorrhoea (excessive use of words)
+ - Loss of face recognition
+ - Loss of depth perception (double range
    modifiers)
- • Repetitive behavior
- • Mood swings
- • The inability to shift attention quickly
+ - Repetitive behavior
+ - Mood swings
+ - The inability to shift attention quickly
 
   The gamemaster may decide to inflict modifiers
 resulting from this affliction as appropriate.

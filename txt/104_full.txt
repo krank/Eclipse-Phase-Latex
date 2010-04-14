@@ -4,7 +4,7 @@
  hood, toward the center of the L4 Greeks. Vonarburg-                    power generation is extremely inefficient. Growing
  Shadyside is named after two rocks that roughly                         photosynthetic plants with sunlight is impossible
  delimit its 500,000-kilometer length along the arc of                   without large arrays of mirrors to focus the light. The
- Jupiter’s orbit. Neighboring habitats within 100,000                    abundance of water and volatiles makes the rings
+ Jupiter's orbit. Neighboring habitats within 100,000                    abundance of water and volatiles makes the rings
  kilometers (with populations) include Craftsbury                        ideal for both scum barges and Hamilton cylinders.
  (450), Greenview (28), and Blackhawk (1020). With a                     Gas mining is vital to the survival of almost every
  population of 400, this station is more or less typical                 habitat and moon settlement in the Saturnian system,
@@ -17,13 +17,13 @@
  case a potential collision is detected. Inside, a central
  utility module with a communal reactor, factories,                      RESOURCES AND ECONOMICS
  and machine bay is surrounded by evenly spaced but                      Gas mining on Saturn supplies thirty percent of the
- irregularly shaped habitat modules in a riot of colors                  system’s reactor mass. This role is expected to grow
+ irregularly shaped habitat modules in a riot of colors                  system's reactor mass. This role is expected to grow
  and lighting schemes. Structural spars and floatways                    as Helium-3 deposits in the Lunar regolith become
  connect everything. One entire spar is given over to a                  less accessible. For ships traveling to the far reaches
  rotating cylindrical module that generates about 0.7 g                  of the outer system, Saturn is an important alterna-
  and contains medical, cloning, resleeving, and darknet                  tive to using Jupiter for gravity assists. Less restric-
  egocasting facilities.                                                  tive than Jovian regimes and richer in resources than
-    Lot 49’s population and most of their neighbors                      the Trojans, Circumsaturnine habs and settlements
+    Lot 49's population and most of their neighbors                      the Trojans, Circumsaturnine habs and settlements
  in Vonarburg-Shadyside tend to align with the scum                      are important innovators in habitat design and cul-
  and anarchist factions and speak a mixture of English,                  tural organization. Since the discovery of the Pandora
  Portuguese, and Thai. Lot 49 is in a densely inhabited                  Gates, the Titanian Commonwealth is the only entity
@@ -31,10 +31,10 @@
  economic activities include shuttle design, whaling,                    conventional means.
  and ferrying people and goods around the region.
                                                                          THE RINGS AND CLASSICAL MINOR MOONS
- SATURN                                                                  Saturn’s rings are made up of countless small icy ob-
+ SATURN                                                                  Saturn's rings are made up of countless small icy ob-
  The second largest planet in the system is a much                       jects, most of which range in size from dust specks to
  more favorable habitat for transhumans than Jupiter.                    boulders 10 meters in diameter. The rings are desig-
- Saturn’s lower gravity and milder magnetosphere are                     nated by the letters “A” through “F” in the order in
+ Saturn's lower gravity and milder magnetosphere are                     nated by the letters “A” through “F” in the order in
  a boon to gas mining operations, and for resource-                      which they were discovered. They vary in thickness
  hungry habs, the Rings are a feast (literally, in the case              between 100 and 1000 meters and in width from
  of the new Hamilton cylinder type habitats). Hyper-                     20,000 kilometers down to just meters. In places there
@@ -48,14 +48,14 @@ GATE EXPEDITION REPORT 901127
                 Gate Code Setting: [Encrypted]            communication was lost due to electro-      members of the team, however, nor did
                 Gatekeeper Corporation Eyes Only          magnetic interference. At this point they   it match any other database queries.
                    Preliminary drone and sensor reports   had reported nothing more notable than      The drone was detached from its tether
-                seemed to indicate the gate’s exo-        moving just over a kilometer through a      to search further, but shortly after sen-
+                seemed to indicate the gate's exo-        moving just over a kilometer through a      to search further, but shortly after sen-
                 planet environs were underground in       warren of tunnels.                          sors recorded some type of seismic
                 a cavern formed of carbonaceous rock         The team was not heard from again.       event, and communication with the
                 with a nitrogen dioxide atmosphere.          Two hours after contact was lost, a      drone was also lost.
                 There were no signs of life or sentient   tethered search and rescue drone was           The gate was kept active for 8 more
-                activity. A squad of gatecrashers was     deployed. Following the gatecrashers’       hours—the duration of the contract—
+                activity. A squad of gatecrashers was     deployed. Following the gatecrashers'       hours—the duration of the contract—
                 sent through, guided by an exploration    breadcrumb trail, near the limits of        with no sign of activity. The gate was
                 drone, with a communication link back     its tether range the drone came upon        then closed, the team reported as lost/
                 to the gate.                              what appeared to be a severed hand          unretrievable, and the gate settings
-                   Approximately one hour after the       in a vacsuit glove. DNA testing did not     were recorded with an orange ﬂag.
+                   Approximately one hour after the       in a vacsuit glove. DNA testing did not     were recorded with an orange flag.
                 team moved into the tunnels, consistent   identify the hand as belonging to any

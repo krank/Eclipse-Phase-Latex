@@ -1,7 +1,7 @@
 CLUBS                                                      skin pigments) and the altering of subtle physical
 Type: Active, Combat                                       characteristics (gait, posture, poise).
 Linked Aptitude: SOM                                         When you use it: Use Disguise to fool someone into
-  What it is: The Clubs skill covers the usage and         thinking you’re someone you’re not. This can be used
+  What it is: The Clubs skill covers the usage and         thinking you're someone you're not. This can be used
 maintenance of standard blunt melee weapons such           to hide your identity or to make yourself look like
 as batons or sticks (see p. 334).                          someone in particular. When used against someone
   When you use it: Players use their Clubs skill when-     who knows your true look or the appearance of the
@@ -36,7 +36,7 @@ Impersonate skill covers that area).                       Specializations: N/A
   When you use it: Use this skill whenever you want
 to deceive someone with words or gestures. A success-      FLIGHT
 ful skill test means that you have passed off your de-     Type: Active, Physical
-ception convincingly. At the gamemaster’s discretion,      Linked Aptitude: SOM
+ception convincingly. At the gamemaster's discretion,      Linked Aptitude: SOM
 someone who is actively alert for signs of deception          What it is: Flight is the skill of using your body to
 may make an Opposed Test using the Kinesics skill.         fly. This skill is used when sleeved in or jamming a
 Specializations: Acting, Bluffing, Fast Talk               winged or otherwise flight-capable morph (manual and

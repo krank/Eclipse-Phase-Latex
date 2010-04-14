@@ -29,12 +29,12 @@ riminal) ■        Implants: Basic Biomods, Basic
                     swarm, Fake Ego ID, Guard-         ties.
                     ian Bot, Muse, Nanobandage,        good
                     Nanodetector, Overload             and c
-                    Grenade, Servitor Bot, Shred-      you’r
+                    Grenade, Servitor Bot, Shred-      you'r
 ight) + Armor       der (100 shots),                   their
                     Vacsuit (Standard),                of yo
 aser Pulser ■       Tactical Network Software ■        work
 
-             “I may have that, but it’s very hard to acquire.
+             “I may have that, but it's very hard to acquire.
  LACK MARKETEER
          APTITUDES
               COG      COO    INT    REF     SAV       SOM     WIL
@@ -62,7 +62,7 @@ OX     TT      LUC      IR    WT     DUR     DR
                 Deception     SAV      60          5            65
                        Fray   REF      45                       45
               Freerunning     SOM      35                       35
-                Inﬁltration   COO      40                       40
+                Infiltration   COO      40                       40
                    Infosec    COG      40                       40
 nterests: Black Markets       COG      60                       60
  ests: Inner System Law       COG      50                       50
@@ -95,8 +95,8 @@ eone has to provide the        who needs or craves the restricted
 d services that the poor       and illegal on the other. You keep
 king masses need, and          a step ahead of the law, providing
 ore than willing to meet       what you see as an essential role
- s—and make some proﬁt         in society despite the ofﬁcial rules
-wn while you’re at it. You     and restrictions that enhance your
- middle man between the        proﬁt margins. ■
+ s—and make some profit         in society despite the official rules
+wn while you're at it. You     and restrictions that enhance your
+ middle man between the        profit margins. ■
 
 w much is it worth to you?”

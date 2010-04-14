@@ -23,8 +23,8 @@ ROLEPLAYING FACTORS                                          blades rapidly seal
  ing and provide ambiguous information.                      Onset Time: 1 Action Turn
     When describing spaceships and habitats, the             Duration: 10 minutes (5 with medichines)
  physiology of the Factors should be considered.             Effect: Severe coughing and respiratory distress, 1d10
-The Factors’ malleable form and ability to extend              damage per Action Turn for 5 Action Turns (or on-
- pseudopodial limbs enables them to ﬁt into most               going with continuous exposure), –20 to all actions
+The Factors' malleable form and ability to extend              damage per Action Turn for 5 Action Turns (or on-
+ pseudopodial limbs enables them to fit into most               going with continuous exposure), –20 to all actions
  places and operate transhuman devices (even                   for 2 hours. Medichines reduce damage by half and
  pilot a transhuman vehicle by “hand”). The same               modifier duration to 15 minutes.
  is not true in reverse, however—most Factor
@@ -39,7 +39,7 @@ The Factors’ malleable form and ability to extend              damage per Acti
   can adapt to new situations very quickly.                  FACTOR PHENOTYPES
                                                              A few examples of the different Factor phenotypes are
   ALIEN MINDSET                                              described below.
-  Factors don’t possess Lucidity stats and cannot be
+  Factors don't possess Lucidity stats and cannot be
   driven to madness like transhumans.                        AMBASSADORS
     Affecting Factors with psi is very difficult, as noted   The ambassador Factor phenotypes are the ones who
   on p. 222. As of yet, Factors have not exhibited any       most commonly handle direct interactions with tran-

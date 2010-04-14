@@ -1,5 +1,5 @@
 mesh, the target system must be online and the hacker        INTRUSION TESTS
-must know it’s mesh ID (p. 246) or otherwise be able         Hacking into a node is a time-consuming task. The
+must know it's mesh ID (p. 246) or otherwise be able         Hacking into a node is a time-consuming task. The
 to track it down (p. 251).                                   target system must be carefully analyzed and probed
                                                              for weaknesses, without alerting its defenses. Depend-
 CIRCUMVENTING AUTHENTICATION                                 ing on the type of security in place, more than one test
@@ -20,7 +20,7 @@ Using this method, the hacker attempts to disguise           timeframe of 10 min
 their signals as coming from the legitimate, authen-         such as the quality of the exploit software, the quality
 ticated user, rather than from themself. If successful,      of the Firewall, or the alertness of the target system. The
 the system is fooled by this masquerade, accepting the       gamemaster may also modify the timeframe, shortening
-hacker’s commands and activity as if they came from          it to reflect systems that are cookie-cutter common with
+hacker's commands and activity as if they came from          it to reflect systems that are cookie-cutter common with
 a legitimate user. Spoofing is more difficult to pull off,   known security flaws or raising it as fitting for a top-of-
 but is very effective when it works.                         the-line system with still-unreleased defenses.
    To spoof a legitimate user, the hacker must be using         By default, a hacker trying to break in this way is
@@ -34,8 +34,8 @@ rity account privileges, –30 if they have admin rights       actively monitore
 unless the hacker has the encryption key.                    monitor, the intruder gains the status of Covert (see In-
    Armed with this data, the hacker then uses it to          truder Status, p. 256). If the intruder scored an Excellent
 disguise their signals. This requires an Infosec Test,       Success, however, their status is Hidden (p. 256).
-modified by the quality of the system’s firewall and             Probing: Players may choose to take the time (p.
-the hacker’s spoofing program. If successful, com-           116) when probing the target for weakness and ex-
+modified by the quality of the system's firewall and             Probing: Players may choose to take the time (p.
+the hacker's spoofing program. If successful, com-           116) when probing the target for weakness and ex-
 munications sent by the hacker are treated as coming         ploits. In fact, this is a common procedure when a
 from the legitimate user.                                    hacker wants to ensure success.
 

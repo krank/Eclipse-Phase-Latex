@@ -8,7 +8,7 @@ The most important part of any spacecraft is its engine,
 and the most important features of any engine are
 the exhaust velocity, which determines how much
 fuel the rocket requires to reach a given speed, and
-the engine’s thrust, which determines how high the
+the engine's thrust, which determines how high the
 acceleration can be. Any rocket that has a thrust of
 less than approximately twice the gravity of a planet
 or moon cannot take off from that planet or moon.

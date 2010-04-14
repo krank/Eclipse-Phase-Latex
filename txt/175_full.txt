@@ -3,7 +3,7 @@ ized skills (Control, Psi Assault, and Sense) that reflect    In some cases, a c
 special training characters acquire to tap into their psi     ticular field skill that a test calls for, but they may be
 powers. Psi skills may not be defaulted on; the only          skilled in another related field. For example, a test to
 way to use a psi skill is to possess the trait along with     conduct an alien autopsy might call for an Academics:
-training in that skill. For more details, see Psi, p. 220.    Xenobiology roll, but a character who doesn’t have
+training in that skill. For more details, see Psi, p. 220.    Xenobiology roll, but a character who doesn't have
                                                               that skill may be allowed to default to Academics:
 SPECIALIZATIONS                                               Biology instead. The gamemaster decides if and when
 Any character may opt to specialize in a given skill          to allow this, perhaps applying a modifier to the test
@@ -24,9 +24,9 @@ a skill, they must succeed at a skill test (see Making        gamemaster allows 
 Tests, p. 115). The difficulty of the action is applied       modifier should be applied to the test.
 as a modifier, as are any other extenuating circum-
 stances that may affect the test (see Difficulty and            Srit is wandering through a black market souk on
-Modifiers, p. 115). As with other types of tests, all skill     Mars, trying to ﬁnd a particular piece of sensory
+Modifiers, p. 115). As with other types of tests, all skill     Mars, trying to find a particular piece of sensory
 tests are successful when the character rolls less than         equipment. The gamemaster calls for a Scrounging
-or equal to the test’s target number after any modi-
+or equal to the test's target number after any modi-
 
 
 
@@ -34,13 +34,13 @@ or equal to the test’s target number after any modi-
                                                                                                                           EXAMPLE
                                                                 Test, but Srit does not have that skill. She could
 fiers have been applied. In the case of skill tests, the        default her INT of 22, but instead she asks the
-target number is the character’s skill rating with that         gamemaster if she can default to the related skill
+target number is the character's skill rating with that         gamemaster if she can default to the related skill
 particular skill. Modifiers representing difficulty and         of Perception, which she has at 82. The gamemas-
 other factors are applied directly to the target number         ter agrees, and so Srit rolls against a target number
 (see Difficulty and Modifiers, p. 115). A roll of a 00 is       of 52 (82 – 30).
 always a success, regardless of modifiers, and a result
 of 99 is always a failure, again despite any modifiers
-that may increase a character’s target number over            COMPLEMENTARY SKILLS
+that may increase a character's target number over            COMPLEMENTARY SKILLS
 100. Standard critical success and failure rules apply        Sometimes more than one skill may apply to a particu-
 to skill tests (see Criticals: Rolling Doubles, p. 116),      lar test, or knowledge in one area can aid your skill
 so any time a character rolls a double (i.e. 00, 11, 22,      in another. In this case, the gamemaster may apply a
@@ -49,7 +49,7 @@ so any time a character rolls a double (i.e. 00, 11, 22,      in another. In thi
 DEFAULTING                                                    Skill Bonus table.
 Sometimes you lack the skill needed in a certain situ-
 ation. In these instances, characters may default their         Dav is hoping to persuade a brinker pilot to take him
-skill test to the linked aptitude. This reflects the fact       to an isolated habitat that doesn’t welcome visitors.
+skill test to the linked aptitude. This reflects the fact       to an isolated habitat that doesn't welcome visitors.
 that most learned skills are developed from some sort           To impress upon the pilot that he is a friend of these
                                                                                                                           EXAMPLE
 
@@ -57,9 +57,9 @@ that most learned skills are developed from some sort           To impress upon 
 
 
 of baseline physical ability. Even though you may not           particular isolates, he calls on his knowledge of their
-know how to do something, you’ve likely seen how                particular cultural practices (Interests: Religious
-it’s done at some point or have some idea of how to             Cults skill at 45). The gamemaster allows this and
-do it, or can at least take a shot at it. Naturally, you’re     applies a +20 modiﬁer to Dav’s Persuasion Test.
+know how to do something, you've likely seen how                particular cultural practices (Interests: Religious
+it's done at some point or have some idea of how to             Cults skill at 45). The gamemaster allows this and
+do it, or can at least take a shot at it. Naturally, you're     applies a +20 modifier to Dav's Persuasion Test.
 not as good as someone who has training in that skill,
 but it still allows you to make an attempt.
    Not all skills can be defaulted. Some skills are
@@ -67,6 +67,6 @@ simply too complex or obscure, or demand special              COMPLEMENTARY SKIL
 knowledge or ability, for someone to attempt their                   SKILL RATING                          MODIFIER
 use untrained. For example, brain surgery or most psi
                                                                           01–30                               +10
-skills are simply beyond anyone who doesn’t have that
-ability or the knowledge of what they’re attempting.                      31–60                               +20
+skills are simply beyond anyone who doesn't have that
+ability or the knowledge of what they're attempting.                      31–60                               +20
                                                                            61+                                +30

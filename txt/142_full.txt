@@ -4,7 +4,7 @@ Aptitude Maximum: 30                                       upgrades feature gene
 Durability: 35                                             strength, and reflexes, as well as behavioral modifica-
 Wound Threshold: 7                                         tions for aggressiveness and cunning. To offset tenden-
 Advantages: +10 COG, +5 INT, +5 WIL, +5 to one             cies for unruliness and macho behavior patterns, furies
-  aptitude of the player’s choice                          feature gene sequences promoting pack mentalities and
+  aptitude of the player's choice                          feature gene sequences promoting pack mentalities and
 CP Cost: 40                                                cooperation, and they tend to be biologically female.
 Credit Cost: Expensive                                     Implants: Basic Biomods, Basic Mesh Inserts, Bio-
                                                               weave Armor (Light), Cortical Stack, Enhanced
@@ -14,13 +14,13 @@ athletic capabilities like endurance, eye-hand coor-       Speed Modifier: +1 (n
 dination, and cardio-vascular functions. Olympians         Durability: 50
 are common among athletes, dancers, freerunners,           Wound Threshold: 10
 and soldiers.                                              Advantages: +5 COO, +5 REF, +10 SOM, +5 WIL, +5
-Implants: Basic Biomods, Basic Mesh Inserts,                  to one aptitude of the player’s choice
+Implants: Basic Biomods, Basic Mesh Inserts,                  to one aptitude of the player's choice
   Cortical Stack                                           CP Cost: 75
 Aptitude Maximum: 30                                       Credit Cost: Expensive (minimum 40,000)
 Durability: 40
 Wound Threshold: 8                                         FUTURAS
 Advantages: +5 COO, +5 REF, +10 SOM, +5 to one             An exalt variant, futura morphs were specially crafted
-  other aptitude of the player’s choice                    for the “Lost generation.” Tailor-made for acceler-
+  other aptitude of the player's choice                    for the “Lost generation.” Tailor-made for acceler-
 CP Cost: 40                                                ated growth and adjusted for confidence, self-reliance,
 Credit Cost: Expensive                                     and adaptability, futuras were intended to help tran-
                                                            shumanity regain its foothold. These programs proved
@@ -33,13 +33,13 @@ common, with slim and lithe bodies. Their metabo-          Aptitude Maximum: 30
 lism has also been sanitized to eliminate unpleasant       Durability: 35
 bodily odors and their pheromones adjusted for             Wound Threshold: 7
 universal appeal.                                          Advantages: +5 COG, +5 SAV, +10 WIL, +5 to one
-Implants: Basic Biomods, Basic Mesh Inserts, Clean           other aptitude of the player’s choice
+Implants: Basic Biomods, Basic Mesh Inserts, Clean           other aptitude of the player's choice
    Metabolism, Cortical Stack, Enhanced Pheromones         CP Cost: 40
 Aptitude Maximum: 30                                       Credit Cost: Expensive (exceptionally rare; 50,000+)
 Durability: 35
 Wound Threshold: 7                                         GHOSTS
 Advantages: Striking Looks (Level 1) trait, +5 COO,        Ghosts are partially designed for combat applications,
-   +10 SAV, +5 to one other aptitude of the player’s       but their primary focus is stealth and infiltration.
+   +10 SAV, +5 to one other aptitude of the player's       but their primary focus is stealth and infiltration.
    choice                                                  Their genetic profile encourages speed, agility, and
 CP Cost: 40                                                reflexes, and their minds are modified for patience and
 Credit Cost: Expensive                                     problem-solving.
@@ -50,11 +50,11 @@ and microgravity environments. Their legs are more         Aptitude Maximum: 30
 limber, and their feet can grasp as well as their hands.   Durability: 45
 Implants: Basic Biomods, Basic Mesh Inserts, Cortical      Wound Threshold: 9
    Stack, Grip Pads, Oxygen Reserve, Prehensile Feet       Advantages: +10 COO, +5 REF, +5 SOM, +5 WIL, +5
-Aptitude Maximum: 30                                          to one aptitude of the player’s choice
+Aptitude Maximum: 30                                          to one aptitude of the player's choice
 Durability: 35                                             CP Cost: 70
 Wound Threshold: 7                                         Credit Cost: Expensive (minimum 40,000)
 Advantages: Limber (Level 1) trait, +5 COO, +5 SOM,
-  +5 to one aptitude of the player’s choice                HIBERNOIDS
+  +5 to one aptitude of the player's choice                HIBERNOIDS
 CP Cost: 40                                                Hibernoids are transgenic-modified humans with
 Credit Cost: Expensive                                     heavily-altered sleep patterns and metabolic processes.
                                                            Hibernoids have a decreased need for sleep, requiring

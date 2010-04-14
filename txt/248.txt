@@ -59,7 +59,7 @@ access (or access to parts of their system) to anyone
   to design their own personalized applications,
   based on their playbook of closely-guarded in-
   trusion/counterintrusion methods.
-     To reﬂect the efforts a hacker character makes
+     To reflect the efforts a hacker character makes
   by designing, coding, and modifying their own
   customized personal arsenals, they may make a
   Task Action Programming Test with timeframe
@@ -67,12 +67,12 @@ access (or access to parts of their system) to anyone
   of their software tools by one level of quality
   (i.e., from +0 to +10). Multiple Programming
   Tests can be made to enhance a program, but for
-  each level add the target modiﬁer as a negative
-  modiﬁer to the test (so upgrading a +0 suite to
-  +10 is a –10 modiﬁer on the Programming Test).
-     Similarly, at the gamemaster’s discretion, soft-
+  each level add the target modifier as a negative
+  modifier to the test (so upgrading a +0 suite to
+  +10 is a –10 modifier on the Programming Test).
+     Similarly, at the gamemaster's discretion, soft-
   ware tools—particularly exploits—may degrade
-  in quality over time, reﬂecting that they have
+  in quality over time, reflecting that they have
   become outdated. As a general rule, such pro-
   grams should degrade in quality about once
   every 3 months.                                 ■

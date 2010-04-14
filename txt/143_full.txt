@@ -10,8 +10,8 @@ Implants: Basic Biomods, Basic Mesh Inserts, Circa-           Implants: Basic Bi
 Aptitude Maximum: 25                                          Aptitude Maximum: 25
 Durability: 35                                                Durability: 35
 Wound Threshold: 7                                            Wound Threshold: 7
-Advantages: +5 INT, +5 to one aptitude of the player’s        Advantages: +5 SOM, +5 to one aptitude of the
-   choice                                                       player’s choice
+Advantages: +5 INT, +5 to one aptitude of the player's        Advantages: +5 SOM, +5 to one aptitude of the
+   choice                                                       player's choice
 CP Cost: 25                                                   CP Cost: 25
 Credit Cost: Expensive                                        Credit Cost: Expensive
 
@@ -28,7 +28,7 @@ Aptitude Maximum: 20 (SOM), 30 (all else)                     can bend and fold 
 Durability: 30                                                for basic tool manipulation. Their toes are also more
 Wound Threshold: 6                                            articulated and now accompanied with an opposable
 Advantages: +5 COO, +5 INT, +5 REF, +5 to one                 thumb. Neo-avians have adapted well to microgravity
-   aptitude of the player’s choice; neotenics count as a      environments, and are favored for their small size and
+   aptitude of the player's choice; neotenics count as a      environments, and are favored for their small size and
    small target (–10 modifier to hit in combat)               reduced resource use.
 Disadvantages: Social Stigma (Neotenic) trait                 Implants: Basic Biomods, Basic Mesh Inserts,
 CP Cost: 25                                                      Cortical Stack
@@ -37,7 +37,7 @@ Credit Cost: Expensive                                        Aptitude Maximum: 
 REMADE                                                        Wound Threshold: 4
 The remade are completely redesigned humans:                  Advantages: Beak/Claw Attack (1d10 DV, use Un-
 humans 2.0. Their cardiovascular systems are stronger,           armed Combat skill), Flight, +5 INT, +10 REF, +5
-the digestive tract has been sanitized and restructured          to one other aptitude of the player’s choice
+the digestive tract has been sanitized and restructured          to one other aptitude of the player's choice
 to eliminate flaws, and they have otherwise been opti-        CP Cost: 25
 mized for good health, smarts, and longevity with nu-         Credit Cost: Expensive
 merous transgenic mods. The remade are popular with
@@ -51,9 +51,9 @@ Implants: Basic Biomods, Basic Mesh Inserts, Circa-           Implants: Basic Bi
   ture Tolerance, Toxin Filters                               Durability: 30
 Aptitude Maximum: 40                                          Wound Threshold: 6
 Durability: 40                                                Advantages: +5 COO, +5 INT, +5 SOM, +5 to one other
-Wound Threshold: 8                                              aptitude of the player’s choice, +10 Climbing skill
+Wound Threshold: 8                                              aptitude of the player's choice, +10 Climbing skill
 Advantages: +10 COG, +5 SAV, +10 SOM, +5 to two               CP Cost: 25
-  other aptitudes of the player’s choice                      Credit Cost: Expensive
+  other aptitudes of the player's choice                      Credit Cost: Expensive
 Disadvantages: Uncanny Valley trait
 CP Cost: 60                                                   OCTOMORPHS
 Credit Cost: Expensive (minimum 40,000+)                      These uplifted octopi sleeves have proven quite useful

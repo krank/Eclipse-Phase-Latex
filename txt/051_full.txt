@@ -6,7 +6,7 @@
     Some people, however, are willing, for a fee, to act                  a sufficiently large fire, an explosion, loss of air pres-
  as a living “taxi” for a visiting infomorph, carrying                    sure, or some other equally dramatic and potentially
  it around with them. In these cases the “ghostriding”                    dangerous event. Both the events of the Fall and the
- infomorph is not permitted to control their host’s                       fact that almost all of humanity now lives in habitats
+ infomorph is not permitted to control their host's                       fact that almost all of humanity now lives in habitats
  morph directly and is simply a passenger along for                       surrounded by hostile environments mean that such
  the ride, issuing directions and communicating with                      sensors are standard fare. A few habitats do not allow
  their transporters electronically.                                       emergency sensors in private dwellings, but most
@@ -23,23 +23,23 @@
  than a moderate expense, which makes it less expen-                         In vivid contrast, the freedom to avoid unwanted
  sive than the costs of buying or replacing high-end                      intrusion is carefully prized by the inhabitants of the
  custom modified morphs.                                                  post-Fall era. Unwanted personal or data intrusion
-                                                                          into someone’s private dwelling or personal electronic
+                                                                          into someone's private dwelling or personal electronic
  PRIVACY                                                                  files is a crime in most habitats and a serious crime in
  Privacy is a prized possession for most inhabitants of                   many. Also, while both the mesh and augmented real-
  the solar system, but it is so rare that for many people                 ity are filled with all manner of AI-mediated adware,
  it might as well be a foreign concept. In the 20th and                   most of it has evolved to be relatively benign and to
  early 21st century, privacy consisted of two concepts                    provide non-intrusive suggestions about goods, infor-
  that are now completely separate—the ability to remain                   mation, and services that are likely to be of legitimate
- unnoticed or anonymous and the ability to avoid un-                      interest to the targeted person. An individual’s muse
+ unnoticed or anonymous and the ability to avoid un-                      interest to the targeted person. An individual's muse
  wanted intrusion. The first is largely absent from the                   filters out unwanted advertising. While it is certainly
  lives of most people in the present day. Anyone who                      possible to create advertising that can hack through
- uploads anything to a non-private portion of the mesh                    any muse’s filters, doing so is usually illegal.
+ uploads anything to a non-private portion of the mesh                    any muse's filters, doing so is usually illegal.
  understands that anyone who wishes to do so can gain                        Unwanted AR intrusions are similarly limited.
  access to it. Likewise, anyone who spends time in a                      During the early days of AR technology, there were
  public place understands that anyone can learn where                     serious problems with users being overwhelmed with
  they went, what they did, and what they said due to the                  unrequested and distracting input—as many said, the
  ubiquity of meshed, sensor-enabled devices. As a result,                 mist got very thick indeed, so both law and custom
- everyone’s public life, both on the mesh and in person,                  changed to prevent such invasions. Today, most people
+ everyone's public life, both on the mesh and in person,                  changed to prevent such invasions. Today, most people
  can be transformed into an easily searchable database.                   expect to only experience data that they are looking for
  Almost everyone keeps such a record of their own lives,                  or that they might be interested in, and that any data
  commonly known as a lifelog. Most people allow their                     they are not interested in will quickly vanish. Being
@@ -59,5 +59,5 @@ SOLARCHIVE SEARCH: INCAPACITATING INPUTS
                                                                                                        edly subverted transhuman minds by
                 of these were deceptive AR illusions       emotional responses. Still others blasted   exploiting the way brains processed
                 made to convince people that their         their targets with overbearing sensory      such data—no credible reports have
-                physical environment was very different    input, so strong that it bypassed ﬁlters    been veriﬁed.
-                from what it actually was. This fooled     and inﬂicted neurological damage.
+                physical environment was very different    input, so strong that it bypassed filters    been verified.
+                from what it actually was. This fooled     and inflicted neurological damage.

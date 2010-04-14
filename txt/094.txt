@@ -32,17 +32,17 @@
 
 
 
-TILION’S JUPITER BRAIN
+TILION'S JUPITER BRAIN
                  [Incoming Message. Source: Anonymous]
                  [Public Key Decryption Complete]
-                 Our investigation into codename: TILION’s
+                 Our investigation into codename: TILION's
                  Lunar research activities has confirmed our
                  suspicions. The hypercorp is engaged in experi-
-                 ments to convert conﬁned spherical masses in
+                 ments to convert confined spherical masses in
                  the Lunar interior into testbed micro-Jupiter
                  brains. The silicate-rich Lunar crust makes the
                  locations they have chosen ideal for the project.
-                 Though we have not veriﬁed it, we believe that
+                 Though we have not verified it, we believe that
                  TILION not only followed the trail of TITAN re-
                  search into this area, but is in fact in possession
                  of a small cache of TITAN-made computronium.
@@ -52,12 +52,12 @@ TILION’S JUPITER BRAIN
                  ect and brings the micro-Jupiter brain online.
                  Fortunately, time seems to be on our side, and
                  we have several weeks if not months before
-                 any signiﬁcant part of the project is activated.
-                 We will continue to inﬁltrate and learn more,
+                 any significant part of the project is activated.
+                 We will continue to infiltrate and learn more,
                  but we strongly suggest an erasure squad be
                  moved into position and placed on standby.
 HELIUM-3 MINING
-Although it’s not the richest place to mine He-3, Luna
+Although it's not the richest place to mine He-3, Luna
 has such good infrastructure for extraction and dis-
 tribution that it more than makes up for the fact that
 Luna is very poor in hydrogen for more conventional
@@ -65,7 +65,7 @@ forms of fusion. Unlike the vast reserves of the gas
 giants, however, the amount of readily extractable
 He-3 in the Lunar regolith is finite. Some of the richer
 deposits are already tapped out, and concerned Lunars
-consider their world’s future after these deposits are
+consider their world's future after these deposits are
 exhausted a major issue.
 
 FINANCE
@@ -113,6 +113,6 @@ great mirrored vents.
 NECTAR (NECTARIS)
 Nectar (population 9 million) lies about 100 kilo-
 meters due east of Theophilus crater on the Mare
-Nectaris (Sea of Nectar) in Luna’s southern hemi-
+Nectaris (Sea of Nectar) in Luna's southern hemi-
 sphere. Nectar is a design powerhouse, home to the
 great Lunar design houses that set fashion and design

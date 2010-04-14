@@ -25,9 +25,9 @@ right into your brain—a mesh insert, sometimes called
 
              Infolife and Infomorphs
                Both disembodied transhumans and
-     artiﬁcial intelligences roam the mesh. ■ p. 244
+     artificial intelligences roam the mesh. ■ p. 244
 
-                    Muses: A speciﬁc type of AI that functions as a
+                    Muses: A specific type of AI that functions as a
                      personal aide and companion. ■ pp. 244, 264
 
     AGIs: Self-aware digital consciousnesses, capable of intelligen
@@ -37,7 +37,7 @@ nfomorphs: Details and rules for digital egos. ■ pp. 244, 264–265
 sed to access
 e mesh. ■ p. 239
 
-gmented Reality (AR): Information overlaid on the user’s physical
+gmented Reality (AR): Information overlaid on the user's physical
 enses—sight, sound, odors, tastes, and tactile sensations. ■ p. 239
 
  Reality (VR): Physical senses are overridden and your character is
@@ -57,4 +57,4 @@ on, too. ■ p. 243
                       standard mesh use start here. ■ p. 245
 
                 Online Research: Your character will use the
-            Research skill to ﬁnd info in the mesh. ■ p. 249
+            Research skill to find info in the mesh. ■ p. 249

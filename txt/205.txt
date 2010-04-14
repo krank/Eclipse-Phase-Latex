@@ -25,7 +25,7 @@ Desk                                    5         50
  likely to suffer a blind fire modifier of at least –30
  unless the attack has some way of viewing the target.
  On top of this, the target receives an armor bonus
- equal to the object/structure’s Armor rating x 2.
+ equal to the object/structure's Armor rating x 2.
 
  RANGE
 Every type of ranged weapon has a limited range,
@@ -84,8 +84,8 @@ WEAPON (TYPE)                     RANGE          RANGE (–10) RANGE (
  Medium Pistol                     0–10              11–30         31–5
  Heavy Pistol                      0–10              11–35         36–6
  SMG                               0–30              31–80        81–12
- Assault Riﬂe                      0–150          151–250         251–5
- Sniper Riﬂe                       0–180          181–400        401–1,1
+ Assault Rifle                      0–150          151–250         251–5
+ Sniper Rifle                       0–180          181–400        401–1,1
  Machine Gun                       0–100          101–400        401–1,0
 ailguns
  as Firearms but increase the effective range in each category by +50
@@ -94,7 +94,7 @@ eam Weapons
  Laser Pulser                      0–30              31–100       101–1
  Microwave Agonizer                 0–5              6–15          16–3
  Particle Beam Bolter              0–30              31–100       101–1
- Plasma Riﬂe                       0–20              21–50        51–10
+ Plasma Rifle                       0–20              21–50        51–10
  Stunner                           0–10              11–25         26–4
 eekers
  Seeker Micromissile               5–70              71–180       181–6

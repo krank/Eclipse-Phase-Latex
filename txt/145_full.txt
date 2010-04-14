@@ -11,7 +11,7 @@ Durability: 40                                               the Fall. Though ma
 Wound Threshold: 8                                           exist, they are uniformly regarded as shoddy and
 Advantages: 10 legs, Carapace Armor (11/11), Claw            inferior. Most case morphs are vaguely anthromor-
    Attack (DV 2d10), +10 SOM, +5 to two other apti-          phic, with a thin framework body, standing just
-   tudes of the player’s choice                              shorter than an average human, and suffer from
+   tudes of the player's choice                              shorter than an average human, and suffer from
 CP Cost: 60                                                  frequent malfunctions.
 Credit Cost: Expensive (minimum 30,000+)                     Enhancements: Access Jacks, Basic Mesh Inserts, Cor-
                                                                 tical Stack, Cyberbrain, Mnemonic Augmentation
@@ -30,11 +30,11 @@ commonly used for menial labor, heavy labor, habitat         Synths are anthromo
 construction, and security services.                         and gynoids). They are typically used for menial
   All synthmorphs have the following advantages:             labor jobs where pods are not as good of an option.
                                                              Cheaper than many other morphs, they are com-
-  • Lack of Biological Functions. Synthmorphs need           monly used for people who need a morph quickly
+  - Lack of Biological Functions. Synthmorphs need           monly used for people who need a morph quickly
     not be bothered with trivialities like breathing,        and cheaply or simply on a transient basis. Though
     eating, defecating, aging, sleeping, or any similar      they look humanoid, synths are easily recognizable
     minor but crucial aspects of biological life.            as non-biological unless they have the synthetic mask
-  • Pain Filter. Synthmorphs can filter out their            option (p. 311).
+  - Pain Filter. Synthmorphs can filter out their            option (p. 311).
     pain receptors, so that they are unhampered by           Enhancements: Access Jacks, Basic Mesh Inserts, Cor-
     wounds or physical damage. This allows them                tical Stack, Cyberbrain, Mnemonic Augmentation
     to ignore the –10 modifier from 1 wound (see             Mobility System: Walker (4/20)
@@ -42,18 +42,18 @@ construction, and security services.                         and gynoids). They 
     any tactile-based Perception Tests and will not          Durability: 40
     even notice they have been damaged unless they           Wound Threshold: 8
     succeed in a (modified) Perception Test.                 Advantages: +5 SOM, +5 to one other aptitude of the
-  • Immunity to Shock Weapons. Synthmorphs have                player’s choice, Armor 6/6
+  - Immunity to Shock Weapons. Synthmorphs have                player's choice, Armor 6/6
     no nervous system to disrupt, and their optical          Disadvantages: Social Stigma (Clanking Masses) trait,
     electronics are carefully shielded from interfer-          Uncanny Valley trait
     ence. Shock attacks may temporarily disrupt their        CP Cost: 30
     wireless radio communications, however, for the          Credit Cost: High
     duration of the attack.
-  • Environmental Durability. Synthmorphs are                ARACHNOIDS
+  - Environmental Durability. Synthmorphs are                ARACHNOIDS
     built to withstand a wide range of environments,         Arachnoid robotic shells are 1-meter in length, seg-
     from dusty Mars to the oceans of Europa to the           mented into two parts, with a smaller head, like a
     vacuum of space. They are unaffected by any but          spider or termite. They feature four pairs of 1.5-meter-
     the most extreme temperatures and atmospheric            long retractable arms/legs, capable of rotating around
     pressures. Treat as Temperature Tolerance (p.            the axis of the body, with built-in hydraulics for
     305) and Vacuum Sealing (p. 305).                        propelling the bot with small leaps. The manipula-
-  • Toughness. Synthetic shells are made to last—a           tor claws on each arm/leg can be switched out with
+  - Toughness. Synthetic shells are made to last—a           tor claws on each arm/leg can be switched out with
     fact reflected in their higher Durability and built-     extendable mini-wheels for high-speed skating

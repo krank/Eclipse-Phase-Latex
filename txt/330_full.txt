@@ -34,7 +34,7 @@ ered adequate or occasionally good. [Low to Moderate]      animal swarms. These 
    Blueprints: If you want a nanofabricator to make        work as a whole, communicating with nanoradios,
 something, you need to instruct the device how to          nanolasers, or chemical cues, and sharing informa-
 create it from the molecular level up. Such blueprints     tion between each bot in the swarm. Note that nano-
-are available for almost every conceivable item out        swarms don’t invade inside living bodies (though they
+are available for almost every conceivable item out        swarms don't invade inside living bodies (though they
 there. The cost of such blueprints typically equals        may attack externally)—internal nano is handled by
 the cost of purchasing the item, though factors like       nanoware (p. 308), nanodrugs (p. 321), and nanotox-
 legality and quality may affect the cost as usual (see     ins (p. 324).

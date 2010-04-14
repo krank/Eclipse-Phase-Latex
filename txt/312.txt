@@ -3,17 +3,17 @@ physical alterations. [Low]
    Nanotats: Tattoos created with nanobots can
 move around the body, change shape/color/bright-
 ness, texture, alternate text and images, and/or even
-create minor holographic effects on the skin’s sur-
+create minor holographic effects on the skin's sur-
 face, all controllable via mesh inserts. [Low]
    Piercings: Name any part of the body and some-
-one’s figured out a way to pierce it, probably mul-
+one's figured out a way to pierce it, probably mul-
 tiple times. Hoops, barbells, plugs, and chains are
 extremely common, often made of shapechanging
 smart materials. [Trivial]
    Scarification: Given modern medical abilities, scars
 of any sort are purely an affectation. [Trivial]
-   Scent Alteration: Minor changes to a body’s bio-
-chemistry can alter a character’s natural smell or
+   Scent Alteration: Minor changes to a body's bio-
+chemistry can alter a character's natural smell or
 constantly perfume them. [Low]
    Skindyes: Dye jobs are available in all conceivable
 colors and patterns. [Trivial]
@@ -26,23 +26,23 @@ The following modifications are only available to
 synthmorphs/robots.
 
 ARMOR
-These armor modifications replace the synthmorph’s
+These armor modifications replace the synthmorph's
 built-in Armor rating.
-   Heavy Combat Armor: The synthmorph’s frame is
+   Heavy Combat Armor: The synthmorph's frame is
 loaded with armor that offers protection from heavy
 weapons for serious combat operations. This modi-
 fication is bulky and noticeable; the bot frame is en-
-cased in a heavy-duty carapace. It increases the bot’s
-built-in Armor to 16/16. The shell’s mobility systems
+cased in a heavy-duty carapace. It increases the bot's
+built-in Armor to 16/16. The shell's mobility systems
 and power output are also enhanced to deal with the
 extra load. [High]
    Industrial Armor: The shell is equipped with protec-
 tion against collisions, extreme weather, industrial ac-
-cidents, and similar wear-and-tear. Increase the bot’s
+cidents, and similar wear-and-tear. Increase the bot's
 built-in Armor rating to 10/10. [Moderate]
-   Light Combat Armor: The synthmorph’s frame is
+   Light Combat Armor: The synthmorph's frame is
 protected by armor designed for policing and secu-
-rity duties. This increases the bot’s built-in Armor to
+rity duties. This increases the bot's built-in Armor to
 14/12. [Moderate]
 
 MOBILITY SYSTEMS
@@ -50,7 +50,7 @@ Shells are designed with a wide-range of propulsion
 systems, and are sometimes built for a specific environ-
 ment/gravity. Some synthmorphs may have multiple
 mobility systems. Many such systems are retractable,
-meaning they can be folded away into the shell’s frame.
+meaning they can be folded away into the shell's frame.
   Hopper: Hoppers have two or more legs designed
 to propel the morph forward or up, much like a frog
 or grasshopper. [Moderate]
@@ -115,6 +115,6 @@ of four independently-controlled wings allows the
 shell to hover or move rapidly in any direction. [Low]
 
 PHYSICAL MODIFICATIONS
-These mods are applied to the shell’s physical frame.
+These mods are applied to the shell's physical frame.
   Extra Limbs: The shell is equipped with one or
 more extra limbs. A character using these limbs

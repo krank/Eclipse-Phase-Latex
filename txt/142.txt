@@ -4,7 +4,7 @@ Aptitude Maximum: 30
 Durability: 35
 Wound Threshold: 7
 Advantages: +10 COG, +5 INT, +5 WIL, +5 to one
-  aptitude of the player’s choice
+  aptitude of the player's choice
 CP Cost: 40
 Credit Cost: Expensive
 
@@ -20,7 +20,7 @@ Aptitude Maximum: 30
 Durability: 40
 Wound Threshold: 8
 Advantages: +5 COO, +5 REF, +10 SOM, +5 to one
-  other aptitude of the player’s choice
+  other aptitude of the player's choice
 CP Cost: 40
 Credit Cost: Expensive
 
@@ -39,7 +39,7 @@ Aptitude Maximum: 30
 Durability: 35
 Wound Threshold: 7
 Advantages: Striking Looks (Level 1) trait, +5 COO,
-   +10 SAV, +5 to one other aptitude of the player’s
+   +10 SAV, +5 to one other aptitude of the player's
    choice
 CP Cost: 40
 Credit Cost: Expensive
@@ -54,7 +54,7 @@ Aptitude Maximum: 30
 Durability: 35
 Wound Threshold: 7
 Advantages: Limber (Level 1) trait, +5 COO, +5 SOM,
-  +5 to one aptitude of the player’s choice
+  +5 to one aptitude of the player's choice
 CP Cost: 40
 Credit Cost: Expensive
 FURIES
@@ -73,7 +73,7 @@ Speed Modifier: +1 (neurachem)
 Durability: 50
 Wound Threshold: 10
 Advantages: +5 COO, +5 REF, +10 SOM, +5 WIL, +5
-   to one aptitude of the player’s choice
+   to one aptitude of the player's choice
 CP Cost: 75
 Credit Cost: Expensive (minimum 40,000)
 
@@ -92,7 +92,7 @@ Aptitude Maximum: 30
 Durability: 35
 Wound Threshold: 7
 Advantages: +5 COG, +5 SAV, +10 WIL, +5 to one
-  other aptitude of the player’s choice
+  other aptitude of the player's choice
 CP Cost: 40
 Credit Cost: Expensive (exceptionally rare; 50,000+)
 
@@ -109,7 +109,7 @@ Aptitude Maximum: 30
 Durability: 45
 Wound Threshold: 9
 Advantages: +10 COO, +5 REF, +5 SOM, +5 WIL, +5
-   to one aptitude of the player’s choice
+   to one aptitude of the player's choice
 CP Cost: 70
 Credit Cost: Expensive (minimum 40,000)
 

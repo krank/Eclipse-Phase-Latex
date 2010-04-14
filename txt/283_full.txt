@@ -2,7 +2,7 @@
 like the Trojans and the ring systems of the gas giants (particularly
 Saturn). Clusters are rare in the Jovian system because shielding a
 cluster of individual modules rather than one large station from
-Jupiter’s intense magnetosphere is hideously inefficient.
+Jupiter's intense magnetosphere is hideously inefficient.
    Cluster colonies can have anywhere from 50 to 250,000 inhabitants.
 
 COLE BUBBLES
@@ -10,7 +10,7 @@ Cole bubbles (or “bubbleworlds”) are found mostly in the main
 asteroid belt, where the large nickel-iron asteroids used to construct
 them are abundant. Bubbleworlds are less common in the Trojans
 and Greeks, where crusty ice asteroids predominate. A Cole bubble
-is similar in many respects to an O’Neill cylinder, but there are no
+is similar in many respects to an O'Neill cylinder, but there are no
 longitudinal windows. Sunlight instead enters through axial mirror
 arrays. The bubbleworld is also constructed very differently, using a
 large solar array to heat a pocket of water inside of a metal asteroid
@@ -32,7 +32,7 @@ period. Hamilton cylinders are grown using a complex genomic
 algorithm that orchestrates nanoscale building machines. These
 nanobots build the habitat slowly over time, a process more like
 growing than construction.
-   Similar to O’Neill cylinders and Cole bubbles, a Hamilton cylin-
+   Similar to O'Neill cylinders and Cole bubbles, a Hamilton cylin-
 der is a cylindrical habitat rotating on its long axis to provide grav-
 ity. Two of the known Hamilton cylinders orbit Saturn in positions
 skimming the rings near the Cassini division. From this position,
@@ -41,15 +41,15 @@ they can graze on silicates and volatiles using harvester ships.
 to full size yet, but estimates say they could each house up to 3
 million people.
 
-O’NEILL CYLINDERS
-Found mostly in the orbits of Earth, Luna, Venus, and Mars, O’Neill
-cylinders were among transhumanity’s first large space habitat de-
-signs. O’Neill cylinders are no longer built, having been replaced
+O'NEILL CYLINDERS
+Found mostly in the orbits of Earth, Luna, Venus, and Mars, O'Neill
+cylinders were among transhumanity's first large space habitat de-
+signs. O'Neill cylinders are no longer built, having been replaced
 by more efficient designs, but are still home to tens of millions of
-transhumans. O’Neill cylinders were constructed from metals mined
+transhumans. O'Neill cylinders were constructed from metals mined
 on Luna or Mercury, Lunar volatiles (including Lunar polar ice),
 and asteroidal silicates.
-  A typical O’Neill habitat is thirty-five kilometers long, eight ki-
+  A typical O'Neill habitat is thirty-five kilometers long, eight ki-
 lometers in diameter, and rotates around its long axis at a speed
 sufficient for centrifugal force to create one Earth gravity on the
 inner wall of the cylinder. Smaller cylinders exist, though these

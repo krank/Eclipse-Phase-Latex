@@ -16,7 +16,7 @@ monitors its surroundings and has visual recogni-          will also seal the ho
 tion software that knows what its users and its keys       tool (p. 315) in the same time period. Additionally,
 look like (Perception skill 40). Picking a lockbot is      these barriers repair larger themselves at the rate of
 thus incredibly difficult, because it will shut its ori-   1d10 damage per 2 hours; once all damage is fixed
-fice and not accept a key that doesn’t look right or       any wounds are repaired at the rate of 1 per day.
+fice and not accept a key that doesn't look right or       any wounds are repaired at the rate of 1 per day.
 that comes from an unrecognized user. Unfamiliar           Damage of 3 wounds or more may not be repaired
 nanobots trying to enter the orifice are targeted and      by self-healing.
 destroyed by the guardian nanobots. Finally, exter-
@@ -26,7 +26,7 @@ portal surface or the lock itself. These appendages        common as a first lin
 have a range of 1 meter, attack with skill of 40, and      ers. Slippery walls are surface treated with the slip
 inflict 1d10 +2 DV.                                        chemical (p. 323), creating a virtually frictionless
    Lockbots are generally immune to being hacked           surface that is exceptionally difficult to climb.
-because, for security, they aren’t connected to
+because, for security, they aren't connected to
 the mesh. If attacked, however, lockbots are pro-          WIRELESS INHIBITORS
 grammed to send out an alarm signal via the mesh.          Wireless inhibitors are simple paint jobs or construc-
    There are several ways to defeat a lockbot. One         tion materials that block radio signals. They are
@@ -36,12 +36,12 @@ the lockbot or the portal it guards with so much           signals will escape o
 force that the lockbot is unable to repair it (usually     be intercepted. Wireless inhibitors allow the conve-
 using ranged weapons, as anything within a meter           nience of using wireless links within a secure area
 of a lockbot may be counterattacked). A third is to        rather than the clumsier hardwired connections. If
-somehow image the cavity beyond the lockbot’s ori-         an intruder manages to gain access inside the area,
+somehow image the cavity beyond the lockbot's ori-         an intruder manages to gain access inside the area,
 fice without the imaging device being destroyed and        however, they can intercept, sniff, and hack wireless
 to then forge the key. All of these are difficult and      devices as normal.
 time-consuming processes.
    Some lockbots have the ability to destroy what          DETECTION AND SURVEILLANCE
-they’re protecting. For example, lockbots are a            Should security measures fail to keep an intruder
+they're protecting. For example, lockbots are a            Should security measures fail to keep an intruder
 common protection for the physical interfaces to           out, the second step is to detect an interloper and
 hardwired networks. If the lockbot is compromised,         track their activity.
 it may, as a last resort, destroy the interface it was
@@ -50,7 +50,7 @@ protecting.                                                NANOTAGGING
 PORTAL DENIAL SYSTEM                                       people out of private spaces, but tracking them after
 Installed in corridors or doorways, this is essentially    they come and go. What little privacy transhumans
 a laser trap device. When an unauthorized person           have, they cherish. Trespassing is a worse offense
-enters the portal denial system’s area, it uses lasers     than theft in many places.
+enters the portal denial system's area, it uses lasers     than theft in many places.
 to create a grid of plasma channels that are used to         A room protected by a taggant nanoswarm (p. 329)
 deliver a powerful electric current to the target. This    usually has two or more hives, one each at floor and
 system has both lethal and nonlethal settings.             ceiling level (if in gravity; on the opposite side of the

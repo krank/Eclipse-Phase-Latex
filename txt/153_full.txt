@@ -1,6 +1,6 @@
 NO CORTICAL STACK (MORPH TRAIT)                          SEVERE ALLERGY (MORPH TRAIT)
 Bonus: 10 CP                                             Bonus: 10 (uncommon) or 20 (common) CP
-  The morph lacks the cortical stack that is common         The morph’s biochemistry suffers a severe allergic
+  The morph lacks the cortical stack that is common         The morph's biochemistry suffers a severe allergic
 to morphs of its type. This means the character cannot   reaction (anaphylaxis) when it comes into contact
 be resleeved from the cortical stack if the character    (touched, inhaled, or ingested) with a specific allergen.
 dies, they can only be resleeved from a standard         The allergen may be common (dust, dander, plant pollen,
@@ -21,16 +21,16 @@ Bonus: 10 CP                                             up. The character takes
 particular habitat/station or faction, who continue to
 actively search for the character. They either commit-   SOCIAL STIGMA (EGO OR MORPH TRAIT)
 ted a crime or somehow displeased someone in power.      Bonus: 10 CP
-The character deals with that faction in question at        An unfortunate aspect of the character’s back-
+The character deals with that faction in question at        An unfortunate aspect of the character's back-
 their own risk, and may occasionally be forced to deal   ground means that they suffer from a stigma in
 with bounty hunters.                                     certain social situations. They may be sleeved in
                                                          a morph viewed with repugnance, be a survivor of
 PSI VULNERABILITY (EGO OR MORPH TRAIT)                   the infamous Lost generation, or may be an AGI in
 Bonus: 10 CP                                             a post-Fall society plagued by fear of artificial intelli-
-  Something about the character’s mind makes             gence. In social situations where the character’s nature
+  Something about the character's mind makes             gence. In social situations where the character's nature
 them particularly vulnerable to psi attack. They         is known to someone who view that nature with dis-
 suffer a –10 modifier when resisting such attacks.       taste, fear, or repugnance, they suffer a –10 to –30
-The morph version of this trait may only be taken        modifier (gamemaster’s discretion) to social skill tests.
+The morph version of this trait may only be taken        modifier (gamemaster's discretion) to social skill tests.
 by biomorphs.
                                                          TIMID
 REAL WORLD NAIVETÉ                                       Bonus: 10 CP
@@ -44,14 +44,14 @@ ties, social cues, and other factors that people with    this morph is conspicuo
 standard human upbringings take for granted. This        is increasingly associated with being poor, backward,
 lack of common sense may lead the character to           or genetically defective, responses to a lack of good
 misunderstand how a device works or to misinterpret      looks range from distaste to horror. The character suf-
-someone’s body language.                                 fers a –10 modifier on social tests for Level 1, –20 for
+someone's body language.                                 fers a –10 modifier on social tests for Level 1, –20 for
    Once per game session, the gamemaster may in-         Level 2, and –30 for Level 3.
 tentionally mislead the character when giving them          Only biomorphs may take this trait. This modifier
 a description about some thing or some social in-        does not apply to interactions with xenomorphs or
-teraction. This falsehood represents the character’s     those with the infolife or uplift backgrounds. This
+teraction. This falsehood represents the character's     those with the infolife or uplift backgrounds. This
 misunderstanding of the situation, and should be         modifier may be purchased for uplift morphs, but at
 roleplayed appropriately, even if the player realizes    half the bonus, and it is only effective against char-
-the character’s mistake.                                 acters with that specific uplift background (i.e., neo-
+the character's mistake.                                 acters with that specific uplift background (i.e., neo-
    This trait should only be available to characters     avians, neo-hominids, etc.).
 with the infolife or reinstantiated backgrounds,
 though the gamemaster may allow it for characters        UNCANNY VALLEY (MORPH TRAIT)

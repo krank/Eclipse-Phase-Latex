@@ -1,17 +1,17 @@
 CHAT NOIR AND FISSURE GATE                                 on Titania cater to tourists from the inner system and
-Located on Oberon, this is the Uranian system’s pri-       the gas giants, who visit for rocketing, mekking, and
+Located on Oberon, this is the Uranian system's pri-       the gas giants, who visit for rocketing, mekking, and
 mary long haul spaceport, with a permanent popu-           other sports in the canyon.
 lation of 8,000. Chat Noir has fairly advanced ego-
 casting, resleeving, and manufacturing facilities for a    XIPHOS
 frontier outpost and is operated by several collectives    One of two major strongholds of the ultimates, Xiphos
 of anarchists. The reason for all the infrastructure       is a Hamilton cylinder orbiting in the Uranian ring
 is Fissure Gate, the only Pandora Gate in anarchist        system. Though most of the tech underlying Hamilton
-hands (despite several Planetary Consortium expedi-        cylinders is open source, the station’s frighteningly
+hands (despite several Planetary Consortium expedi-        cylinders is open source, the station's frighteningly
 tions to wrest control of it).                             efficient weapon systems are not. Rumor has it the
    Fissure Gate was discovered by a prospecting ex-        ultimates traded some major favors to Gorgon De-
 pedition from Chat Noir, then a tiny outpost. Seeking      fense Systems in the process of building this station.
-deposits of the useful carbonaceous ices that make up      Where Aspis, the ultimates’ inner system habitat,
-about 20% of Oberon’s mass, they instead chanced           is a relatively open place, used by the Ultimates for
+deposits of the useful carbonaceous ices that make up      Where Aspis, the ultimates' inner system habitat,
+about 20% of Oberon's mass, they instead chanced           is a relatively open place, used by the Ultimates for
 upon subsurface radio emissions near the foot of Mt.       contact with potential mercenary clients, Xiphos is
 Hippolyta. After using triangulating the source, the       off limits to anyone not of this faction. The rumored
 prospectors landed and used subsurface imaging gear.       population of ultimates here is only about 10,000, but
@@ -22,7 +22,7 @@ a shape too regular to be anything but a structure         the ultimates downloa
 or large artifact—all under 500 meters of ages-old         tive areas into deaf, visually limited flats with no AR
 frozen cryovolcanic outflow. The gate at Pandora was       implants and limited mental capacity.
 already publicly known at this time, so the prospec-
-tors drilled down, suspecting they’d found an alien        NEPTUNE
+tors drilled down, suspecting they'd found an alien        NEPTUNE
 artifact. They were not to be disappointed, although       Frigid, swept by 2,100 km/h winds, and tinged blue by
 the discovery yielded gruesome salvage: the barely         methane traces in its atmosphere, Neptune is the last
 recognizable corpses of eleven gatecrashers.               major planet in the system, orbiting at a distance of 30
@@ -33,10 +33,10 @@ a thin pocket of space between it and the surround-        heat, and chemical re
 ing ice. When the eleven emerged, buried in an             in the Neptunian system is virtually absent, as the long
 airless space beneath 500 meters of ice, there was         communication lags and extreme travel distances from
 barely room to move, let alone escape—but the gate         the rest of the solar system mean that few Neptunian
-wouldn’t let them back through. Several of the crew        ventures garner profits. Similarly, the Titanian brand
+wouldn't let them back through. Several of the crew        ventures garner profits. Similarly, the Titanian brand
 had recoverable cortical stacks. This lucky handful are    of technosocialism has never found roots here. The
 now prominent citizens of Chat Noir, but none plan         few transhumans who live out here are a resourceful
-to resume gatecrashing as a career.                        lot, and many colonists out here aren’t human at all.
+to resume gatecrashing as a career.                        lot, and many colonists out here aren't human at all.
    The Fissure Gate remains in anarchist hands,            Anarchists, brinkers, and desperados comprise most
 operated and defended by the Love and Rage Col-            of the population.
 lective. The gate is made available to almost anyone
@@ -48,7 +48,7 @@ this gate, however, must be shared for the collective      meters in diameter, p
 good of transhumanity.                                     actor systems. The habitat is attended by a cloud of
                                                            factories, harvesters, and defense satellites that occupy
 TITANIA AND OBERON                                         considerably more space than the station itself. Various
-Uranus’s two largest moons are sparsely populated,         rumors circulate that the inhabitants are researching
+Uranus's two largest moons are sparsely populated,         rumors circulate that the inhabitants are researching
 with only about 10,000 transhumans living on each          methods to improve infomorphs in the manner of seed
 body. Most stations are mixed dome and beehive set-        AIs, or that they are engaged in some vast forecasting
 tlements and range from hypercorp communications           simulation effort.
@@ -57,4 +57,4 @@ pair are more chemically complex than most moons in        ILMARINEN
 the outer system, consisting of about 30% rock, 20%        Aligned with the argonauts, Ilmarinen is a hybrid
 methane and similar carbonaceous ices, and 50%             beehive/cluster dug into and partially protruding
 water. Titania is home to a spectacular canyon that        from the large L4 asteroid Greymere. It is the largest
-rivals the Martian Valles Marineris. Several settlements   habitat in Neptune’s Trojans, with a population of
+rivals the Martian Valles Marineris. Several settlements   habitat in Neptune's Trojans, with a population of

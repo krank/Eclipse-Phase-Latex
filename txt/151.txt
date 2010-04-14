@@ -8,13 +8,13 @@ than 0 in one particular reputation network. People
 within that network will refuse to help the character
 out of fear of reprisals and ruining their own reputa-
 tion. The bonus for this trait is 20 CP if chosen for the
-rep network pertaining to the character’s own starting
+rep network pertaining to the character's own starting
 faction, and 5 CP if chosen for any other.
 
 BLACK MARK
 Bonus: 10 (Level 1), 20 (Level 2),
    or 30 (Level 3) CP
-  At some point in the character’s past, they managed
+  At some point in the character's past, they managed
 to do something that earned a black mark on their
 reputation. For some reason, no matter what they do,
 this black mark cannot be shaken off and continues to
@@ -37,14 +37,14 @@ the situation.
 
 EDITED MEMORIES
 Bonus: 10 CP
-  At some point in the character’s past, the charac-
+  At some point in the character's past, the charac-
 ter had certain memories strategically removed or
 otherwise lost to them. This may have been done to
 intentionally forget an unpleasant or shameful experi-
 ence or to make a break with the past. The memory
 may also have been lost by an unexpected death (with
 no recent backup), or it may have been erased against
-the character’s will. Whatever the case, the memory
+the character's will. Whatever the case, the memory
 should bear some importance, and there should exist
 either evidence of what happened or NPCs who know
 the full story. This is a tool the gamemaster can use to
@@ -83,7 +83,7 @@ ease, hypertension, hemophilia, or color blindness.
 A genetic disorder that creates minor complications
 and/or occasional health problems would be worth
 10 CP, a defect that significantly impairs the charac-
-ter’s regular functioning or that inflicts chronic health
+ter's regular functioning or that inflicts chronic health
 problems is worth 20 CP. The gamemaster must de-
 termine the exact effects of the disorder on gameplay,
 as appropriate.
@@ -91,7 +91,7 @@ as appropriate.
 
 IDENTITY CRISIS
 Bonus: 10 CP
-   The character’s ego has trouble adapting itself to
+   The character's ego has trouble adapting itself to
 the changed look of a new morph—they are stuck
 with the mental image of their original body, and
 simply do not grow accustomed to their new face(s).
@@ -111,10 +111,10 @@ Bonus: 10 CP
 culty reading or writing. Due to the entoptic-saturated
 and icon-driven nature of transhuman society, they are
 able to get by quite comfortably with this handicap.
-Reduce the character’s Language skills by half (round
+Reduce the character's Language skills by half (round
 down) whenever reading or writing.
 
 IMMORTALITY BLUES
 Bonus: 10 CP
   The character has lived so long—over 100 years—
-they’re bored with life and now have difficulty
+they're bored with life and now have difficulty

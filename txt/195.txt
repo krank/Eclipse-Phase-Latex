@@ -1,31 +1,31 @@
 COMBAT SUMMARY
-• Combat is handled as an Opposed Test.
-• Attacker rolls attack skill +/– modiﬁers.
-• Melee: Defender rolls Fray or melee skill
-  +/– modiﬁers.
-• Ranged: Defender rolls (Fray skill ÷ 2, round
-  down) +/– modiﬁers.
-• If attacker succeeds and rolls higher than the
+- Combat is handled as an Opposed Test.
+- Attacker rolls attack skill +/– modifiers.
+- Melee: Defender rolls Fray or melee skill
+  +/– modifiers.
+- Ranged: Defender rolls (Fray skill ÷ 2, round
+  down) +/– modifiers.
+- If attacker succeeds and rolls higher than the
   defender, the attack hits.
-• Critical hits are armor-defeating (armor does
+- Critical hits are armor-defeating (armor does
   not apply).
-• Armor is reduced by the attack’s Armor
+- Armor is reduced by the attack's Armor
   Penetration value (AP).
-• The weapon’s damage is reduced by the
-  target’s modiﬁed Armor rating (unless the
+- The weapon's damage is reduced by the
+  target's modified Armor rating (unless the
   attack is armor-defeating).
-• If the damage exceeds the target’s Wound
+- If the damage exceeds the target's Wound
   Threshold, a wound is also scored. (If the
   damage exceeds the Wound Threshold
   by multiple factors, multiple wounds are
-  inﬂicted.)
+  inflicted.)
 
 
 
 ACTION AND COMBAT COMPLICATIONS
-Combat isn’t quite as simple as deciding if you hit or
+Combat isn't quite as simple as deciding if you hit or
 miss. Weapons, armor, ammunition, and numerous
-other factors may impact an attack’s outcome. Like-
+other factors may impact an attack's outcome. Like-
 wise, various factors can impact an action scene, such
 as fire or microgravity effects.
 
@@ -46,7 +46,7 @@ be loaded in. Players should keep track of the shots
 they fire.
    Reloading almost always requires a Complex
 Action, whether you are slapping in a new clip of bul-
-lets or a fresh battery for a laser. At the gamemaster’s
+lets or a fresh battery for a laser. At the gamemaster's
 discretion, a reload that is immediately accessible
 (such as a new clip reverse-taped to the loaded clip, so
 that reloading just requires that you reverse the taped
@@ -93,9 +93,9 @@ Defender prone and far (10+ meters)
 Defender hidden
 Aimed shot (quick)
 Aimed shot (complex)
-Sweeping ﬁre with beam weapon                                  +10 on
+Sweeping fire with beam weapon                                  +10 on
 Multiple targets in same Action Phase                        –20 per a
-Indirect ﬁre
+Indirect fire
 Point-blank range (2 meters or less)
 Short range
 Medium range

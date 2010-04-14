@@ -6,7 +6,7 @@ cause the jammer experienced being killed/destroyed.        grenades (p. 340).
 As a result, the jammer suffers 1d10 mental stress.
                                                             PLACING EXPLOSIVES
 CALLED SHOTS                                                A skilled demolitionist can place charges in a manner
-   Sometimes it’s not enough to just hit your target—       that will boost their effect. They can identify struc-
+   Sometimes it's not enough to just hit your target—       that will boost their effect. They can identify struc-
 you need to shoot out a window, knock the knife out         tural vulnerabilities and weak points and focus a
 of their hand, or hit that hole in their armor. You may     blast in these areas. They can determine how to blast
 declare that you are making a called shot before you        open a safe without destroying the contents. They can
@@ -14,22 +14,22 @@ initiate an attack, choosing one of the outcomes noted      focus the force of a
 below. Called shots suffer a –10 modifier and require       tion, increasing the directed force while minimizing
 an Excellent Success (MoS 30+). If you beat that            splash effects.
 margin, you succeed with the called shot, and the re-          Each of these scenarios calls for a successful De-
-sults noted below apply. If you don’t beat the margin       molitions Test. The exact result is determined by
+sults noted below apply. If you don't beat the margin       molitions Test. The exact result is determined by
 but still succeed in the attack, you simply strike your     the gamemaster according to the specific scenario.
 target as normal.                                           For example, using the examples above, targeting
                                                             a weak point could double the damage inflicted on
 BYPASSING ARMOR                                             that structure. Shaping the charge to direct the force
 Called shots may be used to target a hole or weak           can triple the damage in that direction, as noted in
-point in your opponent’s armor. If you beat the MoS,        the superthermite description (p. 330). An Excellent
-you strike an armor-defeating hit, and their armor          Success is likely to increase an explosive’s damage by
+point in your opponent's armor. If you beat the MoS,        the superthermite description (p. 330). An Excellent
+you strike an armor-defeating hit, and their armor          Success is likely to increase an explosive's damage by
 does not apply. Note that in certain circumstances, a       +5, whereas a critical success would allow the blast to
-gamemaster may rule that an opponent’s armor simply         ignore armor.
-doesn’t have a weak spot or unprotected area, and so
+gamemaster may rule that an opponent's armor simply         ignore armor.
+doesn't have a weak spot or unprotected area, and so
 disallow such called shots.                                 DISARMING
                                                             Disarming an explosive device is handled as an Op-
 DISARMING                                                   posed Test between the Demolitions skills of the dis-
 You may take a called shot to attempt to knock a            armer and the character who set the bomb.
-weapon out of an opponent’s hand(s). If you beat the
+weapon out of an opponent's hand(s). If you beat the
 MoS, the victim suffers half damage from the attack (re-    MAKING EXPLOSIVES
 duced by armor as normal) and must make a SOM x 3           A character trained in Demolitions can make ex-
 Test with a –30 modifier to retain hold of the weapon.      plosives from raw materials. These materials can be
@@ -38,7 +38,7 @@ SPECIFIC TARGETING                                          tured using a nanofa
 You may make a called shot with the intention of hitting    restricted settings to prevent explosives creation can
 a specific location or component on your target—for         be used, as explosives can be constructed from all
 example: disabling the sensor unit on a bot, sweeping       manner of mundane chemicals and materials.
-someone’s leg, or poking someone in the eye. If you beat      The timeframe for making explosives is 1 hour per
+someone's leg, or poking someone in the eye. If you beat      The timeframe for making explosives is 1 hour per
 the MoS, you hit the specific targeted spot. The game-      1d10 points of damage the explosive will inflict. If a
 master determines the result as appropriate to the attack   critical failure is rolled, the demolitionist may acciden-
 and target—the component may be destroyed, the op-          tally blow himself up, or the charge may be extremely

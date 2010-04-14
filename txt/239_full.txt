@@ -8,16 +8,16 @@ SOLARCHIVE SEARCH: ECTO(-LINK)
                 times referred to as endos to reflect     allowing plug-and-use add-ons for          contacts and earbuds equip users who
                 the difference between an external        whatever additional software and           lack mesh implants, enabling them to
                 and an internal device.                   gadgets are desired. Typically, the        experience augmented reality and the
-                   No matter if ecto or endo, modern      user’s muse (personal AI assistant)        ecto’s AR control interface. Standard
+                   No matter if ecto or endo, modern      user's muse (personal AI assistant)        ecto's AR control interface. Standard
                 computers are governed by an oper-        facilitates software interactions.         entoptic control interfaces are also
              ECTO(-LINK)
                 ating system (OS), a multifunctional         The ecto itself is typically the size   available via wireless radio, skinlink,
-                suite of programs that includes media     of 20th-century credit card and can        and direct ﬁberoptic line.
+                suite of programs that includes media     of 20th-century credit card and can        and direct fiberoptic line.
 
 
 
 
- can interact with them thanks to encryption, user au-                   overlaid on the user’s physical senses. In a similar
+ can interact with them thanks to encryption, user au-                   overlaid on the user's physical senses. In a similar
  thentication, and message integrity checking.                           vein, the mesh inserts installed in synthmorphs and
    With the factionalization of transhumanity, at-                       pods are directly integrated with their cyberbrains
  tempts to unify software into standard formats have                     (creating a potential security concern as cyberbrains
@@ -32,7 +32,7 @@ SOLARCHIVE SEARCH: ECTO(-LINK)
  computers. These implants are grown in the brain via                    scanning grids (body axis control or all-limb controls
  non-intrusive nanosurgery. The processor, wireless                      for non-humanoids), voice controls, and more. Sen-
  transceiver, storage devices, and other components                      sory information is handled via lenses, glasses, ear-
- are directly wired to the user’s cerebral neuronal cells                plugs (subdermal bone-vibrating speakers), bodysuits,
+ are directly wired to the user's cerebral neuronal cells                plugs (subdermal bone-vibrating speakers), bodysuits,
  and cortical centers responsible for language, speech,                  gloves, nose plugs, tongue dams, and other devices
  and visual perception among others. Thought-to-                         that are wirelessly linked to (or physically plugged
  communication emulations (so called transducing)                        into) the ecto.
@@ -48,14 +48,14 @@ SOLARCHIVE SEARCH: ECTO(-LINK)
    Given the technical capabilities of modern personal computers, supercomputers and cutting-edge wired
    broadband are not needed. But there is another reason they are avoided: the TITANs.
      Mainframes, hive-mind clusters, and massively parallel distributed computing parallel hive-mind systems
-   are all considered potential dangers in Eclipse Phase, as they possess sufﬁcient processing power and data
+   are all considered potential dangers in Eclipse Phase, as they possess sufficient processing power and data
    capacity to enable a seed AI and another potential hard takeoff singularity. Some habitats go so far as to
-   outlaw such systems completely under the severest of penalties: ﬁnal death including the deletion of all
+   outlaw such systems completely under the severest of penalties: final death including the deletion of all
    backups and recent forks, in most cases.
-     Those supercomputers that habitats do allow are “hard networks” that control a habitat’s most crucial
+     Those supercomputers that habitats do allow are “hard networks” that control a habitat's most crucial
    systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp
    R&D projects. These systems are typically physically wired, heavily monitored, and locked down in electronic
    data processing centers with strong access restrictions and ruthless real-world security measures.
      Similarly, AIs themselves are quite often heavily restricted, and it is not unusual for AGIs to be outright
    banned, especially in the inner system and Jovian Republic. Most intelligent programs are limited with
-   programmed growth restraints, speciﬁcally designed to prevent them from becoming self-upgrading.           ■
+   programmed growth restraints, specifically designed to prevent them from becoming self-upgrading.           ■

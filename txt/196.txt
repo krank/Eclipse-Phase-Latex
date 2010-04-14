@@ -52,7 +52,7 @@ proof fiber weaves.
 
 ARMOR PENETRATION
 Some weapons have an Armor Penetration (AP) rating.
-This represents the attack’s ability to pierce through
+This represents the attack's ability to pierce through
 protective layers. The AP rating reduces the value of
 armor used to defend against the attack (see Step 6:
 Modify Armor, p. 192).
@@ -60,13 +60,13 @@ LAYERED ARMOR
 If two or more types of armor are worn, the armor
 ratings are added together. However, wearing multiple
 armor units is cumbersome and annoying. Apply a –20
-modifier to a character’s actions for each additional
+modifier to a character's actions for each additional
 armor layer worn
    Note that items specifically noted as armor accesso-
 ries—helmets, shields, etc.—do not inflict the layered
 armor penalty, they simply add their armor bonus.
 Note also that the armor inherent to a synthetic
-morph or bot’s frame does not constitute a layer of
+morph or bot's frame does not constitute a layer of
 armor (i.e., you may wear armor over the synthetic
 shell without penalty).
 

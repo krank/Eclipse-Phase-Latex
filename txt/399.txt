@@ -2,7 +2,7 @@ Lucidity (LUC), 122, 138, 209               Microlight, 310, 343                
 Luna, 24, 91                                Micromissile, 339                    Na
     Erato (Eratosthenes), 92                Microswarms, 328-29                  Na
     fashion/design, 92                      Microwave agonizer, 339              Na
-    ﬁnance, 92                              Mimas (Harmonious Anarchy), 104      Na
+    finance, 92                              Mimas (Harmonious Anarchy), 104      Na
     Helium-3 mining, 92                     Mimic, 227                           Ne
     Nectar (Nectaris), 92                   Mindlink, 227                        Ne
     New Mumbai containment zone, 92         Mindstealer virus, 367               Ne
@@ -11,12 +11,12 @@ Lunar colonist, 131                         Minor favor, 290                    
 Lunar-Lagrange Alliance, 75                 Mishipizheu, 111                     Ne
                                             Mist, 248                            Ne
 M                                           Mnemonic augmentation, 307           Ne
-Ma’adim Vallis, 93-94                       Mobile lab, 330                      Ne
-Machine gun, 336                            Mobile ofﬁces, 242                   Ne
-Magnetic ﬁelds, 200-201                     Mobility systems, 310                Ne
+Ma'adim Vallis, 93-94                       Mobile lab, 330                      Ne
+Machine gun, 336                            Mobile offices, 242                   Ne
+Magnetic fields, 200-201                     Mobility systems, 310                Ne
 Magnetic system, 310-11                     Moderate favor, 290
-Mahogany, 109                               Modiﬁed behavior, 150
-Major favor, 290                            Modiﬁers, 115-16, 127, 192
+Mahogany, 109                               Modified behavior, 150
+Major favor, 290                            Modifiers, 115-16, 127, 192
 Maker, 327-28                                   combat, 193
 Malware, 244                                    gear, 296
 Maps, 205                                       integration, alienation, 272
@@ -26,7 +26,7 @@ Markov, 109                                     psychosurgery, 231
 Mars, 24                                    Modifying hardware, 179
     Ashoka, 94                              Modular design, 311
     buggy, 344-45                           Monitoring, 251-52
-    Elysium, 94-95                          Monoﬁlament sword, 334
+    Elysium, 94-95                          Monofilament sword, 334
     Noctis-Qianjiao, 95                     Mono No Aware, 319                   Ne
     Olympus, 95-96                          Monowire garrote, 334                Ne
     Progress (Deimos), 96                   Mood swings, moderate, 211
@@ -70,13 +70,13 @@ Mentons, 139                                Muscle augmentation, 305            
 Mercenaries, 23, 57                         Muses, 47-48, 51-52, 264             Ol
 Mercurials, 81, 134                             Infolife and, 244, 245           Om
 Mercury habitats, 88                            roleplaying, 265                 Om
-Merging, 275-76                             Mute, moderate, 211                  O’
+Merging, 275-76                             Mute, moderate, 211                  O'
 Mesh, 24                                    Myst trees, 111                      On
     abuses, 243-44                                                               Op
     access, 50                              N
     accounts, access privileges, 246-47     Nanobandage, 333                     Or
     capabilities, 236                       Nanodetectors, 326-27                Or
-    gear modiﬁers, 247                      Nanodrugs, 317, 321-22               Or
+    gear modifiers, 247                      Nanodrugs, 317, 321-22               Or
     gear quality, 247                       Nano-ecologists, 81-82               Ou
     gear rules, 299                         Nanofabrication, 183                 Ou
     false ID, 252                               blueprints, 284-85               Ov
@@ -90,7 +90,7 @@ Mesh, 24                                    Myst trees, 111                     
     local, 239                              Nanoswarms, 328-29, 383
     security, 253-54                        Nanotagging, 292                     Pa
     technologies, 237                       Nanotat, 310                         Pa
-    trafﬁc ﬁlters, mist, 248                    ID alterations, 280              Pa
+    traffic filters, mist, 248                    ID alterations, 280              Pa
     uses, 241-42                                scans, 279-80                    Pa
 Metacelebrities, 52                         Nanotech Hamilton cylinders, 67      Pa
 Metallic foam, 298                          Nanotechnology                       Pa
@@ -101,7 +101,7 @@ Metastasizer, 384                           Nanoviruses, 384                    
 Microbug, 316                               Nanoware, 308-9                      Pa
 Microgravity, 199                           Narcissism, moderate, 211            Pa
     habitats, 68-69                         Narcoalgorithms, 322-23              Pa
-    shoes, 325                              Narrative modiﬁers, 116              Pa
+    shoes, 325                              Narrative modifiers, 116              Pa
 ngue, 135                          Pathogens, 324                                    sleights,
 ealing, 208, 215                   Patron provisioning, morphs, 277                  strain, 2
 mmunity, 146                       Patron, 146                                       trait, 126
@@ -124,9 +124,9 @@ ns, 109, 141                       Peripherals, 247                             
   moons, 109                       Personality editing, 232                     Psi-opener, 3
  , 109                             Persuasion skill, 183                        Psychic stab,
 ns, 109                            Petals, 322                                  Psychosoma
-23-24                              Petriﬁer, 384                                Psychosurge
+23-24                              Petrifier, 384                                Psychosurge
 ng, 286-87                         Pets, 330                                         mechani
-ﬁers, 287                          Phelan’s Recourse, 105                            modiﬁer
+fiers, 287                          Phelan's Recourse, 105                            modifier
 357                                Pheromones, enhanced, 304                         neural p
 ation and, 287                     Phlo, 319                                         procedu
 182                                Phoebe, 107                                       process,
@@ -134,7 +134,7 @@ ation and, 287                     Phlo, 319                                    
 m, 305                             Physical augmentations, 302-6, 307-8              skill, 184
                                    Physical entertainment, 54                   Psychotherap
 ge, 150                            Physical health, 206-8                            care, 215
-ng, 273, 274-75                    Physical modiﬁcations, 310-11                Psychotortur
+ng, 273, 274-75                    Physical modifications, 310-11                Psychotortur
  362                               Physical tracking, 251                       Public accou
 h, 324                             Piercings, 310                               Public inform
 384                                Pilot skill, 183                             Public key cr
@@ -146,7 +146,7 @@ mbai containment zone, 93               hypercorps and, 55-56                   
  s Compact, 103                         punishment, 60
  tel, 83                           Planetary settlement, 66-67                  Q
  e, 332                            Plasmaburst, 341                             Qing Long (A
-  2                                Plasma riﬂe, 339                             Qualia, 225
+  2                                Plasma rifle, 339                             Qualia, 225
   , 83                             Plasma rocket (P), 347                       Quantum
 al stack, 151                      Plasmaburst, 341                                 codebrea
 anjiao, 95                         Plastic ammo, 338                                compute
@@ -183,7 +183,7 @@ umption, 317                       Profession skill, 183                        
 ash, 319                           Programming                                  Reboot, 257
  80                                     skill, 183                              Reclaimers, 8
  determination, 192                     test, 285                               Recreational
- grenade, 341                      Progress (Deimos), 96                        Reﬂex boost
+ grenade, 341                      Progress (Deimos), 96                        Reflex boost
  serve, 308                        Project Ozma, 85, 96, 379-80                 Refractive gl
 A, 324                             Prometheans, 85, 378, 381                    Refractory m
                                    Prometheus (Marseilles), 105                 Regeneration
@@ -194,7 +194,7 @@ hold, high, 224                    Proxies, 85, 357-59                          
  nce, 146, 150                     Proximity, 338                               Reloading, 1
 kill, 182                          Psi, 126, 147, 218-19, 220-29                Remade, 141
  ), 104                                 Assault skill, 184                      Rememberin
-Gates, 24, 46, 377-79                   attack, 191                             Remote snifﬁ
+Gates, 24, 46, 377-79                   attack, 191                             Remote sniffi
 derate, 211                             chameleon, 147                          Rental insura
 92                                      damage, 207                             Repair, 179,
 major, 211                              defense, 147                            Repair spray,

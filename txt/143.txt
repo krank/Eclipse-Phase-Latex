@@ -10,7 +10,7 @@ Implants: Basic Biomods, Basic Mesh Inserts, Circa-
 Aptitude Maximum: 25
 Durability: 35
 Wound Threshold: 7
-Advantages: +5 INT, +5 to one aptitude of the player’s
+Advantages: +5 INT, +5 to one aptitude of the player's
    choice
 CP Cost: 25
 Credit Cost: Expensive
@@ -28,7 +28,7 @@ Aptitude Maximum: 20 (SOM), 30 (all else)
 Durability: 30
 Wound Threshold: 6
 Advantages: +5 COO, +5 INT, +5 REF, +5 to one
-   aptitude of the player’s choice; neotenics count as a
+   aptitude of the player's choice; neotenics count as a
    small target (–10 modifier to hit in combat)
 Disadvantages: Social Stigma (Neotenic) trait
 CP Cost: 25
@@ -53,7 +53,7 @@ Aptitude Maximum: 40
 Durability: 40
 Wound Threshold: 8
 Advantages: +10 COG, +5 SAV, +10 SOM, +5 to two
-  other aptitudes of the player’s choice
+  other aptitudes of the player's choice
 Disadvantages: Uncanny Valley trait
 CP Cost: 60
 Credit Cost: Expensive (minimum 40,000+)
@@ -70,7 +70,7 @@ Aptitude Maximum: 25
 Durability: 35
 Wound Threshold: 7
 Advantages: +5 SOM, +5 to one aptitude of the
-  player’s choice
+  player's choice
 CP Cost: 25
 Credit Cost: Expensive
 
@@ -96,7 +96,7 @@ Durability: 20
 Wound Threshold: 4
 Advantages: Beak/Claw Attack (1d10 DV, use Un-
    armed Combat skill), Flight, +5 INT, +10 REF, +5
-   to one other aptitude of the player’s choice
+   to one other aptitude of the player's choice
 CP Cost: 25
 Credit Cost: Expensive
 
@@ -110,7 +110,7 @@ Aptitude Maximum: 25
 Durability: 30
 Wound Threshold: 6
 Advantages: +5 COO, +5 INT, +5 SOM, +5 to one other
-  aptitude of the player’s choice, +10 Climbing skill
+  aptitude of the player's choice, +10 Climbing skill
 CP Cost: 25
 Credit Cost: Expensive
 

@@ -1,6 +1,6 @@
 BRAND NAME WEAPONS
 AND COMBINED ARMS
-The weapons listed in this book deﬁne generic
+The weapons listed in this book define generic
 samples of each weapon. Gamemasters are en-
 couraged to offer brand name versions of each
 weapon, each with its particular idiosyncrasies
@@ -8,11 +8,11 @@ and small variations. For example, a Direct
 Action A30 SMG might lack a semi-automatic
 setting but come equipped with an extra ammo
 capacity of 35. Likewise, a Medusan Arms Longi-
-nus sniper riﬂe may inﬂict an extra +2 damage
+nus sniper rifle may inflict an extra +2 damage
 but have an AP of only –12.
   Similarly, many of the weapons listed here are
 available as combined arms weapons systems. A
-police-issue assault riﬂe may also feature a stun-
+police-issue assault rifle may also feature a stun-
 ner—all built into the same weapon. For com-
 bined arms, simply add together the individual
 weapon component costs.                         ■
@@ -38,8 +38,8 @@ Light Pistol                  —                            2
 Medium Pistol                 –2                       2d1
 Heavy Pistol                  –4                       2d1
 Submachine Gun                –2                       2d1
-Automatic Riﬂe                –6                       2d1
-Sniper Riﬂe                   –12                     2d1
+Automatic Rifle                –6                       2d1
+Sniper Rifle                   –12                     2d1
 Machine Gun                   –4                       2d1
 
 
@@ -50,8 +50,8 @@ Light Pistol                  –3                       2d1
 Medium Pistol                 –5                       2d1
 Heavy Pistol                  –7                       2d1
 Submachine Gun                –5                       2d1
-Automatic Riﬂe                –9                       2d1
-Sniper Riﬂe                   –15                     2d1
+Automatic Rifle                –9                       2d1
+Sniper Rifle                   –15                     2d1
 Machine Gun                   –7                       2d1
      the projectile exceeds that of an explosive-filled shell
      of greater mass and creates shock and heat waves
@@ -69,14 +69,14 @@ Machine Gun                   –7                       2d1
      arms (pistols through machine guns), with the follow-
      ing modifications:
 
-      • Increase AP by –3
-      • Increase damage by +2
-      • Increase the maximum for each range category
+      - Increase AP by –3
+      - Increase damage by +2
+      - Increase the maximum for each range category
         by x1.5
-      • Increase Cost category by one
-      • Railguns may only use regular and armor-pierc-
+      - Increase Cost category by one
+      - Railguns may only use regular and armor-pierc-
         ing ammunition
-      • Railguns also require battery power for each shot.
+      - Railguns also require battery power for each shot.
         Standard railgun batteries hold enough power for
         200 shots, after which they must be recharged at
         the rate of 20 points per hour.

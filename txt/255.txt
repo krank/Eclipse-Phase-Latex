@@ -5,7 +5,7 @@ percorps or other organizations offering such services
 internally to their own staff/membership.
    The interaction between the vendor and user is
 encrypted and anonymous, with no logs kept, so even
-if the vendor’s servers are hacked, an intruder will
+if the vendor's servers are hacked, an intruder will
 not find any leads. While some anonymous accounts
 are established for regular use, the truly paranoid use
 (multiple) one-time accounts for maximum security.
@@ -60,7 +60,7 @@ characters or logographic symbols, submitted in an
 encrypted format. Anyone with the passcode can
 access the account.
    Biometric Scan: This calls for a scan of one or more
-of the user’s biometric signatures (fingerprint, palm
+of the user's biometric signatures (fingerprint, palm
 print, retinal scan, DNA sample, etc.). Popular before
 the Fall, such systems have fallen out of use as they
 are impractical with synthmorphs or users that fre-
@@ -73,7 +73,7 @@ vanced passkeys combine hardwired encryption with
 physical nanotech etching to create a unique key. To
 access such systems, the passkey must either be ac-
 quired or somehow spoofed.
-   Ego Scan: This system authenticates the user’s ego
+   Ego Scan: This system authenticates the user's ego
 ID (p. 279).
    Quantum Key: Quantum key systems rely on the un-
 breakable encryption of quantum cryptography (p. 254).
@@ -105,7 +105,7 @@ slaved to the monitored system.
    Characters may actively monitor their own PANs if
 they so choose, though this requires a moderate level
 of attention (count as a Quick Action). It is far more
-common for a muse to actively guard a user’s PAN.
+common for a muse to actively guard a user's PAN.
 
 ENCRYPTION
 Encryption is an exceptionally effective extra layer of

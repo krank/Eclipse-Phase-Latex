@@ -1,21 +1,21 @@
 WHAT YOUR MUSE
 CAN DO FOR YOU
-• Make Research Tests to ﬁnd information for you.
-• Scan newsfeeds and mesh updates for keyword alerts.
-• Monitor your mesh inserts/ecto/PAN and slaved devices
+- Make Research Tests to find information for you.
+- Scan newsfeeds and mesh updates for keyword alerts.
+- Monitor your mesh inserts/ecto/PAN and slaved devices
   for intrusion.
-• Launch countermeasures against intruders.
-• Teleoperate and command robots.
-• Monitor your Rep score and alert you to drastic changes.
-• Automatically provide feedback for other people’s
+- Launch countermeasures against intruders.
+- Teleoperate and command robots.
+- Monitor your Rep score and alert you to drastic changes.
+- Automatically provide feedback for other people's
   Rep scores.
-• Run audio input through an online, real-time language
+- Run audio input through an online, real-time language
   translation system.
-• Put you in privacy mode and/or proactively stealth your
+- Put you in privacy mode and/or proactively stealth your
   wireless signal.
-• Falsify/ﬂuctuate your mesh ID.
-• Track people for you.
-• Anticipate your needs and act accordingly, pre-empting
+- Falsify/fluctuate your mesh ID.
+- Track people for you.
+- Anticipate your needs and act accordingly, pre-empting
   your requests.                                         ■
 
 
@@ -53,7 +53,7 @@ CAN DO FOR YOU
   For thousands of infugees, embodying a digital form
   is their only choice. Some of these are locked away
   in mesh-separated virtual holding areas or even inac-
-  tive storage, locked up by habitats who didn’t have
+  tive storage, locked up by habitats who didn't have
    NON-STANDARD AIS
    AND AGIS
    Not all AIs and AGIs were programmed and de
@@ -61,7 +61,7 @@ CAN DO FOR YOU
    and interests. Such creations are illegal in some
    jurisdictions, as they are considered a potential
    threat. Several hypercorps and other groups have
-   initiated research into this ﬁeld, however, with
+   initiated research into this field, however, with
    varying results. In some cases these digital minds
    are so different from human mindsets that com
    munication is is impossible. In others, enough

@@ -19,7 +19,7 @@ traffic through the ecto as an extra line of defense.       the do-it-yourself e
                                                             to design their own personalized applications,
 MESH ID                                                     based on their playbook of closely-guarded in-
 Every mesh user (and, in fact, every device) has a          trusion/counterintrusion methods.
-unique code called their mesh ID. This ID distin-              To reﬂect the efforts a hacker character makes
+unique code called their mesh ID. This ID distin-              To reflect the efforts a hacker character makes
 guishes them from all other users and devices, and is       by designing, coding, and modifying their own
 the mechanism by which others can find them online,         customized personal arsenals, they may make a
 like a combination phone number, email address, and         Task Action Programming Test with timeframe
@@ -27,12 +27,12 @@ screen name. Mesh IDs are used in almost all online in-     of 2 weeks. If they 
 teractions, which are often logged, meaning that your       of their software tools by one level of quality
 activities online leave a datatrail that can be tracked     (i.e., from +0 to +10). Multiple Programming
 (p. 251). Fortunately for Firewall sentinels and others     Tests can be made to enhance a program, but for
-who value their privacy, their are ways around this         each level add the target modiﬁer as a negative
-(see Privacy and Anonymity, p. 252). AIs, AGIs, and         modiﬁer to the test (so upgrading a +0 suite to
-infomorphs also each have their own unique mesh ID.         +10 is a –10 modiﬁer on the Programming Test).
-                                                               Similarly, at the gamemaster’s discretion, soft-
+who value their privacy, their are ways around this         each level add the target modifier as a negative
+(see Privacy and Anonymity, p. 252). AIs, AGIs, and         modifier to the test (so upgrading a +0 suite to
+infomorphs also each have their own unique mesh ID.         +10 is a –10 modifier on the Programming Test).
+                                                               Similarly, at the gamemaster's discretion, soft-
 ACCOUNTS AND ACCESS PRIVILEGES                              ware tools—particularly exploits—may degrade
-Devices, networks (such as PANs, VPNs, and hard-            in quality over time, reﬂecting that they have
+Devices, networks (such as PANs, VPNs, and hard-            in quality over time, reflecting that they have
 wired networks), and services require that every user       become outdated. As a general rule, such pro-
 that accesses them does so with an account. The             grams should degrade in quality about once
 account serves to identify that particular user, is         every 3 months.                                 ■

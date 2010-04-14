@@ -1,5 +1,5 @@
  directly. Thought Browse may be sustained, allowing
- the async to continue scanning the target’s thoughts
+ the async to continue scanning the target's thoughts
  over time. The async must beat the target in an Op-
  posed Test for each scanned item.
 
@@ -13,11 +13,11 @@
  To a large degree, this is true. Aided by nanotechnol-
  ogy, genetics, and cognitive science, neuroscientists
  have demolished numerous barriers to understand-
- ing the mind’s structure and functions, and even
+ ing the mind's structure and functions, and even
  made great leaps in unveiling the true nature of
  consciousness. Genetic tweaks, neuro-mods, and
  neural implants offer an assortment of options for
- improving the brain’s capabilities. The transhuman
+ improving the brain's capabilities. The transhuman
  mind has become a playground—and a battlefield.
  Nanovirii unleashed during the Fall infected mil-
  lions, altering their brains in permanent ways, with
@@ -39,7 +39,7 @@
  processes work, it does not always fully understand
  the underlying mechanisms.
     Any neurotech will tell you that mucking around
- in the mind’s muddy depths is a messy business.
+ in the mind's muddy depths is a messy business.
  Brains are organic devices, molded by millions of
  years of unplanned evolutionary development. Each
  is grown haphazardly, loaded with evolutionary
@@ -55,7 +55,7 @@ SOLARCHIVE SEARCH: “THE HUMAN COGNOME PR
                 the human genome. The HCP was a              the fir
                 multidisciplinary undertaking, relevant      intellig
                 to biology, neuroscience, psychology,        has als
-                cognitive science, artiﬁcial intelligence,   ing tra
+                cognitive science, artificial intelligence,   ing tra
             THE HUMAN COGNOME PROJECT
                 and philosophy of mind.                      databa
    leftovers, and randomly modified by an unlimited
@@ -74,8 +74,8 @@ SOLARCHIVE SEARCH: “THE HUMAN COGNOME PR
    chitecture and topography of neural networks can
    be scanned and deduced, the devil is in the details.
    Techniques used to modify, repair, or enhance one
-   person’s mind are not guaranteed equal success
-   when applied to another’s brain. For example, the
+   person's mind are not guaranteed equal success
+   when applied to another's brain. For example, the
    process by which brains store knowledge, skills, and
    memories results in a strange chaining process where
    these memories are linked and associated with other
@@ -94,11 +94,11 @@ SOLARCHIVE SEARCH: “THE HUMAN COGNOME PR
    infomorphs), though they are sometimes combined.
       Psychosurgery is almost always performed on a
    digital mind-state, whether that be a real-time emula-
-   tion, a backup, or a fork. In most cases, the subject’s
+   tion, a backup, or a fork. In most cases, the subject's
    mind-state is copied via the same technology and pro-
    cess as uploading or forking, and run in a simulspace.
    The subject need not be willing, and in these cases
-   the subject’s permissions are restricted. Numerous
+   the subject's permissions are restricted. Numerous
    psychosurgery simulspace environments are available,
    each custom-designed for facilitating specific psy-
    chosurgical goals and programmed with a thorough
@@ -106,7 +106,7 @@ SOLARCHIVE SEARCH: “THE HUMAN COGNOME PR
 
 
 ECT”
-and supported by scientiﬁc      the mind-states of healthy individuals for
+and supported by scientific      the mind-states of healthy individuals for
 ate entrepreneurs and early     treating mental diseases and damage.
  st groups, the HCP developed   Though most HCP data is available to the
  entals of digitizing an ego    public, some argonauts claim that certain

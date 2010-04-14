@@ -17,10 +17,10 @@ Wrench                    —                    1d10 + (SOM ÷ 10)             
  someone with a meter of chain. The Improvised Weap-                 the second target.
  ons table offers statistics for a few likely ad-hoc items.             A character firing a burst-fire weapon may target up
  Gamemasters can use these as guidelines for handling                to two targets with each burst, as long as those targets
- items that aren’t listed.                                           are within one meter of one another. This is handled
+ items that aren't listed.                                           are within one meter of one another. This is handled
                                                                      as a single attack; see Burst Fire, p. 198.
  KNOCKDOWN/KNOCKBACK                                                    A character firing a burst-fire weapon twice with
- If an attacker’s intent is to simply knock an opponent              one Complex Action may target a different person or
+ If an attacker's intent is to simply knock an opponent              one Complex Action may target a different person or
  down or back in melee, rather than injure them, roll                pair with each burst. In this case, the second burst
  the attack and defense as normal. If the attacker suc-              suffers a –20 modifier. This modifier does not apply
  ceeds, the defender is knocked backward by 1 meter                  if the same person/pair targeted with the first burst is
@@ -39,11 +39,11 @@ Wrench                    —                    1d10 + (SOM ÷ 10)             
  MELEE AND THROWN DAMAGE BONUS                                       rability measures how much damage the structure can
  Every successful melee and thrown weapon attack,                    take before it is destroyed. Armor reduces the damage
  whether unarmed or with a weapon, receives a damage                 inflicted by attacks, as normal. For simplicity, a single
- bonus equal to the attacker’s SOM ÷ 10, round down.                 Armor rating is given that counts as both Energy and
- See Damage Bonus, p. 123.                                           Kinetic armor; at the gamemaster’s discretion, these
+ bonus equal to the attacker's SOM ÷ 10, round down.                 Armor rating is given that counts as both Energy and
+ See Damage Bonus, p. 123.                                           Kinetic armor; at the gamemaster's discretion, these
                                                                      may be modified as appropriate.
  MULTIPLE TARGETS                                                      Wounds suffered by objects and structures do not have
- When doling out the damage, there’s no reason not to                the same effect as wounds inflicted on characters. Each
+ When doling out the damage, there's no reason not to                the same effect as wounds inflicted on characters. Each
  share the love.                                                     wound is simply treated as a hole, partial demolition, or
                                                                      impaired function, as the gamemaster sees fit. Alternately,
  MELEE COMBAT                                                        a wounded device may function less effectively, and so

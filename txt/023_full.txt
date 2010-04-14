@@ -1,6 +1,6 @@
 the strength of roleplaying games, groups need not           to tailor the universe to their style of play and also
 confine themselves to a single mode of play. There are       to share that with other players. You never know
-myriad options that can be used. Email, instant mes-         when a specific choice you’ve made in the running of
+myriad options that can be used. Email, instant mes-         when a specific choice you've made in the running of
 sages, message boards, video chats, phone/voip calls,        a campaign is exactly what another gamemaster and
 text messages, wikis, (micro-)blogs: any and all of          his group is looking for.
 these can be utilized to play the game without having
@@ -9,20 +9,20 @@ one another.                                                 Whether you have pu
    Finally, when playing groups meet for the first time,     version, this book is specifically organized to present
 they should generate their characters (as opposed to         the information you need to know to start telling
 generating characters by themselves). While a gaming         your stories in the Eclipse Phase universe. Below
-group can decide to generate characters individually,        you’ll find a summary of each chapter of the book.
+group can decide to generate characters individually,        you'll find a summary of each chapter of the book.
 often it is far easier once the players are together. This      A Time of Eclipse: A comprehensive history and set-
 allows those more experienced in roleplaying games to        ting fully describes the Eclipse Phase universe and how
 help those new to RPGs. Even more important, it en-          humanity transitioned from here to there. See p. 30.
-ables the entire group to tailor the characters so there        Game Mechanics: The player’s desired actions
+ables the entire group to tailor the characters so there        Game Mechanics: The player's desired actions
 is not too much overlap in capabilities and style. After     become reality within the universe through quick and
 all, with the wealth of character opportunities avail-       easy-to-use game mechanics. See p. 112.
-able, you don’t want to show up at the table with an            Character Creation and Advancement: Creating a
+able, you don't want to show up at the table with an            Character Creation and Advancement: Creating a
 almost identical character to the player next to you.        unique character can be one of the most enjoyable
                                                              experiences of roleplaying. Even more rewarding is
 THE GAMEMASTER                                               watching that character evolve and grow across nu-
 Once a group has been organized, someone needs to            merous gaming sessions, far beyond anything your
 step up and take the reins of the gamemaster. Some           imagination first envisioned. See p. 128.
-groups have a single gamemaster that runs all their             Skills: Beyond a character’s innate abilities, their
+groups have a single gamemaster that runs all their             Skills: Beyond a character's innate abilities, their
 gaming sessions month after month. Other groups              skills are what set them apart. This is what your
 rotate a gamemaster, with a single gamemaster run-           character knows and what they know how to do. See
 ning a given portion of the unfolding story for sev-         p. 170.
@@ -42,16 +42,16 @@ and resolve attempts to take action using the game              Game Information
 system. The game system comes into play when char-           secrets for gamemasters. See p. 350.
 acters seek to use their skills or otherwise do some-
 thing that requires a test to see whether or not they        TAKING NOTES
-succeed. Specific rules are presented for situations that    Whether a gamemaster or player, you’ll need a way to
+succeed. Specific rules are presented for situations that    Whether a gamemaster or player, you'll need a way to
 involve rolling dice to determine the outcome (see           track information. Players will be generating charac-
 Game Mechanics, p. 112).                                     ters and making changes to those characters from ses-
   The gamemaster describes the world as the char-            sion to session. Meanwhile, the gamemaster will have
 acters see it, functioning as their eyes, ears, and other    a host of information to track: notes on how the story
 senses. Gamemastering is not easy, but the thrill of         is unfolding due to player character interaction that
-creating an adventure that engages the other players’        you’ll need to fold into next week’s session; changes
+creating an adventure that engages the other players'        you'll need to fold into next week's session; changes
 imaginations, testing their gaming skills and their          to NPCs; changes to player characters that the players
-characters’ skills in the game world, makes it worth-        are not yet aware off (such as a character has been
-while. Posthuman Studios and Catalyst Game Labs              mind hacked but doesn’t yet know it); and so on.
+characters' skills in the game world, makes it worth-        are not yet aware off (such as a character has been
+while. Posthuman Studios and Catalyst Game Labs              mind hacked but doesn't yet know it); and so on.
 will follow the publication of Eclipse Phase with sup-          Additionally, some groups enjoy a synopsis of
 porting supplements and adventures to help this pro-         each session that can be compiled and read at a
 cess along, but experienced gamemasters can always           later time in order to enjoy and share their exploits,

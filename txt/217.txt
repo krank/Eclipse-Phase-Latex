@@ -7,7 +7,7 @@ Extended isolation                                        1d10 ÷ 2
 Extreme violence (viewing)                                1d10 ÷ 2
 Extreme violence (committing)
 Awareness that your death is imminent
-Experiencing someone’s death via XP
+Experiencing someone's death via XP
 Losing a loved one                                        1d10 ÷ 2
 Watching a loved one die                                        1
 Being responsible for the death of a loved one                  1
@@ -19,7 +19,7 @@ Encountering aliens (non-sentient)                        1d10 ÷ 2
 Encountering aliens (sentient)
 Encountering hostile aliens                                     1
 Encountering highly-advanced technology                   1d10 ÷ 2
-Encountering Exsurgent-modiﬁed technology                 1d10 ÷ 2
+Encountering Exsurgent-modified technology                 1d10 ÷ 2
 Encountering Exsurgent-infected transhumans
 Encountering Exsurgent life forms                               1
 Exsurgent virus infection                                   Varies
@@ -73,7 +73,7 @@ und down)        therapy are also available.
 und down)        session was successful. Successful psycho-
                  surgery adds a +30 modifier to this test; at
 0
-                 the gamemaster’s discretion, other modi-
+                 the gamemaster's discretion, other modi-
 +3
                  fiers may apply. Likewise, each disorder
 und down)        the character holds inflicts a –10 modifier.
@@ -86,9 +86,9 @@ und down)       Traumas may not be healed until all stress
                  caused them, and may only be treated
                 when all other traumas are removed.
       Gamemaster and players are encouraged to roleplay
-    a character’s suffering and relief from traumas and
+    a character's suffering and relief from traumas and
     disorders. Each is an experience that makes a profound
-    impact on a character’s personality and psyche. The
+    impact on a character's personality and psyche. The
     process of treatment may also change them, so in the
     end they may be a transformed from the person they
     once were. Even if treated, the scars are likely to remain

@@ -9,7 +9,7 @@ OLARCHIVE SEARCH: ZBRNY LIMITED + CONSP
                and horror tales. Though varying in       dicate CE
                detail and plausibility, most rumors      to. Barel
                claim that an outside attack on the       failures, Z
-               former Eastern European hypercorp’s       non-affec
+               former Eastern European hypercorp's       non-affec
                asteroid mining and processing stations   the perso
                caused a major blackout and complete      ferred to
                shut-down of life support systems over    then, no o
@@ -28,7 +28,7 @@ OLARCHIVE SEARCH: ZBRNY LIMITED + CONSP
  Industries (like Omnicor), Starware is a leading manu-
  facturer of robotics, spacecraft fusion drives, satellites,
  and entire pre-fab habitats. Despite its financial suc-
- cess and resources, Starware’s ongoing blood feud
+ cess and resources, Starware's ongoing blood feud
  with Omnicor denies both corporations full member-
  ship privileges on the Planetary Consortium. Starware
  makes heavy use of AI workers in robotic shells,
@@ -49,7 +49,7 @@ OLARCHIVE SEARCH: ZBRNY LIMITED + CONSP
  ligence Cooperative (TIC), its surviving personnel and
  assets were collectively uploaded during the Fall and
  quickly regrouped under the name Stellar Intelligence.
- Emerging as a virtual collective, most of Stellar’s em-
+ Emerging as a virtual collective, most of Stellar's em-
  ployees remain loyal to the corporation and its direc-
  tor, the reclusive infomorph known as Syme. Stellar
  offers an impressive array of intelligence services,
@@ -57,19 +57,19 @@ OLARCHIVE SEARCH: ZBRNY LIMITED + CONSP
  quantification (bringing old secrets/data to light),
  memetic mapping, and more. Its services also extend
  to surveillance, data theft, espionage, media manipu-
- lation, and infiltration. The hypercorp’s specialty is
+ lation, and infiltration. The hypercorp's specialty is
  pre-empting civil insurgencies and preventing political
- memes and movements from destabilizing a habitat’s
- or sector’s regime. Criticized by civil rights movements
+ memes and movements from destabilizing a habitat's
+ or sector's regime. Criticized by civil rights movements
  CY
 ave been caused by the        are conducted exclusively via a spokes-
  owerful underworld syn-      person AGI. To this day, Zbrny drones
 ystof Zbrny was indebted      continue to mine asteroids for minerals
-knowledging the system        and ores, supplying the company’s pro-
+knowledging the system        and ores, supplying the company's pro-
   headquarters ordered all    cessing stations. According to rumors,
  tations to be abandoned,     an attempt by brinker pirates to board
   either laid off or trans-   a Zrbny outpost resulted in the sta-
-  affected stations. Since    tion’s self-destruction. The company’s
+  affected stations. Since    tion's self-destruction. The company's
  as seen or communicated      AI-piloted massive bulk freighters are
  loyees of the mysterious     notoriously non-responsive, earning
 egotiations with outsiders    them the nickname “zombie ships.”
@@ -93,7 +93,7 @@ egotiations with outsiders    them the nickname “zombie ships.”
     Built from the remains of several pre-Fall South Afri-
     can and Southeast Asian corporations who engaged
     in geo-engineering projects and sought to relieve
-    Earth’s ecological crises, TerraGenesis’s expertise is in
+    Earth's ecological crises, TerraGenesis's expertise is in
     developing sustainable biospheres and eco-systems via
     aggressive industrialized terraforming. TerraGenesis
     is different in that it is a worker-owned cooperative,
@@ -103,7 +103,7 @@ egotiations with outsiders    them the nickname “zombie ships.”
     research stations in orbit around Earth, collecting data
     for simulations of Earth revitalization projects. The
     latter initiative is strongly supported—and possibly
-    financed—by prominent reclaimers. TerraGenesis’s
+    financed—by prominent reclaimers. TerraGenesis's
     work on Mars, however, is often targeted by preser-
     vationist saboteurs. Thanks to their possession of the
     Vulcanoid Pandora Gate (p. 88), the cooperative has a
@@ -111,7 +111,7 @@ egotiations with outsiders    them the nickname “zombie ships.”
     for terraforming or geoengineering.
 
     POLITICAL BLOCS
-    Transhumanity’s social, cultural, and ideological
+    Transhumanity's social, cultural, and ideological
     diversity, combined with its scattered and isolated
     presence in habitat clusters throughout the solar
     system, gives rise to a wide range of political memes

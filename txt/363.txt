@@ -10,15 +10,15 @@ gamemaster is emphasizing (see Cliques, p. 359).
 term strategies and goals that a gamemaster can use
 as desired:
 
- • Seeding other star systems
- • Going legit vs. staying clandestine
- • Development of stable seed AIs
- • Finding out where the TITANs went
- • Finding out what happened to the uploaded tran-
+ - Seeding other star systems
+ - Going legit vs. staying clandestine
+ - Development of stable seed AIs
+ - Finding out where the TITANs went
+ - Finding out what happened to the uploaded tran-
    shumans that the TITANs disappeared with
- • Figuring out the Factors
- • Making contact with other aliens
- • Finding out what happened to the Iktomi and
+ - Figuring out the Factors
+ - Making contact with other aliens
+ - Finding out what happened to the Iktomi and
    other xeno-archeological oddities
 
 FIREWALL AND OTHER ORGANIZATIONS
@@ -34,19 +34,19 @@ and players wish to tell.
   The following is a quick list of the most obvious
 interactions.
 
- • Inner System: Almost all inner system factions
+ - Inner System: Almost all inner system factions
    consider Firewall to be an illegal, rogue operation,
    tainted by anarchists and undermining the very
    fabric of their society. Some hypercorps, however,
    believe they can infiltrate the organization and
    use it for their own ends, such as spying on and
    sabotaging other hypercorps and factions.
- • Jovian Republic: The Junta loathes Firewall and
+ - Jovian Republic: The Junta loathes Firewall and
    all it stands for and will use extreme measures to
    combat even the hint of Firewall activity within
    its sphere of influence.
- • Titanians: Most Titanians in-the-know are
-   not necessarily opposed to Firewall’s activi-
+ - Titanians: Most Titanians in-the-know are
+   not necessarily opposed to Firewall's activi-
    ties, but believe the group should be reined in
    and legitimized.
 
@@ -68,7 +68,7 @@ the corruption of the TITANs and the Fall.
   from humans and that grew into intelligence by
   a different path should seem, at best, bizarre
   unusual, and weird. There is no guarantee that
-  a xenomorph’s thought processes or modes of
+  a xenomorph's thought processes or modes of
   thinking are in any way similar to transhuman
   ones, or even that their emotional responses
   (based on a completely different biology—if they
@@ -81,7 +81,7 @@ the corruption of the TITANs and the Fall.
    No one, not even the Factors, has encountered a
 member (if such exists) of the ETI civilization so far.
 Since it is an intelligence far beyond transhumanity, it
-likely won’t play much of a direct role within Eclipse
+likely won't play much of a direct role within Eclipse
 Phase, though those who learn the truth about the
 Exsurgent virus and the Fall may rightly fear the
 future. No one can even imagine what might happen
@@ -89,9 +89,9 @@ next, however, or know for certain that the ETI has
 not set more “traps” similar to their bracewell probes
 or if they have other messengers or servants active in
 the galaxy. With things such as the Pandora Gates
-at transhumanity’s disposal, it may just be a matter
+at transhumanity's disposal, it may just be a matter
 of time before transhuman explorers run afoul some
-other aspect of the ETI’s existence and activities.
+other aspect of the ETI's existence and activities.
    It is important to keep the nature of the ETI in
 perspective. While transhumanity has managed
 what it considers wonders with a small handful of

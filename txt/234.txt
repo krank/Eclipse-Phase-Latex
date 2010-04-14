@@ -30,7 +30,7 @@ PERSONALITY EDITING
     PM:          Minor –10; Moderate –20, Major –30
     SV:        (1d10 ÷ 2, round up) + 3
    Possibly the most drastic psychosurgery procedure,
-personality editing involves altering the subject’s core
+personality editing involves altering the subject's core
 personality traits. The personality factors that may be
 modified is almost unlimited, including traits such as
 openness, conscientiousness, altruism, extroversion/
@@ -63,7 +63,7 @@ SKILL IMPRINTS
     PM:          +0
     SV:        1 per +10
   Skill imprinting is the use of psychosurgery to insert
-skill-set neural patterns in the subject’s brain, tempo-
+skill-set neural patterns in the subject's brain, tempo-
 rarily boosting their ability. Skill imprints are artificial
 boosts, however, degrading at the rate of –10 per day.
 No skill may be boosted higher than 60.
@@ -74,7 +74,7 @@ SKILL SUPPRESSION
     SV:       1 per +10
   Skill suppression attempts to identify where skills
 are stored in the brain and then block or remove
-them. The subject’s skill is impaired and may be lost
+them. The subject's skill is impaired and may be lost
 entirely.
 
 TASPING
@@ -82,13 +82,13 @@ TASPING
     PM:          +10
     SV:         1
    Tasping is the use of deep brain stimulation tech-
-niques to tickle the mind’s pleasure centers. Though
+niques to tickle the mind's pleasure centers. Though
 this procedure is often used for therapeutic purposes
 for patients suffering from depression or other mental
 illnesses, the intent with tasping is to overload the
 subject into a prolonged state of almost unendurable
 bliss. Such stimulation is highly addictive, however, so
-character’s exposed to it for any length of time (over
+character's exposed to it for any length of time (over
 1 hour, subjective) are likely to pick up the Addiction
 trait (p. 148). Some criminal organizations have been
 known to use tasping addiction and rewards as a

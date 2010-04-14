@@ -17,7 +17,7 @@ done for items that are exotic, extremely complicated, o
 the blueprints are incomplete or otherwise suspect. This t
 be made if the raw materials are limited.
    The character operating the nanofabricator can make
-it can be left up to the nanofabricator’s built-in AI. Mos
+it can be left up to the nanofabricator's built-in AI. Mos
 AIs have a Programming: Nanofabrication skill of 30 (s
 Muses, p. 331).
 
@@ -29,8 +29,8 @@ REPUTATION AND SOCIAL NETWORKS
    —Professor Magnus Ming, Titan Autonomous Univers
 
    The conflict between market capitalism and other fo
-nomics is one of transhumanity’s last great culture wa
-still being fought. Transhumanity’s expansion into the s
+nomics is one of transhumanity's last great culture wa
+still being fought. Transhumanity's expansion into the s
 created myriad opportunities to experiment with new ec
 tems. Many failed, but the reputation economies of the o
 have proven both utilitarian and robust in a way that n
@@ -48,7 +48,7 @@ cal economics. No one could get away with doing this i
 system. In the Trojans and Greeks, much of the belt, free
 anywhere outward from Saturn, the reputation economy
    How did this happen? For one thing, money is a nuis
-you’re an autonomous member of an autonomous collec
+you're an autonomous member of an autonomous collec
 nearest three neighbors (each 100,000 kilometers awa
 autonomous collectives. All of you are almost comp
 sufficient in terms of material resources. You have a flee
@@ -89,7 +89,7 @@ AIs and
 
 
  of eco-
-and it’s
+and it's
  system
 mic sys-
  system

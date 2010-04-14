@@ -1,7 +1,7 @@
                 MESH ABUSES
 The mesh is rife with miscreants, opportu-
  nistic hackers, and people who plain just
-           don’t agree with you. ■ p. 243
+           don't agree with you. ■ p. 243
 
 
 
@@ -10,9 +10,9 @@ The mesh is rife with miscreants, opportu-
 
 
                   Mesh Security: Four prim
-            authentication, ﬁrewalls, active m
+            authentication, firewalls, active m
 
-                   Intrusion: Inﬁltrating a s
+                   Intrusion: Infiltrating a s
                     through the security qui
 
 
@@ -26,7 +26,7 @@ The mesh is rife with miscreants, opportu-
                               with cybernet
                                    9
 o primary threats —people, and
-        people’s tools. ■ p. 243
+        people's tools. ■ p. 243
 
 ethods of security on the mesh:
 toring, and encryption. ■ p. 253

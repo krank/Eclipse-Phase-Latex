@@ -18,14 +18,14 @@ Bonus: 10 CP
    The character experiences intense vertigo and
 nausea when interfacing with any type of virtual real-
 ity, XP, or simulspace. Augmented reality has no effect,
-but VR inflicts a –30 modifier to all of the character’s
-actions. Prolonged use of VR (gamemaster’s discre-
+but VR inflicts a –30 modifier to all of the character's
+actions. Prolonged use of VR (gamemaster's discre-
 tion) may actually incapacitate the character should
 they fail a WIL x 2 Test.
 
 WEAK IMMUNE SYSTEM (MORPH TRAIT)
 Bonus: 10 (Level 1) or 20 (Level 2) CP
-   The morph’s immune system is susceptible to diseas-
+   The morph's immune system is susceptible to diseas-
  es, drugs, and toxins. At Level 1, apply a –10 modifier
 whenever making a test to resist infection or the effects
 of a toxin or drug. At Level 2, increase this modifier to
@@ -47,22 +47,22 @@ CHARACTER ADVANCEMENT
 As characters accomplish goals and gather experience
 during gameplay, they accumulate Rez Points (see
 Awarding Rez Points, p. 384). Rez Points may be used
-to improve the character’s skills, aptitudes, and other
+to improve the character's skills, aptitudes, and other
 characteristics per the following rules. The costs for
 spending Rez Points for advancement are the same as
 the costs for spending Customization Points.
 
 CHANGING MOTIVATION
-It is only natural that over time a character’s driving
+It is only natural that over time a character's driving
 goals and interests will change. The character may
 reach a turning point where they feel certain personal
 agendas have been fulfilled and it is time to move on,
 or they have failed and need to be discarded. New
 urgencies or philosophies may have entered the
-character’s life, or the character may have become
+character's life, or the character may have become
 disenchanted with particular memes and ideas they
 previously took to heart.
-   Changing a character’s motivation does not cost
+   Changing a character's motivation does not cost
 Rez Points, but it is something that should only
 happen in accordance with roleplaying and with
 life-altering events. Players should not be allowed
@@ -71,7 +71,7 @@ should be a driving reason or explanation for doing
 so. For this reason, changing a motivation should only
 happen when the player and gamemaster discuss the
 matter and both agree that the swap is appropriate to
-the character’s development and circumstances.
+the character's development and circumstances.
    If these conditions are met, the character simply
 drops a previously held motivation and takes on a
 new one. Only one motivation should be switched
@@ -85,7 +85,7 @@ Points. See Resleeving, p. 271.
 IMPROVING APTITUDES
 Aptitudes may be raised with Rez Points at the cost of
 10 RP per aptitude point. This represents the charac-
-ter’s improvement in their core characteristics, gained
+ter's improvement in their core characteristics, gained
 from exercise, learning, and experience. Aptitudes may
 not be raised above 30 (bonuses from morphs, im-
 plants, traits, or other sources do not count towards

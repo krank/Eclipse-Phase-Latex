@@ -72,7 +72,7 @@ almost any nanoswarm task. They may also nano-
 fabricate new materials, much like fractals (p. 382).
 Combined, these capabilities make such nanoswarms
 incredibly potent. When they encounter a new op-
-ponent, they can scan the opponent’s capabilities and
+ponent, they can scan the opponent's capabilities and
 then fabricate offensive systems to use against them.
 When an opponent deploys a weapon system again the
 swarm, it will learn and adapt countermeasures that
@@ -96,24 +96,24 @@ swarm will learn from the mistakes of the old.
 for Nanoswarms and Microswarms, p. 328, with the
 following additions and exceptions:
 
-  • They do not need to be sustained by a hive and
+  - They do not need to be sustained by a hive and
     do not deteriorate.
-  • They self-repair damage at the rate of 1d10 per
+  - They self-repair damage at the rate of 1d10 per
     half hour.
-  • They may nanofabricate new items, materials,
+  - They may nanofabricate new items, materials,
     or forms in half the standard timeframe (half an
     hour per Cost category).
-  • They may replicate any of the nanoswarm func-
+  - They may replicate any of the nanoswarm func-
     tions as noted on p. 328, as well as the functions
     of any other nanoswarm-using gear (smart dust,
     covert ops tool, repair spray, etc.).
-  • They may make SOM Tests.
-  • At the gamemaster’s discretion, they may adapt
+  - They may make SOM Tests.
+  - At the gamemaster's discretion, they may adapt
     new defenses against attacks used against them.
     New defenses take a minimum of 2 hours to devise
     and replicate throughout the swarm, after which
     such an attack will inflict minimal or no damage.
-  • Assume they have any skill they need at a mini-
+  - Assume they have any skill they need at a mini-
     mum of 40. Such skills may rapidly improve
     as needed.
  COG     COO    INT    REF    SAV    SOM    WIL    MOX

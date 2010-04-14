@@ -36,7 +36,7 @@ Impersonate skill covers that area).
   When you use it: Use this skill whenever you want
 to deceive someone with words or gestures. A success-
 ful skill test means that you have passed off your de-
-ception convincingly. At the gamemaster’s discretion,
+ception convincingly. At the gamemaster's discretion,
 someone who is actively alert for signs of deception
 may make an Opposed Test using the Kinesics skill.
 Specializations: Acting, Bluffing, Fast Talk
@@ -61,7 +61,7 @@ This includes both the use of props (wigs, contacts,
 skin pigments) and the altering of subtle physical
 characteristics (gait, posture, poise).
   When you use it: Use Disguise to fool someone into
-thinking you’re someone you’re not. This can be used
+thinking you're someone you're not. This can be used
 to hide your identity or to make yourself look like
 someone in particular. When used against someone
 who knows your true look or the appearance of the

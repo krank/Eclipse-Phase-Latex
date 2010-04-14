@@ -1,6 +1,6 @@
     Seeker Rifle (Micromissile/Minimissile): The seeker                 Sprayer: This is a general-purpose two-handed
  rifle comes in a bullpup configuration and fires either             squirtgun, loaded with tanks filled with the chemical
- micromissiles or minimissiles in semi-auto mode. It is              or drug of the wielder’s choice. [Low]
+ micromissiles or minimissiles in semi-auto mode. It is              or drug of the wielder's choice. [Low]
  a two-handed weapons. [High]                                           Torch: This modern flamethrower uses condensed
     Underbarrel Seeker (Micromissile): This seeker                   ammunition capsules rather than fuel tanks, scorch-
  micromissile launcher is commonly attached to the                   ing targets and setting them on fire. Any hit that is

@@ -16,7 +16,7 @@ PREDICTIVE BOOST
    PSI TYPE:   Passive       ACTION:    Automatic
     RANGE:     Self        DURATION: Constant
 The Bayesian probability machine features of the
-async’s brain are boosted by this sleight, enhancing
+async's brain are boosted by this sleight, enhancing
 their ability to estimate and predict outcomes of
 events around them as they unfold in real-time and
 update those predictions as information changes.
@@ -24,7 +24,7 @@ In effect, the character has a more intuitive sense
 for which outcomes are most likely. This grants the
 character a +10 bonus on any skill tests that involve
 predicting the outcome of events. It also bolsters
-the async’s decision-making in combat situations by
+the async's decision-making in combat situations by
 making the best course of action more clear, and so
 provides a +10 bonus to both Initiative and Fray Tests.
 
@@ -71,9 +71,9 @@ Tests.
 SUPERIOR KINESICS
    PSI TYPE:   Passive       ACTION:    Automatic
     RANGE:     Self          DURATION: Constant
-The async acquires more insight into people’s emo-
+The async acquires more insight into people's emo-
 tive signals, gestures, facial expressions, and body
-language when it comes time to predict the person’s
+language when it comes time to predict the person's
 emotional state, intent, or reactions. Apply a +10
 modifier to Kinesics Skill Tests.
 
@@ -96,15 +96,15 @@ UNCONSCIOUS LEAD
     STRAIN MOD: +0
 This sleight allows the async to override their con-
 sciousness and let their unconscious mind take point.
-While in this state, the async’s conscious mind is only
+While in this state, the async's conscious mind is only
 dimly aware of what is transgressing, and any memo-
 ries of this period will be hazy at best. The advantage
 is that the unconscious mind acts more quickly, and
-so the async’s Speed is boosted by +1. The character
+so the async's Speed is boosted by +1. The character
 remains aware and active, but is incapable of com-
 plex communication or other mental actions and is
 motivated by instinct and primitive urges more than
 conscious thought. Though it is recommended that
 the player retain control of their character while using
 Unconscious Lead, the gamemaster should feel free to
-direct the character’s actions as they see fit.
+direct the character's actions as they see fit.

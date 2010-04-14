@@ -9,11 +9,11 @@ Roleplaying games are about creating drama and
 adventure, and that usually means action and              STEP 2: BEGIN FIRST ACTION PHASE
 combat. Action and combat scenes are the moments          Once Initiative is rolled, the fi rst Action Phase
 when the adrenaline really gets pumping and the           begins. Everyone gets to act in the first Action Phase
-characters’ lives and missions are on the line.           (since everyone has a minimum Speed of 1), unless
+characters' lives and missions are on the line.           (since everyone has a minimum Speed of 1), unless
   Combat and action scenarios can be confusing            they happen to be unconscious/dead/disabled, start-
 to run, especially if the gamemaster also needs to        ing with the character with the highest successful
 keep track of the actions of numerous NPCs. For           Initiative roll.
-these reasons, it’s important for the gamemaster to
+these reasons, it's important for the gamemaster to
 detail the action in a way that everyone can visual-      STEP 3: DECLARE AND RESOLVE ACTIONS
 ize, whether that means using a map and miniatures,       The character going first now declares and resolves
 software, a dry-erase board, or quick sketches on         the actions they will take during this first Action
@@ -24,7 +24,7 @@ the story—many tactical factors are also incorpo-         and handled one at a
 rated, so even small details can make a large differ-       As described under Actions (p. 189), each charac-
 ence. It also helps to have the capabilities of NPCs      ter may perform a varying number of Quick Actions
 predetermined and to run them as a group when             and/or a single Complex Action during their turn.
-possible, to reduce the gamemaster’s burden in the        Alternately, a character may begin or continue with
+possible, to reduce the gamemaster's burden in the        Alternately, a character may begin or continue with
 middle of a hectic situation.                             a Task Action, or delay their action pending other
                                                           developments (see Delayed Actions, p. 189).
                                                             A character who has delayed their action may
@@ -43,12 +43,12 @@ the other hand, the characters may be in a situation      Action Phase. Every ch
 where their breathing environment decompresses to         more gets to go through Step 3 again, in the same
 vacuum in 15 seconds, so every second may in fact         Initiative order (modified by wound modifiers).
 count. As a rule, gamemasters should stick with 3         Once the second Action Phase is completed, return
-seconds per turn, but they shouldn’t be afraid to         to Step 2 for the 3rd Action Phase, where every
+seconds per turn, but they shouldn't be afraid to         to Step 2 for the 3rd Action Phase, where every
 fudge the timing either when a situation calls for it.    character with a Speed of 3 or more gets to go for
   Action Turns are meant to be utilized for combat        a third time. Finally, after everyone eligible to go in
 and other situations where timing and the order in        the 3rd Action Phase has gone, return to Step 2 for
 which people act is important. If it is not necessary     a fourth and last Action Phase, where every charac-
-to keep track of who’s doing what so minutely, you        ter with a Speed of 4 can act for one final time.
+to keep track of who's doing what so minutely, you        ter with a Speed of 4 can act for one final time.
 can drop out of Action Turns and return to “regu-           At the end of the fourth Action Phase, return to Step
 lar” free form game time.                                 1 and roll Initiative again for the next Action Turn.
    Each Action Turn is in turn broken down into

@@ -2,10 +2,10 @@ PSI ASSAULT                                                 SEEKER WEAPONS
 Type: Active, Mental, Psi                                   Type: Active, Combat
 Linked Aptitude: WIL                                        Linked Aptitude: COO
   What it is: Psi Assault is the skill of damaging an-        What it is: Seeker Weapons covers the use and
-other ego’s mind. It can only be purchased by charac-       maintenance of seeker launchers (p. 339) and seeker
+other ego's mind. It can only be purchased by charac-       maintenance of seeker launchers (p. 339) and seeker
 ters with the Psi trait (p. 147).                           missiles (p. 340).
   What it does: Use Psi Assault when attacking an-            When you use it: Use this skill when attacking with
-other ego’s mind in psi combat.                             a seeker in ranged combat (p. 191).
+other ego's mind in psi combat.                             a seeker in ranged combat (p. 191).
 Specializations: By sleight                                 Specializations: Armband, Pistol, Rifle, Underbarrel
 
 PSYCHOSURGERY                                               SENSE
@@ -15,7 +15,7 @@ Linked Aptitude: INT                                        Linked Aptitude: INT
 aided psychological techniques to repair, damage, or        characters with the Psi trait (p. 147) may purchase
 manipulate the psyche.                                      this skill.
    When you use it: Use Psychosurgery to attempt the          What it does: See Psi, p. 220.
-tricky process of editing someone’s mind (see Psycho-       Specializations: By sleight
+tricky process of editing someone's mind (see Psycho-       Specializations: By sleight
 surgery, p. 229). Psychosurgery can be used benefi-
 cially to help patients who remember their deaths, feel     SPRAY WEAPONS
 disconnected after remorphing, or have experienced          Type: Active, Combat
@@ -42,7 +42,7 @@ Specializations: Tracking, by information type              vironment can be han
                                                             Swimming over a long distance could be handled as
 SCROUNGING                                                  a Task Action. Diving off a cliff into a lake, prevent-
 Type: Active, Mental                                        ing yourself from being swept away in a raging river
-Linked Aptitude: INT                                        current, or making sure you’ve set a proper gas mix
+Linked Aptitude: INT                                        current, or making sure you've set a proper gas mix
    What it is: Scrounging is your ability to find things,   for a deep-sea dive, among other things, requires a
 particularly things of use or value that are concealed,     Success Test.
 buried, or hard to find. This includes knowing where        Specializations: Diving, Freestyle, Underwater Diving

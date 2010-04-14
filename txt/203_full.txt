@@ -29,9 +29,9 @@ offer thinner and better shielding help, but the sheer     In general, any physi
 magnitude of the radiation put out by some bodies in       fers a –20 penalty due to the resistance of the medium.
 the solar system defeats even these.                       Skills relying on equipment not adapted for underwa-
    Radiation poisoning is a complicated affair, and de-    ter use may be more difficult or impossible to use. A
-tailed rules are beyond the scope of this book. Sources    character’s movement rate while swimming or walking
-of radiation include the Earth’s Van Allen belt, Jupi-     underwater is one quarter their normal rate on land.
-ter’s radiation belt, Saturn’s magnetosphere, cosmic       If a character begins to drown underwater, follow the
+tailed rules are beyond the scope of this book. Sources    character's movement rate while swimming or walking
+of radiation include the Earth's Van Allen belt, Jupi-     underwater is one quarter their normal rate on land.
+ter's radiation belt, Saturn's magnetosphere, cosmic       If a character begins to drown underwater, follow the
 rays, solar flares, fission materials, unshielded fusion   rules for asphyxiation (p. 194). Note that drowning
 or antimatter explosions, and nuclear blasts, among        characters do not immediately recover if rescued from
 others. Effects can vary drastically depending on the      the water; they will continue to asphyxiate until medical

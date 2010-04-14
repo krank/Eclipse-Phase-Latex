@@ -4,7 +4,7 @@
  still be re-instantiated from an archived backup (p.
  268). Again, this either requires backup insurance or
  someone who is willing to pay to have them revived.
-    If the character’s cortical stack is not retrieved
+    If the character's cortical stack is not retrieved
  and they have no backup, then they are completely
  and utterly dead. Gone. Kaput. (Unless they happen
  to have an alpha fork of themselves floating around
@@ -55,13 +55,13 @@ Character using nanobandage
 Character with medichines
 Poor conditions (bad food, not enough rest/heavy activity,
 poor shelter and/or sanitation)
-Harsh conditions (insufﬁcient food, no rest/strenuous activity,
+Harsh conditions (insufficient food, no rest/strenuous activity,
 little or no shelter and/or sanitation)
   NATURAL HEALING
   Characters trapped far from medical technology—in
   a remote station, the wilds of Mars, or the like—may
   be forced to heal naturally if injured. Natural healing
-  is a slow process that’s heavily influenced by a number
+  is a slow process that's heavily influenced by a number
   of factors. In order for a character to heal wounds,
   all normal damage must be healed first. Consult the
   Healing table.

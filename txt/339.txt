@@ -1,7 +1,7 @@
 exchangeable. For example, all railgun SMGs can
 share ammo.
-  The ammunition’s Damage Value and Armor Pen-
-etration modifiers are added to the weapon’s base
+  The ammunition's Damage Value and Armor Pen-
+etration modifiers are added to the weapon's base
 DV and AP. With the exception of regular and armor-
 piercing rounds, none of this ammunition may be
 used with railguns. Listed costs are per 100 rounds
@@ -10,10 +10,10 @@ of ammunition.
 penetrates armor effectively. [Low]
    Bug: Bug rounds are equipped with a microbug and
 medical sensor nanobots. They attempt to gather in-
-formation on the target’s location (via standard mesh
-tracking), health (querying the target’s medichines),
+formation on the target's location (via standard mesh
+tracking), health (querying the target's medichines),
 and surroundings (typically hindered by being inside
-the target’s body). They will transmit status reports
+the target's body). They will transmit status reports
 in a pre-programmed manner via the mesh or a pre-
 chosen frequency band either continuously or in pre-
 set intervals. [Low]

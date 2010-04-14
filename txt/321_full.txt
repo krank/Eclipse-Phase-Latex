@@ -22,11 +22,11 @@ in fact may not even be aware they are injured. Grin
 users suffer from tunnel vision, however, and so suffer
 a –10 modifier on Perception Tests. [Low]
    Kick: Kick is a strong stimulant that increases the
-user’s response time and puts them on edge. The char-
+user's response time and puts them on edge. The char-
 acter gains +10 REF and +1 Speed for the duration of
 the drug. Characters under the influence of Kick are
 twitchy, however, reacting in a jumpy, cat-like fashion
-to sudden or unexpected stimuli. At the gamemaster’s
+to sudden or unexpected stimuli. At the gamemaster's
 discretion, they must make a WIL x 2 Test or react
 without thinking towards unexpected noises or other
 surprises. Long-term users suffer –5 COO. [Moderate]
@@ -50,7 +50,7 @@ foolish or dangerous (apply a –10 modifier to appro-
 priate Social Skill Tests). [Moderate]
 
 HEALTH DRUGS
-Pharma-foods that boost the consumer’s health and
+Pharma-foods that boost the consumer's health and
 physical state are common.
   Bananas Furiosas: This drug reverses some of the
 effects of de-ionizing radiation on the cells of the

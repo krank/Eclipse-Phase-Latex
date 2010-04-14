@@ -4,7 +4,7 @@
                                                                      OTHER NANODRUGS
                                                                      Nanodrugs have the capability of making fun-
     Hither: Want to ooze sexy like a pleasure morph
-                                                                     damental changes to a body’s biochemistry and
+                                                                     damental changes to a body's biochemistry and
  on a hot tin roof? For those desiring that slinky je-ne-
                                                                      mental state. The potential effects are too nu-
  sais-quoi, Hither is the tool. Hither is a clear, slippery
@@ -25,7 +25,7 @@
                                                                      lergy, Timid, VR Conditioning, VR Vertigo, Weak
  Tests against targets who are possible to seduce. At the
                                                                      Immune System, or Zero-G Nausea. Similarly,
- gamemaster’s discretion, this extends to Deception,
+ gamemaster's discretion, this extends to Deception,
                                                                      the nanodrug could force the character into a
  Impersonate, and Networking Tests. [Low]
                                                                      particular mental emotional state, such as a bad
@@ -47,10 +47,10 @@
  apply a specific effect.                                             Schizo: Schizo is a nanodrug that mirrors the ef-
     Frequency: Frequency (or Freeq) is a nanodrug de-              fects of paranoid schizophrenia. It is popular in
  signed as a tool for scientific visualization. It releases        some hyperelite social circles as a truly daring and
- a small swarm of nanobots into the character’s blood-             intriguing experience. A dose of schizo looks like a
+ a small swarm of nanobots into the character's blood-             intriguing experience. A dose of schizo looks like a
  stream that settle in the epidermis, where they act as            disposable antique razor blade. Making an incision
  sensors of electromagnetic radiation. This sensory                in the skin releases a swarm of nanobots that travel
- input is then injected into the character’s visual and            to the central nervous system and induce the effects
+ input is then injected into the character's visual and            to the central nervous system and induce the effects
  tactile sensoria, hitting the user with a sequence of             of the drug. While in effect, the character is severely
  novel stimuli, typically a light show or weird tactile            paranoid and hears voices. How this plays out is at
  sensations. Aside from its recreational uses, Frequency           the discretion of the gamemaster, but should include
@@ -62,7 +62,7 @@
  can be disorienting and upsetting (the gamemaster                 Friends and trusted acquaintances are probably less
  should apply any modifiers, mental stress, or even                likely to be targets of violence (+30 modifier to avoid
  trauma as they feel appropriate). Characters typically            hurting people the character cares about or destroy-
- experience a period about 1/3 of the way through                  ing important possessions). Note that the character’s
+ experience a period about 1/3 of the way through                  ing important possessions). Note that the character's
  their trip in which sensory input is extremely intense;           muse is unaffected by Schizo and can make efforts
  during this period, which usually lasts about 2 hours,            to babysit the character. Characters who take Schizo
  they are unable to read. [Moderate]                               suffer 1d10 mental stress. [Low]

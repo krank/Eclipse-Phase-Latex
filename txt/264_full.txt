@@ -13,7 +13,7 @@ This is a one-way connection, so the cortical stack may       While simulspaces 
 not be hacked, but the transfer of data may be cut off.    immersed in them as the sensory algorithms are not
 This termination action requires an Opposed Infosec        intended to be offensive programs or routines, experi-
 Test between the hacker (with the –30 modifier) and        ences in simulspaces can have a strong psychological
-the defender. The ego’s backup will not be updated for     impact on an ego, as the simulation is as close to
+the defender. The ego's backup will not be updated for     impact on an ego, as the simulation is as close to
 as long as the connection remains off.                     reality as you can get. A character who is “physically”
                                                            tortured within a simulspace will not be physically
                                                            harmed, but the mental stress of the experience might
@@ -42,11 +42,11 @@ Action (transhuman users may also do the same). In         characters are likely
 this case, a Variable Opposed Test is made between         tion. These statistics can literally be made up—it is a vir-
 the jammer and defender. If the jammer wins, all com-      tual reality after all, and anything goes. Alternately, the
 munications are blocked; if the defender wins, they        gamemaster can simply wing it and invent any necessary
-are unaffected. If both parties succeed, the defender’s    statistics on the fly as the need for them comes up.
+are unaffected. If both parties succeed, the defender's    statistics on the fly as the need for them comes up.
 communications are impacted but not completely cut
 off. The gamemaster decides how much information           IMMERSION
 the defender can get through, and how this situation       When a character immerses themselves in a simulspace,
-affects mesh use.                                          they “become” the simulmorph. The character’s physi-
+affects mesh use.                                          they “become” the simulmorph. The character's physi-
                                                            cal body, typically secluded and protected in a vat or
 JAMMING RADAR                                              couch, slumps inertly. While immersed, they suffer –60
 Jamming can also be used to interfere with radar. In       on all Perception Tests or attempts to take action with

@@ -7,7 +7,7 @@ modifier to all other actions for 20 minutes (5 min-          locate, migrate, a
 utes if the character has medichines). [Low]                  case of a cortical stack within a morph by attacking
    Flight: This drug is derived from human pheromones         its crystal lattice. This process takes approximately
 released due to fear, and is intended to instill alarm or     6 hours, after which the cortical stack is destroyed.
-even terror in the character. Affected characters must        These nanobots also attack the cortical stack’s connec-
+even terror in the character. Affected characters must        These nanobots also attack the cortical stack's connec-
 make a WIL x 3 Test (+30 with medichines) or suffer           tions to the (cyber)brain and brain-mapping nanobots.
 a panic attack, inflicting 1d10 stress. Dosed characters      After 1 hour, the victim will be aware that their corti-
 also suffer a –30 modifier for resisting intimidation or      cal stack is threatened. After 3 hours, all connections
@@ -27,7 +27,7 @@ will die unless an antidote (such as atropine, p. 323) is     Most biomorphs are
 applied. Characters with medichines suffer the initial        thanks to their basic bio-mods, and medichines will
 effects, but recover after 5 minutes. [High]                  protect against most others. However, even these
    Oxytocin-A: A genetically-improved variant of oxy-         defenses may not protect against diseases left by
-tocin, this drug induces trust in the recipient. Drugged      the TITANs or a new terrorist cell’s biowar bug. It
+tocin, this drug induces trust in the recipient. Drugged      the TITANs or a new terrorist cell's biowar bug. It
 characters suffer a –30 modifier on all WIL and Kine-         is largely recommended that pathogens be handled
 sics Tests where trust is a factor. Medichines provide        as a plot device, rather than an active threat to the
 immunity. [Low]                                               characters. Pathogens have no effect on synthmorphs.

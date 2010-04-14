@@ -1,7 +1,7 @@
                                                                    characters are usually made part of the personal area
- MESHED GEAR                                                       network and slaved to the character’s mesh inserts/
+ MESHED GEAR                                                       network and slaved to the character's mesh inserts/
 Almost all technology in Eclipse Phase is designed                 ecto. For more info on meshed devices, see the Mesh
-to be operated via radio signals from the user’s basic             chapter, p. 234.
+to be operated via radio signals from the user's basic             chapter, p. 234.
 implant, although models usable by characters with-                  Many devices come equipped with AIs, who are
 out basic implants are also available. In addition all             equipped with skillsofts that enable them to oper-
 devices contain a nearly microscopic computer and                  ate the device on their own, as according to voiced

@@ -1,5 +1,5 @@
 SITUATIONAL AWARENESS                                          Minor: A minor addiction is largely kept under
-Cost: 10 CP                                                 control—it does not ruin the character’s life, though
+Cost: 10 CP                                                 control—it does not ruin the character's life, though
   The character is very good at maintaining con-            it may create some difficulties. The character may not
 tinuous partial awareness of the goings-on in their         even recognize or admit they have a problem. The
 immediate environment. In game terms, they do not           character must indulge the addiction at least once
@@ -13,15 +13,15 @@ Cost: 10 (Level 1) or 20 (Level 2) CP                       satisfy the addictio
    In an age where biosculpting is easy, good looks are     to do so, they may suffer mood swings, compulsive
 both cheap and commonplace. This morph, however,            behavior, physical sickness, or other side effects until
 possesses a physical look that can only be described as     they indulge their craving. Apply a –20 modifier to
-striking and unusual, but also somehow alluring and         all of the character’s actions until they get their fix.
+striking and unusual, but also somehow alluring and         all of the character's actions until they get their fix.
 fascinating—even the gorgeous and chiseled glitterati       Additionally, a character with this level of addiction
-take notice. On social skill tests where the character’s    suffers a –5 DUR penalty.
+take notice. On social skill tests where the character's    suffers a –5 DUR penalty.
 beauty may affect the outcome, they receive a +10 (for         Major: A character with a major addiction is on
 Level 1) or +20 (for Level 2) modifier. This modifier       the rapid road to ruin. They face cravings every 6
 is ineffective against xenomorphs or those with the         hours, and suffer a –10 DUR penalty as their health
 infolife or uplift backgrounds. This trait is only avail-   is affected. If they fail to get their regular dosage, they
 able to biomorphs.                                          suffer a –30 modifier on all actions until they do. If
-   This modifier may be purchased for uplift morphs,        their life hasn’t already been ruined by their obsession,
+   This modifier may be purchased for uplift morphs,        their life hasn't already been ruined by their obsession,
 but at half the cost, and it is only effective against      it soon will be.
 characters with that specific uplift background (i.e.,
 neo-avians, neo-hominids, etc.).                            AGED (MORPH TRAIT)
@@ -30,7 +30,7 @@ is more easily noticed and remembered.                        The morph is physi
                                                             rejuvenated. Old morphs are increasingly uncom-
 TOUGH (MORPH TRAIT)                                         mon, though some people adopt them hoping to
 Cost: 10 (Level 1), 20 (Level 2), or 30 (Level 3) CP        gain an air of seniority and respectability. Reduce
-   This morph is resilient than others of its type and      the character’s aptitude maximums by 5, and apply
+   This morph is resilient than others of its type and      the character's aptitude maximums by 5, and apply
 can take more physical abuse. Increase their Durabil-       a –10 modifier on all physical actions.
 ity by +5 per level (+5 at Level 1, +10 at Level 2, and       This trait may only be applied to flat and splicer
 +15 at Level 3). This also increases Wound Threshold        morphs.
@@ -40,20 +40,20 @@ ZOOSEMIOTICS                                                Bonus: 30 CP
 Cost: 5                                                        Due to some inexplicable cosmic coincidence,
   A character with this trait and the Psi trait does        things seem to go wrong around the character. The
 not suffer a modifier when using psi sleights on non-       gamemaster is given a pool of Moxie points equal
-sentient or partly-sentient animal species.                 to the character’s Moxie stat, which also refreshes
-                                                            at the same rate as the character’s Moxie. Only the
+sentient or partly-sentient animal species.                 to the character's Moxie stat, which also refreshes
+                                                            at the same rate as the character's Moxie. Only the
 NEGATIVE TRAITS                                             gamemaster may utilize this Moxie, however, and
   Negative traits generally hinder the character and        the purpose is to use it against the character. In other
 apply negative modifiers in certain circumstances.          words, the gamemaster can use this bad Moxie to
                                                             cause the character to automatically fail, flip-flop a
 ADDICTION (EGO OR MORPH TRAIT)                              roll, and so on. To reflect the black cloud that fol-
 Bonus: 5 CP (Minor), 10 CP (Moderate), or 20 CP             lows the character, the gamemaster can even use this
-   (Major)                                                  bad Moxie against the character’s friends and allies,
+   (Major)                                                  bad Moxie against the character's friends and allies,
   Addiction comes in two forms: mental (affecting           when they are doing something with or related to
 the ego) and physical (affecting the biomorph). The         the character, though this should be used sparingly.
 character or morph is addicted to a drug (p. 317),          Gamemasters who might be reluctant to sabotage the
 stimulus (XP), or activity (mesh use) to a degree that      character should remember that the player asked for
-impacts the character’s physical or mental health.          it by purchasing this trait.
+impacts the character's physical or mental health.          it by purchasing this trait.
 Players and gamemasters should work together to
 agree on addictions that are appropriate for their
 game. Addiction comes in three levels of severity:

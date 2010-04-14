@@ -11,7 +11,7 @@ character has access to the computer that is sending
 or receiving the signal.
                                                               obtaining information on someone who wants
   Miniature Radio Farcaster: Miniature farcasters
-                                                              to retain privacy can be quite difﬁcult. Micro-
+                                                              to retain privacy can be quite difficult. Micro-
 communicate with each other using standard radio
                                                               bugs, smart dust, and similar recording devices
 transceivers. As noted above, they may only securely
@@ -37,7 +37,7 @@ of entangled particles known as qubits. To use QE,
 large number of pairs of qubits are created and then
                                                               (p. 314), but those are far larger and more dif-
 separated from each other. Millions of these sepa-
-                                                              ﬁcult to hide. Often the most effective way to
+                                                              ficult to hide. Often the most effective way to
 rated pairs of particles are stored in special containers
                                                               acquire discrete information is to plant a surveil-
 known as qubit reservoirs. If two QE communicators
@@ -45,11 +45,11 @@ known as qubit reservoirs. If two QE communicators
 each have a qubit reservoir containing qubits that are
                                                               then retrieve it later. While doing this is often
 each entangled with qubits in the other communica-
-                                                              difﬁcult and risky, the recording device never
-tor’s qubit reservoir, then characters can use the two
+                                                              difficult and risky, the recording device never
+tor's qubit reservoir, then characters can use the two
                                                               reveals its presence by broadcasting and so is
 QE communicators to commutate with one another
-                                                              more difﬁcult to detect.                        ■
+                                                              more difficult to detect.                        ■
 instantaneously. Characters can use QE to instantly
 communicate between any two locations, even if one
 character is in the solar system and the other has
@@ -74,8 +74,8 @@ replaced, they are rarely implanted. Some miniature         Tests to avoid being
 farcasters are designed so that users can also attach          Chameleon cloaks are not effective against radar,
 qubit reservoirs to enable them to be used for both         x-ray, or gamma-ray sensors. They do hide the char-
 light speed and FTL communication. [Low]                    acter from thermal infrared, however, by absorbing
-   Low-Capacity Qubit Reservoir: Low-capacity qubit         the character’s body heat into its heat sink. The cloak
-reservoirs can be used for 10 hours of high-resolution      can only absorb a character’s body heat for one hour
+   Low-Capacity Qubit Reservoir: Low-capacity qubit         the character's body heat into its heat sink. The cloak
+reservoirs can be used for 10 hours of high-resolution      can only absorb a character's body heat for one hour
 video conferencing or meshbrowsing and 100 hours            before it must emit this heat. Heat emission also re-
 of voice or text only communications. [High]                quires one hour, during which time the character is
    High-Capacity Qubit Reservoir: High-capacity qubit       easily visible in the thermal infrared spectrum. [Low]

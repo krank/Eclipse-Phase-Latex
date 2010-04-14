@@ -6,13 +6,13 @@
  and similar things for friends and colleagues.                                   Any undesired content of reality can be edited out,
                                                                                   veiled, or censored by modern software programs or
  SKINNING                                                                         muses that engage in real-time editing. Tired of look-
- Since reality can be overlaid with entoptics of hyper-                           ing at someone’s face? Add them to your killfile, and
- real quality, modern users can “skin” their reality by                           you’ll never have to acknowledge their presence again.
+ Since reality can be overlaid with entoptics of hyper-                           ing at someone's face? Add them to your killfile, and
+ real quality, modern users can “skin” their reality by                           you'll never have to acknowledge their presence again.
  modifying their perceptual input. Environments around                            AR censorware is also common in some communities
  them may be modified to fit their particular tastes or                           with strict religious or moral convictions.
  mood. Need your spirits boosted? Pull up a skin that
  makes it seems like your outdoors, with the sun shining                          VIRTUAL REALITY
- down, the sounds of gentle surf in the background, and                           Virtual reality overrides the user’s physical senses and
+ down, the sounds of gentle surf in the background, and                           Virtual reality overrides the user's physical senses and
  butterflies drifting lazily overhead. Pissed off? Be com-                        places them inside an entirely computer-generated
  forted as flames engulf the walls and thunder grumbles                           environment called a simulspace. While AR is used
  ominously in the distance. It is not uncommon for                                for all common day activities and interactions, VR is
@@ -23,7 +23,7 @@
  or freshly-baked pastries. While originally developed                            are required to render and run large and complex
  to make “space food” less distasteful and as a method                            hyper-real simulspaces with many users, and these
  to counter space-induced cabin fever for those that                              are often hard-wired for additional stability. Smaller
- weren’t born in space, vast archives of aromas, tastes,                          simulspaces capable of hosting a smaller amount of
+ weren't born in space, vast archives of aromas, tastes,                          simulspaces capable of hosting a smaller amount of
  and environments are available for download.                                     users can be run on a smaller distributed network of
     Skins do not need to be kept private, they may                                linked devices. Many infomorphs and AIs effectively
  also be shared with others via the mesh. Tired of                                reside within simulspaces, and some transhumans
@@ -37,40 +37,40 @@ JABBER
        # Active Members: 2 #                                                            great lengths to make sure that everyone had access to the
                                                                                         detection signatures and countermeasures—and we mean ev-
            1
-             I have to tell you, after losing Kiri and Sal to that Exsurgent            eryone. They’ve been incorporated in almost every commercial
+             I have to tell you, after losing Kiri and Sal to that Exsurgent            eryone. They've been incorporated in almost every commercial
              infection, my team is a lot more worried about contracting the             and open source security software released in the past decade.
-             virus from digital sources. Actually, I’d label them as paranoid.          Every habitat in the system—well, every one with a lick of
-             I don’t think they’ll ever touch any salvaged electronics again            sense anyway—employs such measures in their chokepoints
-             unless they’re behind a zillion ﬁrewalls and the device is com-            and mesh infrastructure.
+             virus from digital sources. Actually, I'd label them as paranoid.          Every habitat in the system—well, every one with a lick of
+             I don't think they'll ever touch any salvaged electronics again            sense anyway—employs such measures in their chokepoints
+             unless they're behind a zillion firewalls and the device is com-            and mesh infrastructure.
              pletely isolated and tested by a delta fork loaded with every
                                                                                       1
                                                                                         I sense a “but.”
-             antiviral ware we can ﬁnd ﬁrst. Even then, they’d rather shoot it    2
+             antiviral ware we can find first. Even then, they'd rather shoot it    2
                                                                                         Yes. The problem is that the Exsurgent virus and similar TITAN
-             than access directly or hook it up to an important network. After          infowar worms are adaptive. They’re intelligent. Even though
-             seeing what the virus did to Sal, I don’t blame them.                      we mostly eradicated them from our networks, new versions
+             than access directly or hook it up to an important network. After          infowar worms are adaptive. They're intelligent. Even though
+             seeing what the virus did to Sal, I don't blame them.                      we mostly eradicated them from our networks, new versions
        2
              In our line of work, paranoia can be healthy.                              periodically pop up, using some new trick to get past the
            1
-             Sure, but it’s also a pain in the ass. Security is always a trade-         Firewall scans and wreak havoc. Our warning and outbreak
-             off. Firewall’s gotta have something up its sleeve that I can pass         response system has it down to a science, and such instances
+             Sure, but it's also a pain in the ass. Security is always a trade-         Firewall scans and wreak havoc. Our warning and outbreak
+             off. Firewall's gotta have something up its sleeve that I can pass         response system has it down to a science, and such instances
              along to the rest to put their guards at ease.                             are usually contained.
        2
-             Yes ... and no. It’s complicated.
+             Yes ... and no. It's complicated.
                                                                                       1
                                                                                         Usually.
            1
-             I don’t see why. Do we have a way of detecting and killing this
+             I don't see why. Do we have a way of detecting and killing this
                                                                                   2
-                                                                                        Well, there’s always the chance that variants are still skipping
-             thing or not?                                                              around out there, under our radar. What’s worse to contemplate,
+                                                                                        Well, there's always the chance that variants are still skipping
+             thing or not?                                                              around out there, under our radar. What's worse to contemplate,
                                                                                         though, is that we may get another major outbreak that spreads
        2
              Sort of.
                                                                                         to multiple habitats before we can contain it. That might get
            1
-             You’re killing me.
+             You're killing me.
                                                                                         very, very bad, very, very quickly.
        2
-             Look. Ever since the Fall, we’ve had measures in place to
+             Look. Ever since the Fall, we've had measures in place to
              detect and counteract Exsurgent infections and all of the other

@@ -12,7 +12,7 @@ These may range from accumulating knowledge and
 expertise on how transhumanity functions as a spe-
 cies to forcibly uploading mass numbers of minds to
 more esoteric goals such as manufacturing a halfnium
-bomb or converting the solar system’s mass to compu-
+bomb or converting the solar system's mass to compu-
 tronium. The Exsurgent virus is potent and intelligent,
 and while its methods and goals may sometimes be
 opaque to transhumanity, it acts with direction and
@@ -83,7 +83,7 @@ applied to transformed characters, then gives example
 aptitude/skill ratings for NPC exsurgents.
   Note that simply encountering transformed exsur-
 gents is stressful to the minds of many transhumans.
-At the gamemaster’s discretion, such encounters may
+At the gamemaster's discretion, such encounters may
 inflict 1d10 + 3 mental stress (p. 215).
 
 CREEPERS (SYNTHMORPHS)

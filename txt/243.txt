@@ -1,4 +1,4 @@
-DEFYING NATURE’S LAWS
+DEFYING NATURE'S LAWS
 A plethora of simulspace environments are available,
 ranging from simulations of real places to historical
 recreations to fantastic worlds representing almost
@@ -27,11 +27,11 @@ more tolerable.
 ACCESSING SIMULSPACES
 Most simulspaces can be accessed through the mesh
 just like any other node. Since VR takes over the
-user’s sensorium, however, and sometimes involves
+user's sensorium, however, and sometimes involves
 time perception dilation, users are cut off from other
 mesh-delivered sensory input and interacting directly
 with other nodes. Instead, outside mesh interactions
-are routed through the simulspace’s interface (mean-
+are routed through the simulspace's interface (mean-
 ing that a character may browse the mesh, communi-
 cate with others, etc. from inside a simulspace, if the
 domain rules allow it).
@@ -74,7 +74,7 @@ traditional senses of sight, smell, hearing, touch, and
 taste that process the outside world. Interoceptive
 tracks include senses originating within the body, such
 as balance, a sense of motion, pain, hunger and thirst,
-and a general sense of the location of one’s own body
+and a general sense of the location of one's own body
 parts. Emotive tracks include the whole spectrum of
 emotions which can be aroused in a transhumans.
 Due to the biological requirements (neuronal and
@@ -100,7 +100,7 @@ the latest newsfeeds, browsing mesh sites, tracking
 your friends, taking lessons in VR, or looking up just
 about anything conceivable. Recreation rounds out
 the pack, covering everything from gaming (AR and
-VR) to experiencing other people’s lives (XP) to VR
+VR) to experiencing other people's lives (XP) to VR
 tourism and club-hopping.
 
 PERSONAL AREA NETWORKS

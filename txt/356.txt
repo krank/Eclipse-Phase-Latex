@@ -9,7 +9,7 @@ the wake of the Fall) developed the first true seed AIs
 years before the Fall. Having been heavily involved in
 the creation of AI and AGIs for many years previously,
 thanks in large part to their open source AI frame-
-work software, the Singularity Foundation’s goal was
+work software, the Singularity Foundation's goal was
 to generate “friendly AI” by carefully designing AI
 goal systems.
      These first seed AIs, known as Prometheans
@@ -55,7 +55,7 @@ ment projects” that people assumed were legitimate
 as they followed all proper protocols.
 
 INFECTION
-As the TITANs’ capacity for knowledge exceeded
+As the TITANs' capacity for knowledge exceeded
 that which humanity could provide them, they began
 looking outward from Earth, searching for signs of
 other intelligence. They did not need to look far. Their
@@ -65,7 +65,7 @@ puzzles—that something about the solar system was
 artificial or had been manipulated by an intelligent
 mind. Retasking several drones to investigate this phe-
 nomenon, they found a buried device of apparent alien
-origin. During the TITANs’ investigation and attempts
+origin. During the TITANs' investigation and attempts
 to access the device, they triggered and unleashed a
 digital virus. Subtle, highly adaptive, and virulent, it
 immediately began subsuming the TITANs, while

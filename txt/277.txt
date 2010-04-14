@@ -62,7 +62,7 @@ Under 1 hour         +30      Seamless ego with memories inta
          Forking and merging have changed the way
          transhumanity thinks about the self and what
          it means to have a well-integrated personality.
-            While forking is child’s play from a tech
+            While forking is child's play from a tech
          nological standpoint, the psychological and
          social effects of cloning a mind mean that
          most people are cautious about employing
@@ -76,13 +76,13 @@ Under 1 hour         +30      Seamless ego with memories inta
          Similarly, the Jovian Junta and other biocon
          servatives ban forking entirely.
             Disposing of unwanted forks is another
-         thorny issue. In some places, it’s as simple as
+         thorny issue. In some places, it's as simple as
          deleting them, because a stored mind has no
-         legal status. In others, a fork that doesn’t wish
+         legal status. In others, a fork that doesn't wish
          to merge back with its originating ego might
          be accorded some rights, though these are
          generally only granted to alpha forks.
-            Most signiﬁcantly, though, running a short
+            Most significantly, though, running a short
          term fork of oneself for periods of an hour
          or less is an easy task for many transhumans
          Many people use forks of themselves to get
@@ -98,9 +98,9 @@ Under 1 hour         +30      Seamless ego with memories inta
 
 
 
-    Egocasting is transhumanity’s most advanced
+    Egocasting is transhumanity's most advanced
   personal transportation technology, though only the
-  character’s ego actually travels. Egocasting combines
+  character's ego actually travels. Egocasting combines
   the technologies of uploading and quantum farcasting
   to transfer a backup (or sometimes even a conscious
   ego, see p. 269) over interplanetary distances.

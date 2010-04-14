@@ -5,7 +5,7 @@ T
 
 w
 USING KNOWLEDGE SKILLS
-t ﬁrst glance, it may seem that Knowledge skills have
+t first glance, it may seem that Knowledge skills have
  wer in-game applications than Active skills. To some
 egree this is the case. The importance of Knowledge
   ills, however, should not be underestimated. While
@@ -21,19 +21,19 @@ ocio-economic factors, or cultural or historical context.
  to a facility could use Profession: Security Procedures
 o evaluate the defenses, Academic: Architecture to
  entify covert points of entry, Interests: Sports to plan
-  eir inﬁltration at a time when the guards are likely to
+  eir infiltration at a time when the guards are likely to
 e distracted, Interests: Triads to identify a local crime
 roup that can sell them breaking and entering gear,
 nd Art: Sculpture when picking a valuable art piece
  ith which to bribe an insider. When used appropriately,
-hese skills can be just as beneﬁcial as the Active skills
+hese skills can be just as beneficial as the Active skills
 sed to break inside, if not more so because the plan
  more likely to succeed as a result of this preparation.
   It is largely up to the gamemaster to enforce how
 seful Knowledge skills are in their game. The easiest
  ay to reinforce their relevance is to penalize charac-
- rs who don’t take advantage of them. For example,
-haracters who didn’t use their Profession: Security
+ rs who don't take advantage of them. For example,
+haracters who didn't use their Profession: Security
   ocedures in the example above might end up being
 urprised when they run across a security system they
  e not prepared to deal with, forcing them to impro-

@@ -4,7 +4,7 @@ ing NPCs that the characters interact or fight
 with, the question of Moxie for NPCs must be
 addressed. When it comes to run-of-the-mill
 grunt NPC characters, we recommend that such
-NPCs don’t be given Moxie. The reasons for this
+NPCs don't be given Moxie. The reasons for this
 are simple. For one, it is one less stat/headache
 for the gamemaster to keep track of. More im-
 portantly, however, it represents the edge that
@@ -27,7 +27,7 @@ climax you have worked so hard to set up.       ■
  points, you have notes not only on their character
  stats, but what they remember.
     Alternately, you can keep a log of all of your
- character’s developments, noted by in-character
+ character's developments, noted by in-character
  date. These developments would include: Rez Points
  spent or earned, character advancements made, key
  information acquired, backups made, alpha or beta
@@ -45,7 +45,7 @@ climax you have worked so hard to set up.       ■
  the meaning of (trans)humanity and its very survival
  are at stake. In practice, however, your campaign can
  take on a wide assortment of flavors or even mix
- several styles together. There’s nothing that says you
+ several styles together. There's nothing that says you
  have to play Eclipse Phase specifically according to
  the guidelines we set out. This section covers topics
  you should think about while preparing a campaign
@@ -56,42 +56,42 @@ climax you have worked so hard to set up.       ■
  The gamemaster has certain responsibilities that will
  keep a game flowing smoothly. The following is a
  short summary of the basics.
-  • The gamemaster should be familiar with the
-    whole game. This doesn’t mean the rulebook
+  - The gamemaster should be familiar with the
+    whole game. This doesn't mean the rulebook
     must be memorized. An understanding of the core
     mechanics is a must, however, as well as knowing
     where to find other rules quickly, as needed.
-  • The gamemaster should have solid notes on the
+  - The gamemaster should have solid notes on the
     plots and subplots created for each session. Noth-
     ing will ensure you prepare better next time like
     having the players catch you in a major continu-
     ity error due to lack of notes.
-  • The gamemaster doesn’t just set the scene, they
+  - The gamemaster doesn't just set the scene, they
     play all the non-player characters that populate
     the universe. Making each NPC convincing, while
     not messing up a plot or losing the thread of a
     scene, can be difficult. Notes are your friend.
-  • Know when it’s time to toss the dice and trust
+  - Know when it's time to toss the dice and trust
     to the game mechanics to resolve a situation and
-    when it’s better to ride out a situation through
+    when it's better to ride out a situation through
     storytelling and dialog. This is an acquired skill.
-    The more practice you have, the better you’ll get.
-  • Don’t cheat. Your NPCs should not have access
-    to information they’ve not gained during game
+    The more practice you have, the better you'll get.
+  - Don't cheat. Your NPCs should not have access
+    to information they've not gained during game
     play. If you roll terribly for your major antago-
     nist at the height of the story and they fall with
     a whimper, roll with it. Be flexible and improvise
     in such situations. Your players are smart and
-    perceptive and will know when you’re forcing
+    perceptive and will know when you're forcing
     a situation with unfair tactics. At the same time,
-    they’ll also know when you’ve stepped up and
-    run with the flow—and they’ll thank you for it.
+    they'll also know when you've stepped up and
+    run with the flow—and they'll thank you for it.
 
 FUNDAMENTALS
-It’s possible to stumble into a campaign without ever
+It's possible to stumble into a campaign without ever
 really making an effort to find out what everyone
 wants, shooting into the darkness and happening to
-score a bullseye, but it’s not a very reliable way to go.
+score a bullseye, but it's not a very reliable way to go.
 Successful campaigns usually begin with communica-
 tion. As you begin to prepare your campaign, talk to
 your players. Explain the basics of the Eclipse Phase
@@ -99,15 +99,15 @@ setting and let them look over the options for charac-
 ters and tell you what they find interesting. Also take
 note of what they find uninteresting or even repellent,
 so that nobody wastes a lot of time getting set for op-
-tions that simply won’t be enjoyable in play.
+tions that simply won't be enjoyable in play.
 
 CHALLENGES TO PLAYERS
 Eclipse Phase is set in a time of catastrophic troubles
-and looming disasters, and it’s full of facts and con-
+and looming disasters, and it's full of facts and con-
 cepts that may be heady or even uncomfortable to
 some players—not to mention their characters. One of
 the fundamental questions for each gaming group is,
-how much challenge to the players’ sense of comfort is
+how much challenge to the players' sense of comfort is
 a good idea? There is no single answer, because tastes
 vary. There are groups whose players thrive on a diet
 of culture shock, ideological disorientation, gray areas,

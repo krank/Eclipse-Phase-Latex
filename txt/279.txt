@@ -37,8 +37,8 @@ number of ways to defray these costs.
 BROKERAGE AND MATCHMAKING
 Finding morphs for travelers and the bodiless is a
  specialized skill demanding deep social networks and
-a flair for negotiation. In general, it’s a seller’s market,
- so brokers (or “matchmakers,” as they’re called in
+a flair for negotiation. In general, it's a seller's market,
+ so brokers (or “matchmakers,” as they're called in
 the open economy) act as agents for the person seek-
 ing a body. The Morph Costs table assumes a 10%
 fee paid to the broker. Characters wishing to cut out
@@ -50,11 +50,11 @@ CUSTOMIZED MORPHS
 If a character seeks to have a customized morph (with
 extra bioware, cyberware, or nanoware implants or
 robotic enhancements), the costs for these enhance-
-ments are added to the morph’s cost (if the gamemaster
+ments are added to the morph's cost (if the gamemaster
 chooses, discount package deals may apply). Likewise,
 morphs may come saddled with positive or negative
 morph traits (p. 145). These traits raise or lower the
-morph’s cost at a rate of +500 credits per CP for posi-
+morph's cost at a rate of +500 credits per CP for posi-
 tive traits, or –200 credits per CP of negative traits.
 Negative traits typically reflect abuses the morph has
 suffered at the hands of previous occupants.
@@ -71,7 +71,7 @@ Pods
   Novacrabs                          Expensive (30,000+)
 Synthmorphs
   Cases                                   Moderate
-  Synths, Dragonﬂies                        High
+  Synths, Dragonflies                        High
   Slitheroids, Swarmanoids                Expensive
   Flexbots                           Expensive (30,000+)
   Arachnoids                         Expensive (40,000+)
@@ -88,7 +88,7 @@ Negative morph traits                  –200 per CP
  extenuating circumstances. Morphs may be traded in
  for the value shown on the Morph Costs table (ad-
  justed for any positive or negative traits), less a 10%
- physical exam and finder’s fee. This is either paid to the
+ physical exam and finder's fee. This is either paid to the
  morph broker in cred or rendered as a favor using rep.
 
   PATRON PROVISIONING
@@ -104,7 +104,7 @@ Negative morph traits                  –200 per CP
   BLACK MARKET MORPHS
  Black market body traders promise to provide the
  buyer with morphs and upgrades of choice regardless
- of a habitat’s laws against weapons or implants, in
+ of a habitat's laws against weapons or implants, in
  addition to bypassing standard arrival registration
  via darkcasting. Illegal morphs usually come with a
  price markup (+25% at least), whereas used morphs

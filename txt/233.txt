@@ -7,22 +7,22 @@ SV, as noted on the Psychosurgery Modifiers table.
 ROLEPLAYING MIND EDITS
 Many of the changes incurred by psychosurgery are
 nebulous and difficult to pin down with game me-
-chanics. Alterations to a character’s personality and
+chanics. Alterations to a character's personality and
 mind-state are often better handled as roleplaying fac-
 tors anyway. This means that players should make a
 real effort to integrate any such mental modifications
-into their character’s words and actions, and game-
-masters should ensure that a character’s portrayal
+into their character's words and actions, and game-
+masters should ensure that a character's portrayal
 plays true to their mind edits. Some psychosurgical
 mods can be reflected with ego traits, while others
 might incur modifiers to certain tests or in certain
 situations. The gamemaster should carefully weigh a
-brain alteration’s effects, and apply modifiers as they
+brain alteration's effects, and apply modifiers as they
 see appropriate.
 
 PSYCHOSURGERY PROCEDURES
   The following alterations may be accomplished
-with psychosurgery. At the gamemaster’s discretion,
+with psychosurgery. At the gamemaster's discretion,
 other mind-editing procedures may be attempted,
 using these as a guideline.
 
@@ -34,7 +34,7 @@ BEHAVIORAL CONTROL
     SV:         (1d10 ÷ 2, round up)
 Commonly used for criminal rehabilitation, behavioral
 control attempts to limit, block, or expunge a specific
-behavior from the subject’s psyche. For example, a
+behavior from the subject's psyche. For example, a
 murderer may be conditioned against acts of aggres-
 sion, or a kleptomaniac might be restricted from steal-
 ing. Some people seek this adjustment willingly, such
@@ -70,11 +70,11 @@ behavior that is boosted, and will find it hard to avoid
  and law enforcement agencies have resorted to per-
  sonality and behavioral profiling as a means of iden-
  tifying people even when they resleeve. Though such
- systems are far from perfect, someone’s unconscious
+ systems are far from perfect, someone's unconscious
  habits and quirks could potentially give them away.
  Characters who wish to elude identification in this
  way may undergo behavioral masking, which seeks
- to alter and change the character’s unconscious habits
+ to alter and change the character's unconscious habits
  and social cues. Apply a +30 modifier when defending
  against such identification systems and Kinesics Tests.
 
@@ -84,7 +84,7 @@ behavior that is boosted, and will find it hard to avoid
      SV:        1
     Using tutorial programs, memory reinforcement
  protocols, conditioning tasks, and deep brain stimula-
- tion, the subject’s learning ability is reinforced, allow-
+ tion, the subject's learning ability is reinforced, allow-
  ing them to learn new skills more quickly.
 
  EMOTIONAL CONTROL
@@ -94,7 +94,7 @@ behavior that is boosted, and will find it hard to avoid
                    Expunge/Enforce –30
       SV:      (1d10 ÷ 2, round up) + 2
     Similar to behavioral control, emotional control
- seeks to modify, enhance, or restrict the subject’s
+ seeks to modify, enhance, or restrict the subject's
  emotional responses. Some choose these modifica-
  tions willingly, such as limiting sadness in order to
  be happier, or encouraging aggression in order to be

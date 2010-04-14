@@ -1,10 +1,10 @@
 target (or group of targets), make a secret Perception        COMBAT TACNETS
-Test for the ambushee(s). Unless they are alert for sur-      The following list is a sample of a typical combat tacnet’s
+Test for the ambushee(s). Unless they are alert for sur-      The following list is a sample of a typical combat tacnet's
 prises, this test should suffer the typical –20 modifier      features. Gamemasters are encouraged to modify and
 for being distracted. This is an Opposed Test against         expand these options as appropriate to their game:
 the ambusher(s) Infiltration skill. Depending on the
-attacker’s position, other modifiers may also apply             • Maps: Tacnets assemble all available maps and
-(distance, visibility, cover, etc.).                              can present them to the user with a bird’s eye
+attacker's position, other modifiers may also apply             - Maps: Tacnets assemble all available maps and
+(distance, visibility, cover, etc.).                              can present them to the user with a bird's eye
    If the Perception Test fails, the character is surprised       view or as a three-dimensional interactive, with
 by the attack and cannot react to or defend against it. In        distances between relevant features readily acces-
 this case, simply give the attacker(s) a free Action Phase        sible. The AI or muse can also plot maps based
@@ -15,31 +15,31 @@ alerted to something a split-second before they are               entoptic image
 ambushed, giving them a chance to react. In this case,            a user who should be turning left might see a
 roll Initiative as normal, but the ambushed character(s)          transparent red arrow or feel a tingling sensation
 suffers a –30 modifier to the Initiative Test. The am-            on their left side).
-bushed character may still defend as normal.                    • Positioning: The exact positioning of the user and
+bushed character may still defend as normal.                    - Positioning: The exact positioning of the user and
    In a group situation, things can get more compli-              all other participants are updated and mapped
 cated when some characters are surprised and others               according to mesh positioning and GPS. Likewise,
-aren’t. In this case, roll Initiative as normal, with all         the positioning of known people, bots, vehicles,
+aren't. In this case, roll Initiative as normal, with all         the positioning of known people, bots, vehicles,
 non-ambushers suffering the –30 modifier. Any charac-             and other features can also be plotted according
 ters who are surprised are simply unable to take action           to sensory input.
-on the first Action Phase, as they are caught off-guard         • Sensory Input: Any sensory input available to a
-and must take a moment to assess what’s going on                  participating character or device in the network
+on the first Action Phase, as they are caught off-guard         - Sensory Input: Any sensory input available to a
+and must take a moment to assess what's going on                  participating character or device in the network
 and get caught up with the action. As above, surprised            can be fed into the system and shared. This
 characters my not defend on this first Action Phase.              includes data from cybernetic senses, portable
                                                                   sensors, smartlink guncams, XP output, etc. This
 TACTICAL NETWORKS                                                 allows one user to immediately call up and access
 Tactical networks are specialized software programs               the sensor feed of another user.
-used by teams that benefit from the sharing of tacti-           • Communications Management: The tacnet
+used by teams that benefit from the sharing of tacti-           - Communications Management: The tacnet
 cal data. They are commonly used by sports teams,                 maintains an encrypted link between all users
 security outfits, military units, AR gamers, gatecrash-           and stays wary both of participants who drop
 ers, surveyors, miners, traffic control, scavengers, and          out or of attempts to hack or interfere with the
 anyone else who needs a tactical overview of a situa-             communications link.
-tion. Firewall teams regularly take advantage of them.          • Smartlink/Weapon Data: The tacnet monitors the
+tion. Firewall teams regularly take advantage of them.          - Smartlink/Weapon Data: The tacnet monitors the
    In game terms, tacnets provide specialized software            status of weapons, accessories, and other gear via
 skills and tools to a muse or AI, as best fits their tac-         the smartlink interface or wireless link, bringing
-tical needs. These tools link together and share and              damage, shortages, and other issues to the user’s
+tical needs. These tools link together and share and              damage, shortages, and other issues to the user's
 analyze data between all of the participants in the               attention.
-network, creating a customizable entoptics display for          • Indirect Fire: Members of a tacnet can provide
+network, creating a customizable entoptics display for          - Indirect Fire: Members of a tacnet can provide
 each user that summarizes relevant data, highlights               targeting data to each other for purposes of indi-
 interactions and priorities, and alerts the user to mat-          rect fire (p. 195).
-ters that require their attention.                              • Analysis: The muses and AIs participating in
+ters that require their attention.                              - Analysis: The muses and AIs participating in
                                                                   the tacnet are bolstered with skill software and

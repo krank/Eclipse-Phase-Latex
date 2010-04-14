@@ -23,7 +23,7 @@
    understand an unusual chemical reaction, or deter-
    mine what elements are needed to nanofabricate
    something that requires exotic materials. At the
-   gamemaster’s discretion, some Academics-related
+   gamemaster's discretion, some Academics-related
    tests might not be defaultable, given that only
    someone who has been educated in that subject is
    likely to be able to tackle it.
@@ -39,7 +39,7 @@ While characters will need a mix of skills to
 ucceed in the varied tasks they encounter in
  clipse Phase, some skills are crucial for any
 haracter. If a character lacks these, they will
- ave a difﬁcult time getting by, so it is impor-
+ ave a difficult time getting by, so it is impor-
 ant for players and gamemasters to know
 hese particular skills.
   Fray: Fray is the primary skill you use to avoid
@@ -53,7 +53,7 @@ ou need a Networking skill—preferably several.
 pread rumors, call in favors, and so on.
   Perception: Perception Tests get called for
  uite often, so if you want your character to
- now what’s going on around them, make sure
+ now what's going on around them, make sure
 o get this skill. Investigation and Scrounging
  re also good, but Perception is king.          ■
                      SKILL LIST

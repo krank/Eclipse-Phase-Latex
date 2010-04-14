@@ -1,4 +1,4 @@
- i-rep on this network indicates how much they are                         need to know. Each proxy’s means of contact, mission
+ i-rep on this network indicates how much they are                         need to know. Each proxy's means of contact, mission
  trusted and will be a factor in determining what                          briefing, and overall methodologies differ greatly.
  aid they can call in. Firewall also takes care of large
  expenses and logistics when necessary, such as ego-                       PROMETHEANS
@@ -7,7 +7,7 @@
  they lose their lives on a Firewall op.                                   Prometheans. Rumors of these entities predated the
     Sentinels are generally expected to be on-call—                        Fall and occasionally flare up as some new evidence
  when something comes up in their vicinity or that                         comes to light, though such evidence is almost always
- their particular specialty might call for, they’ll be                     discredited soon after. According to some theories, the
+ their particular specialty might call for, they'll be                     discredited soon after. According to some theories, the
  brought in on a job. Sentinels are usually grouped into                   Prometheans predated the TITANs and may even have
  ad hoc special ops teams appropriate to each mission.                     been responsible for bringing the TITANs into exis-
  Though many sentinels pursue their own agendas                            tence. Others postulate that the Prometheans were a
@@ -16,24 +16,24 @@
  information or continue to work together on Firewall-                     Still others whisper that the Prometheans are not of
  related assignments over a longer period of time.                         transhuman origin at all, and are actually a digital
     Firewall operations are usually organized and                          alien mindform that found Earth and now actively
- managed by proxies, agents who maintain Firewall’s                        interferes with transhuman affairs. Whether the Pro-
+ managed by proxies, agents who maintain Firewall's                        interferes with transhuman affairs. Whether the Pro-
  decentralized infrastructure. Proxies typically possess                   metheans are hostile, friendly, or indifferent remains a
  more information than individual sentinels and will                       matter of much conjecture and contention. Prominent
  dispense such information as they deem necessary                          organizations like the Planetary Consortium discount
- to the mission, according to each sentinel’s i-rep and                    such rumors or otherwise remain silent.
+ to the mission, according to each sentinel's i-rep and                    such rumors or otherwise remain silent.
 
 
 PROJECT OZMA
                [Incoming Message. Source: Anonymous]       to discern the whereabouts of the           of Firewall, or maybe their agenda is
-               [Public Key Decryption Complete]            TITANs in the galaxy. Shortly afterwards,   entirely different. I’ve heard some spec-
-               You won’t ﬁnd this group mentioned          however, Project Ozma dropped from          ulation that they’re tasked for preparing
+               [Public Key Decryption Complete]            TITANs in the galaxy. Shortly afterwards,   entirely different. I've heard some spec-
+               You won't find this group mentioned          however, Project Ozma dropped from          ulation that they're tasked for preparing
                on the conspiracy boards—Consortium         view, wiped from all public mention in      for and handling alien contact. All we
                security is too tight to allow slip-ups.    inner system mesh servers. Consortium       know is that they operate at the deep
-               If you haven’t heard of Project Ozma        ofﬁcials simply claim that the project      black budget level and they have insane
+               If you haven't heard of Project Ozma        officials simply claim that the project      black budget level and they have insane
                before, consider this your warning.         was folded into other departments.          amounts of resources at their beck and
-                  Project Ozma was the name of an             Firewall doesn’t know what Project       call. They’re also vicious as fuck, the
-               international collaborative SETI project    Ozma is, but we know they’re still          type to shoot ﬁrst and question your
-               before the Fall. It brieﬂy entered public   around—and they seem to have similar        backup later. Standard SOP if you run
-               discourse after the Fall and the discov-    interests. We’ve butted heads a few too     counter to a Project Ozma op is to bail
-               ery of the ﬁrst Pandora Gate as a Plan-     many times for it be a coincidence. Per-    out fast and stay hands off. We’ve lost
-               etary Consortium initiative to attempt      haps they’re the Consortium’s version       dozens of agents to them already.
+                  Project Ozma was the name of an             Firewall doesn't know what Project       call. They're also vicious as fuck, the
+               international collaborative SETI project    Ozma is, but we know they're still          type to shoot first and question your
+               before the Fall. It briefly entered public   around—and they seem to have similar        backup later. Standard SOP if you run
+               discourse after the Fall and the discov-    interests. We've butted heads a few too     counter to a Project Ozma op is to bail
+               ery of the first Pandora Gate as a Plan-     many times for it be a coincidence. Per-    out fast and stay hands off. We've lost
+               etary Consortium initiative to attempt      haps they're the Consortium's version       dozens of agents to them already.

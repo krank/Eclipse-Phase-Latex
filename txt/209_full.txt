@@ -10,7 +10,7 @@ Psi damage is caused by offensive psi sleights like         equals or exceeds yo
 Psychic Stab (p. 228).                                      suffered a wound. If the inflicted damage is double
                                                             your Wound Threshold, you suffer 2 wounds; if
 DURABILITY AND HEALTH                                       triple your Wound Threshold, you suffer 3 wounds;
-Your character’s physical health is measured by their       and so on.
+Your character's physical health is measured by their       and so on.
 Durability stat. For characters sleeved in biomorphs,         Wounds are cumulative, and must be marked on
 this figure represents the point at which accumu-           your character sheet.
 lated damage points overwhelm your character and               Note that these rules handle damage and wounds
@@ -29,8 +29,8 @@ are likely still functioning and you can still mesh, your   treated or heals.
 morph is broken and immobile until repaired.
                                                             WOUND EFFECTS
 DEATH                                                       Each wound applies a cumulative –10 modifier to all
-An extreme accumulation of damage points can                of the character’s actions. A character with 3 wounds,
-threaten your character’s life. If the damage reaches       for example, suffers –30 to all actions.
+An extreme accumulation of damage points can                of the character's actions. A character with 3 wounds,
+threaten your character's life. If the damage reaches       for example, suffers –30 to all actions.
 your Durability x 1.5 (for biomorphs) or Durability x         Some traits, morphs, implants, drugs, and psi allow
 2 (for synthetic morphs), your body dies. This known        a character to ignore wound modifiers. These effects
 as your Death Rating. Synthetic morphs that reach           are cumulative, though the maximum amount of
@@ -55,6 +55,6 @@ For example, if the damage were noted 2d10 + 5 (15),        per minute) until th
 you could simply apply 15 damage points instead of
 rolling dice.                                               DEATH
   When damage is inflicted on a character, determine the    For many people in Eclipse Phase, death is not the end
-DV (roll the dice) and subtract the modified armor value,   of the line. If the character’s cortical stack can be re-
+DV (roll the dice) and subtract the modified armor value,   of the line. If the character's cortical stack can be re-
 as noted under Step 7: Determine Damage (p. 192).           trieved, they can be resurrected and downloaded into
                                                             a new morph (see Resleeving, p. 271). This typically

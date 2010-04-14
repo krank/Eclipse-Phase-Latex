@@ -58,10 +58,10 @@ scams—do their best to bypass these filters, and in
 many areas the amount of unfiltered entoptics can be
 overwhelming—a phenomenon colloquially referred
 to as “mist.”
-  At the gamemaster’s discretion, mist can interfere
-with a user’s sensory perceptions. This modifier can
+  At the gamemaster's discretion, mist can interfere
+with a user's sensory perceptions. This modifier can
 range from –10 to –30, and in some cases might be
-so distracting as to affect all of a character’s actions.
+so distracting as to affect all of a character's actions.
 To lift the data fog, a character or muse must adjust
 their filter settings by succeeding in an Interfacing Test
 modified by the mist modifier. Alternately, the charac-
@@ -71,11 +71,11 @@ to impede them in other ways.
 SLAVING DEVICES
    For ease of use, as well as for privacy and security
 purposes, one or more devices may be slaved to each
-other. One device (usually the character’s mesh inserts
+other. One device (usually the character's mesh inserts
 or ecto) takes the role of master, while the other
 device(s) takes the role of slave. All traffic to and
 from slaved devices is routed through the master. This
-allows a slaved device to rely on the master’s security
+allows a slaved device to rely on the master's security
 features and active monitoring. Anyone that wants to
 connect to or hacked into a slaved device is rerouted
 to the master for authentication and security scrutiny.
@@ -85,7 +85,7 @@ penetrates a master system can legitimately access
 and issue commands to a slaved device, assuming their
 access privileges allow for it.
    PANs are typically formed by slaving all of a char-
-acter’s devices to their ecto or mesh inserts. Similarly,
+acter's devices to their ecto or mesh inserts. Similarly,
 individual components of a security system (doors,
 sensors, etc.) are usually slaved to a central security
 node that serves as a chokepoint for anyone hoping

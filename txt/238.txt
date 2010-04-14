@@ -46,7 +46,7 @@ MESH
    the time and connected with everything and everyone
    around them in a ubiquitous computing environment.
   This was especially true of those participating in
-   humanity’s expansion into space. Disconnected from
+   humanity's expansion into space. Disconnected from
    the internet due to distance and light-speed commu-
    nication lags, these users were nevertheless connected
    with all of the people and objects in their nearby
@@ -76,7 +76,7 @@ HE MESH■THE MESH■THE MESH■THE
  Other communications mediums, such as laser and
  microwave links, add to the information flow.
     Data storage technology has advanced to such high
- levels that even an individual user’s surplus storage
+ levels that even an individual user's surplus storage
  capacity can maintain an amount of information
  easily surpassing the entire 20th-century internet.
  Lifeloggers can literally record every moment of their
@@ -96,7 +96,7 @@ HE MESH■THE MESH■THE MESH■THE
  in some ways is like an entire supercomputer to itself,
  shared by everyone.
     Similarly, transmission capacity now far exceeds
- most citizens’ definition of need. Anyone born within
+ most citizens' definition of need. Anyone born within
  the last several generations has always lived in a world
  in which hyper-realistic, multi-sensory media of nearly
  any length is available for instantaneous download
@@ -104,7 +104,7 @@ HE MESH■THE MESH■THE MESH■THE
  archives are copied back and forth with ease. Band-
  width is such a non-issue that most people forget it ever
  was. In fact, given the sheer amount of data available,
- finding the information or media you’re looking for
+ finding the information or media you're looking for
  takes considerably longer than downloading it. The
  mesh is also never down. As a decentralized network,
  if any one device is taken offline, connections merely

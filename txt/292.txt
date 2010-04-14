@@ -39,21 +39,21 @@ VEL   SERVICE
 LEVEL SERVICE
       Common Information: Where to eat. What biz a certain
  1
-      hypercorp is in. Who’s in charge.
+      hypercorp is in. Who's in charge.
       Public Information: Make gray market connections.
       Where the “bad neighborhood” is. Obscure public
  2
-      database info. Who’s the local crime syndicate. Public
+      database info. Who's the local crime syndicate. Public
       hypercorp news.
       Private Information: Make black market connections.
-      Where an unlisted hypercorp facility is. Who’s a cop. Who’s
+      Where an unlisted hypercorp facility is. Who's a cop. Who's
  3
       a crime syndicate member. Where someone hangs out.
-      Internal hypercorp news. Who’s sleeping with whom.
+      Internal hypercorp news. Who's sleeping with whom.
       Secret Information: Make exotic black market
       connections. Where a secret corp facility is. Where
  4
-      someone’s hiding out. Secret hypercorp projects. Who’s
+      someone's hiding out. Secret hypercorp projects. Who's
       cheating on whom.
       Top Secret Intel: Where a top secret black-budget
  5    lab is. Illegal hypercorp projects. Scandalous data.

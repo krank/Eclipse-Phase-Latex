@@ -31,7 +31,7 @@ call on you to make a Perception Test whenever you
 receive sensory input that your brain might want to
 take notice of (see Perception, p. 182). Likewise, you
 may ask the gamemaster at any time—even during
-other character’s actions—to make a basic Perception
+other character's actions—to make a basic Perception
 Test, just to find out what your character is noticing
 around them.
   Because basic perception is an automatic, subcon-
@@ -46,13 +46,13 @@ Quick Actions are fast and simple, and they may often
 be multi-tasked. They require minimal thought and
 effort. You may undertake multiple Quick Actions on
 your turn during each Action Phase, limited only by
-the gamemaster’s judgment. If you are taking noth-
+the gamemaster's judgment. If you are taking noth-
 ing but Quick Actions during an Action Phase, you
 should be allowed a minimum of 3 separate Quick
 Actions. If you are also engaging in a Complex or Task
 Action during that same Action Phase, you should be
 allowed a minimum of 1 Quick Action. Ultimately, the
-gamemaster decides what activity you can or can’t fit
+gamemaster decides what activity you can or can't fit
 into a single Action Phase.
    Some examples of Quick Actions include: talking,
 switching a safety, activating an implant, standing

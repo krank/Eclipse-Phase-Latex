@@ -1,7 +1,7 @@
 are noted in the individual morph descriptions (see
 p. 139).                                                          Things Characters Use
    If you plan on switching your current morph to                 In the advanced technological setting of Eclipse Phase,
-another during gameplay, you may first want to back               characters don’t get by on their wits and morphs
+another during gameplay, you may first want to back               characters don't get by on their wits and morphs
 yourself up (see Backups and Uploads, p. 268). Back-              alone; they take advantage of their credit and reputa-
 ing up regularly is always a smart option in case you             tion to acquire gear and implants and use their social
 suffer an accidental or untimely death. Acquiring a               networks to gather information. Some characters also
@@ -14,17 +14,17 @@ Every morph has an aptitude maximum, sometimes                    are and what y
 modified by traits. This maximum represents the high-             acters in Eclipse Phase, however, are often involved
 est value at which the character may use that aptitude            in secretive or less-than-legal activities, so the way to
 while inhabiting that morph, reflecting an inherent               keep the bloggers, news, paparazzi, and law off your
-limitation in some morphs. If a character’s aptitude              back is to make extensive use of fake IDs. While Fire-
+limitation in some morphs. If a character's aptitude              back is to make extensive use of fake IDs. While Fire-
 exceeds the aptitude maximum of their morph, they                 wall often provides covers for its sentinel agents, it
-must use it at the maximum value for the duration                 doesn’t hurt to keep a few extra personas in reserve, in
+must use it at the maximum value for the duration                 doesn't hurt to keep a few extra personas in reserve, in
 of the time they remain in that morph. This may also              case matters ever go out the airlock in a hurry. Thank-
 affect the skills linked to that aptitude, which must be          fully, the patchwork allegiances of city-state habitats
-modified appropriately.                                           and faction stations means that identities aren’t too
+modified appropriately.                                           and faction stations means that identities aren't too
    Some implants, gear, psi, and other factors may                difficult to fake, and the ability to switch morphs
-modify a character’s natural aptitudes. These aug-                makes it even easier. On the other hand, anyone with a
-mented values may exceed a morph’s aptitude maxi-                 copy of your biometrics or geneprint is going to have
+modify a character's natural aptitudes. These aug-                makes it even easier. On the other hand, anyone with a
+mented values may exceed a morph's aptitude maxi-                 copy of your biometrics or geneprint is going to have
 mums, as they represent external factors boosting the             an edge tracking you down or finding any forensic
-morph’s ability. No aptitude, however, augmented or               traces you leave behind (for more on ID, see p. 279).
+morph's ability. No aptitude, however, augmented or               traces you leave behind (for more on ID, see p. 279).
 not, may ever exceed a value of 40. Innate ability only
 takes a person so far—after that point, actual skill is           Social Networks
 what counts.                                                      Social networks represent people the character knows

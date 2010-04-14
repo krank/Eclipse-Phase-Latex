@@ -27,7 +27,7 @@ you are trying to manipulate an animal, whether your
  intent is to calm it down, keep it from attacking, in-
  timidate it, acquire its trust, or goad it into attacking.
 Your Margin of Success determines how effective you
- are at convincing the creature. At the gamemaster’s
+ are at convincing the creature. At the gamemaster's
  discretion, modifiers may be applied to the test. Like-
 wise, winning an animal over may sometimes take
  time, and so could be handled as a Task Action with a
@@ -57,7 +57,7 @@ Linked Aptitude: INT
 uate artistic endeavors. This is a particularly useful
 skill in Eclipse Phase, especially in the post-scarcity
 economies where creativity and vision can be a key
-component to a character’s reputation.
+component to a character's reputation.
   When you use it: The Art skill can be used to either
 create a new work of art or to duplicate an existing
 piece of art in the hopes of passing it off as your own.

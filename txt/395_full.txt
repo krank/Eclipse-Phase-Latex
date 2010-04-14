@@ -11,11 +11,11 @@ TASKS                                                                           
 ONLINE SEARCHES
 1. Common data = automatic acquisition
 2. Uncommon data:
-   a. Research Task Test (timeframe: 1 minute) modiﬁed by
+   a. Research Task Test (timeframe: 1 minute) modified by
    data obscurity to accumulate data
    b. Measure of Success determines depth of data found                                                              SUBVERSION EXAMPLES
-                                                                                                      In addition to the tasks noted under the Subversion Difﬁc
-3. Analyzing data:                                                                                         these modiﬁers present some additional example ac
+                                                                                                      In addition to the tasks noted under the Subversion Diffic
+3. Analyzing data:                                                                                         these modifiers present some additional example ac
    a. Research Task Test (timeframe: GM call) using
                                                                                            MOD TASK
    complementary skill to understand data
@@ -31,11 +31,11 @@ ONLINE SEARCHES
                 Earth or the early expansion into space
                                                                                                   Interact with entoptics, befriend everyone in range, make on
       –20       Malfunctioning/inferior devices, buggy software, pre-Fall technology        –0
-                                                                                                  user’s credit, intercept communications, log activity
-      –10       Outdated and low quality systems                                                  Alter social network proﬁle/status, adjust AR ﬁlters, tweak s
+                                                                                                  user's credit, intercept communications, log activity
+      –10       Outdated and low quality systems                                                  Alter social network profile/status, adjust AR filters, tweak s
                                                                                             –10
        0        Standard ectos, mesh inserts, and software                                        change AR skin, change avatar, access VPN
-                                                                                                  Block or shufﬂe senses, inject AR illusions, spoof command
+                                                                                                  Block or shuffle senses, inject AR illusions, spoof command
       +10       High-quality goods, standard security-grade products                        –20
                                                                                                   devices
       +20       Next-generation devices, advanced software                                  –30   Boot user out of AR
@@ -43,15 +43,15 @@ ONLINE SEARCHES
      >+30       TITANs and/or alien technology                                              –0       Open/close doors, stop/start elevators, operate intercom
                                                                            259                      Adjust temperature/lighting, disable safety warnings, replac
                                                                                             –10
-                                                                                                    doors, switch trafﬁc timers
+                                                                                                    doors, switch traffic timers
                    SUBVERSION DIFFICULTIES                                                          Disable subsystems (plumbing, recycling, etc.), disable wire
-                    Difﬁculty modiﬁers for common computer tasks                            –20
+                    Difficulty modifiers for common computer tasks                            –20
                                                                                                     repair crews
  MODIFIER TASK                                                                              –30     Override safety cutoffs
                 Execute commands, view restricted information, run restricted                    Hacking Security Systems
       –0        software, open/close connections to other systems, read/write/copy/         –0      Move/manipulate cameras/sensors, locate security systems/
-                delete ﬁles, access sensor feeds, access slaved devices
-      –10       Change system settings, alter logs/restricted ﬁles                          –10     Adjust patterns of sensor sweeps, view security logs, disable
+                delete files, access sensor feeds, access slaved devices
+      –10       Change system settings, alter logs/restricted files                          –10     Adjust patterns of sensor sweeps, view security logs, disable
       –20       Interfere with system operations, alter sensor/AR input                     –20     Delete security logs, dispatch security teams
       –30       Shut system down, lockout user/muse, launch countermeasures at others       –30     Disable alerts
                                                                                                  Hacking Simulspace Systems
@@ -59,7 +59,7 @@ ONLINE SEARCHES
                        COUNTERMEASURES                                                      –10
                                                                                                     Change domain rules, add cheats, alter parameters of story,
                                                                                                     change time dilation
- Passive Alert (-10 modiﬁer to intruders)
+ Passive Alert (-10 modifier to intruders)
                                                                                             –20     Eject simulmorph, alter/erase character AIs
  Locate Intruder: Opposed Infosec Test; if successful, intruder becomes Locked
                                                                                             –30     Abort simulation
@@ -68,7 +68,7 @@ ONLINE SEARCHES
    log in again
  Reduce Privileges: Limit user access privileges; see p. 246                                –0      Get status report, use device functions
 
- Active Alert (-20 modiﬁer to intruders)                                                    –10     Adjust AI/voice personality settings, adjust timed operation
+ Active Alert (-20 modifier to intruders)                                                    –10     Adjust AI/voice personality settings, adjust timed operation
 
  Counterintrusion: If Trace (see below) is successful, launch intrusion attempt             –20     Disable sensors, disable device functions
    on intruder's home system                                                                  Hacking Simulspaces From Within

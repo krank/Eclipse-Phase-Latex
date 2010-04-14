@@ -15,7 +15,7 @@ or product designs, and custom infomorph sleeves.
    On the negative side, some Petal trips go bad, in-
 flicting 1d10 mental stress or more on the user. Per-
 haps worse, some Petals are loaded with malware that
-takes over the user’s mesh inserts and worse—some
+takes over the user's mesh inserts and worse—some
 sentinels even whisper of Petals carrying strains of the
 Exsurgent virus. [Trivial to High]
 
@@ -29,7 +29,7 @@ infomorphs, egos encased in cyberbrains (pods and
 synthmorphs), simulmorphs, and even AIs.
    DDR: Originally crafted by prankster hackers
 and distributed as a virus, DDR (for “Dance Dance
-Robot”) triggers impulses in the target’s motor con-
+Robot”) triggers impulses in the target's motor con-
 trol circuits. Primary targeting robot AIs, the effect is
 that targets “dance” in jerky, automated movements.
 Pleasure receptors are also activated so that dancing—
@@ -47,12 +47,12 @@ acquire private personal details. These inputs are
 spliced together, their emotional inputs amplified, and
 then the entire package is spiked with some hormonal
 circuit triggers and artificial synaesthesia. The effect
-is a mind-blowing mixed sampling of people’s lives,
+is a mind-blowing mixed sampling of people's lives,
 mashed together in a sensory soup, that hits the mind
 with a euphoric rush. Linkstate users are catatonic
 while under the effects (typical sessions run 3-4 hours),
 but afterwards they often report that they have flash-
-backs of events in other people’s lives. [Low]
+backs of events in other people's lives. [Low]
 
 CHEMICALS
 Atropine: Though poisonous in large doses, atropine
@@ -64,7 +64,7 @@ dosage by a nerve agent. [Trivial]
 ing other chemicals to be absorbed through the
 skin. It allows any chemical agent to be applied
 dermally. [Trivial]
-   Liquid Thermite: Similar to scrapper’s gel, liquid
+   Liquid Thermite: Similar to scrapper's gel, liquid
 thermite comes in a gel form that is easily applied
 under all environmental conditions (by the nature
 of its chemical reaction, thermite is oxygenated and
@@ -79,10 +79,10 @@ Armor rating has been reached. [Moderate]
 tardant that does not get objects wet, no matter how
 absorbent they are—it simply beads up and slides
 right off. [Trivial]
-    Scrapper’s Gel: This goo turns into a potent acid
+    Scrapper's Gel: This goo turns into a potent acid
 when given an electrical charge. It comes in a gel-like
 state and may be smeared like jelly, and may even be
-used in space. In acid form, scrapper’s gel does 1d10
+used in space. In acid form, scrapper's gel does 1d10
 + 5 DV per Action Turn to anything it touches, unless
 the material has been treated against acid. Armor will
 protect against this acid at first, but the acid will eat

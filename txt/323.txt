@@ -12,7 +12,7 @@
  It also stimulates abundant production of lust phero-
  mones. The character gains a +10 bonus on Persuasion
  Tests against targets who are possible to seduce. At the
- gamemaster’s discretion, this extends to Deception,
+ gamemaster's discretion, this extends to Deception,
  Impersonate, and Networking Tests. [Low]
     Juice: This potent anti-depressant makes it almost
  impossible to have bad feelings or negative thoughts.
@@ -29,10 +29,10 @@
  apply a specific effect.
     Frequency: Frequency (or Freeq) is a nanodrug de-
  signed as a tool for scientific visualization. It releases
- a small swarm of nanobots into the character’s blood-
+ a small swarm of nanobots into the character's blood-
  stream that settle in the epidermis, where they act as
  sensors of electromagnetic radiation. This sensory
- input is then injected into the character’s visual and
+ input is then injected into the character's visual and
  tactile sensoria, hitting the user with a sequence of
  novel stimuli, typically a light show or weird tactile
  sensations. Aside from its recreational uses, Frequency
@@ -59,7 +59,7 @@ Petals                     Nano                  O
 Schizo                     Nano                 Inj
      OTHER NANODRUGS
      Nanodrugs have the capability of making fun-
-     damental changes to a body’s biochemistry and
+     damental changes to a body's biochemistry and
      mental state. The potential effects are too nu-
      merous to list, but gamemasters should consider
      allowing nanodrugs that temporarily apply cer-
@@ -102,7 +102,7 @@ Schizo                     Nano                 Inj
    Friends and trusted acquaintances are probably less
    likely to be targets of violence (+30 modifier to avoid
    hurting people the character cares about or destroy-
-   ing important possessions). Note that the character’s
+   ing important possessions). Note that the character's
    muse is unaffected by Schizo and can make efforts
    to babysit the character. Characters who take Schizo
    suffer 1d10 mental stress. [Low]

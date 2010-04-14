@@ -23,7 +23,7 @@
                    Gunnery                           INT       Active, Combat         Scrounging                         INT        Active, Mental
                    Hardware: [Field]                COG        Active, Technical      Seeker Weapons                    COO        Active, Combat
                    Impersonation                    SAV         Active, Social        Sense                          INT (no def) Active, Mental, Psi
-                   Inﬁltration                      COO        Active, Physical       Spray Weapons                     COO        Active, Combat
+                   Infiltration                      COO        Active, Physical       Spray Weapons                     COO        Active, Combat
                    Infosec                       COG (no def) Active, Technical       Swimming                          SOM        Active, Physical
                    Interest: [Field]                COG          Knowledge            Throwing Weapons                  COO        Active, Combat
                    Interfacing                      COG        Active, Technical      Unarmed Combat                    SOM        Active, Combat
@@ -56,7 +56,7 @@ Pain Tolerance (Ego or Morph Trait)            10 (Level 1) or 20 (Level 2)
 Patron                                                      30
                                                                                        Mild Allergy (Morph Trait)
 Psi                                             20 (Level 1), 25 (Level 2)
-                                                                                       Modiﬁed Behavior                           5 (Level 1), 10 (Lev
+                                                                                       Modified Behavior                           5 (Level 1), 10 (Lev
 Psi Chameleon (Ego or Morph Trait)                          10
                                                                                        Morphing Disorder                          10 (Level 1), 20 (Lev
 Psi Defense (Ego or Morph Trait)               10 (Level 1) or 20 (Level 2)
@@ -79,7 +79,7 @@ Zoosemiotics                                                 5
                                                                                        Timid                                                          1
                                                                                        Unattractive (Morph Trait)                  10 (Level 1), 20 (L
                                                                                        Uncanny Valley (Morph Trait)                                   1
-                                                                                       Unﬁt (Morph Trait)                                10 (Level 1)
+                                                                                       Unfit (Morph Trait)                                10 (Level 1)
                                                                                        VR Vertigo                                                     1
                                                                                        Weak Immune System (Morph Trait)                 10 (Level 1) o
                                                                                        Zero-G Nausea (Morph Trait)                                    1

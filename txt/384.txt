@@ -46,7 +46,7 @@ into its constituent atoms or molecules, and then use
 those as components to build a weapon to use back
 against you.
    Fractals can be equipped with any type of gear the
-gamemaster desires—if they don’t have something,
+gamemaster desires—if they don't have something,
 they can make it. Fractals are also able to nanofab-
 ricate items much more quickly than transhuman
 nanofabricators; reduce all times by half (half an hour

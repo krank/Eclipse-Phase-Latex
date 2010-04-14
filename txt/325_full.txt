@@ -4,7 +4,7 @@ comes a lot of information on what various Petals              DMSO: This chemic
 look like and their effects. Because Petals combine         ing other chemicals to be absorbed through the
 custom nanobots with tailored chemical payloads and         skin. It allows any chemical agent to be applied
 sometimes connections to mesh servers, duplicating          dermally. [Trivial]
-them using fabricators is impossible, leading to an            Liquid Thermite: Similar to scrapper’s gel, liquid
+them using fabricators is impossible, leading to an            Liquid Thermite: Similar to scrapper's gel, liquid
 active market of crafters, dealers, and traders.            thermite comes in a gel form that is easily applied
    Petals sometimes contain easter eggs and rewards,        under all environmental conditions (by the nature
 called “sweets” by petal users. Getting the sweets usu-     of its chemical reaction, thermite is oxygenated and
@@ -15,21 +15,21 @@ or product designs, and custom infomorph sleeves.           it is touching. Liqu
    On the negative side, some Petal trips go bad, in-       Action turn to whatever it is touching. Armor will also
 flicting 1d10 mental stress or more on the user. Per-       be burnt through, offering no protection once the full
 haps worse, some Petals are loaded with malware that        Armor rating has been reached. [Moderate]
-takes over the user’s mesh inserts and worse—some              NotWater: NotWater is an effective liquid fire re-
+takes over the user's mesh inserts and worse—some              NotWater: NotWater is an effective liquid fire re-
 sentinels even whisper of Petals carrying strains of the    tardant that does not get objects wet, no matter how
 Exsurgent virus. [Trivial to High]                          absorbent they are—it simply beads up and slides
                                                             right off. [Trivial]
-NARCOALGORITHMS                                                 Scrapper’s Gel: This goo turns into a potent acid
+NARCOALGORITHMS                                                 Scrapper's Gel: This goo turns into a potent acid
 Narcoalgorithms are software programs that simulate         when given an electrical charge. It comes in a gel-like
 the effects of drugs on biological bodies. Almost all       state and may be smeared like jelly, and may even be
-bio, chemical, and nano drugs can be replicated as          used in space. In acid form, scrapper’s gel does 1d10
+bio, chemical, and nano drugs can be replicated as          used in space. In acid form, scrapper's gel does 1d10
 narcoalgorithms, with corresponding effect (game-           + 5 DV per Action Turn to anything it touches, unless
 master discretion). Narcoalgorithms may be run by           the material has been treated against acid. Armor will
 infomorphs, egos encased in cyberbrains (pods and           protect against this acid at first, but the acid will eat
 synthmorphs), simulmorphs, and even AIs.                    through the armor, so that it will no longer protect
    DDR: Originally crafted by prankster hackers             after its full armor value has been reached. [Low]
 and distributed as a virus, DDR (for “Dance Dance               Slip: This liquid is almost entirely frictionless. When
-Robot”) triggers impulses in the target’s motor con-        spread around an area (commonly used in splash
+Robot”) triggers impulses in the target's motor con-        spread around an area (commonly used in splash
 trol circuits. Primary targeting robot AIs, the effect is   grenades), anyone attempting to walk or run on the
 that targets “dance” in jerky, automated movements.         affected surface must make a COO Test or fall down.
 Pleasure receptors are also activated so that dancing—      Likewise, any coated surface becomes extremely
@@ -47,12 +47,12 @@ acquire private personal details. These inputs are          or incapacitate an e
 spliced together, their emotional inputs amplified, and     be constructed for most toxins if a sample is acquired
 then the entire package is spiked with some hormonal        and an appropriate Medicine or Academics Test is
 circuit triggers and artificial synaesthesia. The effect    made. This is considered a Task Action with a time-
-is a mind-blowing mixed sampling of people’s lives,         frame of 1 hour. These toxins only affect biomorphs;
+is a mind-blowing mixed sampling of people's lives,         frame of 1 hour. These toxins only affect biomorphs;
 mashed together in a sensory soup, that hits the mind       synthmorphs are immune.
 with a euphoric rush. Linkstate users are catatonic            BTX : BTX-squared (also called Frog Bite) is a
 while under the effects (typical sessions run 3-4 hours),   genetically-enhanced variant of the extremely potent
 but afterwards they often report that they have flash-      cardiotoxic and neurotoxic batrachotoxin. It leads to
-backs of events in other people’s lives. [Low]              fast paralysis and cardiac arrest that usually kills the
+backs of events in other people's lives. [Low]              fast paralysis and cardiac arrest that usually kills the
                                                             target within a few Action Turns. Affected characters
 CHEMICALS                                                   suffer 2d10 + 10 damage a turn for 3 Action Turns;
 Atropine: Though poisonous in large doses, atropine         medichines reduce this damage by half. They must

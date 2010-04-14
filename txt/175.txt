@@ -27,15 +27,15 @@ as a modifier, as are any other extenuating circum-
 stances that may affect the test (see Difficulty and
 Modifiers, p. 115). As with other types of tests, all skill
 tests are successful when the character rolls less than
-or equal to the test’s target number after any modi-
+or equal to the test's target number after any modi-
 fiers have been applied. In the case of skill tests, the
-target number is the character’s skill rating with that
+target number is the character's skill rating with that
 particular skill. Modifiers representing difficulty and
 other factors are applied directly to the target number
 (see Difficulty and Modifiers, p. 115). A roll of a 00 is
 always a success, regardless of modifiers, and a result
 of 99 is always a failure, again despite any modifiers
-that may increase a character’s target number over
+that may increase a character's target number over
 100. Standard critical success and failure rules apply
 to skill tests (see Criticals: Rolling Doubles, p. 116),
 so any time a character rolls a double (i.e. 00, 11, 22,
@@ -47,23 +47,23 @@ ation. In these instances, characters may default their
 skill test to the linked aptitude. This reflects the fact
 that most learned skills are developed from some sort
 of baseline physical ability. Even though you may not
-know how to do something, you’ve likely seen how
-it’s done at some point or have some idea of how to
-do it, or can at least take a shot at it. Naturally, you’re
+know how to do something, you've likely seen how
+it's done at some point or have some idea of how to
+do it, or can at least take a shot at it. Naturally, you're
 not as good as someone who has training in that skill,
 but it still allows you to make an attempt.
    Not all skills can be defaulted. Some skills are
 simply too complex or obscure, or demand special
 knowledge or ability, for someone to attempt their
 use untrained. For example, brain surgery or most psi
-skills are simply beyond anyone who doesn’t have that
-ability or the knowledge of what they’re attempting.
+skills are simply beyond anyone who doesn't have that
+ability or the knowledge of what they're attempting.
 DEFAULTING TO FIELD SKILLS
 In some cases, a character may not possess the par-
 ticular field skill that a test calls for, but they may be
 skilled in another related field. For example, a test to
 conduct an alien autopsy might call for an Academics:
-Xenobiology roll, but a character who doesn’t have
+Xenobiology roll, but a character who doesn't have
 that skill may be allowed to default to Academics:
 Biology instead. The gamemaster decides if and when
 to allow this, perhaps applying a modifier to the test
@@ -85,7 +85,7 @@ modifier should be applied to the test.
 
 
   Srit is wandering through a black market souk on
-  Mars, trying to ﬁnd a particular piece of sensory
+  Mars, trying to find a particular piece of sensory
   equipment. The gamemaster calls for a Scrounging
                                                             EXAMPLE
 
@@ -110,7 +110,7 @@ Skill Bonus table.
 
 
   Dav is hoping to persuade a brinker pilot to take him
-  to an isolated habitat that doesn’t welcome visitors.
+  to an isolated habitat that doesn't welcome visitors.
   To impress upon the pilot that he is a friend of these
                                                             EXAMPLE
 
@@ -120,7 +120,7 @@ Skill Bonus table.
   particular isolates, he calls on his knowledge of their
   particular cultural practices (Interests: Religious
   Cults skill at 45). The gamemaster allows this and
-  applies a +20 modiﬁer to Dav’s Persuasion Test.
+  applies a +20 modifier to Dav's Persuasion Test.
 
 
 

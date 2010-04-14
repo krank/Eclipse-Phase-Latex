@@ -21,16 +21,16 @@ ception Test fails, your attack is primarily     bot and vehicle stats (Durabili
 based on chance—your target number for           Threshold, etc.) and stat modifiers (Ini-
 the attack test is equal to your Moxie stat      tiative, Speed, etc.) are determined by
 (no other modifiers apply).                      the actual physical shell. Other stats are
-                                                 determined by the bot/vehicle’s operating
+                                                 determined by the bot/vehicle's operating
 INDIRECT FIRE                                    AI (in place of an ego). Bots and vehicles
 With the help of a spotter, you may target       may also have traits that apply to their
-an enemy that you can’t see using indirect       AI or physical shell. For sample bots and
+an enemy that you can't see using indirect       AI or physical shell. For sample bots and
 fire. In this case you must be meshed with       vehicles, see p. 342 of the Gear chapter.
 a character, bot, or sensor system that has         Handling: Bots and vehicles have a
 the target in its sights and which feeds         special stat called Handling, which is a
 you targeting data (the gamemaster may           modifier applied to all tests made to pilot
 require a Perception Test from the spotter).     the bot/vehicle. This represents the bot/
-Indirect attacks suffer a –30 modifier.          vehicle’s maneuverability.
+Indirect attacks suffer a –30 modifier.          vehicle's maneuverability.
    Seeker missiles (p. 340) can home in on
 a target that is “painted” with reflected        SHELL SKILLS
 energy from a laser sight (p. 342) or simi-      The skills and aptitudes used by a bot or
@@ -38,16 +38,16 @@ lar target designator system. An “attack”        vehicle are those possessed
 must first be made to paint the target with      AIs and Muses, p. 264.
 the laser sight using an appropriate skill.
 If this succeeds, it negates the –30 indirect    SHELL MOVEMENT
-fire modifier for the seeker launcher’s          Like characters, bots and vehicles have
+fire modifier for the seeker launcher's          Like characters, bots and vehicles have
 attack test. the target must be held in          a walking and running Movement rate.
-the spotter’s sights (requiring a Complex        This is used whenever the bot/vehicle is
+the spotter's sights (requiring a Complex        This is used whenever the bot/vehicle is
 Action each Action Phase) until the seeker       engaged in action or combat scenes with
 strikes.                                         other characters.
                                                     Shells that are capable of greater speeds
 BOTS, SYNTHMORPHS, AND VEHICLES                  will also have a Maximum Velocity
 AI-operated robots and synthetic morphs          listed—this is the highest rate at which the
 are a common sight in Eclipse Phase.             shell may safely move, listed in kilometers
-Robots are used for a wide range of pur-         per hour. At the gamemaster’s discretion,
+Robots are used for a wide range of pur-         per hour. At the gamemaster's discretion,
 poses, from surveillance, maintenance, and       some shells may push their limits and
 service jobs to security and policing—and        accelerate further, but at significant risk—
 so may often play a role in action and           the gamemaster should apply appropriate

@@ -5,7 +5,7 @@ station but whom hope to download back into the
 same body they have before when they return may            PROGRAMS
 put the morph on ice for the duration of their absence.    These programs can be run on any computerized device.
 [Moderate per month]                                          AR Illusions: These databases of AR clips can be used
-   Bot/Pod Rental: When you need a helping hand or         to create realistic illusions in someone’s entoptic display.
+   Bot/Pod Rental: When you need a helping hand or         to create realistic illusions in someone's entoptic display.
 a personal companion for a day or two, renting a bot       See Augmented Reality Illusions, p. 259. [Moderate]
 or pod is often the way to go. [Moderate per day]             Exploit: Exploits are hacker tools that take advan-
    Egocasting: This is the use of a farcaster to trans-    tage of known vulnerabilities in other software. They
@@ -32,7 +32,7 @@ derangements and disorders that build up as a result          Tracking: This sof
 of existing in a transhuman universe. For an addi-         their presence online. See Scanning, Tracking, and
 tional price the procedure can be time shifted to speed    Monitoring, p. 251. [Moderate]
 up the relative time within the simulspace. For more          XP: Experience playback recordings are clips of
-details, see Mental Healing and Psychotherapy, p. 215,     someone else’s experiences. Depending on the content,
+details, see Mental Healing and Psychotherapy, p. 215,     someone else's experiences. Depending on the content,
 and Psychosurgery, p. 229. [Moderate per month]            some XP (porn, snuff, crime, etc.) may be restricted in
    Simulspace Subscription: This will by you access to     certain jurisdictions. Some XP clips are intentionally
 the simulspace of your choice, whether you want it for     modified so that their emotive tracks are more intense,
@@ -41,9 +41,9 @@ hottest VR game. [Low (single use/1 day) to Moderate
 (monthly subscription)]                                    AIS AND MUSES
    Space Travel: Space transport cost depends on a         Every character starts with a personal muse for free.
 number of factors like distance, quality of lodgings,      Many devices also come with pre-installed AIs, ca-
-and how much cargo you’re bringing with. At the low        pable of helping the user, responding to commands, or
+and how much cargo you're bringing with. At the low        pable of helping the user, responding to commands, or
 end, an intra-habitat shuttle trip within the same clus-   even operating the device on their own. Rules for AIs
-ter, or a trip to or from a planetary body’s surface and   can be found on p. 264.
+ter, or a trip to or from a planetary body's surface and   can be found on p. 264.
 orbit, is not cheap but affordable [High]. Just about         Below are some commonly available AI programs.
 anything else is progressively more costly. [Expensive]    Unless otherwise noted, these AIs have aptitudes of 10.
                                                            These AIs may also be equipped with skillsofts (p. 332).

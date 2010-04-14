@@ -8,16 +8,16 @@ or other Factors whenever they leave a Factor ship.        star systems, and the
                                                            THE PANDORA GATES
   70     1      —      —      —      50    10     75
 Movement Rate: 4/20
-Skills: Climbing 40, Exotic Ranged Attack: Factor          The five known Pandora Gates (see Opening Pandora’s
+Skills: Climbing 40, Exotic Ranged Attack: Factor          The five known Pandora Gates (see Opening Pandora's
   Dust 65, Fray 50, Free Fall 40, Freerunning 40, Infil-   Gate, p. 46) all look and operate in a similar fashion,
   tration 40, Intimidation 50, Kinesics 20, Perception     though they vary wildly in terms of size, shape, and
   50, Profession: Security Procedures 50, Unarmed          available destinations. The gates are built from some
   Combat (Tentacles) 50 (60)                               sort of stable exotic matter whose full atomic struc-
-Notes: Chameleon Skin, Eelware, Electrical Sense,          ture scientists haven’t come close to cracking. To touch
+Notes: Chameleon Skin, Eelware, Electrical Sense,          ture scientists haven't come close to cracking. To touch
   Grip Pads, Infrared Sensing, Magnetoception,             and sight, however, the gates appear to be constructed
   Poison Gland (Factor Dust Toxin), Tentacle Whip          from a timeless-seeming polished black metal with no
   (DV 2d10 + 1, AP –1)                                     signs of aging or wear and tear. Something about the
-                                                           gates’ physical composition makes them difficult to
+                                                           gates' physical composition makes them difficult to
                                                            look at, as if the viewer cannot quite focus on their
 THE IKTOMI                                                 outlines. Some onlookers have reported feelings of
 Little is known about the alien race known as the          vertigo and nausea, while others have insisted that the

@@ -19,7 +19,7 @@ closely in line with their more animalistic forbears, or
 they may lose some of their uplift benefits such as the
 ability for abstract reasoning or speech.
    Suggested Game Effects: The player and gamemas-
-ter should discuss how much of the uplift’s nature is
+ter should discuss how much of the uplift's nature is
 lost and adjust game penalties accordingly. It is im-
 portant to note that other uplifts view atavistic uplifts
 with something akin to horror and will usually have
@@ -85,7 +85,7 @@ order, where the patient is upset with their entire
 sexual biology, often precipitates BDD-like feelings.
 Gender identity disorder is directed specifically at
 external sexually dimorphic features, which are in
-constant conflict with the patient’s internal psychi-
+constant conflict with the patient's internal psychi-
 atric gender.
    Suggested Game Effects: Because of the nature of
 Eclipse Phase and the ability to swap out and modify
@@ -96,7 +96,7 @@ adjust to the reality of their new morph.
 
 BORDERLINE PERSONALITY DISORDER
 This disorder is marked by a general inability to fully
-experience one’s self any longer. Emotional states are
+experience one's self any longer. Emotional states are
 variable and often marked by extremes and acting
 out. Simply put, the subject feels like they are losing
 their sense of self and seeks constant reassurance

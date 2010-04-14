@@ -23,7 +23,7 @@ Value of 2/2. [Low]
 
 ARMOR MODS
 Armor modifications add extra materials or coatings
-that either enhance the armor’s resistance to certain
+that either enhance the armor's resistance to certain
 dangers or provide other effects. Armor mods may be
 easily added or removed with the appropriate nano-
 bot applicators.
@@ -45,7 +45,7 @@ heat or fire specifically. [Trivial]
    Immunogenic System: The immunogenic mod
 adds an active nanobot swarm, maintained by a spe-
 cialized hive, that coats the outer layer of armor and
-also the non-armored parts of the wearer’s morph.
+also the non-armored parts of the wearer's morph.
 It acts as an outer immune system designed to neu-
 tralize toxic agents and nanotoxins with which it
 comes into contact. This provides immunity to drugs,

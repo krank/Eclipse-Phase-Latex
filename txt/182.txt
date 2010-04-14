@@ -10,8 +10,8 @@ In a universe where appearance is highly variable, the
 question of identity is largely one of both trust and
 picking up on behavioral quirks and verbal cues to
 recognize a given individual.
-  When you use it: Sometimes it’s fun to pretend
-you’re someone else, and sometimes it’s profitable
+  When you use it: Sometimes it's fun to pretend
+you're someone else, and sometimes it's profitable
 or lifesaving. Use this skill whenever you attempt
 to convince someone that you are actually someone
 else through some sort of social or online interaction.
@@ -56,7 +56,7 @@ INTEREST: [FIELD]
 Type: Field, Knowledge
 Linked Aptitude: COG
   What it is: Interest includes just about any topic
-that captures your attention that isn’t covered by
+that captures your attention that isn't covered by
 another skill. This includes hobbies, obsessions,
 causes, pastimes, and other recreational pursuits.
   When you use it: Use the Interest skill whenever
@@ -98,7 +98,7 @@ actual) or sheer force of personality.
 into submission, browbeat them into getting your way,
 command them to follow your orders, or berate them
 into giving up information. Influence is handled as an
-Opposed Test, pitted against the target’s WIL + WIL
+Opposed Test, pitted against the target's WIL + WIL
 + SAV.
 Specializations: Interrogation, Physical, Verbal
 

@@ -17,7 +17,7 @@ be intercepted like radio. [Moderate]
    Radio Booster: This device boosts the range and
 sensitivity of short-range radios, like those from im-
 plants, ectos, or microbugs. The booster must be with
-the shorter-ranged device’s range (or directly linked
+the shorter-ranged device's range (or directly linked
 via fiberoptic cable). It will repeat any transmissions
 received from that device, but at its extended range of
 25 kilometers in urban areas (250 kilometers remote

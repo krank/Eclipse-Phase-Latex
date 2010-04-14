@@ -21,7 +21,7 @@ Advantages: 8 Arms, Beak Attack (1d10 DV, use
    Exotic Ranged: Ink Attack skill), Limber (Level 2)
    trait, 360-degree Vision, +30 Swimming skill, +10
    Climbing skill, +5 COO, +5 INT, +5 to one other
-   aptitude of the player’s choice
+   aptitude of the player's choice
 CP Cost: 50
 Credit Cost: Expensive (minimum 30,000+)
 
@@ -62,7 +62,7 @@ Aptitude Maximum: 30
 Durability: 30
 Wound Threshold: 6
 Advantages: +5 INT, +5 SAV, +5 to one aptitude of the
-  player’s choice
+  player's choice
 Disadvantages: Social Stigma (Pleasure Pod) trait
 CP Cost: 20
 Credit Cost: High
@@ -79,7 +79,7 @@ Puppet Sock
    Durability: 35
    Wound Threshold: 7
    Advantages: +10 SOM, +5 to one aptitude of the
-player’s choice
+player's choice
    Disadvantages: Social Stigma (Pod) trait
    CP Cost: 20
    Credit Cost: High

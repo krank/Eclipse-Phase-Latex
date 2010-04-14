@@ -11,7 +11,7 @@ Extended isolation                                      1d10 ÷ 2 (round down)  
 Extreme violence (viewing)                              1d10 ÷ 2 (round down)          ing, roleplaying, relationship-building,
 Extreme violence (committing)                                   1d10                   hypnotherapy, behavioral modification,
 Awareness that your death is imminent                           1d10                   drugs, medical treatments, and even psy-
-Experiencing someone’s death via XP                             1d10                   chosurgery (p. 229). AIs skilled in psycho-
+Experiencing someone's death via XP                             1d10                   chosurgery (p. 229). AIs skilled in psycho-
 Losing a loved one                                      1d10 ÷ 2 (round down)          therapy are also available.
                                                                                           Psychotherapy is a task action, with a
 Watching a loved one die                                      1d10 + 2
@@ -24,11 +24,11 @@ Torture (severe suffering)                                    3d10 + 5          
 Encountering aliens (non-sentient)                      1d10 ÷ 2 (round down)          session was successful. Successful psycho-
                                                                                        surgery adds a +30 modifier to this test; at
 Encountering aliens (sentient)                                  1d10
-                                                                                       the gamemaster’s discretion, other modi-
+                                                                                       the gamemaster's discretion, other modi-
 Encountering hostile aliens                                   1d10 + 3
                                                                                        fiers may apply. Likewise, each disorder
 Encountering highly-advanced technology                 1d10 ÷ 2 (round down)          the character holds inflicts a –10 modifier.
-Encountering Exsurgent-modiﬁed technology               1d10 ÷ 2 (round down)         Traumas may not be healed until all stress
+Encountering Exsurgent-modified technology               1d10 ÷ 2 (round down)         Traumas may not be healed until all stress
 Encountering Exsurgent-infected transhumans                     1d10                   is eliminated.
 Encountering Exsurgent life forms                             1d10 + 3                    When a trauma is healed, the derange-
 Exsurgent virus infection                                 Varies; see p. 366           ment associated with that trauma is
@@ -37,9 +37,9 @@ Witnessing psi-epsilon sleights                               1d10 + 2          
                                                                                        caused them, and may only be treated
      Every time you succeed in a Willpower Test to avoid                               when all other traumas are removed.
  taking stress from a particular source, take note. If you                  Gamemaster and players are encouraged to roleplay
- successfully resist such a situation 5 times, you become                a character’s suffering and relief from traumas and
+ successfully resist such a situation 5 times, you become                a character's suffering and relief from traumas and
  effectively immune to taking stress from that source.                   disorders. Each is an experience that makes a profound
-     The drawback to hardening yourself to such situa-                   impact on a character’s personality and psyche. The
+     The drawback to hardening yourself to such situa-                   impact on a character's personality and psyche. The
  tions is that you grow detached and callous. In order                   process of treatment may also change them, so in the
  to protect yourself, you have learned to cut off your                   end they may be a transformed from the person they
  emotions—but it is such emotions that make you                          once were. Even if treated, the scars are likely to remain

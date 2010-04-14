@@ -27,9 +27,9 @@ Desk                                    5         50          10          Window
  likely to suffer a blind fire modifier of at least –30
                                                                SMG                               0–30              31–80        81–12
  unless the attack has some way of viewing the target.
-                                                               Assault Riﬂe                      0–150          151–250         251–5
+                                                               Assault Rifle                      0–150          151–250         251–5
  On top of this, the target receives an armor bonus
- equal to the object/structure’s Armor rating x 2.             Sniper Riﬂe                       0–180          181–400        401–1,1
+ equal to the object/structure's Armor rating x 2.             Sniper Rifle                       0–180          181–400        401–1,1
                                                                Machine Gun                       0–100          101–400        401–1,0
  RANGE                                                       Railguns
 Every type of ranged weapon has a limited range,               as Firearms but increase the effective range in each category by +50
@@ -41,7 +41,7 @@ ries: Short, Medium, Long, and Extreme. A modifier
 is applied for each category, as noted on the Combat
 Modifiers table, p. 193.                                       Microwave Agonizer                 0–5              6–15          16–3
    For examples of specific weapon ranges, see the             Particle Beam Bolter              0–30              31–100       101–1
-Weapon Ranges table.                                           Plasma Riﬂe                       0–20              21–50        51–10
+Weapon Ranges table.                                           Plasma Rifle                       0–20              21–50        51–10
                                                                Stunner                           0–10              11–25         26–4
  RANGE, GRAVITY, AND VACUUM                                  Seekers
  The ranges listed on the Weapon Ranges table are for          Seeker Micromissile               5–70              71–180       181–6

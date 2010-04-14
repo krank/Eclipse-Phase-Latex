@@ -7,7 +7,7 @@
   force-grown and feature computer brains. Also known as
   bio-bots, skinjobs, replicants. From “pod people.”
 ■ Posthuman: A human or transhuman individual or
-  species that has been genetically or cognitively modiﬁed
+  species that has been genetically or cognitively modified
   so extensively as to no longer be human (a step beyond
   transhuman). Aka parahuman.
 ■ Prometheans: A group of transhuman-friendly seed AIs
@@ -33,7 +33,7 @@
 ■ Scorching: Hostile programs that can damage or affect
   cyberbrains.
 ■ Scum: The nomadic faction of space punks/gypsies that
-  travel from station to station in heavily-modiﬁed barges
+  travel from station to station in heavily-modified barges
   or swarms of ships. Notorious for being a roving black
   market.
 ■ Seed AI: An AGI that is capable of recursive self-improve-
@@ -51,7 +51,7 @@
   evidence of the TITANs or other possible avenues to
   super-intelligence, either to learn more about it or to
   become part of a super-intelligence themselves.
-■ Skin: A biological physical morph. Aka meat, ﬂesh.
+■ Skin: A biological physical morph. Aka meat, flesh.
 ■ Skinning: Changing your perceived environment via
   augmented reality programming.
 ■ Sleight: A psi power.
@@ -60,15 +60,15 @@
   ing dogs, cats, rats, and pigs). Some other large smart
   animals (whales, elephants) are nearly extinct.
 ■ Spime: Meshed, self-aware, location-aware devices.
-■ Splicers: Humans that are genetically modiﬁed to
+■ Splicers: Humans that are genetically modified to
   eliminate genetic diseases and some other traits. Also
-  known as geneﬁxed, cleangenes, tweaks.
+  known as genefixed, cleangenes, tweaks.
 ■ Swarmanoid: A synthetic morph composed from a
   swarm of tiny insect-sized robots.
 ■ Sylphs: Transhuman biomorphs with exotic good looks.
 ■ Synthmorph: Synthetic morphs. Robotic shells possessed
   by transhuman egos.
-■ Synths: A speciﬁc type of synthmorph. Synths are
+■ Synths: A specific type of synthmorph. Synths are
   standard androids/gynoids; robots that are designed to
   look humanoid, though they are usually noticeably not
   human.
@@ -80,12 +80,12 @@
   was TITAN: Total Information Tactical Awareness Network.
 ■ Torus: A donut-shaped habitat, spun for gravity.
 ■ Transgenic: Containing genetic traits from other species.
-■ Transhuman: An extensively modiﬁed human.
+■ Transhuman: An extensively modified human.
 ■ Trojans: Asteroids or moons that share the same orbit
   as a larger planet or moon, but follow about 60 degrees
   ahead or behind at the L4 and L5 Lagrange points. The
   term Trojans normally refers to the asteroids orbiting at
- Jupiter’s Lagrange points, but Mars, Saturn, Neptune, and
+ Jupiter's Lagrange points, but Mars, Saturn, Neptune, and
   other bodies also have Trojans. See also “Greeks.”
 ■ Uplifting: Genetically transforming an animal species to
   sapience.
@@ -94,15 +94,15 @@
   morph (from vaporware).
 ■ VPNs: Virtual private networks. Networks that operate
   within the mesh, usually encrypted for privacy/security.
-■ VR: Virtual Reality. Imposing an artiﬁcially-constructed
-  hyper-real reality over one’s physical senses.
+■ VR: Virtual Reality. Imposing an artificially-constructed
+  hyper-real reality over one's physical senses.
 ■ X-Caster: Someone who transmits/sells XP recordings of
   their experiences.
 ■ Xenomorph: Alien life form.
 ■ Xer: As in “X-er”—someone who is addicted or
   obsessed with XP. Sometime used to refer to people
   making XP as well.
-■ XP: Experience Playback. Experiencing someone else’s
+■ XP: Experience Playback. Experiencing someone else's
   sensory input (in real-time or recorded). Also called
   experia, sim, simsense, playback.
 ■ X-Risk: Existential risk. Something that threatens the

@@ -17,10 +17,10 @@ Wrench                    —                    1d10 + (SOM ÷
  someone with a meter of chain. The Improvised Weap-
  ons table offers statistics for a few likely ad-hoc items.
  Gamemasters can use these as guidelines for handling
- items that aren’t listed.
+ items that aren't listed.
 
  KNOCKDOWN/KNOCKBACK
- If an attacker’s intent is to simply knock an opponent
+ If an attacker's intent is to simply knock an opponent
  down or back in melee, rather than injure them, roll
  the attack and defense as normal. If the attacker suc-
  ceeds, the defender is knocked backward by 1 meter
@@ -39,11 +39,11 @@ Wrench                    —                    1d10 + (SOM ÷
  MELEE AND THROWN DAMAGE BONUS
  Every successful melee and thrown weapon attack,
  whether unarmed or with a weapon, receives a damage
- bonus equal to the attacker’s SOM ÷ 10, round down.
+ bonus equal to the attacker's SOM ÷ 10, round down.
  See Damage Bonus, p. 123.
 
  MULTIPLE TARGETS
- When doling out the damage, there’s no reason not to
+ When doling out the damage, there's no reason not to
  share the love.
 
  MELEE COMBAT
@@ -97,7 +97,7 @@ er 1 use          1 + (SOM ÷ 10)       Clubs or Throwing Weapons
      take before it is destroyed. Armor reduces the damage
      inflicted by attacks, as normal. For simplicity, a single
      Armor rating is given that counts as both Energy and
-     Kinetic armor; at the gamemaster’s discretion, these
+     Kinetic armor; at the gamemaster's discretion, these
      may be modified as appropriate.
        Wounds suffered by objects and structures do not have
      the same effect as wounds inflicted on characters. Each

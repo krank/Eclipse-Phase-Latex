@@ -9,7 +9,7 @@ eton features a military-grade fullerene armor shell          In Eclipse Phase, 
 with flexible aerogel for thermal insulation and a            common form of ground transportation, especially on
 diamond-hardened exterior designed to resist even             habitats. In larger habitats and on moons and planets,
 potent ballistic and energy-based weapons. The suit           cycles and cars are used as well.
-also enhances the wearer’s strength and mobility, ap-            Cycle: Because of the high cost of enclosing a habi-
+also enhances the wearer's strength and mobility, ap-            Cycle: Because of the high cost of enclosing a habi-
 plying a +10 bonus to strength-based tests, inflicting        tat and providing life support, space is at a premium
 an extra +1d10 damage and AP of –2 on melee at-               in all cities except some of the newest cities on Mars.
 tacks, and doubling the distance by which the char-           As a result, there is rarely room for large roads or the
@@ -26,7 +26,7 @@ protect the wearer from temperatures from –175 to             by superconducti
 140 C. [Expensive]                                            km and a top speed of 120 kph, but must usually
    Exowalker: Exowalkers are minimal framework                drive more slowly in crowded streets. Cycles are all
 exoskeletons, primarily designed to bolster the               equipped with radio boosters, headlights, and a por-
-wearer’s strength and movement. They provide a an             table radar sensor. Tires are solid state (not inflated),
+wearer's strength and movement. They provide a an             table radar sensor. Tires are solid state (not inflated),
 Armor Value of 2/4, a +10 modifier to strength-based          or in some cases smart spokes capable of handling
 tests, and double the distance by which the character         stairs. Some luxury versions have limited life-support
 may jump. [Moderate]                                          in the small cabin, capable of providing air for the

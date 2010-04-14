@@ -16,7 +16,7 @@ help those new to RPGs. Even more important, it en-
 ables the entire group to tailor the characters so there
 is not too much overlap in capabilities and style. After
 all, with the wealth of character opportunities avail-
-able, you don’t want to show up at the table with an
+able, you don't want to show up at the table with an
 almost identical character to the player next to you.
 
 THE GAMEMASTER
@@ -48,9 +48,9 @@ Game Mechanics, p. 112).
   The gamemaster describes the world as the char-
 acters see it, functioning as their eyes, ears, and other
 senses. Gamemastering is not easy, but the thrill of
-creating an adventure that engages the other players’
+creating an adventure that engages the other players'
 imaginations, testing their gaming skills and their
-characters’ skills in the game world, makes it worth-
+characters' skills in the game world, makes it worth-
 while. Posthuman Studios and Catalyst Game Labs
 will follow the publication of Eclipse Phase with sup-
 porting supplements and adventures to help this pro-
@@ -60,7 +60,7 @@ fact, since Eclipse Phase is published under a Creative
 Commons License (see p. 5), players are encouraged
 to tailor the universe to their style of play and also
 to share that with other players. You never know
-when a specific choice you’ve made in the running of
+when a specific choice you've made in the running of
 a campaign is exactly what another gamemaster and
 his group is looking for.
 
@@ -69,11 +69,11 @@ Whether you have purchased the print or electronic
 version, this book is specifically organized to present
 the information you need to know to start telling
 your stories in the Eclipse Phase universe. Below
-you’ll find a summary of each chapter of the book.
+you'll find a summary of each chapter of the book.
    A Time of Eclipse: A comprehensive history and set-
 ting fully describes the Eclipse Phase universe and how
 humanity transitioned from here to there. See p. 30.
-   Game Mechanics: The player’s desired actions
+   Game Mechanics: The player's desired actions
 become reality within the universe through quick and
 easy-to-use game mechanics. See p. 112.
    Character Creation and Advancement: Creating a
@@ -82,7 +82,7 @@ experiences of roleplaying. Even more rewarding is
 watching that character evolve and grow across nu-
 merous gaming sessions, far beyond anything your
 imagination first envisioned. See p. 128.
-   Skills: Beyond a character’s innate abilities, their
+   Skills: Beyond a character's innate abilities, their
 skills are what set them apart. This is what your
 character knows and what they know how to do. See
 p. 170.
@@ -102,16 +102,16 @@ everything else in between. See p. 294.
 secrets for gamemasters. See p. 350.
 
 TAKING NOTES
-Whether a gamemaster or player, you’ll need a way to
+Whether a gamemaster or player, you'll need a way to
 track information. Players will be generating charac-
 ters and making changes to those characters from ses-
 sion to session. Meanwhile, the gamemaster will have
 a host of information to track: notes on how the story
 is unfolding due to player character interaction that
-you’ll need to fold into next week’s session; changes
+you'll need to fold into next week's session; changes
 to NPCs; changes to player characters that the players
 are not yet aware off (such as a character has been
-mind hacked but doesn’t yet know it); and so on.
+mind hacked but doesn't yet know it); and so on.
    Additionally, some groups enjoy a synopsis of
 each session that can be compiled and read at a
 later time in order to enjoy and share their exploits,

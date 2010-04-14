@@ -4,7 +4,7 @@ DOWNTIME
   STRAIN MOD: 0
 This sleight provides the async with the ability
 to send the mind into a fugue-state regenerative
-downtime, during which the character’s psyche is
+downtime, during which the character's psyche is
 repaired. The async must enter the downtime for
 at least 4 hours; every 4 hours of downtime heals
 1 point of stress damage. Traumas, derangements,
@@ -41,7 +41,7 @@ FILTER
   RANGE:       Self         DURATION: Constant
 Filter allows the async to filter out out distractions
 and eliminate negative situational modifiers from
-distraction, up to the gamemaster’s discretion.
+distraction, up to the gamemaster's discretion.
 
 GROK
   PSI TYPE:   Active        ACTION:     Complex
@@ -82,7 +82,7 @@ that most people would not be able to recall.
 INSTINCT
    PSI TYPE:   Passive      ACTION:   Automatic
     RANGE:      Self        DURATION: Constant
-Instinct bolsters the async’s subconscious ability to
+Instinct bolsters the async's subconscious ability to
 gauge a situation and make a snap judgment that
 is just as accurate as a careful, considered decision.
 For Task Actions that involve analysis or planning

@@ -19,14 +19,14 @@ closely in line with their more animalistic forbears, or     tend to be very sec
 they may lose some of their uplift benefits such as the      because they are afraid others will think them vain—
 ability for abstract reasoning or speech.                    or they may feel too embarrassed to do so. Ironi-
    Suggested Game Effects: The player and gamemas-           cally, BDD is often misunderstood as a vanity-driven
-ter should discuss how much of the uplift’s nature is        obsession, whereas it is quite the opposite; people
+ter should discuss how much of the uplift's nature is        obsession, whereas it is quite the opposite; people
 lost and adjust game penalties accordingly. It is im-        with BDD believe themselves to be irrevocably ugly
 portant to note that other uplifts view atavistic uplifts    or defective. A similar disorder, gender identity dis-
 with something akin to horror and will usually have          order, where the patient is upset with their entire
 nothing to do with them.                                     sexual biology, often precipitates BDD-like feelings.
                                                              Gender identity disorder is directed specifically at
 ATTENTION DEFICIT HYPERACTIVITY DISORDER (ADHD)              external sexually dimorphic features, which are in
-This disorder manifests as a marked inability to focus       constant conflict with the patient’s internal psychi-
+This disorder manifests as a marked inability to focus       constant conflict with the patient's internal psychi-
 on any one task for an extended period of time, and          atric gender.
 also an inability to notice details in most situations.         Suggested Game Effects: Because of the nature of
 Sufferers may find themselves starting multiple tasks,       Eclipse Phase and the ability to swap out and modify
@@ -37,7 +37,7 @@ a given job done, even though they will quickly lose         adjust to the reali
 all interest in it.
    Suggested Game Effects: Perception and related            BORDERLINE PERSONALITY DISORDER
 skill penalties. Increased difficulty modifiers to task      This disorder is marked by a general inability to fully
-actions, particularly as the action drags on.                experience one’s self any longer. Emotional states are
+actions, particularly as the action drags on.                experience one's self any longer. Emotional states are
                                                              variable and often marked by extremes and acting
 AUTOPHAGY                                                    out. Simply put, the subject feels like they are losing
 This is a disorder that usually only occurs among up-        their sense of self and seeks constant reassurance

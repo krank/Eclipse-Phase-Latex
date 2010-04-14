@@ -16,13 +16,13 @@ matches reality, characters use their physical skills and
 aptitudes as if they were acting in the real world with
 few exceptions:
 
- • Though intrusion and hacking can be represented
+ - Though intrusion and hacking can be represented
    as another layer of the simulation, there is no
    actual hacking within the simulspace (see Hack-
    ing Simulspaces).
- • Asyncs cannot use their psi abilities in simulspace,
+ - Asyncs cannot use their psi abilities in simulspace,
    though such abilities can be simulated.
- • Any “physical” damage taken in the simulspace is
+ - Any “physical” damage taken in the simulspace is
    treated as “virtual” damage. While virtual injuries
    and wounds use the same mechanics, characters
    that die in a simulspace are usually simply ejected
@@ -30,9 +30,9 @@ few exceptions:
    acters are brought into a white room and can
    re-enter or just watch the simulation, depending
    on the domain rules.
- • Mental stress or trauma inflicted during a simu-
+ - Mental stress or trauma inflicted during a simu-
    lation carries over to the ego as real Lucidity
-   damage. At the gamemaster’s discretion, some
+   damage. At the gamemaster's discretion, some
    mental stress may be reduced if the character is
    aware that they are in a simulation.
 
@@ -76,7 +76,7 @@ into any other system. Use all of the standard rules for
 intrusion and subversion.
 
 MEDDLING FROM THE INSIDE
-Within a simulspace, a hacker’s only choice for inter-
+Within a simulspace, a hacker's only choice for inter-
 acting with the VR controls is through the standard
 interface that any simulmorph can pull up. Typically
 used for standard user features like adjusting your

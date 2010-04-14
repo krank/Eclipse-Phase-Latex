@@ -20,8 +20,8 @@ ROLEPLAYING FACTORS
  ing and provide ambiguous information.
     When describing spaceships and habitats, the
  physiology of the Factors should be considered.
-The Factors’ malleable form and ability to extend
- pseudopodial limbs enables them to ﬁt into most
+The Factors' malleable form and ability to extend
+ pseudopodial limbs enables them to fit into most
  places and operate transhuman devices (even
  pilot a transhuman vehicle by “hand”). The same
  is not true in reverse, however—most Factor
@@ -37,7 +37,7 @@ The Factors’ malleable form and ability to extend
   can adapt to new situations very quickly.
 
   ALIEN MINDSET
-  Factors don’t possess Lucidity stats and cannot be
+  Factors don't possess Lucidity stats and cannot be
   driven to madness like transhumans.
     Affecting Factors with psi is very difficult, as noted
   on p. 222. As of yet, Factors have not exhibited any

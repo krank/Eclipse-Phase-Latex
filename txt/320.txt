@@ -3,18 +3,18 @@ If a character is exposed to a drug via its method of
 application—for example, they pop a pill, slap on
 a dermal patch, are soaked with a splash grenade,
 breathe in gas, or get stabbed with a coated weapon—
-then they are subject to the drug’s effects. The onset
+then they are subject to the drug's effects. The onset
 time determines how long these effects take to kick in,
 and the duration determines how long they last.
    While there is no resistance test to ignore a drug or
-toxin’s effects once exposed, in some cases (especially
+toxin's effects once exposed, in some cases (especially
 toxins) a test might be called for to determine the
 severity of the effects.
    Unless otherwise noted or specifically overridden,
 medichines (p. 308) will protect a character from
 drug/toxin effects (but not nanodrugs/nanotoxins).
 Enhancements like toxin filters (p. 305) may also
-impede a drug’s effect or provide complete resistance.
+impede a drug's effect or provide complete resistance.
 If an antidote is taken in advance or before the effects
 kick in, the drug will not work.
 
@@ -35,19 +35,19 @@ drug and what the negative effects of not using the
 drug are.
    An addicted character must continue to make WIL
 x 3 Tests as they use the drug, as determined by the
-gamemaster. Failure indicates the character’s addic-
+gamemaster. Failure indicates the character's addic-
 tion severity increases.
    The negative effects from not using a drug end
 whenever the character does the drug again. Durabil-
 ity and Lucidity penalties are not damage, but tempo-
-rary decreases to the character’s maximum values; the
+rary decreases to the character's maximum values; the
 character immediately regains the lost Durability or
 Lucidity when they do the drug again.
    Addiction is of indefinite duration. To clean up,
 the character must stay off the drug for 1 week for
 each level of addiction. Resisting this craving is dif-
 ficult, and should at least require another WIL x 3
-Test, modified by the drug’s Addiction modifier. Play-
+Test, modified by the drug's Addiction modifier. Play-
 ers and gamemasters are encouraged to roleplay an
 attempt to kick a habit. Each week the character is
 off the drug, the addiction drops by one level. When
@@ -91,7 +91,7 @@ as guidelines.
 
 COGNITIVE DRUGS
  Nootropics and similar drugs are intended to boost
- the user’s mental faculties.
+ the user's mental faculties.
     Drive: This nootropic speeds up left-right brain
  hemisphere communication, stimulates idea produc-
  tion, and improves concentration, with no usual side
@@ -110,7 +110,7 @@ COGNITIVE DRUGS
  on COG Tests to recall information they learned
  while on Neem (see Memorizing and Remembering,
  p. 176). The drawback to Neem is that memories they
- accumulate while under the drug’s influence have no
+ accumulate while under the drug's influence have no
  emotional association. For example, a character who
  witnessed something horrible happening to a friend
  or who had a fight with a romantic partner while on

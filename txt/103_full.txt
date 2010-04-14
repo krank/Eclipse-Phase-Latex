@@ -3,7 +3,7 @@ Locus is the largest cluster habitat ever formed. It                      When s
 is still growing, with over one million inhabitants                       as a point on a spherical coordinate system with the
 in the habitat proper and another million in the                          Amoeba at its center. Large ships and shuttles dock on
 nearby suburbs of scum barges and small asteroid                          the outer surface of the habitat, at the terminal points
-stations. Locus is located in Cassandra’s Reach, one                      of the arterial spars.
+stations. Locus is located in Cassandra's Reach, one                      of the arterial spars.
 of the denser regions in the L5 Trojans. The habitat                         Locus was founded by a joint anarchist-argonaut
 is positioned at the center of mass around which the                      venture and was the fi rst major stronghold for
 two asteroids making up the binary object Patro-                          the autonomist factions. Unlike Extropia, which
@@ -15,11 +15,11 @@ smaller Lot 49, but Locus is eleven kilometers in di-                     defens
 ameter and somewhat irregular in shape, as growth                         unteers. Inhabitants interested in security monitor
 along some spars is faster than others. A quarter of its                  incoming ships and operate crowdsourcing systems
 total volume is cut out in a roughly conical shape all                    that dispatch volunteers to perform WMD scans on
-the way to the Amoeba, an immense, softly glowing                         new arrivals. Ships that won’t submit to a scan are
-sculpture at the center of the habitat. Some differences                  asked to leave. If they don’t, anyone who’s designed
-from smaller Trojan clusters are dictated by Locus’s                      a cool new weapons system recently is welcome to
+the way to the Amoeba, an immense, softly glowing                         new arrivals. Ships that won't submit to a scan are
+sculpture at the center of the habitat. Some differences                  asked to leave. If they don't, anyone who's designed
+from smaller Trojan clusters are dictated by Locus's                      a cool new weapons system recently is welcome to
 size. The immense structural spars radiating from the                     take a shot.
-habitat’s center are hollow, with arterial floatways and                     Locus is one focal point in a cold war between the
+habitat's center are hollow, with arterial floatways and                     Locus is one focal point in a cold war between the
 elevator-trams running inside of them. Lesser spars                       hypercorp-aligned inner system powers and a loose
 run between the arterial spars, providing more moor-                      coalition of outer system interests. While saboteurs
 ing points for modules. Adjacent to each arterial spar                    from the Planetary Consortium and other hostile
@@ -36,7 +36,7 @@ teems with small craft and people on thrustpacks or                       Trojan
 voidscooters as they cross the habitat, play zero-g                       took a dim view of any Planetary Consortium ex-
 games, or visit the free-floating spimes and sculptures                   pansion beyond the belt. The Titanians now main-
 that dot the area. The Amoeba, which periodically                         tain a permanent base near Locus. Rumor has it they
-changes color and shape based on its resident AI’s                        agreed to a mutual defense pact with one of Locus’
+changes color and shape based on its resident AI's                        agreed to a mutual defense pact with one of Locus'
 programming (often it looks like some sort of animal),                    citizens, possibly the famous programmer-armsman
                                                                           Teilhard Liu.
 
@@ -47,14 +47,14 @@ programming (often it looks like some sort of animal),                    citize
              mental trauma by mooring here. You         the private carrier Atsuko van Vogt as      the Amoeba from here is a physicist.
              must bring or be capable of acquiring      your receptor. ComEx corporate policy       She has a box that generates micro-
              enough food, H20, oxygen, and shelter      requires us to inform you that the des-     singularities in her lab. If people along
-             to survive for the duration of your stay   tination and carrier you have selected      my spar found out I’d stolen a fork of
-             in a harsh, asteroid-rich environment.     are unregistered and possibly unsafe.       someone, they’d pop my stack with a
+             to survive for the duration of your stay   tination and carrier you have selected      my spar found out I'd stolen a fork of
+             in a harsh, asteroid-rich environment.     are unregistered and possibly unsafe.       someone, they'd pop my stack with a
              Weapons of mass destruction are pro-       ComEx takes no responsibility for the       grapefruit knife and throw it in there.
-             hibited. Further guidelines for coexist-   continuity of your consciousness upon       That’s what we call, ‘accountability.’ See
+             hibited. Further guidelines for coexist-   continuity of your consciousness upon       That's what we call, ‘accountability.' See
              ing with your fellow entities are in the   arrival. You assume any and all risks       if you get the same from ComEx.”
              habitat survival guide. You and only you   for travel to this point, including theft       —Atsuko van Vogt
              are responsible for yourself—learn to      of forks or deletion. ComEx will include
              love it!”                                  a permanent record of travel with this
-                —Locus Immigration AR broadcast         carrier on your ﬁle. Would you like to
+                —Locus Immigration AR broadcast         carrier on your file. Would you like to
                                                         continue?”
                                                            —ComEx legal disclaimer

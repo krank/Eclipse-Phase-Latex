@@ -2,19 +2,19 @@
             EFFECT
             Character is unable to acclimate to the new morph—
             something is just not right. Character suffers a –30 modi-
-            ﬁer to all physical actions until resleeved.
+            fier to all physical actions until resleeved.
             Character has serious trouble acclimating to the new
-0+)         morph. They suffer a –10 modiﬁer to all actions for 2 days
+0+)         morph. They suffer a –10 modifier to all actions for 2 days
             plus 1 day per 10 full points of MoF.
             Character has some trouble acclimating to new morph.
-            They suffer a –10 modiﬁer to all physical actions for 2
+            They suffer a –10 modifier to all physical actions for 2
             days plus 1 day per 10 full points of MoF.
             Standard acclimation period. The character suffers a –10
-            modiﬁer to all physical actions for 1 day.
+            modifier to all physical actions for 1 day.
             No ill effects. Character acclimates to new morph in no
  S 30+)
             more than a few minutes.
-            Lookin’ good! This morph is an exceptionally good ﬁt for
+            Lookin' good! This morph is an exceptionally good fit for
             the character. No ill effects; gain 1 Moxie point for use in
             that game session only.
 
@@ -33,7 +33,7 @@ eeving into a physical body                                    –10
 resleeving in a non-uplift (of their type) body                –10
                                                                –10
  morph)                                                        –10
-iﬁed                                                           –10
+ified                                                           –10
 ait (Level 1)                                                  –10
 ait (Level 2)                                                  –20
 apply to AGIs) (Alienation Test only)                          –20
@@ -46,25 +46,25 @@ orph, neo-avian, novacrab, swarmanoid, etc.)                   –30
 
         ALIENATION TEST
                                  EFFECT
-Extreme Dysmorphia. The character doesn’t like their new sleeve at all
+Extreme Dysmorphia. The character doesn't like their new sleeve at all
 and suffers 2 stress points per 10 full points of MoF.
 Character is uneasy about the new morph and suffers 1 stress point
 per 10 full points of MoF.
 Character adapts to their new look well. No ill effects.
-Best. Morph. Ever. The new morph jives perfectly with the character’s
+Best. Morph. Ever. The new morph jives perfectly with the character's
  ense of self, and even enhances it somewhat. The character actually
 heals 1d10 ÷ 2 (round up) stress points.
 ALIENATION
 After loss of continuity, the other major factor impact-
 ing resleeving characters is alienation. Once the ego
-has its new sleeve under control, it’s time to look in
+has its new sleeve under control, it's time to look in
 the mirror. The alienation test reflects the experience of
 coming to terms with a new face, skin, and brain. For
 example, transferring to a radically different morph
 (such as a swarmanoid) can be difficult to grasp.
 Uplifts often have difficulty getting acquainted with
 the differing hormonal urges of a human biomorph
-and vice versa. While the character’s ego is as it was
+and vice versa. While the character's ego is as it was
 in their last sleeve, the brains and neurochemistry of
 many morphs may alter aptitudes like WIL or COG.
 The effects of this can be frustrating or disorienting.

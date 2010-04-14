@@ -30,8 +30,8 @@ magnitude of the radiation put out by some bodies in
 the solar system defeats even these.
    Radiation poisoning is a complicated affair, and de-
 tailed rules are beyond the scope of this book. Sources
-of radiation include the Earth’s Van Allen belt, Jupi-
-ter’s radiation belt, Saturn’s magnetosphere, cosmic
+of radiation include the Earth's Van Allen belt, Jupi-
+ter's radiation belt, Saturn's magnetosphere, cosmic
 rays, solar flares, fission materials, unshielded fusion
 or antimatter explosions, and nuclear blasts, among
 others. Effects can vary drastically depending on the
@@ -87,7 +87,7 @@ In general, any physical skill performed underwater suf-
 fers a –20 penalty due to the resistance of the medium.
 Skills relying on equipment not adapted for underwa-
 ter use may be more difficult or impossible to use. A
-character’s movement rate while swimming or walking
+character's movement rate while swimming or walking
 underwater is one quarter their normal rate on land.
 If a character begins to drown underwater, follow the
 rules for asphyxiation (p. 194). Note that drowning

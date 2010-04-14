@@ -2,9 +2,9 @@ summary. If you started with the concept of “xeno-so-      wealth and influenc
 ciologist,” expand it to “open-minded amateur linguist     dream of.
 and expert xeno-sociologist who is fascinated by alien     Advantages: +10 Protocol skill, +10,000 Credit, +20
 cultures, collects Factor kitsch, has a high-tolerance       Networking: Hypercorps skill
-for ‘yuck factors,’ and whose best friends tend to be      Disadvantages: May not start with flat, splicer, or any
+for ‘yuck factors,' and whose best friends tend to be      Disadvantages: May not start with flat, splicer, or any
 uplifts and AIs.” This will give you a few more details      pod, uplift, or synthetic morphs
-around which you can focus the character’s strengths       Common Morphs: Exalts, Sylphs
+around which you can focus the character's strengths       Common Morphs: Exalts, Sylphs
 and weaknesses.
                                                            INFOLIFE
 CHOOSE BACKGROUND                                          You entered existence as a digital consciousness—
@@ -50,7 +50,7 @@ self out in the system.                                    Common Morphs: Futura
 Advantages: +10 Pilot: Groundcraft skill, +10 Net-
   working: [Field] skill of your choice, +1 Moxie          LUNAR COLONIST
 Disadvantages: Only 2,500 Starting Credit (can still       You experienced your childhood in one of the cramped
-  buy credit with CP)                                      dome cities or underground stations on Luna, Earth’s
+  buy credit with CP)                                      dome cities or underground stations on Luna, Earth's
 Common Morphs: Flats, Splicers                             moon. You had a ringside seat to the Fall of Earth.
                                                            Advantages: +10 Pilot: Groundcraft skill, +10 to one
 HYPERELITE                                                   Technical, Academic: [Field], or Profession: [Field] skill

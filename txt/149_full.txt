@@ -1,21 +1,21 @@
-this patron can pull strings on the character’s behalf,    PSI CHAMELEON (EGO OR MORPH TRAIT)
+this patron can pull strings on the character's behalf,    PSI CHAMELEON (EGO OR MORPH TRAIT)
 supply resources, introduce them to people they need       Cost: 10 CP
-to know, and bail them out of trouble. The player            The character’s mental state is naturally resistant to
+to know, and bail them out of trouble. The player            The character's mental state is naturally resistant to
 and gamemaster should work together to define ex-          psi sensing. Apply a –10 modifier to any attempts to
 actly who this NPC is and what their relationship          locate or detect the character via psi sleights.
 with the player character is. Specifically, the question
 of why this patron is supporting the character should      PSI DEFENSE (EGO OR MORPH TRAIT)
 be answered (familial obligation? childhood buddies?       Cost: 10 (Level 1) or 20 (Level 2) CP
-the character saved their life once?). Gamemasters           The character’s mind is inherently resistant to
+the character saved their life once?). Gamemasters           The character's mind is inherently resistant to
 should be careful that this trait does not get abused.     mental attacks. At Level 1, apply a +10 modifier to
 The patron should be an occasional help (probably          all defense tests made against psi attacks. At Level 2,
 no more than once per game session at most) but is         apply a +20 modifier.
-not always at the character’s beck-and-call. If the
+not always at the character's beck-and-call. If the
 character asks for too much, too often, they should        RAPID HEALER (MORPH TRAIT)
-find the patron’s support drying up. Additionally, the     Cost: 10 CP
+find the patron's support drying up. Additionally, the     Cost: 10 CP
 character may need to take action to maintain the            The morph recovers from damage more quickly.
 relationship, such as undertaking a mission on the         Reduce the timeframes for healing by half, as noted
-patron’s behalf. In fact, the character may only have      on the Healing table, p. 208. This trait is only avail-
+patron's behalf. In fact, the character may only have      on the Healing table, p. 208. This trait is only avail-
 their patronage because they are on-call or of use to      able to biomorphs.
 the NPC in some way.
                                                            RIGHT AT HOME

@@ -6,7 +6,7 @@
  determine your ability to acquire goods, services, and             Likewise, favors are also broken down into five
  information and favors, as noted below. These scores            levels, rated from Trivial to Scarce (see Favors, p. 289,
  may be raised or lowered during game play according             for specific examples). The standard level of favor
- to your character’s actions.                                    you can expect to get from a social network is based
+ to your character's actions.                                    you can expect to get from a social network is based
                                                                  on your level of Rep in that network. If you want to
  USING NETWORKS AND REP                                          pursue a favor above your level, you can do so, but
  In game terms, you take advantage of your connec-               you will suffer a negative modifier on your Network-
@@ -19,11 +19,11 @@
  THE NETWORKING TEST                                             favor falls under or above your Rep score level, apply
  To pursue a favor, you start by looking around. This            a + or –10 modifier, as appropriate.
  calls for a Networking Test to determine if you can
- find the person, people, or information you need.                   Jaqui’s on a scum barge and she needs to get a
- This represents talking to people you know, spread-                 hold of a weapon fast. She has a speciﬁc weapon in
- ing the word to people they know, posting queries to                mind, but it’s pricey—its cost is High. She decides
+ find the person, people, or information you need.                   Jaqui's on a scum barge and she needs to get a
+ This represents talking to people you know, spread-                 hold of a weapon fast. She has a specific weapon in
+ ing the word to people they know, posting queries to                mind, but it's pricey—its cost is High. She decides
  the social network at large, digging through various                her best approach is to try talking to the scum on
- profiles, chat rooms, etc. to find someone who might                the ship to try and ﬁnd someone who can lend or
+ profiles, chat rooms, etc. to find someone who might                the ship to try and find someone who can lend or
  help you out, and so on.
 
 
@@ -33,11 +33,11 @@
                                                                      sell her such a weapon, using her @-rep and her
     Networking Tests are subject to modifiers for the                Networking: Autonomist skill of 50. Acquiring a
  level of the favor (see below), the amount the char-                High cost item counts as a Level 4 High favor (see
- acter is trying to keep quiet about the request (see                Acquire/Unloads Goods, p. 289). Jaqui’s @-rep
+ acter is trying to keep quiet about the request (see                Acquire/Unloads Goods, p. 289). Jaqui's @-rep
  below), and any other factors noted on the Network-                 is 53, which is only Level 3. Since the favor is one
  ing Modifiers table or determined by the gamemaster.                level higher than her rep level, she suffers a –10
-    Networking Tests are Task Actions—it takes time                  modiﬁer on her Networking Test. Jaqui must roll a
- to call in favors or track down information. The time-              40 or less (50 – 10) to ﬁnd a weapon supplier.
+    Networking Tests are Task Actions—it takes time                  modifier on her Networking Test. Jaqui must roll a
+ to call in favors or track down information. The time-              40 or less (50 – 10) to find a weapon supplier.
  frame depends on the level of favor, as noted on the
  Favors table, p. 289.
 

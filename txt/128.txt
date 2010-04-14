@@ -4,7 +4,7 @@ simple. See the Gear Costs table on p. 137.
 
 IMPLANTS
 Implants include cybernetic, bionic, genetech, and
-nanoware enhancements to your character’s morph
+nanoware enhancements to your character's morph
 (or mechanical enhancements in the case of a synthetic
 shell). These implants may give your character special
 abilities or modify their stats, skills, or traits. Some

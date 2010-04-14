@@ -4,33 +4,33 @@ have drastically increased the sensory capabilities            Radar (Radio/Micr
 of most transhumans. The following notes provide            actively emitting radio waves and microwaves and
 some details on what capabilities these sensory func-       measuring them as they bounce off the target. Radar
 tions provide. The capabilities are typically the same      works best when detecting metallic objects, and is
-whether it’s a biological sense or a technological          less effective (–20 modiﬁer) against biomorphs and
+whether it's a biological sense or a technological          less effective (–20 modifier) against biomorphs and
 sensor, though tech sensors can “turn off” certain          small items. Resolution is not high, however, so it can
-wavelengths and sense only specific frequencies,            see shapes but not colors or ﬁne details. It can be
+wavelengths and sense only specific frequencies,            see shapes but not colors or fine details. It can be
 whereas biological senses perceive the full spectrum        used to detect both speed and movement, can “see”
-with no ability to ﬁlter parts out.                         through walls (up to a cumulative Armor + Durabil-
+with no ability to filter parts out.                         through walls (up to a cumulative Armor + Durabil-
                                                             ity of 100), and can detect cybernetic implants or
 SENSORY DATABASES                                           concealed items. At close ranges (1-2 meters), it can
  Both technological sensors and enhanced biological         detect pulse rate and respiration by measuring the
  senses come equipped with databases of scanned             motion of the chest cavity.
 “signatures” that make it easier to identify whatever          Terahertz: Terahertz sensors emit t-rays, measure
- the user is sensing (in the case of bioware, these da-     the reﬂections, and compare them to a database
- tabases are stored and accessed via the character’s        of terahertz signatures that different items/materi-
+ the user is sensing (in the case of bioware, these da-     the reflections, and compare them to a database
+ tabases are stored and accessed via the character's        of terahertz signatures that different items/materi-
  mesh inserts). For example, infrared sensors feature       als have. The resolution is higher than radar, but
  databases listing the heat signatures of different         with slightly less detail than normal vision. Similar
  animals and items, making it easier to identify such       to radar, terahertz sensors can see through walls
- things. In relevant situations, apply a +20 modiﬁer        and other materials, but to a lesser extent (up to a
+ things. In relevant situations, apply a +20 modifier        and other materials, but to a lesser extent (up to a
  for identifying targets sensed this way.                   cumulative Armor + Durability of 50). T-rays occur
                                                             naturally, but terahertz sensors normally require an
 ACTIVE VS. PASSIVE                                          emitter as they are absorbed by atmosphere (as well
 An active scanner must actually emit its particular         as water and metal). In space, however, an emitter
-frequency and then measure the reﬂections; this             would not be required. Likewise, passive terahertz
+frequency and then measure the reflections; this             would not be required. Likewise, passive terahertz
 means a similar sensor can detect it and home in on         scans within atmosphere have an effective range of
 the emitting source. For example, a character with          25 meters. T-rays do not penetrate skin, so are inef-
 enhanced vision can literally see the terahertz radia-      fective for locating implants.
 tion emitted by someone using an active terahertz              Infrared: Near-infrared wavelengths are used
 sensor, much like someone with normal vision can            for night vision, providing resolution and detail
-see the light emitted by a ﬂashlight.                       equivalent to regular vision under low-light condi-
+see the light emitted by a flashlight.                       equivalent to regular vision under low-light condi-
   A passive scanner simply scans frequencies that occur     tions. Mid-long infrared is excellent for detecting
 naturally—there is nothing to give the sensor away.         heat sources (unobstructed by fog or smoke) and
                                                             temperature differences (as small as 0.1 degree C),
@@ -52,8 +52,8 @@ these categories: radio, microwave, terahertz, infrared,    were pressed if they
   Most physical bioware augmentations are derived               and deactivated at will, and the negated wounds are
   from the capabilities of animals.                             cumulative). [High]
      Adrenal Boost: This adrenal gland enhancement                 Bioweave Armor (Light): Bioweave armor involves
-  supercharges the character’s adrenal response to              lacing the morph’s skin with artificial spider silk bio-
+  supercharges the character's adrenal response to              lacing the morph's skin with artificial spider silk bio-
   situations that invoke stress, pain, or strong emotions       logical fibers. This provides an Armor rating of 2/3
   (fear, anger, lust, hate). When activated, the concen-        without changing the appearance, texture, or sensitiv-
-  trated burst of norepinephrine accelerates heart rate         ity of the morph’s skin. This armor is cumulative with
+  trated burst of norepinephrine accelerates heart rate         ity of the morph's skin. This armor is cumulative with
   and blood flow and burns carbohydrates. In game               worn armor. [Low]

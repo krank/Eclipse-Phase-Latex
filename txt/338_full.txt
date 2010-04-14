@@ -3,7 +3,7 @@ BRAND NAME WEAPONS                                                of greater mas
                                                                   upon impact that shatter and incinerate the target, or
 AND COMBINED ARMS                                                 portions of it. While railguns are more potent than
                                                                   firearms, the ammunition choices are limited as the
-The weapons listed in this book deﬁne generic
+The weapons listed in this book define generic
                                                                   projectile must be conductive and able to survive
 samples of each weapon. Gamemasters are en-
                                                                   both acceleration and heat created in the process due
@@ -19,24 +19,24 @@ setting but come equipped with an extra ammo
                                                                   supersonic crack of the projectile.
 capacity of 35. Likewise, a Medusan Arms Longi-
                                                                      Railguns are available in the same models as fire-
-nus sniper riﬂe may inﬂict an extra +2 damage
+nus sniper rifle may inflict an extra +2 damage
                                                                   arms (pistols through machine guns), with the follow-
 but have an AP of only –12.
                                                                   ing modifications:
   Similarly, many of the weapons listed here are
 available as combined arms weapons systems. A
-                                                                   • Increase AP by –3
-police-issue assault riﬂe may also feature a stun-
-                                                                   • Increase damage by +2
+                                                                   - Increase AP by –3
+police-issue assault rifle may also feature a stun-
+                                                                   - Increase damage by +2
 ner—all built into the same weapon. For com-
-                                                                   • Increase the maximum for each range category
+                                                                   - Increase the maximum for each range category
 bined arms, simply add together the individual
                                                                      by x1.5
 weapon component costs.                         ■
-                                                                   • Increase Cost category by one
-                                                                   • Railguns may only use regular and armor-pierc-
+                                                                   - Increase Cost category by one
+                                                                   - Railguns may only use regular and armor-pierc-
                                                                      ing ammunition
-   Machine Gun: Machine guns are heavy weapons,                    • Railguns also require battery power for each shot.
+   Machine Gun: Machine guns are heavy weapons,                    - Railguns also require battery power for each shot.
  typically mounted, and intended to provide continu-                 Standard railgun batteries hold enough power for
  ous fire for support or suppressive purposes. They fire             200 shots, after which they must be recharged at
  in burst fire or full auto modes, and are two-handed                the rate of 20 points per hour.
@@ -55,8 +55,8 @@ Light Pistol                  —                            2d10               
 Medium Pistol                 –2                       2d10 + 2                 13              SA, BF, FA          12
 Heavy Pistol                  –4                       2d10 + 4                 15              SA, BF, FA          16
 Submachine Gun                –2                       2d10 + 3                 14              SA, BF, FA          20
-Automatic Riﬂe                –6                       2d10 + 6                 17              SA, BF, FA          30
-Sniper Riﬂe                   –12                     2d10 + 10                 21              SA, BF, FA          40
+Automatic Rifle                –6                       2d10 + 6                 17              SA, BF, FA          30
+Sniper Rifle                   –12                     2d10 + 10                 21              SA, BF, FA          40
 Machine Gun                   –4                       2d10 + 6                 17                BF, FA            50
 
 
@@ -67,6 +67,6 @@ Light Pistol                  –3                       2d10 + 2               
 Medium Pistol                 –5                       2d10 + 4                 15              SA, BF, FA          12
 Heavy Pistol                  –7                       2d10 + 6                 17              SA, BF, FA          16
 Submachine Gun                –5                       2d10 + 5                 16              SA, BF, FA          20
-Automatic Riﬂe                –9                       2d10 + 8                 19              SA, BF, FA          30
-Sniper Riﬂe                   –15                     2d10 + 12                 23              SA, BF, FA          40
+Automatic Rifle                –9                       2d10 + 8                 19              SA, BF, FA          30
+Sniper Rifle                   –15                     2d10 + 12                 23              SA, BF, FA          40
 Machine Gun                   –7                       2d10 + 8                 19               BF, FA             50

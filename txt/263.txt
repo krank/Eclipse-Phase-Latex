@@ -5,7 +5,7 @@ grammed. When composing the script, the character
 must detail what system operations the set will call
 for, in what order and at what times (or at what trig-
 ger steps). The script cannot contain more steps/tasks
-than the character’s Programming skill ÷ 10 (round
+than the character's Programming skill ÷ 10 (round
 down). To program a script, the character must suc-
 ceed in a Programming Test with a timeframe deter-
 mined by the gamemaster.
@@ -15,16 +15,16 @@ in an Infosec Test (or an Opposed Infosec Test if the
 system is actively monitored). If successful, the script
 is loaded into the system and will run as programmed.
    Once the script is activated, it carries out the pre-
-programmed sequence of actions. The programmer’s
+programmed sequence of actions. The programmer's
 Infosec skill is used for any tests those actions call for.
    Inactivated scripts may be detected in a security
 audit, just like backdoors (p. 260).
 
 
-           Sarlo has inﬁltrated a security system and wants
+           Sarlo has infiltrated a security system and wants
            to arrange it so that a particular security sensor
            deactivates and a door unlocks at a set time, al-
-           lowing his team to inﬁltrate a high-security area.
+           lowing his team to infiltrate a high-security area.
            He creates a script that will activate at 2200 hours
            with the following steps:
            1) At 2200 hours, disable security sensor
@@ -41,9 +41,9 @@ audit, just like backdoors (p. 260).
            with his Programming skill of 70. Sarlo succeeds in
            his Programming and Infosec Tests, and the script
            is loaded. It will then activate at the appropriate
-           time. Since Sarlo’s account did not have access
+           time. Since Sarlo's account did not have access
            rights to perform these actions, each will require
-           an Infosec Test using Sarlo’s skill to succeed.
+           an Infosec Test using Sarlo's skill to succeed.
 
 
 
@@ -58,7 +58,7 @@ vulnerable to hacking, like any other electronic device.
 reasons, but they do have access jacks (p. 306) and
 are directly linked to mesh inserts. This means that
 in order to hack a cyberbrain, the hacker either must
-have direct physical access to the morph’s body in
+have direct physical access to the morph's body in
 order to jack in, or they must first hack into the mesh
 inserts and then break into the cyberbrain from there.
    Due to their importance, cyberbrains are equipped
@@ -69,7 +69,7 @@ that the –30 modifier for hacking an admin account
 does not apply to cyberbrains.)
   Cyberbrains are treated just like other systems for
 intrusion and subversion purposes, but since they
-house the morph’s controlling ego they present several
+house the morph's controlling ego they present several
 unique hacking opportunities.
 
 ENTRAPMENT
@@ -81,7 +81,7 @@ Infosec Test. If successful, the ego is prevented from
 transferring itself to another system.
   To fully pen the ego in, the ego character and its
 protecting muse must also be locked out (p. 257) from
-controlling the cyberbrain’s system, otherwise the ego
+controlling the cyberbrain's system, otherwise the ego
 could potentially be freed.
    Trapped egos are quite vulnerable. They could, for
 example, be subject to enforced uploading, enforced
@@ -118,7 +118,7 @@ feasible due to the strict content filtering that occurs on
 the link between the cyberbrain and mesh inserts. One
 of these possibilities is scorching—the use of damaging
                                    —the
-neurofeedback algorithms to harm the victim’s mind.
+neurofeedback algorithms to harm the victim's mind.
    In order to make a scorching attack, the cyberbrain
 intruder must deploy a scorch program. To utilize a
 scorch program, the intruder must beat the defending

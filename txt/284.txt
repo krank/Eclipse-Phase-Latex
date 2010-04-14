@@ -1,17 +1,17 @@
-   The inside of an O’Neill cylinder has six alternating
+   The inside of an O'Neill cylinder has six alternating
 strips of ground and window running from one cap
 of the cylinder to the other. One narrow end of an
-O’Neill cylinder points toward the sun. The opposite
+O'Neill cylinder points toward the sun. The opposite
 end is the mooring point for three immense reflectors
 angled to reflect sunlight into the windows. Smart
 materials coating the windows and reflectors prevent
 fluctuations in solar activity from delivering too much
 heat. The air inside the cylinder and its metal super-
 structure provide radiation shielding.
-   The land in most O’Neill cylinders is one-third
+   The land in most O'Neill cylinders is one-third
 agricultural (a combination of food vats and high-
 yield photosynthetic crops), one-third park land, and
-one-third mixed use residential and business. O’Neill
+one-third mixed use residential and business. O'Neill
 habitats have a day and night cycle regulated by the
 position of the external mirrors. The business and
 residential sections of the cylinder usually alternate
@@ -20,8 +20,8 @@ cropland usually takes up the third. Bridges cross
 the windows every kilometer or so, linking the land
 strips. The interior climate, the architectural style of
 the structures, and the types of vegetation and fauna
-present vary with the tastes of the habitats’ designers.
-   Depending upon size, O’Neill cylinders can house
+present vary with the tastes of the habitats' designers.
+   Depending upon size, O'Neill cylinders can house
 from 25,000 to 2 million people.
 
 TIN CANS
@@ -42,13 +42,13 @@ mooring for shuttles and perhaps prospecting craft.
 TORUSES
 Interchangeably called toruses, toroids, donuts, and
 wheels, these circular space habitats were a cheap
-alternative to the O’Neill cylinder used for smaller
-installations. Like O’Neill cylinders, toruses are seldom
+alternative to the O'Neill cylinder used for smaller
+installations. Like O'Neill cylinders, toruses are seldom
 constructed anymore, but many are still encountered in
 the inner system, particularly in Earth and Lunar orbit.
   A toroidal habitat looks like a donut 1 kilometer in
 diameter, rotating on great spokes. There is a zero-g
-spaceport at the wheel’s hub. Visitors take a lift down
+spaceport at the wheel's hub. Visitors take a lift down
 one of the spokes to the level of the donut, where
 rotation creates one Earth gravity.
   The plan of toroidal habitats varies greatly, as many
@@ -70,7 +70,7 @@ opposite directions, joined at the axis.
 
 IMMIGRATION AND CUSTOMS
 How characters gain entry to a habitat and what type
-of screening they’re likely to undergo depends upon
+of screening they're likely to undergo depends upon
 how they arrive. Some habitats are close to other
 settlements, while others are physically isolated by the
 vast, empty distances of interplanetary space.
@@ -110,7 +110,7 @@ types of XP recordings, covert operations tools, and
 so on. Certain types of morphs may also be restricted,
 such as reapers, furies, or uplifts.
    Certain habitats may insist that visitors—or at
-least the ones they don’t like the looks of—submit to
+least the ones they don't like the looks of—submit to
 specific forms of monitoring or surveillance for the
 duration of their stay. This might include taggant
 nanoswarms, hosting a police AI in your mesh inserts,

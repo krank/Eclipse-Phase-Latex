@@ -4,13 +4,13 @@ Fur Coat        1   1    1    5    1   5    1    12   1     15   3     2    1 �
                                                                                 Fray 30, Freerunning 30, Intimidation 30, Percep-
 Smart Dog       5   10   15   15   5   15   10   60   1     25   5     20   4
                                                                                 tion 30, Scrounging 30, Unarmed Combat 40
-                                                                              Climbing 50, Fray 30, Freerunning 30, Inﬁltra-
+                                                                              Climbing 50, Fray 30, Freerunning 30, Infiltra-
 Smart Monkey    5   15   15   15   5   10   10   60   1     20   4     20   4 tion 30, Perception 30, Scrounging 30, Unarmed
                                                                               Combat 30
-                                                                                Climbing 40, Fray 40, Freerunning 30, Inﬁltration
+                                                                                Climbing 40, Fray 40, Freerunning 30, Infiltration
 Smart Rat       5   15   15   15   5   5    10   60   2     5    1     20   4
                                                                                 50, Perception 20, Scrounging 50
-                                                                                Fray 30, Free Fall 30, Inﬁltration 50, Perception 20,
+                                                                                Fray 30, Free Fall 30, Infiltration 50, Perception 20,
 Space Roach     1   10   10   15   5   5    5    50   1     5    1     10   2
                                                                                 Scrounging 50
 
@@ -20,7 +20,7 @@ Space Roach     1   10   10   15   5   5    5    50   1     5    1     10   2
  have rudimentary intelligence and limited communica-                   Specimen Container: This capsule container is
  tion skills. They make for fine companions and helpers.             designed to hold samples of any sort (chemical, bio-
     Fur Coat: A so-called “fur coat” is outerwear made               logical, etc.) in near stasis. It can be programmed to
- from a living primitive organism. The creature’s skin,              reproduce whatever conditions the user specifies, from
+ from a living primitive organism. The creature's skin,              reproduce whatever conditions the user specifies, from
  fur, or scales are real. The organism is cultivated from            cryogenic freezing to extreme heat, or even vacuum or
  transgenic stocks and grown around molds into cloth-                high-pressure atmosphere. [Low]
  ing shapes, often with actual usefulness: polar bear                   Superthermite Charges: These powerful and highly

@@ -10,7 +10,7 @@
  sation in skin (even through armor) and to metals.                 SEEKERS
  Agonizers have two settings. The first is an active                Seekers are a combination of automatic grenade
  denial setting that causes extreme burning pain in the             launcher, micromissile, coilgun, and smart munitions
- target, inflicting –20 to the target’s actions and forc-           technology. Unlike traditional launchers of the past,
+ target, inflicting –20 to the target's actions and forc-           technology. Unlike traditional launchers of the past,
  ing them to move away from the beam on their next                  miniaturization allows the manufacture of seeker mi-
  action unless they succeed in a WIL Test (targets with             cromissile launchers in personal weapon sizes. Seeker
  Level 1 Pain Tolerance or the equivalent only suffer               rounds are fired at high-velocity via rings of magnetic
@@ -27,10 +27,10 @@
  accelerated particles at near light speed that transfer            [Moderate (includes missile)]
  massive amounts of kinetic energy to the target, su-                  Seeker Armband (Micromissile): This weapons unit
  perheating and creating an explosion when striking.                is worn on the arm, allowing the user to point and
- The bolter’s beam is not diffused by the cloud that                fire using an entoptic smartlink system. Though highly
- occurs when it strikes, and so it has greater penetra-             portable, the armband’s micromissile supply is low. It
+ The bolter's beam is not diffused by the cloud that                fire using an entoptic smartlink system. Though highly
+ occurs when it strikes, and so it has greater penetra-             portable, the armband's micromissile supply is low. It
  tion than the laser pulser. Likewise, the bolter is not            fires in single-shot mode. [Moderate]
- affected by smoke, fog, or rain. The bolter’s beam is                 Seeker Pistol (Micromissile): This pistol-sized
+ affected by smoke, fog, or rain. The bolter's beam is                 Seeker Pistol (Micromissile): This pistol-sized
  invisible. Note that bolters are designed for either               seeker launcher fires micromissiles in semi-auto
  atmospheric or exoatmospheric (vacuum) operation,                  mode. [Moderate]
  and will not function in the opposite environment
@@ -42,7 +42,7 @@
  weapon blasts a stream of nova-hot plasma at the               Disposable Launcher              SS                  1
  target, inflicting severe burns and thermal damage,            Seeker Armband                   SS                  4
  possibly melting or evaporating the target entirely.           Seeker Pistol                    SA                  8
- Plasma rifles are perhaps the deadliest man-portable           Seeker Riﬂe                      SA     12 micromissile/6 minimissi
+ Plasma rifles are perhaps the deadliest man-portable           Seeker Rifle                      SA     12 micromissile/6 minimissi
  weapons in use. Plasma guns suffer from dangerous              Underbarrel Seeker               SA                  6
 
 
@@ -55,5 +55,5 @@ Laser Pulser                               —                         2d10     
 Microwave Agonizer                         —                 pain (see description)         —              SA               100
    Roast Mode                              –5                        2d10                   11             SA                50
 Particle Beam Bolter                       –2                      2d10 + 4                 15             SA                50
-Plasma Riﬂe                                –8                     3d10 + 12                 28              SS               10
+Plasma Rifle                                –8                     3d10 + 12                 28              SS               10
 Stunner                                    —              (1d10 ÷ 2) + shock (p. 204)       —              SA               200

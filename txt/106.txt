@@ -1,5 +1,5 @@
 GATEWAY (PANDORA)
-The Gateway settlement, on Saturn’s outer shep-
+The Gateway settlement, on Saturn's outer shep-
 herd moon Pandora, holds the first publicly known
 wormhole gate. The Gatekeeper Corporation keeps
 the gate open as a means of exploration and scientific
@@ -10,8 +10,8 @@ major stake in it, though not a controlling interest.
 Granting autonomy to Gatekeeper Corporation was
 a diplomatic maneuver made in response to Planetary
 Consortium claims that the Titanians sought hege-
-mony in the outer system. So far, Titan’s neighbors are
-buying it, even if the Planetary Consortium doesn’t.
+mony in the outer system. So far, Titan's neighbors are
+buying it, even if the Planetary Consortium doesn't.
 
 HYPERION
 With its chaotic, virtually unpredictable rotation, Hy-
@@ -19,7 +19,7 @@ perion is a dangerous place to land ships. It remains
 uninhabited.
 
 IAPETUS
-Iapetus is one of Saturn’s larger icy moons and once
+Iapetus is one of Saturn's larger icy moons and once
 boasted a population of 200,000 living in the dense
 warrens of Analect, its main settlement. Probably be-
 cause it is one of the few large moons of Saturn that
@@ -30,7 +30,7 @@ lace as worker drones and using the rest as seed stock
 for tissue cultures to feed their fellows, the TITANs
 began to build what appears to have been a matri-
 oshka brain. Iapetus now occupies twice the volume
-it once did, the ice and silicate of the planet’s outer
+it once did, the ice and silicate of the planet's outer
 layers having been reworked into a delicate lattice of
 circuitry millions of layers deep.
    Strangely, the project simply stalled at some point
@@ -38,7 +38,7 @@ prior to completion. Speculation has it that the
 controlling intelligence was either destroyed by an
 unknown outside force or devoured itself in a fit of
 compuational ecstasy. Whatever the case, the drones
-simply stopped working and died and the moon’s au-
+simply stopped working and died and the moon's au-
 tomated defense grid went dead, leaving a strangely
 beautiful but lifeless machine behind to slowly decay
 from meteor impacts and gravitational stress. Several
@@ -47,17 +47,17 @@ quarreling over the scraps. Rumor has it that a
 number of researchers trying to understand the ma-
 trioshka circuitry have lost their minds in the process,
 perhaps by some mechanism akin to a basilisk hack.
-It is also believed that some of the moon’s internal
+It is also believed that some of the moon's internal
 defenses remain active. If anyone has plumbed the
-interior and come back, they’re not talking about it.
+interior and come back, they're not talking about it.
 
 MEATHAB
 The full name of this unique habitat is Turn Yourself
 Into a Giant Mass of Space Meat for Art!, and as the
-name implies, 90% of the habitat’s structure consists
+name implies, 90% of the habitat's structure consists
 of fast-cultured vat bacon, battened on the abun-
 dant resources of the ring system. MeatHab started
-out as someone’s art morph, but then, against all
+out as someone's art morph, but then, against all
 expectations, squatters moved in. MeatHab now has
 a population of 500. Similar to a Hamilton cylinder,
 the kilometer-long habitat harvests and processes ring
@@ -110,11 +110,11 @@ populated. With a few exceptions, inhabitants of the
 moonlets are generally people who want to be left
 alone. The exceptions are Skathi and Abramsen (for-
 merly S/2007 S 2), which, along with Phoebe, were
-captured and moved into Titan’s orbit, where they
+captured and moved into Titan's orbit, where they
 serve as defense installations.
 
 PAN (IZULU)
-Volkograad’s closest competitor is this anarcho-
+Volkograad's closest competitor is this anarcho-
 capitalist outfit, most of whose founders were South
 African. iZulu has a somewhat lower capacity than
 Volkograad but will ship reactor mass to unusual

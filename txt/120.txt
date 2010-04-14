@@ -27,7 +27,7 @@ for taking extra time.
            wants to be extra thorough, however, so she takes
            an extra thirty minutes. Fifty percent of the original
            timeframe is ten minutes, so taking an extra thirty
-           minutes means that Srit receives a +30 modiﬁer to
+           minutes means that Srit receives a +30 modifier to
            her Investigation Test.
 
 
@@ -47,7 +47,7 @@ or succeeds weakly (rolls above the target number).
            Dav is taking a short spacewalk between two
            parked ships. The gamemaster determines that this
            is a routine operation and calls for Dav to make a
-           Simple Success Test using the Freefall skill. Dav’s
+           Simple Success Test using the Freefall skill. Dav's
  EXAMPLE
 
 
@@ -56,7 +56,7 @@ or succeeds weakly (rolls above the target number).
            skill is only 35. He rolls a 76, but the gamemaster
            merely determines that Dav has some trouble
            orienting himself and has to take some extra time.
-           If Dav had rolled a 77—a critical failure—his suit’s
+           If Dav had rolled a 77—a critical failure—his suit's
            maneuvering jets may have died and he may have
            accidentally propelled himself into deep space.
 
@@ -106,7 +106,7 @@ certain MoF may suffer additional consequences for
 failing so dismally.
 
 
-  Nico is trying to sketch out a picture of someone’s
+  Nico is trying to sketch out a picture of someone's
   face. He has eidetic memory, but his drawing needs
   to be good enough for someone else to identify the
                                                            EXAMPLE
@@ -146,4 +146,4 @@ Failures are as good or bad as criticals, however.
   less than Stoya, so she wins). She has succeeded
   and beaten her opponent with an MoS of 30+,
   scoring an Excellent Success, meaning she will
-  inﬂict extra damage with the kick.
+  inflict extra damage with the kick.

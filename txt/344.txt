@@ -8,11 +8,11 @@ WEAPON ACCESSORIES
 The following accessories are available for various
 weapons.
    Arm Slide: This slide-mount can hold a pistol-
-sized weapon under a character’s sleeve, pushing the
-weapon into the character’s hand with an electronic
+sized weapon under a character's sleeve, pushing the
+weapon into the character's hand with an electronic
 signal or specific sequence of arm movements. [Low]
    Extended Magazine: This ammunition case has
-an increased capacity. Increase the weapon’s ammo
+an increased capacity. Increase the weapon's ammo
 capacity by +50%. Only available for firearms and
 seekers. [Low]
    Gyromount: This weapon harness features a gyro-
@@ -42,12 +42,12 @@ rized user attempts to fire it. [Low]
 an unauthorized user is zapped with an electric shock.
 Treat as a shock baton (p. 334). [Moderate]
    Silencer/Sound Suppressor: This barrel-mounted
-accessory reduces the sound of a firearm’s discharge.
+accessory reduces the sound of a firearm's discharge.
 Apply a –10 modifier on hearing-based Perception
-Tests to hear or locate the gun’s firing. [Moderate]
+Tests to hear or locate the gun's firing. [Moderate]
    Smartlink: A smartlink system connects the weapon
-to the user’s mesh inserts, placing a targeting bracket
-in the character’s field of vision and providing range
+to the user's mesh inserts, placing a targeting bracket
+in the character's field of vision and providing range
 and targeting information. Apply a +10 modifier to
 the Attack Test. Smartlinks also incorporate a micro-
 camera that allows the user to see what the weapon
@@ -58,7 +58,7 @@ seeker trigger conditions (p. 199). [Moderate]
    Smart Magazine: A smart magazine allows the
 character to pick and choose what ammo round will
 be fired with each shot. This system leaves less room
-for bullets, however, so reduce the weapon’s ammu-
+for bullets, however, so reduce the weapon's ammu-
 nition capacity by half (round up). Smart magazines
 may be combined with extended magazines, in which
 case ammo capacity is normal. [Moderate]

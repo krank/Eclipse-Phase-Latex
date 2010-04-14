@@ -2,43 +2,43 @@
 models are also available, though they require more        are highly restricted and many habitats will not allow
 severe body alteration to accommodate. These limbs         anyone with this implant on board. [Moderate]
 apply a +5 SOM bonus per limb (maximum +10).                  Medichines: This is the most common form of
-They may be replacement limbs or “extra” limbs an-         nanoware. These nanobots monitor the user’s body at
-chored in the body’s skeletal frame. These cyberlimbs      a cellular level and fix any problems that arise.
+They may be replacement limbs or “extra” limbs an-         nanoware. These nanobots monitor the user's body at
+chored in the body's skeletal frame. These cyberlimbs      a cellular level and fix any problems that arise.
 may not be masked. [High]                                     Medichines eliminate most diseases, drugs, and
    Hand Laser: The morph has a weapon-grade laser          toxins (but not nanodrugs or nanotoxins) before
 implanted in its forearm, with a flexible waveguide        they can do more than minor harm to the host (see
 leading to a lens located between the first two knuck-     Drug Effects, p. 317). If desired, the user can tempo-
-les on the morph’s dominant hand. The laser fires          rarily override this protection to permit intoxication
+les on the morph's dominant hand. The laser fires          rarily override this protection to permit intoxication
 from this waveguide, inflicting 2d10 damage with 0         or other effects, but unless the character activates a
 AP. The laser is powered by a small nuclear battery        second specially labeled override, medichines prevent
-located in the morph’s torso, good for 50 shots before     the toxins from accumulating to lethal or permanently
+located in the morph's torso, good for 50 shots before     the toxins from accumulating to lethal or permanently
 it must be recharged like other beam weapon batteries      harmful levels. In this case, they can also be activated
-(p. 338). [Moderate]                                       at a later point to reduce a drug or toxin’s remaining
-   Hardened Skeleton: The morph’s skeleton has been        duration by half.
+(p. 338). [Moderate]                                       at a later point to reduce a drug or toxin's remaining
+   Hardened Skeleton: The morph's skeleton has been        duration by half.
 laced with strengthening materials. Apply a +5 DUR            Medichines allow the character to ignore the effects
 and +5 SOM bonus. [High]                                   of 1 wound. They also speed normal healing as noted
    Oxygen Reserve: The morph has a miniature               under Biomorph Healing, p. 208. If the user suffers
 oxygen tank and rebreather installed in its torso. This    5 or more wounds at once, or more than 6 wounds
-implant provides the equivalent of the life support        in an hour, the damage has exceeded the medichines’
+implant provides the equivalent of the life support        in an hour, the damage has exceeded the medichines'
 system in a light vacsuit (p. 333), allowing the charac-   ability to repair. In this case, the medichines place the
 ter to breathe comfortably for up to 3 hours. It feeds     character into a medical stasis, where their mind and
-oxygen directly to the morph’s blood stream, avoiding      body are perfectly preserved, but where the character
+oxygen directly to the morph's blood stream, avoiding      body are perfectly preserved, but where the character
 problems with pressure changes. Implanted sensors          cannot act in any way. Under these circumstances the
 automatically cause the character to use the stored        medichines also send out a priority call for emergency
-oxygen if they detect poisonous or insufficient atmo-      services via the character’s mesh inserts.
+oxygen if they detect poisonous or insufficient atmo-      services via the character's mesh inserts.
 sphere. Without vacuum sealing, the character can             Medichines for synthmorphs and bots consist
-only survive in vacuum for 5 minutes, but remains          of nanobots that monitor and repair the shell’s
+only survive in vacuum for 5 minutes, but remains          of nanobots that monitor and repair the shell's
 conscious and active for the entire time, giving them      integrity and internal system functions. Note that
 far more time to find shelter or a vacsuit than charac-    the synthmorph version of medichines allows the
 ters without this implant. For every hour the character    synthmorph to self-repair in the same manner by
 is in a breathable atmosphere, this implant recovers       which a biomorph with medichines would naturally
 one hour of oxygen storage. The implant can be fully       heal (p. 208). [Low]
 recharged within 15 minutes if the character is in a          Mental Speed: With this nanoware system, nano-
-high-pressure mostly oxygen atmosphere. [Low]              bots alter the character’s neural architecture and
-   Reflex Boosters: The morph’s spinal column and          augment the functioning of their neurons. The char-
+high-pressure mostly oxygen atmosphere. [Low]              bots alter the character's neural architecture and
+   Reflex Boosters: The morph's spinal column and          augment the functioning of their neurons. The char-
 nervous system is rewired with superconducting             acter can deliberately speed up their mind to think
 materials, boosting transmission speed. This raises        and also receive and process sensory information far
-the character’s REF by +10 and improves Speed by           faster than ordinary humans. Time seems to subjec-
+the character's REF by +10 and improves Speed by           faster than ordinary humans. Time seems to subjec-
 +1. [Expensive]                                            tively slow down for the character, allowing them
                                                            to carefully plan their next action, even if they only
 NANOWARE                                                   have a split second to do so. With this system active,

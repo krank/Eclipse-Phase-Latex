@@ -1,9 +1,9 @@
 into the brain and central nervous system. The petals       from one morph to the other. As the process takes
 are full of sensors that image the brain using a combi-     hours, however (or even longer if done via farcaster),
 nation of MRI, sonogram, and positional information         the subject usually entertains themselves with some
-broadcast by the nanobot swarm in the morph’s brain.        AR media, VR, or even XP to pass the time.
+broadcast by the nanobot swarm in the morph's brain.        AR media, VR, or even XP to pass the time.
 The ego bridge then builds a digital copy of the per-
-son’s brain, which is stored away in the service’s highly   UPLOADING AFTER DEATH
+son's brain, which is stored away in the service's highly   UPLOADING AFTER DEATH
 secure, off-the-mesh, hardwired data vaults.                It is possible to upload the mind of a person who has
    In the case of pods, the ego bridge scans the biologi-   recently died as long as the nanobots have time to scan
 cal brain bits and also accesses the cyberbrain to copy     the brain before cell deterioration kicks in too heavily,
@@ -21,9 +21,9 @@ medical specialist is a good idea, no test is necessary.    Though rare, some pe
    If an uploading character does not plan to return        destructive uploading, where the biological brain is liter-
 to their morph, it is usually put on ice until someone      ally sliced apart and scanned piece by piece. Considered
 else resleeves into it. If a new resleeve is not ready      abhorrent and wasteful by most transhumans, “brain-
-and the uploading character doesn’t want to leave a         peeling” is practiced by some bioconservative factions
+and the uploading character doesn't want to leave a         peeling” is practiced by some bioconservative factions
 potential copy of themselves behind, they can have          who view it as the only “pure” method of uploading
-the morph’s mind wiped by the nanobots as part of           or the only real way to transfer the “soul.” Such people
+the morph's mind wiped by the nanobots as part of           or the only real way to transfer the “soul.” Such people
 the uploading process.                                      typically refuse to resleeve, living out the rest of their
                                                             lives as infomorphs, quite often in dedicated simulspaces
 UPLOADING-RESLEEVING CONTINUITY                             that are treated as a sort of virtual afterlife.
@@ -41,19 +41,19 @@ and the new sleeve. This connection can even be made        bringing everyone ba
 wirelessly or by farcaster link (with a maximum dis-        state, or at least filing the most recent backup away
 tance of 10,000 kilometers).                                in dead storage just in case someone decides to pay
    As the mind is uploaded, the ego bridge builds a         to resurrect them later. Other authorities will simply
-virtual brain by copying the morph’s brain bit by bit,      destroy the stack or, worse, sell it on the black market
+virtual brain by copying the morph's brain bit by bit,      destroy the stack or, worse, sell it on the black market
 using the data gained from the brain scan. At the same      to a soul-trading syndicate such as Nine Lives.
 time, this data is slowly copied to the new sleeve as         Backup insurance typically includes a subscription
-nanobots rewire the sleeve’s brain structure (a much        to an uploading facility, usually requiring a visit every
+nanobots rewire the sleeve's brain structure (a much        to an uploading facility, usually requiring a visit every
 slower process). As the transfer occurs, the nanobots       6 months, to ensure that backup is held in safe stor-
 in the brain sever individual neural connections and        age in case of cortical stack loss. People with risky
 re-route them to their duplicates in the virtual brain,     jobs (construction bot supervisor, hypercorp exo-
 and then eventually to the new brain. Effectively, the      planet staff, girl who fights vicious giant eels for rich
-character’s ego is running partially on the meat brain      jaded audiences, etc.) may back up once a week, or
+character's ego is running partially on the meat brain      jaded audiences, etc.) may back up once a week, or
 and partially on the virtual copy. By the time the nano-    even daily. In the event of a verified death where the
 bots sever the last of the neural connections in the        cortical stack could not be retrieved, the most recent
 old brain, the ego is running completely on the virtual     backup is used to resleeve the person.
-brain and the new sleeve’s brain. Once the resleeving         At the basic level, backup insurance will bring the
+brain and the new sleeve's brain. Once the resleeving         At the basic level, backup insurance will bring the
 is completed, the virtual brain is shut down.               character back as an infomorph, at which point they
    In terms of perceptions, the character, who is awake     can access their credit and purchase a new morph.
 during this process, experiences a very gradual shift       More expensive versions will automatically resleeve

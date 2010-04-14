@@ -11,7 +11,7 @@ ints (p. 134)                      your choice, +1 Moxie, only 2,500            
 e points                           with CP)                                       to one skill of your choice, +20
                                 Hyperelite: +10 Protocol skill, +10,000           Networking: Autonomists skill
                                    Credit, +20 Networking: Hypercorps           Brinker: +10 Pilot: Spacecraft skill,
-                                   skill, may not start with ﬂat, splicer,        +10 to a skill of your choice, +20 to
+                                   skill, may not start with flat, splicer,        +10 to a skill of your choice, +20 to
 ue                                 or any pod, uplift, or synthetic               a Networking: [Field] skill of your
 ization Points (p. 135)            morphs                                         choice
 spend                           Infolife: +30 Interfacing skill,                Criminal: +10 Intimidation skill, +30
@@ -64,7 +64,7 @@ aining Stats (p. 138)                                                           
                          277    Original Space Colonist: +10 Pilot:
                                                                                   Protocol skill, +20 Networking: Media
                                    Spacecraft or Freefall skill, +10 to
-STS (ALPHABETICAL)                 a Technical, Academic: [Field], or             skill, may not start with ﬂat, pod,
+STS (ALPHABETICAL)                 a Technical, Academic: [Field], or             skill, may not start with flat, pod,
                                                                                   uplift, or synthetic morphs
                                    Profession: [Field] skill of your choice,
     CP            COST                                                          Titanian: +10 to two Technical or

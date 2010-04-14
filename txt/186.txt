@@ -2,10 +2,10 @@ PSI ASSAULT
 Type: Active, Mental, Psi
 Linked Aptitude: WIL
   What it is: Psi Assault is the skill of damaging an-
-other ego’s mind. It can only be purchased by charac-
+other ego's mind. It can only be purchased by charac-
 ters with the Psi trait (p. 147).
   What it does: Use Psi Assault when attacking an-
-other ego’s mind in psi combat.
+other ego's mind in psi combat.
 Specializations: By sleight
 
 PSYCHOSURGERY
@@ -15,7 +15,7 @@ Linked Aptitude: INT
 aided psychological techniques to repair, damage, or
 manipulate the psyche.
    When you use it: Use Psychosurgery to attempt the
-tricky process of editing someone’s mind (see Psycho-
+tricky process of editing someone's mind (see Psycho-
 surgery, p. 229). Psychosurgery can be used benefi-
 cially to help patients who remember their deaths, feel
 disconnected after remorphing, or have experienced
@@ -102,7 +102,7 @@ vironment can be handled as a Simple Success Test.
 Swimming over a long distance could be handled as
 a Task Action. Diving off a cliff into a lake, prevent-
 ing yourself from being swept away in a raging river
-current, or making sure you’ve set a proper gas mix
+current, or making sure you've set a proper gas mix
 for a deep-sea dive, among other things, requires a
 Success Test.
 Specializations: Diving, Freestyle, Underwater Diving

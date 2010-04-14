@@ -24,13 +24,13 @@ methods are used to gauge your mental health: stress
 points and trauma.
 
 STRESS POINTS
-Stress points represent fractures in your ego’s in-
+Stress points represent fractures in your ego's in-
 tegrity, cracks in the mental image of yourself. This
 mental damage is experienced as cerebral shocks,
 disorientation, cognitive disconnects, synaptic mis-
 fires, or an undermining of the intellectual faculties.
 On their own, these stress points do not significantly
-impair your character’s functioning, but if allowed to
+impair your character's functioning, but if allowed to
 accumulate they can have severe repercussions. Ad-
 ditionally, any source that inflicts a large amount of
 stress points at once is likely to have a more severe
@@ -39,10 +39,10 @@ impact (see Trauma).
 chiatric care, and/or psychosurgery (see p. 214).
 
 LUCIDITY AND STRESS
-Your Lucidity stat benchmarks your character’s mental
+Your Lucidity stat benchmarks your character's mental
 stability. If you build up an amount of stress points
 equal to or greater than your Lucidity score, your char-
-acter’s ego immediately suffers a mental breakdown.
+acter's ego immediately suffers a mental breakdown.
 You effectively go into shock and remain in a catatonic
 state until your stress points are reduced to a level
 below your Lucidity stat. Accumulated stress points
@@ -53,8 +53,8 @@ functioning until it is debugged.
 
 INSANITY RATING
 Extreme amounts of built-up stress points can perma-
-nently damage your character’s sanity. If accumulated
-stress points reach your Lucidity x 2, your character’s
+nently damage your character's sanity. If accumulated
+stress points reach your Lucidity x 2, your character's
 ego undergoes a permanent meltdown. Your mind is
 lost, and no amount of psych help or rest will ever
 bring it back.
@@ -68,14 +68,14 @@ as 2d10, or sometimes with a modifier, such as 2d10 +
 mine the stress points inflicted in that instance. To make
 things easier, a static SV is also given in parentheses after
 the variable amount; use that set amount when you wish
-to keep the game moving and don’t want to roll dice.
+to keep the game moving and don't want to roll dice.
 
 TRAUMA
 Mental trauma is more severe than stress points. Trau-
 mas represent severe mental shocks, a crumbling of
 personality/self, delirium, paradigm shifts, and other
 serious cognitive malfunctions. Traumas impair your
-character’s functioning and may result in temporary
+character's functioning and may result in temporary
 derangements or permanent disorders.
   If your character receives a number of stress points
 at once that equals or exceeds their Trauma Thresh-
@@ -87,7 +87,7 @@ character sheet.
 
 TRAUMA EFFECTS
 Each trauma applies a cumulative –10 modifier to all
-of the character’s actions. A character with 2 traumas,
+of the character's actions. A character with 2 traumas,
 for example, suffers –20 to all actions. These modifiers
 are also cumulative with wound modifiers.
    Disorientation: Any time a character suffers a
@@ -101,7 +101,7 @@ ment (see Derangements). The first trauma inflicts a
 minor derangement. If a second trauma is applied,
 the first derangement is either upgraded from minor
 to a moderate derangement, or else a second minor
-derangement is applied (gamemaster’s discretion).
+derangement is applied (gamemaster's discretion).
 Likewise, a third trauma may upgrade that derange-
 ment from moderate to major or else inflict a new
 minor. It is generally recommended that derangements

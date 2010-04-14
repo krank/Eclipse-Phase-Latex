@@ -4,13 +4,13 @@ them to ignore the effect of 1 trauma and temporarily
 boosting Lucidity by +5. Any stress suffered while the
 drug is in effect is taken from the bonus Lucidity first.
 Comfurt also provides a +10 bonus when resisting
-attempts to manipulate the user’s emotions. Excessive
+attempts to manipulate the user's emotions. Excessive
 use of Comfurt can lead to chronic itchiness caused by
 histamine release. [Low]
 
 RECREATIONAL DRUGS
 These drugs compete with petals (p. 321) and black
-market XP for wasting people’s time and lives away.
+market XP for wasting people's time and lives away.
    Buzz: This gene-modified variant of BZ is an odor-
 less, invisible, extremely powerful hallucinogen. Users
 or affected characters will undergo extremely realistic
@@ -26,7 +26,7 @@ character a +10 bonus on Art and Sense Tests. With
 frequent use, Mono No Aware reacts with pigments
 in the skin to create a pallor with a slight bluish tinge,
 even in darker-skinned morphs. [Low]
-   Orbital Hash: Good ol’ reefer—but grown in space
+   Orbital Hash: Good ol' reefer—but grown in space
 using powerful lighting and post-singularity hydropon-
 ics. Because space is at a premium in habitats and scum
 barges, blocks of hashish are the preferred mode of
@@ -63,7 +63,7 @@ barges, blocks of hashish are the preferred mode of
  shot eyes, lethargic behaviors, and the munchies. [Low]
 
  SOCIAL DRUGS
- These social lubricants affect the user’s interactions
+ These social lubricants affect the user's interactions
  with others.
    Alpha: Alpha is a more subtle version of BringIt,
  popular with hypercorp execs, street thugs, and
@@ -83,7 +83,7 @@ barges, blocks of hashish are the preferred mode of
  a factor (gamemaster discretion). These bonuses only
  apply to characters within 2 meters of the Alpha user.
    On the downside, alpha users are impatient, unfo-
- cused assholes. At the gamemaster’s discretion, Social
+ cused assholes. At the gamemaster's discretion, Social
  skill modifiers may be reversed to penalties with
  certain types of people. Additionally, Alpha users
  suffer –10 on all COG skill tests related to memory

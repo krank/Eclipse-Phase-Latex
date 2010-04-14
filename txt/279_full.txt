@@ -16,7 +16,7 @@ will not provide morphs that are unavailable to that             Workers, Pleasu
 faction as starting characters. If the faction is not the        Novacrabs                          Expensive (30,000+)
 dominant one in that locale, a penalty should be ap-           Synthmorphs
 plied, ranging from –10 to –30. Despite having a pres-           Cases                                   Moderate
-ence in a given locale, some factions may be unable to           Synths, Dragonﬂies                        High
+ence in a given locale, some factions may be unable to           Synths, Dragonflies                        High
 provide morphs at all.
                                                                  Slitheroids, Swarmanoids                Expensive
    If the character is seeking a customized morph with
@@ -36,13 +36,13 @@ cost a small fortune. Outsystem, prices in rep are more         is almost always
 reasonable but still steep due to population pressures          extenuating circumstances. Morphs may be traded in
 on life support-dependent outer system settlements.             for the value shown on the Morph Costs table (ad-
 For travelers and frequent body hoppers, there are a            justed for any positive or negative traits), less a 10%
-number of ways to defray these costs.                           physical exam and finder’s fee. This is either paid to the
+number of ways to defray these costs.                           physical exam and finder's fee. This is either paid to the
                                                                 morph broker in cred or rendered as a favor using rep.
 BROKERAGE AND MATCHMAKING
 Finding morphs for travelers and the bodiless is a               PATRON PROVISIONING
  specialized skill demanding deep social networks and           Characters on missions for rich or influential patrons
-a flair for negotiation. In general, it’s a seller’s market,    may have morphs provided for them. Normally
- so brokers (or “matchmakers,” as they’re called in             such provisions are made for the duration of a job,
+a flair for negotiation. In general, it's a seller's market,    may have morphs provided for them. Normally
+ so brokers (or “matchmakers,” as they're called in             such provisions are made for the duration of a job,
 the open economy) act as agents for the person seek-            although less commonly the morph itself might be
 ing a body. The Morph Costs table assumes a 10%                 payment for services rendered. Gamemasters are
 fee paid to the broker. Characters wishing to cut out           encouraged to be creative with such arrangements,
@@ -52,13 +52,13 @@ available morph.
                                                                  BLACK MARKET MORPHS
 CUSTOMIZED MORPHS                                               Black market body traders promise to provide the
 If a character seeks to have a customized morph (with           buyer with morphs and upgrades of choice regardless
-extra bioware, cyberware, or nanoware implants or               of a habitat’s laws against weapons or implants, in
+extra bioware, cyberware, or nanoware implants or               of a habitat's laws against weapons or implants, in
 robotic enhancements), the costs for these enhance-             addition to bypassing standard arrival registration
-ments are added to the morph’s cost (if the gamemaster          via darkcasting. Illegal morphs usually come with a
+ments are added to the morph's cost (if the gamemaster          via darkcasting. Illegal morphs usually come with a
 chooses, discount package deals may apply). Likewise,           price markup (+25% at least), whereas used morphs
 morphs may come saddled with positive or negative               with unsavory backgrounds (and traits) can usually be
 morph traits (p. 145). These traits raise or lower the          acquired on the cheap (–25%).
-morph’s cost at a rate of +500 credits per CP for posi-
+morph's cost at a rate of +500 credits per CP for posi-
 tive traits, or –200 credits per CP of negative traits.          INDENTURE
 Negative traits typically reflect abuses the morph has          Characters who find themselves too destitute to
 suffered at the hands of previous occupants.                    afford a new morph can strike a deal for indentured

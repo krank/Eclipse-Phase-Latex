@@ -29,7 +29,7 @@ JOVIAN SPY                                         APTITUDES
                           Free Fall   REF     45                    45
                       Freerunning     SOM     45                    45
                    Impersonation      SAV     45                    45
-                        Inﬁltration   COO     60                    60
+                        Infiltration   COO     60                    60
                            Infosec    COG     60                    60
    Interests: Autonomist Groups       COG     55                    55
        Interests: Criminal Groups     COG     55                    55
@@ -45,14 +45,14 @@ JOVIAN SPY                                         APTITUDES
    Profession: Security Systems       COG     55                    55        Motivations: -Anarchism +Bioconservativism -Tec
    Profession: Smuggling Tricks       COG     45                    45
                                                                              TRAITS                             Primary Wea
-             Profession: Spycraft     COG     55                    55       Ego: Modiﬁed Behavior (Blood-        Railgun (10
+             Profession: Spycraft     COG     55                    55       Ego: Modified Behavior (Blood-        Railgun (10
                   Spray Weapons       COO     25                    25         thirsty, boosted), Morphing      Starting Cred
                 Unarmed Combat        SOM     55                    55         Disorder (Level 1) ■             Implants: Ne
                                                                              Morph: Genetic Defect              Gear: Backup
                                                                                (Heart Disease),                   (1 month),
                                                                                Unattractive (Level 1) ■           10 Frag Gr
                                                                                                                   Cloak, Liqu
-You’re a dedicated soldier to the      the republic, you have no qualms
+You're a dedicated soldier to the      the republic, you have no qualms
                                                                              REP                                  ture Radio
 bioconservative cause, convinced       about using technologies that
                                                                              c-rep:   50                          MRDR (1 d
@@ -64,7 +64,7 @@ tion. The Jovian Republic has          irony of using the tools of tran-
                                                                                                                   Low-Capa
 trained you and modified you to        shuman monsters against them.
                                                                              EQUIPMENT                            3 Speck Bo
-serve their interests, whether that    You prefer ﬂats, and you consider
+serve their interests, whether that    You prefer flats, and you consider
                                                                              Armor: Body Armor (with Ther-        Network S
 means infiltrating a hypercorp         it a point of pride that you sleeve
                                                                                mal Dampening) +Second Skin        Knife, Whi

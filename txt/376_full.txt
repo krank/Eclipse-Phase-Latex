@@ -23,7 +23,7 @@ tors have a strong grip on their own metabolisms and         mans, however, that
 genetic expressions and can draw on an array of ge-          This dust is also toxic in high concentrations and some-
 netic building blocks and biotech techniques to modify       times used as an offensive or defensive mechanism.
 themselves rapidly and massively to adapt to special           To date, transhumans have failed to develop a device
-conditions. Whether these modifications might have a         that can analyze the Factors’ chemical effluvia and
+conditions. Whether these modifications might have a         that can analyze the Factors' chemical effluvia and
 purpose beyond function, such as for reproduction or         translate it into something understandable, due to the
 self-expression, is currently unknown.                       lack of a conceptual matrix (though certain “moods”
                                                              have been identified). Instead, all communication
@@ -31,7 +31,7 @@ METABOLISM                                                   between the Factors
 Factors ships and habitats have transhuman-friendly          through computer interfaces. Certain Factor pheno-
 atmospheres with a slightly higher content of carbon         types that deal with transhumanity have grown a a
 dioxide and less nitrogen that mimics the conditions         neurobiological interface (or organ) that enables them
-on the Factors’ home planet. They don’t breathe              to wirelessly mesh with transhuman computer systems.
+on the Factors' home planet. They don't breathe              to wirelessly mesh with transhuman computer systems.
 oxygen via lungs but absorb it via their outer “skin.”          Long distance communication between Factors
 Since they can also use oxygen from other sources            and transhumanity is achieved by normal means of
 (minerals, liquids like water, and salts) to fuel their      farcasting communication. There are strong indica-
@@ -56,5 +56,5 @@ As such they can devour biomorphs and non-metallic           as the hive mind so
 components of synthmorphs.                                   Factor colonies do not feature the same division of
                                                              labor and instead function according to a consensus-
 PERCEPTION                                                   based sort of groupthink. Individual Factors have no
-Factors don’t perceive the world as transhumans              sense of personal gain or property and share equally
-do. They (usually) don’t possess visual or acoustic          with other Factors and colonies.
+Factors don't perceive the world as transhumans              sense of personal gain or property and share equally
+do. They (usually) don't possess visual or acoustic          with other Factors and colonies.

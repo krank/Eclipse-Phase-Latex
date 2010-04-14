@@ -21,8 +21,8 @@ tells, social cues, and other subconscious indicators. It
 can also be used to emote more effectively. Kinesics
                                                               ism was common. Many habitats and (sub)
 is used defensively whenever someone is trying to de-
-                                                              cultural groupings cling to speciﬁc languages
-ceive you; make an Opposed Test against that person’s
+                                                              cultural groupings cling to specific languages
+ceive you; make an Opposed Test against that person's
                                                               as a method of retaining cultural identity. De-
 Deception or Impersonation skill.
                                                               spite the availability of instant translation via
@@ -61,7 +61,7 @@ an Opposed Test against their Deception skill.              LANGUAGE: [FIELD]
                                                             Type: Field, Knowledge
 NONVOCAL COMMUNICATION                                      Linked Aptitude: INT
 Experts in Kinesics can effectively communicate               What it is: Language covers the speaking and
-with each other simply by posture, stances, gestures,       reading of languages other than the player’s native
+with each other simply by posture, stances, gestures,       reading of languages other than the player's native
 demeanors, and looks. Such communication is nec-            tongue. A speaker is considered fluent at a skill level
 essarily limited in the amount of information it can        of 50; anything above this indicates further refine-
 convey, but feelings, attitudes, affirmation/negation,      ment in technical vocabulary, accents, and knowl-

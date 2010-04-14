@@ -1,22 +1,22 @@
    In game terms, you can try to keep word of what               ACQUIRE/UNLOAD GOODS
- you’re doing quiet, but this makes it harder to get            Social networks are a good way to find items that
- what you need. For every negative modifier you apply           you can’t buy legally or make at home. Depending
- to your Networking Test, the same negative modifier            on who you’re getting the goods from, this will cost
+ you're doing quiet, but this makes it harder to get            Social networks are a good way to find items that
+ what you need. For every negative modifier you apply           you can't buy legally or make at home. Depending
+ to your Networking Test, the same negative modifier            on who you're getting the goods from, this will cost
  applies to anyone making a Networking Test to find             you credit or require an appropriate Rep score. This
- out what you’re up to.                                         favor can also be used to sell or give away such items,
+ out what you're up to.                                         favor can also be used to sell or give away such items,
                                                                 making some money or perhaps even some Rep in
               Revisiting one of our previous examples, we go    the process.
               back to the point where Jaqui was trying to
-              ascertain someone’s hideout location. Because
-              the person she’s after is scum, they’re on a
+              ascertain someone's hideout location. Because
+              the person she's after is scum, they're on a
                                                                       ACQUIRE/UNLOAD GOODS
               scum ship, and Jaqui is using her Networking:     LEVEL   SERVICE
-              Autonomist skill to find them, there’s a good       1     Acquire/unload item with an expense of Trivial.
+              Autonomist skill to find them, there's a good       1     Acquire/unload item with an expense of Trivial.
               chance that if she starts asking around to ev-      2     Acquire/unload item with an expense of Low.
               eryone, word might trickle back to the person       3     Acquire/unload item with an expense of Moderate.
-              she’s after. She doesn’t want them to know
+              she's after. She doesn't want them to know
                                                                   4     Acquire/unload item with an expense of High.
-              she’s on their tail, though, so she decides to
+              she's on their tail, though, so she decides to
    EXAMPLE
 
 
@@ -37,7 +37,7 @@
               about his hideout.                                highly-skilled professionals.
 
 
-                                                                   Cole needs to ﬁnd an astrobiologist who can help
+                                                                   Cole needs to find an astrobiologist who can help
  FAVORS                                                            him identify an alien critter. He rolls his Network-
  Creative players can undoubtedly come up with many                ing: Scientist skill of 50 and gets a 43—a success.
  uses for their social networks, but a few of the more             He tracks down someone with Academics: Astro-          EXAMPLE
@@ -48,15 +48,15 @@
  goods, straightforward information queries, or small
  favors, neither dice rolling nor roleplaying may be re-
  quired. For major requests, interactions with contacts,         ACQUIRE INFORMATION
- and mission assistance, dice rolls and/or roleplaying          When you can’t find the information online or you
- interaction with contacts from the social network              don’t have the time or capability to look, you can
+ and mission assistance, dice rolls and/or roleplaying          When you can't find the information online or you
+ interaction with contacts from the social network              don't have the time or capability to look, you can
  should usually occur. Gamemasters may wish to keep             turn to people in your social network and tap their
- track of the NPC contacts in each character’s social           accumulated knowledge base.
+ track of the NPC contacts in each character's social           accumulated knowledge base.
  networks and make them recurring characters.
                                                                  REPUTATION AND IDENTITY
                                                                 It is important to note that reputation is closely tied
                                                                 to identity. If you are undercover and using a fake ID,
-                           FAVORS                               you can’t really call on your Rep score without giving
+                           FAVORS                               you can't really call on your Rep score without giving
                                                                 yourself away. As a result, many people using false
                                      BURNING                    identities end up building up a separate set of Rep
 FAVOR LEVEL          TIMEFRAME       REP COST REFRESH RATE
@@ -65,6 +65,6 @@ FAVOR LEVEL          TIMEFRAME       REP COST REFRESH RATE
                                                                    Note that since many social network interactions
 2 (Low)                30 minutes        1            1 day     take place online, it is possible for someone to secretly
 3 (Moderate)             1 hour          5           1 week     make use of their real identity while masquerading
-4 (High)                 1 day          10           1 month    as someone else, as long as they’re careful about it. If
+4 (High)                 1 day          10           1 month    as someone else, as long as they're careful about it. If
 5 (Scarce)               3 days         20          3 months    anyone happens to be spying on their activity via the
                                                                 mesh, they stand a chance of being found out.

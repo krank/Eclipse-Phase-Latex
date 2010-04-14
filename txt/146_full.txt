@@ -1,13 +1,13 @@
 movement. A smaller pair of manipulator arms near           REAPER
 the head allows for closer handling and tool use. In        The reaper is a common combat bot, used in place of
 zero-G environments, arachnoids can retract their           biomorph soldiers and typically operated via teleop-
-arms/legs and maneuver with vectored air thrusters.         eration or by autonomous AI. The reaper’s core form
+arms/legs and maneuver with vectored air thrusters.         eration or by autonomous AI. The reaper's core form
 Enhancements: Access Jacks, Basic Mesh Inserts,             is an armored disc, so that it can turn and present a
   Cortical Stack, Cyberbrain, Enhanced Vision, Extra        thin profile to an enemy. It uses vector thrust nozzles
   Limbs (6 Arms/Legs), Lidar, Mnemonic Augmenta-            to maneuver in microgravity, and also takes advan-
   tion, Pneumatic Limbs, Radar                              tage of an ionic drive for fast movement over distance.
 Mobility System: Walker (4/24), Thrust Vector (8/40)        Four legs/manipulating arms and four weapon pods
-Aptitude Maximum: 30                                        are folded inside its frame. The reaper’s shell is made
+Aptitude Maximum: 30                                        are folded inside its frame. The reaper's shell is made
 Durability: 40                                              of smart materials, allowing these limbs and weapon
 Wound Threshold: 8                                          mounts to extrude in any direction desired and even
 Advantages: +5 COO, +10 SOM, Armor 8/8                      to change shape and length. In gravity environments,
@@ -49,7 +49,7 @@ demolition, excavation, manufacturing, robotics as-         Aptitude Maximum: 30
 sembly, and so on.                                          Durability: 45
 Enhancements: Access Jacks, Basic Mesh Inserts, Cor-        Wound Threshold: 9
    tical Stack, Cyberbrain, Fractal Digits, Mnemonic        Advantages: +5 COO, +5 SOM, +5 to one other apti-
-  Augmentation, Modular Design, Shape Adjusting                tude of the player’s choice, Armor 8/8
+  Augmentation, Modular Design, Shape Adjusting                tude of the player's choice, Armor 8/8
 Mobility System: Walker (4/16), Hover (8/40)                CP Cost: 40
 Aptitude Maximum: 30                                        Credit Cost: Expensive
 Durability: 25

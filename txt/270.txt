@@ -19,7 +19,7 @@ ERATED FUTURE
  emulated, allowing people to make a backup of their
  minds, including their entire personality, memories,
  and skills—a process known as uploading.
-   The primary use of backups is to ensure the person’s
+   The primary use of backups is to ensure the person's
  ego can be retrieved in case of death, in which case
  they may be resleeved (p. 271). For this reason, almost
  everyone in the solar system is equipped with a corti-
@@ -31,15 +31,15 @@ ERATED FUTURE
  CORTICAL STACK BACKUPS
  Cortical stack implants deploy a network of nano-
  bots throughout the brain that take a snapshot of
- the mind’s neural state, storing the data as a backup
- within the cortical stack. The average transhuman’s
+ the mind's neural state, storing the data as a backup
+ within the cortical stack. The average transhuman's
  cortical stack backs up their ego 86,400 times per day.
  Only the most recent backup is kept within the stack;
  older ones are overwritten. Pods and synthmorphs
  also can be equipped with cortical stacks (though
  AI-piloted bots often lack this feature), though these
  versions maintain an updated copy of the ego running
- in the morph’s cyberbrain.
+ in the morph's cyberbrain.
     In the case of death, accidental or otherwise, a cor-
  tical stack can be retrieved from a corpse and used to
  recover the character, either as an infomorph or by
@@ -69,7 +69,7 @@ AR■GEAR■GEAR■GEAR■GEAR■GEAR■
   a character may need to extract a cortical stack in the
   field, whether because transporting the corpse is im-
   practical or because the dead person is an enemy and
-  they either don’t want them knowing who killed them
+  they either don't want them knowing who killed them
   or they want to interrogate them with psychosurgery
   in a simulspace.
      The process of cutting out a cortical stack is called
@@ -77,7 +77,7 @@ AR■GEAR■GEAR■GEAR■GEAR■GEAR■
   smooth-shelled implant to pop right out by making
   an incision in the correct place and applying pressure.
   One does need to be careful that the tiny, blood-slick
-  stack doesn’t slip away once popped.
+  stack doesn't slip away once popped.
      Popping can be done with a sharp knife and elbow
   grease, though it is grisly. Popping a stack is a Task
  Action that requires a Medicine: [any appropriate
@@ -85,7 +85,7 @@ AR■GEAR■GEAR■GEAR■GEAR■GEAR■
   fier of +20. Morphs with stacks in non-standard loca-
   tions or with anatomical shielding (carapace plates,
   etc.) around the stack may incur penalties to this test
-  at the gamemaster’s discretion. Of course, if you don’t
+  at the gamemaster's discretion. Of course, if you don't
   have the time for a precise extraction, you can always
   just cut the entire head off and take it with you.
      Once a cortical stack is retrieved, it may be loaded
@@ -114,9 +114,9 @@ AR■GEAR■GEAR■GEAR■GEAR■GEAR■
 
   UPLOADING
   Uploading a backup into secure storage is usually
-  handled with a brain scan at the storage facility’s clinic
+  handled with a brain scan at the storage facility's clinic
   using a bread box-sized unit called an ego bridge (p.
-  328). When activated, the ego bridge’s sensor array
+  328). When activated, the ego bridge's sensor array
   twists open like a morning glory blossom, revealing an
   enclosure with a neck rest that automatically adjusts
   itself to morphs with oddly-sized or -shaped heads.

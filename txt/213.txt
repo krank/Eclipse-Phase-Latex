@@ -1,6 +1,6 @@
 LOGORRHOEA (MINOR)
 Your response to the trauma is to engage in excessive
-talking and babbling. You don’t shut up.
+talking and babbling. You don't shut up.
 
 NAUSEA (MINOR)
 The stress sickens you, forcing you to fight down
@@ -8,11 +8,11 @@ queasiness.
 
 CHILLS (MODERATE)
 Your body temperature rises, making you feel cold,
-and shivering sets in. You just can’t get warm.
+and shivering sets in. You just can't get warm.
 
 CONFUSION (MODERATE)
 The trauma scrambles your concentration, making
-you forget what you’re doing, mix up simple tasks,
+you forget what you're doing, mix up simple tasks,
 and falter over easy decisions.
 
 ECHOPRAXIA (MODERATE)
@@ -52,7 +52,7 @@ You have a major freak out over the source of the
 stress and attack it.
 
 HALLUCINATIONS (MAJOR)
-You see, hear, or otherwise sense things that aren’t
+You see, hear, or otherwise sense things that aren't
 really there.
 HYSTERIA (MAJOR)
 You lose control, panicking over the source of the
@@ -87,7 +87,7 @@ disorder that fits the situation and character.
    Disorders are not always “active”—they may
 remain dormant until triggered by certain conditions.
 While it is certainly possible to act under a disorder,
-it represents a severe impairment to a person’s ability
+it represents a severe impairment to a person's ability
 to maintain normal relationships and do a job suc-
 cessfully. Disorders should not be glamorized as cute
 role-playing quirks. They represent the best attempts

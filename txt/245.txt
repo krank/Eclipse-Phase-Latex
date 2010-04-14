@@ -72,5 +72,5 @@ can be a threat.
 devices, and networks are protected by a mix of
 access control routines, automated software intru-
 sion prevention systems, encryption, and layered
-firewalls, typically overseen by the user’s muse who
+firewalls, typically overseen by the user's muse who
 plays the role of active defender. Extremely sensitive

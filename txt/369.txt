@@ -1,4 +1,4 @@
- • Stage 1 (initial infection to 3 months): Upon ini-
+ - Stage 1 (initial infection to 3 months): Upon ini-
    tial infection, the character suffers 1d10 mental
    stress and gains the Psi trait (p. 147) at Level 1
    (also meaning they pick up the Mental Disorder
@@ -12,7 +12,7 @@
    At this stage, the infection is usually hidden,
    though the character will suffer from occasional
    haunting effects (see below). As each week passes,
-   the character’s personality should shift a minute
+   the character's personality should shift a minute
    amount, slowly becoming more callous and con-
    niving and changing in other ways as well. If
    possible, the player should be kept in the dark
@@ -25,7 +25,7 @@
    the Exsurgent virus and Watts-Macleod strains
    should not know at this point which strain they
    are infected with—make them sweat.
- • Stage 2 (3 months to 6 months): The target suf-
+ - Stage 2 (3 months to 6 months): The target suf-
    fers another 1d10 ÷ 2 (round up) mental stress
    and acquires the Psi trait at Level 2 (also pick-
    ing up another disorder). Player characters may
@@ -43,11 +43,11 @@
    actively block and hinder such thoughts and ac-
    tions, however. To actively overcome this mental
    control, the character must succeed in a WIL Test.
-   At the gamemaster’s discretion, failure may result
+   At the gamemaster's discretion, failure may result
    in 1d10 ÷ 2 (round up) mental stress as the char-
    acter realizes they are no longer fully in control
    of their own thoughts and actions.
- • Stage 3 (6 months+): The victim suffers another
+ - Stage 3 (6 months+): The victim suffers another
    1d10 ÷ 2 (round up) mental stress and acquires
    the Psi trait at Level 3 (see below). The character
    is now considered an exsurgent and becomes
@@ -63,27 +63,27 @@ haunting effects are noted here, but gamemasters are
 encouraged to be creative when inventing their own
 to apply:
 
-  • Altered Perceptions: The victim’s perceptions are
+  - Altered Perceptions: The victim's perceptions are
     changed in disturbing and unusual ways. They
-    may see things that aren’t there, feel a presence
+    may see things that aren't there, feel a presence
     behind or watching them, inexplicably smell
     blood, hear voices, suffer synaesthesia, or sud-
     denly perceive the people around them as nothing
     but outlandish, blabbering sacks of meat.
-  • Behavioral Modification: Treat as behavioral con-
+  - Behavioral Modification: Treat as behavioral con-
     trol or personality editing psychosurgery (p. 231).
     This is typically applied to shape the character
     closer to being a pawn of the ETI.
-  • Dream Manipulation: The character’s dreams
+  - Dream Manipulation: The character's dreams
     become lucid, weird, and surreal. They may find
     themselves dreaming of life as an alien on some
     exotic exoplanet, as a robotic probe soaring
     through the vast emptiness of space, or fantasiz-
     ing different methods of inflicting mass destruc-
     tion and death.
-  • Emotional Manipulation: Treat as emotional
+  - Emotional Manipulation: Treat as emotional
     control psychosurgery (p. 231).
-  • Inexplicable Urges: The character will be flushed
+  - Inexplicable Urges: The character will be flushed
     with strange alien urges and may sometimes find
     themselves doing highly unusual things without
     realizing at all they are doing it. These may in-
@@ -98,11 +98,11 @@ to apply:
 MINDSTEALER VIRUS
 Very similar to the haunting virus, the mindstealer
  strain is much quicker acting. Instead of slowly sub-
-verting the target’s mind over the course of months,
-the mindstealer virus rapidly recodes the victim’s brain
+verting the target's mind over the course of months,
+the mindstealer virus rapidly recodes the victim's brain
 in a matter of minutes. This infection is much more
 invasive and brute-force, often causing significant
- side effects to the target’s mental state as a result. This
+ side effects to the target's mental state as a result. This
  strain is only spread as a digital virus, nanoplague, or
 basilisk hack (not as a biological nanovirus).
     Once the victim is infected, it takes the virus a
@@ -112,9 +112,9 @@ to completely take over their mind (20 Action Turns
 aware that their mind is under attack and undergo-
 ing massive changes against their will. This process
 is confusing, frightening, and painful, inflicting a
-–30 modifier to all of the character’s actions for the
+–30 modifier to all of the character's actions for the
 duration. Many victims are reduced to whimpering,
 drooling, or convulsing for the duration.
    This mental transformation inflicts 2d10 mental
  stress to the target. Once complete, the victim is an
- exsurgent NPC, under the gamemaster’s control.
+ exsurgent NPC, under the gamemaster's control.

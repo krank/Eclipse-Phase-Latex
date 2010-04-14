@@ -13,7 +13,7 @@ rofoam, but acts as an incredible insulator against
 heat and cold. It is commonly used in habitats.
 
 DIAMOND
-Artiﬁcial diamond is lightweight and super-strong,
+Artificial diamond is lightweight and super-strong,
 has an extremely high melting point, and has near-
 perfect thermal conductivity. This makes it an ideal
 substance for hardening coated surfaces (armor)
@@ -42,12 +42,12 @@ morphs easy.
  INTERFACE
 It is not uncommon for everyday devices to have no
 visible controls as they are designed to be operated via
-radio broadcasts from the user’s ecto or mesh inserts.
+radio broadcasts from the user's ecto or mesh inserts.
 Any items crafted for use in emergency, combat, sur-
 vival, or exploration situations, however, will feature
 basic physical controls, just in case. Physical interfaces
 are typically controlled by touch pads that are noth-
-ing more than colored spots on the device’s surface,
+ing more than colored spots on the device's surface,
 though some may also project a holographic interface
 display. Most equipment of this sort can can also be
 voice-activated and controlled.
@@ -55,8 +55,8 @@ voice-activated and controlled.
 of help files and tutorials. Most electronics are also
 mesh-capable and equipped with specialized AIs (see
 Meshed Gear, next page).
- etallic structures—light enough to ﬂoat on water.
- eal for habitat construction and ﬂoating cities.
+ etallic structures—light enough to float on water.
+ eal for habitat construction and floating cities.
 
 METALLIC GLASS
  etallic glass are metals highly alloyed to possess a
@@ -95,7 +95,7 @@ ansparent construction designs, so long as its poor
    so-called smart materials. These devices contain—or
    sometimes consist entirely of—many small nanoma-
    chines that can both move and reshape themselves
-   to alter the object’s shape, color, and texture. For
+   to alter the object's shape, color, and texture. For
    example, smart clothing can transform from a suit of
    specialized cold weather clothing suitable for the Mar-
    tian poles in winter to a fashionable suit in the latest

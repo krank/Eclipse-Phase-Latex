@@ -76,7 +76,7 @@ pressurized environments (like underwater), as the
 gas bursts out of the body cavity to escape (+2d10
 damage in such situations). Wasp knives may also
 be loaded with chemicals, drugs, or nanobots. The
-target must be damaged for the canister’s contents to
+target must be damaged for the canister's contents to
 affect them. [Low]
 
 CLUBS
@@ -95,7 +95,7 @@ Attacks, p. 204). [Low]
 EXOTIC MELEE WEAPONS
 Unusual weapons requires a specific Exotic Melee
 field skill to use.
-   Monowire Garrote: This assassin’s weapon fea-
+   Monowire Garrote: This assassin's weapon fea-
 tures a dangerous monomolecular wire wrapped
 around a contained spool with two handles. One
 handle grips the spool, while the other extends the

@@ -12,7 +12,7 @@ them into a tiny amount of dust made mostly of metal
 and silicon. [Moderate]
    Traction Pads: This set of specialized fingerless
 gloves, shoes, and kneepads is designed to emulate the
-pads on geckos’ feet. Characters can support them-
+pads on geckos' feet. Characters can support them-
 selves on a wall or ceiling by placing any two of these
 pads against any surface not made from a material
 specially designed to resist such devices. Characters
@@ -20,7 +20,7 @@ can climb any surface and move easily across walls
 and ceilings that can support their weight (+30 to
 Climbing Tests). In addition to climbing, these devices
 are also very popular in zero-g environments. Wearing
-this item does not impair the user’s agility or manual
+this item does not impair the user's agility or manual
 dexterity. [Low]
   White Noise Machine: This small and wearable
 device generates masking sounds that protect a con-
@@ -40,7 +40,7 @@ tainers, including ones made of metal. [Low]
 DRUGS, CHEMICALS, AND TOXINS
 In Eclipse Phase, the transhuman desire to enhance
 the body and mind—especially with chemicals—
-merges right into humanity’s popular pastime of
+merges right into humanity's popular pastime of
 recreational substance abuse. Drugs of all kinds,
 whether they be chemical, nano-based, or electronic,
 are not only popular but widespread. While advances
@@ -55,7 +55,7 @@ tion of course
    Drug descriptions include benefits, side effects, no-
 ticeable signs that a person is using the drug, addictive-
 ness, and effects from long-term use). Descriptions also
-include the drug’s Duration and its Addiction Modifier
+include the drug's Duration and its Addiction Modifier
 (see Addiction and Substance Abuse).
 SUBSTANCE RULES
 These rules explain how to handle drugs and toxins.

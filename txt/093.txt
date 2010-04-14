@@ -3,7 +3,7 @@ around the planet as they crashed to Earth, leaving
 swathes of destruction.
 
 POPULATION
-Earth’s population is a matter of speculation. The
+Earth's population is a matter of speculation. The
 reclaimers and Lunar authorities, both of whom
 spend a great deal of effort monitoring Earth, agree
 that surface energy emissions suggest a population of
@@ -64,7 +64,7 @@ means taking a risk.
 
 FRESH KILLS
 Essentially an armed-to-the-incisors scum barge,
-Fresh Kills is a salvage base near the edge of Earth’s
+Fresh Kills is a salvage base near the edge of Earth's
 L5 point. The base is built around a huge central
 docking spindle with moorings for small craft and
 habitat modules in the center, and massive weapons
@@ -87,21 +87,21 @@ Recently, however, Paradise fell back in favor with the
 inner system glitterati, who undertook measures to
 expel many of the lingering squatters and refurnish
 it as an elite social space. Recent rumors suggest the
-Consortium’s Hypercorp Council has used Paradise
+Consortium's Hypercorp Council has used Paradise
 for important face-to-face meetings.
 
 VO NGUYEN
 The Reclaimers maintain this station in high geosta-
 tionary orbit, monitoring Earth and making plans
 for potential geo-engineering efforts. Vo Nguyen is a
-small O’Neill cylinder hidden in a dangerous cloud of
+small O'Neill cylinder hidden in a dangerous cloud of
 space junk and protected by swarms of killsats, gun
 emplacements, and drones. It is occasionally used as a
 jumping off point for secret surface expeditions.
 
 LUNA
 The first planetary body to host permanent human
-habitation, Earth’s sole moon is home to the second
+habitation, Earth's sole moon is home to the second
 largest population of transhumanity on a single
 planet and remains a lynchpin of culture and econom-
 ic activity. Lunar history has been shaped dramati-
@@ -112,7 +112,7 @@ ing a population of more than a few million. Luna
 was never seen as an economically viable location for
 colonization, the focus instead falling on Mars and
 the outer system.
-   When the Fall came, every polity that couldn’t
+   When the Fall came, every polity that couldn't
 hope for a shot at Mars or elsewhere set its sites on
 Luna. The Indians were the only great power that
 had invested heavily in Luna. The other three major

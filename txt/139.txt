@@ -5,11 +5,11 @@
             raise her Moxie from 1 to 5. She also decides that she
             wants her character to be better at spotting things, so
             she raises her INT from 15 to 20, at a cost of 50 CP (5 x
-            10). So far, she’s spent 110 CP.
+            10). So far, she's spent 110 CP.
                She must buy at least 400 points of Active skills, so she
             tackles that next. She knows that skills are based on apti-
             tudes and they get more expensive over 60, so she decides
-            the most she’ll spend on any single skill is 40 (since her
+            the most she'll spend on any single skill is 40 (since her
             highest aptitude is 20). She picks out her skills, assigns the
             points, and adds them to the starting aptitudes.
                This is what she starts with, noting the points she
@@ -23,11 +23,11 @@
                Beam Weapons (COO) 30 (45), Climbing (SOM) 30
             (45), Demolitions (COG) 40 (60), Fray (REF) 30 (50),
             Freefall (REF) 40 (60), Freerunning (SOM) 30 (45),
-            Hardware: Aerospace (COG) 40 (60), Inﬁltration (COO)
+            Hardware: Aerospace (COG) 40 (60), Infiltration (COO)
             30 (45), Interfacing (COG) 20 (40), Navigation (INT) 40
             (60), Perception (INT) 40 (60), Persuasion (SAV) 20 (30),
             Research (COG) 20 (40), and Scrounging (INT) 40 (60).
-               This costs her 450 CP, so she’s spent a total of 560
+               This costs her 450 CP, so she's spent a total of 560
             CP so far.
                Now she spends her 300 points of Knowledge skills:
                Academics: Astrophysics (COG) 40 (60), Academics:
@@ -75,7 +75,7 @@ Rep scores by 30 points each, at a cost of 6 CP. She also
 decides she needs some credibility with criminal types,
 so she buys g-rep at 40, for 4 more CP. Now she has 80
 CP left.
-    Tai’s character needs a body, and she decides a
+    Tai's character needs a body, and she decides a
                                                               EXAMPLE
 
 
@@ -95,7 +95,7 @@ scavenger. At a cost of 10 CP, she would need to take an-
 other negative trait to compensate. She chooses Neural
 Damage (synaesthesia)—a condition she inherited from
 a rampaging nanovirus during the Fall.
-    Tai’s points are now all evened out and spent.
+    Tai's points are now all evened out and spent.
 
 
 
@@ -108,12 +108,12 @@ a rampaging nanovirus during the Fall.
      There is no limitation other than what the game-
   master allows on what gear characters can and cannot
   buy during character creation. Both the players and
-  gamemaster should keep the character’s background
+  gamemaster should keep the character's background
   and faction in mind. Since some gear is likely very
   restricted in some habitats if not outright illegal, there
   needs to be a plausible explanation for who and how
   a character from such a place might have such gear.
-  If there isn’t, then the gamemaster can choose not to
+  If there isn't, then the gamemaster can choose not to
   allow it. The starting locale for a game should also
   be considered. A character from the restrictive Jovian
   Republic might have a hard time explaining how they

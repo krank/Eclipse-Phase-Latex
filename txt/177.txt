@@ -22,9 +22,9 @@ If a character wants to slip free of physical bonds (such
 as ropes or handcuffs) or otherwise contort themselves
 (such as wriggling out from under a collapsed wall or
 an overturned vehicle), an Escape Artist Test may be
-called for using the character’s COO + SOM. Apply
+called for using the character's COO + SOM. Apply
 modifiers appropriate to the difficulty of the situation.
-At the gamemaster’s discretion, escaping from some
+At the gamemaster's discretion, escaping from some
 restraining situations may be considered a Task Action
 with an appropriate timeframe.
 
@@ -37,7 +37,7 @@ gamemaster can call for an INT x 3 or COG x 3 roll
 (whichever is more appropriate) to determine if the
 character gets an idea that will help them along. This
 test should be used sparingly, and only for assessing
-the character’s interpretation of obvious and known
+the character's interpretation of obvious and known
 facts and details.
 
 MEMORIZING AND REMEMBERING

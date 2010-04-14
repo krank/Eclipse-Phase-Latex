@@ -9,7 +9,7 @@ between the async and the target (p. 222).
                                                                    RANGE:        Touch       DURATION:   Temp (Action Turns)
 ALIENATION                                                          STRAIN MOD: –1            SKILL:   Control
     PSI TYPE:   Active        ACTION:     Complex               This sleight allows the async to stimulate cortical areas
-                                                                of the target’s brain related to emotion. This allows
+                                                                of the target's brain related to emotion. This allows
     RANGE:      Touch         DURATION:   Temp (Action Turns)
                                                                 the async to induce, amplify, or tone down specific
     STRAIN MOD: +0             SKILL:    Psi Assault            emotions, thereby manipulating the target. If the async
@@ -20,7 +20,7 @@ The ego finds their body cumbersome, strange, and               (up to +/–30),
 alien, almost like they are a prisoner within it. If the        example, an async might receive a +30 Intimidation
 async beats the target in an Opposed Test, treat the            Test modifier against a target imbued with fear.
 test as a failed Integration Test (p. 272) for the target.
-This effect lasts for the sleight’s duration.                   EGO SENSE
+This effect lasts for the sleight's duration.                   EGO SENSE
                                                                    PSI TYPE:     Active      ACTION:     Complex
 CHARISMA
                                                                    RANGE:        Close       DURATION:   Temp (Action Turns)
@@ -29,7 +29,7 @@ CHARISMA
     RANGE:      Touch         DURATION:   Temp (Minutes)
                                                                 Ego Sense can be used to detect the presence and
     STRAIN MOD: –1           SKILL:   Control                   location of other sentient and biological life forms
-The async uses this sleight to influence the target’s           (i.e., egos) within the async’s range. To detect these
+The async uses this sleight to influence the target's           (i.e., egos) within the async's range. To detect these
 mind on a subconscious level, so that the target per-           life forms, the async makes a single Sense Test, op-
 ceives them to be charming, magnetic, and persuasive.           posed by each life form within range. The async may
 If the async beats the target in an Opposed Test, they          suffer a modifier for detecting small animals and
@@ -42,23 +42,23 @@ CLOUD MEMORY                                                    applied. If succ
     RANGE:      Touch         DURATION:   Temp (Minutes)        detected life: direction from async, approximate size,
     STRAIN MOD: –1             SKILL:   Control                 type of creature, distance from async, etc. The async
 Cloud Memory allows the async to temporarily dis-               will know if the target moves, if they do so during the
-rupt the target’s ability to form long-term memories. If        sleight’s duration.
-the async wins the Opposed Test, the target’s memory-
+rupt the target's ability to form long-term memories. If        sleight's duration.
+the async wins the Opposed Test, the target's memory-
 saving ability is negated for the duration. The target          EMPATHIC SCAN
 will retain short-term memories during this time, but              PSI TYPE:     Active      ACTION:     Quick
 will soon forget anything that occurred while this
                                                                    RANGE:        Close       DURATION:   Sustained
 sleight was in effect.
                                                                     STRAIN MOD: –2             SKILL:    Sense
-DEEP SCAN                                                       Empathic Scan enables the async to sense the target’s
+DEEP SCAN                                                       Empathic Scan enables the async to sense the target's
     PSI TYPE:   Active        ACTION:     Complex               base emotions. If the async wins the Opposed Test,
-                                                                they intuitively feel the target’s emotional current state
+                                                                they intuitively feel the target's emotional current state
     RANGE:      Touch         DURATION:   Sustained             for as long as the sleight is sustained. At the gamemas-
-    STRAIN MOD: +1            SKILL:    Sense                   ter’s discretion, this knowledge may provide a modifier
+    STRAIN MOD: +1            SKILL:    Sense                   ter's discretion, this knowledge may provide a modifier
 Deep Scan is a more intrusive version of Thought                (up to +30) for certain Social skill tests.
 Browse (p. 228), made to extract information from the
 targeted individual. If the Opposed Test succeeds, the          IMPLANT MEMORY
-async telepathically invades the target’s mind and can             PSI TYPE:     Active      ACTION:     Complex
+async telepathically invades the target's mind and can             PSI TYPE:     Active      ACTION:     Complex
 probe it for information. For every 10 full points of MoS
                                                                    RANGE:        Touch       DURATION:   Instant
 the async achieves on their test, they retrieve one piece

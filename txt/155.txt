@@ -9,7 +9,7 @@ may call for more practice/study.                   tra
    The cost to increase a skill is 1 RP per skill   wit
 point, and no skill may be increased over 99.       ext
 No skill may be raised by more than 5 points           G
-per month. When a character’s skill reaches         dif
+per month. When a character's skill reaches         dif
 the level of expertise (skill of 60+), however,     unf
 they tend to reach a plateau where improve-         gam
 ment progresses more slowly and even con-           are
@@ -49,7 +49,7 @@ Moxie point. The maximum to which Moxie             of
 may be raised is 10.                                inc
                                                     or
 GAINING/LOSING TRAITS                               sell
-At the gamemaster’s discretion, both positive
+At the gamemaster's discretion, both positive
 and negative traits may be acquired or lost         IM
 during gameplay, though such changes should         Ch
 be rare and only made in accordance with the        ma
@@ -59,7 +59,7 @@ picked up by a character during gameplay            pra
 as a consequence of something that did or           per
 something that happened to them. In the case        lea
  sitive trait, the character must immedi-
-pend Rez Points equal to the trait’s CP
+pend Rez Points equal to the trait's CP
  r the privilege (whether they wanted
 w trait or not). If the character has no
  t RP available, they must pay out im-
@@ -80,13 +80,13 @@ way, but more typically they can only
  ce of a character that seeks to over-
  heir handicap. Such endeavors should
    weeks if not months of effort on the
- ter’s part, with appropriate roleplay-
+ ter's part, with appropriate roleplay-
 d possibly some difficult tests. In fact,
  ming such traits could be the source
 adventure. Once a gamemaster feels
  e character has made a strong-enough
   the character may pay a number of
-  ints equal to the trait’s original CP
+  ints equal to the trait's original CP
   o negate it. Note, however, that some
   e traits may simply not be discarded,
  ter what the character does.
@@ -99,7 +99,7 @@ s during gameplay (see Reputation
  o handle their Rep-boosting activities
  een,” however, can simply spend Rez
 to boost their score(s). Each RP spent
- the character’s Rep by +10 in a single
+ the character's Rep by +10 in a single
  k. Only one such boost may be made
  gle rep network per month.
 

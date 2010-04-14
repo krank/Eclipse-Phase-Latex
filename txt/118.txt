@@ -1,31 +1,31 @@
 SIMPLIFYING
 MODIFIERS
 Rather than looking up and accumulating a
-long list of modiﬁers for each action and doing
+long list of modifiers for each action and doing
 the math, the gamemaster can instead choose
 to simply “eyeball” the situation and apply the
-modiﬁer that best sums up the net effect. This
+modifier that best sums up the net effect. This
 method is quicker and allows for easier test
 resolution. One way to eyeball the situation is
-to simply apply the most severe modiﬁer affect-
+to simply apply the most severe modifier affect-
 ing the situation.
 
 
-           Tyska is trying to escape from some thing that’s
+           Tyska is trying to escape from some thing that's
            chasing him through a derelict habitat. The
            gamemaster calls for a Freerunning Test, but
-           there are a number of modifying conditions: it’s
+           there are a number of modifying conditions: it's
  EXAMPLE
 
 
 
 
-           dark, he’s running with a ﬂashlight, and there’s
+           dark, he's running with a flashlight, and there's
            debris everywhere. Tyska, however, has an en-
            toptic map of the best route out of there to help
            him out. The gamemaster assesses the situation
            and decides the overall effect is that the test is
-           challenging, and so a –20 modiﬁer is applied.
+           challenging, and so a –20 modifier is applied.
 
 
 NARRATIVE MODIFIERS
@@ -33,13 +33,13 @@ If you wish to develop a more cinematic feel for
 your game, or if you simply wish to encourage
 your players to invest more detail and creativ-
 ity into the storyline, you can award “narrative
-modiﬁers” to a character’s test when that player
+modifiers” to a character's test when that player
 describes what the character is doing in excep-
 tionally colorful, inventive, or dramatic detail.
-The better the detail, the better the modiﬁer.
+The better the detail, the better the modifier.
 
 
-           Cole doesn’t just want his character to jump over
+           Cole doesn't just want his character to jump over
            the table, he wants to make an impact. Cole tells
            the gamemaster that his character kicks a chair
            out of the way, rolls over the dinner table on
@@ -49,7 +49,7 @@ The better the detail, the better the modiﬁer.
 
 
            his shoulder, grabs a fork as he does it, makes
-           sure to knock all of the ﬁne china on the ﬂoor,
+           sure to knock all of the fine china on the floor,
            then lands on his feet in a defensive martial
            arts posture, fork raised high. The gamemaster
            decides the extra description is worth +10 to his
@@ -96,22 +96,22 @@ comedy, drama, or tension.
 
 
   lets slip an important piece of information that she
-  didn’t want the triad to know. If she rolled a 00
+  didn't want the triad to know. If she rolled a 00
   instead—a critical success—she would browbeat
   the man so thoroughly that he throws in some
-  extra important information just so she’ll leave
+  extra important information just so she'll leave
   him alone in the future.
 
 
 DEFAULTING: UNTRAINED SKILL USE
 Certain tests may call for a character to use a skill they
-don’t have—a process called defaulting. In this case,
+don't have—a process called defaulting. In this case,
 the character instead uses the rating of the aptitude
 (see p. 123) that is linked to the skill in question as the
 target number.
    Not all skills may be defaulted; some of them are
 so complex or require such training than an unskilled
-character can’t hope to succeed. Skills that may not be
+character can't hope to succeed. Skills that may not be
 defaulted on are noted on the Skill List (p. 176) and in
 the skill description.
    In rare cases, a gamemaster might allow a character
@@ -122,16 +122,16 @@ incurs a –30 modifier.
 
   Toljek is trying to casually sneak inside a hyper-
   corp facility when he unexpectedly runs into a
-  hypercorp employee. The woman he’s encountered
-  doesn’t necessarily have grounds to be suspicious
+  hypercorp employee. The woman he's encountered
+  doesn't necessarily have grounds to be suspicious
                                                           EXAMPLE
 
 
 
 
-  of Toljek’s presence, but the gamemaster calls for
+  of Toljek's presence, but the gamemaster calls for
   Toljek to make a Protocol Test to pass himself off as
   someone that belongs there. Unfortunately, Toljek
-  doesn’t have that skill, so he must default to its
+  doesn't have that skill, so he must default to its
   linked aptitude, Savvy, instead. His Savvy score is
   only 18, so Toljek better hope he gets lucky.

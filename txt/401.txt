@@ -54,7 +54,7 @@ Animal Handling            SAV
         Hardware:         COG
         Hardware:         COG
   Impersonation            SAV
-        Inﬁltration       COO
+        Infiltration       COO
             Infosec       COG*
        Interfacing        COG
      Intimidation          SAV

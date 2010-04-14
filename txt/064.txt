@@ -1,5 +1,5 @@
   Old economy societies are unique in that money is
-the society’s only acceptable means of exchange. While
+the society's only acceptable means of exchange. While
 reputation networks exist, they are informal and serve
 as an unsanctioned means of exchanging favors.
 
@@ -21,7 +21,7 @@ other simple, non-formatible objects is a trivial matter.
 However, the public nanofabrication machines can
 only create objects that either contain no electronics
 at all or contain only simple circuits that report on the
-object’s condition and location. Manufacturing any
+object's condition and location. Manufacturing any
 of these items requires little more than the machine
 and a supply of carbon, hydrogen, oxygen, nitrogen,
 silicon, iron, aluminum, and tiny amounts of various
@@ -51,7 +51,7 @@ the populace is healthy, content, and productive.
 also goods that residents must purchase from corpo-
 rations, their government, or other producers. Smart
 clothing and smart furniture that can change shape,
-color, and pattern, depending upon the user’s wishes,
+color, and pattern, depending upon the user's wishes,
 cannot be manufactured in any of the personal nano-
 fabricators. Any goods made from highly durable
 composite materials, batteries, electrically-powered
@@ -82,7 +82,7 @@ ceptionally wealthy and somewhat frightening.
    Despite these differences in perception, both eco-
 nomic societies have a great deal in common. Food,
 clothing, and similar goods are easily available to
-all residents. An individual’s status, taste, wealth,
+all residents. An individual's status, taste, wealth,
 and reputation are measured by the kinds of cloth-
 ing, food, and furnishings they possess. While there
 are a vast number of templates for different styles of
@@ -117,4 +117,4 @@ settlements adopting this model.
    In new economy societies, individuals can freely
 manufacture and use almost anything they want, as-
 suming they can acquire the correct templates and
-raw materials. As a result, the residents’ need for food,
+raw materials. As a result, the residents' need for food,

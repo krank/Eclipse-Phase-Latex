@@ -6,7 +6,7 @@ a range of 500 km in urban areas and 5,000 km else-         their descent. [Mode
 where. [Moderate]                                              Spindle Climber: This device attaches to a spindle
    Flashlight: These handheld, wearable, or portable        and transforms it into a highly effective climbing
 lights can display light in the normal visual spectrum,     device. The spindle climber has two functions. First, it
-infrared, or ultraviolet, as desired. [Trivial]             attaches hardened tips to the spindle’s cable and fires
+infrared, or ultraviolet, as desired. [Trivial]             attaches hardened tips to the spindle's cable and fires
    Nanobandage: Characters without medichines must          it at high speed, up to 50 meters, with sufficient force
 rely on external sources of healing. The most common        to imbed the tip into almost any sufficiently durable
 option is the nanobandage—a plum-sized advanced             surface. Second, the spindle climber can pull itself and
@@ -18,7 +18,7 @@ nanobots do the work. It removes pain and discom-
 fort and speeds healing (see Biomorph Healing, p.           VACUUM SUITS
 208). For especially severe injuries, physical first aid    Most vacuum suits are skin-tight garments that use
 such as setting bones and removing projectiles may          the pressure of their advanced smartfabrics on the
-be necessary (gamemaster’s choice). If the wounds are       wearer’s body to resist vacuum. When the wearer is in
+be necessary (gamemaster's choice). If the wounds are       wearer's body to resist vacuum. When the wearer is in
 too severe (the patient has suffered more than five         a breathable atmosphere, the smartfabric also loosens
 wounds), the unit places the patient in medical stasis      the suits to serve as ordinary clothing or be easily
 and radios for emergency services. [Trivial]                put on or taken off. In all cases, the suits can become
@@ -29,7 +29,7 @@ the specifications and plans for almost all commonly           Light Vacsuit: Ev
 used synthmorphs and devices and is a ubiquitous            owns at least one of these suits. They come in a vari-
 household item. If it does not contain the specifica-       ety of forms. Inexpensive versions are typically light-
 tions for something it is being used to repair, it must     weight jumpsuits made of simple smart fabric that
-query the object’s voice for these details, otherwise it    adjusts to fit and folds up small enough to fit into a
+query the object's voice for these details, otherwise it    adjusts to fit and folds up small enough to fit into a
 cannot repair it. Simply touch it to the damaged area,      coat pocket. The best models include suits of high-end
 push the button on top, and it sprays out a number of       smart clothing that can transform into a vacsuit and
 nanobots sufficient to make repairs. These nanobots         an advanced nanotech generator the size of a large

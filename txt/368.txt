@@ -1,4 +1,4 @@
-commands in the target’s mind, similar to posthyp-
+commands in the target's mind, similar to posthyp-
 notic suggestions. Nicknamed “You gotta believe me”
 attacks, YGBMs are a sort of remote digital brain-
 washing attempt used to create sleeper terrorists and
@@ -10,7 +10,7 @@ backdoor the Exsurgents discovered in the transhu-
 man brain, and altering the mind by brute force.
   A character experiencing a YGBM basilisk hack
 must make a COG + INT + SAV Test. If this fails, a
-single suggestion is implanted in the character’s mind,
+single suggestion is implanted in the character's mind,
 without their knowledge. This subliminal command
 will be triggered at some later point, either at some
 predesignated time or according to certain pre-set
@@ -57,9 +57,9 @@ own to keep players on their toes.
 
 HAUNTING VIRUS
 This strain is the most insidious of the Exsurgent virii.
-Over time, it rewrites the target’s personality and
+Over time, it rewrites the target's personality and
 motivations, slowly but surely subverting and taking
-control of the victim’s mind. At first the character is
+control of the victim's mind. At first the character is
 unlikely to even be aware of the infection, and as it
 progresses the changes the virus makes to the target
 will at first seem natural to the target, as if some new

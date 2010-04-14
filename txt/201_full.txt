@@ -1,6 +1,6 @@
 fall have likely experienced simulations of life in a       over the place, and moving beltways with hand loops
 gravity well.                                               for major thoroughfares. Magnetic or velcro shoes
-   At the gamemaster’s discretion, characters who           are also used to walk around, rather than climbing
+   At the gamemaster's discretion, characters who           are also used to walk around, rather than climbing
 have spent long periods acclimating to one range of         or flying. Zero-g environments are often designed to
 gravity may find a shift in conditions a bit challeng-      make maximum use of space, however, taking advan-
 ing to cope with, at least until they grow accustomed       tage of the lack of ceilings and floors. Because object
@@ -8,9 +8,9 @@ to the new gravity. In this case, the gamemaster can        are weightless, char
 apply a –10 modifier to both physical and social skills.    objects around easily.
 The physical penalty results from simple difficulties          Movement Rate: Characters who are climbing, pull-
 in maneuvering. The social penalty applies because          ing, or pushing themselves along move at half their
-it’s hard to look impressive, intimidating, or seductive    movement rate (p. 191) in microgravity.
-when you haven’t figured out how to arrange your               Terminal Velocity: It is not difficult to reach escape
-clothes so that they don’t float up into your face. The     velocity on small asteroids and similar bodies—
+it's hard to look impressive, intimidating, or seductive    movement rate (p. 191) in microgravity.
+when you haven't figured out how to arrange your               Terminal Velocity: It is not difficult to reach escape
+clothes so that they don't float up into your face. The     velocity on small asteroids and similar bodies—
 physical penalty can be increased to –20 for situa-         something to keep in mind with thrown objects and
 tions involving combat skills and skills requiring fine     projectile weapons. In some cases, characters who
 manipulation, building, or repairing of items. These        move fast enough and jump can reach escape veloc-
@@ -30,18 +30,18 @@ tively weightless, but size and mass are still factors.
    Things behave differently in microgravity. For           HIGH GRAVITY
 example:                                                    High gravity is anything significantly stronger than
                                                             standard Earth gravity (1.2 g +). High gravity in
- • Objects not anchored down will tend to drift             Eclipse Phase is typically only found on exoplanets.
+ - Objects not anchored down will tend to drift             Eclipse Phase is typically only found on exoplanets.
    off in whatever direction they were last moving.         High gravity can be particularly hard on characters
    Floating objects will eventually settle in the direc-    as their bodies are strained because they carry more
    tion of the densest part of the habitat or spacecraft.   weights, muscles are fatigued from needing to push
- • Thrown or pushed items will travel in a straight         more around, and the heart must work harder to
+ - Thrown or pushed items will travel in a straight         more around, and the heart must work harder to
    line until they hit something.                           pump blood. For every 0.2 g over 1 that a character is
- • Smoke does not rise in streams. Instead, it forms        not acclimated to, treat it as if the character is suffer-
-   a roughly spherical halo around its source.              ing from the effects of 1 wound. At the gamemaster’s
- • Liquids have little cohesion, scattering into clouds     discretion, movement rates may also be modified.
+ - Smoke does not rise in streams. Instead, it forms        not acclimated to, treat it as if the character is suffer-
+   a roughly spherical halo around its source.              ing from the effects of 1 wound. At the gamemaster's
+ - Liquids have little cohesion, scattering into clouds     discretion, movement rates may also be modified.
    of tiny droplets if released into the air. Drinks
    come in sealed bulbs or bottles. Food is eaten so        GRENADES AND SEEKERS
-   that sauces and bits of liquid don’t escape. Blood       Modern grenades, seekers, and similar explosives do
+   that sauces and bits of liquid don't escape. Blood       Modern grenades, seekers, and similar explosives do
    goes everywhere.                                         not necessarily detonate the instant they are thrown
                                                             or strike the target. In fact, several trigger options
   Movement and maneuvering in microgravity is               are available, each set by the user when deploying
@@ -50,8 +50,8 @@ activity in free fall does not require a test. The game-    explode in transit o
 master can, however, call for a Free Fall Test for any      scatter (p. 204).
 complicated maneuvers, flying across major distances,         Airburst: Airburst means that the device explodes in
 sudden changes in direction or velocity, or when en-        mid-air as soon as it travels a distance programmed at
-gaged in melee combat. A failed roll means the char-        launch. In this case, the explosive’s effects are resolved
-acter has miscalculated and ends up in a position other     immediately, in that user’s Action Phase. Note that
+gaged in melee combat. A failed roll means the char-        launch. In this case, the explosive's effects are resolved
+acter has miscalculated and ends up in a position other     immediately, in that user's Action Phase. Note that
 than intended. A Severe Failure means the character has     airburst munitions are programmed with a safety fea-
 screwed up badly, such as slamming themselves into a        ture that will prevent detonation if they fail to travel
 wall or sending themselves spinning off into space.         a minimum precautionary distance from the launcher,

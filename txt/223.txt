@@ -3,12 +3,12 @@
   to the character. This disorder may be treated over
   time, according to normal rules (see Mental Healing
   and Psychotherapy, p. 215).
-• Characters with the Psi trait are also vulnerable to
+- Characters with the Psi trait are also vulnerable to
   infection by other strains of the Exsurgent virus.
   The character suffers a –20 modifier when resisting
   Exsurgent infection (p. 362).
-• Critical failures when using psi tend to stress the
-  async’s mind. Each time a critical failure is rolled
+- Critical failures when using psi tend to stress the
+  async's mind. Each time a critical failure is rolled
   when making a sleight-related test, the async suffers
   a temporary brain seizure. They suffer a –30 modi-
   fier and are incapable of acting until the end of the
@@ -61,7 +61,7 @@ puts them in touch with some sort of fundamental
 substrate of the universe that is weird and terrifying.
 Alternately, they could feel as if their personality was
 melded with something different, something that
-doesn’t belong. Each async is likely to view their situ-
+doesn't belong. Each async is likely to view their situ-
 ation differently, and none of them pleasantly.
 
 USING PSI

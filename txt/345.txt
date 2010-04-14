@@ -16,7 +16,7 @@
 
   AIRCRAFT
  On Mars, Venus, and within large open-space habitats
- like O’Neil cylinders, aircraft of various kinds see regular
+ like O'Neil cylinders, aircraft of various kinds see regular
  use. This includes modern version of rotorcraft (helicop-
  ters, autogyros, tilt-rotors), fixed-wing planes, and zep-
  pelins and other lighter-than-air craft. These are typically
@@ -102,7 +102,7 @@ Small Jet                 6             +20             —
    Exoskeletons are powered mechatronic skeleton
    frameworks worn by a person. Servo-hydraulic joints
    allow the exoskeleton to be maneuvered by mimick-
-   ing the wearer’s own movements, as well as enhanc-
+   ing the wearer's own movements, as well as enhanc-
    ing their strength. Exoskeletons may also be piloted
 
 

@@ -10,8 +10,8 @@ your character is pursuing. These may be as specific
  should work with your gamemaster when choosing
 your motivations, as they can be used to propel the
  storyline forward and specific scenarios can be con-
- structed around your character’s goals. Some of your
- character’s motivations may change later (see Chang-
+ structed around your character's goals. Some of your
+ character's motivations may change later (see Chang-
  ing Motivation, p. 152). Motivations will help your
  character regain Moxie (p. 122) and earn extra Rez
  Points during gameplay (p. 384).
@@ -65,16 +65,16 @@ REMAINING STATS
 A few stats now need to be calculated and added to
 your character sheet:
 
- • Lucidity (p. 122) equals your character’s WIL x 2.
- • Trauma Threshold (p. 122) equals your LUC
+ - Lucidity (p. 122) equals your character's WIL x 2.
+ - Trauma Threshold (p. 122) equals your LUC
    divided by 5 (round up).
- • Insanity Rating (p. 122) equals LUC x 2.
- • Initiative (p. 121) equals your character’s (REF +
+ - Insanity Rating (p. 122) equals LUC x 2.
+ - Initiative (p. 121) equals your character's (REF +
    INT) x 2.
- • Damage Bonus (p. 123) for melee equals SOM ÷
+ - Damage Bonus (p. 123) for melee equals SOM ÷
    10 (round down).
- • Death Rating (p. 122) equals DUR x
+ - Death Rating (p. 122) equals DUR x
    1.5 (biomorphs, round up) or DUR x 2
    (synthmorphs)
- • Speed (p. 121) equals 1 (3 for infomorphs), modi-
+ - Speed (p. 121) equals 1 (3 for infomorphs), modi-
    fied as appropriate by implants.

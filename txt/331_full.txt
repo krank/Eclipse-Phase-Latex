@@ -1,6 +1,6 @@
 diameter of 20 meters” to “find the nearest chemical         Engineers: Engineer microswarms are used for
 traces and track them to their source.” Finally, pro-     various construction purposes: erecting walls, digging
-gramming sets any other parameters for the swarm’s        tunnels, sealing holes, reinforcing foundations, and so
+gramming sets any other parameters for the swarm's        tunnels, sealing holes, reinforcing foundations, and so
 mission—for example, if it should ignore certain ma-      on. [Moderate]
 terials, if it should send a report at a predetermined       Fixers: This is the nanoswarm version of repair
 time, or if it should self-destruct into harmless dust    spray (p. 333). [Moderate]
@@ -10,13 +10,13 @@ Success Test using Programming (Nanoswarm) skill.         affected by an injecto
 Failure simply infers that the programming is imper-      damage and the effects of the carried drug, chemical,
 fect, and so the swarm may not operate completely as      or toxin. [Moderate]
 planned. An actual Programming (Nanoswarm) Suc-              Gardeners: This microswarm is useful for a number
-cess Test is only called for if the swarm’s programming   of agricultural purposes: killing weeds, planting seeds,
+cess Test is only called for if the swarm's programming   of agricultural purposes: killing weeds, planting seeds,
 is substantially complex or if the character seeks to     trimming plants, pollinating, and even harvesting
 have the swarm act outside of its usual set functions.    small items. It may also be programmed to simply
 The bots in each swarm are specially equipped for the     defoliate an area. [Moderate]
 task they are designed for, however, so attempting           Guardians: Guardians watch for and attack other
 to drastically repurpose a swarm may be difficult or      unauthorized swarms. Guardians inflict 1d10 ÷ 2
-pointless at the gamemaster’s discretion.                 damage (round up) on other swarms they come into
+pointless at the gamemaster's discretion.                 damage (round up) on other swarms they come into
    Swarms may also be teleoperated, controlled, and/      contact with per Action Turn. [Moderate]
 or (re)programmed once they are released, via radio          Proteans: This nanoswarm is designed to disassem-
 or laser link.                                            ble other materials and objects and to create a single

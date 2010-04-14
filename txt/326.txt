@@ -67,7 +67,7 @@ locate, migrate, and decompose the synthdiamond
 case of a cortical stack within a morph by attacking
 its crystal lattice. This process takes approximately
 6 hours, after which the cortical stack is destroyed.
-These nanobots also attack the cortical stack’s connec-
+These nanobots also attack the cortical stack's connec-
 tions to the (cyber)brain and brain-mapping nanobots.
 After 1 hour, the victim will be aware that their corti-
 cal stack is threatened. After 3 hours, all connections
@@ -87,7 +87,7 @@ Most biomorphs are immune to standard pathogens
 thanks to their basic bio-mods, and medichines will
 protect against most others. However, even these
 defenses may not protect against diseases left by
-the TITANs or a new terrorist cell’s biowar bug. It
+the TITANs or a new terrorist cell's biowar bug. It
 is largely recommended that pathogens be handled
 as a plot device, rather than an active threat to the
 characters. Pathogens have no effect on synthmorphs.

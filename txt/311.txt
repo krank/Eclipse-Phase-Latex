@@ -22,9 +22,9 @@ memory-related tests. [Moderate]
    Respirocytes: These nanobots act as highly-efficient
 artificial red blood cells, increasing the ability to
 transfer oxygen and carbon dioxide. This increases
-the morph’s ability to hold their breath to 4 hours
+the morph's ability to hold their breath to 4 hours
 and increases DUR by +5. [Moderate]
-   Skillware: The morph’s brain is laced with a net-
+   Skillware: The morph's brain is laced with a net-
 work of artificial neurons that may be formatted with
 downloaded information. This allows the user to
 download skillsofts (p. 332) into their brains, gaining
@@ -37,11 +37,11 @@ restructure their facial features and musculature and
 alter skin tone and hair color. The entire process takes
 a mere 20 minutes. Skinflex adds +30 to Disguise
 Tests. [Moderate]
-   Skinlink: Skinlink nanobots live on the morph’s
+   Skinlink: Skinlink nanobots live on the morph's
 external skin or shell, automatically swarming over
 and creating a physical connection with any electron-
 ics the user touches. They also take advantage of the
-electrical field in a biomorph’s skin for communica-
+electrical field in a biomorph's skin for communica-
 tion. They allow the user to communicate and mesh
 with any devices merely by touching them. This
 is considered a wired link, and so is not subject to
@@ -68,7 +68,7 @@ fication of your body is commonly pursued by many
 transhumans. Body mods once considered dangerous
 or edgy are now safe and commonplace, especially
 among factions like the anarchists, scum, or brinkers.
-   Bodysculpting: If your morph’s enhanced physique
-isn’t enough, you can take it further with custom
+   Bodysculpting: If your morph's enhanced physique
+isn't enough, you can take it further with custom
 bodysculpting such as as elongated ears or fingers,
 nose alteration, hair addition/removal, feathers, exotic

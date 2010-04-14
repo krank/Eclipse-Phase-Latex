@@ -1,12 +1,12 @@
- • Knowledge skills have a maximum of 80. The               that taking a weed whacker to the tree of memory
-   fork may have no more than 5 Knowledge skills.           isn’t an exact science. Specific memories may not be
- • Moxie is reduced to 0.                                   excised or chosen—at best, memories may be handled
- • The Psi trait is removed. At the gamemaster’s dis-       in broad clumps, typically grouped by time periods no
+ - Knowledge skills have a maximum of 80. The               that taking a weed whacker to the tree of memory
+   fork may have no more than 5 Knowledge skills.           isn't an exact science. Specific memories may not be
+ - Moxie is reduced to 0.                                   excised or chosen—at best, memories may be handled
+ - The Psi trait is removed. At the gamemaster's dis-       in broad clumps, typically grouped by time periods no
    cretion, other traits may no longer apply as well.       finer than 6 months. For simplicity, most beta forks are
                                                             created by removing all memories older than 1 year.
   Additional changes may apply as determined by the            When creating a beta or delta fork, the character
 neural pruning test. Delta forks take 1 Action Turn to      must make a Psychosurgery Test (other parties may
-generate.                                                   make this test on the character’s behalf, representing
+generate.                                                   make this test on the character's behalf, representing
                                                             that the character is giving them access to prune the
 GAMMA FORKS                                                 fork appropriately). If the character succeeds, the fork
 More commonly known as vapors, gamma forks are              is created as desired. If the test fails, the gamemaster
@@ -14,12 +14,12 @@ massively incomplete, corrupted, or heavily damaged         chooses one of the f
 copies of an ego. Vapors are not intentionally cre-         full points of MoF. Some of these penalties may be
 ated and are instead the results of botched uploads,        combined for a cumulative effect:
 scrambled backups, incomplete or jammed farcasts,
-or infomorphs/forks that were somehow damaged or              • 1 additional skill decreased by –20
-went insane. It is extremely rare for anyone to pur-          • Fork acquires a Negative mental trait worth 10 CP
-posely create a vapor for anything other than research        • Fork suffers 1d10 ÷ 2 (round up) mental stress
-use, although they can crop up in some interesting            • Extra memory loss (gamemaster discretion; beta
+or infomorphs/forks that were somehow damaged or              - 1 additional skill decreased by –20
+went insane. It is extremely rare for anyone to pur-          - Fork acquires a Negative mental trait worth 10 CP
+posely create a vapor for anything other than research        - Fork suffers 1d10 ÷ 2 (round up) mental stress
+use, although they can crop up in some interesting            - Extra memory loss (gamemaster discretion; beta
 places. For example, poorly made skill software occa-           forks only)
-sionally includes enough of the personality traits and        • 1 Positive trait lost
+sionally includes enough of the personality traits and        - 1 Positive trait lost
 memories of the person the skill was taken from that
 it can behave in a vapor-like fashion when used.            NEURAL PRUNING WITH LONG-TERM PSYCHOSURGERY
    Because vapors are anomalies rather than purpose-        Rather than generating forks on the fly, some char-
@@ -39,22 +39,22 @@ that it functions as either a beta or delta fork.           Likewise, some wealt
    Beta forks are created by taking a virtual mind state    copies of their younger backups on hand, sometimes
 that is intentionally inhibited and filtering a copy of     for decades, and re-instance these when their prime
 the ego through it. Like a topiary shrub, the portions      ego has enough skill and experience to completely
-of the character’s neural network that exceed the ca-       outclass its younger selves. Though technically these
+of the character's neural network that exceed the ca-       outclass its younger selves. Though technically these
 pacities of the intended fork are trimmed away. In ad-      are alpha forks, their lag behind the original ego is
 dition to the changes noted under Beta Forks (p. 273),      comparable in degree to that of a beta fork. This is
 characters may voluntarily choose to delete/decrease        rumored to be the method used by the Pax Familiae
 skills and remove memories.                                 in instancing her army of cloned selves.
-   Delta forks are created by excising the ego’s surface
+   Delta forks are created by excising the ego's surface
 personality traits and applying them to an AI template.     HANDLING FORKS
-In this case the ego’s memories are usually excluded        Gamemasters are encouraged to allow players to ro-
-entirely—it is easier to start with a blank delta fork      leplay their character’s own forks. It is important to
+In this case the ego's memories are usually excluded        Gamemasters are encouraged to allow players to ro-
+entirely—it is easier to start with a blank delta fork      leplay their character's own forks. It is important to
 and feed them the specific memories/knowledge they          note, however, that even with alpha forks, once the
 need. As with beta forks, characters making delta           fork and originating ego diverge, they develop onward
 forks may voluntarily choose to delete/decrease skills      as separate people. The events that shape the primary
-and keep specific memories.                                 ego’s personality, character, and knowledge will not
-   Transhumanity’s grasp of neuroscience extends to         happen—or even if they do, probably not in the same
+and keep specific memories.                                 ego's personality, character, and knowledge will not
+   Transhumanity's grasp of neuroscience extends to         happen—or even if they do, probably not in the same
 scanning and copying a mind, but the most intricate         way—to the fork, and vice versa. The exact dividing
 workings of memory are still imperfectly understood.        line between an ego and a fork is a central philosophi-
 Making precise edits to individual portions of a neural     cal and legal debate among many transhumans.
 network (to alter recollections, skills, and the like) is      This means that gamemaster should not be afraid
-still a black art. The difficulty with neural pruning is    to pull a fork out of a player character’s hands and
+still a black art. The difficulty with neural pruning is    to pull a fork out of a player character's hands and

@@ -1,4 +1,4 @@
-suffers a –10 to –30 modifier (gamemaster’s discre-         Test to spot the back door. If the backdoor’s installer
+suffers a –10 to –30 modifier (gamemaster's discre-         Test to spot the back door. If the backdoor's installer
 tion). An eclectic collection of software programs          scored an Excellent Success on their Programming
 offer a diverse range of AR illusions.                      Test, this Infosec Test suffers a –30 modifier.
    Hackers may also improvise illusions on the
@@ -6,7 +6,7 @@ fly, usually by patching in sensor data from others         CRASHING SOFTWARE
 sources, though this is more difficult and more easily      Intruders can attempt to crash software programs
 spotted (typically adding a +10 to +30 modifier to          by killing the processes that run them. This requires a
 Perception Tests). The advantage is that the hacker         Complex Action and an Infosec Test. Note that some
-can modify the illusion in reaction to the user’s ac-       software is set to immediately respawn, but this can take
+can modify the illusion in reaction to the user's ac-       software is set to immediately respawn, but this can take
 tions or environmental factors on the fly. AR illusion      from 1 Action turn to 1 minute, depending on the system.
 software, however, also offers some template illusions         Hackers may crash AIs, AGIs, and even infomorphs
 that can be modified and controlled in real-time via a      this way, but the process is more difficult. In this case,
@@ -17,7 +17,7 @@ if they spot the deception. Even if they do, however, the   three in order crash
 character may still react to them. Almost anyone will       the AI/infomorph immediately reboots, which generally
 duck when they see an object suddenly flying at their       takes 3 Action Turns, longer if the gamemaster chooses.
 face, as their body reacts on its own before the brain
-comprehends that it’s an illusion and not a threat.         ELIMINATING INTRUSION TRACES
+comprehends that it's an illusion and not a threat.         ELIMINATING INTRUSION TRACES
    Aside from their deceptive value, illusions can be       Hackers who have avoided being Locked may attempt
 used to distract users or otherwise impair their percep-    to clean up all traces of their intrusion before they
 tive faculties. For example, dark illusory clouds can       exit a system. This involves erasing incriminating data
@@ -29,7 +29,7 @@ but the user can also adjust their filters and/or turn      cessful, the intrude
 their AR off if necessary.                                  used to track them down later, such as mesh ID, etc.
 
 BACKDOORS                                                   HACKING VPNS
-A backdoor is a method of bypassing a system’s normal       Virtual private networks (VPNs) are more challeng-
+A backdoor is a method of bypassing a system's normal       Virtual private networks (VPNs) are more challeng-
 authentication and security features. It enables a hacker   ing to hack than standard devices. Because they exist
 to sneak into a system by exploiting a flaw (which can      as an encrypted network within the mesh, accessing
 take the form of an installed program or modification       channels of communication within a VPN is all but
@@ -49,7 +49,7 @@ using the backdoor, –30 for admin.                          other devices on t
    Once installed, using a backdoor requires no test to     other users on the VPN, research data hidden away
 access the system—the hacker simply logs on as if they      on the VPN, and so on.
 were a legitimate user, gaining Covert status. Anyone
-who is aware of a backdoor’s details may use it.            SCRIPTING
+who is aware of a backdoor's details may use it.            SCRIPTING
    How long the backdoor lasts depends on many fac-         A script is a simple program—a batch of instructions—
 tors and is largely up to the gamemaster. Backdoors         that a hacker can embed in a system to be executed at
 are only likely to be spotted during complete security      a later pre-scheduled time or upon a certain trigger

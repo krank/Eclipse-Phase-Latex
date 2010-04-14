@@ -12,7 +12,7 @@ tions in an attempt to reduce psi-waves and block or
 impair sleights. This drug is commonly used to restrain        Oxytocin-A            Bio        Inh, Inj        3 minutes
 async prisoners from using their abilities. A drugged          Twitch               Chem     D, Inh, Inj, O 3 Action Turns
 character must make a WIL x 2 Test. If they fail, they         Nanotoxins
-lose all psi abilities for the drug’s duration. If they suc-   Degeneration         Nano        Inj, O         Immediate
+lose all psi abilities for the drug's duration. If they suc-   Degeneration         Nano        Inj, O         Immediate
 ceed, they suffer a –30 impairment on Psi skills and           Necrosis             Nano        Inj, O        3 Action Turns
 all strain is doubled. Inhibitor has an unfortunate side       Neuropath            Nano       D, Inj, O      3 Action Turns
 effect of doping the character down, however; apply
@@ -23,7 +23,7 @@ characters tend to have a glazed, dopey expression and
 have difficulty getting excited or emotional. [High]           Inhibitor            Chem        Inj, O        3 Action Turns
    Psi-Opener: Psi-opener drugs are variants of the            Psi-Opener            Bio        Inj, O         20 minutes
 Watts-MacLeod strain with a temporary effect and               Psike-Out            Chem        Inj, O          1 minute
-which do not permanently alter the user’s brain. Psi-
+which do not permanently alter the user's brain. Psi-
 opener temporarily imbues the user with the ability
 to use one particular sleight, regardless of whether or           Holographic Projectors: These devices are capable
 not they have the Psi trait. Each type of Psi-opener is        of projecting high-definition, ultra-realistic three-
@@ -36,10 +36,10 @@ Users are occasionally subject to hallucinations               visual light, and
 (gamemaster discretion). When the drug wears off, it           with enhanced vision. [Low]
 inflicts 1d10 points of mental stress, +2 if the drug            Micrograv Shoes: These shoes are equipped with
 imbues a psi-gamma sleight. [Expensive]                        velcro and/or a magnetic system, allowing the wearer
-   Psike-Out: Psike-out bolsters an async’s psi abilities.     to walk normally on appropriate surfaces in micro-
-Apply a +20 modifier to the async’s Psi skill tests for the    grav and zero-G environments, rather than floating or
-drug’s duration. However, also apply +2 to all strain          bouncing. [Trivial]
-DVs for the drug’s duration. Psike-out is mentally ad-            Portable Sensor: This is a small portable (possibly
+   Psike-Out: Psike-out bolsters an async's psi abilities.     to walk normally on appropriate surfaces in micro-
+Apply a +20 modifier to the async's Psi skill tests for the    grav and zero-G environments, rather than floating or
+drug's duration. However, also apply +2 to all strain          bouncing. [Trivial]
+DVs for the drug's duration. Psike-out is mentally ad-            Portable Sensor: This is a small portable (possibly
 dictive, with an Addiction Modifier of –10. [Expensive]        even wearable) sensor system. The type of sensor must
                                                                be chosen (for example: infrared, lidar, radar, x-ray).
                                                                Combined sensor systems are also available, at a cu-

@@ -62,7 +62,7 @@ CHOOSE FACTION
 After choosing your background, you now choose
 which primary faction your character belongs to.
 This faction most likely represents the grouping that
-controls your character’s current home habitat/station,
+controls your character's current home habitat/station,
 and to which your character holds allegiance, but this
 need not be the case. You may be a dissident member
 of your faction, living among them but opposing some
@@ -71,12 +71,12 @@ change. Whatever the case, your faction defines how
 your character represents themself in the struggle be-
 tween ideologies post-Fall.
   You must choose one of the factions listed below.
-Like your character’s background, it will provide your
+Like your character's background, it will provide your
 character with certain skills, traits, limitations, or
 other characteristics.
   The factions presented here outline the most numer-
 ous and influential among transhumanity, but others
-may also exist. At your gamemaster’s discretion, you
+may also exist. At your gamemaster's discretion, you
 may develop another starting faction with them not
 included on this list.
 
@@ -88,7 +88,7 @@ everyone should have a say in the decisions that affect
 their lives. According to the primitive and restrictive
 policies of the Inner system and Jovian Junta, this
 makes you an irresponsible hoodlum at best and a ter-
-rorist at worst. In your opinion, that’s comedy coming
+rorist at worst. In your opinion, that's comedy coming
 from governments that keep their populations in line
 with economic oppression and threats of violence.
 Advantages: +10 to a skill of your choice, +30 Net-
@@ -98,12 +98,12 @@ Common Morphs: All
 
 ARGONAUT
 You are part of a scientific techno-progressive move-
-ment that seeks to solve transhumanity’s injustices and
+ment that seeks to solve transhumanity's injustices and
 inequalities with technology. You support universal
 access to technology and healthcare, open source
 models of production, morphological freedom, and
 democratization. You try to avoid factionalism and
-divisive politics, seeing transhumanity’s splintering as
+divisive politics, seeing transhumanity's splintering as
 a hindrance to its perpetuation.
 Advantages: +10 to two Technical, Academic: [Field],
   or Profession: [Field] skills; +20 Networking:

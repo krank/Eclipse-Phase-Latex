@@ -9,14 +9,14 @@ the burn.                                                  for general purpose i
    Space is a valuable commodity on board spacecraft,      tools, etc. Blueprints for other goods may be acquired
 so room is often tight. Sleeping and personal quarters     in several ways:
 are rarely bigger than large closets, just enough room
-for a sleeping bag and personal effects. Depending          • They may be purchased online (legally or on the
+for a sleeping bag and personal effects. Depending          - They may be purchased online (legally or on the
 on the size of the craft, there may be a communal             black market).
-recreation area. The crew tend to only be busy at the       • They may be found for free online (see below).
-beginning and end of a trip, when they must deal with       • They may be acquired with Rep, following the
+recreation area. The crew tend to only be busy at the       - They may be found for free online (see below).
+beginning and end of a trip, when they must deal with       - They may be acquired with Rep, following the
 acceleration/deceleration and maneuvering around              usual rules for social networking (p. 285).
-other space traffic. The rest of the trip they spend        • They may stolen (usually by hacking a mesh site
+other space traffic. The rest of the trip they spend        - They may stolen (usually by hacking a mesh site
 dealing with repairs or otherwise killing time, often         or a nanofabricator containing such plans).
-by accessing XP or VR simulations or playing AR             • They may be self-programmed (see below).
+by accessing XP or VR simulations or playing AR             - They may be self-programmed (see below).
 games. While spacecraft have their own local mesh
 network, they are usually too far to interact with the       Once the blueprints are acquired, they are simply
 mesh networks of other habitats without significant        loaded into the nanofabricator.
@@ -30,7 +30,7 @@ Combat in space tends to take place over long dis-         habitats, a simple Re
 tances using massive beam weapons, railguns, and           open source blueprints you need (applying modifiers
 missiles. It also tends to be nasty, brutish, and short.   for unusual items). In more restricted habitats, open
 Significant damage to a vessel can cause atmospheric       source blueprints may be harder to find, as they will
-decompression, killing any biomorph crew who aren’t        be securely hidden from the prying eyes of the authori-
+decompression, killing any biomorph crew who aren't        be securely hidden from the prying eyes of the authori-
 suited up and strapped down.                               ties. In this case, the character will need to use their
   For the most part, it is recommended that space          Rep to gain access, bribe a local hacker group, or do
 combat be treated as a plot device, part of the back-      something similar.
@@ -55,6 +55,6 @@ In order to create an object in a nanofabricator           gramming: Nanofabrica
 p. 327), three things are needed: raw materials, blue-     Trivial cost item takes 1 week, a Low cost item takes 2
 prints, and time.                                          weeks, a Moderate item 3 weeks, and so on. Academ-
                                                            ics: Nanotechnology skill or a skill appropriate to the
-RAW MATERIALS                                              object’s design may be used as a complementary skill
+RAW MATERIALS                                              object's design may be used as a complementary skill
 Raw materials are generally easy to acquire, as most       (p. 173) for this test. A fork or muse may also be as-
 nanofabricators are equipped with disassembler units       signed to such a programming task.

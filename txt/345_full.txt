@@ -17,7 +17,7 @@
                                                                        A version of this vehicle is also used on both Mars
   AIRCRAFT                                                           and Titan, but here the frame has been modified to
  On Mars, Venus, and within large open-space habitats                act as a lifting body, and it has a top speed in the thin
- like O’Neil cylinders, aircraft of various kinds see regular        Martian atmosphere of 2,500 km/hour and a range
+ like O'Neil cylinders, aircraft of various kinds see regular        Martian atmosphere of 2,500 km/hour and a range
  use. This includes modern version of rotorcraft (helicop-           of 8,000 km on Mars. On Titan is has a top speed
  ters, autogyros, tilt-rotors), fixed-wing planes, and zep-          of 3,000 kph in the atmosphere, but it can also reach
  pelins and other lighter-than-air craft. These are typically        orbit. [Expensive]
@@ -45,7 +45,7 @@
  2,000 km. In all versions, the two occupants ride in                Exoskeletons are powered mechatronic skeleton
  an inflatable and insulated pressurized bubble with a               frameworks worn by a person. Servo-hydraulic joints
  life support system capable of providing clean air and              allow the exoskeleton to be maneuvered by mimick-
- comfortable temperatures for 20 hours on Mars and                   ing the wearer’s own movements, as well as enhanc-
+ comfortable temperatures for 20 hours on Mars and                   ing the wearer's own movements, as well as enhanc-
  Venus, and 15 hours on Titan. [High]                                ing their strength. Exoskeletons may also be piloted
 
 

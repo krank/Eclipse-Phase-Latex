@@ -1,6 +1,6 @@
 FIRE
 Objects that come into contact with extreme heat or
-flames may catch fire at the gamemaster’s discretion,
+flames may catch fire at the gamemaster's discretion,
 keeping in mind both the flammability of the material
 and the strength of the heat/flames. Burning items (or
 characters) will suffer 1d10 ÷ 2 (round up) damage
@@ -59,7 +59,7 @@ the DV by +1d10 + 10. Firing in full automatic mode
 uses up 10 shots.
 
 FULL DEFENSE
-If you’re expecting to come under fire, you can
+If you're expecting to come under fire, you can
 expend a Complex Action to go on full defense. This
 represents that you are expending all of your energy
 to dodge, duck, ward off attacks, and otherwise get

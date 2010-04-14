@@ -23,8 +23,8 @@
 to the user via their AR display; other data can be ac-
 cessed with a Quick Action. Likewise, the gamemaster
 decides when the muse/AI provides important alerts to
-the user. At the gamemaster’s discretion, some of these
-features may apply modifiers to the character’s tests.
+the user. At the gamemaster's discretion, some of these
+features may apply modifiers to the character's tests.
 
 TOUCH-ONLY ATTACK
 Some types of attacks simply require you to touch your
@@ -94,7 +94,7 @@ ons, brawling, falling, accidents, extreme environ-
 ments, psi attacks, and so on. This section discusses
 how to track such injuries and determine what effect
 they have on your character. Two methods are used
-to gauge a character’s physical health: damage points
+to gauge a character's physical health: damage points
 and wounds.
 
 DAMAGE POINTS
@@ -104,7 +104,7 @@ and are recorded on your character sheet. Damage
 points are characterized as fatigue, stun, bruises,
 bumps, sprains, minor cuts, and similar hurts that,
 while painful, do not significantly impair or threaten
-your character’s life unless they accumulate to a signif-
+your character's life unless they accumulate to a signif-
 icant amount. Any source of harm that inflicts a large
 amount of damage points at once, however, is likely to
 have a more severe effect (see Wounds, p. 207).

@@ -3,12 +3,12 @@
                                                                                                                                   SEVERITY               MODIFIER
 dled as an Opposed Test.                          Step 1: Roll Initiative ((INT + REF) x 2) + 1d100
                                                                                                                                   Minor                     +/– 10
-attack skill +/– modiﬁers.                        Step 2: Begin First Action Phase (Speed 1)                                      Moderate                  +/– 20
+attack skill +/– modifiers.                        Step 2: Begin First Action Phase (Speed 1)                                      Moderate                  +/– 20
  er rolls Fray or melee skill                     Step 3: Declare and Resolve Actions                                             Major                     +/– 30
                                                   Step 4: Rotate and Repeat (Speed 2-4)
  der rolls (Fray skill ÷ 2,
                                                                                                                                      TEST DIFFICULTY
-  /– modiﬁers.                                    SCATTER DIAGRAM                                                     115
+  /– modifiers.                                    SCATTER DIAGRAM                                                     115
                                                                                                                                 DIFFICULTY LEVEL MODIFIER
  eeds and rolls higher than
  he attack hits.                                     204                                                                        Effortless                      +30
@@ -16,19 +16,19 @@ attack skill +/– modiﬁers.                        Step 2: Begin First Action
    armor-defeating (armor                                              1 or 2                                                   Easy                            +10
  ).                                                                                                                             Average                         +0
                                                               10                      3
- ed by the attack’s Armor                                                                                                       Difﬁcult                        –10
+ ed by the attack's Armor                                                                                                       Difficult                        –10
  lue (AP).                                                                                                                      Challenging                     –20
                                                                                                                                 Hard                            –30
 damage is reduced by the                                  9                                  4
  ed Armor rating (unless
                                                                                                                COMPLEMENTARY SKILL BONUS
  mor-defeating).                                                                                     123
- exceeds the target’s                                          8                       5                         SKILL RATING                     MODIFIER
+ exceeds the target's                                          8                       5                         SKILL RATING                     MODIFIER
  old, a wound is also scored.                                          6 or 7                                          01–30                          +10
                                                                                                                        31–60                          +20
    exceeds the Wound                                                                                                    61+                           +30
 multiple factors, multiple
-ﬂicted.)
+flicted.)
                                                                                                                 COMBAT MODIFIERS
                                                                                     193
                                                                                              GENERAL                                                 MODIFIER
@@ -61,9 +61,9 @@ ssile          5–300          301–1,000         1001–3,000       3001–10
                 0–5               6–15             16–30              31–50                  Defender hidden                                              –60
                0–10              11–30             31–50              51–70                  Aimed shot (quick)                                           +10
                0–10              11–40             41–70             71–100                  Aimed shot (complex)                                         +30
-               0–5               6–15              16–30             31–50                   Sweeping ﬁre with beam weapon                        +10 on second shot
+               0–5               6–15              16–30             31–50                   Sweeping fire with beam weapon                        +10 on second shot
                0–5               6–15              16–30             31–50                   Multiple targets in same Action Phase             –20 per additional target
-               0–5               6–15              16–30             31–50                   Indirect ﬁre                                                 –30
+               0–5               6–15              16–30             31–50                   Indirect fire                                                 –30
                                                                                              Point-blank range (2 meters or less)                         +10
             To SOM ÷ 5        To SOM ÷ 2          To SOM           To SOM x 2                Short range                                                   —
             To SOM ÷ 2          To SOM          To SOM x 2         To SOM x 3                Medium range                                                 –10
@@ -77,4 +77,4 @@ h basic biomods                                                                 
  g nanobandage                                                                                        1d10 (5) per 2 hours                        1 per day
 h medichines                                                                                          1d10 (5) per 1 hour                      1 per 12 hours
  s (bad food, not enough rest/heavy activity, poor shelter and/or sanitation)                          double timeframe                       double timeframe
- ns (insufﬁcient food, no rest/strenuous activity, little or no shelter and/or sanitation)              triple timeframe                      no wound healing
+ ns (insufficient food, no rest/strenuous activity, little or no shelter and/or sanitation)              triple timeframe                      no wound healing

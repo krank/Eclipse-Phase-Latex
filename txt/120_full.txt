@@ -31,13 +31,13 @@ for taking extra time.                                                completely
            wants to be extra thorough, however, so she takes
            an extra thirty minutes. Fifty percent of the original     At other times, it may be important to know how
            timeframe is ten minutes, so taking an extra thirty      badly a character fails, as determined by a Margin
-           minutes means that Srit receives a +30 modiﬁer to        of Failure (MoF), which is the amount by which the
+           minutes means that Srit receives a +30 modifier to        of Failure (MoF), which is the amount by which the
            her Investigation Test.                                  character rolled over the target number. In some cases,
                                                                     a test may note that a character who fails with a
                                                                     certain MoF may suffer additional consequences for
 SIMPLE SUCCESS TESTS                                                failing so dismally.
 In some circumstances, the gamemaster may not be
-concerned that a character might fail a test, but instead             Nico is trying to sketch out a picture of someone’s
+concerned that a character might fail a test, but instead             Nico is trying to sketch out a picture of someone's
 simply wants to gauge how well the character per-                     face. He has eidetic memory, but his drawing needs
 forms. In this case, the gamemaster calls for a Simple                to be good enough for someone else to identify the
 Success Test, which is handled just like a standard
@@ -53,7 +53,7 @@ or succeeds weakly (rolls above the target number).                   to recogni
            Dav is taking a short spacewalk between two
            parked ships. The gamemaster determines that this        EXCELLENT SUCCESSES/SEVERE FAILURES
            is a routine operation and calls for Dav to make a       Excellent Successes and Severe Failures are a method
-           Simple Success Test using the Freefall skill. Dav’s      used to benchmark successes and failures with an
+           Simple Success Test using the Freefall skill. Dav's      used to benchmark successes and failures with an
  EXAMPLE
 
 
@@ -62,7 +62,7 @@ or succeeds weakly (rolls above the target number).                   to recogni
            skill is only 35. He rolls a 76, but the gamemaster      MoS or MoF of 30+. Excellent Successes are used in
            merely determines that Dav has some trouble              situations where an especially good roll may boost the
            orienting himself and has to take some extra time.       intended effect, such as inflicting more damage with
-           If Dav had rolled a 77—a critical failure—his suit’s     a good hit in combat. Severe Failures denote a roll
+           If Dav had rolled a 77—a critical failure—his suit's     a good hit in combat. Severe Failures denote a roll
            maneuvering jets may have died and he may have           that is particularly bad and has a worse effect than a
            accidentally propelled himself into deep space.          simple failure. Neither Excellent Successes or Severe
                                                                     Failures are as good or bad as criticals, however.
@@ -79,5 +79,5 @@ while doing it. This is usually true of situations where              and her op
 the challenge is not only difficult but the action must               less than Stoya, so she wins). She has succeeded
 be pulled off with finesse. Tests of this sort may call               and beaten her opponent with an MoS of 30+,
 for a certain Margin of Success (MoS)—an amount by                    scoring an Excellent Success, meaning she will
-which the character must roll under the target number.                inﬂict extra damage with the kick.
+which the character must roll under the target number.                inflict extra damage with the kick.
 For example, a character facing a target number of 55

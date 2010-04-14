@@ -24,7 +24,7 @@ rated pairs of particles are stored in special containers
 known as qubit reservoirs. If two QE communicators
 each have a qubit reservoir containing qubits that are
 each entangled with qubits in the other communica-
-tor’s qubit reservoir, then characters can use the two
+tor's qubit reservoir, then characters can use the two
 QE communicators to commutate with one another
 instantaneously. Characters can use QE to instantly
 communicate between any two locations, even if one
@@ -63,7 +63,7 @@ of voice or text only communications. [Expensive]
   Though surveillance technologies are pervasive
   and easy to come by in Eclipse Phase, secretly
   obtaining information on someone who wants
-  to retain privacy can be quite difﬁcult. Micro-
+  to retain privacy can be quite difficult. Micro-
   bugs, smart dust, and similar recording devices
   that are all but invisible may be exceptionally
   easy to put into place, but once they begin ac-
@@ -77,13 +77,13 @@ of voice or text only communications. [Expensive]
      Some recording devices attempt to avoid this
   problem by using miniature quantum farcasters
   (p. 314), but those are far larger and more dif-
-  ﬁcult to hide. Often the most effective way to
+  ficult to hide. Often the most effective way to
   acquire discrete information is to plant a surveil-
   lance device, set to record but not transmit, and
   then retrieve it later. While doing this is often
-  difﬁcult and risky, the recording device never
+  difficult and risky, the recording device never
   reveals its presence by broadcasting and so is
-  more difﬁcult to detect.                        ■
+  more difficult to detect.                        ■
 
 
 
@@ -108,8 +108,8 @@ Tests to avoid being seen or noticed.
    Chameleon cloaks are not effective against radar,
 x-ray, or gamma-ray sensors. They do hide the char-
 acter from thermal infrared, however, by absorbing
-the character’s body heat into its heat sink. The cloak
-can only absorb a character’s body heat for one hour
+the character's body heat into its heat sink. The cloak
+can only absorb a character's body heat for one hour
 before it must emit this heat. Heat emission also re-
 quires one hour, during which time the character is
 easily visible in the thermal infrared spectrum. [Low]

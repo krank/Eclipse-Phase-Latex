@@ -15,12 +15,12 @@ time by half.
                                                                 PSI TYPE:   Passive       ACTION:    Automatic
 
 PREDICTIVE BOOST                                                 RANGE:     Self          DURATION: Constant
-                                                             The async acquires more insight into people’s emo-
+                                                             The async acquires more insight into people's emo-
    PSI TYPE:     Passive     ACTION:    Automatic
                                                              tive signals, gestures, facial expressions, and body
-    RANGE:     Self        DURATION: Constant                language when it comes time to predict the person’s
+    RANGE:     Self        DURATION: Constant                language when it comes time to predict the person's
 The Bayesian probability machine features of the             emotional state, intent, or reactions. Apply a +10
-async’s brain are boosted by this sleight, enhancing         modifier to Kinesics Skill Tests.
+async's brain are boosted by this sleight, enhancing         modifier to Kinesics Skill Tests.
 their ability to estimate and predict outcomes of
 events around them as they unfold in real-time and           TIME SENSE
 update those predictions as information changes.
@@ -30,7 +30,7 @@ for which outcomes are most likely. This grants the             RANGE:      Self
 
 character a +10 bonus on any skill tests that involve            STRAIN MOD: –1
 predicting the outcome of events. It also bolsters           An async with this ability can slow down his per-
-the async’s decision-making in combat situations by          ception of time, making everything appear to move
+the async's decision-making in combat situations by          ception of time, making everything appear to move
 making the best course of action more clear, and so          in slow motion or at reduced speed. In game terms,
 provides a +10 bonus to both Initiative and Fray Tests.      this sleight grants the async a Speed of +1. This extra
                                                              Action Phase, however, can only be spent on mental
@@ -45,12 +45,12 @@ The async can temporarily increase their intuitive              RANGE:      Self
 grasp of things. In game terms, Intuition is raised by           STRAIN MOD: +0
 5 for the chosen duration. This boost to Intuition also      This sleight allows the async to override their con-
 raises the rating of skills linked to that aptitude.         sciousness and let their unconscious mind take point.
-                                                             While in this state, the async’s conscious mind is only
+                                                             While in this state, the async's conscious mind is only
 SAVANT CALCULATION                                           dimly aware of what is transgressing, and any memo-
    PSI TYPE:     Passive     ACTION:    Automatic            ries of this period will be hazy at best. The advantage
                                                              is that the unconscious mind acts more quickly, and
      RANGE:      Self          DURATION: Constant
-                                                             so the async’s Speed is boosted by +1. The character
+                                                             so the async's Speed is boosted by +1. The character
 The character possesses an incredible facility with
                                                              remains aware and active, but is incapable of com-
 intuitive mathematics. They can do everything from
@@ -64,7 +64,7 @@ by observing the landscape and local wind currents.
 The character specializes in calculation involving the
                                                              Unconscious Lead, the gamemaster should feel free to
 activity of complex chaotic systems and so can calcu-
-                                                             direct the character’s actions as they see fit.
+                                                             direct the character's actions as they see fit.
 late answers that even the fastest computers could not,
 including things like patterns of rubble distribution
 from an explosion. However, this mathematic facility

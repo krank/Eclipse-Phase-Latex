@@ -1,62 +1,62 @@
 STEP 3: APPLY MODIFIERS                                    Multiple wounds may be applied with a single attack
 Any appropriate modifiers are now applied to the           if the modified DV is two or more factors beyond the
-attacker and defender’s skills. See the Combat Modi-       Wound Threshold. Wounds represent more serious
+attacker and defender's skills. See the Combat Modi-       Wound Threshold. Wounds represent more serious
 fiers table (p. 193) for common situational modifiers.     injuries and apply modifiers and other effects to the
                                                            character (see Wounds, p. 207).
 STEP 4: MAKE THE OPPOSED TEST
 The attacker and defender both roll d100 and com-            Stoya tried to get off the station quickly, but the Night
-pare the results to their modified skill target numbers.     Cartel’s assassin caught up, surprising her in a micro-
-                                                             gravity part of the habitat. The assassin’s INIT is 63,
-STEP 5: DETERMINE OUTCOME                                    plus a dice roll of 23, for an Initiative of 86. Stoya’s
+pare the results to their modified skill target numbers.     Cartel's assassin caught up, surprising her in a micro-
+                                                             gravity part of the habitat. The assassin's INIT is 63,
+STEP 5: DETERMINE OUTCOME                                    plus a dice roll of 23, for an Initiative of 86. Stoya's
 If the attacker succeeds and the defender fails, the         INIT is 55, plus a roll of 27, for an Initiative of 82.
-attack hits. If the defender succeeds but the at-               The assassin goes ﬁrst, spending a Quick Action
-tacker fails, the attack misses completely.                  to draw a shredder. This ﬂechette weapon is in
-   If both attacker and defender succeed in their            burst-ﬁre mode, so with a Complex Action the as-
-tests, compare their dice rolls. If the attacker’s           sassin can take two shots. His Spray Weapons skill
-dice roll is higher, the attack hits despite a spirited      is 65, he’s smartlinked (+10), and they’re at short
+attack hits. If the defender succeeds but the at-               The assassin goes first, spending a Quick Action
+tacker fails, the attack misses completely.                  to draw a shredder. This flechette weapon is in
+   If both attacker and defender succeed in their            burst-fire mode, so with a Complex Action the as-
+tests, compare their dice rolls. If the attacker's           sassin can take two shots. His Spray Weapons skill
+dice roll is higher, the attack hits despite a spirited      is 65, he's smartlinked (+10), and they're at short
 defense; otherwise, the attack fails to connect.             range (+0), so he needs a 75 or less. Stoya is de-
    Excellent Success: If the attacker rolled an Ex-          fending with her Fray skill (60) divided by 2, or 30.
-cellent Success (MoS of 30+), a solid hit is struck.            The assassin rolls an 08 with the ﬁrst shot. Amaz-
+cellent Success (MoS of 30+), a solid hit is struck.            The assassin rolls an 08 with the first shot. Amaz-
 Increase the Damage Value (DV) inflicted by +5. If           ingly, Stoya rolls a 28. They both succeeded, but
-the MoS is 60+, increase the DV by +10.                      Stoya rolled higher, so she dodges the ﬁrst shot.
+the MoS is 60+, increase the DV by +10.                      Stoya rolled higher, so she dodges the first shot.
    Criticals: If the attacker rolls a critical success,         The assassin rolls a 20 for his second shot, an-
 the attack is armor-defeating, meaning that the              other hit, and this time Stoya rolls an 83, a failure.
-defender’s armor is bypassed completely—some                 The assassin also scored an Excellent Success with
+defender's armor is bypassed completely—some                 The assassin also scored an Excellent Success with
 kink or flaw was exploited, allowing the attack to           a MoS of 55, increasing the DV by +5.
-get through completely.                                         The assassin’s base damage is 2d10 + 5, but he’s
-   If the defender rolls a critical success, the attack-     using burst ﬁre against a single target for +1d10,
-er’s weapon breaks, jams, gets stuck somewhere,              and it’s also a cone effect weapon at short range,
+get through completely.                                         The assassin's base damage is 2d10 + 5, but he's
+   If the defender rolls a critical success, the attack-     using burst fire against a single target for +1d10,
+er's weapon breaks, jams, gets stuck somewhere,              and it's also a cone effect weapon at short range,
 or otherwise malfunctions or gets dropped.                   for an additional +1d10, for a total DV of 4d10 +
                                                              5. The assassin rolls 4d10 and gets 16, then adds
 STEP 6: MODIFY ARMOR                                         the +5 for a total DV of 21.
-If the target is hit, their armor will help to pro-             Stoya’s wearing light body armor (AV 10/10),
+If the target is hit, their armor will help to pro-             Stoya's wearing light body armor (AV 10/10),
 
                                                                                                                          EXAMPLE
-tect them against the attack (unless the attacker            but the shredder’s Armor penetration is –10, so her
+tect them against the attack (unless the attacker            but the shredder's Armor penetration is –10, so her
 rolled a critical, see above). Determine which type          armor is entirely negated. She takes a devastating 21
 of armor is appropriate to defending against that            DV, exceeding her Wound Threshold of 10, not just
-particular attack (see Armor, p. 194). The attack’s          once, but twice. This means Stoya suffers 2 wounds
-Armor Penetration (AP) value reduces the armor’s             from the shot, suffering –20 to all actions. In addi-
-rating, however, representing the weapon’s ability           tion, she must make two SOM x 3 Tests, one to avoid
+particular attack (see Armor, p. 194). The attack's          once, but twice. This means Stoya suffers 2 wounds
+Armor Penetration (AP) value reduces the armor's             from the shot, suffering –20 to all actions. In addi-
+rating, however, representing the weapon's ability           tion, she must make two SOM x 3 Tests, one to avoid
 to pierce through protective measures.                       knockdown and the other to avoid unconsciousness.
                                                              Her SOM is 30, meaning she needs a 70 (30 x 3 =
-STEP 7: DETERMINE DAMAGE                                     90, 90 – 20 wound modiﬁers = 70) on both rolls.
+STEP 7: DETERMINE DAMAGE                                     90, 90 – 20 wound modifiers = 70) on both rolls.
 Every weapon and type of attack has a Damage                 She rolls a 40 and a 27, succeeding both.
-Value (DV, see p. 207). This amount is reduced                  Now it’s Stoya’s action. She takes a Quick Action
-by the target’s AP-modified armor rating. If the             to pull her own weapon: a stunner. Her Beam
-damage is reduced to 0 or less, the armor is ef-             Weapons skill is 47, modiﬁed by wounds (–20) and
-fective and the attack fails to injure the target.           a smartlink (+10), for 37. The assassin’s Fray is 48,
+Value (DV, see p. 207). This amount is reduced                  Now it's Stoya's action. She takes a Quick Action
+by the target's AP-modified armor rating. If the             to pull her own weapon: a stunner. Her Beam
+damage is reduced to 0 or less, the armor is ef-             Weapons skill is 47, modified by wounds (–20) and
+fective and the attack fails to injure the target.           a smartlink (+10), for 37. The assassin's Fray is 48,
 Otherwise, any remaining damage is applied to the            divided by 2 for 24 against a ranged attack. Stoya
 defender. If the accumulated damage exceeds the              rolls a 22—a critical hit—and the assassin rolls a
-defender’s Durability, they are incapacitated and            68. The stunner only inﬂicts 1d10 ÷ 2 DV, but since
+defender's Durability, they are incapacitated and            68. The stunner only inflicts 1d10 ÷ 2 DV, but since
 may die (see Durability and Health, p. 207).                 the attack is a critical hit, this is armor defeating.
   Note that some psi attacks inflict mental stress           Stoya rolls an 8, for 4 points of DV, below the as-
-rather than physical damage (see Mental Health, p.           sassin’s Wound Threshold of 7.
+rather than physical damage (see Mental Health, p.           sassin's Wound Threshold of 7.
 209). In this case, the Stress Value (SV) is handled            Stunners, however, are shock weapons, so the
 the same as DV.                                              assassin must make a DUR + Energy Armor Test.
-                                                             His DUR is 35 and he’s wearing an armor vest (AV
+                                                             His DUR is 35 and he's wearing an armor vest (AV
 STEP 8: DETERMINE WOUNDS                                     6/6), so his target number is 41. He rolls a 71—a
 The damage inflicted from a single attack is then            Margin of Failure of 30, meaning he is immediately
-compared to the victim’s Wound Threshold. If                 incapacitated for 3 Action Turns.
+compared to the victim's Wound Threshold. If                 incapacitated for 3 Action Turns.
 the armor-modified DV equals or exceeds the                     Having disabled her opponent, Stoya takes the
 Wound Threshold, the character suffers a wound.              time to make a hasty getaway.

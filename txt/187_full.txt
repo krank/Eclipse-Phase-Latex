@@ -1,5 +1,5 @@
   USING KNOWLEDGE SKILLS
-  At ﬁrst glance, it may seem that Knowledge skills have
+  At first glance, it may seem that Knowledge skills have
   fewer in-game applications than Active skills. To some
   degree this is the case. The importance of Knowledge
   skills, however, should not be underestimated. While
@@ -15,19 +15,19 @@
   into a facility could use Profession: Security Procedures
   to evaluate the defenses, Academic: Architecture to
   identify covert points of entry, Interests: Sports to plan
-  their inﬁltration at a time when the guards are likely to
+  their infiltration at a time when the guards are likely to
   be distracted, Interests: Triads to identify a local crime
   group that can sell them breaking and entering gear,
   and Art: Sculpture when picking a valuable art piece
   with which to bribe an insider. When used appropriately,
-  these skills can be just as beneﬁcial as the Active skills
+  these skills can be just as beneficial as the Active skills
   used to break inside, if not more so because the plan
   is more likely to succeed as a result of this preparation.
      It is largely up to the gamemaster to enforce how
   useful Knowledge skills are in their game. The easiest
   way to reinforce their relevance is to penalize charac-
-  ters who don’t take advantage of them. For example,
-  characters who didn’t use their Profession: Security
+  ters who don't take advantage of them. For example,
+  characters who didn't use their Profession: Security
   Procedures in the example above might end up being
   surprised when they run across a security system they
   are not prepared to deal with, forcing them to impro-

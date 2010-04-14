@@ -5,7 +5,7 @@ edge skills (see Skills, p. 170). Skills are bought at the   STARTING MORPH
 cost of 1 CP per point. Keep in mind that learned            Perhaps the most important use of CP is to buy the
 skills start at the rating of the linked aptitude. For       morph with which your character begins play. This
 example, if you want to raise a skill to 30 and the          may be the original bodily form in which your charac-
-skill’s linked aptitude is 10, you’ll need to spend 20 CP.   ter started life, or it may simply be the sleeve they are
+skill's linked aptitude is 10, you'll need to spend 20 CP.   ter started life, or it may simply be the sleeve they are
 Skill bonuses from background or faction should also         currently inhabiting.
 be applied to the rating before you start raising the          Available morphs are listed starting on p. 139.
 skill. For simplicity, it is recommended that skills be        Note that any aptitude or skill bonuses provided by

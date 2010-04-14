@@ -1,9 +1,9 @@
 METHODS
 Unobtrusive—that is the standard operating pro-
-cedure for any sentinel. Firewall’s continued suc-
+cedure for any sentinel. Firewall's continued suc-
 cess relies on its secrecy. The larger the footprint
 it leaves during a given mission the easier it is for
-other organizations to monitor Firewall’s efforts or
+other organizations to monitor Firewall's efforts or
 even attempt to infiltrate the group. As such, Fire-
 wall constantly works to expand its base of allies
 (using assets from those ally organizations in place
@@ -17,9 +17,9 @@ its real intentions and even its real identity. Often
 such allies are gained through the use of well-placed
 sentinels who act on behalf of their own non-
 Firewall positions to gain access to another orga-
-nization’s resources. At the end of the day, however,
+nization's resources. At the end of the day, however,
 a slice of these resources are secretly set aside for
-Firewall’s future use. For example, a department
+Firewall's future use. For example, a department
 head at Starware may have spent years sealing a
 deal to ship crucial spacecraft parts to the isola-
 tionist Jovian Junta. The lucrative deal brings huge
@@ -30,7 +30,7 @@ is a long-standing sentinel, so such accomplish-
 ments bring allies to Firewall, whether they know
 it or not. Not only can the department head siphon
 off a thin stream of revenue for Firewall use (hidden
-thoroughly by vectors), but he’s also in a position
+thoroughly by vectors), but he's also in a position
 to move sentinels, as needed, into the Jovian Junta
 habitats (or personnel out), a job usually extremely
 difficult to accomplish. The danger of such an act,
@@ -53,7 +53,7 @@ lutely needed. Some caches may be so dangerous,
 however, that once a mission is complete, a router
 will authorize the cortical stack destruction of all
 sentinels involved, resleeving them to a backup that
-has no knowledge of the cache’s existence.
+has no knowledge of the cache's existence.
    As noted under erasure squads, Firewall will not
 hesitate to react with swift and unequivocal force if
 an unobtrusive approach has failed and the danger
@@ -62,7 +62,7 @@ an unobtrusive approach has failed and the danger
    Exactly what help Firewall provides to a senti-
    nel during a mission is wholly dependent upon
    the situation and the gamemaster. Generally
-   speaking, Firewall’s unobtrusive approach also
+   speaking, Firewall's unobtrusive approach also
    applies to activated sentinels, meaning that
    sentinels are largely left to operate on their
    own accord. Beyond access to a cache of sup-
@@ -78,20 +78,20 @@ an unobtrusive approach has failed and the danger
    equipment in a cache or help from social engi-
    neers or vectors. Such intervention should be
    kept to a minimum, however, to lesson the
-   players’ feelings of Deus Ex Machina, ensuring
+   players' feelings of Deus Ex Machina, ensuring
    the appropriate response of awe when such
    events do occur.
      The one thing for which Firewall can always
    be relied on is backup insurance. Any Firewall
    killed in the line of duty will be resleeved at
-   Firewall’s expense—though the morph used
+   Firewall's expense—though the morph used
    and whether the sentinel was backed up from
    their cortical stack or a backup (perhaps even
    an old backup) depends entirely on the circum-
-   stances of death and their router’s whim. Fire-
+   stances of death and their router's whim. Fire-
    wall usually makes an extra effort to retrieve
    cortical stacks, however, not in the least as they
-   don’t want their agents’ backups falling into
+   don't want their agents' backups falling into
    the wrong hands.
       Similarly, if a Firewall mission involves ego-
    casting or travel to another destination, Fire-

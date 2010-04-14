@@ -50,10 +50,10 @@ SYBILS
 
                 [Incoming Message. Source: Anonymous]
                 [Public Key Decryption Complete]
-                We’ve verified that the warning issued before
+                We've verified that the warning issued before
                 incident did indeed originate from a sybil atta
                 the rep network sources were forged identities.
-                number of incidents we’ve recorded that have
+                number of incidents we've recorded that have
                 this same pattern, we now suspect that a h
                 unknown AGI sub-faction is responsible. In e
     uplifts oppose the manner in which their brains are
@@ -108,7 +108,7 @@ SYBILS
            these sybils have used multiple false identities to issue
            warnings of an impending attack or disaster, such as the
  latest    life support system failure that resulted in the Delphi sta-
-  all of   tion’s evacuation. So far none of these sybils have been
+  all of   tion's evacuation. So far none of these sybils have been
 en the     successfully traced, nor are their intentions known. Their
  owed      documented pre-knowledge of pending events indicates
  ofore     some level of complicity or collusion in bringing these

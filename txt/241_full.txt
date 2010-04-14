@@ -7,64 +7,64 @@ record every moment of their lives and share it for        The following informa
 others to experience.                                      mesh users in a normal habitat:
 
                                                            LOCAL CONDITIONS
-INTERFACING: AR, VR, AND XP                                • Local maps showing your current location, annotated with
+INTERFACING: AR, VR, AND XP                                - Local maps showing your current location, annotated with
 Mesh media is accessed using one of three protocols:         local features of personal interest (according to your perso
-augmented reality (AR), virtual reality (VR), or expe-       preferences and ﬁlters) and your distance from them/direct
+augmented reality (AR), virtual reality (VR), or expe-       preferences and filters) and your distance from them/direct
 rience playback (XP).                                        to them. Details regarding private and restricted areas (gov
                                                              ment/hypercorp areas, maintenance/security infrastructure,
 AUGMENTED REALITY                                            are usually not included.
- Most users perceive data from the mesh as aug-            • Current habitat life support (climate) conditions including
- mented reality—information overlaid on the user’s           atmosphere composition, temperature.
+ Most users perceive data from the mesh as aug-            - Current habitat life support (climate) conditions including
+ mented reality—information overlaid on the user's           atmosphere composition, temperature.
  physical senses. For example, computer-generated
-                                                           • Current solar system and habitat orbit maps with trajectory
+                                                           - Current solar system and habitat orbit maps with trajectory
  graphics will appear as translucent images, icons,
                                                              plots, communication delays.
- or text in the user’s field of vision. While visual AR
-                                                           • Local businesses/services, directions, and details.
+ or text in the user's field of vision. While visual AR
+                                                           - Local businesses/services, directions, and details.
  data—called entoptic data—is the most common,
  other senses may also be used. AR is not limited
  to visuals, however, and can also include acoustic        LOCAL MESH
- sounds and voices, odors, tastes, and even tactile        • Public search engines, databases, mesh sites, blogs, forums
+ sounds and voices, odors, tastes, and even tactile        - Public search engines, databases, mesh sites, blogs, forums
  sensations. This sensory data is high-resolution and        archives, along with new content alerts.
- seemingly “real,” though it is usually presented as       • Syndicated public newsfeeds in a variety of formats, ﬁltered
+ seemingly “real,” though it is usually presented as       - Syndicated public newsfeeds in a variety of formats, filtered
  something ghostly or otherwise artificial so as not         according to your preferences.
- to be confused with real-world interactions (and          • Sensor/spime (mostly audio-visual) feeds from any public a
+ to be confused with real-world interactions (and          - Sensor/spime (mostly audio-visual) feeds from any public a
  also to meet safety regulations).                           of the habitat.
-   User interfaces are customized to the user’s prefer-
-                                                           • Private network resources (including tactical nets).
+   User interfaces are customized to the user's prefer-
+                                                           - Private network resources (including tactical nets).
  ences and needs, both graphically and content-wise.
-                                                           • Automatic searches for new online references to your nam
+                                                           - Automatic searches for new online references to your nam
  Filters allow users to access the information they
                                                              and other subjects of interest.
  are interested in without needing to worry about
- extraneous data. While AR data is typically placed        • E-tags pertaining to local people, places, or things.
- in the user’s normal field of vision, entoptics are not   • Facial/image recognition searches of public mesh/archives
+ extraneous data. While AR data is typically placed        - E-tags pertaining to local people, places, or things.
+ in the user's normal field of vision, entoptics are not   - Facial/image recognition searches of public mesh/archives
  actually limited by this and may be viewed in the           match a photo/vid still.
-“mind’s eye.” Nevertheless, icons, windows and other
+“mind's eye.” Nevertheless, icons, windows and other
  interaction prompts can be layered, stacked, toggled,     PERSONAL INFORMATION
- hidden, or shifted out of the way if necessary to in-     • Morph status indicators (medical and/or mechanical): blood
+ hidden, or shifted out of the way if necessary to in-     - Morph status indicators (medical and/or mechanical): blood
  teract with the physical world.                             pressure, heart rate, temperature, white cell count, nutrient
                                                              levels, implant status and functionality, etc.
-AVATARS                                                    • Location, functionality, sensor feeds, and status reports of y
+AVATARS                                                    - Location, functionality, sensor feeds, and status reports of y
 Every mesh represents themselves online via a digi-
                                                              possessions (via sensors and transmitters in these possessi
 tal avatar. Many people use digital representations
-                                                           • Access to one’s life-spanning personal audio-visual/XP arch
+                                                           - Access to one's life-spanning personal audio-visual/XP arch
 of themselves, whereas other prefer more iconic
-designs. This may be an off-the-shelf look or a            • Access to one’s life-spanning personal ﬁle archive (music, s
+designs. This may be an off-the-shelf look or a            - Access to one's life-spanning personal file archive (music, s
 customized icon. Libraries of avatars may also be            ware, media, documents, etc.).
-employed, enabling a user to switch their represen-        • Credit account status and transactions.
+employed, enabling a user to switch their represen-        - Credit account status and transactions.
 tation according to mood. Avatars are what other
 users see when they deal with you online—i.e., how         SOCIAL NETWORKS
-you are represented in AR. Most avatars are ani-           • Communications account status: calls, messages, ﬁles, etc.
-mated and programmed to reflect the user’s actual
-                                                           • Reputation score and feedback.
+you are represented in AR. Most avatars are ani-           - Communications account status: calls, messages, files, etc.
+mated and programmed to reflect the user's actual
+                                                           - Reputation score and feedback.
 mood and speech, so that the avatar seems to speak
-                                                           • Social network status, friend updates.
+                                                           - Social network status, friend updates.
 and have emotions.
-                                                           • Updated event calendar and alerts.
-E-TAGS                                                     • The public social network proﬁles of those around you.
-Entoptic tags are a way for people to “tag” a physical     • The location and status of those nearby and involved in the
+                                                           - Updated event calendar and alerts.
+E-TAGS                                                     - The public social network profiles of those around you.
+Entoptic tags are a way for people to “tag” a physical     - The location and status of those nearby and involved in the
 person, place, or object with a piece of virtual data.       same AR games as you.
 These e-tags are stored in networks local to the tagged
 item, and move with the item if it changes location.

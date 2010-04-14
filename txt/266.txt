@@ -13,7 +13,7 @@ MODIFIER TASK
  ited, however, as a number of system controls and
  processes cannot be accessed and manipulated from
  the inside.
-    Most of the hacker’s options are going to involve
+    Most of the hacker's options are going to involve
  meddling with the simulation and its specific domain
  rules or possibly gaining access to cheats. To make a
  change requires a successful Interface Test. Ultimately
@@ -23,10 +23,10 @@ MODIFIER TASK
     Most simulspaces are monitored to prevent cheat-
  ing and abuse, though the monitors are typically pre-
  occupied with maintaining the simulspace as a whole,
- dealing with other users, etc. At the gamemaster’s
+ dealing with other users, etc. At the gamemaster's
  discretion, such a monitor might get to make an Inter-
  face Test (possibly with a modifier for distraction) to
- notice the hacker’s efforts.
+ notice the hacker's efforts.
 
 
 
@@ -38,7 +38,7 @@ puterized devices where they can assist transhuman
 users or operate the machine themselves. They are also
 commonly used to actively monitor computer systems
 against intrusion attempts. Muses are AIs that special-
-ize as personal companions, always at a character’s
+ize as personal companions, always at a character's
 virtual side every since they were a child.
    Sample AIs and muses can be found on p. 331 of Gear.
 
@@ -71,8 +71,8 @@ r the simulation
    a limited form of adaptation. AIs do not earn Rez
    Points, nor do they have Moxie.
      AIs have aptitudes no greater than 20 but are
-   incapable of defaulting. If they don’t possess a skill,
-   they don’t know how to do it. (At the gamemaster’s
+   incapable of defaulting. If they don't possess a skill,
+   they don't know how to do it. (At the gamemaster's
    discretion, they may default to field skills or similar
    skills as noted on p. 173 with a –10 to –30 modifier).
    They can use skills like any character in Eclipse Phase,
@@ -104,8 +104,8 @@ r the simulation
    follow commands that could be construed as danger-
    ous or having a negative impact on the user. Under
    certain circumstances, preprogrammed imperatives
-   can force an AI to ignore or disobey their owner’s
-   commands (gamemaster’s discretion).
+   can force an AI to ignore or disobey their owner's
+   commands (gamemaster's discretion).
 
 
 

@@ -60,13 +60,13 @@ Credit Cost: Expensive (minimum 30,000+)
 REAPER
 The reaper is a common combat bot, used in place of
 biomorph soldiers and typically operated via teleop-
-eration or by autonomous AI. The reaper’s core form
+eration or by autonomous AI. The reaper's core form
 is an armored disc, so that it can turn and present a
 thin profile to an enemy. It uses vector thrust nozzles
 to maneuver in microgravity, and also takes advan-
 tage of an ionic drive for fast movement over distance.
 Four legs/manipulating arms and four weapon pods
-are folded inside its frame. The reaper’s shell is made
+are folded inside its frame. The reaper's shell is made
 of smart materials, allowing these limbs and weapon
 mounts to extrude in any direction desired and even
 to change shape and length. In gravity environments,
@@ -108,7 +108,7 @@ Aptitude Maximum: 30
 Durability: 45
 Wound Threshold: 9
 Advantages: +5 COO, +5 SOM, +5 to one other apti-
-   tude of the player’s choice, Armor 8/8
+   tude of the player's choice, Armor 8/8
 CP Cost: 40
 Credit Cost: Expensive
 

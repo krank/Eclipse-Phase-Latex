@@ -16,22 +16,22 @@ numerous devices, networks, and services simulta-
 neously. There is no penalty for doing this, but the
                                                                 SEARCH CAPABILITIES
 character may only focus on one system at a time. In            Online research in Eclipse Phase is not the same
-other words, you may only interact with one system              as just googling something. Here are ﬁve ways in
+other words, you may only interact with one system              as just googling something. Here are five ways in
 at a time, though you may also switch between them              which it is vastly improved:
 freely, even within the same Action Phase. You could,              Pattern Recognition: Biometrics and other forms
-for example, spend several Quick Actions to send a              of pattern recognition are efﬁcient and intelligent.
+for example, spend several Quick Actions to send a              of pattern recognition are efficient and intelligent.
 message with your ecto, tell your spime oven at home            It is not only possible to run image recognition
-to start cooking dinner, and look up a friend’s updated         searches (in real-time, via all available spimes
+to start cooking dinner, and look up a friend's updated         searches (in real-time, via all available spimes
 profile on a social network. You may not, however,              and sensor feeds), but to search for patterns such
-hack into two separate systems simultaneously.                  as gait, sounds, colors, emotive displays, trafﬁc,
+hack into two separate systems simultaneously.                  as gait, sounds, colors, emotive displays, traffic,
    Note that you may send the same command to                   crowd movement, etc. Kinesics and behavioral
 multiple slaved devices or teleoperated drones with             analysis even allow sensor searches for people
 the same Quick Action, as noted above.                          exhibiting certain behavioral patterns, such as sus-
                                                                 picious loitering, nervousness, or agitation.
-                                                                   Metadata: Information and ﬁles online come
+                                                                   Metadata: Information and files online come
 ONLINE RESEARCH                                                 with hidden data about their creation, alteration,
-                                                                and access. A photo’s metadata, for example,
-The Research skill (p. 184) represents a character’s
+                                                                and access. A photo's metadata, for example,
+The Research skill (p. 184) represents a character's
 ability to track down information in the mesh. Such             will note what gear it was taken on, who took
 information includes any type of digitized data: text,          it, when, and where, as well as who accessed it
 pictures, vids, XP, sensor feeds, raw data, software, etc.      online, though such metadata may be easily
@@ -50,13 +50,13 @@ Research skill is also a way to identify, backtrack, and/       databases of cri
 or gather information on people as long as they have            recorded actions analyzed for unusual behavior.
 not hidden their identity, worked anonymously, or                  Translation: Real-time translation of audio and
 covered their identity with a shroud of disinformation.         video is available from open source translation bots.
-                                                                   Forecasting: A signiﬁcant percentage of what
+                                                                   Forecasting: A significant percentage of what
 SEARCH CHALLENGES                                               people do on any day or in response to certain situ-
 Due to the sheer amount of data available, find-                ations conforms to routines, enabling easy behav-
-ing what you’re looking for may sometimes seem a                ioral prediction. Muses take advantage of this to
+ing what you're looking for may sometimes seem a                ioral prediction. Muses take advantage of this to
 daunting task. Thankfully, information is fairly well           anticipate needs and provide whatever is desired
 organized, thanks to the hard work of “spider” AIs              at the right moment and in the right context. The
 that cruise the mesh and constantly update data and             same logic applies to actions by groups of people,
 search indices. Additionally, information on the mesh           such as economics and social discourse, making pre-
-is tagged with semantics, meaning that it’s presented           dictions markets a big deal in the inner system. ■
+is tagged with semantics, meaning that it's presented           dictions markets a big deal in the inner system. ■
 with code that allows a machine to understand the

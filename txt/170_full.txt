@@ -28,7 +28,7 @@
                                                                              Freerunning     SOM     45        10             55
                                                                                  Gunnery     INT     45                       45
                                                                     Hardware: Armorer        COG     50                       60
-                                                                               Inﬁltration   COO     50          5            55
+                                                                               Infiltration   COO     50          5            55
                                                                     Interests: Literature    COG     50          10           60
                                                               Interests: Military History    COG     55          10           65
                                                                              Intimidation    SAV     35          5            40
@@ -56,10 +56,10 @@ lley ■            tion, Clean Metabolism, Cortical     embracing an ascetic li
                   Respiration, Enhanced Vision,        decry the hedonism and greed of        hypercorps favor ultimates like
                   Hand Laser, Medichines,              the inner system and the collec-       yourself, knowing they are less
                   Neurachem (Level 1), Tem-            tivism and anarchy of the autono-      likely to be tempted or subverted
-                  perature Tolerance, Toxin Filters,   mists, but you’re more than willing    by rivals. In the end it doesn’t
-(Heavy) with      T-Ray Emitter ■                      to take their pay so that they may     matter who pays the credit; you’ll
+                  perature Tolerance, Toxin Filters,   mists, but you're more than willing    by rivals. In the end it doesn't
+(Heavy) with      T-Ray Emitter ■                      to take their pay so that they may     matter who pays the credit; you'll
 g [16/13] ■       Gear: Backup Insurance               kill each other. You follow your       take from them, learn from them,
-ailgun SMG           (1 month), HE Grenades (10),      own path, however, and when            and be here long after they’ve
+ailgun SMG           (1 month), HE Grenades (10),      own path, however, and when            and be here long after they've
 ar ammo, 100         Muse, Particle Beam Bolter,       you cease to learn from an expe-       destroyed themselves with their
 )■                   Tactical Network Software,        rience or increase your own per-       petty intrigues and flawed ideolo-
 0■                   Vibroblade ■                      sonal capabilities you will move       gies. ■

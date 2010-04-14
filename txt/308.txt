@@ -6,18 +6,18 @@ bernetics. This is especially useful for synthmorphs/
 robots, which cannot be enhanced with bioware.
 The following bioware items may be replicated as
 cybernetics for synthmorphs and robots:
-  • Chameleon Skin
-  • Drug Glands
-  • Eelware
-  • Emotional Dampers
-  • Enhanced Senses (All)
-  • Grip Pads
-  • Mental Augmentations (All)
-  • Muscle Augmentation
-  • Neurachem
-  • Poison Glands
-  • Prehensile Feet
-  • Prehensile Tail                                ■
+  - Chameleon Skin
+  - Drug Glands
+  - Eelware
+  - Emotional Dampers
+  - Enhanced Senses (All)
+  - Grip Pads
+  - Mental Augmentations (All)
+  - Muscle Augmentation
+  - Neurachem
+  - Poison Glands
+  - Prehensile Feet
+  - Prehensile Tail                                ■
 
 
 
@@ -35,9 +35,9 @@ cybernetics for synthmorphs and robots:
  character must also possess some form of bioware
  armor or carapace armor. The morph has been spe-
  cially designed to survive the effects of vacuum. The
- character’s skin resists vacuum as well as protecting
+ character's skin resists vacuum as well as protecting
  the wearer from temperatures from –75 to 100 C.
- In addition, the character’s mouth, nose, and other
+ In addition, the character's mouth, nose, and other
  orifices can seal sufficiently well to resist vacuum,
  and the morph possesses a special membrane that
  extends over their eyes, allowing the character to
@@ -51,8 +51,8 @@ cybernetics for synthmorphs and robots:
  CYBERWARE
 Very little cyberware is physically implanted. Instead,
 the morph is placed in a healing vat (p. 326) and the
-vat’s nanobots construct the cyberware inside the bio-
-morph’s body. Cyberware is rarely used for anything
+vat's nanobots construct the cyberware inside the bio-
+morph's body. Cyberware is rarely used for anything
 that can be accomplished using bioware.
   Synthmorphs and bots may also also use cyberware.
 ENHANCED SENSES
@@ -73,7 +73,7 @@ ence and approximate source of all forms of danger-
 ous radiation, including neutrons, charged particles,
 and cosmic rays. [Low]
    T-Ray Emitter: Mounted under the skin of the
-user’s forehead, this implant generates low-powered
+user's forehead, this implant generates low-powered
 beams of terahertz radiation (T-rays) that allow the
 character to see using reflected T-rays. As discussed in
 Using Enhanced Senses, p. 302, this implant combined
@@ -110,8 +110,8 @@ has an implanted quantum farcaster (p. 314) linked
 to a highly secure storage facility. The high cost of
 this implant also covers the cost of this storage. Using
 standard radio and quantum encryption, the farcaster
-broadcasts full backups of the character’s ego (pulled
+broadcasts full backups of the character's ego (pulled
 from the cortical stack) once every 48 hours. At the
-gamemaster’s discretion, the backup interval may be
+gamemaster's discretion, the backup interval may be
 scheduled more or less frequently, keeping in mind
 that ego broadcasts are generally limited for security

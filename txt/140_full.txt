@@ -10,8 +10,8 @@ your character is pursuing. These may be as specific      Philanthropy
  should work with your gamemaster when choosing           (AI/Infomorph/Pod/Uplift) Rights
 your motivations, as they can be used to propel the       (AI/Infomorph/Pod/Uplift) Slavery
  storyline forward and specific scenarios can be con-     Socialism
- structed around your character’s goals. Some of your     Techno-Progressivism
- character’s motivations may change later (see Chang-     Vengeance
+ structed around your character's goals. Some of your     Techno-Progressivism
+ character's motivations may change later (see Chang-     Vengeance
  ing Motivation, p. 152). Motivations will help your      Venusian Sovereignty
  character regain Moxie (p. 122) and earn extra Rez       Wealth
  Points during gameplay (p. 384).
@@ -24,17 +24,17 @@ your motivations, as they can be used to propel the       (AI/Infomorph/Pod/Upli
  opposes the goal of reclaiming Earth.                    A few stats now need to be calculated and added to
                                                           your character sheet:
 EXAMPLE MOTIVATIONS
-Alien Contact                                              • Lucidity (p. 122) equals your character’s WIL x 2.
-Anarchism                                                  • Trauma Threshold (p. 122) equals your LUC
+Alien Contact                                              - Lucidity (p. 122) equals your character's WIL x 2.
+Anarchism                                                  - Trauma Threshold (p. 122) equals your LUC
 Artistic Expression                                          divided by 5 (round up).
-Bioconservatism                                            • Insanity Rating (p. 122) equals LUC x 2.
-Education                                                  • Initiative (p. 121) equals your character’s (REF +
+Bioconservatism                                            - Insanity Rating (p. 122) equals LUC x 2.
+Education                                                  - Initiative (p. 121) equals your character's (REF +
 Exploration                                                  INT) x 2.
-Fame                                                       • Damage Bonus (p. 123) for melee equals SOM ÷
+Fame                                                       - Damage Bonus (p. 123) for melee equals SOM ÷
 Fascism                                                      10 (round down).
-Hedonism                                                   • Death Rating (p. 122) equals DUR x
+Hedonism                                                   - Death Rating (p. 122) equals DUR x
 Hypercapitalism                                              1.5 (biomorphs, round up) or DUR x 2
 Immortality                                                  (synthmorphs)
-Libertarianism                                             • Speed (p. 121) equals 1 (3 for infomorphs), modi-
+Libertarianism                                             - Speed (p. 121) equals 1 (3 for infomorphs), modi-
 Martian Liberation                                           fied as appropriate by implants.
 Morphological Freedom

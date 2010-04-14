@@ -1,6 +1,6 @@
 TRACE
 For high-security systems, a popular countermeasure
-is to track the infiltrator’s physical location via their
+is to track the infiltrator's physical location via their
 mesh ID (see Physical Tracking, p. 251). In most cases,
 habitat physical security is subsequently alerted and
 forwarded the position to take care of the criminal.
@@ -29,13 +29,13 @@ Re-starting wireless connectivity takes 1 Action Turn.
   system, operators must decide whether to act
   individually or in concert.
      Each approach has its tradeoffs. A team that
-  chooses to breach or maintain a system’s security
+  chooses to breach or maintain a system's security
   as a team effort must allocate one character (usu-
   ally the team member with the highest Infosec
   skill) as the primary actor (see Teamwork, p. 117).
   Each additional character and muse adds a +10
-  modiﬁer for each test (up to the maximum +60
-  modiﬁer) but cannot spend time on other actions
+  modifier for each test (up to the maximum +60
+  modifier) but cannot spend time on other actions
   than those performed by the team leader. When
   acting in concert, teams may switch team leaders
   at any time, in case group members are special-

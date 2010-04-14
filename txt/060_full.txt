@@ -5,7 +5,7 @@ to physical actions. Some willingly pursue campaigns      seed AIs that the colo
 of sabotage and subversion against hypercorp and          eral colonies populated by purely informorph or
 other authoritarian affairs, such as smuggling cornu-     synthmorph inhabitants use special high-bandwidth
 copia machines into habitats where such machines          connections to give their members access each
-are strictly regulated, like among the Jovian Republic.   other’s surface thoughts and emotional reactions,
+are strictly regulated, like among the Jovian Republic.   other's surface thoughts and emotional reactions,
 The hypercorps and their allies occasionally strike       allowing them to hold vast democratic political
 back, though open conflict is rare. Even though the       meetings where everyone present can feel the gen-
 inner system and Jovian Republic could field enough       eral emotional reactions of all of the other members
@@ -20,7 +20,7 @@ system, but most people resist attempts to seriously
 restrict their personal freedoms in any manner not di-
 rectly related to maintaining their safety. Inhabitants   KEEPING THE PEACE
 of the outer system still remember how the old gov-       Each habitat is responsible for dealing with its in-
-ernments’ demands of adherence to bioconservativism       ternal affairs. As a result, standards of justice vary
+ernments' demands of adherence to bioconservativism       ternal affairs. As a result, standards of justice vary
 and allegiance to distant and often unresponsive lead-    widely from the oppressive police state of the Jovian
 ers did nothing to prevent the Fall from happening,       Junta to the free market judicial courts of the Extro-
 and that memory fuels their mistrust of those states.     pians in the belt to the community justice policies
@@ -55,5 +55,5 @@ by a single charismatic leader who transforms their       gations, law enforceme
 habitat into a cult of personality.                       have total access to detailed recordings of the events
    Other habitats choose their leaders by random          in any portion of the habitat including recordings
 lot, with every adult who can pass a relatively easy      from sensors in private dwellings. In some stations,
-competency test being eligible to be the colony’s         law enforcement officials can compel everyone who
+competency test being eligible to be the colony's         law enforcement officials can compel everyone who
 leader for a period that usually ranges from six          might have been present during an alleged crime to

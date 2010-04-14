@@ -9,7 +9,7 @@ flown to nearby special facilities for forced uploading.   almost any nanoswarm 
  COG    COO     INT   REF    SAV    SOM    WIL    MOX      fabricate new materials, much like fractals (p. 382).
   10     20      15    20     5      10    15      —       Combined, these capabilities make such nanoswarms
  INIT   SPD    LUC     TT     IR    DUR    WT     DR       incredibly potent. When they encounter a new op-
-  70     1      —      —      —      30     6     —        ponent, they can scan the opponent’s capabilities and
+  70     1      —      —      —      30     6     —        ponent, they can scan the opponent's capabilities and
 Mobility System: Winged (8/32)                             then fabricate offensive systems to use against them.
 Skills: Flight 70, Fray 60, Exotic Melee Weapon: Buzz-     When an opponent deploys a weapon system again the
   saws 55, Infiltration 60, Investigation 40, Perception   swarm, it will learn and adapt countermeasures that
@@ -33,24 +33,24 @@ Skills: Beam Weapons 55, Flight 80, Fray 60, Infiltra-     to survive in order t
 Notes: Armor 14/14, Anti-Glare, Chameleon Skin,            for Nanoswarms and Microswarms, p. 328, with the
   Enhanced Vision, Lidar, Radar, Shape-Adjusting           following additions and exceptions:
 Typical Weapons: 2 Particle Beam Rifles, 2 Railgun
-  Machine Guns, 2 Seeker Rifles                              • They do not need to be sustained by a hive and
+  Machine Guns, 2 Seeker Rifles                              - They do not need to be sustained by a hive and
                                                                do not deteriorate.
-WARBOTS                                                      • They self-repair damage at the rate of 1d10 per
+WARBOTS                                                      - They self-repair damage at the rate of 1d10 per
 Warbots are massive, armored, vaguely anthropo-                half hour.
-morphic mecha, used for heavy combat operations.             • They may nanofabricate new items, materials,
+morphic mecha, used for heavy combat operations.             - They may nanofabricate new items, materials,
 Bipedal, these warbots are equipped with four arms             or forms in half the standard timeframe (half an
 and a pair of grasping mechanical tentacles, along             hour per Cost category).
-with numerous weapon systems.                                • They may replicate any of the nanoswarm func-
+with numerous weapon systems.                                - They may replicate any of the nanoswarm func-
  COG    COO     INT   REF    SAV    SOM    WIL    MOX          tions as noted on p. 328, as well as the functions
   15     20      15    20     5      25    15      —           of any other nanoswarm-using gear (smart dust,
  INIT   SPD    LUC     TT     IR    DUR    WT     DR           covert ops tool, repair spray, etc.).
-  60     2      —      —      —      80    16     —          • They may make SOM Tests.
-Mobility System: Walker (4/20)                               • At the gamemaster’s discretion, they may adapt
+  60     2      —      —      —      80    16     —          - They may make SOM Tests.
+Mobility System: Walker (4/20)                               - At the gamemaster's discretion, they may adapt
 Skills: Beam Weapons 60, Exotic Melee Weapon: Ten-             new defenses against attacks used against them.
   tacles 40, Fray 50, Infiltration 30, Kinetic Weapons         New defenses take a minimum of 2 hours to devise
   70, Perception 50, Seeker Weapons 50, Spray Weap-            and replicate throughout the swarm, after which
   ons 50, Unarmed Combat 50                                    such an attack will inflict minimal or no damage.
-Notes: Armor 20/20, 360-Degree Vision, Anti-Glare,           • Assume they have any skill they need at a mini-
+Notes: Armor 20/20, 360-Degree Vision, Anti-Glare,           - Assume they have any skill they need at a mini-
   Chameleon Skin, Chem Sniffer, Cyber Claws (2d10              mum of 40. Such skills may rapidly improve
   + 6 DV), Electrical Sense, Enhanced Vision, Extra            as needed.
   Limbs (6), Lidar, Magnetic System, Pneumatic              COG     COO    INT    REF    SAV    SOM    WIL    MOX

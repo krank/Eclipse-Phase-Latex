@@ -19,7 +19,7 @@ body fat distribution.
 Major brain and neural implants, nanoware or bioware, sex changes, changing height by
                                                                                                              12 hours
 no more than 5% or weight by no more than 20%.
-Major physical modiﬁcations like adding limbs or radical changes to height and weight.                       3 days
+Major physical modifications like adding limbs or radical changes to height and weight.                       3 days
 
 
 
@@ -30,7 +30,7 @@ Major physical modiﬁcations like adding limbs or radical changes to height and
  a healing vat. Most are used as a safe and easy way                        tools, etc.). Other blueprints must either be purchased
  to perform bodysculpting or to install implants or                         online, self-programmed, or acquired through some
  bioware. Healing vats use specialized nanomachines                         other method (see Nanofabrication, p. 284). The larg-
- to either alter the patient’s body or integrate implants                   est nanofabrication units are more than 10 meters on
+ to either alter the patient's body or integrate implants                   est nanofabrication units are more than 10 meters on
  or bioware. One advantage of using a healing vat is                        a side and are used to produce small consumer goods
  that no additional healing time is needed, the patient                     in bulk as well as building large devices like orbital
  leaves the vat fully recovered from the augmentation                       transfer vehicles.
@@ -51,7 +51,7 @@ Major physical modiﬁcations like adding limbs or radical changes to height and
  hive is present, +0 if a nanoswarm or hive was active                      cessible, shared by everyone, and unrestricted.
  recently, and –10 for the presence of nanobots outside                        For rules on creating goods in a nanofabricator, see
  of a swarm or hive. Once a nanobot is detected it may                      Nanofabrication, p. 284.
- be analyzed either by the user or the nanodetector’s AI,                      Desktop Cornucopia Machine: Cornucopia ma-
+ be analyzed either by the user or the nanodetector's AI,                      Desktop Cornucopia Machine: Cornucopia ma-
  using Academics: Nanotechnology 30 skill. Nanode-                          chines (CMs) are general-purpose nanofabricators.
  tectors are often worn and left on, set to alert the user                  The smallest CMs are desk-sized cubes approximately
  if a hostile nanoswarm is detected. [Low]                                  half a meter on a side with a volume of at least 40

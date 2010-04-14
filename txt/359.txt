@@ -5,12 +5,12 @@
   background searches, fork interrogation, psycho-
   surgery trials, and tests of loyalty. Psychosurgery is
   performed not to program loyalty, but to analyze the
-  recruit’s responses to various situations—an extreme
+  recruit's responses to various situations—an extreme
   parameters test to see when a prospective sentinel
   will break. Many potential members are carefully
   analyzed by a Promethean with extreme expertise in
   character judgment and personality profiling. Those
-  who don’t pass such tests are killed in a manner that
+  who don't pass such tests are killed in a manner that
   they must resort to an earlier backup or have their
   memories altered, so that they have no recollection of
   their brush with the group.
@@ -29,12 +29,12 @@
   Sentinels are even discouraged from sharing such in-
   formation with members of their own teams, though
   this line is often crossed. Additionally, each sentinel is
-  required to upload a backup to Firewall’s secure serv-
+  required to upload a backup to Firewall's secure serv-
   ers. This backup serves a dual purpose, enabling all
   sentinels to be retrieved should they die, but also put-
-  ting a copy of the sentinel in Firewall’s hands should
+  ting a copy of the sentinel in Firewall's hands should
   they ever need to interrogate them.
-     Sentinels are all connected via the Eye, Firewall’s
+     Sentinels are all connected via the Eye, Firewall's
   peer-to-peer social network. Though each operates
   behind their assumed identity, they remain in contact,
   sharing information and resources as needed.
@@ -48,12 +48,12 @@ ing: Firewall skill and tracked exactly like any other
 Reputation score (p. 285). The important thing to
 keep in mind, however, is that Firewall agents come
 from all factions and are obligated to help each other,
-especially when a situation demands it. To reﬂect this
+especially when a situation demands it. To reflect this
 extra advantage, gamemasters can choose to imple-
 ment one or more of the following optional rules:
-• Networking Plus: To reﬂect that Firewall has
+- Networking Plus: To reflect that Firewall has
   agents throughout transhumanity, a character
-  may use any Networking skill ﬁeld with their i-
+  may use any Networking skill field with their i-
   Rep. Favors bought with reputation still apply
   to the i-rep score, no matter what network they
   were acquired from.
@@ -62,7 +62,7 @@ ment one or more of the following optional rules:
    cadre that keeps the machinery of their organiza-
    tion functioning. Though fewer in number than the
    sentinels, many proxies work full time on Firewall
-   operations, serving as the group’s essential infrastruc-
+   operations, serving as the group's essential infrastruc-
    ture. Most proxies are recruited from the ranks of the
    sentinels, brought in based on their skill sets and apti-
    tudes to fill key roles. In a few rare cases, new proxies
@@ -104,14 +104,14 @@ ment one or more of the following optional rules:
 Priority Call: When the chips are really down, a
  entinel can call on favors as a priority urgency.
  his “priority code” is reserved for favors that
-are critical to a mission’s success and which may
+are critical to a mission's success and which may
 help save lives or stop a major threat. When the
 priority code is invoked, the sentinel receives a
- 30 modiﬁer to their Networking Test and favors
+ 30 modifier to their Networking Test and favors
 are reduced by 2 levels. Sentinels know that pri-
 ority codes are only to be used for emergency
  ituations, however, when there are no other
 options. Abuse of priority codes is considered
 a serious breach of etiquette and abuse of re-
- ources, usually involving the agent’s removal
+ ources, usually involving the agent's removal
  rom Firewall.                                 ■

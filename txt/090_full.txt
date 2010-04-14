@@ -7,9 +7,9 @@ Operated by a consortium including hypercorp                world terraforming a
 interests and the University of New Shanghai, Aten          raGenesis regularly sells gate access to other hypercorps
 supports a population of about 12,000 transhumans.          and organizations. Caldwell is a remarkably smooth,
 Rumors abound that military research is a major com-        spindle-shaped asteroid about four kilometers long and
-ponent of this habitat’s mission. Aten is heavily policed   half a kilometer in diameter at its widest point. Called
+ponent of this habitat's mission. Aten is heavily policed   half a kilometer in diameter at its widest point. Called
 and difficult to visit. The most publicized discoveries     the Vulcanoid Gate, it is situated at the bottom of a
-from this habitat involve propulsion systems and new        deep crag near one of the asteroid’s narrow poles.
+from this habitat involve propulsion systems and new        deep crag near one of the asteroid's narrow poles.
 solar energy collection technologies.
                                                             MERCURY
 HOOVERMAN-GEISCHECKER                                       The closest planet to the sun has a mass comparable
@@ -22,11 +22,11 @@ adapted morphs.                                             to be self-sufficien
                                                             save for a handful of solar power relays, a few un-
 UKKO JYLINÄ                                                 derground mining stations, and a single large surface
 Ukko Jylinä is the name used by outsiders for the           mining concern, Cannon.
-suryas’ safe harbor. In the surya tongue, the name
+suryas' safe harbor. In the surya tongue, the name
 for the place is a common sequence of helioseismic          RESOURCES AND ECONOMICS
-vibrations. When transposed fifteen octaves upward          Most of Mercury’s economy is based on mining.
+vibrations. When transposed fifteen octaves upward          Most of Mercury's economy is based on mining.
 into the usual range of transhuman hearing, this            Iron, nickel, and other metals make up 70% of the
-sound is a chaotic rumble to most ears, but the suryas      planet’s mass, making it the richest source of ferrous
+sound is a chaotic rumble to most ears, but the suryas      planet's mass, making it the richest source of ferrous
 consider it one of the most beautiful sounds the sun        metals outside of the asteroids. Mercury also does a
 makes.                                                      brisk business in relaying solar power and serves as a
    Ukko Jylinä is more of a camp than a hab, an area        jumping-off point for solar research concerns unwill-
@@ -45,7 +45,7 @@ solar wind, suryas within the camp generally wear           The only known site 
 gas-expelling maneuvering harnesses or resleeve in          during the Fall, Caloris 18 was a sparsely-crewed solar
 salamanders if they need to do work requiring fine          power relay station belonging to Lukos, a now-defunct
 manipulation.                                               Russian corporation. Vanya Ilyanovich, the AGI ad-
-                                                            ministering the facility, rounded up all of the station’s
+                                                            ministering the facility, rounded up all of the station's
 VULCANOIDS                                                  transhuman inhabitants and fused their morphs into a
 The Vulcanoids are a population of asteroids that lie       gigantic, centipede-like abomination before destroying
 between Mercury and the Sun. Based on the predic-           itself in a failed attempt to merge consciousnesses with
@@ -53,8 +53,8 @@ tions of early 21st-century science, the number of          all of the minds in 
 Vulcanoids is unexpectedly small.                           has been under strict quarantine.
 
 V/2011-CALDWELL                                             CANNON
-Discovered in the early 21st century and subject to a       Mercury’s largest surface settlement is a city-scaled
+Discovered in the early 21st century and subject to a       Mercury's largest surface settlement is a city-scaled
 flyby by a Japanese solar research mission in the 2020s,    solar-satellite-powered mobile mass driver that crawls
 V/2011-Caldwell was nothing but a line on astrono-          along the cool side of the planet, flinging apartment
-mers’ catalogs, notable only for the virtual lack of cra-   building sized ingots of extracted metal into space.
+mers' catalogs, notable only for the virtual lack of cra-   building sized ingots of extracted metal into space.
 tering on the one side that was photographed. Then, a       The habitat is owned almost entirely by the hypercorp

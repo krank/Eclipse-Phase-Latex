@@ -20,12 +20,12 @@ the other side effects of Watts-Macleod infection (p.
 benefits to the character, the gamemaster should make
 sure to play up the creepy and unsettling nature of
 this virus. The character should never be certain that
-they haven’t in fact been subtly influenced by the virus
-in ways they can’t immediately pinpoint—they should
+they haven't in fact been subtly influenced by the virus
+in ways they can't immediately pinpoint—they should
 always feel like the ax may fall at any moment.
 
 XENOMORPH VIRUS
-The xenomorph strain transforms the target’s body
+The xenomorph strain transforms the target's body
 in addition to their mind. Over time, the victims
 morph physically transmogrifies into some sort
 of alien life form. It is only spread as a biological
@@ -115,6 +115,6 @@ by the Exsurgent virus is that exsurgents are follow-
 ing an alien agenda. The specific goals and actions of
 each exsurgent may differ, but they are generally con-
 cerned with two things: spreading the Exsurgent virus
-and destroying anything that isn’t affected. In some
+and destroying anything that isn't affected. In some
 cases, this may mean immediate and enraged hostile
 action against anything non-exsurgent around them.

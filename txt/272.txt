@@ -18,7 +18,7 @@ Backup insurance is not always perfect. Though in-
 surance providers are required to make a reasonable
 effort to retrieve your cortical stack, for many hyper-
 corps this is a simple cost-benefit analysis that often
-will not work in the character’s favor. If you died in a
+will not work in the character's favor. If you died in a
 dangerous area such as the Zone on Mars, in a remote
 area such as the Kuiper Belt, or are simply difficult
 to track down (pushed out an airlock somewhere),
@@ -35,7 +35,7 @@ Likewise, if you struck a backup insurance deal with
 a medical collective from an autonomist habitat and
 then go and die on a hypercorp station, the hypercorp
 is very likely to refuse to recognize the authority of a
-bunch of anarchists and won’t hand your stack over.
+bunch of anarchists and won't hand your stack over.
    Even an archived backup and a missing person
 clause is no guarantee. A determined enemy could
 capture you, pry the backup insurance access codes
@@ -48,8 +48,8 @@ ing with an immortal opponent who keeps coming
 back no matter how often you kill them.
   Other dangers also exist. An entire habitat may be
 destroyed, taking you, your backups, and your insur-
-ance provider’s records with it. A resourceful enemy
-might penetrate a provider’s security and delete your
+ance provider's records with it. A resourceful enemy
+might penetrate a provider's security and delete your
 backups, or simply bribe the right people to make
 sure they get “accidentally” corrupted. Given these
 possibilities, the paranoid often make sure to get

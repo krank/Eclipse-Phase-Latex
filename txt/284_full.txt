@@ -1,17 +1,17 @@
-   The inside of an O’Neill cylinder has six alternating     surface of the torus. Toroidal habitats equipped for
+   The inside of an O'Neill cylinder has six alternating     surface of the torus. Toroidal habitats equipped for
 strips of ground and window running from one cap             farming normally face the sun in a direction perpen-
 of the cylinder to the other. One narrow end of an           dicular to their rotational axis, but then use a slow pro-
-O’Neill cylinder points toward the sun. The opposite         cessional wobble of that axis to create a day/night cycle.
+O'Neill cylinder points toward the sun. The opposite         cessional wobble of that axis to create a day/night cycle.
 end is the mooring point for three immense reflectors          Toruses were usually built to accommodate small
 angled to reflect sunlight into the windows. Smart           crews of 500 or fewer people, though some larger
 materials coating the windows and reflectors prevent         ones exist, able to house 50,000. A few rare double-
 fluctuations in solar activity from delivering too much      toruses also exist, like two large wheels spinning in
 heat. The air inside the cylinder and its metal super-       opposite directions, joined at the axis.
 structure provide radiation shielding.
-   The land in most O’Neill cylinders is one-third           IMMIGRATION AND CUSTOMS
+   The land in most O'Neill cylinders is one-third           IMMIGRATION AND CUSTOMS
 agricultural (a combination of food vats and high-           How characters gain entry to a habitat and what type
-yield photosynthetic crops), one-third park land, and        of screening they’re likely to undergo depends upon
-one-third mixed use residential and business. O’Neill        how they arrive. Some habitats are close to other
+yield photosynthetic crops), one-third park land, and        of screening they're likely to undergo depends upon
+one-third mixed use residential and business. O'Neill        how they arrive. Some habitats are close to other
 habitats have a day and night cycle regulated by the         settlements, while others are physically isolated by the
 position of the external mirrors. The business and           vast, empty distances of interplanetary space.
 residential sections of the cylinder usually alternate          Habitats in dense planetary systems receive most of
@@ -20,8 +20,8 @@ cropland usually takes up the third. Bridges cross           tion and customs in
 the windows every kilometer or so, linking the land          ceiving visitors via their spaceport, and the processing
 strips. The interior climate, the architectural style of     of arrivals is in most ways analogous to a twentieth
 the structures, and the types of vegetation and fauna        century airport. Isolated habitats, on the other hand,
-present vary with the tastes of the habitats’ designers.     tend to receive almost all of their visitors via egocast.
-   Depending upon size, O’Neill cylinders can house
+present vary with the tastes of the habitats' designers.     tend to receive almost all of their visitors via egocast.
+   Depending upon size, O'Neill cylinders can house
 from 25,000 to 2 million people.                             PHYSICAL ARRIVALS
                                                              Arrivals by spacecraft undergo, at minimum, an ego
 TIN CANS                                                     ID check, scans to detect pathogens, hostile nanobots,
@@ -42,15 +42,15 @@ mooring for shuttles and perhaps prospecting craft.          as long as its noth
 TORUSES                                                      stations, disallow lethal weapons of all kinds, except
 Interchangeably called toruses, toroids, donuts, and         for people who have acquired special permits and au-
 wheels, these circular space habitats were a cheap           thorization (sometimes available by bribing the right
-alternative to the O’Neill cylinder used for smaller         people or pulling favors with rep). Nonlethal weapons
-installations. Like O’Neill cylinders, toruses are seldom    are generally allowed. Other restricted items may
+alternative to the O'Neill cylinder used for smaller         people or pulling favors with rep). Nonlethal weapons
+installations. Like O'Neill cylinders, toruses are seldom    are generally allowed. Other restricted items may
 constructed anymore, but many are still encountered in       include nanofabricators, nanoswarms, malware and
 the inner system, particularly in Earth and Lunar orbit.     hacker software, drugs and narcoalgorithms, certain
   A toroidal habitat looks like a donut 1 kilometer in       types of XP recordings, covert operations tools, and
 diameter, rotating on great spokes. There is a zero-g        so on. Certain types of morphs may also be restricted,
-spaceport at the wheel’s hub. Visitors take a lift down      such as reapers, furies, or uplifts.
+spaceport at the wheel's hub. Visitors take a lift down      such as reapers, furies, or uplifts.
 one of the spokes to the level of the donut, where              Certain habitats may insist that visitors—or at
-rotation creates one Earth gravity.                          least the ones they don’t like the looks of—submit to
+rotation creates one Earth gravity.                          least the ones they don't like the looks of—submit to
   The plan of toroidal habitats varies greatly, as many      specific forms of monitoring or surveillance for the
 were designed for specific scientific or military purposes   duration of their stay. This might include taggant
 and only later taken over as habitats by entrepreneurs       nanoswarms, hosting a police AI in your mesh inserts,

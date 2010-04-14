@@ -1,16 +1,16 @@
 DIGITAL ACTIVITY TRACKING                                    The exact settings are adjustable, but typically involve
-Tracking someone’s online activities (meshbrowsing,          masking their social profiles and presence to other
+Tracking someone's online activities (meshbrowsing,          masking their social profiles and presence to other
 entoptic interactions, use of services, messaging, etc.)     users in the immediate vicinity, like having an unlisted
 is slightly more difficult, depending on what exactly        phone number. Privacy mode can also be used to limit
-you’re after. Gathering information on a user’s public       the use of mesh IDs and other data in access and
+you're after. Gathering information on a user's public       the use of mesh IDs and other data in access and
 mesh activities—social network profiles, public              transaction logs, applying a –30 modifier to attempts
 forums posts, public lifelogging, etc.—is handled just       to research or track them by their online activity.
 like standard online research (p. 249).
                                                              STEALTHED SIGNALS
 TRACKING BY MESH ID                                          Another tactic that can be taken for privacy is to
 A more investigate search can attempt to use the             stealth the wireless radio signals you emit. This
-target’s mesh ID (p. 246), using it as a sort of digital     method uses a combination of spread-spectrum signals,
-fingerprint to look up where else they’ve been online.       frequency hopping, and modulation to make your
+target's mesh ID (p. 246), using it as a sort of digital     method uses a combination of spread-spectrum signals,
+fingerprint to look up where else they've been online.       frequency hopping, and modulation to make your
 This primarily involves checking access/transaction          radio transmissions harder to detect with scanning (p.
 logs, which are not always publicly accessible. This         251). Stealthing your signals is either a passive activity
 sort of search requires a Research Test, handled as a        (Automatic Action, –30 modifier on Interface Tests to
@@ -31,18 +31,18 @@ you capture data traffic from any targeted devices in        mous is to set your
 range. Note that sniffing does not work on encrypted         online transactions. Though illegal in many jurisdic-
 traffic (including VPNs and anything else using public       tions, this is an easy task for any character or muse to
 key cryptography) as the results are gibberish. Quan-        do. Multiple false IDs are used, making it extremely dif-
-tum encrypted communications cannot be sniffed.              ficult for anyone to tie all of the user’s activities together.
+tum encrypted communications cannot be sniffed.              ficult for anyone to tie all of the user's activities together.
    Once you have the data, finding the information              This method makes it extremely difficult for anyone
-you’re looking for can be a challenge. Handle this as        to track the user’s online actions. Someone attempting
+you're looking for can be a challenge. Handle this as        to track the user's online actions. Someone attempting
 a standard Research Test (p. 245).                           to track the character via these false mesh IDs must
                                                              beat them in an Opposed Test, pitting their Research
-REMOTE SNIFFING VIA MESH ID                                  skill with a –30 modifier against the character’s (or
-Finally, a mesh ID may also be actively monitored            more likely, their muse’s) Infosec skill. This is a Task
+REMOTE SNIFFING VIA MESH ID                                  skill with a –30 modifier against the character's (or
+Finally, a mesh ID may also be actively monitored            more likely, their muse's) Infosec skill. This is a Task
 to see what mesh activity it engages in. This requires       Action with a base timeframe of 1 hour, adjusted
 special sniffer software (p. 331) and a Research Test.       higher according to the amount of activity they hope
 If successful, the monitoring will provide information       to track. If successful, the tracker manages to dig
-on that user’s public mesh activities (how much is           together enough correlating evidence and records of
-determined by the gamemaster and the MoS), such              false IDs to get a picture of the character’s activities
+on that user's public mesh activities (how much is           together enough correlating evidence and records of
+determined by the gamemaster and the MoS), such              false IDs to get a picture of the character's activities
 as which sites they access, who they message, etc. It        (how thorough this picture is depends on their MoS).
 will not, however, uncover anything that is encrypted        If the fail, the anonymous character has effectively
 (unless the encryption is broken) or anything that           camouflaged themselves in the mesh.

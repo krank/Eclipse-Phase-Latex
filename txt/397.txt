@@ -17,25 +17,25 @@ Action, 189-90                                  Atavism, 212
      types, 119-20                              Atlas (Volkograad), 103
 Action turns, 119, 127                          Atmospheric contamination, 200            Ca
      declare, resolve actions, 188              Attack declaration, 191                   Ca
-     ﬁrst phase, 188                            Attention deﬁcit hyperactivity disorder   Ca
+     first phase, 188                            Attention deficit hyperactivity disorder   Ca
      roll initiative, 188                       (ADHD), 212                               Ca
      rotate and repeat, 188                     Augmented reality illusions, 259-60       Ca
 Active alert, 257                               Authentication, 253                       Ca
 Active monitoring, 253                              circumvention, 254-55                 Ca
 Active psi, 221                                     forging, 255                          Ca
-Active skill, 172                                   spooﬁng, 255                          Ca
+Active skill, 172                                   spoofing, 255                          Ca
 Adaptability, 145                               Authophagy, 212                           Ce
 Addiction, 148, 212, 317-18                     Automatic actions, 119, 190               Ch
-Admin accounts, 247                             Automatic riﬂes, 335
+Admin accounts, 247                             Automatic rifles, 335
 Adrenal boost, 301-2                            Automech, 345
 Aerogel, 298                                    Autonomist Alliance, 57, 76-79
 Aged, 148                                       Avatars, 239                              Ch
-AGI (artiﬁcial general intelligence), 81, 236   Avoidance, minor, 210
+AGI (artificial general intelligence), 81, 236   Avoidance, minor, 210
      attitudes toward, 48
      infolife and, 244                          B
      infomorphs and, 264-65                     Babylon, 111
      non-standard AI and, 245                   Backdoor, 260
-AI (artiﬁcial intelligence), 236                Background, 120, 131-32
+AI (artificial intelligence), 236                Background, 120, 131-32
      commanding, 264                            Backup, 330, 359
      infolife and, 244                              complications, 270-71
      limitations, 264                               cortical stack, 268
@@ -52,7 +52,7 @@ Aircraft, 342-43                                Battle suit, 344
                                                                                           I
 AIs, 331-32                                     Beam weapons, 194, 203, 338-39
 Alienation, 225-26                                  skill, 177
-     modiﬁers, 272                              Bedlam, 332                               Ch
+     modifiers, 272                              Bedlam, 332                               Ch
      test, 272                                  Behavioral control, 231
 Aliens, 40                                      Behavioral masking, 231
      mindset, 376                               Beta forks, 273-74
@@ -103,7 +103,7 @@ Argonauts, 79, 132                              Brainwave scans, 279
 Armor, 194, 310, 312                            Brave, 145                                Co
      bypassing, 197                             Breadcrumb positioning system, 332        Co
      clothing, 312                              BringIt, 319                              Co
-     modiﬁcation, 192, 313                      Brinkers, 80, 133                         Co
+     modification, 192, 313                      Brinkers, 80, 133                         Co
      penetration, 194                           Brute-force hacking, 256                  Co
      -piercing, 336                             Brute strength, 175                       Co
      repair, 209                                BTX2, 323                                 Co
@@ -112,7 +112,7 @@ Armor, 194, 310, 312                            Brave, 145                      
 ers, 291                  Complex actions, 120, 190            Diffusion sle
 kill, 179                 Composure, 175                       Digital activi
 er, 347                   Computer capabilities, 247           Digital ID
-(BF), 198                 Concentrated ﬁre, 194                     code, 28
+(BF), 198                 Concentrated fire, 194                     code, 28
                           Concussion, 340                           tamperin
 40                        Cone weapons, 193                    Digital virus,
                           Confusion, moderate, 211             Dione (Thoro
@@ -135,7 +135,7 @@ thrown objects, 175       Courier, 347                         DMSO, 323
 r, 332                    Covert intruder, 256                 Domain rule
                           Covert operations tool (COT), 315    Downtime, 2
  n                        Covert technologies, 315-17          Dr. Bot, 345
- 315                      Cowboys, 359                         Dragonﬂy, 14
+ 315                      Cowboys, 359                         Dragonfly, 14
 ng, 313                   CR Gas, 324                          Drifter, 131
 303                       Cranial computer, 300                Drive, 226, 3
                           Crashing, 196                        Drug glands,
@@ -203,7 +203,7 @@ bles, 281                 Degeneration, 324                    Emotional da
                           Delphinium Six, 322                  EMP, 340
  ications, 193-206        Delta forks, 273                     Empathic sca
 , 319, 320                Demolitions, 197                     Enceladus (P
-ﬁers, 193                     skill, 178                       Encryption, 2
+fiers, 193                     skill, 178                       Encryption, 2
  sis, 149                 Densiplast gloves, 334               Encumbranc
  ing, 191-92              Depression, 213                      Enemy, 149
  ship, 284                Derangements, 210-11                 Energy armo

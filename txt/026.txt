@@ -3,10 +3,10 @@ While Eclipse Phase is set in the not-too-distant
 future, the changes that have taken place due to the
 advancements of technology have transformed the
 Earth and its inhabitants almost beyond recognition.
-As players dive into the universe, they’ll generally
+As players dive into the universe, they'll generally
 encounter one of the following settings.
 
-HUMANITY’S HABITATS
+HUMANITY'S HABITATS
 The Earth has been left an ecologically-devastated
 ruin, but humanity has taken to the stars. When
 Earth was abandoned, so too were the last of the
@@ -22,7 +22,7 @@ points of planetary bodies, others have been hewn
 out of solid satellites and large asteroids. These sta-
 tions have myriad purposes from trade to warfare,
 espionage to research.
-  Mars continues to be one of transhumanity’s
+  Mars continues to be one of transhumanity's
 largest settlements, though it too, suffered heavily
 during the Fall. Numerous cities and settlements
 remain, however, though the planet is only partially
@@ -65,7 +65,7 @@ abundant, literally everything is wirelessly connected
 and online. Via implants or small personal comput-
 ers, characters have access to archives of information
 that dwarf the entire 21st-century internet and sensor
-systems that pervade every public place. People’s
+systems that pervade every public place. People's
 entire lives are recorded and lifelogged, shared with
 others on one of numerous social networks that link
 everyone together in a web of contacts, favors, and
@@ -82,27 +82,27 @@ Phase. A good understanding of the concept right
    Your body is disposable. If it gets old, sick, or too
  heavily damaged, you can digitize your conscious-
  ness and download it into a new one. The process
- isn’t cheap or easy, but it does guarantee you ef-
+ isn't cheap or easy, but it does guarantee you ef-
  fective immortality—as long as you remember to
- back yourself up and don’t go insane. The term
+ back yourself up and don't go insane. The term
  morph is used to describe any type of form your
  mind inhabits, whether a vat-grown clone sleeve,
  a synthetic robotic shell, a part-bio/part-synthetic
 “pod,” or even the purely electronic software state
  of an infomorph.
-   A character’s morph may die, but the character’s
+   A character's morph may die, but the character's
  ego may live on, assuming appropriate backup
  measures have been taken. Morphs are expendable,
- but your character’s ego represents the ongoing,
- continuous life path of your character’s mind and
+ but your character's ego represents the ongoing,
+ continuous life path of your character's mind and
  personality. This continuity may be interrupted by
  an unexpected death (depending on how recently
  the backup was made), but it represents the totality
- of the character’s mental state and experiences.
+ of the character's mental state and experiences.
     Some aspects of your character—particularly skills,
  along with some stats and traits—belong to your
- character’s ego and so stay with them throughout
- the character’s development. Some stats and traits,
+ character's ego and so stay with them throughout
+ the character's development. Some stats and traits,
  however, are determined by morph, as noted, and so
 will change if your character leaves one body and
  takes on another. Morphs may also affect other skills
@@ -111,7 +111,7 @@ will change if your character leaves one body and
 WHERE TO GO FROM HERE?
 Now that you know what this game is about, we sug-
 gest that you next read the Time of Eclipse chapter
-(p.  30), to get a feel for the game’s default setting
+(p.  30), to get a feel for the game's default setting
 (which you are, of course, free to change to suit your
 whims). Then read the Game Mechanics chapter
 (p. 112) to get a grasp of the rules. After that, you

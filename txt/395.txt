@@ -11,7 +11,7 @@ TASKS
 ONLINE SEARCHES
 1. Common data = automatic acquisition
 2. Uncommon data:
-   a. Research Task Test (timeframe: 1 minute) modiﬁe
+   a. Research Task Test (timeframe: 1 minute) modifie
    data obscurity to accumulate data
    b. Measure of Success determines depth of data fou
 3. Analyzing data:
@@ -32,23 +32,23 @@ ONLINE SEARCHES
      >+30       TITANs and/or alien technology
                                                                            25
                    SUBVERSION DIFFICULTIES
-                    Difﬁculty modiﬁers for common computer tasks
+                    Difficulty modifiers for common computer tasks
  MODIFIER TASK
                 Execute commands, view restricted information, run restricted
       –0        software, open/close connections to other systems, read/write
-                delete ﬁles, access sensor feeds, access slaved devices
-      –10       Change system settings, alter logs/restricted ﬁles
+                delete files, access sensor feeds, access slaved devices
+      –10       Change system settings, alter logs/restricted files
       –20       Interfere with system operations, alter sensor/AR input
       –30       Shut system down, lockout user/muse, launch countermeasures a
 
                                                                            25
                        COUNTERMEASURES
- Passive Alert (-10 modiﬁer to intruders)
+ Passive Alert (-10 modifier to intruders)
  Locate Intruder: Opposed Infosec Test; if successful, intruder becomes Lock
  Re-authenticate Users: Next Action Turn, intruder must make Infosec Test
    log in again
  Reduce Privileges: Limit user access privileges; see p. 246
- Active Alert (-20 modiﬁer to intruders)
+ Active Alert (-20 modifier to intruders)
  Counterintrusion: If Trace (see below) is successful, launch intrusion attem
    on intruder's home system
  Lockout: Opposed Infosec Test; if successful, intruder dumped from system.
@@ -71,8 +71,8 @@ ONLINE SEARCHES
 y
 
                                   SUBVERSION EXAMPLES
-                   In addition to the tasks noted under the Subversion Difﬁc
-                        these modiﬁers present some additional example ac
+                   In addition to the tasks noted under the Subversion Diffic
+                        these modifiers present some additional example ac
         MOD TASK
             Hacking Bots/Vehicles
          –0    Give orders to drones
@@ -82,11 +82,11 @@ y
             Hacking Ectos/Mesh Inserts
                Interact with entoptics, befriend everyone in range, make on
          –0
-               user’s credit, intercept communications, log activity
-               Alter social network proﬁle/status, adjust AR ﬁlters, tweak s
+               user's credit, intercept communications, log activity
+               Alter social network profile/status, adjust AR filters, tweak s
          –10
                change AR skin, change avatar, access VPN
-               Block or shufﬂe senses, inject AR illusions, spoof command
+               Block or shuffle senses, inject AR illusions, spoof command
          –20
                devices
          –30   Boot user out of AR
@@ -94,7 +94,7 @@ y
          –0       Open/close doors, stop/start elevators, operate intercom
                  Adjust temperature/lighting, disable safety warnings, replac
          –10
-                 doors, switch trafﬁc timers
+                 doors, switch traffic timers
                  Disable subsystems (plumbing, recycling, etc.), disable wire
          –20
                  repair crews

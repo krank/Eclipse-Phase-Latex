@@ -1,9 +1,9 @@
   USING ENHANCED SENSES (CONT.)
-  also detects the blood ﬂow in a biomorph’s face, to transhumans). These sensors can, of course, also
+  also detects the blood flow in a biomorph's face, to transhumans). These sensors can, of course, also
   which can be useful in judging emotional states detect the presence of harmful radiation.
-  (+20 modiﬁer to Kinesics Tests), and can spot sub-
+  (+20 modifier to Kinesics Tests), and can spot sub-
   surface implants. Some normally white surfaces SOUNDWAVES
-  are reﬂective (mirrored) in infrared, potentially The transmission of vibrations through a medium,
+  are reflective (mirrored) in infrared, potentially The transmission of vibrations through a medium,
   allowing an infrared viewer to see around corners sound is broken down into infrasound (frequen-
   or behind themselves. On the other hand, some cies below standard human hearing), normal
   glass is opaque to infrared light. Infrared is also acoustic range, and ultrasound (frequencies above
@@ -13,23 +13,23 @@
      Lidar (Visible Light): Similar to radar, but with like radar, bouncing sound waves off a target
   much higher resolution, lidar actively bounces light and measuring the returning echoes. Ultrasound
   from the infrared through ultraviolet spectrum off imaging is similarly low-resolution, showing
-  a target and measures the backscatter, ﬂuorescence, shapes and movement but no colors and few
+  a target and measures the backscatter, fluorescence, shapes and movement but no colors and few
   and other properties. Lidar is very useful for detect- details unless measured closely (1-2 meters).
   ing atmospheric chemical properties and weather. Ultrasound is good for identifying how dense a
-  Like radar, it can be used to measure a target’s material is, however, can detect denser materials
+  Like radar, it can be used to measure a target's material is, however, can detect denser materials
   range and speed, or develop a three-dimensional hidden beneath less dense ones. Many medical
   image. One clever use of lidar is to precisely “map” devices utilize ultrasound, and ultrasound sensors
   the position of everything in a room (taking several can also detect gas leaks, frictional motor noises,
   turns of scanning) and then check that positioning and similar mechanical emissions. Ultrasound sen-
   later to see if anything has been moved.               sors are typically unaffected by noise clutter from
-     Ultraviolet: Some objects are ﬂuorescent in ultra- standard acoustic frequencies.
-  violet light, including some animals, ﬂowers, insects,   Infrasound: Infrasound travels much further
+     Ultraviolet: Some objects are fluorescent in ultra- standard acoustic frequencies.
+  violet light, including some animals, flowers, insects,   Infrasound: Infrasound travels much further
   urine, and minerals (which show up much better than regular sound frequencies (hundreds of
   in ultraviolet than regular light). Some plants and kilometers). Mechanical machinery, seismic distur-
   animals have patterns that can only be seen in ultra- bances, tornados, explosions, waterfalls, and cer-
   violet. Likewise, chemical dyes that only show up tain weather phenomena create infrasound waves.
   under ultraviolet, or that make certain substances Large animals such as elephants and whales use
-  (like blood) ﬂuoresce under ultraviolet light, have infrasound to communicate via the ground over
+  (like blood) fluoresce under ultraviolet light, have infrasound to communicate via the ground over
   various security purposes. Some glass is opaque at large distances, though infrasound data transfer is
   ultraviolet wavelengths.                               too slow for complex communications.
      X-Ray/Gamma-Ray: Backscatter imaging systems
@@ -44,14 +44,14 @@
 
 
   Bioweave Armor (Heavy): Heavy bioweave armor             a chitin-ceramic hybrid material modeled on the
-involves lacing the morph’s skin with a denser and         microscopic structure and texture of arthropod exo-
-thicker network of the same fi bers. The morph’s           skeletons. This armor is obvious and has a somewhat
-skin becomes thicker and somewhat less fl exible           crocodilian or insectoid appearance (character’s
-except at the joints. The morph’s skin also has an         choice). The morph is completely hairless as well. This
+involves lacing the morph's skin with a denser and         microscopic structure and texture of arthropod exo-
+thicker network of the same fi bers. The morph's           skeletons. This armor is obvious and has a somewhat
+skin becomes thicker and somewhat less fl exible           crocodilian or insectoid appearance (character's
+except at the joints. The morph's skin also has an         choice). The morph is completely hairless as well. This
 unusually smooth look, and a distinctively smooth          provides an Armor rating of 11/11. This armor is not
 and tough-feeling texture. This provides an Armor          cumulative with worn armor. [Moderate]
-rating of 3/4 without decreasing the morph’s mo-              Chameleon Skin: The morph’s skin is augmented
-bility. The character’s sense of touch, however, is        with complex chromatophores so that it changes color
+rating of 3/4 without decreasing the morph's mo-              Chameleon Skin: The morph's skin is augmented
+bility. The character's sense of touch, however, is        with complex chromatophores so that it changes color
 significantly reduced (–20 modifier) except on their       like the skin of a chameleon or an octopus. The morph
 hands, feet, and face. This armor is cumulative with       can match the appearance of almost any color and
 worn armor. [Moderate]                                     most patterns. This provides a +20 modifier to Infiltra-

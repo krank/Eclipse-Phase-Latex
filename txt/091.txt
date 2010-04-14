@@ -4,14 +4,14 @@ of a post-He3 Lunar economy. Most of the 10,000
 inhabitants are Jaehon employees, and security is
 tight. Cannon makes a long loop of the heavily-mined
 Caloris basin during the long Mercurian night before
-following a route that takes it around the planet’s
+following a route that takes it around the planet's
 northern hemisphere, avoiding the blasting rays of
 the sun. Along the way, it stops at a series of mining
 operations, collecting the gigantic ingots for launch
 into orbit.
 
 VENUS
-Venus is Earth’s closest neighbor and the planet most
+Venus is Earth's closest neighbor and the planet most
 like it in terms of size and geology. It is a rugged
 world of volcanic mountains, canyons, high plateaus,
 and sweeping volcanic planes crisscrossed by river-
@@ -23,7 +23,7 @@ difficult challenge to transhuman colonization. The
 Venusian atmosphere is a superheated maelstrom of
 carbon dioxide and sulfuric acid, with an atmospheric
 pressure at its surface equivalent to that five kilome-
-ters below the surface of Earth’s oceans. Venus also
+ters below the surface of Earth's oceans. Venus also
 lacks more than trace amounts of hydrogen, meaning
 that water must be imported in the form of iceteroids
 from the outer system.
@@ -40,7 +40,7 @@ a few independents or ones loyal to the Planetary
 Consortium, these aerostats are the base of the new
 Morningstar Constellation power bloc. Notable for
 their research labs, nanofab design houses, software
-studios, and luxury resorts, the Constellation’s aero-
+studios, and luxury resorts, the Constellation's aero-
 stats are increasing at odds with Planetary Consor-
 tium and Lunar-Lagrange Alliance interests.
    On some aerostats, areas populated only by inden-
@@ -51,7 +51,7 @@ habitats and another 10,000 on the surface. Roughly
    Though the Planetary Consortium is considering
 the launch of a Venusian terraforming project, this
 plan is actively opposed by the Morningstar Constel-
-lation. The Constellation’s aerostats see the terrafor-
+lation. The Constellation's aerostats see the terrafor-
 ming proposals—which include massive cometary
 bombardment or building a planet-sized sun shade
 to cool the atmosphere—as not only unworkable but

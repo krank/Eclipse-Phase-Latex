@@ -1,5 +1,5 @@
 OPPOSED TESTS                                                       VARIABLE OPPOSED TEST
-An Opposed Test is called for whenever a character’s                In some cases, the rules will call for a Variable Op-
+An Opposed Test is called for whenever a character's                In some cases, the rules will call for a Variable Op-
 action may be directly opposed by another. Regardless               posed Test, which allows for slightly more outcomes
 of who initiates the action, both characters must make              than a standard Opposed Test. If both characters
 a test against each other, with the outcome favoring                succeed in a Variable Opposed Test, then an outcome
@@ -16,11 +16,11 @@ dice roll wins. If both characters fail, or they both
 
 
                                                                                                                                 EXAMPLE
-                                                                      Test is called for, pitting Jaqui’s Infosec skill of 48
-succeed and roll the same number, then a deadlock                     against the AI’s Infosec of 25. Jaqui rolls a 48—a
+                                                                      Test is called for, pitting Jaqui's Infosec skill of 48
+succeed and roll the same number, then a deadlock                     against the AI's Infosec of 25. Jaqui rolls a 48—a
 occurs—the characters remain pitted against each                      success—but the AI rolls a 14—also a success. In
 other, neither gaining ground, until one of them takes                this circumstance, Jaqui succeeds in hacking in,
-another action and either breaks away or makes an-                    but the AI is aware of the inﬁltration and can take
+another action and either breaks away or makes an-                    but the AI is aware of the infiltration and can take
 other Opposed Test.                                                   active countermeasures against her.
    Note that critical successes trump high rolls in an
 Opposed Test—if both characters succeed and one rolls
@@ -28,7 +28,7 @@ Opposed Test—if both characters succeed and one rolls
    Care must be taken when applying modifiers in an                 TIME AND ACTIONS
 Opposed Test. Some modifiers will affect both partici-                Though the gamemaster is responsible for manag-
 pants equally, and should be applied to both tests. If              ing the speed at which events unfold, there are times
-a modifier arises from one character’s advantage in                 when it is important to know exactly who is acting
+a modifier arises from one character's advantage in                 when it is important to know exactly who is acting
 relation to the other, however, that modifier should                when, especially if some people are acting before or
 only be applied to benefit the favored character; it                after other people. In these circumstances, gameplay
 should not also be applied as a negative modifier to                in Eclipse Phase is broken down into intervals called
@@ -36,36 +36,36 @@ the disadvantaged character.                                        Action Turns
 
 
            Zhou has been hired by the Jovian Republic to            ACTION TURNS
-           inﬁltrate his old pirate band. Even though he’s          Each Action Turn is three seconds long, meaning
-           resleeved in a new skin, he’s worried that one of        there are twenty Action Turns per minute. The order
+           infiltrate his old pirate band. Even though he's          Each Action Turn is three seconds long, meaning
+           resleeved in a new skin, he's worried that one of        there are twenty Action Turns per minute. The order
            his old buddies, Wen, might recognize his manner-        in which characters act during a turn is determined
            isms, since they lived, whored, and raided together      by an Initiative Test (see Initiative, p. 121). Action
-           for years. After Zhou has spent some time in Wen’s       Turns are further subdivided into Action Phases. Each
-           company, the gamemaster makes a secret Opposed           character’s Speed stat (p. 121) determines the amount
-           Test, pitting Zhou’s Impersonation skill of 57 against   of actions they can take in a turn, represented by how
+           for years. After Zhou has spent some time in Wen's       Turns are further subdivided into Action Phases. Each
+           company, the gamemaster makes a secret Opposed           character's Speed stat (p. 121) determines the amount
+           Test, pitting Zhou's Impersonation skill of 57 against   of actions they can take in a turn, represented by how
  EXAMPLE
 
 
 
 
-           Wen’s Kinesics of 34. The gamemaster decides to          many Action Phases they may take.
+           Wen's Kinesics of 34. The gamemaster decides to          many Action Phases they may take.
            give Wen a bonus +20, since he is so familiar with
            his former buddy and has been on the lookout for         TYPES OF ACTIONS
            him, eager to repay the old grudge that split them       The types of actions a character may take in an Action
-           apart. Wen’s target number is now 54.                    Turn are broken down to: Automatic, Quick, Com-
+           apart. Wen's target number is now 54.                    Turn are broken down to: Automatic, Quick, Com-
               The gamemaster rolls for both. Zhou scores a 45       plex, and Task actions.
            and Wen a 39. Both succeed, but Zhou rolled higher,
            so his deception is successful. The gamemaster           AUTOMATIC ACTIONS
-           decides that Wen ﬁnds something about Zhou to            Automatic actions are “always on” and require no
-           be familiar, but he can’t put his ﬁnger on it.           effort from the character, assuming they are conscious.
+           decides that Wen finds something about Zhou to            Automatic actions are “always on” and require no
+           be familiar, but he can't put his finger on it.           effort from the character, assuming they are conscious.
                                                                        Examples: basic perception, certain psi sleights
 
                                                                     QUICK ACTIONS
 OPPOSED TESTS AND MARGIN OF SUCCESS/FAILURE                         Quick actions are simple, so they can be done fast and
 In some cases, it may also be important to note a char-             can be multi-tasked. The gamemaster determines how
-acter’s Margin of Success or Failure in an Opposed                  many Quick actions a character may take in a turn.
+acter's Margin of Success or Failure in an Opposed                  many Quick actions a character may take in a turn.
 Test, as with a Success Test above. In this case, the                 Examples: talking, switching a safety, activating an
 MoS/MoF is still determined by the difference between               implant, standing up
-the character’s roll and their target number—it is not
-calculated by the difference between the character’s
-roll and the opposing character’s roll.
+the character's roll and their target number—it is not
+calculated by the difference between the character's
+roll and the opposing character's roll.

@@ -11,7 +11,7 @@ Any of the various sensors described in the Gear
 chapter (p. 294) may be deployed within a facility
 to monitor and record the passage of personnel,
 both authorized and not. These sensors are typically
-slaved to the facility’s security network and closely
+slaved to the facility's security network and closely
 monitored by security AIs, meaning they are vulner-
 able to hacking and possibly jamming. A few other
 sensor types deserve mention here:
@@ -21,7 +21,7 @@ exhaled in transhuman breaths. This is useful for
 detecting intruding biomorphs in areas that are
 abandoned/off-limits.
    Electrical Sensors: Electrical sensors can be set in
-portals to detect a biomorph’s electromagnetic field
+portals to detect a biomorph's electromagnetic field
 in addition to the electrical fields of synthmorphs.
    Heartbeat Sensors: These sensitive sensors detect
 the vibration caused by transhuman heart beats.
@@ -49,19 +49,19 @@ chemical sniffers and radar/terahertz/infrared/x-ray/
 ultrasound imaging. They can detect the following
 items and substances:
 
- • Metal used in kinetic weapons, seekers, and
+ - Metal used in kinetic weapons, seekers, and
    flechette weapons
- • Devices with onboard hives of metallic nano-
+ - Devices with onboard hives of metallic nano-
    bots (e.g., covert operations tools, spindles)
- • Magnetic elements in plasma guns and railguns
- • Propellant from firearms ammunition and seek-
+ - Magnetic elements in plasma guns and railguns
+ - Propellant from firearms ammunition and seek-
    ers (–30 to conceal)
- • Chemical fuels used in torch spray weapons
+ - Chemical fuels used in torch spray weapons
    (–30 to conceal)
- • All explosives and grenades by their chemical
+ - All explosives and grenades by their chemical
    particulate emissions (–30 to conceal)
- • Poisons and bioagents in flechette weapons
- • Any weapon or device larger than palm size
+ - Poisons and bioagents in flechette weapons
+ - Any weapon or device larger than palm size
    (using sound waves and shape recognition)
 
   Characters trying to sneak weapons and gear past
@@ -80,7 +80,7 @@ their area as a way of detect-
 ing intruders by their com-
 munications emissions. These
 signals can even be used to
-track the intruder’s location via
+track the intruder's location via
 triangulation and other means
 (see Physical Tracking, p. 251).
 To bypass wireless detection sys-

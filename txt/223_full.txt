@@ -2,13 +2,13 @@
   and player should agree on a disorder appropriate           substrate of the universe that is weird and terrifying.
   to the character. This disorder may be treated over         Alternately, they could feel as if their personality was
   time, according to normal rules (see Mental Healing         melded with something different, something that
-  and Psychotherapy, p. 215).                                 doesn’t belong. Each async is likely to view their situ-
-• Characters with the Psi trait are also vulnerable to        ation differently, and none of them pleasantly.
+  and Psychotherapy, p. 215).                                 doesn't belong. Each async is likely to view their situ-
+- Characters with the Psi trait are also vulnerable to        ation differently, and none of them pleasantly.
   infection by other strains of the Exsurgent virus.
   The character suffers a –20 modifier when resisting         USING PSI
   Exsurgent infection (p. 362).                               Using psi—i.e., drawing on a certain sleight to pro-
-• Critical failures when using psi tend to stress the         cure some kind of effect—does not always require a
-  async’s mind. Each time a critical failure is rolled        test. Each sleight description details how the power
+- Critical failures when using psi tend to stress the         cure some kind of effect—does not always require a
+  async's mind. Each time a critical failure is rolled        test. Each sleight description details how the power
   when making a sleight-related test, the async suffers       is used.
   a temporary brain seizure. They suffer a –30 modi-
   fier and are incapable of acting until the end of the       ACTIVE PSI

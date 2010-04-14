@@ -23,8 +23,8 @@
 to the user via their AR display; other data can be ac-      the first attack, –20 for the second, –40 for the third,
 cessed with a Quick Action. Likewise, the gamemaster         and –60 for the fourth), offset by the Ambidextrous
 decides when the muse/AI provides important alerts to        trait (p. 145) as usual.
-the user. At the gamemaster’s discretion, some of these
-features may apply modifiers to the character’s tests.
+the user. At the gamemaster's discretion, some of these
+features may apply modifiers to the character's tests.
                                                              PHYSICAL HEALTH
 TOUCH-ONLY ATTACK                                            In a setting as dangerous as Eclipse Phase, characters
 Some types of attacks simply require you to touch your       are inevitably going to get hurt. Whether your morph
@@ -33,7 +33,7 @@ ingly easier. This might apply when trying to slap them      ons, brawling, fall
 with a dermal drug patch, spreading a contact poison         ments, psi attacks, and so on. This section discusses
 on their skin, or making skin-to-skin contact for the        how to track such injuries and determine what effect
 use of a psi sleight. In situations like this, apply a +20   they have on your character. Two methods are used
-modifier to your melee attacks.                              to gauge a character’s physical health: damage points
+modifier to your melee attacks.                              to gauge a character's physical health: damage points
                                                              and wounds.
 TWO-HANDED WEAPONS
 Any weapon noted as two-handed requires two hands            DAMAGE POINTS
@@ -43,7 +43,7 @@ spears, etc.) in addition to certain larger firearms and     and are recorded on
 heavy weapons. Any character that attempts to use            points are characterized as fatigue, stun, bruises,
 such a weapon single-handed suffers a –20 modifier.          bumps, sprains, minor cuts, and similar hurts that,
                                                              while painful, do not significantly impair or threaten
-WIELDING TWO OR MORE WEAPONS                                 your character’s life unless they accumulate to a signif-
+WIELDING TWO OR MORE WEAPONS                                 your character's life unless they accumulate to a signif-
 It is possible for a character to wield two weapons          icant amount. Any source of harm that inflicts a large
 in combat, or even more if they are an octomorph or          amount of damage points at once, however, is likely to
 multi-limbed synthmorph. In this case, each weapon           have a more severe effect (see Wounds, p. 207).

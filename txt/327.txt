@@ -10,7 +10,7 @@ tions in an attempt to reduce psi-waves and block or
 impair sleights. This drug is commonly used to restrain
 async prisoners from using their abilities. A drugged
 character must make a WIL x 2 Test. If they fail, they
-lose all psi abilities for the drug’s duration. If they suc-
+lose all psi abilities for the drug's duration. If they suc-
 ceed, they suffer a –30 impairment on Psi skills and
 all strain is doubled. Inhibitor has an unfortunate side
 effect of doping the character down, however; apply
@@ -19,7 +19,7 @@ characters tend to have a glazed, dopey expression and
 have difficulty getting excited or emotional. [High]
    Psi-Opener: Psi-opener drugs are variants of the
 Watts-MacLeod strain with a temporary effect and
-which do not permanently alter the user’s brain. Psi-
+which do not permanently alter the user's brain. Psi-
 opener temporarily imbues the user with the ability
 to use one particular sleight, regardless of whether or
 not they have the Psi trait. Each type of Psi-opener is
@@ -32,10 +32,10 @@ Users are occasionally subject to hallucinations
 (gamemaster discretion). When the drug wears off, it
 inflicts 1d10 points of mental stress, +2 if the drug
 imbues a psi-gamma sleight. [Expensive]
-   Psike-Out: Psike-out bolsters an async’s psi abilities.
-Apply a +20 modifier to the async’s Psi skill tests for the
-drug’s duration. However, also apply +2 to all strain
-DVs for the drug’s duration. Psike-out is mentally ad-
+   Psike-Out: Psike-out bolsters an async's psi abilities.
+Apply a +20 modifier to the async's Psi skill tests for the
+drug's duration. However, also apply +2 to all strain
+DVs for the drug's duration. Psike-out is mentally ad-
 dictive, with an Addiction Modifier of –10. [Expensive]
 
 

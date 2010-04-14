@@ -27,7 +27,7 @@
  meter distance from the blast, as opposed to the
  usual –2. [Moderate]
     Overload: Overload grenades and seekers launch an
- all-out assault on the target’s sensory spectrum. This
+ all-out assault on the target's sensory spectrum. This
  attack includes blinding by intense flashing light, a
  deafening thunderclap followed by intense ultrasonic
  screaming, nausea-inducing malodorants, and infra-
@@ -68,7 +68,7 @@ Thermobaric                            –10
    causes searing heat and fire damage across the area of
    effect without the devastating shockwaves of explo-
    sions that might rebound in an enclosed environment
-   and/or breach a habitat’s infrastructure. [High]
+   and/or breach a habitat's infrastructure. [High]
       Splash: Splash rounds spread a contained substance
    (drug, chemical, nanoswarm, paint) over a base 10-
    meter blast radius when they detonate. [Low plus

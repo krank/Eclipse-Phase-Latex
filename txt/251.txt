@@ -20,7 +20,7 @@ at a time, though you may also switch between them
 freely, even within the same Action Phase. You could,
 for example, spend several Quick Actions to send a
 message with your ecto, tell your spime oven at home
-to start cooking dinner, and look up a friend’s updated
+to start cooking dinner, and look up a friend's updated
 profile on a social network. You may not, however,
 hack into two separate systems simultaneously.
    Note that you may send the same command to
@@ -30,7 +30,7 @@ the same Quick Action, as noted above.
 
 
 ONLINE RESEARCH
-The Research skill (p. 184) represents a character’s
+The Research skill (p. 184) represents a character's
 ability to track down information in the mesh. Such
 information includes any type of digitized data: text,
 pictures, vids, XP, sensor feeds, raw data, software, etc.
@@ -52,12 +52,12 @@ covered their identity with a shroud of disinformation.
 
 SEARCH CHALLENGES
 Due to the sheer amount of data available, find-
-ing what you’re looking for may sometimes seem a
+ing what you're looking for may sometimes seem a
 daunting task. Thankfully, information is fairly well
 organized, thanks to the hard work of “spider” AIs
 that cruise the mesh and constantly update data and
 search indices. Additionally, information on the mesh
-is tagged with semantics, meaning that it’s presented
+is tagged with semantics, meaning that it's presented
 with code that allows a machine to understand the
 context of that information as well as a human reader
 would. This helps AIs and search software correlate
@@ -76,21 +76,21 @@ without fact-checking. Likewise, given the amount of
 
   SEARCH CAPABILITIES
   Online research in Eclipse Phase is not the same
-  as just googling something. Here are ﬁve ways in
+  as just googling something. Here are five ways in
   which it is vastly improved:
      Pattern Recognition: Biometrics and other forms
-  of pattern recognition are efﬁcient and intelligent.
+  of pattern recognition are efficient and intelligent.
   It is not only possible to run image recognition
   searches (in real-time, via all available spimes
   and sensor feeds), but to search for patterns such
-  as gait, sounds, colors, emotive displays, trafﬁc,
+  as gait, sounds, colors, emotive displays, traffic,
   crowd movement, etc. Kinesics and behavioral
   analysis even allow sensor searches for people
   exhibiting certain behavioral patterns, such as sus-
   picious loitering, nervousness, or agitation.
-     Metadata: Information and ﬁles online come
+     Metadata: Information and files online come
   with hidden data about their creation, alteration,
-  and access. A photo’s metadata, for example,
+  and access. A photo's metadata, for example,
   will note what gear it was taken on, who took
   it, when, and where, as well as who accessed it
   online, though such metadata may be easily
@@ -109,7 +109,7 @@ without fact-checking. Likewise, given the amount of
   recorded actions analyzed for unusual behavior.
      Translation: Real-time translation of audio and
   video is available from open source translation bots.
-     Forecasting: A signiﬁcant percentage of what
+     Forecasting: A significant percentage of what
   people do on any day or in response to certain situ-
   ations conforms to routines, enabling easy behav-
   ioral prediction. Muses take advantage of this to

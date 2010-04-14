@@ -10,8 +10,8 @@ In a universe where appearance is highly variable, the     Nation-States, Reclai
 question of identity is largely one of both trust and      Drug Dealers, Spaceship Models, Triad Economics,
 picking up on behavioral quirks and verbal cues to         Underground XP
 recognize a given individual.                              Specializations: As appropriate to the field
-  When you use it: Sometimes it’s fun to pretend
-you’re someone else, and sometimes it’s profitable         INTERFACING
+  When you use it: Sometimes it's fun to pretend
+you're someone else, and sometimes it's profitable         INTERFACING
 or lifesaving. Use this skill whenever you attempt         Type: Active, Technical
 to convince someone that you are actually someone          Linked Aptitude: COG
 else through some sort of social or online interaction.      What it is: Interfacing is about using computerized
@@ -39,7 +39,7 @@ Specializations: Blending In, Hiding, Shadowing,             When you use it: Us
    Sneaking                                                into submission, browbeat them into getting your way,
                                                            command them to follow your orders, or berate them
 INFOSEC                                                    into giving up information. Influence is handled as an
-Type: Active, Technical                                    Opposed Test, pitted against the target’s WIL + WIL
+Type: Active, Technical                                    Opposed Test, pitted against the target's WIL + WIL
 Linked Aptitude: COG (no defaulting)                       + SAV.
    What it is: Infosec is short for “information secu-     Specializations: Interrogation, Physical, Verbal
 rity.” It encompasses training in electronic intrusion
@@ -56,4 +56,4 @@ INTEREST: [FIELD]                                          sions from assorted d
 Type: Field, Knowledge                                     tion could be used to determine the likely sequence
 Linked Aptitude: COG                                       of events at a crime scene, determine a possible social
   What it is: Interest includes just about any topic       connection between two people, or deduce how an
-that captures your attention that isn’t covered by         enemy made their escape. Investigation is a great way
+that captures your attention that isn't covered by         enemy made their escape. Investigation is a great way

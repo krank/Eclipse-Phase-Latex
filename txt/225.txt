@@ -1,7 +1,7 @@
 CRITICALS
 If the defender rolls a critical success, the character
 attempting to wield psi is temporarily locked out of
-the target’s mind. The psi user may not target that
+the target's mind. The psi user may not target that
 character with sleights until an appropriate “reset”
 period has passed, determined by the gamemaster.
    If the async rolls a critical failure, they suffer tempo-
@@ -9,7 +9,7 @@ rary incapacitation as their mind dysfunctions in some
 harsh and distressing ways (see Psi Drawbacks, p. 221).
    If a psi user rolls a critical success against a de-
 fender, or the defender rolls a critical failure, double
-the potency of the sleight’s effect. In the case of psi at-
+the potency of the sleight's effect. In the case of psi at-
 tacks, the DV can be doubled or mental armor can be
 bypassed. Alternately, when using Psi Assault (p. 183),
 the targeted character may be in danger of infection
@@ -29,7 +29,7 @@ stant, temporary, or sustained.
 Action Phase in which they are used.
    Temporary: Temporary sleights last for a limited
 duration with no extra effort from the async. The
-temporary duration is determined by the async’s WIL
+temporary duration is determined by the async's WIL
 ÷ 5 (round up) and is measured in either Action Turns
 or minutes, as noted. Strain for the sleight is applied
 immediately when used, not at the end of the duration.
@@ -43,7 +43,7 @@ sleight, otherwise the sleight immediately ends. More
 than one sleight may be sustained at a time, with a
 cumulative modifier. Strain for the sleight is applied
 immediately when used, not at the end of the dura-
-tion. At the gamemaster’s discretion, sleights that are
+tion. At the gamemaster's discretion, sleights that are
 sustained for long periods may incur additional strain.
 
 STRAIN
@@ -61,7 +61,7 @@ lists a Strain Value Modifier that modifies this amount.
 For example, a sleights with a Strain Value Modifier
 of –1 inflicts (1d10 ÷ 2) –1 DV.
    If the damage points suffered from strain exceed
-the character’s Wound Threshold, they may inflict a
+the character's Wound Threshold, they may inflict a
 wound just like other damage (see Wounds, p. 207).
 
 
@@ -69,14 +69,14 @@ wound just like other damage (see Wounds, p. 207).
            decides to use his Qualia sleight to boost his
            Intuition while hunting for clues. That psi-chi
            sleight takes only a Quick Action to initiate and
-           requires no test. Matric’s WIL is 25, so the dura-
+           requires no test. Matric's WIL is 25, so the dura-
            tion of this temporary sleight is 5 Action Turns (25
-           ÷ 5 = 5). The sleight’s Strain modiﬁer is –1, so
+           ÷ 5 = 5). The sleight's Strain modifier is –1, so
            he is facing (1d10 ÷ 2) –1 DV. He rolls a 1, so he
            takes no strain at all!
-              Later on, Matric ﬁnds himself in a life-or-death
+              Later on, Matric finds himself in a life-or-death
            struggle with a kidnapper. Lucky for Matric,
-           they’re in a melee, so he’s close enough to try
+           they're in a melee, so he's close enough to try
  EXAMPLE
 
 
@@ -84,16 +84,16 @@ wound just like other damage (see Wounds, p. 207).
 
            and touch his opponent. On his Action Phase, he
            makes an Unarmed Combat Test with a +20 mod-
-           iﬁer (for a touch-only attack) and succeeds. This
+           ifier (for a touch-only attack) and succeeds. This
            allows him to try and use his Psychic Stab sleight.
-           He rolls his Psi Assault of 57 against the target’s
+           He rolls his Psi Assault of 57 against the target's
            WIL x 2 (32). His target is in a worker pod morph,
            however, which is less susceptible to psi, so he
-           receives a +30 modiﬁer (32 + 30 = 62). Matric
+           receives a +30 modifier (32 + 30 = 62). Matric
            rolls a 32 and the worker pod a 64—Matric wins!
            For damage, he rolls 1d10 + (WIL ÷ 10). His WIL
-           is 25, so that’s 1d10 + 3. He rolls a score a 7 and
-           inﬂicts 10 (7 + 3) points of damage. The worker
+           is 25, so that's 1d10 + 3. He rolls a score a 7 and
+           inflicts 10 (7 + 3) points of damage. The worker
            pod screams in pain, suffering a wound from the
            psychic assault.
 
@@ -101,7 +101,7 @@ wound just like other damage (see Wounds, p. 207).
 PSI-CHI SLEIGHTS
 Psi-chi sleights are async abilities that speed up cogni-
 tive informatics (internal information processing) and
-enhance the user’s perception and cognition.
+enhance the user's perception and cognition.
 
 AMBIENCE SENSE
        PSI TYPE:    Passive        ACTION:    Automatic

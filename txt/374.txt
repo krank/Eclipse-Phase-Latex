@@ -6,7 +6,7 @@ with frightening reality-ripping and mind-scarring
 abilities. While some example sleights are provided
 below, gamemasters are encouraged to modify their
 effects and to create their own.
-  At the gamemaster’s discretion, simply observing psi
+  At the gamemaster's discretion, simply observing psi
 epsilon sleights in action may inflict 1d10 + 2 mental
 stress on a character (p. 215).
 
@@ -83,7 +83,7 @@ ORIGIN AND EVOLUTION
 The Factors have remained notoriously tight-lipped
 about their origins, history, and the location of their
 homeworld. Though they have also paid visits to some
-of transhumanity’s exoplanet colonies, no gatecrashing
+of transhumanity's exoplanet colonies, no gatecrashing
 expeditions have yet found any sign of Factor habitation
 or passing elsewhere in the galaxy. Repeated inquiries
 by transhuman mediators have been simply ignored or
@@ -97,8 +97,8 @@ mans could find their planet habitable, their abiogen-
 esis (the formation of life from self-replicating, but
 not-living molecules) took a different route than life
 on Earth.
-  The Factors’ primordial ancestors began in their
-planet’s early geological history as a type of of pho-
+  The Factors' primordial ancestors began in their
+planet's early geological history as a type of of pho-
 tosynthesizer that ate carbon dioxide and water and
 released oxygen, also obtaining energy from inorganic
 chemicals like hydrogen sulfide. Long conditions
@@ -112,7 +112,7 @@ cautious, predatory species that fed on larger, danger-
 ous creatures. Rather than actively hunting such prey,
 this species developed versatile methods of capturing
 and immobilizing their competitors (comparable to
-Earth’s funnel web or trapdoor spiders). Over time,
+Earth's funnel web or trapdoor spiders). Over time,
 this method of trapping prey spurred basic (practical)
 intelligence and provided them with the evolutionary
 advantage that paved the way to sapience, driving

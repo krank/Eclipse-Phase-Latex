@@ -23,18 +23,18 @@
  or stealing it.                                                 In other cases, however, gear provides a bonus to
     In the inner system, hypercorp, and Jovian Republic       the task at hand. Climbing a wall may be possible
  settlements—and other places where capitalism still          without tools, but if you happen to have gecko gloves
- reigns—gear acquisition is simply a matter of finding        or other climbing gear, it’s going to be a lot easier. The
+ reigns—gear acquisition is simply a matter of finding        or other climbing gear, it's going to be a lot easier. The
  a seller and buying it. Each item has a listed cost, from    specific modifier applied is usually noted in the gear
- Trivial to Expensive, as noted on the Gear Costs table.      item’s description, typically ranging from +10 to +30.
+ Trivial to Expensive, as noted on the Gear Costs table.      item's description, typically ranging from +10 to +30.
  Due to local availability of resources, supply and
  demand, and legalities, these listed costs are meant          GEAR QUALITY
  to be approximations. When no other factors apply,           In both of the situations above, it is possible to have
  the listed Average Cost for that category can be used.       items that are of either exceptional or inferior quality,
- Otherwise the gamemaster should modify the item’s            with corresponding positive or negative modifiers. The
+ Otherwise the gamemaster should modify the item's            with corresponding positive or negative modifiers. The
  worth as they see fit, according to local economic fac-      gear may be well-crafted, state-of-the-art, cutting-edge
  tors, while still keeping it within that cost category       experimental, or simply top-of-the-line, applying an
  range. The Cost Modifiers table lists out some sug-          additional +10 to +30. Or it may be outdated, shoddy,
- gested changes to an item’s cost, but these are simply       or in disrepair, inflicting a –10 to –30 modifier (in
+ gested changes to an item's cost, but these are simply       or in disrepair, inflicting a –10 to –30 modifier (in
  recommendations, and can be ignored or followed as           some cases canceling out the basic gear bonus).
  the gamemaster deems fit. The exact local conditions
  are largely up to the gamemaster to determine, as best

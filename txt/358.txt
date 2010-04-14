@@ -1,6 +1,6 @@
    each other. Though many TITANs have indeed
    left through the gates, they very well may return.
- • The TITANs are still around, simply well hidden.
+ - The TITANs are still around, simply well hidden.
    Outwardly they are dormant but inwardly they
    are engaged in a long period of circumspection
    and turmoil. Perhaps some of them are prepar-
@@ -107,7 +107,7 @@ into play. It is their own responsibility to cover their
 absences from their “normal life” during each mission.
   There is no applying to join Firewall. Instead, Fire-
 wall selects an individual for induction based upon
-that person’s skills, knowledge, occupation, security
+that person's skills, knowledge, occupation, security
 clearance, location, status, and a host of other criteria.
 While such selections usually originate from a proxy,
 sentinels can exercise authority to bring new initiates

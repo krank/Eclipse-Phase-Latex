@@ -1,5 +1,5 @@
 OPPOSED TESTS
-An Opposed Test is called for whenever a character’s
+An Opposed Test is called for whenever a character's
 action may be directly opposed by another. Regardless
 of who initiates the action, both characters must make
 a test against each other, with the outcome favoring
@@ -22,7 +22,7 @@ Opposed Test—if both characters succeed and one rolls
    Care must be taken when applying modifiers in an
 Opposed Test. Some modifiers will affect both partici-
 pants equally, and should be applied to both tests. If
-a modifier arises from one character’s advantage in
+a modifier arises from one character's advantage in
 relation to the other, however, that modifier should
 only be applied to benefit the favored character; it
 should not also be applied as a negative modifier to
@@ -30,40 +30,40 @@ the disadvantaged character.
 
 
            Zhou has been hired by the Jovian Republic to
-           inﬁltrate his old pirate band. Even though he’s
-           resleeved in a new skin, he’s worried that one of
+           infiltrate his old pirate band. Even though he's
+           resleeved in a new skin, he's worried that one of
            his old buddies, Wen, might recognize his manner-
            isms, since they lived, whored, and raided together
-           for years. After Zhou has spent some time in Wen’s
+           for years. After Zhou has spent some time in Wen's
            company, the gamemaster makes a secret Opposed
-           Test, pitting Zhou’s Impersonation skill of 57 against
+           Test, pitting Zhou's Impersonation skill of 57 against
  EXAMPLE
 
 
 
 
-           Wen’s Kinesics of 34. The gamemaster decides to
+           Wen's Kinesics of 34. The gamemaster decides to
            give Wen a bonus +20, since he is so familiar with
            his former buddy and has been on the lookout for
            him, eager to repay the old grudge that split them
-           apart. Wen’s target number is now 54.
+           apart. Wen's target number is now 54.
               The gamemaster rolls for both. Zhou scores a 45
            and Wen a 39. Both succeed, but Zhou rolled higher,
            so his deception is successful. The gamemaster
-           decides that Wen ﬁnds something about Zhou to
-           be familiar, but he can’t put his ﬁnger on it.
+           decides that Wen finds something about Zhou to
+           be familiar, but he can't put his finger on it.
 
 
 
 
 OPPOSED TESTS AND MARGIN OF SUCCESS/FAILURE
 In some cases, it may also be important to note a char-
-acter’s Margin of Success or Failure in an Opposed
+acter's Margin of Success or Failure in an Opposed
 Test, as with a Success Test above. In this case, the
 MoS/MoF is still determined by the difference between
-the character’s roll and their target number—it is not
-calculated by the difference between the character’s
-roll and the opposing character’s roll.
+the character's roll and their target number—it is not
+calculated by the difference between the character's
+roll and the opposing character's roll.
 VARIABLE OPPOSED TEST
 In some cases, the rules will call for a Variable Op-
 posed Test, which allows for slightly more outcomes
@@ -79,11 +79,11 @@ with each specific Variable Opposed Test.
   tively defended by an AI, so a Variable Opposed
 
                                                             EXAMPLE
-  Test is called for, pitting Jaqui’s Infosec skill of 48
-  against the AI’s Infosec of 25. Jaqui rolls a 48—a
+  Test is called for, pitting Jaqui's Infosec skill of 48
+  against the AI's Infosec of 25. Jaqui rolls a 48—a
   success—but the AI rolls a 14—also a success. In
   this circumstance, Jaqui succeeds in hacking in,
-  but the AI is aware of the inﬁltration and can take
+  but the AI is aware of the infiltration and can take
   active countermeasures against her.
 
 
@@ -104,7 +104,7 @@ there are twenty Action Turns per minute. The order
 in which characters act during a turn is determined
 by an Initiative Test (see Initiative, p. 121). Action
 Turns are further subdivided into Action Phases. Each
-character’s Speed stat (p. 121) determines the amount
+character's Speed stat (p. 121) determines the amount
 of actions they can take in a turn, represented by how
 many Action Phases they may take.
 

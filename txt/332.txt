@@ -19,7 +19,7 @@ Space Roach     1   10   10   15   5   5    5    50   1
  have rudimentary intelligence and limited communica-
  tion skills. They make for fine companions and helpers.
     Fur Coat: A so-called “fur coat” is outerwear made
- from a living primitive organism. The creature’s skin,
+ from a living primitive organism. The creature's skin,
  fur, or scales are real. The organism is cultivated from
  transgenic stocks and grown around molds into cloth-
  ing shapes, often with actual usefulness: polar bear
@@ -64,13 +64,13 @@ WT LUC TT SKILLS
                Fray 30, Freerunning 30, Intimidation 30, Percep-
 5     20   4
                tion 30, Scrounging 30, Unarmed Combat 40
-             Climbing 50, Fray 30, Freerunning 30, Inﬁltra-
+             Climbing 50, Fray 30, Freerunning 30, Infiltra-
 4     20   4 tion 30, Perception 30, Scrounging 30, Unarmed
              Combat 30
-               Climbing 40, Fray 40, Freerunning 30, Inﬁltration
+               Climbing 40, Fray 40, Freerunning 30, Infiltration
 1     20   4
                50, Perception 20, Scrounging 50
-               Fray 30, Free Fall 30, Inﬁltration 50, Perception 20,
+               Fray 30, Free Fall 30, Infiltration 50, Perception 20,
 1     10   2
                Scrounging 50
 

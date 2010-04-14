@@ -1,21 +1,21 @@
    In game terms, you can try to keep word of what
- you’re doing quiet, but this makes it harder to get
+ you're doing quiet, but this makes it harder to get
  what you need. For every negative modifier you apply
  to your Networking Test, the same negative modifier
  applies to anyone making a Networking Test to find
- out what you’re up to.
+ out what you're up to.
 
 
               Revisiting one of our previous examples, we go
               back to the point where Jaqui was trying to
-              ascertain someone’s hideout location. Because
-              the person she’s after is scum, they’re on a
+              ascertain someone's hideout location. Because
+              the person she's after is scum, they're on a
               scum ship, and Jaqui is using her Networking:
-              Autonomist skill to find them, there’s a good
+              Autonomist skill to find them, there's a good
               chance that if she starts asking around to ev-
               eryone, word might trickle back to the person
-              she’s after. She doesn’t want them to know
-              she’s on their tail, though, so she decides to
+              she's after. She doesn't want them to know
+              she's on their tail, though, so she decides to
    EXAMPLE
 
 
@@ -48,7 +48,7 @@
  and mission assistance, dice rolls and/or roleplaying
  interaction with contacts from the social network
  should usually occur. Gamemasters may wish to keep
- track of the NPC contacts in each character’s social
+ track of the NPC contacts in each character's social
  networks and make them recurring characters.
 
 
@@ -64,8 +64,8 @@ FAVOR LEVEL          TIMEFRAME       REP COST REFRESH RATE
 5 (Scarce)               3 days         20          3 months
  ACQUIRE/UNLOAD GOODS
 Social networks are a good way to find items that
-you can’t buy legally or make at home. Depending
-on who you’re getting the goods from, this will cost
+you can't buy legally or make at home. Depending
+on who you're getting the goods from, this will cost
 you credit or require an appropriate Rep score. This
 favor can also be used to sell or give away such items,
 making some money or perhaps even some Rep in
@@ -93,7 +93,7 @@ your Networking skill, the better able you are to find
 highly-skilled professionals.
 
 
-   Cole needs to ﬁnd an astrobiologist who can help
+   Cole needs to find an astrobiologist who can help
    him identify an alien critter. He rolls his Network-
    ing: Scientist skill of 50 and gets a 43—a success.
                                                           EXAMPLE
@@ -109,21 +109,21 @@ highly-skilled professionals.
 
 
  ACQUIRE INFORMATION
-When you can’t find the information online or you
-don’t have the time or capability to look, you can
+When you can't find the information online or you
+don't have the time or capability to look, you can
 turn to people in your social network and tap their
 accumulated knowledge base.
 
  REPUTATION AND IDENTITY
 It is important to note that reputation is closely tied
 to identity. If you are undercover and using a fake ID,
-you can’t really call on your Rep score without giving
+you can't really call on your Rep score without giving
 yourself away. As a result, many people using false
 identities end up building up a separate set of Rep
 scores for their alter ego.
    Note that since many social network interactions
 take place online, it is possible for someone to secretly
 make use of their real identity while masquerading
-as someone else, as long as they’re careful about it. If
+as someone else, as long as they're careful about it. If
 anyone happens to be spying on their activity via the
 mesh, they stand a chance of being found out.

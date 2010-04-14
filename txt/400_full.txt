@@ -4,9 +4,9 @@
            Seismic sensors, 293                                   Smell, enhanced, 301                         Target                                         Uncanny valley, 151-52
            Self-healing, 292, 313                                 Snake, 310                                        multiple, 202                             Unconscious lead, 225
            Selfhood, 275                                          Snappers, 370                                     numbers, 115                              Unconsciousness, 208
-           Semi-automatic (SA), 198                               Sniffer, 293, 331                                 speciﬁc, 197                              Underbarrel seeker, 339-40
-           Sense                                                  Snifﬁng, 252                                 Task Action Programming Test, 246              Underwater, 201
-                 block, 228                                       Sniper riﬂe, 335                             Task actions, 120, 127, 190                    Unﬁt, 152
+           Semi-automatic (SA), 198                               Sniffer, 293, 331                                 specific, 197                              Underbarrel seeker, 339-40
+           Sense                                                  Sniffing, 252                                 Task Action Programming Test, 246              Underwater, 201
+                 block, 228                                       Sniper rifle, 335                             Task actions, 120, 127, 190                    Unfit, 152
                  enhancement, 301-2, 306                          Social drugs, 320                            Tasping, 232                                   Uniform blast, 193
                  skill, 184                                       Social engineers, 359                        Teamwork, 117, 127                             Uplifts, 81, 132
            Sensor, 293, 311                                       Social gaff negation, 183                    Techno-Creationists, 83                        Uploading, 268-69
@@ -56,14 +56,14 @@ on), 125   Shackle (Shackleton-New Varanasi), 93                  Sousveillance,
                  hacking, 263-64                                  Sprinting, 191                               Toughness, 143                                 Warbots, 383
                  rules, 263                                       Starware, 74                                 Toxic atmosphere, 201                          Wasp knife, 334
 ), 104           subscription, 331                                Static, 228                                  Toxin, 323-24, 325                             Watts-Macleod virus, 218, 219, 220, 368
-           Single-shot (SS), 198                                  Stealthed signals, 252                            ﬁlters, 305                               Weak immune system, 152
+           Single-shot (SS), 198                                  Stealthed signals, 252                            filters, 305                               Weak immune system, 152
     104    Singularity seekers, 43                                Stellar Intelligence, 74                     Trace, 258                                     Weapon, 334-42
            Situational awareness, 148                             Sticky grenades, 341                         Tracked, 310                                       accessories, 341-42
            Skathi, 107                                            Stress                                       Tracker Dye, 323                                   improvised, 202
 5          Skill                                                       points, 209                             Tracking, 251-52, 331                              mount, 311
                  categories, 172                                       value, 209                              Traction pads, 317                                 ranges, 203
                  corem 172                                        Stressful situations/experiences, 214, 215   Trade, 23                                          scanners, 293
-                 imprints, 232                                    Striking looks, 148                          Trafﬁc ﬁlters, 248                                 wielding two or more, 206
+                 imprints, 232                                    Striking looks, 148                          Traffic filters, 248                                 wielding two or more, 206
                  improving, 152-53                                Structural enhancement, 311                  Training animals, 177                          Wheeled, 310
                  learned, 172-73                                  Structuralists, 359                          Traits, 123                                    Whippers, 370
                  list, 176-84                                     Structures, 202-3                                 gaining/losing, 153                       White noise machine, 317
@@ -76,12 +76,12 @@ on), 125   Shackle (Shackleton-New Varanasi), 93                  Sousveillance,
            Skillsofts, 332                                        Submarine, 310                               Transport, standard, 349                       Worker pods, 142
            Skillware, 309                                         Substance abuse, 317-18                      Transporter, 344                               Wormhole, 378
            Skinaethesia, 73                                       Subversion, 259-61                           Trauma, 209                                    Wormwood, 111
-           Skindyes, 310                                               difﬁculties, 259                             effects, 209-10                           Wound, 207-8
-           Skinﬂex, 309                                                examples, 259                                threshold (TT), 122, 138                      Determination, 192
+           Skindyes, 310                                               difficulties, 259                             effects, 209-10                           Wound, 207-8
+           Skinflex, 309                                                examples, 259                                threshold (TT), 122, 138                      Determination, 192
            Skinlink, 309                                          Success tests, 117-19, 127                   Travel, 48-49, 63                                  effects, 207-8
            Skinning, 240                                          Sun Yee On, 84                                    basics, 283-84                                threshold (WT), 121
            Skin pocket, 305                                       Superthermite charges, 330                        distance, 283                             Wounds, 207-8
-           Skinthetic, 73                                         Suppressive ﬁre, 204                              local, 283                                Wrappers, 370
+           Skinthetic, 73                                         Suppressive fire, 204                              local, 283                                Wrappers, 370
            Sky Ark, 111                                           Surgery, 208                                 T-ray emitter, 306                             Wrist-mounted tools, 309
            Slaving devices, 248                                   Surprise, 204-5                              Tremors, moderate, 211
            Sleep, 365                                             Surveillance, 238, 293                       Triads, 84                                     X
@@ -91,7 +91,7 @@ on), 125   Shackle (Shackleton-New Varanasi), 93                  Sousveillance,
            Slow learner, 151                                      Swarm, 328-29                                Trivial favor, 290                             XP (experience playback), 53, 236, 241-
            Small jet, 343                                              composition, 311                        Trojans                                        42, 331
            Small lander and orbit transfer vehicle                Swarmanoid, 144                                   Locus, 100-101                            X-ray emitter, 317
-                 (SLOTV), 349                                     Sweeping ﬁre, 194                                 resources, economies, 100                 X-ray sensors, 303
+                 (SLOTV), 349                                     Sweeping fire, 194                                 resources, economies, 100                 X-ray sensors, 303
            Smart                                                  Swimming skill, 184                          Twelve Commons, 103
                  ammo, 338                                        Sybils, 81                                   Twitch nerve gas, 324                          Y-Z
                  clothing, 325                                    Sylphs, 139-40                               Two-handed weapons, 206                        YGBM (you gotta believe me) attacks, 365-66

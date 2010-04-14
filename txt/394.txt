@@ -1,25 +1,25 @@
  SUMMARY                                          ACTION TUR
 dled as an Opposed Test.                          Step 1: Roll Initiative (
-attack skill +/– modiﬁers.                        Step 2: Begin First Act
+attack skill +/– modifiers.                        Step 2: Begin First Act
  er rolls Fray or melee skill                     Step 3: Declare and Re
                                                   Step 4: Rotate and Rep
  der rolls (Fray skill ÷ 2,
-  /– modiﬁers.                                    SCATTER DIA
+  /– modifiers.                                    SCATTER DIA
  eeds and rolls higher than
  he attack hits.                                     204
    armor-defeating (armor                                              1 or 2
  ).
                                                               10
- ed by the attack’s Armor
+ ed by the attack's Armor
  lue (AP).
 damage is reduced by the                                  9
  ed Armor rating (unless
  mor-defeating).
- exceeds the target’s                                          8
+ exceeds the target's                                          8
  old, a wound is also scored.                                          6 or 7
    exceeds the Wound
 multiple factors, multiple
-ﬂicted.)
+flicted.)
 
 
            WEAPON RANGES
@@ -67,7 +67,7 @@ h basic biomods
  g nanobandage
 h medichines
  s (bad food, not enough rest/heavy activity, poor shelter and/or sanitation)
- ns (insufﬁcient food, no rest/strenuous activity, little or no shelter and/or sanita
+ ns (insufficient food, no rest/strenuous activity, little or no shelter and/or sanita
                               115          MODIFIER SEVERITY
                                          SEVERITY               MODIFIER
  + REF) x 2) + 1d100
@@ -82,7 +82,7 @@ GRAM                         115
                                        Simple                          +20
                                        Easy                            +10
                                        Average                         +0
-                                       Difﬁcult                        –10
+                                       Difficult                        –10
                                        Challenging                     –20
                                        Hard                            –30
     4
@@ -126,9 +126,9 @@ GRAM                         115
     Defender hidden                                              –60
     Aimed shot (quick)                                           +10
     Aimed shot (complex)                                         +30
-    Sweeping ﬁre with beam weapon                        +10 on second shot
+    Sweeping fire with beam weapon                        +10 on second shot
     Multiple targets in same Action Phase             –20 per additional target
-    Indirect ﬁre                                                 –30
+    Indirect fire                                                 –30
     Point-blank range (2 meters or less)                         +10
     Short range                                                   —
     Medium range                                                 –10

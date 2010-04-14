@@ -26,7 +26,7 @@ MERCURIAL INVES
                          Free Fall    REF       30
                          Gunnery      INT       50
                   Impersonation       SAV       45
-                       Inﬁltration    COO       50
+                       Infiltration    COO       50
                           Infosec     COG       60
         Interests: Crime Groups       COG       60
       Interests: Cultural Trends      COG       45
@@ -54,7 +54,7 @@ You are a digital life form, coded      at sifting, sorting, and co
 to be “friendly” and molded with        this data, in fact, selling
 transhuman mindsets and world           vices as a mesh-based in
 views. You resent the backlash          tor. For most of your inq
-against AGIs and criticize resur-       physical form isn’t nece
+against AGIs and criticize resur-       physical form isn't nece
 gent human tendencies towards           you acquire data on th
 technophobia and xenophobia             cal world through senso
 as harmful to the emerging tran-        physical interaction i
@@ -139,4 +139,4 @@ alled
                                                        5 XP Clips
 
 
- d it! What is a ‘red light district?’ Oh, I see.”
+ d it! What is a ‘red light district?' Oh, I see.”

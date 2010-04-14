@@ -1,11 +1,11 @@
    If a character suffers extensive organic damage or         share records with each other unless they are part of the
-death while insured, the insurance will cover 80%             same political alliance in order to protect their citizens’
-of the morph’s cost, meaning that the character is            privacy. For example, Lunar-Lagrange Alliance stations
+death while insured, the insurance will cover 80%             same political alliance in order to protect their citizens'
+of the morph's cost, meaning that the character is            privacy. For example, Lunar-Lagrange Alliance stations
 expected to pay the other 20%. If they cannot pay,            do not share citizenship ID data with the Planetary
 their possessions or their stored morph may be                Consortium, though they do share with each other.
 seized in payment.                                              On top of this, many identity records were lost
    If a character violates their insurance policy by          during the Fall, a situation that was undoubtedly ex-
-intentionally putting themself in harm’s way above            ploited by those who preferred to erase their past or
+intentionally putting themself in harm's way above            ploited by those who preferred to erase their past or
 the threat level at which the policy was purchased,           adopt a new persona. These all make for a situation
 without first communicating with and rendering pay-           where identity records are patchwork at best. Officials
 ment to the insurer, the policy may be declared void.         must also rely on the security of other habitats for ID
@@ -13,9 +13,9 @@ If the leased morph dies under a voided policy and            verification. If a
 the character cannot pay to replace it, their posses-         from Qing Long in the Martian Trojans, and the
 sions and stored morph may be subject to seizure.             Nectar officials have no record of this person, they
    Seizure takes different forms depending upon the           can only trust that the Qing Long officials did their
-local economy and legal system. In hypercorp space,           job when verifying the subject’s ID and background.
+local economy and legal system. In hypercorp space,           job when verifying the subject's ID and background.
 it is a straightforward seizure of liquid assets, in-           To make matters worse, many autonomist habitats
-cluding forced uploading if the character’s morph is          operate without identity checks altogether. Though
+cluding forced uploading if the character's morph is          operate without identity checks altogether. Though
 seized. Elsewhere, the character is more likely to end        some ID measures are still used, both to prevent
 up owing a lot of favors or taking severe hits to their       reputation system gaming and to be able to identify
 reputation, but they are unlikely to undergo forced           bodies in the case of death, these uses are significantly
@@ -25,36 +25,36 @@ uploading or outright physical seizure of their morph.        more lax and few r
 IDENTITY                                                      ration of their stay (and sometimes any future visits).
 Given the nature of resleeving technologies, identity
 is a fluid concept in Eclipse Phase. Transhumans are          IDENTITY VERIFICATION
-used to the idea of identifying people by how they            There are three ways to verify someone’s identity:
+used to the idea of identifying people by how they            There are three ways to verify someone's identity:
 look or even by their biometric data, but this is no          nanotat scan, brainwave scan, and checking the cryp-
 longer a certified method. What you look like may             tographic hash on a digital mind.
 drastically change from one day to the next. You
-may see an olympian you recognize, but perhaps it’s           NANOTAT SCANS
-been awhile, so you’re no longer certain that it’s the        Special encoded nanobots are used to create a small
-same person still in that morph. If you’re sleeved in a       nanotat on a person’s index finger. These nanobots
+may see an olympian you recognize, but perhaps it's           NANOTAT SCANS
+been awhile, so you're no longer certain that it's the        Special encoded nanobots are used to create a small
+same person still in that morph. If you're sleeved in a       nanotat on a person's index finger. These nanobots
 popular off-the-rack morph, there may be hundreds             contain encoded information that includes their name
 of other cloned morphs that look exactly like you out         and identity, brainwave pattern, citizenship/legal status,
 there—perhaps useful if you desire to blend in. Simi-         credit account number, insurance information, and
 larly, security services can no longer rely on biometric      licenses. Depending on the local habitat laws, it may
 technologies. Forensics may be able to identify an indi-      include other information such as criminal history,
-vidual morph’s presence at a crime scene, but proving         travel history, restricted implants, employment records,
+vidual morph's presence at a crime scene, but proving         travel history, restricted implants, employment records,
 who was in that morph at the time is another matter.          and so on. This nanotat may be read by anyone with
    Identity is, of course, tied to ego, and various           a special ID scanner that reads the nanobot encoding.
 authorities have instituted verification and security            ID nanotats include information on the company
 measures based on this. Within the inner system, each         that did the resleeving, so that the data may be ac-
 ego is given an ID number, which is used to validate          cessed and verified with their records online. The data
 their identity, citizenship, legal status, credit accounts,   on the nanotat is also cryptographically signed with
-licensing, etc. This ego ID is verifiable by the person’s     the company’s public key, meaning that anyone who
+licensing, etc. This ego ID is verifiable by the person's     the company's public key, meaning that anyone who
 brainwave patterns, which remain the same even                checks the data and the signature online can tell if the
 when resleeving. When an ego uploads, the upload-             data has been altered.
 ing service is required to incorporate this ego ID into
-the person’s backup/infomorph. Likewise, when that            BRAINWAVE SCANS
+the person's backup/infomorph. Likewise, when that            BRAINWAVE SCANS
 person resleeves, the service handling the procedure          Brainwave scans are one of the few types of biometric
-is required by law to verify the ego’s ID before down-        prints that stay with an ego no matter what morph it
+is required by law to verify the ego's ID before down-        prints that stay with an ego no matter what morph it
 loading. The ego ID is then hardcoded into the morph          is in. They are impractical for most security purposes
 itself in the form of a nanotattoo on the tip of the per-     as they require a scan with a combination electroen-
-son’s index finger. This nanotat can be easily scanned        cephalogram and neuroimaging device, referred to as
+son's index finger. This nanotat can be easily scanned        cephalogram and neuroimaging device, referred to as
 at security checkpoints to verify identity.                   a brainprint scanner, which takes approximately 5
-   Though efficient, this system is far from perfect. For     minutes. This device measures the subject’s baseline
-one, ID record-keeping is far from standardized and           brainwave pattern as well as the subject’s brainwave
+   Though efficient, this system is far from perfect. For     minutes. This device measures the subject's baseline
+one, ID record-keeping is far from standardized and           brainwave pattern as well as the subject's brainwave
 varies drastically from habitat to habitat. Most do not       signature responses when they think certain thoughts

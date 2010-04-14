@@ -24,7 +24,7 @@
                                                                                 Deception       SAV      60          5            65
                                                                                        Fray     REF      45                       45
                                                                               Freerunning       SOM      35                       35
-                                                                                Inﬁltration     COO      40                       40
+                                                                                Infiltration     COO      40                       40
                                                                                    Infosec      COG      40                       40
                                                                Interests: Black Markets         COG      60                       60
                                                            Interests: Inner System Law          COG      50                       50
@@ -58,9 +58,9 @@ riminal) ■        Implants: Basic Biomods, Basic
                     swarm, Fake Ego ID, Guard-        ties. Someone has to provide the           who needs or craves the restricted
                     ian Bot, Muse, Nanobandage,       goods and services that the poor           and illegal on the other. You keep
                     Nanodetector, Overload            and clanking masses need, and              a step ahead of the law, providing
-                    Grenade, Servitor Bot, Shred-     you’re more than willing to meet           what you see as an essential role
-ight) + Armor       der (100 shots),                  their needs—and make some proﬁt            in society despite the ofﬁcial rules
-                    Vacsuit (Standard),               of your own while you’re at it. You        and restrictions that enhance your
-aser Pulser ■       Tactical Network Software ■       work as a middle man between the           proﬁt margins. ■
+                    Grenade, Servitor Bot, Shred-     you're more than willing to meet           what you see as an essential role
+ight) + Armor       der (100 shots),                  their needs—and make some profit            in society despite the official rules
+                    Vacsuit (Standard),               of your own while you're at it. You        and restrictions that enhance your
+aser Pulser ■       Tactical Network Software ■       work as a middle man between the           profit margins. ■
 
-             “I may have that, but it’s very hard to acquire. How much is it worth to you?”
+             “I may have that, but it's very hard to acquire. How much is it worth to you?”

@@ -1,9 +1,9 @@
 EIDETIC MEMORY (EGO OR MORPH TRAIT)                          INNOCUOUS (MORPH TRAIT)
 Cost: 10 CP                                                  Cost: 10 CP
   Much like a computer, the character has perfect              In an age when exotic appearances and good looks
-memory recall. They can remember anything they have          are commonplace, the morph’s look is surprisingly
+memory recall. They can remember anything they have          are commonplace, the morph's look is surprisingly
 sensed, often even from a single glance. This works the      bland and undistinguished, in that cookie cutter sort of
-same as the eidetic memory implant (p. 301).                 way. The character’s physical looks are so mundane that
+same as the eidetic memory implant (p. 301).                 way. The character's physical looks are so mundane that
                                                              others have a hard time picking them out of a crowd,
 EXCEPTIONAL APTITUDE                                         describing their appearance, or otherwise remember-
 Cost: 20 CP                                                  ing physical details. Apply a –10 modifier to all tests
@@ -37,7 +37,7 @@ to more readily deal with new contacts and slip right        Cost: 10 CP
 into new social environments. Apply a +10 modifier              The morph has a natural immunity to a specific
 on social skill tests when the character is interacting      drug, disease, or toxin. When afflicted with that spe-
 with another character for the first time only.              cific chemical, poison, or pathogen, the character re-
-                                                             mains unaffected. At the gamemaster’s discretion, this
+                                                             mains unaffected. At the gamemaster's discretion, this
 HYPER LINGUIST                                               immunity may not apply to certain agents. It may not
 Cost: 10 CP                                                  be applied to nanodrugs or nanotoxins. This trait is
    The character has an intuitive understanding of           only available to biomorphs.
@@ -48,11 +48,11 @@ language (see Improving Skills, p. 152). The character         The character has
 can also learn any human language in one day simply          ance and is better at ignoring the effects of pain on
 by constant immersive exposure to it. Additionally,          their abilities and concentration. Level 1 allows them
 the character receives a +10 modifier when attempting        to ignore the –10 modifier from 1 wound. Level
-to interpret languages they don’t know.                      2 allows them to ignore the –10 modifiers from 2
+to interpret languages they don't know.                      2 allows them to ignore the –10 modifiers from 2
                                                              wounds. This trait is only available for biomorphs.
 IMPROVED IMMUNE SYSTEM (MORPH TRAIT)
 Cost: 10 (Level 1) or 20 (Level 2) CP                        PATRON
-   The morph’s immune system is robust and more              Cost: 30 CP
+   The morph's immune system is robust and more              Cost: 30 CP
 resistant to diseases, drugs, and toxins—even more              The character has an influential person in their
 than basic bio-mods. At Level 1, apply a +10 modifier        life who can be relied on for occasional support.
 whenever making a test to resist infection or the ef-        This could be a wealthy hyperelite family member, a

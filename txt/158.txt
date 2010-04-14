@@ -38,7 +38,7 @@ ma (Clanking         Hearing, Enhanced Smell,           Pro
 hredder              Smart Dust, Tracking Software,   raking
                      Trike Exoskeleton ■              and in
                                                       helped
-                                     “What? No, I’m not rec
+                                     “What? No, I'm not rec
           Anything you have to say about the Hellas massac
  ANCE JOURNALIST
           APTITUDES
@@ -70,7 +70,7 @@ Academics: Psychology            COG       45                       45
               Freerunning        SOM       45           5           50
                   Gunnery        INT       45                       45
      Hardware: Robotics          COG       55                       55
-                Inﬁltration      COO       35                       35
+                Infiltration      COO       35                       35
                     Infosec      COG       40                       40
 s: Inner System Rumors           COG       55                       55
  erests: Martian Politics        COG       55                       55

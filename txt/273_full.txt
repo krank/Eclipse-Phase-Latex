@@ -7,7 +7,7 @@
   cult psychologically, as reflected by continuity (p. 272)     as an infomorph onto another device. This takes 1 full
   and alienation (p. 272).                                      Action Turn. See Infomorph Resleeving, p. 273.
     Once an ego fully inhabits a new morph, the new
-  morph’s cortical stack needs ten minutes to amass a           RESLEEVING COSTS
+  morph's cortical stack needs ten minutes to amass a           RESLEEVING COSTS
   complete backup of the ego.                                   The costs involved for the resleeving process itself are
                                                                 generally subsumed in the costs of the backup insur-
   RESLEEVING BIOMORPHS AND PODS                                 ance and/or the new sleeve itself. Costs for individual
@@ -15,12 +15,12 @@
   clinic. In essence, the process works like uploading in       139. See Morph Brokerage (p. 276) for rules on find-
   reverse. The new sleeve is hooked up to an ego bridge         ing and acquiring morphs.
   which infiltrates the brain with nanobots that physi-
-  cally restructure the brain’s neural structure and con-       INTEGRATION
+  cally restructure the brain's neural structure and con-       INTEGRATION
   nections according to the map provided by the backup.          Getting used to a new body typically takes some time.
   Sleeving takes six times as long as uploading because         The character must become acclimated to the changes
   the nanobot swarm working as a wet printer in the              in height, weight, sex, and capabilities, which often
   template brain needs to duplicate the entire physical          requires unlearning ways of doing things that worked
-  structure of the ego’s neural network. For resleeving, a       fine for their previous form. Resleeving in a synthetic
+  structure of the ego's neural network. For resleeving, a       fine for their previous form. Resleeving in a synthetic
  “wet” ego bridge is used, meaning that the sleeve and           morph or an uplift is also quite confusing at first,
   ego bridge are submerged in a vat filled with nanogel.         given the drastically different morphologies, change in
      The resleeving process for pods takes only half an hour,    limb structure (and sometimes amount of limbs), and
@@ -38,9 +38,9 @@
 
 
 RESLEEVING AND THE GAMEMASTER
-The gamemaster has a ﬁne amount of control over what a character can obtain when resleeving. The
+The gamemaster has a fine amount of control over what a character can obtain when resleeving. The
 characters may be supplied with new morphs by Firewall or whatever employer/patron for whom they are
-currently working. In this case, the gamemaster can simply assign whatever morphs they see ﬁt—with com-
+currently working. In this case, the gamemaster can simply assign whatever morphs they see fit—with com-
 plete control over enhancements, traits, etc. While morphs should be tailored for the mission at hand, this
 presents an opportunity for the gamemaster to throw the characters some new toys to play with and also
 some new challenges to overcome. Gamemasters are encouraged to mix it up, have fun, and give players
@@ -52,8 +52,8 @@ may be a waiting list for top-of-the-line sylphs or remade morphs, for example. 
 morphs are going to be subject to local legalities, so getting that reaper morph may be out of the question.
 Characters could always turn to black market morph providers, but these come with their own risks.
   What this means is that gamemasters should never be afraid to say no if a character is pursuing a morph
-that is unreasonable or potentially disruptive to the game. While it’s good form to give the players what they
+that is unreasonable or potentially disruptive to the game. While it's good form to give the players what they
 want once in a while, it also makes for more interesting roleplaying to saddle them with morphs that are
 a little different than what they were hoping for or that come with some interesting challenges, such as a
-physical addiction. For extra fun, leave the character unaware of a morph’s negative traits or secret implants
+physical addiction. For extra fun, leave the character unaware of a morph's negative traits or secret implants
 until they reveal themselves. As always, the goal is to have fun, but variety often helps with that.        ■

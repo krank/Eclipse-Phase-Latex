@@ -4,7 +4,7 @@
  hood, toward the center of the L4 Greeks. Vonarburg-
  Shadyside is named after two rocks that roughly
  delimit its 500,000-kilometer length along the arc of
- Jupiter’s orbit. Neighboring habitats within 100,000
+ Jupiter's orbit. Neighboring habitats within 100,000
  kilometers (with populations) include Craftsbury
  (450), Greenview (28), and Blackhawk (1020). With a
  population of 400, this station is more or less typical
@@ -23,7 +23,7 @@
  rotating cylindrical module that generates about 0.7 g
  and contains medical, cloning, resleeving, and darknet
  egocasting facilities.
-    Lot 49’s population and most of their neighbors
+    Lot 49's population and most of their neighbors
  in Vonarburg-Shadyside tend to align with the scum
  and anarchist factions and speak a mixture of English,
  Portuguese, and Thai. Lot 49 is in a densely inhabited
@@ -34,7 +34,7 @@
  SATURN
  The second largest planet in the system is a much
  more favorable habitat for transhumans than Jupiter.
- Saturn’s lower gravity and milder magnetosphere are
+ Saturn's lower gravity and milder magnetosphere are
  a boon to gas mining operations, and for resource-
  hungry habs, the Rings are a feast (literally, in the case
  of the new Hamilton cylinder type habitats). Hyper-
@@ -48,7 +48,7 @@ GATE EXPEDITION REPORT 901127
                 Gate Code Setting: [Encrypted]            commu
                 Gatekeeper Corporation Eyes Only          magne
                    Preliminary drone and sensor reports   had rep
-                seemed to indicate the gate’s exo-        moving
+                seemed to indicate the gate's exo-        moving
                 planet environs were underground in       warren
                 a cavern formed of carbonaceous rock         The
                 with a nitrogen dioxide atmosphere.          Two
@@ -78,7 +78,7 @@ GATE EXPEDITION REPORT 901127
 
     RESOURCES AND ECONOMICS
     Gas mining on Saturn supplies thirty percent of the
-    system’s reactor mass. This role is expected to grow
+    system's reactor mass. This role is expected to grow
     as Helium-3 deposits in the Lunar regolith become
     less accessible. For ships traveling to the far reaches
     of the outer system, Saturn is an important alterna-
@@ -92,7 +92,7 @@ GATE EXPEDITION REPORT 901127
     conventional means.
 
     THE RINGS AND CLASSICAL MINOR MOONS
-    Saturn’s rings are made up of countless small icy ob-
+    Saturn's rings are made up of countless small icy ob-
     jects, most of which range in size from dust specks to
     boulders 10 meters in diameter. The rings are desig-
     nated by the letters “A” through “F” in the order in
@@ -113,9 +113,9 @@ d nothing more notable than      The drone was detached from its tether
   was not heard from again.      event, and communication with the
 rs after contact was lost, a     drone was also lost.
 arch and rescue drone was           The gate was kept active for 8 more
-ollowing the gatecrashers’       hours—the duration of the contract—
+ollowing the gatecrashers'       hours—the duration of the contract—
 b trail, near the limits of      with no sign of activity. The gate was
  nge the drone came upon         then closed, the team reported as lost/
 ared to be a severed hand        unretrievable, and the gate settings
- glove. DNA testing did not      were recorded with an orange ﬂag.
+ glove. DNA testing did not      were recorded with an orange flag.
   hand as belonging to any

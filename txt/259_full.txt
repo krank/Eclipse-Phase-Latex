@@ -1,6 +1,6 @@
                                                             back in. For intruders, this means making an Infosec
 INTRUSION COUNTERMEASURES                                   Test, modified by –10 for the passive alert, to satisfy
-If an intruding hacker fails to penetrate a system’s        the system that they are a legitimate user.
+If an intruding hacker fails to penetrate a system's        the system that they are a legitimate user.
 defenses (i.e., they are Spotted or Locked, see p. 256),
 then the system goes on alert and activates certain         REDUCE PRIVILEGES
 defenses. The nature of the applied countermeasures         As a protective measure, some systems will immedi-
@@ -9,16 +9,16 @@ of its security defender(s), and the policy of its owner/   users, and sometimes
 admins. While some nodes will simply seek to kick           common tactic is to protect all logs, backing them up
 the intruder out and keep them shut out, others will        and making sure no one has rights to delete them.
 actively counterattack, seeking to track the intruder
-and potentially hack the intruder’s own PAN.                ACTIVE COUNTERMEASURES
+and potentially hack the intruder's own PAN.                ACTIVE COUNTERMEASURES
                                                             Active countermeasures can only be launched if the
 SECURITY ALERTS                                             intruder has acquired Locked status.
 Security alerts come in two flavors: passive and active.
                                                             COUNTERINTRUSION
 PASSIVE ALERT                                               A security hacker or guardian AI can proactively
-Passive alerts are triggered when an intruder hits Spot-    defend a system by attacking the intruder’s source. For
+Passive alerts are triggered when an intruder hits Spot-    defend a system by attacking the intruder's source. For
 ted status. The system immediately flags a visual or        this to occur, the intruder must first be successfully
 acoustic cue to anyone actively monitoring the system       traced (p. 251). Once this occurs, the security forces
-and possibly the owner or admins. It immediately            can then launch their own intrusion on the hacker’s
+and possibly the owner or admins. It immediately            can then launch their own intrusion on the hacker's
 launches one or more passive countermeasures (see           home ecto/mesh inserts and/or PAN.
 below). Depending on the system, extra security hack-
 ers or AIs may be brought in to help investigate. If the    LOCKOUT

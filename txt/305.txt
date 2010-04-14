@@ -1,9 +1,9 @@
   USING ENHANCED SEN
-  also detects the blood ﬂow in a biomorph’s face
+  also detects the blood flow in a biomorph's face
   which can be useful in judging emotional states
-  (+20 modiﬁer to Kinesics Tests), and can spot sub
+  (+20 modifier to Kinesics Tests), and can spot sub
   surface implants. Some normally white surfaces
-  are reﬂective (mirrored) in infrared, potentially
+  are reflective (mirrored) in infrared, potentially
   allowing an infrared viewer to see around corners
   or behind themselves. On the other hand, some
   glass is opaque to infrared light. Infrared is also
@@ -13,23 +13,23 @@
      Lidar (Visible Light): Similar to radar, but with
   much higher resolution, lidar actively bounces light
   from the infrared through ultraviolet spectrum off
-  a target and measures the backscatter, ﬂuorescence
+  a target and measures the backscatter, fluorescence
   and other properties. Lidar is very useful for detect-
   ing atmospheric chemical properties and weather.
-  Like radar, it can be used to measure a target’s
+  Like radar, it can be used to measure a target's
   range and speed, or develop a three-dimensional
   image. One clever use of lidar is to precisely “map”
   the position of everything in a room (taking several
   turns of scanning) and then check that positioning
   later to see if anything has been moved.
-     Ultraviolet: Some objects are ﬂuorescent in ultra
-  violet light, including some animals, ﬂowers, insects
+     Ultraviolet: Some objects are fluorescent in ultra
+  violet light, including some animals, flowers, insects
   urine, and minerals (which show up much better
   in ultraviolet than regular light). Some plants and
   animals have patterns that can only be seen in ultra-
   violet. Likewise, chemical dyes that only show up
   under ultraviolet, or that make certain substances
-  (like blood) ﬂuoresce under ultraviolet light, have
+  (like blood) fluoresce under ultraviolet light, have
   various security purposes. Some glass is opaque at
   ultraviolet wavelengths.
      X-Ray/Gamma-Ray: Backscatter imaging systems
@@ -44,14 +44,14 @@
 
 
   Bioweave Armor (Heavy): Heavy bioweave armor
-involves lacing the morph’s skin with a denser and
-thicker network of the same fi bers. The morph’s
+involves lacing the morph's skin with a denser and
+thicker network of the same fi bers. The morph's
 skin becomes thicker and somewhat less fl exible
-except at the joints. The morph’s skin also has an
+except at the joints. The morph's skin also has an
 unusually smooth look, and a distinctively smooth
 and tough-feeling texture. This provides an Armor
-rating of 3/4 without decreasing the morph’s mo-
-bility. The character’s sense of touch, however, is
+rating of 3/4 without decreasing the morph's mo-
+bility. The character's sense of touch, however, is
 significantly reduced (–20 modifier) except on their
 hands, feet, and face. This armor is cumulative with
 worn armor. [Moderate]
@@ -105,11 +105,11 @@ dimensional map of a building and everyone and
    a chitin-ceramic hybrid material modeled on the
    microscopic structure and texture of arthropod exo-
    skeletons. This armor is obvious and has a somewhat
-   crocodilian or insectoid appearance (character’s
+   crocodilian or insectoid appearance (character's
    choice). The morph is completely hairless as well. This
    provides an Armor rating of 11/11. This armor is not
    cumulative with worn armor. [Moderate]
-      Chameleon Skin: The morph’s skin is augmented
+      Chameleon Skin: The morph's skin is augmented
    with complex chromatophores so that it changes color
    like the skin of a chameleon or an octopus. The morph
    can match the appearance of almost any color and

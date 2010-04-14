@@ -1,32 +1,32 @@
   Each learned skill is linked to an aptitude. If a
-character doesn’t have the skill necessary for a test,
+character doesn't have the skill necessary for a test,
 they may default to the aptitude instead (see Default-
 ing, p. 116).
   There are 7 aptitudes in Eclipse Phase:
 
- • Cognition (COG) is your aptitude for problem-
+ - Cognition (COG) is your aptitude for problem-
    solving, logical analysis, and understanding. It
    also includes memory and recall.
- • Coordination (COO) is your skill at integrat-
+ - Coordination (COO) is your skill at integrat-
    ing the actions of different parts of your morph
    to produce smooth, successful movements. It
    includes manual dexterity, fine motor control,
    nimbleness, and balance.
- • Intuition (INT) is your skill at following your
+ - Intuition (INT) is your skill at following your
    gut instincts and evaluating on the fly. It includes
    physical awareness, cleverness, and cunning.
- • Reflexes (REF) is your skill at acting quickly. This
+ - Reflexes (REF) is your skill at acting quickly. This
    encompasses your reaction time, your gut-level
    response, and your ability to think fast.
- • Savvy (SAV) is your mental adaptability, social in-
+ - Savvy (SAV) is your mental adaptability, social in-
    tuition, and proficiency for interacting with others.
    It includes social awareness and manipulation.
- • Somatics (SOM) is your skill at pushing your
+ - Somatics (SOM) is your skill at pushing your
    morph to the best of its physical ability, includ-
-   ing the fundamental utilization of the morph’s
+   ing the fundamental utilization of the morph's
    strength, endurance, and sustained positioning
    and motion.
- • Willpower (WIL) is your skill for self-control,
+ - Willpower (WIL) is your skill for self-control,
    your ability to command your own destiny.
 
 LEARNED SKILLS
@@ -57,7 +57,7 @@ Specializations represent an area of concentration and
 focus in a particular learned skill. A character who
 learns a specialization is one who not only grasps the
 basic tenets of that skill, but they have trained hard
-to excel in one particular aspect of that skill’s field.
+to excel in one particular aspect of that skill's field.
 Specializations apply a +10 modifier when the charac-
 ter utilizes that skill in the area of specialization.
    Specializations may be purchased during character
@@ -75,8 +75,8 @@ vidual the skill descriptions (see Skills, p. 170).
 
                                                            EXAMPLE
   tion in Pickpocketing. Whenever he uses Palming
-  to pick someone’s pocket or otherwise steal from
-  someone’s person, his target number is 73, but for
+  to pick someone's pocket or otherwise steal from
+  someone's person, his target number is 73, but for
   all other uses of Palming the standard 63 applies.
 
 
@@ -88,8 +88,8 @@ certain stats, skills, or tests, or otherwise give them
 an edge in certain situations. Others are negative, in
 that they impair your abilities or occasionally create
 a glitch in your plans. Some traits apply to a charac-
-ter’s ego, staying with them from body to body, while
-others only apply to a character’s morph.
+ter's ego, staying with them from body to body, while
+others only apply to a character's morph.
   Traits are purchased during character generation.
 Positive traits cost customization points (CP), while
 negative traits give you extra CP to spend on other
@@ -104,9 +104,9 @@ CHARACTER MORPH
 In Eclipse Phase, your body is disposable. If your body
 gets old, sick, or too heavily damaged, you can digitize
 your consciousness and download it into a new body.
-The process isn’t cheap or easy, but it offers effective
+The process isn't cheap or easy, but it offers effective
 immortality—as long as you remember to back your-
-self up and don’t go insane. The term morph is used to
+self up and don't go insane. The term morph is used to
 describe any type of form your mind inhabits, whether
 it be a vat-grown clone sleeve, a synthetic robotic shell,
 a part-bio/part-flesh pod, or even the purely electronic
@@ -114,7 +114,7 @@ software state of an infomorph.
    You purchase your starting morph during character
 creation (see p. 128). This is likely the morph you
 were born with (assuming you were born), though it
-may simply be another morph you’ve moved onto.
+may simply be another morph you've moved onto.
    Physical looks aside, your morph has a large impact
 on your characteristics. Your morph determines certain
 physical stats, such as Durability and Wound Threshold,

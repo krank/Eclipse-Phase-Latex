@@ -135,7 +135,7 @@ king:             of your choice, +20 Networking:
                   Autonomists skill
 Pilot:          Socialite: +10 Persuasion skill, +10
 +10 to            Protocol skill, +20 Networking: Media
-d], or            skill, may not start with ﬂat, pod,
+d], or            skill, may not start with flat, pod,
 our choice,       uplift, or synthetic morphs
  ] skill of     Titanian: +10 to two Technical or
                   Academic skills of your choice, +20

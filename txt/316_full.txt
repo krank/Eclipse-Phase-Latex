@@ -17,7 +17,7 @@ be intercepted like radio. [Moderate]                     found in habitats or l
    Radio Booster: This device boosts the range and        size of this device includes the computer necessary for
 sensitivity of short-range radios, like those from im-    quantum farcasting. [Expensive]
 plants, ectos, or microbugs. The booster must be with
-the shorter-ranged device’s range (or directly linked     QUANTUM FARCASTERS
+the shorter-ranged device's range (or directly linked     QUANTUM FARCASTERS
 via fiberoptic cable). It will repeat any transmissions   Quantum farcasters are special computers designed to
 received from that device, but at its extended range of   protect a communications channel (such as fiberoptic,
 25 kilometers in urban areas (250 kilometers remote       radio, laser/microwave, or neutrino) with unbreak-

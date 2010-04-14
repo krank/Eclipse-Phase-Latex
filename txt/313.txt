@@ -32,7 +32,7 @@ united with other modules, the group is treated as a
 tributed evenly between modules; uneven amounts are
  allocated randomly. The exact capabilities of different
  shapes depends on the composition, and is largely left
-in the gamemaster’s hands. [High]
+in the gamemaster's hands. [High]
     Pneumatic Limbs: The limbs are equipped with
 pneumatic cylinder systems that can generate up to
 1,500 pounds of thrust. This allows the shell to push
@@ -41,8 +41,8 @@ off and make impressive jumps (a synth of human
 Freerunning Tests. A pneumatic limb used to strike an
 opponent in unarmed combat inflicts an extra 1d10
 damage. [Low]
-    Retracting/Telescoping Limbs: The shell’s limbs can
- either be retracted completely inside it’s frame and/or
+    Retracting/Telescoping Limbs: The shell's limbs can
+ either be retracted completely inside it's frame and/or
  extended for extra length (usually up to 1 or 2 meters
  extra). Telescoping limbs may give the shell a reach
  advantage in melee combat (p. 204). [Low]
@@ -59,7 +59,7 @@ This mod also allows the morph to change its features
 for disguise purposes; apply a +30 modifier to Dis-
  guise Tests. [High]
    Structural Enhancement: This modification bolsters
-the shell’s structural integrity, boosting its ability to
+the shell's structural integrity, boosting its ability to
 take damage. Increase Durability by 10 and Wound
 Threshold by 2. [Moderate]
    Swarm Composition: The shell is not a single unit
@@ -85,7 +85,7 @@ fully sculpted to pass as a biomorph (perhaps even a
 particular person). The morph can cry, spit, have sex,
 and will even bleed if cut. Only a detailed physical
 examination or a radar, teraherz, or x-ray scan will
-detect the synthmorph’s true nature, and even then
+detect the synthmorph's true nature, and even then
 such exams/scans suffer a –30 modifier. [Moderate]
    Weapon Mount: The shell carries a built-in (or built-
 on) weapon. This weapon mount may be either internal
@@ -96,7 +96,7 @@ may fit, –30 to Perception Tests to detect) or external
 directions). [Low; Moderate for concealed/articulated]
 
 SENSORS
-360° Vision: The shell’s visual sensors are situated for
+360° Vision: The shell's visual sensors are situated for
 a 360-degree field of vision. [Low]
    Chemical Sniffer: This sensor detects molecules in the
 air and analyzes their chemical composition. It enables
@@ -106,7 +106,7 @@ presence of explosives and firearms. [Moderate]
    Lidar: This sensor emits laser light and measures
 the reflections to judge range, speed, and image the
 target. See Using Enhanced Senses, p. 302. [Low]
-   Nanoscopic Vision: The shell’s visual sensors can
+   Nanoscopic Vision: The shell's visual sensors can
 focus like a microscope, using advanced superlens
 techniques to beat the optical diffraction limit and
 image objects as small as a nanometer. This allows

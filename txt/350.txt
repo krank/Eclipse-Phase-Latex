@@ -14,7 +14,7 @@
  in common use, destroyers use an antimatter drive
  holding 150 tons of antimatter in a 2,000-ton mag-
  netic containment vessel. This antimatter can also
- be used to provide the spacecraft’s missiles with
+ be used to provide the spacecraft's missiles with
  anti-matter for devastatingly powerful anti-matter
  warheads. This spacecraft is also armed with
  railguns, nuclear and high explosive missiles, and
@@ -66,7 +66,7 @@ Standard Transport                        200
  magnetic shielding against charged particle radiation.
  All models are fitted with advanced AI piloting and
  navigation as well as limited self-repair capacity. In
- addition, GEV’s have an extensible airlock, a single
+ addition, GEV's have an extensible airlock, a single
  healing vat, several desktop CMs, and a variety of
  sensors, including both radar and telescopic full spec-
  trum cameras.

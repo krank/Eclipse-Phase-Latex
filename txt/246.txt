@@ -88,11 +88,11 @@ Eclipse Phase have grown up with a muse at their
 virtual side. Muses tend to have a bit more personality
 and psychological programming than standard AIs and
 over time they build up an extensive database of their
-user’s preferences, likes and dislikes, and personality
+user's preferences, likes and dislikes, and personality
 quirks so that they may more effectively be of service
 and anticipate needs. Muses generally have names
-and reside within the character’s mesh inserts or ecto,
-where they can manage the character’s personal area
+and reside within the character's mesh inserts or ecto,
+where they can manage the character's personal area
 network, communications, data queries, and so on.
 
 AGIS

@@ -20,15 +20,15 @@
 FORKING AND MERGING
 With all of these backups of transhuman minds on
 file and an abundance of mesh space on which to run
-them as virtual brains, one might wonder what’s to
+them as virtual brains, one might wonder what's to
 stop post-Fall transhumanity from multiplying its
 numbers by running additional copies of them. The
 short answer is: nothing, aside from massive social
 stigma and thorny psychological issues. Taking a
 backup of a transhuman mind, copying it, and re-
-instancing it as an infomorph is called forking. It’s one
+instancing it as an infomorph is called forking. It's one
 of the most useful and still-controversial applications
-of transhumanity’s brain science.
+of transhumanity's brain science.
    There are four classifications of forks: alpha, beta,
 delta, and gamma. Though typically copied as info-
 morphs, there is nothing preventing a fork from being
@@ -41,7 +41,7 @@ re-instanced as a separate infomorph. An alpha fork
 may be created by copying and running an infomorph
 (from a backup, infomorph, synthmorph cyberbrain,
 or directly from the cortical stack). Alpha forks are an
-exact copy of the character’s ego, with all of the same
+exact copy of the character's ego, with all of the same
 skills, memories, stats, traits, personality, etc. New
 alpha forks must make an Alienation Test (p. 272),
 and possibly a Continuity Test (p. 272) if copied from
@@ -84,14 +84,14 @@ Backup from archive
  are commonly used as digital aids or to represent the
  original ego when communicating with others over
  great distances.
-   A beta fork’s stats are determined as follows:
+   A beta fork's stats are determined as follows:
 
-  • Reduce all aptitudes by 5 (to a minimum of 1).
+  - Reduce all aptitudes by 5 (to a minimum of 1).
     This affects all skills as well. Likewise, this re-
     duces LUC by 10 and INIT by 20.
-  • Active skills have a maximum value of 60.
-  • Moxie is reduced to 1.
-  • The Psi trait is removed. At the gamemaster’s dis-
+  - Active skills have a maximum value of 60.
+  - Moxie is reduced to 1.
+  - The Psi trait is removed. At the gamemaster's dis-
     cretion, other traits may no longer apply as well.
 
    Additional changes may apply as determined by
@@ -101,16 +101,16 @@ Backup from archive
  DELTA FORKS
 Delta forks are extremely limited copies of an ego.
 They are more akin to AI templates upon which
-the ego’s surface personality traits are imprinted.
+the ego's surface personality traits are imprinted.
 Also created via neural pruning, delta forks are
 highly functional (as competent as a beta fork or
 AI) but have extremely limited skills and heav-
 ily edited memories, usually to the point of being
 functional amnesiacs.
-   A delta fork’s stats are determined as follows:
+   A delta fork's stats are determined as follows:
 
-  • Reduce all aptitudes by 10 (to a minimum of 1).
+  - Reduce all aptitudes by 10 (to a minimum of 1).
     This affects all skills as well. Likewise, this re-
     duces LUC by 20 and INIT by 40.
-  • Active skills have a maximum value of 40. The
+  - Active skills have a maximum value of 40. The
     fork may have no more than 5 Active skills.

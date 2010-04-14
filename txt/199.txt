@@ -6,7 +6,7 @@ cause the jammer experienced being killed/destroyed.
 As a result, the jammer suffers 1d10 mental stress.
 
 CALLED SHOTS
-   Sometimes it’s not enough to just hit your target—
+   Sometimes it's not enough to just hit your target—
 you need to shoot out a window, knock the knife out
 of their hand, or hit that hole in their armor. You may
 declare that you are making a called shot before you
@@ -14,22 +14,22 @@ initiate an attack, choosing one of the outcomes noted
 below. Called shots suffer a –10 modifier and require
 an Excellent Success (MoS 30+). If you beat that
 margin, you succeed with the called shot, and the re-
-sults noted below apply. If you don’t beat the margin
+sults noted below apply. If you don't beat the margin
 but still succeed in the attack, you simply strike your
 target as normal.
 
 BYPASSING ARMOR
 Called shots may be used to target a hole or weak
-point in your opponent’s armor. If you beat the MoS,
+point in your opponent's armor. If you beat the MoS,
 you strike an armor-defeating hit, and their armor
 does not apply. Note that in certain circumstances, a
-gamemaster may rule that an opponent’s armor simply
-doesn’t have a weak spot or unprotected area, and so
+gamemaster may rule that an opponent's armor simply
+doesn't have a weak spot or unprotected area, and so
 disallow such called shots.
 
 DISARMING
 You may take a called shot to attempt to knock a
-weapon out of an opponent’s hand(s). If you beat the
+weapon out of an opponent's hand(s). If you beat the
 MoS, the victim suffers half damage from the attack (re-
 duced by armor as normal) and must make a SOM x 3
 Test with a –30 modifier to retain hold of the weapon.
@@ -38,7 +38,7 @@ SPECIFIC TARGETING
 You may make a called shot with the intention of hitting
 a specific location or component on your target—for
 example: disabling the sensor unit on a bot, sweeping
-someone’s leg, or poking someone in the eye. If you beat
+someone's leg, or poking someone in the eye. If you beat
 the MoS, you hit the specific targeted spot. The game-
 master determines the result as appropriate to the attack
 and target—the component may be destroyed, the op-
@@ -81,7 +81,7 @@ a weak point could double the damage inflicted on
 that structure. Shaping the charge to direct the force
 can triple the damage in that direction, as noted in
 the superthermite description (p. 330). An Excellent
-Success is likely to increase an explosive’s damage by
+Success is likely to increase an explosive's damage by
 +5, whereas a critical success would allow the blast to
 ignore armor.
 

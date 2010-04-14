@@ -1,8 +1,8 @@
 GEAR SIZES                                                        effectively the character conceals the equipment, make
-On occasion, you’ll need to know how small or large               a Palming Test and note the MoS (the gamemaster
+On occasion, you'll need to know how small or large               a Palming Test and note the MoS (the gamemaster
 a certain piece of equipment is. Though this is largely           may wish to roll this secretly). Whenever another
 something the gamemaster can wing on the fly using                character has a chance to notice the concealed item,
-common sense, we’ve listed sizes for many gear items              they must succeed in a Perception Test and achieve
+common sense, we've listed sizes for many gear items              they must succeed in a Perception Test and achieve
 that are unusual or so futuristic that the average player         a higher MoS than was scored on the Palming Test.
 may not have a feel for what dimensions the tech                  The gamemaster should apply modifiers to both tests
 likely is. These size categories are listed on the Gear           as appropriate. For example, concealing a large item
@@ -20,7 +20,7 @@ be slowed down, suffering negative modifiers both                 early 21st cen
 to their movement rates and their skill tests. Rather             a transparent container holding a brightly colored
 than micromanaging the weights of individual pieces               liquid, clothing is obviously something you wear, and
 of equipment, however, this matter is largely left to             a knife still consists of a blade and a handle. The ma-
-the gamemaster’s discretion, using common sense. If a             terials, processes, and mindsets that go into making
+the gamemaster's discretion, using common sense. If a             terials, processes, and mindsets that go into making
 character loads up beyond reason, apply modifiers as              them, however, are quite different. To start, very few
 seem appropriate. The gamemaster should, however,                 items look have a uniform, mass-produced look, even
 keep in mind that many of the manufacturing mate-                 if they were. The procedures of minifacturing and
@@ -36,7 +36,7 @@ person, hoping at least to hide them from casual                  and ease-of-us
 notice if not an intensive search. To determine how               pleasing colors, and form-fitting shapes are common.
                                                                   Many items of personal technology, such as flashlights
                                                                   or small tools, are made in the form of ovoids that
-                 GEAR SIZES                                       fit comfortably in the user’s hand or in similar forms
+                 GEAR SIZES                                       fit comfortably in the user's hand or in similar forms
                                                                   that can be easily worn or attached to clothing. To
 SIZE CATEGORY GENERAL DIMENSIONS AND NOTES                        someone from the 20th century, many common
                 So small that the item cannot be seen without     devices look like oddly colored rocks or decorative
@@ -49,7 +49,7 @@ Micro                                                             to smart mater
                 visible small dot to an average insect.
                 Mini items may be concealed within some-          als with unusual physical properties. In practice, this
 Mini                                                              means that most items are light, durable (with both
-                one’s palm or small pockets.
+                one's palm or small pockets.
                                                                   tensile strength and/or flexibility, as needed), water-
                 Small items may be held in one hand and
 Small                                                             proof, dirt-repellent, and self-cleaning. Most gear is
@@ -61,7 +61,7 @@ Small                                                             proof, dirt-re
                                                                   stuck to a surface with grip pads.
 Medium          ter bottle to the size of a medium dog. They do
                                                                      Almost all gear available in Eclipse Phase is also
-                not ﬁt in pockets, but they may be concealed
+                not fit in pockets, but they may be concealed
                                                                   available in forms that are wearable/usable by up-
                 by larger coverings.
                                                                   lifted animals and non-humanoid morphs, such

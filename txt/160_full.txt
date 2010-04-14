@@ -30,7 +30,7 @@
                                                                   Hardware: Industrial         COG       45                       45
                                                                   Hardware: Robotics           COG       55                       55
                                                                          Impersonation         SAV       45                       45
-                                                                              Inﬁltration      COO       60                       60
+                                                                              Infiltration      COO       60                       60
                                                                                  Infosec       COG       70                       70
                                                       Interests: Hacker Mesh Forums            COG       55                       55
                                                              Interests: Online Banking         COG       50                       50
@@ -58,7 +58,7 @@ me ■                Sense, Enhanced Vision, Lidar,     Profession: Social Engi
                   Gear: Automech, Backup Insur-
                     ance (1 month), EMP Grenade,     There's never been a system you            of course, but you've never let moral-
                     Exploit Software, Fake Ego       couldn't crack, given time. That's what    ity get in your way. In fact, you make a
-                    ID, Guardian Bot, Guardians      got you put away the ﬁrst time, but now    good living selling your talents to crimi-
+                    ID, Guardian Bot, Guardians      got you put away the first time, but now    good living selling your talents to crimi-
                     Nanoswarm, Saboteur              that you have a second chance you'll       nal groups like the triads and ID Crew.
 one ■               Nanoswarm, Servitor Bot,         never get caught again. You take pride     You've never been a joiner, though—
 0■                  Sniffer Software, Spoof          at circumventing firewalls and mesh        you remain strictly freelance. In fact,

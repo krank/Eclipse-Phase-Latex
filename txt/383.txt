@@ -4,7 +4,7 @@ ated by transhumanity (by the Singularity Foundation)
 before the Fall. Specifically developed as “friendly”
 AIs, the Prometheans are programmed to consider
 themselves part of the transhuman family and to act
-in transhumanity’s best interests. They played a key
+in transhumanity's best interests. They played a key
 role during the Fall, mitigating the damage inflicted
 by the TITANs and even managing to counteract the
 Exsurgent virus to a large degree. During these trying
@@ -71,7 +71,7 @@ and defense directives they have adapted most of their
 own self-interests. Given this and their recursively-
 improved intelligence capabilities, it is likely that the
 TITANs are far removed from transhuman interests
-and modes of thinking. It’s impossible to say how they
+and modes of thinking. It's impossible to say how they
 would have interacted with transhumanity if history
 had played out differently, but it is unlikely that they
 would have considered themselves part of the trans-
@@ -81,7 +81,7 @@ supportive terms with transhumanity.
 at the end of the Fall, no one is quite sure exactly
 what happened or why. It is known that the onslaught
 of TITAN mesh attacks suddenly broke off in the
-wake of transhumanity’s off-planet exodus, and that
+wake of transhumanity's off-planet exodus, and that
 the bulk of TITAN activity on Earth and around the
 system came to a distinct halt. After the discovery
 of the Pandora Gates, it was widely assumed that
@@ -117,4 +117,4 @@ they have in the vastness of space.
 ily unified. They have different agendas and goals and
 may very well come into conflict with one another.
 Though all have been corrupted and subverted by the
-Exsurgent virus, and so they act according to the ETI’s
+Exsurgent virus, and so they act according to the ETI's

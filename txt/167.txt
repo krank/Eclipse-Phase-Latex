@@ -26,7 +26,7 @@ SCUM ENFORCER
                               Fray   REF       70          5
                          Free Fall   REF       60          5
              Hardware: Armorer       COG       40
-                       Inﬁltration   COO       50          5
+                       Infiltration   COO       50          5
         Interests: Drug Dealers      COG       50
              Interests: Gambling     COG       40
          Interests: Scum Gangs       COG       50
@@ -50,7 +50,7 @@ SCUM ENFORCER
 
 
 Those jokers in the inner               the universe end. Rig
-system just don’t get it—the            you get your kicks with
+system just don't get it—the            you get your kicks with
 future is about taking life by the      either the violent or kink
 enhanced reproductive organs            sometimes both. You th
 and squeezing every juicy drop          tough chick who will sm
@@ -60,7 +60,7 @@ your bodies and mind, and you           during the day, but the
 plan to enjoy the hell out of it        is taking home a differe
 until maybe you get to watch            ner every night. ■
                                                “Oi! Pretty boy!
-                                              then you’re never
+                                              then you're never
 ES
 WIL
 10
@@ -117,11 +117,11 @@ tion,                                         Gear: Backup
 nd—        EQUIPMENT                            (1 month),
  as a      Armor: Bioweave Armor (Light)        (2 doses),
 k the        + Body Armor (Heavy) with          100 rounds
- eat-        Offensive Armor and Shock          Monoﬁlam
+ eat-        Offensive Armor and Shock          Monofilam
 ents         Proof mods [15/16] ■               Nanoband
 l fun      Primary Weapon: Kinetic Pistol       Gloves, Ta
 part-        (100 rounds regular ammo) ■        Software,
            Starting Credit: 1,000 ■
 
- at’s the best punch you can throw,
+ at's the best punch you can throw,
 nna get to see the rest of my mods!”

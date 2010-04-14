@@ -27,7 +27,7 @@
                                                                                     Free Fall    REF      45                       45
                                                                     Hardware: Electronics        COG      40           5           45
                                                                       Hardware: Industrial       COG      40           5           45
-                                                                                  Inﬁltration    COO      50           5           55
+                                                                                  Infiltration    COO      50           5           55
                                                                  Interests: Post-Fall Earth      COG      40           5           45
                                                                 Interests: Ruined Habitats       COG      55           5           60
                                                              Interests: Spaceship Models         COG      40           5           45
@@ -66,5 +66,5 @@ tandard                 (Standard), X-Ray Emitter ■
 ■                       (1d10 DV, use Unarmed Combat      ceeded in despoiling and abandon-       hope to take the planet back. Your
                         skill), Ink Attack (blinding),    ing the home planet you all shared.     ultimate dream is to someday swim
                         360-degree Vision ■               Nevertheless, you find all the ruins    in the oceans of your ancestors. ■
-                  “Maybe it’s the kind of trap that would catch a knuckle-dragging monkey,
+                  “Maybe it's the kind of trap that would catch a knuckle-dragging monkey,
                      but my superior physiology was able to easily squeeze out of it.”

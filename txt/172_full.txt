@@ -15,4 +15,4 @@ LLS
 6                                                   Combat   Mental     Physical     Social     Technical     Vehicle
 
 
-                                                                   Psi (You’ll need the Psi Trait to use Psi skills!)
+                                                                   Psi (You'll need the Psi Trait to use Psi skills!)

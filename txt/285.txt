@@ -1,6 +1,6 @@
   Finally, though rare, some habitats go so far as to
 charge all visitors an “air tax”—a fee for using the
-station’s publicly available resources while they are
+station's publicly available resources while they are
 present. This is generally only common in isolated
 habitats with strained resources, and is considered
 especially obnoxious by most autonomists.
@@ -23,7 +23,7 @@ armed sentry bots are a particular danger.
 ELECTRONIC ARRIVALS
 Arrivals by egocast are sometimes interviewed by
 habitat authorities in a simulspace before resleeving.
-Depending upon the habitat’s attitude toward civil
+Depending upon the habitat's attitude toward civil
 rights, this process can be relatively reasonable or
 quite invasive. A minimal entry inspection includes an
 ID check, a brief interview with a customs AI, and a
@@ -36,7 +36,7 @@ ment—station authorities can simply file them away
 in cold storage if they choose—so it is wise to investi-
 gate custom procedures before you send yourself over.
    Because many people, particularly autonomists and
-brinkers, don’t appreciate this kind of reception, vari-
+brinkers, don't appreciate this kind of reception, vari-
 ous uploading services have stepped in to provide pre-
 customs resleeving for characters traveling to habitats
 with suspect screening methods. For often-exorbitant
@@ -100,20 +100,20 @@ one direction, which pushes the spacecraft in the oppo-
 site direction. Travel over any major distance typically
 involves a period of high-acceleration burn for several
 hours at the beginning of the flight, where up to half of
-the reaction mass is spent to drive up the craft’s veloc-
+the reaction mass is spent to drive up the craft's veloc-
 ity. The ship then coasts for the majority of the flight at
 that speed, until it approaches its destination, where it
 flips over and burns an equal amount of reaction mass
 in the opposite direction to decrease velocity.
    Though some craft burn half their reaction mass
-to get up to the best speed possible, this doesn’t leave
+to get up to the best speed possible, this doesn't leave
 much room for additional maneuvering or emergen-
 cies. Many craft therefore only burn up to a quarter
 or a third of their fuel in initial accelerations, so they
 have some to spare in case they need it. A few tricks
 can be used to save fuel and build speed, such as sling-
 shotting around the gravity wells of larger planets or
-aerobraking in a planet’s upper atmosphere.
+aerobraking in a planet's upper atmosphere.
    Travel times between locations are constantly
 changing as various bodies move in their orbits
 around the solar system. Within a cluster or planetary

@@ -7,11 +7,11 @@ Roleplaying games are about creating drama and
 adventure, and that usually means action and
 combat. Action and combat scenes are the moments
 when the adrenaline really gets pumping and the
-characters’ lives and missions are on the line.
+characters' lives and missions are on the line.
   Combat and action scenarios can be confusing
 to run, especially if the gamemaster also needs to
 keep track of the actions of numerous NPCs. For
-these reasons, it’s important for the gamemaster to
+these reasons, it's important for the gamemaster to
 detail the action in a way that everyone can visual-
 ize, whether that means using a map and miniatures,
 software, a dry-erase board, or quick sketches on
@@ -22,7 +22,7 @@ the story—many tactical factors are also incorpo-
 rated, so even small details can make a large differ-
 ence. It also helps to have the capabilities of NPCs
 predetermined and to run them as a group when
-possible, to reduce the gamemaster’s burden in the
+possible, to reduce the gamemaster's burden in the
 middle of a hectic situation.
 
 
@@ -42,12 +42,12 @@ the other hand, the characters may be in a situation
 where their breathing environment decompresses to
 vacuum in 15 seconds, so every second may in fact
 count. As a rule, gamemasters should stick with 3
-seconds per turn, but they shouldn’t be afraid to
+seconds per turn, but they shouldn't be afraid to
 fudge the timing either when a situation calls for it.
   Action Turns are meant to be utilized for combat
 and other situations where timing and the order in
 which people act is important. If it is not necessary
-to keep track of who’s doing what so minutely, you
+to keep track of who's doing what so minutely, you
 can drop out of Action Turns and return to “regu-
 lar” free form game time.
    Each Action Turn is in turn broken down into

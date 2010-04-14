@@ -41,7 +41,7 @@ Reputation and Social Networks, p. 285).
 Sample Fields: Autonomists (@-rep), Criminals (g-rep),
   Ecologists (e-rep), Firewall (i-rep), Hypercorps (c-
   rep), Media (f-rep), Scientists (r-rep). At the game-
-  master’s discretion, this list can be expanded to
+  master's discretion, this list can be expanded to
   other (sub)cultural groupings.
 Specializations: As appropriate to each field
 

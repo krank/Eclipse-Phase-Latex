@@ -8,7 +8,7 @@ The most important part of any spacecraft is its engine,    mid 21st century, bu
 and the most important features of any engine are           rockets and is only used in older and more primitive
 the exhaust velocity, which determines how much             spacecraft, notably scum barges.
 fuel the rocket requires to reach a given speed, and           Fusion Rocket (F): Similar to a plasma rockets,
-the engine’s thrust, which determines how high the          fusion rockets require significantly higher tempera-
+the engine's thrust, which determines how high the          fusion rockets require significantly higher tempera-
 acceleration can be. Any rocket that has a thrust of        tures and pressures, and the rocket also produces
 less than approximately twice the gravity of a planet       large amounts of power for the spacecraft. Fusion
 or moon cannot take off from that planet or moon.           rockets are now the most common form of propul-

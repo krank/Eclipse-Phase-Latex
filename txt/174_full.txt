@@ -11,11 +11,11 @@ S                                                                               
  easily changed at the push of a button, who you are and       titudes capped by the quality of the morph (see p. 124).
  what you know is more important than any inborn abil-
  ity. Skills represent the knowledge your character has,       LEARNED SKILLS
- the accumulated set of experience, education, and in-         A player’s learned skills are the most important part of
+ the accumulated set of experience, education, and in-         A player's learned skills are the most important part of
  herent know-how possessed by each and every sentient          their character, representing the acquired knowledge
  transhuman in Eclipse Phase. They are what allow you          they carry with them from morph to morph, knowl-
  to sneak into a hypercorp station, disable the security       edge that plays a fundamental role in helping define
- systems, hack the mesh hub, and then impersonate secu-        the person’s ego. Learned skills encompass nearly any
+ systems, hack the mesh hub, and then impersonate secu-        the person's ego. Learned skills encompass nearly any
  rity personnel to make your escape. Your skills represent     skill that you might need to use in Eclipse Phase, and
  the one thing you have no matter what you look like or        they range in value from 0 to 99.
  where you find yourself. When your characters explore           All learned skills have a linked aptitude that is
@@ -31,7 +31,7 @@ S                                                                               
  Skills are divided into aptitudes and learned skills (see     more knowledge-based and intellectual, representing
  Character Skills, p. 123). Most (but not all) learned         ideas and facts. Knowledge skills may play a less dra-
  skills are built on and linked to an aptitude. If a           matic role in certain action-oriented game play mo-
- character lacks the specific skill needed in a situation,     ments, but they flesh out the character’s background
+ character lacks the specific skill needed in a situation,     ments, but they flesh out the character's background
  they may default to the linked aptitude. You may also         and interests and are integral to roleplaying interac-
  choose to specialize in certain skills (see Specializa-       tions. Active and Knowledge skills are purchased
  tions, p. 123), reflecting an enhanced knowledge of a         separately during character creation.
@@ -48,7 +48,7 @@ S                                                                               
  in the Freerunning skill (which is linked to Somatics)        discipline in which they are knowledgeable, such as
  would start with a Freerunning rank of 10 and then            Biology, Chemistry, or Xenosociology. Field skills are
  buy additionally points in that skill.                        written as “[skill]: [field];” for example: “Art: Paint-
-   Aptitudes are also used when a character doesn’t            ing.” Field skills can be taken multiple times, choosing
+   Aptitudes are also used when a character doesn't            ing.” Field skills can be taken multiple times, choosing
  posses knowledge of a needed skill (see Defaulting, p.        a different area of emphasis each time, reflecting skills
  116). Aptitudes represent the basic knowledge that a          in different fields; that is to say, each field is a separate
  character has acquired regarding rudimentary use of that      skill. Several suggested fields are listed for each field

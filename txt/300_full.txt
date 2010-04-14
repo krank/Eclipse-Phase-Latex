@@ -1,6 +1,6 @@
 FUTURE MATERIALS
-Many materials are available and commonly used in            metallic structures—light enough to ﬂoat on water.
-Eclipse Phase that are rare, theorized, or unheard-          Ideal for habitat construction and ﬂoating cities.
+Many materials are available and commonly used in            metallic structures—light enough to float on water.
+Eclipse Phase that are rare, theorized, or unheard-          Ideal for habitat construction and floating cities.
 of today. The following entries note some of the
 more interesting.                                            METALLIC GLASS
                                                              Metallic glass are metals highly alloyed to possess a
@@ -13,7 +13,7 @@ rofoam, but acts as an incredible insulator against
 heat and cold. It is commonly used in habitats.              METAMATERIALS
                                                              Metamaterials have unusual physical properties
 DIAMOND                                                      (usually electromagnetic) due to their structure,
-Artiﬁcial diamond is lightweight and super-strong,           such as having a negative refractive index. Metama-
+Artificial diamond is lightweight and super-strong,           such as having a negative refractive index. Metama-
 has an extremely high melting point, and has near-           terials are used to create invisibility cloaks (p. 316),
 perfect thermal conductivity. This makes it an ideal         superlenses, phased array optics, and impressive
 substance for hardening coated surfaces (armor)              2-D holograms.
@@ -40,14 +40,14 @@ usually not difficult to nanofabricate. Smart materials          SMART MATERIALS
 morphs easy.                                                     so-called smart materials. These devices contain—or
                                                                  sometimes consist entirely of—many small nanoma-
  INTERFACE                                                       chines that can both move and reshape themselves
-It is not uncommon for everyday devices to have no               to alter the object’s shape, color, and texture. For
+It is not uncommon for everyday devices to have no               to alter the object's shape, color, and texture. For
 visible controls as they are designed to be operated via         example, smart clothing can transform from a suit of
-radio broadcasts from the user’s ecto or mesh inserts.           specialized cold weather clothing suitable for the Mar-
+radio broadcasts from the user's ecto or mesh inserts.           specialized cold weather clothing suitable for the Mar-
 Any items crafted for use in emergency, combat, sur-             tian poles in winter to a fashionable suit in the latest
 vival, or exploration situations, however, will feature          style due to hundreds of thousands of tiny nanoma-
 basic physical controls, just in case. Physical interfaces       chines in the clothing that shift and move to reshape
 are typically controlled by touch pads that are noth-            the garment. Similarly, a tool made of smart materials
-ing more than colored spots on the device’s surface,             can switch from a powered screwdriver to a wrench
+ing more than colored spots on the device's surface,             can switch from a powered screwdriver to a wrench
 though some may also project a holographic interface             or a hammer, as the nanomachines move around and
 display. Most equipment of this sort can can also be             completely reshape the tool. Smart materials all con-
 voice-activated and controlled.                                  tain specialized advanced nanomachine generators (p.

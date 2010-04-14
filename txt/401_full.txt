@@ -56,7 +56,7 @@ Animal Handling            SAV                                                  
         Hardware:         COG                                                           KNOWLEDGE SKILLS              APTITUDE        BASE BONUS TOTAL
         Hardware:         COG                                                           Academics:                       COG
   Impersonation            SAV                                                          Academics:                       COG
-        Inﬁltration       COO                                                           Academics:                       COG
+        Infiltration       COO                                                           Academics:                       COG
             Infosec       COG*                                                          Academics:                       COG
        Interfacing        COG                                                           Art:                             INT
      Intimidation          SAV                                                          Art:                             INT

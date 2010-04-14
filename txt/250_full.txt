@@ -1,7 +1,7 @@
-simulspace programs. Though few are portable, some               At the gamemaster’s discretion, mist can interfere
-of them come close.                                            with a user’s sensory perceptions. This modifier can
+simulspace programs. Though few are portable, some               At the gamemaster's discretion, mist can interfere
+of them come close.                                            with a user's sensory perceptions. This modifier can
                                                                range from –10 to –30, and in some cases might be
-SOFTWARE                                                       so distracting as to affect all of a character’s actions.
+SOFTWARE                                                       so distracting as to affect all of a character's actions.
 A wide manner of software is available for mesh users,         To lift the data fog, a character or muse must adjust
 from firewalls and AIs to hacking and encryption tools         their filter settings by succeeding in an Interfacing Test
 to tacnets and skillsofts. These programs are listed on        modified by the mist modifier. Alternately, the charac-
@@ -11,11 +11,11 @@ not otherwise. The quality of the software may also be
 a factor, applying a modifier as appropriate (see Mesh         SLAVING DEVICES
 Gear Quality, p. 247).                                            For ease of use, as well as for privacy and security
    Some software is equipped with digital restrictions         purposes, one or more devices may be slaved to each
-to prevent it from being copied and shared with others.        other. One device (usually the character’s mesh inserts
+to prevent it from being copied and shared with others.        other. One device (usually the character's mesh inserts
 These restrictions may be defeated, but it is a time-con-      or ecto) takes the role of master, while the other
 suming task, requiring a Task Action Programming Test          device(s) takes the role of slave. All traffic to and
 with a timeframe of 2 months. Thanks to the efforts            from slaved devices is routed through the master. This
-of the open source movement and numerous individual            allows a slaved device to rely on the master’s security
+of the open source movement and numerous individual            allows a slaved device to rely on the master's security
 software pirates, however, quite a bit of software is          features and active monitoring. Anyone that wants to
 available free or online. The availability of pirated soft-    connect to or hacked into a slaved device is rerouted
 ware or freeware will depend on the local habitat and          to the master for authentication and security scrutiny.
@@ -25,7 +25,7 @@ one who has it. Usually there is at least one local crime      penetrates a mast
 syndicate that is willing to help you out—for a price.         and issue commands to a slaved device, assuming their
                                                                access privileges allow for it.
 SOFTWARE COMPATIBILITY                                            PANs are typically formed by slaving all of a char-
-In most instances, software compatibility is not going         acter’s devices to their ecto or mesh inserts. Similarly,
+In most instances, software compatibility is not going         acter's devices to their ecto or mesh inserts. Similarly,
 to be an issue for characters. Gamemasters who like            individual components of a security system (doors,
 it as a plot device, however, can introduce compat-            sensors, etc.) are usually slaved to a central security
 ibility problems in certain cases, whether this is done        node that serves as a chokepoint for anyone hoping

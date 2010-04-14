@@ -10,7 +10,7 @@ Linked Aptitude: REF                                       devices, vehicles, ha
 microgravity environments.                                 Sample Fields: Aerospace (all air and space vehicles),
   When you use it: Use whenever you need to maneu-           Armorer (armor and weapons), Electronics (all
 ver in a zero-g situation, such as propelling yourself       computerized devices), Groundcraft, Implants, In-
-across a large open space or making sure you don’t           dustrial (habitat, factory, and life support systems),
+across a large open space or making sure you don't           dustrial (habitat, factory, and life support systems),
 accidentally send yourself spinning off into space.          Nautical (watercraft and submarines), Robotics
 Free Fall is also used when moving with spacesuit            (synthetic morphs)
 maneuvering jets and when parachuting.                     Specializations: As appropriate to the field
@@ -35,7 +35,7 @@ Specializations: Balance, Gymnastics, Jumping, Running     REPAIRING
 GUNNERY                                                    the rules for Synthmorph and Object Repair, p. 209.
 Type: Active, Combat
 Linked Aptitude: INT                                       MODIFYING
-  What it is: Gunnery skill covers the use and main-       Altering an object’s design and function follows the
+  What it is: Gunnery skill covers the use and main-       Altering an object's design and function follows the
 tenance of large, vehicular, or non-portable weapons       same basic rules as build and repair, above. The time-
 systems. Firing these weapons is more like playing a       frame is determined by the gamemaster as appropriate
 video game than firing a gun.                              to the modification.

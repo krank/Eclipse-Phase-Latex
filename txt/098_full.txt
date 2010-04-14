@@ -1,5 +1,5 @@
 Low atmospheric pressure and bone-freezing tem-            bisected by the twisting Ares, an artifical river that
-peratures at the city’s altitude of 27 kilometers mean     helps regulate the dome’s climate. Near its center is an
+peratures at the city's altitude of 27 kilometers mean     helps regulate the dome's climate. Near its center is an
 that most transhumans venturing outside the souks          almost brick-for-brick duplicate of the original Bund
 and hab modules still need the equivalent of light         from the destroyed Earth city of Shanghai.
 vacsuits to survive. Martian Alpiners, a rare morph           The other four domes are Little Shanghai (a newer,
@@ -9,9 +9,9 @@ due to the harsh conditions.                               (a business and finan
 overseen by the Olympus Infrastructure Authority,          called the Burgh, a hub of research and planet-side
 a minor hypercorp that operates the space elevator.        industry), and Nytrondheim (housing major entertain-
 The outskirts are economically depressed and some-         ment districts).
-times dangerous, mostly deserted and populated by             Valles-New Shanghai is transhumanity’s wealthiest
+times dangerous, mostly deserted and populated by             Valles-New Shanghai is transhumanity's wealthiest
 squatters, indentured downloads on the run, and            population center, a hotbed of art and culture, and
-other people who really want to be left alone. Oc-         one of the system’s great centers of hypercorp activity.
+other people who really want to be left alone. Oc-         one of the system's great centers of hypercorp activity.
 casional outbreaks of dangerously mutated artificial       The populace includes an extremely high percent-
 life are one of the few reasons for which the Author-      age of gerontocrats, but their stifling influence on
 ity bothers to intervene in the outskirts. Otherwise,      culture, economic mobility, and the legal system is
@@ -31,7 +31,7 @@ The habitat was originally meant to exceed Extropia        and L5 points.
 in size considerably, but difficulties with heating and
 spinning Deimos forced Fa Jing to abandon their ef-        QING LONG (AZURE DRAGON)
 forts early or risk the moonlet breaking apart.            Qing Long, with a population of 2 million, is the
-   Progress is nonetheless an impressive habitat, home     largest O’Neill habitat in the system. It is situated
+   Progress is nonetheless an impressive habitat, home     largest O'Neill habitat in the system. It is situated
 to hypercorp glitterati and an outpost for a host of       among the Trojans at the Martian L5 point. Qing
 major political and economic concerns. Its sister          Long has its roots in the Chinese Mars colonization
 moon, Phobos, remains a warren-like tunnel habitat         effort. Despite its exceptional size, it is one of the
@@ -39,8 +39,8 @@ due to the presence of multiple legal interests unable     oldest habitats of it
 to agree upon the disposal of the satellite.               entirely from metal-rich asteroids mined near its
                                                            present location.
 VALLES-NEW SHANGHAI                                           Qing Long is a major underworld haven. The habi-
-The principle city of Mars, Valles-New Shanghai is         tat’s administration is beholden to several criminal
-transhumanity’s largest planetary metroplex, with 37       organizations who normally refrain from killing one
+The principle city of Mars, Valles-New Shanghai is         tat's administration is beholden to several criminal
+transhumanity's largest planetary metroplex, with 37       organizations who normally refrain from killing one
 million inhabitants. Valles-New Shanghai lies in the       another. The habitat nominally obeys some hypercorp
 heavily terraformed Eos region in the east of the Valles   principles, such as limited access to cornucopia ma-
 Marineris canyon system. The metroplex is comprised        chines, forking, and AGIs. However, thriving grey and

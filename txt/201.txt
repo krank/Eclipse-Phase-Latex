@@ -1,6 +1,6 @@
 fall have likely experienced simulations of life in a
 gravity well.
-   At the gamemaster’s discretion, characters who
+   At the gamemaster's discretion, characters who
 have spent long periods acclimating to one range of
 gravity may find a shift in conditions a bit challeng-
 ing to cope with, at least until they grow accustomed
@@ -8,9 +8,9 @@ to the new gravity. In this case, the gamemaster can
 apply a –10 modifier to both physical and social skills.
 The physical penalty results from simple difficulties
 in maneuvering. The social penalty applies because
-it’s hard to look impressive, intimidating, or seductive
-when you haven’t figured out how to arrange your
-clothes so that they don’t float up into your face. The
+it's hard to look impressive, intimidating, or seductive
+when you haven't figured out how to arrange your
+clothes so that they don't float up into your face. The
 physical penalty can be increased to –20 for situa-
 tions involving combat skills and skills requiring fine
 manipulation, building, or repairing of items. These
@@ -30,18 +30,18 @@ tively weightless, but size and mass are still factors.
    Things behave differently in microgravity. For
 example:
 
- • Objects not anchored down will tend to drift
+ - Objects not anchored down will tend to drift
    off in whatever direction they were last moving.
    Floating objects will eventually settle in the direc-
    tion of the densest part of the habitat or spacecraft.
- • Thrown or pushed items will travel in a straight
+ - Thrown or pushed items will travel in a straight
    line until they hit something.
- • Smoke does not rise in streams. Instead, it forms
+ - Smoke does not rise in streams. Instead, it forms
    a roughly spherical halo around its source.
- • Liquids have little cohesion, scattering into clouds
+ - Liquids have little cohesion, scattering into clouds
    of tiny droplets if released into the air. Drinks
    come in sealed bulbs or bottles. Food is eaten so
-   that sauces and bits of liquid don’t escape. Blood
+   that sauces and bits of liquid don't escape. Blood
    goes everywhere.
 
   Movement and maneuvering in microgravity is
@@ -97,7 +97,7 @@ weights, muscles are fatigued from needing to push
 more around, and the heart must work harder to
 pump blood. For every 0.2 g over 1 that a character is
 not acclimated to, treat it as if the character is suffer-
-ing from the effects of 1 wound. At the gamemaster’s
+ing from the effects of 1 wound. At the gamemaster's
 discretion, movement rates may also be modified.
 
 GRENADES AND SEEKERS
@@ -110,8 +110,8 @@ explode in transit or when they strike, are subject to
 scatter (p. 204).
   Airburst: Airburst means that the device explodes in
 mid-air as soon as it travels a distance programmed at
-launch. In this case, the explosive’s effects are resolved
-immediately, in that user’s Action Phase. Note that
+launch. In this case, the explosive's effects are resolved
+immediately, in that user's Action Phase. Note that
 airburst munitions are programmed with a safety fea-
 ture that will prevent detonation if they fail to travel
 a minimum precautionary distance from the launcher,

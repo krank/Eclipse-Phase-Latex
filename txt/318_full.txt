@@ -1,8 +1,8 @@
 tools, and an advanced nanotechnology generator             radar or x-rays. The drawback is that anything con-
-capable of producing nanobots that can bore or cut          cealed within the cloak can’t see out. This is easily
+capable of producing nanobots that can bore or cut          cealed within the cloak can't see out. This is easily
 through almost any material and disable or open             overcome by using external sensor feeds (if available)
 almost any electronic lock.                                 and entoptics to navigate. Alternately, a small piece of
-   Cutting out a lock or boring a 1-millimeter hole in      anti-cloak, which cancels the cloak’s invisibility prop-
+   Cutting out a lock or boring a 1-millimeter hole in      anti-cloak, which cancels the cloak's invisibility prop-
 a wall with a COT requires ((Durability + Armor) ÷          erties when touched together, can be used to create a
 10) seconds. Cutting out a 1-meter diameter hole in         small window to peep out of, though this increases
 a wall requires ((Durability + Armor) ÷ 10) minutes.        the chance of being spotted. Noticing such a window
@@ -13,7 +13,7 @@ ful and detailed examination.                               phone 1 millimeter a
 cal lock simply by analyzing it and shaping an ap-          within 20 meters and see everything within the same
 propriate key, though this takes a full Action Turn.        range that is in its line of sight. A microbug can record
 It can also open electronic locks by infiltrating them      up to 100 hours of information. Microbugs can be
-with nanobots that influence the lock’s electronics,        set to broadcast continuously, at set intervals, or only
+with nanobots that influence the lock's electronics,        set to broadcast continuously, at set intervals, or only
 no matter what authentication system the lock uses.         when they receive a special signal. If desired, they
 Opening electronic locks takes a full Action Turn, but      can also be set to only record if there is movement
 success is practically guaranteed. Opening an elec-         or voices in the room they are in. Microbugs have
@@ -21,7 +21,7 @@ tronic lock in this manner will, however, trigger an        adhesive backs and c
 alarm and/or be logged as an event. For more details,       Microbugs can also establish their location via mesh
 see Electronic Locks, p. 291. [High]                        positioning or GPS, and so double as tracking devices.
    Cuffband: This smart plastic loop restricts around       To avoid being detected by their radio transmissions,
-a prisoner’s limbs when activated. If the prisoner          some microbugs are attached to miniature quantum
+a prisoner's limbs when activated. If the prisoner          some microbugs are attached to miniature quantum
 struggles, it will tighten more. Cuffbands will inform      farcasters (p. 314). These microbugs are much larger
 the user if they are cut or loosened and are electron-      (1 centimeter) and easy to see, but their transmissions
 ically-controlled, so the user can release the prisoner     cannot be detected or blocked. [Trivial, Low for quan-

@@ -33,7 +33,7 @@ Bonus: 10 CP
 This particular morph has some unfixable flaws. Once        Bonus: 10 CP
 per game session (preferably at a time that will maxi-         The character has suffered some type of neurologi-
 mize drama or hilarity), the gamemaster can call for        cal damage that simply cannot be cured. The affliction
-the character to make a MOX x 10 Test (using their          is now part of the character’s ego and remains with
+the character to make a MOX x 10 Test (using their          is now part of the character's ego and remains with
 current Moxie score). If the character fails, the morph     them even when remorphing. This damage may have
 immediately suffers 1 wound resulting from some me-         been inherited, it may have resulted from a poorly de-
 chanical failure, electrical glitch, or other breakdown.    signed morph or implant, or it may have been inflicted
@@ -41,19 +41,19 @@ This wound may be repaired as normal.                       by one of the TITAN 
                                                             systems during the Fall (p. 384). The gamemaster and
 LOW PAIN TOLERANCE (EGO OR MORPH TRAIT)                     player should agree on a specific disorder appropriate
 Bonus: 20 CP                                                to their game. Some possibilities are:
-   Pain is the character’s enemy. The character has
-a very low threshold for pain tolerance and is more          • Partial aphasia (difficulty communicating or
+   Pain is the character's enemy. The character has
+a very low threshold for pain tolerance and is more          - Partial aphasia (difficulty communicating or
 severely impaired when suffering. Increase the modi-           using words)
-fier for each wound take by an additional –10 (so            • Color blindness
-the character suffers –20 with one wound, –40 with           • Amusica (inability to make or understand music)
-another, and –60 with a third). Additionally, the            • Synaesthesia
-character suffers a –30 modifier on any test involving       • Logorrhoea (excessive use of words)
-pain resistance. This morph version of this trait is only    • Loss of face recognition
-available for biomorphs.                                     • Loss of depth perception (double range
+fier for each wound take by an additional –10 (so            - Color blindness
+the character suffers –20 with one wound, –40 with           - Amusica (inability to make or understand music)
+another, and –60 with a third). Additionally, the            - Synaesthesia
+character suffers a –30 modifier on any test involving       - Logorrhoea (excessive use of words)
+pain resistance. This morph version of this trait is only    - Loss of face recognition
+available for biomorphs.                                     - Loss of depth perception (double range
                                                                modifiers)
-MENTAL DISORDER                                              • Repetitive behavior
-Bonus: 10 CP                                                 • Mood swings
-  You have a psychological disorder from a previous          • The inability to shift attention quickly
+MENTAL DISORDER                                              - Repetitive behavior
+Bonus: 10 CP                                                 - Mood swings
+  You have a psychological disorder from a previous          - The inability to shift attention quickly
 traumatic experience in your life. Choose one of the
 disorders listed on p. 211.                                   The gamemaster may decide to inflict modifiers
                                                             resulting from this affliction as appropriate.

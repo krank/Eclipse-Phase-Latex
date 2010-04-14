@@ -20,7 +20,7 @@ They fly with tiny wings, carry a microbug, and are
 
  SPACECRAFT
  Though egocasting is a common method of personal
- transport and it’s often easier to simply transmit the
+ transport and it's often easier to simply transmit the
  specifications for various goods and to allow nano-
  factories to create duplicates, spacecraft play an
  important role in the solar system, carrying both pas-

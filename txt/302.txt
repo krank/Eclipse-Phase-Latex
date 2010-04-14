@@ -51,31 +51,31 @@ equipment for anyone who wants to stay connected
 and make full use of the wireless mesh. The intercon-
 nected components of this system include:
 
- • Cranial Computer: This computer serves as the
-   hub for the character’s personal area network
+ - Cranial Computer: This computer serves as the
+   hub for the character's personal area network
    and is home to their muse (p. 264). It has all of
    the functions of a smartphone and PDA, acting
    as a media player, meshbrowser, alarm clock/
    calendar, positioning and map system, address
    book, advanced calculator, file storage system,
    search engine, social networking client, messaging
-   program, and note pad. It manages the user’s aug-
+   program, and note pad. It manages the user's aug-
    mented reality input and can run any software the
    character desires (see Software, p. 331). It also
    processes XP data, allowing the user to experi-
-   ence other people’s recorded memories, and also
+   ence other people's recorded memories, and also
    allowing the user to share their own XP sensory
    input with others in real-time. Facial/image rec-
    ognition and encryption software (p. 331) are
    included by default.
- • Radio Transceiver: This transceiver connects the
+ - Radio Transceiver: This transceiver connects the
    user to the mesh and other characters/devices
    within range. It has an effective range of 20 kilo-
    meters in deep space or other locations far from
    radio interference and 1 kilometer in crowded
    habitats.
- • Medical Sensors: This array of implants monitors
-   the user’s medical status, including heart rate,
+ - Medical Sensors: This array of implants monitors
+   the user's medical status, including heart rate,
    respiration, blood pressure, temperature, neural
    activity, and much more. A sophisticated medical
    diagnostic system interprets the data and warns
@@ -89,7 +89,7 @@ A cortical stack is a tiny cyberware data storage unit
 protected within a synthdiamond case the size of a
 grape, implanted at the base of the skull where the
 brain stem and spinal cord connect. It contains a
-digital backup of that character’s ego. Part nanoware,
+digital backup of that character's ego. Part nanoware,
 the implant maintains a network of nanobots that
 monitor synaptic connections and brain architecture,
 noting any changes and updating the ego backup in

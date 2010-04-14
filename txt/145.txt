@@ -11,7 +11,7 @@ Durability: 40
 Wound Threshold: 8
 Advantages: 10 legs, Carapace Armor (11/11), Claw
    Attack (DV 2d10), +10 SOM, +5 to two other apti-
-   tudes of the player’s choice
+   tudes of the player's choice
 CP Cost: 60
 Credit Cost: Expensive (minimum 30,000+)
 
@@ -30,11 +30,11 @@ commonly used for menial labor, heavy labor, habitat
 construction, and security services.
   All synthmorphs have the following advantages:
 
-  • Lack of Biological Functions. Synthmorphs need
+  - Lack of Biological Functions. Synthmorphs need
     not be bothered with trivialities like breathing,
     eating, defecating, aging, sleeping, or any similar
     minor but crucial aspects of biological life.
-  • Pain Filter. Synthmorphs can filter out their
+  - Pain Filter. Synthmorphs can filter out their
     pain receptors, so that they are unhampered by
     wounds or physical damage. This allows them
     to ignore the –10 modifier from 1 wound (see
@@ -42,20 +42,20 @@ construction, and security services.
     any tactile-based Perception Tests and will not
     even notice they have been damaged unless they
     succeed in a (modified) Perception Test.
-  • Immunity to Shock Weapons. Synthmorphs have
+  - Immunity to Shock Weapons. Synthmorphs have
     no nervous system to disrupt, and their optical
     electronics are carefully shielded from interfer-
     ence. Shock attacks may temporarily disrupt their
     wireless radio communications, however, for the
     duration of the attack.
-  • Environmental Durability. Synthmorphs are
+  - Environmental Durability. Synthmorphs are
     built to withstand a wide range of environments,
     from dusty Mars to the oceans of Europa to the
     vacuum of space. They are unaffected by any but
     the most extreme temperatures and atmospheric
     pressures. Treat as Temperature Tolerance (p.
     305) and Vacuum Sealing (p. 305).
-  • Toughness. Synthetic shells are made to last—a
+  - Toughness. Synthetic shells are made to last—a
     fact reflected in their higher Durability and built-
        in Armor ratings. Their composition also makes
        their physical strikes more damaging: apply a +2
@@ -101,7 +101,7 @@ Aptitude Maximum: 30
 Durability: 40
 Wound Threshold: 8
 Advantages: +5 SOM, +5 to one other aptitude of the
-  player’s choice, Armor 6/6
+  player's choice, Armor 6/6
 Disadvantages: Social Stigma (Clanking Masses) trait,
   Uncanny Valley trait
 CP Cost: 30

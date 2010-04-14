@@ -5,16 +5,16 @@
             raise her Moxie from 1 to 5. She also decides that she               Adding in her background and faction skills, she also
             wants her character to be better at spotting things, so          has Networking: Autonomists (SAV) 30, Networking:
             she raises her INT from 15 to 20, at a cost of 50 CP (5 x        Hypercorps (SAV) 30, Pilot: Spacecraft (REF) 30 (50),
-            10). So far, she’s spent 110 CP.                                 Pilot: Groundcraft (REF) 30 (50). She takes the freebie
+            10). So far, she's spent 110 CP.                                 Pilot: Groundcraft (REF) 30 (50). She takes the freebie
                She must buy at least 400 points of Active skills, so she     +10 and adds it to Fray (raising it to 60) and applies the
             tackles that next. She knows that skills are based on apti-      other +10 to Academics: Economics (COG) 30.
             tudes and they get more expensive over 60, so she decides            With 90 CP left, Tai moves on to Rep. Tai wants to
-            the most she’ll spend on any single skill is 40 (since her       have a lot of good connections, so she raises both of her
+            the most she'll spend on any single skill is 40 (since her       have a lot of good connections, so she raises both of her
             highest aptitude is 20). She picks out her skills, assigns the   Rep scores by 30 points each, at a cost of 6 CP. She also
             points, and adds them to the starting aptitudes.                 decides she needs some credibility with criminal types,
                This is what she starts with, noting the points she           so she buys g-rep at 40, for 4 more CP. Now she has 80
             spent on each and the total value (counting aptitude)            CP left.
-            in parentheses.                                                      Tai’s character needs a body, and she decides a
+            in parentheses.                                                      Tai's character needs a body, and she decides a
   EXAMPLE
 
 
@@ -24,11 +24,11 @@
                Beam Weapons (COO) 30 (45), Climbing (SOM) 30                 bouncer is most suited for the nomadic, spacefaring
             (45), Demolitions (COG) 40 (60), Fray (REF) 30 (50),             lifestyle of her brinker. That costs another 40 CP, leaving
             Freefall (REF) 40 (60), Freerunning (SOM) 30 (45),               her with 50 CP left to spend.
-            Hardware: Aerospace (COG) 40 (60), Inﬁltration (COO)                 Looking back at her skills, she decides to raise her
+            Hardware: Aerospace (COG) 40 (60), Infiltration (COO)                 Looking back at her skills, she decides to raise her
             30 (45), Interfacing (COG) 20 (40), Navigation (INT) 40          Pilot: Spacecraft from 50 to 70. It costs her 10 CP to
             (60), Perception (INT) 40 (60), Persuasion (SAV) 20 (30),        raise the skill to 60, and another 20 CP to raise it from
             Research (COG) 20 (40), and Scrounging (INT) 40 (60).            60 to 70, for a total cost of 30 CP. She also wants to
-               This costs her 450 CP, so she’s spent a total of 560          raise her Scrounging from 60 to 70, for a 20 CP cost.
+               This costs her 450 CP, so she's spent a total of 560          raise her Scrounging from 60 to 70, for a 20 CP cost.
             CP so far.                                                       That nicely uses up the last of her CP.
                Now she spends her 300 points of Knowledge skills:                Scanning the traits, though, Tai also decides that
                Academics: Astrophysics (COG) 40 (60), Academics:             Situational Awareness would be a good choice for her
@@ -36,7 +36,7 @@
             (COG) 40 (60), Art: Sculpture (INT) 40 (60), Interest:           other negative trait to compensate. She chooses Neural
             Brinker Stations (COG) 40 (60), Interest: Conspiracies           Damage (synaesthesia)—a condition she inherited from
             (COG) 30 (50), Language: English (INT) 40 (60), Profes-          a rampaging nanovirus during the Fall.
-            sion: Appraisal (COG) 40 (60), Profession: Scavenger                 Tai’s points are now all evened out and spent.
+            sion: Appraisal (COG) 40 (60), Profession: Scavenger                 Tai's points are now all evened out and spent.
             Trade (COG) 40 (60).
 
 
@@ -48,12 +48,12 @@
  buying skills or aptitudes during character creation.                            There is no limitation other than what the game-
                                                                                master allows on what gear characters can and cannot
  PURCHASE GEAR                                                                 buy during character creation. Both the players and
- No matter what faction you are from, you use Credit                           gamemaster should keep the character’s background
+ No matter what faction you are from, you use Credit                           gamemaster should keep the character's background
  to buy gear during character creation. A complete list                        and faction in mind. Since some gear is likely very
  of gear and costs can be found in the Gear chapter, p.                        restricted in some habitats if not outright illegal, there
  294. The average costs for each cost category should                          needs to be a plausible explanation for who and how
  be used when calculating gear prices.                                         a character from such a place might have such gear.
-                                                                               If there isn’t, then the gamemaster can choose not to
+                                                                               If there isn't, then the gamemaster can choose not to
 
                        GEAR COSTS                                              allow it. The starting locale for a game should also
                                                                                be considered. A character from the restrictive Jovian

@@ -1,5 +1,5 @@
 CHAT NOIR AND FISSURE GATE
-Located on Oberon, this is the Uranian system’s pri-
+Located on Oberon, this is the Uranian system's pri-
 mary long haul spaceport, with a permanent popu-
 lation of 8,000. Chat Noir has fairly advanced ego-
 casting, resleeving, and manufacturing facilities for a
@@ -11,7 +11,7 @@ tions to wrest control of it).
    Fissure Gate was discovered by a prospecting ex-
 pedition from Chat Noir, then a tiny outpost. Seeking
 deposits of the useful carbonaceous ices that make up
-about 20% of Oberon’s mass, they instead chanced
+about 20% of Oberon's mass, they instead chanced
 upon subsurface radio emissions near the foot of Mt.
 Hippolyta. After using triangulating the source, the
 prospectors landed and used subsurface imaging gear.
@@ -22,7 +22,7 @@ a shape too regular to be anything but a structure
 or large artifact—all under 500 meters of ages-old
 frozen cryovolcanic outflow. The gate at Pandora was
 already publicly known at this time, so the prospec-
-tors drilled down, suspecting they’d found an alien
+tors drilled down, suspecting they'd found an alien
 artifact. They were not to be disappointed, although
 the discovery yielded gruesome salvage: the barely
 recognizable corpses of eleven gatecrashers.
@@ -33,7 +33,7 @@ a thin pocket of space between it and the surround-
 ing ice. When the eleven emerged, buried in an
 airless space beneath 500 meters of ice, there was
 barely room to move, let alone escape—but the gate
-wouldn’t let them back through. Several of the crew
+wouldn't let them back through. Several of the crew
 had recoverable cortical stacks. This lucky handful are
 now prominent citizens of Chat Noir, but none plan
 to resume gatecrashing as a career.
@@ -48,7 +48,7 @@ this gate, however, must be shared for the collective
 good of transhumanity.
 
 TITANIA AND OBERON
-Uranus’s two largest moons are sparsely populated,
+Uranus's two largest moons are sparsely populated,
 with only about 10,000 transhumans living on each
 body. Most stations are mixed dome and beehive set-
 tlements and range from hypercorp communications
@@ -66,11 +66,11 @@ XIPHOS
 One of two major strongholds of the ultimates, Xiphos
 is a Hamilton cylinder orbiting in the Uranian ring
 system. Though most of the tech underlying Hamilton
-cylinders is open source, the station’s frighteningly
+cylinders is open source, the station's frighteningly
 efficient weapon systems are not. Rumor has it the
 ultimates traded some major favors to Gorgon De-
 fense Systems in the process of building this station.
-Where Aspis, the ultimates’ inner system habitat,
+Where Aspis, the ultimates' inner system habitat,
 is a relatively open place, used by the Ultimates for
 contact with potential mercenary clients, Xiphos is
 off limits to anyone not of this faction. The rumored
@@ -96,7 +96,7 @@ the rest of the solar system mean that few Neptunian
 ventures garner profits. Similarly, the Titanian brand
 of technosocialism has never found roots here. The
 few transhumans who live out here are a resourceful
-lot, and many colonists out here aren’t human at all.
+lot, and many colonists out here aren't human at all.
 Anarchists, brinkers, and desperados comprise most
 of the population.
 
@@ -117,4 +117,4 @@ ILMARINEN
 Aligned with the argonauts, Ilmarinen is a hybrid
 beehive/cluster dug into and partially protruding
 from the large L4 asteroid Greymere. It is the largest
-habitat in Neptune’s Trojans, with a population of
+habitat in Neptune's Trojans, with a population of

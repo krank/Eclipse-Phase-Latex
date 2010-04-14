@@ -25,7 +25,7 @@ TITANIAN EXPLORER
                          Free Fall     REF       40          5            45
                      Freerunning       SOM       60          10           70
         Hardware: Groundcraft          COG       45                       45
-                       Inﬁltration     COO       50          5            55
+                       Infiltration     COO       50          5            55
         Interests: Gatecrashing        COG       60                       60
          Interests: Sci-Fi Aliens      COG       45                       45
                    Investigation       INT       35                       35
@@ -54,13 +54,13 @@ TITANIAN EXPLORER
                                                                                  i-rep:    20                           Temperatu
 The gates have opened a new                                                      r-rep:    30                         Gear: Backup
 frontier to transhumanity and you        preserved, you support colonizing                                              Breadcrum
-are ready to step through and face       and expanding transhumanity’s           EQUIPMENT                              tem, Diamo
+are ready to step through and face       and expanding transhumanity's           EQUIPMENT                              tem, Diamo
 the challenges such opportunities        presence while maintaining a mini-      Armor: Vacsuit (Standard Smart-        ics Net, Ele
 bring. You are a professional gate-      mal impact on alien ecosystems.           fabric with Immunogenic              Portable Li
 crasher, eager to experience new         You are also trained in First Contact     System) [7/7] ■                      System, Ra
-worlds ﬁrst-hand, despite the dan-       scenarios and are hopeful of ﬁnd-       Primary Weapon: Kinetic Assault        Bot, Shelte
-gers—or even because of them.            ing new intelligent life—hopefully        Riﬂe (100 rounds regular ammo) ■     Container,
+worlds first-hand, despite the dan-       scenarios and are hopeful of find-       Primary Weapon: Kinetic Assault        Bot, Shelte
+gers—or even because of them.            ing new intelligent life—hopefully        Rifle (100 rounds regular ammo) ■     Container,
 Unlike those who feel that new           without sparking some kind of           Starting Credit: 4,150 ■               Climber, Ta
 planets should be protected and          deadly interstellar incident. ■                                                ware, Trac
-                                     “I just ﬁnished my analysis of the xenolife amino acids and it’s nothing close
+                                     “I just finished my analysis of the xenolife amino acids and it's nothing close
                                               to what the Boyle-Cross hypothesis suggested it should be.”

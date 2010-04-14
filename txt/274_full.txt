@@ -1,23 +1,23 @@
     INTEGRATION TEST                                                       ALIENATION
                                                                            After loss of continuity, the other major factor impact-
             EFFECT                                                         ing resleeving characters is alienation. Once the ego
-            Character is unable to acclimate to the new morph—             has its new sleeve under control, it’s time to look in
+            Character is unable to acclimate to the new morph—             has its new sleeve under control, it's time to look in
             something is just not right. Character suffers a –30 modi-     the mirror. The alienation test reflects the experience of
-            ﬁer to all physical actions until resleeved.                   coming to terms with a new face, skin, and brain. For
+            fier to all physical actions until resleeved.                   coming to terms with a new face, skin, and brain. For
             Character has serious trouble acclimating to the new           example, transferring to a radically different morph
-0+)         morph. They suffer a –10 modiﬁer to all actions for 2 days     (such as a swarmanoid) can be difficult to grasp.
+0+)         morph. They suffer a –10 modifier to all actions for 2 days     (such as a swarmanoid) can be difficult to grasp.
             plus 1 day per 10 full points of MoF.                          Uplifts often have difficulty getting acquainted with
             Character has some trouble acclimating to new morph.           the differing hormonal urges of a human biomorph
-            They suffer a –10 modiﬁer to all physical actions for 2        and vice versa. While the character’s ego is as it was
+            They suffer a –10 modifier to all physical actions for 2        and vice versa. While the character's ego is as it was
             days plus 1 day per 10 full points of MoF.                     in their last sleeve, the brains and neurochemistry of
             Standard acclimation period. The character suffers a –10       many morphs may alter aptitudes like WIL or COG.
-            modiﬁer to all physical actions for 1 day.                     The effects of this can be frustrating or disorienting.
+            modifier to all physical actions for 1 day.                     The effects of this can be frustrating or disorienting.
                                                                              Every character makes an Alienation Test to reflect
             No ill effects. Character acclimates to new morph in no
  S 30+)                                                                    how mentally stressful it is to get a grip on their new
             more than a few minutes.
                                                                            body, rolling INT x 3 and apply modifiers from the
-            Lookin’ good! This morph is an exceptionally good ﬁt for
+            Lookin' good! This morph is an exceptionally good fit for
                                                                            Integration and Alienation Modifiers table. Consult
             the character. No ill effects; gain 1 Moxie point for use in
                                                                            the Alienation Test table to determine the effects.
@@ -42,7 +42,7 @@ resleeving in a non-uplift (of their type) body                –10         whe
                                                                –10         some poor imitation and not a real person at all?
  morph)                                                        –10            To determine how this loss of continuity affects a
                                                                            character, make a Continuity Test by rolling WIL x 3.
-iﬁed                                                           –10
+ified                                                           –10
                                                                            Every character suffers stress from loss of continuity,
 ait (Level 1)                                                  –10
                                                                            as noted on the Continuity Stress table. Reduce this
@@ -58,12 +58,12 @@ orph, neo-avian, novacrab, swarmanoid, etc.)                   –30         INF
                                                                            imprinted onto a virtual brain template and run as
                                  EFFECT
                                                                            a program. This virtual brain state must be run on a
-Extreme Dysmorphia. The character doesn’t like their new sleeve at all     specific device and follows all of the rules noted for
+Extreme Dysmorphia. The character doesn't like their new sleeve at all     specific device and follows all of the rules noted for
 and suffers 2 stress points per 10 full points of MoF.                     infomorphs on p. 264. Infomorphs may copy them-
 Character is uneasy about the new morph and suffers 1 stress point         selves to other devices, typically erasing themselves
 per 10 full points of MoF.                                                 from the previous device as they go. Infomorphs that
 Character adapts to their new look well. No ill effects.                   copy without erasing are treated as forks.
-Best. Morph. Ever. The new morph jives perfectly with the character’s        Characters instantiating as infomorphs must make
+Best. Morph. Ever. The new morph jives perfectly with the character's        Characters instantiating as infomorphs must make
  ense of self, and even enhances it somewhat. The character actually       Continuity and Alienation Tests, just like resleeving.
 heals 1d10 ÷ 2 (round up) stress points.                                     Infomorphs may be resleeved into physical morphs,
                                                                            following normal resleeving rules.

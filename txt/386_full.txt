@@ -7,7 +7,7 @@ swarm plagues (p. 364)—use the same rules for deter-       The following advic
 mining exposure and infection.                             ning their games more efficiently.
 
 MELDER                                                     AWARDING REZ POINTS
-This virus slowly breaks down the target’s body,           In Eclipse Phase, characters earn Rez Points in order
+This virus slowly breaks down the target's body,           In Eclipse Phase, characters earn Rez Points in order
 converting the biological materials into some sort of      to advance (see Character Advancement, p. 152). As
 biofilament that then meshes with implants, electron-      the name suggests, these points are awarded so players
 ics, and physical objects and structures. In effect, the   can spend them to better define their characters—to
@@ -21,41 +21,41 @@ and absorbed into the new melding substance after          venture and the next.
                                                            every 3–6 gaming sessions. If a scenario goes shorter
 METASTASIZER                                               or longer, the Rez Point awards should be adjusted
 This sophisticated smart protein massively reprograms      accordingly. In the case of long-term campaigns, the
-the target’s cells to go rapidly, autocannibalistically    gamemaster should break down the action into digest-
+the target's cells to go rapidly, autocannibalistically    gamemaster should break down the action into digest-
 cancerous. After 2 + (SOM ÷ 10, round up) hours, the       ible chunks, or “chapters,” and assign Rez Points after
 target suffers death by dozens of supercancers.            each such segment.
                                                              Every character should be awarded 1 Rez Point for
 NECROTIZER                                                 each of the following criteria that is met:
-This virus breaks down the target’s cells into their
-component proteins. Reduce the target’s aptitudes by        • The character participated in that scenario.
-5 per hour as they slowly convert into a puddle of          • The character achieved (most of) their objectives
+This virus breaks down the target's cells into their
+component proteins. Reduce the target's aptitudes by        - The character participated in that scenario.
+5 per hour as they slowly convert into a puddle of          - The character achieved (most of) their objectives
 sludge. The character dies if any aptitude reaches 0.         in that scenario.
-                                                            • The character failed to meet their objectives, but
+                                                            - The character failed to meet their objectives, but
 NEUROPATHS                                                    learned a valuable lesson.
-These virii target the victim’s neurological system,        • The character contributed to achieving success
+These virii target the victim's neurological system,        - The character contributed to achieving success
 often rewriting portions of it to inflict some type of        in a significant way (e.g., right skill at the right
 permanent neurological damage. After 12 hours, this           time).
-virus inflicts the Neural Damage trait (p. 150).            • The adventure was extra challenging.
-                                                            • The character achieved a motivational goal (see
+virus inflicts the Neural Damage trait (p. 150).            - The adventure was extra challenging.
+                                                            - The character achieved a motivational goal (see
 PETRIFIER                                                     Motivation, p. 120).
-The petrifier virus transforms the target’s cells into      • The player engaged in good roleplaying.
-a simple molecular compound or element—typically            • The player significantly contributed to the ses-
-carbon or crystal. The target suffers 1d10 DV and –5          sion’s drama, humor, or fun with roleplaying.
+The petrifier virus transforms the target's cells into      - The player engaged in good roleplaying.
+a simple molecular compound or element—typically            - The player significantly contributed to the ses-
+carbon or crystal. The target suffers 1d10 DV and –5          sion's drama, humor, or fun with roleplaying.
 to all aptitudes per hour, dying when any aptitudes
 reach 0. Victims are frozen in place, converted into an      This should result in an average Rez Points award
 nonliving statue.                                          of 4–7 points per character, per adventure. Game-
-                                                           masters who wish to drive the characters’ advance-
+                                                           masters who wish to drive the characters' advance-
 UZUMAKI                                                    ment forward more quickly can increase the reward
 The target of this virus begins suffering from bizarre     amounts.
 fleshy growths. After four hours, their body literally
 erupts with meaty “vines” or “tentacles” that warp         REPUTATION GAIN AND LOSS
 into spiral patterns. This process inflicts 1d10 DV and    In addition to awarding Rez Points, the gamemaster
-1d10 SV per hour to the victim until they eventually       should also adjust each character’s Rep scores accord-
+1d10 SV per hour to the victim until they eventually       should also adjust each character's Rep scores accord-
 transform into an unworldly expanse of fleshy growth.      ing to actions they took during game play, according to
 In many cases, growth has continued long after a           the guidelines below. For simplicity, these can be applied
-character’s death, creating expansive carpets and vines    at the end of the adventure, though gamemasters who
+character's death, creating expansive carpets and vines    at the end of the adventure, though gamemasters who
 of skin and blood vessels, like some sort of bizarre       seek a more dynamic game could apply changes to the
-meat plant.                                                characters’ Rep scores in game, as their peers judge
+meat plant.                                                characters' Rep scores in game, as their peers judge
                                                            them according to their actions (or lack thereof) and
                                                            news about them in real time. Rep scores should only
                                                            be modified according to public actions and interactions

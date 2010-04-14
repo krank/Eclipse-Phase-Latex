@@ -1,14 +1,14 @@
-  Money is for people who don’t know how to take
+  Money is for people who don't know how to take
 care of themselves. Transhumanity is only a few de-
 cades away from being a mature Type I Kardashev
 civilization, having largely mastered the material
 resources of its own solar system. A character from
 the outer system most likely finds the whole concept
 of money an embarrassment.
-   However, material abundance hasn’t eliminated
+   However, material abundance hasn't eliminated
 the value of certain goods and services. A transhu-
-man’s lunch might be free, but innovative ideas, new
-designs, health care, sex, and dirty work don’t grow
+man's lunch might be free, but innovative ideas, new
+designs, health care, sex, and dirty work don't grow
 in fabricators. What if you need gene therapy on your
 morph to grow infrared sensing cells on your face?
 How about someone to assassinate your renegade
@@ -18,11 +18,11 @@ What if you really need a spanking? You call on your
 social network. If your network is sufficiently deep
 and numerous, and your reputation is good enough,
 someone will help you out.
-   In the inner system, the reputation economy doesn’t
+   In the inner system, the reputation economy doesn't
 replace money for the exchange of goods and services,
 but it does hold sway over the network of favors and
 influence. Calling on contacts, getting information,
-and making sure you’re in the best place to see and be
+and making sure you're in the best place to see and be
 seen all involve calling on your social network.
 
 SOCIAL NETWORKS
@@ -34,13 +34,13 @@ out to your acquaintances, from the neo-hominid
 waitron at your favorite cafe to the sylph you flirt
 with at the club. In the always-online, fully-meshed
 universe of Eclipse Phase, this goes even further,
-encompassing all of the people you’ve linked to via
+encompassing all of the people you've linked to via
 social mesh networks, everyone who watches your
 blog/lifelog/updates, and everyone you interact with
 on various mesh forums. Now add in the friend-of-a-
 friend factor, and everyone has an impressive ability
 to reach out to people they know, people they sort of
-know, and people you don’t know but who are some-
+know, and people you don't know but who are some-
 how linked to you in one degree or another.
    Of course, social networks are not homogeneous.
 Among the ever-diversifying ranks of transhumanity,
@@ -58,7 +58,7 @@ be considered members of several different types of
 social networks. This overlap is what links disparate
 groupings of transhumans together.
 NETWORKING
-Just being connected, of course, doesn’t mean you have
+Just being connected, of course, doesn't mean you have
 several thousand idle transhumans at your beck and
 call. If you hope to gather the latest gossip, get advice
 from an expert, find someone who can fix your prob-
@@ -81,7 +81,7 @@ particular network grouping, a common interest that
 ties people together. Most of these fields are based
 on factions (Autonomists, Hypercorp, etc.) and tie
 into a special reputation network (see the Reputation
-Networks table, p. 287). At the gamemaster’s discre-
+Networks table, p. 287). At the gamemaster's discre-
 tion, other groupings of people could be connected
 through these skills and rep systems. For example,
 artists and journalists of all stripes can fall under
@@ -98,7 +98,7 @@ networks are noted below. While in some cases the de-
 fining element is who you know and how good you are
 at reaching out to them, in others the defining element
 is how known you are. You might be connected to
-thousands of people, but if you don’t have clout, your
+thousands of people, but if you don't have clout, your
 efforts to make use of these connections is limited. This
 is where Reputation comes into play.
 

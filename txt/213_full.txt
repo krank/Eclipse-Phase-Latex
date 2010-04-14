@@ -1,6 +1,6 @@
 LOGORRHOEA (MINOR)                                        HYSTERIA (MAJOR)
 Your response to the trauma is to engage in excessive     You lose control, panicking over the source of the
-talking and babbling. You don’t shut up.                  stress. This typically results in an emotional outburst
+talking and babbling. You don't shut up.                  stress. This typically results in an emotional outburst
                                                           of crying, laughing, or irrational fear.
 NAUSEA (MINOR)
 The stress sickens you, forcing you to fight down         IRRATIONALITY (MAJOR)
@@ -8,11 +8,11 @@ queasiness.                                               You are so jarred by t
                                                           logical judgment breaks down. You are angered by
 CHILLS (MODERATE)                                         imaginary offenses, hold unreasonable expectations, or
 Your body temperature rises, making you feel cold,        otherwise accept things with unconvincing evidence.
-and shivering sets in. You just can’t get warm.
+and shivering sets in. You just can't get warm.
                                                           PARALYSIS (MAJOR)
 CONFUSION (MODERATE)                                      You are so shocked by the trauma that you are effec-
 The trauma scrambles your concentration, making           tively frozen, incapable of making decisions or taking
-you forget what you’re doing, mix up simple tasks,        action.
+you forget what you're doing, mix up simple tasks,        action.
 and falter over easy decisions.
                                                           PSYCHOSOMATIC CRIPPLING (MAJOR)
 ECHOPRAXIA (MODERATE)                                     The trauma overwhelms you, impairing some part of
@@ -31,7 +31,7 @@ NARCISSISM (MODERATE)                                     disorder that fits the
 In the wake of the mental shock, all you can think           Disorders are not always “active”—they may
 about is yourself. You cease caring about those around    remain dormant until triggered by certain conditions.
 you.                                                      While it is certainly possible to act under a disorder,
-                                                          it represents a severe impairment to a person’s ability
+                                                          it represents a severe impairment to a person's ability
 PANIC (MODERATE)                                          to maintain normal relationships and do a job suc-
 You are overwhelmed by fear or anxiety and immedi-        cessfully. Disorders should not be glamorized as cute
 ately seek to distance yourself from the cause of the     role-playing quirks. They represent the best attempts
@@ -52,6 +52,6 @@ You have a major freak out over the source of the         tive behavior focused 
 stress and attack it.                                     substance, to the point where the user is unable to func-
                                                           tion without the addiction but is also severely impaired
 HALLUCINATIONS (MAJOR)                                    due to the effects of the addiction. It is marked by a
-You see, hear, or otherwise sense things that aren’t      desire on the part of the subject to seek help or reduce
+You see, hear, or otherwise sense things that aren't      desire on the part of the subject to seek help or reduce
 really there.                                             the use of the addicting substance/act, but also by the
                                                           subject spending large amounts of time in pursuit of

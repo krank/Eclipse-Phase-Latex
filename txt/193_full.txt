@@ -1,10 +1,10 @@
 count as a Complex Action, and would apply the
 same modifier as running. Flying generally counts as a    COMBAT
-Quick Action, though intricate maneuvers would call       Sometimes words fail, and that’s when the knives and
+Quick Action, though intricate maneuvers would call       Sometimes words fail, and that's when the knives and
 for a Complex Action.                                     shredders come out. All combat in Eclipse Phase is
-                                                          conducted using the same basic mechanics, whether it’s
+                                                          conducted using the same basic mechanics, whether it's
 MOVEMENT RATES                                            conducted with claws, fists, weapons, guns, or psi: an
-Sometimes it’s important to know not just how you’re      Opposed Test between the attacker and defender(s).
+Sometimes it's important to know not just how you're      Opposed Test between the attacker and defender(s).
 moving, but how far. For most of transhumanity, this
 movement rate is the same: 4 meters per Action Turn       RESOLVING COMBAT
 walking, 20 meters per turn running. To determine         Use the following sequence of steps to determine the
@@ -21,7 +21,7 @@ robots, creatures, and unusual morphs will have indi-     STEP 2: DECLARE DEFENS
 vidual movement rates listed in the format of walking     Once the attack is declared, the defender chooses how
 rate/running rate in meters per turn.                     to respond. Defense is always considered an Automatic
   These movement rates assume standard Earth              Action unless the defender is surprised (see Surprise,
-gravity of course. If you’re moving in a low-gravity,     p. 204) or somehow incapacitated and incapable of
+gravity of course. If you're moving in a low-gravity,     p. 204) or somehow incapacitated and incapable of
 microgravity, or high-gravity environment, things         defending themself.
 change. See Gravity, p. 198.                                 Melee: A character defending against melee at-
                                                           tacks uses Fray skill, representing dodging (if the

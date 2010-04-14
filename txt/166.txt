@@ -43,7 +43,7 @@ tandard                 (Standard), X-Ray Emitter ■
 ■                       (1d10 DV, use Unarmed Combat      ceede
                         skill), Ink Attack (blinding),    ing th
                         360-degree Vision ■               Neve
-                  “Maybe it’s the kind of trap that would catch
+                  “Maybe it's the kind of trap that would catch
                      but my superior physiology was able to
 CURIAL SCAVENGER
            APTITUDES
@@ -75,7 +75,7 @@ mics: Materials Science        COG      50         5             55
                   Free Fall    REF      45                       45
   Hardware: Electronics        COG      40           5           45
     Hardware: Industrial       COG      40           5           45
-                Inﬁltration    COO      50           5           55
+                Infiltration    COO      50           5           55
 nterests: Post-Fall Earth      COG      40           5           45
  erests: Ruined Habitats       COG      55           5           60
 ests: Spaceship Models         COG      40           5           45

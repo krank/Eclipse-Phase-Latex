@@ -27,7 +27,7 @@ you are trying to manipulate an animal, whether your          Specializations: L
  intent is to calm it down, keep it from attacking, in-         Beam Weapons, Plasma Rifles
  timidate it, acquire its trust, or goad it into attacking.
 Your Margin of Success determines how effective you           BLADES
- are at convincing the creature. At the gamemaster’s          Type: Active, Combat
+ are at convincing the creature. At the gamemaster's          Type: Active, Combat
  discretion, modifiers may be applied to the test. Like-      Linked Aptitude: SOM
 wise, winning an animal over may sometimes take                 What it is: The Blades skill covers the usage and
  time, and so could be handled as a Task Action with a        maintenance of standard bladed weapons (p. 334).
@@ -57,4 +57,4 @@ Linked Aptitude: INT                                          Action with a time
 uate artistic endeavors. This is a particularly useful        scent is 50 meters per Action Turn. Climbing gear (p.
 skill in Eclipse Phase, especially in the post-scarcity       332-333) provides appropriate modifiers.
 economies where creativity and vision can be a key            Specializations: Assisted, Freehand, Rappelling
-component to a character’s reputation.
+component to a character's reputation.

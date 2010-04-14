@@ -1,34 +1,34 @@
 COMBAT SUMMARY                                                                    COMBAT MODIFIERS
-• Combat is handled as an Opposed Test.
-• Attacker rolls attack skill +/– modiﬁers.                 GENERAL                                                            MO
-• Melee: Defender rolls Fray or melee skill                 Character using off-hand
-  +/– modiﬁers.
+- Combat is handled as an Opposed Test.
+- Attacker rolls attack skill +/– modifiers.                 GENERAL                                                            MO
+- Melee: Defender rolls Fray or melee skill                 Character using off-hand
+  +/– modifiers.
                                                             Character wounded/traumatized                                –10 per w
-• Ranged: Defender rolls (Fray skill ÷ 2, round
+- Ranged: Defender rolls (Fray skill ÷ 2, round
                                                             Character has superior position
-  down) +/– modiﬁers.
-• If attacker succeeds and rolls higher than the            Touch-only attack
+  down) +/– modifiers.
+- If attacker succeeds and rolls higher than the            Touch-only attack
   defender, the attack hits.                                Called shot
-• Critical hits are armor-defeating (armor does             Character wielding two-handed weapon with one hand
+- Critical hits are armor-defeating (armor does             Character wielding two-handed weapon with one hand
   not apply).                                               Small target (child-sized)
-• Armor is reduced by the attack’s Armor                    Very small target (mouse or insect)
+- Armor is reduced by the attack's Armor                    Very small target (mouse or insect)
   Penetration value (AP).
                                                             Large target (car sized)
-• The weapon’s damage is reduced by the
+- The weapon's damage is reduced by the
                                                             Very large target (side of a barn)
-  target’s modiﬁed Armor rating (unless the
+  target's modified Armor rating (unless the
   attack is armor-defeating).                               Visibility impaired (minor: glare, light smoke, dim light)
-• If the damage exceeds the target’s Wound                  Visibility impaired (major: heavy smoke, dark)
+- If the damage exceeds the target's Wound                  Visibility impaired (major: heavy smoke, dark)
   Threshold, a wound is also scored. (If the                Blind attack
   damage exceeds the Wound Threshold
   by multiple factors, multiple wounds are                  MELEE COMBAT                                                       MO
-  inﬂicted.)                                                Character has reach advantage
+  inflicted.)                                                Character has reach advantage
                                                             Character charging or receiving a charge
 
 ACTION AND COMBAT COMPLICATIONS                             RANGED COMBAT (ATTACKER)                                           MO
-Combat isn’t quite as simple as deciding if you hit or
+Combat isn't quite as simple as deciding if you hit or
 miss. Weapons, armor, ammunition, and numerous              Attacker using smartlink or laser sight
-other factors may impact an attack’s outcome. Like-         Attacker behind cover
+other factors may impact an attack's outcome. Like-         Attacker behind cover
 wise, various factors can impact an action scene, such      Attacker running
 as fire or microgravity effects.                            Attacker in melee combat
                                                             Attacker has reach advantage
@@ -41,16 +41,16 @@ the attack. You can also sacrifice an entire Complex        Defender prone and f
 Action to fix your aim on a target. In this case, as long   Defender hidden
 as the target remains in your sights until your next        Aimed shot (quick)
 Action Phase, you receive a +30 modifier to hit.            Aimed shot (complex)
-                                                            Sweeping ﬁre with beam weapon                                  +10 on
+                                                            Sweeping fire with beam weapon                                  +10 on
 AMMUNITION AND RELOADING                                    Multiple targets in same Action Phase                        –20 per a
 Every weapon has a listed ammunition capacity that
-indicates how many shots the weapon can carry or            Indirect ﬁre
+indicates how many shots the weapon can carry or            Indirect fire
 holds. When this ammo runs out, a new supply must           Point-blank range (2 meters or less)
 be loaded in. Players should keep track of the shots        Short range
 they fire.                                                  Medium range
    Reloading almost always requires a Complex               Long range
 Action, whether you are slapping in a new clip of bul-      Extreme range
-lets or a fresh battery for a laser. At the gamemaster’s
+lets or a fresh battery for a laser. At the gamemaster's
 discretion, a reload that is immediately accessible
 (such as a new clip reverse-taped to the loaded clip, so     BLAST EFFECT
 that reloading just requires that you reverse the taped      Blast weapons include items like grenades, mines, and

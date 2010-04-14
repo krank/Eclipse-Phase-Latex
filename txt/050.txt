@@ -1,9 +1,9 @@
 can be almost as traumatic as the death of a loved one.
 Using a generic muse who must be informed about
-all aspects of a user’s individual preferences and fed a
+all aspects of a user's individual preferences and fed a
 constant stream of instructions helps people appreci-
 ate the value of their own personal muse agent. Muses
-generally learn the basics of a new user’s preferences
+generally learn the basics of a new user's preferences
 in a month or two, but during that learning period the
 user tends to be irritable and forgetful, since the tasks
 they generally trust their muse to do automatically are
@@ -50,7 +50,7 @@ that those AGIs share your goals and ideals.
 
 ATTITUDES TOWARDS MENTAL ALTERATIONS
 In the post-Fall solar system, technology can alter peo-
-ple’s minds; controversy about many of these altera-
+ple's minds; controversy about many of these altera-
 tions remains. Few people have trouble with the idea
 of creating short-term forks using the multi-tasking
 augmentation or some similar process that insures
@@ -110,7 +110,7 @@ habitats offer ruster, aquanaut, or bouncer morphs
 instead of splicers. These morphs can be used for up to
 a week without much difficulty, and using one for up
 to a month is usually possible with sufficient negotia-
-tion and payment. Meanwhile, the traveler’s previous
+tion and payment. Meanwhile, the traveler's previous
 morph is kept in medical stasis back in their home
 habitat, waiting for their ego to return.
    Another technique is morph trading by people from

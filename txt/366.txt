@@ -57,7 +57,7 @@ Turn to shut down. Restarting takes 3 full Action Turns
 which the AI or infomorph must make another Op-
 posed COG + INT Test against the virus. If this test also
 fails, then the virus has already embedded itself in the
-AI or infomorph’s code and will continue its infection.
+AI or infomorph's code and will continue its infection.
    One the infection is complete, the AI/infomorph
 becomes an Exsurgent NPC.
 CYBERBRAIN HACKING
@@ -70,7 +70,7 @@ as noted on p. 261, or unleash a basilisk hack.
 
 NANOPLAGUE
 While the abundance of nanotechnology has been a
-blessing for transhumanity’s journey to the stars, it has
+blessing for transhumanity's journey to the stars, it has
 also been a curse. Via the TITANs and mesh-connected
 nanofabrication machines, the Exsurgent virus manu-
 factured nanobot swarms equipped with variants of
@@ -112,11 +112,11 @@ their understanding of transhuman brain functions—
 breakthroughs that will take transhumanity decades to
 reach. One of these discoveries was a method of apply-
 ing sensory input as a weapon, exploiting weaknesses
-in the brain’s neuro-cerebral wiring.
+in the brain's neuro-cerebral wiring.
    Known as “basilisk hacks,” these attacks take
 advantage of the way biological transhuman brains
 interpret and process sensory input in the cerebral
 cortex. Just as epileptics are susceptible to visualiza-
 tions that strobe at certain frequencies, basilisk hacks
 employ special visual and auditory patterns that trig-
-ger glitches in the brain’s neuronal wiring to inflict
+ger glitches in the brain's neuronal wiring to inflict

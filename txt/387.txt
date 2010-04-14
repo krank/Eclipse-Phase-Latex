@@ -2,20 +2,20 @@ the character has with people capable of pinging their
 Rep with positive or negative feedback. Actions that
 happen in secret, without anyone ever knowing, should
 have no effect. Likewise, pissing off a Factor or a brinker
-isolate who never communicates with outsiders isn’t
+isolate who never communicates with outsiders isn't
 going to matter because no one else will ever hear of it
 (unless the character lifelogs it and posts it to the mesh
 later ... ). Note that Rep modifications only apply to Rep
-scores tied to the character’s known identity.
+scores tied to the character's known identity.
    Note that characters may gain and lose Rep score
-in networks they don’t actively participate in. For
+in networks they don't actively participate in. For
 example, a character with r-rep of 0 may help bring
 out a major scientific discovery that is shared with the
-solar system’s scientific community at large, thus gain-
+solar system's scientific community at large, thus gain-
 ing the character a few points of r-rep even though
 they never hang out with argonauts or scientists—
 what matters is that people who access r-rep will find
-positive details when they ping the person’s score on
+positive details when they ping the person's score on
 that particular rep network.
    Certain actions may result in a character simulta-
 neously gaining Rep with one network while losing
@@ -27,7 +27,7 @@ is likely to go down by an equal amount.
 ters to include more roleplaying and more interactions
 with the Eclipse Phase universe in their games. Social
 networks are a two-way street, meaning that members
-of the character’s social networks might contact them
+of the character's social networks might contact them
 for equipment, favors, and information during game
 play for things that are completely unrelated to the
 mission the character is on. A character who ignores
@@ -62,7 +62,7 @@ impressive planetoid-scale event, complete an exten-
 sive project (1 month work or 1 week of difficult/
 specialized work), risk death.
    Extreme Award (9–10 points): Do a Level 5 favor,
-start this year’s hot fashion trend, make a major scien-
+start this year's hot fashion trend, make a major scien-
 tific discovery, close the deal on a major corporate ac-
 quisition, start (or put down) a revolution, complete
 a major project (1 year work or 1 month difficult/
@@ -75,17 +75,17 @@ major or public blunders, doublecross their friends,
 and so on. Some suggested examples are noted here:
    Trivial Loss (–1 or –2 points): Fail to do a Level 1
 favor, inconvenience others, be involved in profession-
-al dispute, ruin someone’s day, never are available.
+al dispute, ruin someone's day, never are available.
    Minor Loss (–3 or –4 points): Fail to do a Level 2
 favor, embarrass yourself at a public event, piss off
 somebody important.
    Moderate Loss (–5 or –6 points): Fail to do a Level
-3 favor, endanger someone’s physical safety, make
+3 favor, endanger someone's physical safety, make
 the news for something negative, ruin an event for
 everybody.
    Major Loss (–7 or –8 points): Fail to do a Level 4
 favor, screw up a major mission or activity, endanger
-someone’s life, associate with hated rivals.
+someone's life, associate with hated rivals.
    Extreme Loss (–9 or –10 points): Fail to do a Level
 5 favor, botch a major mission or activity spectacularly,
 betray a faction to its rivals or enemies.
@@ -101,13 +101,13 @@ gained or spent, any character advancements made,
 any key information or memories acquired since that
 backup was made are lost. This means that in terms of
 game stats, resorting to an old backup can mean loss
-of a character’s hard-earned advancements—that’s the
+of a character's hard-earned advancements—that's the
 trade-off for being effectively immortal.
    Since these changes can have a serious effect on
-game play, it’s important to conduct accurate record-
-keeping. This sort of bookkeeping isn’t hard, and
+game play, it's important to conduct accurate record-
+keeping. This sort of bookkeeping isn't hard, and
 there are two ways to do it. The first is to simply
-make a copy of a the character’s record sheet any
+make a copy of a the character's record sheet any
 time a character makes an archived backup, forks off
 an alpha or beta copy, or dies (thus freezing the corti-
 cal stack backup). Each of these is considered a “save

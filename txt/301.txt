@@ -1,6 +1,6 @@
  MESHED GEAR
 Almost all technology in Eclipse Phase is designed
-to be operated via radio signals from the user’s basic
+to be operated via radio signals from the user's basic
 implant, although models usable by characters with-
 out basic implants are also available. In addition all
 devices contain a nearly microscopic computer and
@@ -31,7 +31,7 @@ Small                     5 kilometers                    50
 Medium                   25 kilometers                25
 Large                    500 kilometers              5,00
    characters are usually made part of the personal area
-   network and slaved to the character’s mesh inserts/
+   network and slaved to the character's mesh inserts/
    ecto. For more info on meshed devices, see the Mesh
    chapter, p. 234.
      Many devices come equipped with AIs, who are

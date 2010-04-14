@@ -1,4 +1,4 @@
-fan blades for airlift. The controlling computer and       per game session. The character’s ties to this group
+fan blades for airlift. The controlling computer and       per game session. The character's ties to this group
 sensor systems are distributed throughout the swarm.       are also a two-way street—they will be expected to
 Though the swarm can “meld” together into a roughly        perform duties for the group on occasion as well (a
 child-sized shape, the swarm is incapable of tackling      potential plot seed for scenarios).
@@ -41,7 +41,7 @@ certain situations.                                        make or what course o
                                                            the gamemaster should give them solid advice based
 ADAPTABILITY                                               on what the character knows. Alternately, if the
 Cost: 10 (Level 1) or 20 (Level 2) CP                      character is about to make a disastrous decision, the
-  Resleeving is a breeze for this character. They adjust   gamemaster can use the character’s free hint and warn
+  Resleeving is a breeze for this character. They adjust   gamemaster can use the character's free hint and warn
 to new morphs much more quickly than most other            the player they are making a mistake.
 people. Apply a +10 modifier per level for Integration
 Tests and Alienation Tests (p. 272).                       DANGER SENSE
@@ -54,7 +54,7 @@ on for support. For example, this could be their old       DIRECTION SENSE
 gatecrashing crew, former research lab co-workers,         Cost: 5 CP
 a criminal cartel they are part of, or an elite social        Somehow the character always knows which way
 clique. The gamemaster and player should work out          is up, north, etc., even when blinded. The character
-what the character’s relationship is with this group,      receives a +10 modifier for figuring out complex di-
+what the character's relationship is with this group,      receives a +10 modifier for figuring out complex di-
 and why the character can call on them for aid.            rections, reading maps, and remembering or retracing
-Gamemaster’s should take care that these allies are        a path they have taken.
+Gamemaster's should take care that these allies are        a path they have taken.
 not abused, such as calling on them more than once

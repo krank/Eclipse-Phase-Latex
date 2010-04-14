@@ -1,5 +1,5 @@
-“bluebooking”). This can be particularly useful if a          Also, don’t forget to tap your resources. Your
- player was unable to attend a given session, pro-         gaming group is your best resource. What’s going on,
+“bluebooking”). This can be particularly useful if a          Also, don't forget to tap your resources. Your
+ player was unable to attend a given session, pro-         gaming group is your best resource. What's going on,
  viding a quick re-cap that they can read before at-       ideas for how to handle a situation, or how to take
  tending the next gaming session and thus avoiding         on a bad guy: these are just some of the things that
  a bog-down up-front as that player tries to catch         can and should be discussed by the gaming group
@@ -9,8 +9,8 @@
  for them. Likewise, some gaming groups audio-             ing a good book. Pay attention to how the story is
  record their entire game session, both for later          put together, how the characters are built, and how
  reference and for “actual play” podcasts.                 the plot unfolds. Push your imagination and soon
-   The old standard of a pencil and paper still works      you’ll be figuring out subplots and who the bad guy
-wonders. A host of additional technologies, how-           is long before it’s revealed. Knowing how a story is
+   The old standard of a pencil and paper still works      you'll be figuring out subplots and who the bad guy
+wonders. A host of additional technologies, how-           is long before it's revealed. Knowing how a story is
  ever, provide many new options for players. From          put together enables you to put together your own
  a text file on a laptop to a shared wiki, the ability     stories during each gaming session.
  to track large amounts of information in a quick             Finally, eclipsephase.com is the offi cial site for
@@ -33,13 +33,13 @@ blogging—should find it easy to track down and             THE DEFAULT CAMPAIG
 implement a quick dice-rolling program.                    In the default story (also known as “campaign set-
                                                            ting”), every player character is a “sentinel,” an
 IMAGINATION                                                agent-on-call (or potential recruit) for a shadowy
-All too often, it’s easy for someone looking at an         network known as “Firewall.” Firewall is dedicated
+All too often, it's easy for someone looking at an         network known as “Firewall.” Firewall is dedicated
 RPG to be intimidated. So many concepts to grasp,          to counteracting “existential risks”—threats to the
 so many ideas that seem overwhelming. Just as de-          existence of transhumanity. These risks can and do
 scribed under What is a Roleplaying Game?, how-            include biowar plagues, nanotech swarm outbreaks,
 ever, how often have you read a book or watched            nuclear proliferation, terrorists with WMDs, net-
 that movie and decided that you would have done            breaking computer attacks, rogue AIs, alien en-
-it better? That’s your imagination at work. Just dive      counters, and so on. Firewall isn’t content to simply
-in and you’ll be amazed at how quickly you can im-         counteract these threats as they arise, of course,
+it better? That's your imagination at work. Just dive      counters, and so on. Firewall isn't content to simply
+in and you'll be amazed at how quickly you can im-         counteract these threats as they arise, of course,
 merse yourself in the Eclipse Phase universe. Soon         so characters may also be sent on information-
-you’ll be spinning stories with the best of them.          gathering missions or to put in place pre-emptive
+you'll be spinning stories with the best of them.          gathering missions or to put in place pre-emptive

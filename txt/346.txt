@@ -9,7 +9,7 @@ eton features a military-grade fullerene armor shell
 with flexible aerogel for thermal insulation and a
 diamond-hardened exterior designed to resist even
 potent ballistic and energy-based weapons. The suit
-also enhances the wearer’s strength and mobility, ap-
+also enhances the wearer's strength and mobility, ap-
 plying a +10 bonus to strength-based tests, inflicting
 an extra +1d10 damage and AP of –2 on melee at-
 tacks, and doubling the distance by which the char-
@@ -26,7 +26,7 @@ protect the wearer from temperatures from –175 to
 140 C. [Expensive]
    Exowalker: Exowalkers are minimal framework
 exoskeletons, primarily designed to bolster the
-wearer’s strength and movement. They provide a an
+wearer's strength and movement. They provide a an
 Armor Value of 2/4, a +10 modifier to strength-based
 tests, and double the distance by which the character
 may jump. [Moderate]

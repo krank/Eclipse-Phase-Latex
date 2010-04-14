@@ -30,7 +30,7 @@ Combat in space tends to take place over long dis-
 tances using massive beam weapons, railguns, and
 missiles. It also tends to be nasty, brutish, and short.
 Significant damage to a vessel can cause atmospheric
-decompression, killing any biomorph crew who aren’t
+decompression, killing any biomorph crew who aren't
 suited up and strapped down.
   For the most part, it is recommended that space
 combat be treated as a plot device, part of the back-
@@ -70,14 +70,14 @@ for general purpose items: food, simple clothing, basic
 tools, etc. Blueprints for other goods may be acquired
 in several ways:
 
- • They may be purchased online (legally or on the
+ - They may be purchased online (legally or on the
    black market).
- • They may be found for free online (see below).
- • They may be acquired with Rep, following the
+ - They may be found for free online (see below).
+ - They may be acquired with Rep, following the
    usual rules for social networking (p. 285).
- • They may stolen (usually by hacking a mesh site
+ - They may stolen (usually by hacking a mesh site
    or a nanofabricator containing such plans).
- • They may be self-programmed (see below).
+ - They may be self-programmed (see below).
 
   Once the blueprints are acquired, they are simply
 loaded into the nanofabricator.
@@ -116,6 +116,6 @@ one week per cost level of the item. For example, a
 Trivial cost item takes 1 week, a Low cost item takes 2
 weeks, a Moderate item 3 weeks, and so on. Academ-
 ics: Nanotechnology skill or a skill appropriate to the
-object’s design may be used as a complementary skill
+object's design may be used as a complementary skill
 (p. 173) for this test. A fork or muse may also be as-
 signed to such a programming task.

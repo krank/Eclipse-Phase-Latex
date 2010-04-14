@@ -1,8 +1,8 @@
-   Hollow-Point: Hollow-point bullets are designed to      lock on, correcting the bullet’s trajectory with surface
+   Hollow-Point: Hollow-point bullets are designed to      lock on, correcting the bullet's trajectory with surface
 deform and widen once they penetrate a target, thus        alterations and tiny vectored nozzles. Apply a +10
 inflicting more damage. [Trivial]                          modifier to the Attack Test, cumulative with aiming
    Jammer: Jammers stick to the target and pulse out       and smartlink modifiers. Homing bullets may also be
-jamming electromagnetic signals, jamming the target’s      used for indirect fire (p. 195). [Low]
+jamming electromagnetic signals, jamming the target's      used for indirect fire (p. 195). [Low]
 wireless communications. If an Opposed Test is called         Laser-Guided: These bullets function like homing
 for, these devices have an Interface of 30. See Radio      smart rounds (apply the +10 attack modifier), except
 Jamming, p. 262. [Low]                                     rather than requiring a smartlink system, they lock
@@ -23,7 +23,7 @@ designed to put holes into morphs. [Trivial]               the round hits or mis
    Splash: Splash rounds carry a payload like capsule      etry data back to the next zero bullet, allowing it to
 ammo, but are designed to break upon impact rather         course-correct and “zero in” to hit the target (or hit
 than penetrating, splashing their contents on the          more accurately). Apply a +10 modifier to each shot
-target’s exterior. Splash rounds are typically loaded      (or burst) fired after the first against the same target in
+target's exterior. Splash rounds are typically loaded      (or burst) fired after the first against the same target in
 with paint, taggant nanobots, tracker dye, and similar     the same Action Turn. [Low]
 substances. [Trivial plus payload cost]
    Zap: Zap rounds are rubber or gel bullets that          BEAM WEAPONS
@@ -41,7 +41,7 @@ flayer, and proximity rounds, smart ammo may be            it is depleted. Batte
 combined with other ammo types (accushot armor-            of 20 shots per hour.
 piercing, for example).                                       Laser Pulsers: Laser weapons use focused beams of
    Accushot: Accushot bullets change shape within          light to inflict damage on the target by burning into it
-flight to keep dead on course, countering the effects      and causing it’s outer surface to vaporize and expand,
+flight to keep dead on course, countering the effects      and causing it's outer surface to vaporize and expand,
 of wind, drag, and gravity over distance. Attacks          creating an explosive effect. The laser beam is pulsed
 made with accushot bullets ignore all range modi-          in order to bite into the target before the beam is dif-
 fiers. [Low]                                               fused. Pulsers are vulnerable to atmospheric effects

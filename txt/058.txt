@@ -9,13 +9,13 @@ be done in any place that has meshbrowsing access.
 equally resource-rich locations, all hypercorps main-
 tain dedicated research and manufacturing stations
 scattered throughout the solar system. Well-known
-facilities include Starware’s vast shipyards, the largest
+facilities include Starware's vast shipyards, the largest
 of which are located on Luna and the asteroid Vesta,
-and Omnicor’s huge antimatter factory orbiting Mer-
+and Omnicor's huge antimatter factory orbiting Mer-
 cury. There are many other lesser-known facilities,
 including the automated mines that the mysterious
 Zrbny Group maintains in the main asteroid belt and
-Saturn’s rings, and the qubit factory Nimbus main-
+Saturn's rings, and the qubit factory Nimbus main-
 tains in Mars orbit.
    In addition, there is an even larger number of
 secure and often secret research installations, some
@@ -41,7 +41,7 @@ spies, thieves, and reporters regularly attempt to gain
 access to these facilities, generally without success.
 Many such attempts, especially by would-be thieves
 and spies, end with distinctly negative consequences,
-including the thieves’ temporary (and on some occa-
+including the thieves' temporary (and on some occa-
 sions permanent) death.
    Hypercorps also own and manage a number of
 habitats. Many are primarily homes for hypercorp
@@ -92,7 +92,7 @@ includes any issue related to the security, profits, and
 productivity of the hypercorps involved. Votes on
 these issues are used in a purely advisory fashion,
 meaning that they are utterly ignored when the result
-of the vote is at odds with the hypercorps’ agendas.
+of the vote is at odds with the hypercorps' agendas.
    While residents of these settlements and habitats
 can vote about adding a new holiday to honor some
 important figure or the location and design of a

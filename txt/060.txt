@@ -20,7 +20,7 @@ system, but most people resist attempts to seriously
 restrict their personal freedoms in any manner not di-
 rectly related to maintaining their safety. Inhabitants
 of the outer system still remember how the old gov-
-ernments’ demands of adherence to bioconservativism
+ernments' demands of adherence to bioconservativism
 and allegiance to distant and often unresponsive lead-
 ers did nothing to prevent the Fall from happening,
 and that memory fuels their mistrust of those states.
@@ -55,7 +55,7 @@ by a single charismatic leader who transforms their
 habitat into a cult of personality.
    Other habitats choose their leaders by random
 lot, with every adult who can pass a relatively easy
-competency test being eligible to be the colony’s
+competency test being eligible to be the colony's
 leader for a period that usually ranges from six
 months to five years. A few habitats are governed
 by powerful specialized AIs, which in very few
@@ -64,7 +64,7 @@ seed AIs that the colony has secretly created. Sev-
 eral colonies populated by purely informorph or
 synthmorph inhabitants use special high-bandwidth
 connections to give their members access each
-other’s surface thoughts and emotional reactions,
+other's surface thoughts and emotional reactions,
 allowing them to hold vast democratic political
 meetings where everyone present can feel the gen-
 eral emotional reactions of all of the other members

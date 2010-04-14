@@ -3,18 +3,18 @@ models are also available, though they require more
 severe body alteration to accommodate. These limbs
 apply a +5 SOM bonus per limb (maximum +10).
 They may be replacement limbs or “extra” limbs an-
-chored in the body’s skeletal frame. These cyberlimbs
+chored in the body's skeletal frame. These cyberlimbs
 may not be masked. [High]
    Hand Laser: The morph has a weapon-grade laser
 implanted in its forearm, with a flexible waveguide
 leading to a lens located between the first two knuck-
-les on the morph’s dominant hand. The laser fires
+les on the morph's dominant hand. The laser fires
 from this waveguide, inflicting 2d10 damage with 0
 AP. The laser is powered by a small nuclear battery
-located in the morph’s torso, good for 50 shots before
+located in the morph's torso, good for 50 shots before
 it must be recharged like other beam weapon batteries
 (p. 338). [Moderate]
-   Hardened Skeleton: The morph’s skeleton has been
+   Hardened Skeleton: The morph's skeleton has been
 laced with strengthening materials. Apply a +5 DUR
 and +5 SOM bonus. [High]
    Oxygen Reserve: The morph has a miniature
@@ -22,7 +22,7 @@ oxygen tank and rebreather installed in its torso. This
 implant provides the equivalent of the life support
 system in a light vacsuit (p. 333), allowing the charac-
 ter to breathe comfortably for up to 3 hours. It feeds
-oxygen directly to the morph’s blood stream, avoiding
+oxygen directly to the morph's blood stream, avoiding
 problems with pressure changes. Implanted sensors
 automatically cause the character to use the stored
 oxygen if they detect poisonous or insufficient atmo-
@@ -35,10 +35,10 @@ is in a breathable atmosphere, this implant recovers
 one hour of oxygen storage. The implant can be fully
 recharged within 15 minutes if the character is in a
 high-pressure mostly oxygen atmosphere. [Low]
-   Reflex Boosters: The morph’s spinal column and
+   Reflex Boosters: The morph's spinal column and
 nervous system is rewired with superconducting
 materials, boosting transmission speed. This raises
-the character’s REF by +10 and improves Speed by
+the character's REF by +10 and improves Speed by
 +1. [Expensive]
 
 NANOWARE
@@ -62,7 +62,7 @@ are immune to their own nanotoxins. Nanotoxins
 are highly restricted and many habitats will not allow
 anyone with this implant on board. [Moderate]
    Medichines: This is the most common form of
-nanoware. These nanobots monitor the user’s body at
+nanoware. These nanobots monitor the user's body at
 a cellular level and fix any problems that arise.
    Medichines eliminate most diseases, drugs, and
 toxins (but not nanodrugs or nanotoxins) before
@@ -73,28 +73,28 @@ or other effects, but unless the character activates a
 second specially labeled override, medichines prevent
 the toxins from accumulating to lethal or permanently
 harmful levels. In this case, they can also be activated
-at a later point to reduce a drug or toxin’s remaining
+at a later point to reduce a drug or toxin's remaining
 duration by half.
    Medichines allow the character to ignore the effects
 of 1 wound. They also speed normal healing as noted
 under Biomorph Healing, p. 208. If the user suffers
 5 or more wounds at once, or more than 6 wounds
-in an hour, the damage has exceeded the medichines’
+in an hour, the damage has exceeded the medichines'
 ability to repair. In this case, the medichines place the
 character into a medical stasis, where their mind and
 body are perfectly preserved, but where the character
 cannot act in any way. Under these circumstances the
 medichines also send out a priority call for emergency
-services via the character’s mesh inserts.
+services via the character's mesh inserts.
    Medichines for synthmorphs and bots consist
-of nanobots that monitor and repair the shell’s
+of nanobots that monitor and repair the shell's
 integrity and internal system functions. Note that
 the synthmorph version of medichines allows the
 synthmorph to self-repair in the same manner by
 which a biomorph with medichines would naturally
 heal (p. 208). [Low]
    Mental Speed: With this nanoware system, nano-
-bots alter the character’s neural architecture and
+bots alter the character's neural architecture and
 augment the functioning of their neurons. The char-
 acter can deliberately speed up their mind to think
 and also receive and process sensory information far

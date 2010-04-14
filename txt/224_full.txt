@@ -2,9 +2,9 @@ when defending against psi use. Note that infomorphs          If the psi-wieldin
 may never be targeted by psi sleights as psi is not ef-    fender fails, the sleight affects the target. If the psi user
 fective within the mesh or simulspace.                     fails, the defender is unscathed. If both parties suc-
    Multiple Targets: An async may target more than         ceed in their tests, compare their dice rolls. If the psi
-one character with a sleight with the same action, as      user’s roll is higher, the sleight bypasses the defender’s
+one character with a sleight with the same action, as      user's roll is higher, the sleight bypasses the defender's
 long as each of them can be targeted via the rules         mental block and affects the target; otherwise, the
-above. The psi character only rolls once, with each of     sleight fails to affect the defender’s ego.
+above. The psi character only rolls once, with each of     sleight fails to affect the defender's ego.
 the defending characters making their Opposed Tests
 against that roll. The psi character suffers strain (p.    TARGET AWARENESS
 223) for each target, however, meaning that using psi      The target of a psi sleight is aware they are being
@@ -13,11 +13,11 @@ on multiple targets can be extremely dangerous.            targeted any time the
 against any living creature with a brain and/or            rolls higher or not). Note that awareness does not
 nervous system. Against partially-sentient and par-        necessarily mean that the target understands that psi
 tially-uplifted animals, it suffers a –20 modifier and     abilities are being used on them, especially as most
-increases strain by +1. Against non-sentient animals,      people in Eclipse Phase are unaware of psi’s existence.
+increases strain by +1. Against non-sentient animals,      people in Eclipse Phase are unaware of psi's existence.
 it suffers a –30 modifier and increases strain by +3. It   Instead, the target is simply likely to understand that
 has no effect on or against less complex life forms like   some outside influence is at work, or that something
 plants, algae, bacteria, etc.                              strange is happening. They may suspect that they
-   Factors and Aliens: At the gamemaster’s discretion,     have been drugged or are under the influence of some
+   Factors and Aliens: At the gamemaster's discretion,     have been drugged or are under the influence of some
 psi sleights may not work on alien creatures at all, de-   strange technology.
 pending on their physiology and neurology. If it does        Targets who fail their roll remain unaware.
 work, it is likely to suffer at least a –20 modifier and

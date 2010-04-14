@@ -1,7 +1,7 @@
- • Knowledge skills have a maximum of 80. The
+ - Knowledge skills have a maximum of 80. The
    fork may have no more than 5 Knowledge skills.
- • Moxie is reduced to 0.
- • The Psi trait is removed. At the gamemaster’s dis-
+ - Moxie is reduced to 0.
+ - The Psi trait is removed. At the gamemaster's dis-
    cretion, other traits may no longer apply as well.
 
   Additional changes may apply as determined by the
@@ -39,34 +39,34 @@ that it functions as either a beta or delta fork.
    Beta forks are created by taking a virtual mind state
 that is intentionally inhibited and filtering a copy of
 the ego through it. Like a topiary shrub, the portions
-of the character’s neural network that exceed the ca-
+of the character's neural network that exceed the ca-
 pacities of the intended fork are trimmed away. In ad-
 dition to the changes noted under Beta Forks (p. 273),
 characters may voluntarily choose to delete/decrease
 skills and remove memories.
-   Delta forks are created by excising the ego’s surface
+   Delta forks are created by excising the ego's surface
 personality traits and applying them to an AI template.
-In this case the ego’s memories are usually excluded
+In this case the ego's memories are usually excluded
 entirely—it is easier to start with a blank delta fork
 and feed them the specific memories/knowledge they
 need. As with beta forks, characters making delta
 forks may voluntarily choose to delete/decrease skills
 and keep specific memories.
-   Transhumanity’s grasp of neuroscience extends to
+   Transhumanity's grasp of neuroscience extends to
 scanning and copying a mind, but the most intricate
 workings of memory are still imperfectly understood.
 Making precise edits to individual portions of a neural
 network (to alter recollections, skills, and the like) is
 still a black art. The difficulty with neural pruning is
 that taking a weed whacker to the tree of memory
-isn’t an exact science. Specific memories may not be
+isn't an exact science. Specific memories may not be
 excised or chosen—at best, memories may be handled
 in broad clumps, typically grouped by time periods no
 finer than 6 months. For simplicity, most beta forks are
 created by removing all memories older than 1 year.
    When creating a beta or delta fork, the character
 must make a Psychosurgery Test (other parties may
-make this test on the character’s behalf, representing
+make this test on the character's behalf, representing
 that the character is giving them access to prune the
 fork appropriately). If the character succeeds, the fork
 is created as desired. If the test fails, the gamemaster
@@ -74,12 +74,12 @@ chooses one of the following penalties for every 10
 full points of MoF. Some of these penalties may be
 combined for a cumulative effect:
 
-  • 1 additional skill decreased by –20
-  • Fork acquires a Negative mental trait worth 10 CP
-  • Fork suffers 1d10 ÷ 2 (round up) mental stress
-  • Extra memory loss (gamemaster discretion; beta
+  - 1 additional skill decreased by –20
+  - Fork acquires a Negative mental trait worth 10 CP
+  - Fork suffers 1d10 ÷ 2 (round up) mental stress
+  - Extra memory loss (gamemaster discretion; beta
     forks only)
-  • 1 Positive trait lost
+  - 1 Positive trait lost
 
 NEURAL PRUNING WITH LONG-TERM PSYCHOSURGERY
 Rather than generating forks on the fly, some char-
@@ -107,14 +107,14 @@ in instancing her army of cloned selves.
 
 HANDLING FORKS
 Gamemasters are encouraged to allow players to ro-
-leplay their character’s own forks. It is important to
+leplay their character's own forks. It is important to
 note, however, that even with alpha forks, once the
 fork and originating ego diverge, they develop onward
 as separate people. The events that shape the primary
-ego’s personality, character, and knowledge will not
+ego's personality, character, and knowledge will not
 happen—or even if they do, probably not in the same
 way—to the fork, and vice versa. The exact dividing
 line between an ego and a fork is a central philosophi-
 cal and legal debate among many transhumans.
    This means that gamemaster should not be afraid
-to pull a fork out of a player character’s hands and
+to pull a fork out of a player character's hands and

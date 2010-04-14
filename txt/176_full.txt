@@ -2,7 +2,7 @@
 ASSESSMENT         SOMATICS     COORDINATION       REFLEXES      COGNITION             INTUITION            SAVVY          WILLPOWER
  child average         inept           clumsy          slow         limited               aware            awkward           distracted
  adult average         weak             able           paced       intelligent          perceptive         personable        controlled
-anshuman average        ﬁt           coordinated       swift         bright                sharp          charismatic         focused
+anshuman average        fit           coordinated       swift         bright                sharp          charismatic         focused
    enhanced          enhanced           agile           fast        learned              uncanny            dazzling          resolute
   superhuman           gifted          nimble        lightning      brilliant            prescient        mesmerizing       unwavering
   posthuman            elite          unerring        synaptic      genius           near omniscient        hypnotic        unshakable
@@ -15,11 +15,11 @@ anshuman average        ﬁt           coordinated       swift         bright   
   dancing? The answer is training and skill. The greater
                                                                     10          Very rudimentary knowledge
   your skill, the more likely you are to not only succeed
-  at what you want to do, but succeed well.                         20          Basic operator’s proﬁciency (driver’s license, gun permit,
+  at what you want to do, but succeed well.                         20          Basic operator's proficiency (driver's license, gun permit,
     Aptitudes in Eclipse Phase range from 1 to 30,                              high school diploma)
   while learned skills range from 0 to 99. These num-               30          Hands-on experience, some professional training
-  bers are an abstraction of the range of transhuman                40          Basic professional certiﬁcation (police driving, army riﬂe
-  abilities and traits. The Aptitude Range table provides                       certiﬁed, college diploma)
+  bers are an abstraction of the range of transhuman                40          Basic professional certification (police driving, army rifle
+  abilities and traits. The Aptitude Range table provides                       certified, college diploma)
   a breakdown of different aptitude levels and how they
                                                                     50          Experience from professional-level work, some
   relate to each other. Likewise, the Learned Skill Range
@@ -52,8 +52,8 @@ APTITUDE COMPARISON:
 FLATS VS. SPLICERS AND EXALTS
 Compared to humans in the early 21st Century, the average transhuman in the world of Eclipse Phase is faster,
 smarter, stronger, and healthier than their unaugmented predecessors. Normal unaugmented humans, called
-ﬂats (p. 139), most closely approximate the type of person that was born in our time. The majority of people,
+flats (p. 139), most closely approximate the type of person that was born in our time. The majority of people,
 however, inhabit bodies that are known as splicers (p. 139) or exalts (p. 139) (well, those with biological bodies
-anyway). Splicers are geneﬁxed to avoid genetic defects and optimized for certain characteristics, while exalts
+anyway). Splicers are genefixed to avoid genetic defects and optimized for certain characteristics, while exalts
 are tweaked to make them superior across the board: they are more attractive, more athletic, have greater
 cognitive capacity, and are more attuned to the world around them than their unaugmented kin.                   ■

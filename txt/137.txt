@@ -10,7 +10,7 @@
 
            skill, and +10 Pilot: Groundcraft skill. She also has +10
            to two other skills (one Academic, Professional, or Tech-
-           nical) that she’ll choose later.
+           nical) that she'll choose later.
               Tai starts with 105 points for aptitudes, which works
            out to 15 each. She wants her character to be impulsive
            and antisocial, so right away she lowers both SAV and
@@ -54,7 +54,7 @@ spectively). See Purchasing Gear, p. 136, for more
 details.
 
 REP
-Your character isn’t a complete newbie. You get 50
+Your character isn't a complete newbie. You get 50
 rep points to divide between the reputation networks
 of your choice (see Reputation and Social Networks,
 p. 285).

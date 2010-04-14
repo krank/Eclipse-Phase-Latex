@@ -94,7 +94,7 @@ animal swarms. These swarms stick together and
 work as a whole, communicating with nanoradios,
 nanolasers, or chemical cues, and sharing informa-
 tion between each bot in the swarm. Note that nano-
-swarms don’t invade inside living bodies (though they
+swarms don't invade inside living bodies (though they
 may attack externally)—internal nano is handled by
 nanoware (p. 308), nanodrugs (p. 321), and nanotox-
 ins (p. 324).

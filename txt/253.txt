@@ -26,9 +26,9 @@ networks, or in private and commercial archives. This
 would require the character to gain access to such
 networks in order to get the data they need (assuming
 they even know where to look).
-   It’s worth noting that some entities send out AIs
+   It's worth noting that some entities send out AIs
 into the mesh with the intent of finding and erasing
-data they’d rather hide, even if this requires hacking
+data they'd rather hide, even if this requires hacking
 into systems to alter such information.
 
 
@@ -49,11 +49,11 @@ WIRELESS SCANNING
 To interface with a wireless device or network, whether
 to establish a connection or for other purposes, the
 target device/network must be located first. To locate
-an active node, it’s wireless radio transmissions must be
+an active node, it's wireless radio transmissions must be
 detected. Most wireless devices automatically scan for
 other devices in range (see Radio and Sensor Ranges, p.
 299) as a matter of course, so no test is required. This
-means that it’s trivial for any character to pull up a
+means that it's trivial for any character to pull up a
 list of the wireless devices and networks around them,
 along with associated mesh IDs. Likewise, a muse or
 device can be instructed to alert the user when a new
@@ -85,7 +85,7 @@ be monitored as they move as long as they maintain
 an active wireless connection to the mesh.
 
 TRACKING BY MESH ID
-An unknown user’s physical location can also be
+An unknown user's physical location can also be
 tracked via their online mesh activity—or more spe-
 cifically, by their mesh ID (p. 246). Network security
 will often trace intruders this way and then dispatch

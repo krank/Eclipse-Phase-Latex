@@ -1,18 +1,18 @@
 are legit business (in places where it is legal), some          Biometric Scan: This calls for a scan of one or more
-are criminals operating illegally, others are hacktivists    of the user’s biometric signatures (fingerprint, palm
+are criminals operating illegally, others are hacktivists    of the user's biometric signatures (fingerprint, palm
 promoting the privacy meme, and still others are hy-         print, retinal scan, DNA sample, etc.). Popular before
 percorps or other organizations offering such services       the Fall, such systems have fallen out of use as they
 internally to their own staff/membership.                    are impractical with synthmorphs or users that fre-
    The interaction between the vendor and user is            quently resleeve.
 encrypted and anonymous, with no logs kept, so even             Passkey: Passkey systems call for some of encrypted
-if the vendor’s servers are hacked, an intruder will         code that is either hardwired into a physical device
+if the vendor's servers are hacked, an intruder will         code that is either hardwired into a physical device
 not find any leads. While some anonymous accounts            (that is either implanted or physically jacked into
 are established for regular use, the truly paranoid use      an ecto) or extracted from specialized software. Ad-
 (multiple) one-time accounts for maximum security.           vanced passkeys combine hardwired encryption with
 One-time accounts are used for a single message (in-         physical nanotech etching to create a unique key. To
 coming or outgoing) or credit transaction, and then          access such systems, the passkey must either be ac-
 are securely erased.                                         quired or somehow spoofed.
-   Tracking an anonymous account is a practical                 Ego Scan: This system authenticates the user’s ego
+   Tracking an anonymous account is a practical                 Ego Scan: This system authenticates the user's ego
 impossibility, and something that only an extremely          ID (p. 279).
 resourceful organization employing a systematic and             Quantum Key: Quantum key systems rely on the un-
 expensive effort could attempt.                              breakable encryption of quantum cryptography (p. 254).
@@ -44,7 +44,7 @@ a user. Some are more reliable and secure than others,       slaved to the monit
 but for the most part, the more secure the method, the          Characters may actively monitor their own PANs if
 higher the operational expenses.                             they so choose, though this requires a moderate level
    Account: If you have access to an account on one          of attention (count as a Quick Action). It is far more
-system, this may give you automatic access to related        common for a muse to actively guard a user’s PAN.
+system, this may give you automatic access to related        common for a muse to actively guard a user's PAN.
 systems or subsystems. This is typical of slaved devices
 (p. 248), where access to the master automatically           ENCRYPTION
 grants you access to slaves.                                 Encryption is an exceptionally effective extra layer of

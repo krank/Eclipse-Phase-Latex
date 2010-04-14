@@ -17,7 +17,7 @@ done for items that are exotic, extremely complicated, or for which
 the blueprints are incomplete or otherwise suspect. This test can also
 be made if the raw materials are limited.
    The character operating the nanofabricator can make this test or
-it can be left up to the nanofabricator’s built-in AI. Most such Such
+it can be left up to the nanofabricator's built-in AI. Most such Such
 AIs have a Programming: Nanofabrication skill of 30 (see AIs and
 Muses, p. 331).
 
@@ -25,12 +25,12 @@ Muses, p. 331).
 
 REPUTATION AND SOCIAL NETWORKS
 “Once upon a time, there was a planet so incredibly primitive that its
- inhabitants still used money. That planet is called ‘Mars.’”
+ inhabitants still used money. That planet is called ‘Mars.'”
    —Professor Magnus Ming, Titan Autonomous University
 
    The conflict between market capitalism and other forms of eco-
-nomics is one of transhumanity’s last great culture wars, and it’s
-still being fought. Transhumanity’s expansion into the solar system
+nomics is one of transhumanity's last great culture wars, and it's
+still being fought. Transhumanity's expansion into the solar system
 created myriad opportunities to experiment with new economic sys-
 tems. Many failed, but the reputation economies of the outer system
 have proven both utilitarian and robust in a way that no previous
@@ -48,7 +48,7 @@ cal economics. No one could get away with doing this in the outer
 system. In the Trojans and Greeks, much of the belt, free Jupiter, and
 anywhere outward from Saturn, the reputation economy rules.
    How did this happen? For one thing, money is a nuisance when
-you’re an autonomous member of an autonomous collective whose
+you're an autonomous member of an autonomous collective whose
 nearest three neighbors (each 100,000 kilometers away) are also
 autonomous collectives. All of you are almost completely self-
 sufficient in terms of material resources. You have a fleet of robots

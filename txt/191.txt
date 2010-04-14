@@ -1,5 +1,5 @@
 INITIATIVE ORDER
-A character’s Initiative stat is equal to their Intuition +
+A character's Initiative stat is equal to their Intuition +
 Reflexes aptitudes multiplied by 2. This score may be
 further modified by morph type, implants, drugs, psi,
 or wounds.
@@ -11,17 +11,17 @@ highest to lowest. In the event of a tie, characters go
 simultaneously.
 
 
-           Adam, Bob, and Cami are rolling Initiative. Adam’s
-           Initiative stat is 80, Bob’s is 110, and Cami’s is 60.
+           Adam, Bob, and Cami are rolling Initiative. Adam's
+           Initiative stat is 80, Bob's is 110, and Cami's is 60.
            Adam rolls a 38, Bob rolls a 24, and Cami rolls a
  EXAMPLE
 
 
 
 
-           76. Adam’s total Initiative score is 118 (80 + 38),
-           Bob’s is 134 (110 + 24), and Cami’s is 136 (60 +
-           76). Cami rolled highest, so she goes ﬁrst, followed
+           76. Adam's total Initiative score is 118 (80 + 38),
+           Bob's is 134 (110 + 24), and Cami's is 136 (60 +
+           76). Cami rolled highest, so she goes first, followed
            by Bob and then Adam. If Cami & Bob had tied,
            they would both go at the same time.
 
@@ -38,7 +38,7 @@ may mean they now go after someone they were pre-
 viously ahead of in the Initiative order.
 
 
-           Before Bob’s Action Phase comes up, Bob takes
+           Before Bob's Action Phase comes up, Bob takes
  EXAMPLE
 
 
@@ -55,7 +55,7 @@ an Action Phase, regardless of their Initiative roll (see
 Moxie, p. 122). If more than one character chooses
 this option, then order is determined as normal first
 among those who spent Moxie, followed by those
-who didn’t.
+who didn't.
    Similarly, any character that rolls a critical on Ini-
 tiative automatically goes first, even before someone
 who spent Moxie. If more that two characters rolled
@@ -75,7 +75,7 @@ maximum), allowing them to act in further Action
   roll Initiative once for an entire scene. That
   Initiative result stays with them on each Action
   Turn until the combat or scenario is over. Like-
-  wise, ignore Initiative modiﬁers from wounds. ■
+  wise, ignore Initiative modifiers from wounds. ■
 
 
 
@@ -85,10 +85,10 @@ Phases as well. For example, a character with Speed
 a character with Speed 3 can act in the first through
 third Action Phases. A character with Speed 4 is
 able to act in every Action Phase. This represents
-the character’s enhanced reflexes and neurology, al-
+the character's enhanced reflexes and neurology, al-
 lowing them to think and act much faster than non-
 enhanced characters.
-  If a character’s Speed does not allow them to act
+  If a character's Speed does not allow them to act
 during an Action Phase, they can initiate no actions
 during the pass—they must simply bide their time.
 The character may still defend themself, however, and
@@ -98,16 +98,16 @@ be underway even during the Action Phases they do
 not participate in (see Movement, p. 190).
 
 DELAYED ACTIONS
-When it’s your turn to go during an Action Phase,
-you may decide that you’re not ready to act yet. You
-may be awaiting the outcome of another character’s
-actions, hoping to interrupt someone else’s action, or
+When it's your turn to go during an Action Phase,
+you may decide that you're not ready to act yet. You
+may be awaiting the outcome of another character's
+actions, hoping to interrupt someone else's action, or
 may simply be undecided about what to do yet. In this
 case, you may opt to delay your action.
-  When you delay your action, you’re putting your-
+  When you delay your action, you're putting your-
 self on standby. At some later point in that Action
 Phase, you can announce that you are now taking
-your action—even if you interrupt another character’s
+your action—even if you interrupt another character's
 action. In this case, all other activity is put on hold
 until your action is resolved. Once your action has
 taken place, the Initiative order continues on where
@@ -123,7 +123,7 @@ have in that Action Phase.
 
 
 ACTIONS
-When it’s your turn to act during an Action Phase,
+When it's your turn to act during an Action Phase,
 you have many options for what you can do—far too
 many to list here. There is a limit to what you can
 accomplish in 3 seconds, however, so some limita-

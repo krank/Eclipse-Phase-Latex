@@ -1,5 +1,5 @@
 mesh, the target system must be online and the hacker
-must know it’s mesh ID (p. 246) or otherwise be able
+must know it's mesh ID (p. 246) or otherwise be able
 to track it down (p. 251).
 
 CIRCUMVENTING AUTHENTICATION
@@ -20,7 +20,7 @@ Using this method, the hacker attempts to disguise
 their signals as coming from the legitimate, authen-
 ticated user, rather than from themself. If successful,
 the system is fooled by this masquerade, accepting the
-hacker’s commands and activity as if they came from
+hacker's commands and activity as if they came from
 a legitimate user. Spoofing is more difficult to pull off,
 but is very effective when it works.
    To spoof a legitimate user, the hacker must be using
@@ -34,8 +34,8 @@ rity account privileges, –30 if they have admin rights
 unless the hacker has the encryption key.
    Armed with this data, the hacker then uses it to
 disguise their signals. This requires an Infosec Test,
-modified by the quality of the system’s firewall and
-the hacker’s spoofing program. If successful, com-
+modified by the quality of the system's firewall and
+the hacker's spoofing program. If successful, com-
 munications sent by the hacker are treated as coming
 from the legitimate user.
 

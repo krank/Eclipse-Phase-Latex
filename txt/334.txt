@@ -40,10 +40,10 @@ fected, suffering a –10 modifier to all actions until the
 end of the next Action Turn. If they fail, they suffers
 1d10 ÷ 2 stress damage and are overcome with panic.
 This causes them either to blindly flee, have a nervous
-breakdown, or cower in frozen shock (gamemaster’s
+breakdown, or cower in frozen shock (gamemaster's
 discretion). This panic episode lasts for 1 Action Turn
 per 10 points of MoF. [High]
-   Shutter: Shutters target the victim’s sensory cortices,
+   Shutter: Shutters target the victim's sensory cortices,
 inflicting a –30 modifier to one chosen sense. Double
 this modifier if the attacking hacker scored an Excel-
 lent Success. This modifier reduces at the rate of 10
@@ -76,7 +76,7 @@ The following gear is often critical to the survival of
  the breadcrumb trail. This is useful in derelict habitats,
  wilderness, and other areas where there is no local
  functioning mesh, and is helpful both for mapping
- and for finding one’s way back. [Low]
+ and for finding one's way back. [Low]
     Electrogravitics Net: Also called a safety net, this fail-
  safe system uses electric fields to counter gravity when
  falling. While the system is not able to actually levitate

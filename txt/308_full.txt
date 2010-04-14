@@ -15,29 +15,29 @@ The following bioware items may be replicated as
                                                             precise location of electrical wiring behind a wall or
 cybernetics for synthmorphs and robots:
                                                             inside a device. This sense gives the character a +10
-  • Chameleon Skin
+  - Chameleon Skin
                                                             modifier on any test involving analyzing, repairing, or
-  • Drug Glands
+  - Drug Glands
                                                             modifying electrical equipment. [Low]
-  • Eelware
+  - Eelware
                                                                Radiation sense: The character can sense the pres-
-  • Emotional Dampers
+  - Emotional Dampers
                                                             ence and approximate source of all forms of danger-
-  • Enhanced Senses (All)
+  - Enhanced Senses (All)
                                                             ous radiation, including neutrons, charged particles,
-  • Grip Pads
+  - Grip Pads
                                                             and cosmic rays. [Low]
-  • Mental Augmentations (All)
+  - Mental Augmentations (All)
                                                                T-Ray Emitter: Mounted under the skin of the
-  • Muscle Augmentation
-                                                            user’s forehead, this implant generates low-powered
-  • Neurachem
+  - Muscle Augmentation
+                                                            user's forehead, this implant generates low-powered
+  - Neurachem
                                                             beams of terahertz radiation (T-rays) that allow the
-  • Poison Glands
+  - Poison Glands
                                                             character to see using reflected T-rays. As discussed in
-  • Prehensile Feet
+  - Prehensile Feet
                                                             Using Enhanced Senses, p. 302, this implant combined
-  • Prehensile Tail                                ■
+  - Prehensile Tail                                ■
                                                             with the enhanced vision enhancement (or a terahertz
                                                             sensor) allows the user to effectively see through cloth,
                                                             plastic, wood, masonry, composites, and ceramics as
@@ -55,9 +55,9 @@ cybernetics for synthmorphs and robots:
  character must also possess some form of bioware           direct wired connection using a fiberoptic cable to
  armor or carapace armor. The morph has been spe-           external devices or other characters, which can be
  cially designed to survive the effects of vacuum. The      useful in places where wireless links are unreliable or
- character’s skin resists vacuum as well as protecting      complete privacy is required. Two characters linked
+ character's skin resists vacuum as well as protecting      complete privacy is required. Two characters linked
  the wearer from temperatures from –75 to 100 C.            via access jack can “speak” mind-to-mind and transfer
- In addition, the character’s mouth, nose, and other        information between their mesh inserts and other im-
+ In addition, the character's mouth, nose, and other        information between their mesh inserts and other im-
  orifices can seal sufficiently well to resist vacuum,      plants. All synthmorphs have these by default. [Low]
  and the morph possesses a special membrane that               Dead Switch: This cortical stack (p. 300) accessory is
  extends over their eyes, allowing the character to         designed to keep the stack from falling into the wrong
@@ -70,9 +70,9 @@ cybernetics for synthmorphs and robots:
  CYBERWARE                                                  has an implanted quantum farcaster (p. 314) linked
 Very little cyberware is physically implanted. Instead,     to a highly secure storage facility. The high cost of
 the morph is placed in a healing vat (p. 326) and the       this implant also covers the cost of this storage. Using
-vat’s nanobots construct the cyberware inside the bio-      standard radio and quantum encryption, the farcaster
-morph’s body. Cyberware is rarely used for anything         broadcasts full backups of the character’s ego (pulled
+vat's nanobots construct the cyberware inside the bio-      standard radio and quantum encryption, the farcaster
+morph's body. Cyberware is rarely used for anything         broadcasts full backups of the character's ego (pulled
 that can be accomplished using bioware.                     from the cortical stack) once every 48 hours. At the
-  Synthmorphs and bots may also also use cyberware.         gamemaster’s discretion, the backup interval may be
+  Synthmorphs and bots may also also use cyberware.         gamemaster's discretion, the backup interval may be
                                                             scheduled more or less frequently, keeping in mind
                                                             that ego broadcasts are generally limited for security

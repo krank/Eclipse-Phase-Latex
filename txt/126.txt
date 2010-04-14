@@ -14,17 +14,17 @@ Every morph has an aptitude maximum, sometimes
 modified by traits. This maximum represents the high-
 est value at which the character may use that aptitude
 while inhabiting that morph, reflecting an inherent
-limitation in some morphs. If a character’s aptitude
+limitation in some morphs. If a character's aptitude
 exceeds the aptitude maximum of their morph, they
 must use it at the maximum value for the duration
 of the time they remain in that morph. This may also
 affect the skills linked to that aptitude, which must be
 modified appropriately.
    Some implants, gear, psi, and other factors may
-modify a character’s natural aptitudes. These aug-
-mented values may exceed a morph’s aptitude maxi-
+modify a character's natural aptitudes. These aug-
+mented values may exceed a morph's aptitude maxi-
 mums, as they represent external factors boosting the
-morph’s ability. No aptitude, however, augmented or
+morph's ability. No aptitude, however, augmented or
 not, may ever exceed a value of 40. Innate ability only
 takes a person so far—after that point, actual skill is
 what counts.
@@ -43,7 +43,7 @@ what counts.
   linked skills, reducing them by 5.
 Things Characters Use
 In the advanced technological setting of Eclipse Phase,
-characters don’t get by on their wits and morphs
+characters don't get by on their wits and morphs
 alone; they take advantage of their credit and reputa-
 tion to acquire gear and implants and use their social
 networks to gather information. Some characters also
@@ -58,10 +58,10 @@ in secretive or less-than-legal activities, so the way to
 keep the bloggers, news, paparazzi, and law off your
 back is to make extensive use of fake IDs. While Fire-
 wall often provides covers for its sentinel agents, it
-doesn’t hurt to keep a few extra personas in reserve, in
+doesn't hurt to keep a few extra personas in reserve, in
 case matters ever go out the airlock in a hurry. Thank-
 fully, the patchwork allegiances of city-state habitats
-and faction stations means that identities aren’t too
+and faction stations means that identities aren't too
 difficult to fake, and the ability to switch morphs
 makes it even easier. On the other hand, anyone with a
 copy of your biometrics or geneprint is going to have

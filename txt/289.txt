@@ -6,7 +6,7 @@
  determine your ability to acquire goods, services, and
  information and favors, as noted below. These scores
  may be raised or lowered during game play according
- to your character’s actions.
+ to your character's actions.
 
  USING NETWORKS AND REP
  In game terms, you take advantage of your connec-
@@ -78,11 +78,11 @@ Research Network Associates r-Rep                 Scientists
   a + or –10 modifier, as appropriate.
 
 
-      Jaqui’s on a scum barge and she needs to get a
-      hold of a weapon fast. She has a speciﬁc weapon in
-      mind, but it’s pricey—its cost is High. She decides
+      Jaqui's on a scum barge and she needs to get a
+      hold of a weapon fast. She has a specific weapon in
+      mind, but it's pricey—its cost is High. She decides
       her best approach is to try talking to the scum on
-      the ship to try and ﬁnd someone who can lend or
+      the ship to try and find someone who can lend or
                                                                 EXAMPLE
 
 
@@ -91,11 +91,11 @@ Research Network Associates r-Rep                 Scientists
       sell her such a weapon, using her @-rep and her
       Networking: Autonomist skill of 50. Acquiring a
       High cost item counts as a Level 4 High favor (see
-      Acquire/Unloads Goods, p. 289). Jaqui’s @-rep
+      Acquire/Unloads Goods, p. 289). Jaqui's @-rep
       is 53, which is only Level 3. Since the favor is one
       level higher than her rep level, she suffers a –10
-      modiﬁer on her Networking Test. Jaqui must roll a
-      40 or less (50 – 10) to ﬁnd a weapon supplier.
+      modifier on her Networking Test. Jaqui must roll a
+      40 or less (50 – 10) to find a weapon supplier.
 
 
 

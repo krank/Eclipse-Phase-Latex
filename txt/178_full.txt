@@ -27,7 +27,7 @@
    understand an unusual chemical reaction, or deter-      Gunnery                                INT             Active, Combat
    mine what elements are needed to nanofabricate          Hardware: [Field]                      COG             Active, Technical
    something that requires exotic materials. At the        Impersonation                          SAV              Active, Social
-   gamemaster’s discretion, some Academics-related         Inﬁltration                            COO             Active, Physical
+   gamemaster's discretion, some Academics-related         Infiltration                            COO             Active, Physical
    tests might not be defaultable, given that only         Infosec                         COG (no defaulting)    Active, Technical
    someone who has been educated in that subject is
                                                            Interest: [Field]                      COG               Knowledge
@@ -46,7 +46,7 @@ ucceed in the varied tasks they encounter in               Networking: [Field]  
                                                            Palming                                COO             Active, Physical
 haracter. If a character lacks these, they will
                                                            Perception                             INT              Active, Mental
- ave a difﬁcult time getting by, so it is impor-
+ ave a difficult time getting by, so it is impor-
 ant for players and gamemasters to know                    Persuasion                             SAV              Active, Social
 hese particular skills.                                    Pilot: [Field]                         REF              Active, Vehicle
   Fray: Fray is the primary skill you use to avoid         Profession: [Field]                    COG               Knowledge
@@ -62,7 +62,7 @@ ou need a Networking skill—preferably several.
 pread rumors, call in favors, and so on.                   Seeker Weapons                         COO             Active, Combat
   Perception: Perception Tests get called for              Sense                           INT (no defaulting)   Active, Mental, Psi
  uite often, so if you want your character to              Spray Weapons                          COO             Active, Combat
- now what’s going on around them, make sure                Swimming                               SOM             Active, Physical
+ now what's going on around them, make sure                Swimming                               SOM             Active, Physical
 o get this skill. Investigation and Scrounging
                                                            Throwing Weapons                       COO             Active, Combat
  re also good, but Perception is king.          ■

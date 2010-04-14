@@ -5,7 +5,7 @@ reliable. For this reason they are occasionally used in       also largely space
 high-security facilities.                                     tion of transhumanity inhabits planetary bodies like
    It is worth noting that infection by some variants         Mars, Luna, Venus, and the moons of the gas giants,
 of the Exsurgent virus, notably the Watts-Macleod             the balance live in a variety of space habitats, ranging
-strain (p. 367), sometimes alters a person’s brainwave        from the old-fashioned O’Neill cylinders of the inner
+strain (p. 367), sometimes alters a person's brainwave        from the old-fashioned O'Neill cylinders of the inner
 patterns, but not in every case.                              system to the Cole bubbles of the outer system.
 
 DIGITAL CODE                                                  SPACE HABITATS
@@ -41,9 +41,9 @@ exposed to extra scrutiny or monitoring. Fake IDs may         mented reality ove
 be acquired that are registered with more respected au-       tions of a sky and clouds, to which most residents keep
 thorities, but this often requires a much higher expense      their AR channels tuned. One would think that in space,
 or connections to hypercorp clandestine operations.           talking about the weather would have disappeared from
-   Black market darkcast and resleeving options offer         transhumanity’s repertoire of small talk, but the habit
+   Black market darkcast and resleeving options offer         transhumanity's repertoire of small talk, but the habit
 fake IDs as a matter of course.                               persists—only the weather discussed is usually virtual (if
-                                                              it’s not real “weather”—solar flare activity and the like).
+                                                              it's not real “weather”—solar flare activity and the like).
 ALTERING NANOTAT IDS
 Special nanobot treatments may be manufactured                CLUSTER COLONY
 to erase, rewrite, or replace nanotat IDs. Erasing a          Clusters are the most common form of microgravity

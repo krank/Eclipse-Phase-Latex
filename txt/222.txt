@@ -22,7 +22,7 @@ MIND HACKS■MIND HACKS■MIND HAC
   as fear and paranoia, but subsequent investigations
   by black budget labs has proven otherwise. Now, top-
   level confidential networks whisper that this infection
-  inflicts intricate changes in the victim’s neural network
+  inflicts intricate changes in the victim's neural network
   that imbue them with strange and inexplicable abili-
   ties. The exact mechanism and nature of these abilities
   remains unexplained and outside the grasp of modern
@@ -37,8 +37,8 @@ MIND HACKS■MIND HACKS■MIND HAC
   condition resulting from infection by the mutant—and
   hopefully otherwise benign—Watts-Macleod strain
   of the Exsurgent virus (p. 367). This plague modifies
-  the victim’s mind, conferring special abilities. These
-  abilities are inherent to the brain’s architecture and
+  the victim's mind, conferring special abilities. These
+  abilities are inherent to the brain's architecture and
   are copied when the mind is uploaded, allowing the
   character to retain their psi abilities when changing
   from morph to morph.
@@ -54,7 +54,7 @@ MIND HACKS■MIND HACKS■MIND HAC
   the morph. While psi researchers do not understand
   how it is possible to transfer this ability via uploads,
   backups, and farcasting, it has been speculated that
-  all components of an async’s ego are entangled on a
+  all components of an async's ego are entangled on a
   quantum level, or that they possess the ability to en-
   tangle themselves or form a unique conformation or
   alignment as a whole even after they have been copied,
@@ -87,7 +87,7 @@ MIND HACKS■MIND HACKS■MIND HAC
  (p. 210). The gamemaster and player should choose a
  derangement appropriate to the character and story.
  Minor derangements are recommended, but at the
- gamemaster’s discretion moderate or major derange-
+ gamemaster's discretion moderate or major derange-
  ments may be applied. No trauma is inflicted with
  this derangement.
 
@@ -96,7 +96,7 @@ MIND HACKS■MIND HACKS■MIND HAC
  as an infomorph, pod, or synthmorph for long periods
  of time. This phenomenon, known as morph fever,
  might cause temporary derangements and trauma to
- the asyncs’ ego, possibly even to the grade of perma-
+ the asyncs' ego, possibly even to the grade of perma-
  nent disorders. If stored or held captive as an active
  infomorph (i.e. not in virtual stasis), the async might
  go insane if not psychologically aided by some sort of
@@ -110,12 +110,12 @@ MIND HACKS■MIND HACKS■MIND HAC
  PSI DRAWBACKS
  There are several drawbacks to psi ability:
 
-• The variant Exsurgent strain that endows psi ability
-  rewires the character’s brain. An unfortunate side
+- The variant Exsurgent strain that endows psi ability
+  rewires the character's brain. An unfortunate side
   effect to this change is that asyncs acquire a vulner-
-  ability to mental stress. Reduce the async’s Trauma
+  ability to mental stress. Reduce the async's Trauma
   Threshold by 1.
-• The mental instability that accompanies psi infec-
-  tion also tends to unhinge the character’s mind.
+- The mental instability that accompanies psi infec-
+  tion also tends to unhinge the character's mind.
   Asyncs acquires one Mental Disorder negative trait
   (p. 150) for each level they have of the Psi trait

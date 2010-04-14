@@ -1,5 +1,5 @@
 7,000. Like many transhumans this far out in space,
-most of Ilmarinen’s inhabitants are heavily modified
+most of Ilmarinen's inhabitants are heavily modified
 or inhabit exotic morphs. Vacuum and cold tolerant
 morphs prevail, and many sections of the habitat are
 unlivable for baseline transhumans.
@@ -10,7 +10,7 @@ the manual on habitat design and revisited the long-
 out of favor toroidal configuration. The result is a
 disc habitat—a plate half a kilometer along the edge
 and one kilometer in diameter, resembling a slice
-of an O’Neill cylinder with no windows. A fusion-
+of an O'Neill cylinder with no windows. A fusion-
 powered, low-heat, axial light source nourishes
 the verdant hardwood forest below. Structures are
 built into the disc walls up to 500 meters in height.
@@ -20,7 +20,7 @@ Mahogany has a population of 4,000 mercurials,
 most of them neo-avians.
 
 MINOR MOONS
-Neptune’s other twelve moons are largely small
+Neptune's other twelve moons are largely small
 bodies, icy and sparsely (if at all) populated. Proteus
 and Larissa, both sizable and relatively close to the
 planet, host small populations. Naiad and Thalassa
@@ -32,18 +32,18 @@ visited—even by robotic probes.
 NEPTUNIAN TROJANS
 Trailing and preceding Neptune at the L4 and L5
 points of its orbit are several hundred asteroids of
-diverse, mostly icy composition. Neptune’s Trojans
+diverse, mostly icy composition. Neptune's Trojans
 are home to brinkers, hard-bitten prospectors, exotic
 exhumans, and other extreme survivalists.
 
 TRITON
-Neptune’s largest moon has a tenuous atmosphere and
+Neptune's largest moon has a tenuous atmosphere and
 is chemically complex, composed of equal parts rock
 and ices (frozen nitrogen, water, and carbon dioxyde).
 It is also geologically active, with cryovolcanoes con-
 tinually resurfacing the planet. The surface has few
 inhabitants but several habitats orbit here, using the
-moon’s abundant raw materials and low escape veloc-
+moon's abundant raw materials and low escape veloc-
 ity to their advantage.
 
 THE EDGE OF THE SYSTEM
@@ -62,9 +62,9 @@ ERIS
 Located at 55 AU from the sun at the edge of the
 Scattered Disk, Eris is the largest dwarf planet in the
 system and the site of a grim struggle between two of
-transhumanity’s most militant factions: ultimates and
+transhumanity's most militant factions: ultimates and
 exhumans. The focal point of the struggle is Discord
-Gate, the most remote of the system’s publicly-known
+Gate, the most remote of the system's publicly-known
 Pandora Gates, located in an icy labyrinth half a kilo-
 meter beneath the surface of Eris.
    The brief history of the gate is bloody. Go-nin
@@ -72,9 +72,9 @@ Group troops violently wrested control of the gate
 from the Ilmarinen anarchists who discovered it. Titan
 and several anarchist and brinker groups both tried
 to dislodge Go-nin, but these attempts failed, at great
-cost in lives and ships. Go-nin’s control of the gate
+cost in lives and ships. Go-nin's control of the gate
 seemed ensured until the hypercorp apparently tam-
-pered too heavily with the gate’s black box controls.
+pered too heavily with the gate's black box controls.
 A devastating explosion ensued, all but wiping out the
 gate and Go-nin base. The gate, however, restructured
 itself over the course of several days, though its loca-
@@ -85,7 +85,7 @@ hitherto unknown force of exhumans had seized the
 area. The ultimates succeeded, but a group of exhumans
 escaped through the gate. Go-nin now has nominal
 control of the Discord Gate through the ultimates, who
-maintain a heavily militarized base on Eris’s moon,
+maintain a heavily militarized base on Eris's moon,
 Dysnomia. However, in recent years the gate facility has
 suffered several attacks by exhumans eager to infiltrate
 the gate—and according to rumors, at least one of those
@@ -96,23 +96,23 @@ The location of this habitat, a major stronghold of
 the argonauts, is a closely guarded secret. Attempts to
 search it out have revealed only decoys or lifeless rocks.
 Though a great deal of information is available about
-the habitat’s specs, operations, areas of research, and
+the habitat's specs, operations, areas of research, and
 informational resources, only highly placed members
 of the argonauts may travel here. By all accounts, the
 habitat is a windowless beehive, designed to be virtually
-emissionless. Speculated locations include Pluto’s moon
+emissionless. Speculated locations include Pluto's moon
 Hydra, the deep Kuiper Belt, and even the Oort Cloud.
 
 EXTRASOLAR SYSTEMS
 Although travel between the stars is still outside the
-realm of transhumanity’s achievements, the Pandora
+realm of transhumanity's achievements, the Pandora
 Gates have allowed passage to myriad other star sys-
 tems. A few are noted here, though many more exist—
 not all of them explored.
 
 ECHO
 Echo is a binary system consisting of a bright orange
-main sequence star and a pulsar (whence the system’s
+main sequence star and a pulsar (whence the system's
 name) about 12 light hours from one another. The
 system has one immense, bright yellow Jovian world
 (Echo VI) weighing in at 1.8 Jupiter masses and boast-

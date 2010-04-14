@@ -9,7 +9,7 @@
  lethal flechettes over the area of effect. They are re-        causes searing heat and fire damage across the area of
  sisted with kinetic armor. [Moderate]                          effect without the devastating shockwaves of explo-
     Gas/Smoke: Gas/smoke munitions emit a cloud of              sions that might rebound in an enclosed environment
- their contained substance. Smoke impedes sight by              and/or breach a habitat’s infrastructure. [High]
+ their contained substance. Smoke impedes sight by              and/or breach a habitat's infrastructure. [High]
  releasing thick fumes upon ignition of the seeker. The            Splash: Splash rounds spread a contained substance
  smoke can be of any color and is often heated (called          (drug, chemical, nanoswarm, paint) over a base 10-
  thermal smoke) to obfuscate heat signatures moving             meter blast radius when they detonate. [Low plus
@@ -27,7 +27,7 @@
  meter distance from the blast, as opposed to the               gered becomes a sticky adhesive, allowing the grenade
  usual –2. [Moderate]                                           to be stuck to almost any surface. Sticky grenades can
     Overload: Overload grenades and seekers launch an           even be wielded in melee combat, smacking them on
- all-out assault on the target’s sensory spectrum. This         an opponent to be detonated later. [Trivial]
+ all-out assault on the target's sensory spectrum. This         an opponent to be detonated later. [Trivial]
  attack includes blinding by intense flashing light, a
  deafening thunderclap followed by intense ultrasonic           EXOTIC RANGED WEAPONS
  screaming, nausea-inducing malodorants, and infra-             These weapons are either rare or distinctly separate

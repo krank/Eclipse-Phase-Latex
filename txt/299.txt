@@ -1,8 +1,8 @@
 GEAR SIZES
-On occasion, you’ll need to know how small or large
+On occasion, you'll need to know how small or large
 a certain piece of equipment is. Though this is largely
 something the gamemaster can wing on the fly using
-common sense, we’ve listed sizes for many gear items
+common sense, we've listed sizes for many gear items
 that are unusual or so futuristic that the average player
 may not have a feel for what dimensions the tech
 likely is. These size categories are listed on the Gear
@@ -20,7 +20,7 @@ be slowed down, suffering negative modifiers both
 to their movement rates and their skill tests. Rather
 than micromanaging the weights of individual pieces
 of equipment, however, this matter is largely left to
-the gamemaster’s discretion, using common sense. If a
+the gamemaster's discretion, using common sense. If a
 character loads up beyond reason, apply modifiers as
 seem appropriate. The gamemaster should, however,
 keep in mind that many of the manufacturing mate-
@@ -49,14 +49,14 @@ Micro
                 visible small dot to an average insect.
                 Mini items may be concealed within some-
 Mini
-                one’s palm or small pockets.
+                one's palm or small pockets.
                 Small items may be held in one hand and
 Small
                 concealed in normal pockets.
                 Medium size items are cumbersome to hold
                 with one hand, ranging from the size of a 2-li-
 Medium          ter bottle to the size of a medium dog. They do
-                not ﬁt in pockets, but they may be concealed
+                not fit in pockets, but they may be concealed
                 by larger coverings.
 Large           Roughly human-sized.
 Huge            Vehicles and other more massive objects.
@@ -98,7 +98,7 @@ and ease-of-use prioritized, so gear with soft curves,
 pleasing colors, and form-fitting shapes are common.
 Many items of personal technology, such as flashlights
 or small tools, are made in the form of ovoids that
-fit comfortably in the user’s hand or in similar forms
+fit comfortably in the user's hand or in similar forms
 that can be easily worn or attached to clothing. To
 someone from the 20th century, many common
 devices look like oddly colored rocks or decorative

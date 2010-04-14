@@ -1,4 +1,4 @@
-COMPLEX ACTIONS                                  mundane life, you’re a participant in a post-
+COMPLEX ACTIONS                                  mundane life, you're a participant in a post-
 Complex actions require concentration or         apocalyptic transhuman future who gets
 effort. The number of Complex actions a          caught up in intrigue, terrible danger, un-
 character may take per turn is determined        speakable horrors, and scrambling for sur-
@@ -15,12 +15,12 @@ determined by the gamemaster. The time-          anger management issues” or �
 frame determines how long the task takes         social animal who is dangerously obsessed
 to complete, though this may be reduced by       with conspiracy theories and mysteries.” If
 10 percent for every 10 full points of MoS       it helps, you can always borrow ideas from
-the character scores on the test (see Margin     characters you’ve seen in movies or books,
+the character scores on the test (see Margin     characters you've seen in movies or books,
 of Success/Failure, p. 118). If a character      modifying them to fit your tastes.
-fails on a Task action test roll, they work         Your character’s concept will likely be
+fails on a Task action test roll, they work         Your character's concept will likely be
 on the task for a minimum period equal to        influenced by two important factors: back-
 10 percent of the timeframe for each 10 full     ground and faction. Your background de-
-points of MoF before realizing it’s a failure.   notes the circumstances under which your
+points of MoF before realizing it's a failure.   notes the circumstances under which your
    For Task actions with timeframes of one       character was raised, while your faction
 day or longer, it is assumed that the charac-    indicates the post-Fall grouping to which
 ter only works eight hours per day. A char-      you most recently held ties and allegiances.
@@ -31,14 +31,14 @@ rupt their work to do something else and         MOTIVATIONS
 then pick up where they left off, unless the     The clash of ideologies and memes is a core
 gamemaster rules that the action requires        component of Eclipse Phase, and so every
 continuous and uninterrupted attention.          character has three motivations—personal
-   Similar to taking the time (p. 117), a        memes that dominate the character’s interests
+   Similar to taking the time (p. 117), a        memes that dominate the character's interests
 character may rush the job on a Task action,     and pursuits. These memes may be as ab-
 taking a penalty on the test in order to de-     stract as ideologies the character adheres to
 crease the timeframe. The character must         or supports—for example, social anarchism,
 declare they are rushing the job before they     Islamic jihad, or bioconservatism—or they
 roll the test. For every 10 percent they wish    may be as concrete as specific outcomes the
 to reduce the timeframe, they incur a –10        character desires, such as revealing a certain
-modifier on the test (to a maximum reduc-        hypercorp’s corruption, obtaining massive
+modifier on the test (to a maximum reduc-        hypercorp's corruption, obtaining massive
 tion of 60 percent with a maximum modifier       personal wealth, or winning victories for
 of –60).                                         uplifted rights. A motivation may also be
                                                  framed in opposition to something; for ex-
@@ -51,14 +51,14 @@ excel in—or what they are clueless about         term or short phrase on the c
 and suck at—Eclipse Phase uses a number          marked with a + (in favor of) or – (opposed
 of measurement factors: stats, skills, traits,   to). Players are encouraged to develop their
 and morphs. Each of these characteristics        own distinct motivations for their characters,
-is recorded and tracked on your character’s      in cooperation with the gamemaster. Some
+is recorded and tracked on your character's      in cooperation with the gamemaster. Some
 record sheet (p. 399).                           examples are provided on p. 138.
                                                     In game terms, motivation is used to help
-CONCEPT                                          define the character’s personality and influ-
+CONCEPT                                          define the character's personality and influ-
                                                  ence their actions for roleplaying purposes.
 Your character concept defines who you are
                                                  It also serves to regain Moxie points (p. 122)
-in the Eclipse Phase universe. You’re not just
+in the Eclipse Phase universe. You're not just
                                                  and earn Rez Points for character advance-
 a run-of-the-mill plebeian with a boring and
                                                  ment (p. 152).

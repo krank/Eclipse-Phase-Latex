@@ -1,5 +1,5 @@
 INTRUSION COUNTERMEASURES
-If an intruding hacker fails to penetrate a system’s
+If an intruding hacker fails to penetrate a system's
 defenses (i.e., they are Spotted or Locked, see p. 256),
 then the system goes on alert and activates certain
 defenses. The nature of the applied countermeasures
@@ -8,7 +8,7 @@ of its security defender(s), and the policy of its owner/
 admins. While some nodes will simply seek to kick
 the intruder out and keep them shut out, others will
 actively counterattack, seeking to track the intruder
-and potentially hack the intruder’s own PAN.
+and potentially hack the intruder's own PAN.
 
 SECURITY ALERTS
 Security alerts come in two flavors: passive and active.
@@ -73,10 +73,10 @@ intruder has acquired Locked status.
 
 COUNTERINTRUSION
 A security hacker or guardian AI can proactively
-defend a system by attacking the intruder’s source. For
+defend a system by attacking the intruder's source. For
 this to occur, the intruder must first be successfully
 traced (p. 251). Once this occurs, the security forces
-can then launch their own intrusion on the hacker’s
+can then launch their own intrusion on the hacker's
 home ecto/mesh inserts and/or PAN.
 
 LOCKOUT

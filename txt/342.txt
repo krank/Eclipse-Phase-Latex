@@ -58,7 +58,7 @@ Sprayer                      as chemical/drug           as
 Torch                              –4
        Sprayer: This is a general-purpose two-handed
     squirtgun, loaded with tanks filled with the chemical
-    or drug of the wielder’s choice. [Low]
+    or drug of the wielder's choice. [Low]
        Torch: This modern flamethrower uses condensed
     ammunition capsules rather than fuel tanks, scorch-
     ing targets and setting them on fire. Any hit that is

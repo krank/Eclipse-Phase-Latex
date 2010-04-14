@@ -13,7 +13,7 @@ This is a one-way connection, so the cortical stack may
 not be hacked, but the transfer of data may be cut off.
 This termination action requires an Opposed Infosec
 Test between the hacker (with the –30 modifier) and
-the defender. The ego’s backup will not be updated for
+the defender. The ego's backup will not be updated for
 as long as the connection remains off.
 
 
@@ -43,7 +43,7 @@ Action (transhuman users may also do the same). In
 this case, a Variable Opposed Test is made between
 the jammer and defender. If the jammer wins, all com-
 munications are blocked; if the defender wins, they
-are unaffected. If both parties succeed, the defender’s
+are unaffected. If both parties succeed, the defender's
 communications are impacted but not completely cut
 off. The gamemaster decides how much information
 the defender can get through, and how this situation
@@ -104,7 +104,7 @@ statistics on the fly as the need for them comes up.
 
 IMMERSION
 When a character immerses themselves in a simulspace,
-they “become” the simulmorph. The character’s physi-
+they “become” the simulmorph. The character's physi-
 cal body, typically secluded and protected in a vat or
 couch, slumps inertly. While immersed, they suffer –60
 on all Perception Tests or attempts to take action with

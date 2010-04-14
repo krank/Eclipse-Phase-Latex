@@ -28,7 +28,7 @@ guishable from regular clothing and come in all styles
 and designs. Armor clothing provides an Armor Value
 of 3/4. [Trivial]
    Armor Vest: Armor vests provide more thorough
-protection to a body’s vital areas, covering the abdo-
+protection to a body's vital areas, covering the abdo-
 men and torso completely, protecting the neck with a
 rigid collar, and even providing wrap-under protec-
 tion for the groin. Though armor vests are not bulky,
@@ -45,7 +45,7 @@ with a helmet. It provides an Armor Value of 10/10.
 [Low]
    Body Armor (Heavy): Similar to light body armor,
 but with extra protective layers, often ergonomically
-manufactured to conform to a specific character’s
+manufactured to conform to a specific character's
 body, and an environmental seal with climate control
 to protect the wearer from hostile environments. It
 provides an Armor Value of 13/13. [Moderate]
@@ -79,7 +79,7 @@ uniform. It provides minimal protection, but may be
 worn with other armor without penalty. It provides an
 Armor Value of 1/3. [Low]
    Smart Skin: Smart skin is an advanced nano-
-fluid that covers the wearer’s skin. It resembles liquid
+fluid that covers the wearer's skin. It resembles liquid
 mercury but retains the texture and flexibility of
 normal skin until activated, at which point the mate-
 rial becomes rigid enough to protect the wearer and

@@ -1,5 +1,5 @@
   Old economy societies are unique in that money is         access to an unrestricted nanofabricator and exotic
-the society’s only acceptable means of exchange. While      raw materials.
+the society's only acceptable means of exchange. While      raw materials.
 reputation networks exist, they are informal and serve         Transitional economies tend to be relatively safe
 as an unsanctioned means of exchanging favors.              places, since inhabitants cannot manufacture weapons
                                                             more dangerous than knives, clubs, or similar primi-
@@ -21,8 +21,8 @@ other simple, non-formatible objects is a trivial matter.   economies consider n
 However, the public nanofabrication machines can            ceptionally wealthy and somewhat frightening.
 only create objects that either contain no electronics         Despite these differences in perception, both eco-
 at all or contain only simple circuits that report on the   nomic societies have a great deal in common. Food,
-object’s condition and location. Manufacturing any          clothing, and similar goods are easily available to
-of these items requires little more than the machine        all residents. An individual’s status, taste, wealth,
+object's condition and location. Manufacturing any          clothing, and similar goods are easily available to
+of these items requires little more than the machine        all residents. An individual's status, taste, wealth,
 and a supply of carbon, hydrogen, oxygen, nitrogen,         and reputation are measured by the kinds of cloth-
 silicon, iron, aluminum, and tiny amounts of various        ing, food, and furnishings they possess. While there
 trace materials. All of these materials are sufficiently    are a vast number of templates for different styles of
@@ -51,10 +51,10 @@ the populace is healthy, content, and productive.           Slightly less than f
 also goods that residents must purchase from corpo-         refer to as the new economy. In the outer system, alter-
 rations, their government, or other producers. Smart        native economies are becoming increasingly rare. New
 clothing and smart furniture that can change shape,         economies are much better than old or transitional
-color, and pattern, depending upon the user’s wishes,       economies at supporting a decentralized populace,
+color, and pattern, depending upon the user's wishes,       economies at supporting a decentralized populace,
 cannot be manufactured in any of the personal nano-         which has led to more than half of all habitats and
 fabricators. Any goods made from highly durable             settlements adopting this model.
 composite materials, batteries, electrically-powered           In new economy societies, individuals can freely
 devices including all augmentations, and all nanotech-      manufacture and use almost anything they want, as-
 nology must be acquired in the same fashion. These          suming they can acquire the correct templates and
-goods are considerably less common as they require          raw materials. As a result, the residents’ need for food,
+goods are considerably less common as they require          raw materials. As a result, the residents' need for food,

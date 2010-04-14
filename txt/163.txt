@@ -29,7 +29,7 @@ JOVIAN SPY                                         APTITU
                           Free Fall   REF     45
                       Freerunning     SOM     45
                    Impersonation      SAV     45
-                        Inﬁltration   COO     60
+                        Infiltration   COO     60
                            Infosec    COG     60
    Interests: Autonomist Groups       COG     55
        Interests: Criminal Groups     COG     55
@@ -51,13 +51,13 @@ JOVIAN SPY                                         APTITU
 
 
 
-You’re a dedicated soldier to the      the republic, you have n
+You're a dedicated soldier to the      the republic, you have n
 bioconservative cause, convinced       about using technolog
 that unrestricted technology is        you otherwise want rest
 driving the human race to extinc-      banned, and you apprec
 tion. The Jovian Republic has          irony of using the tools
 trained you and modified you to        shuman monsters again
-serve their interests, whether that    You prefer ﬂats, and you
+serve their interests, whether that    You prefer flats, and you
 means infiltrating a hypercorp         it a point of pride that yo
 to steal its secrets or sabotag-       into a non-genetically-
 ing an autonomist habitat. As a        body with no cortical s
@@ -108,7 +108,7 @@ TAL
 5          Motivations: -Anarchism +Bioconservativism -Tec
 5
           TRAITS                             Primary Wea
-5         Ego: Modiﬁed Behavior (Blood-        Railgun (10
+5         Ego: Modified Behavior (Blood-        Railgun (10
 5           thirsty, boosted), Morphing      Starting Cred
 5           Disorder (Level 1) ■             Implants: Ne
           Morph: Genetic Defect              Gear: Backup

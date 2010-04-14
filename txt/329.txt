@@ -15,7 +15,7 @@ color or shape, or hair color, texture or distribution, minor alterati
 body fat distribution.
 Major brain and neural implants, nanoware or bioware, sex chang
 no more than 5% or weight by no more than 20%.
-Major physical modiﬁcations like adding limbs or radical changes
+Major physical modifications like adding limbs or radical changes
 
 
 
@@ -26,7 +26,7 @@ Major physical modiﬁcations like adding limbs or radical changes
  a healing vat. Most are used as a safe and easy way
  to perform bodysculpting or to install implants or
  bioware. Healing vats use specialized nanomachines
- to either alter the patient’s body or integrate implants
+ to either alter the patient's body or integrate implants
  or bioware. One advantage of using a healing vat is
  that no additional healing time is needed, the patient
  leaves the vat fully recovered from the augmentation
@@ -47,7 +47,7 @@ Major physical modiﬁcations like adding limbs or radical changes
  hive is present, +0 if a nanoswarm or hive was active
  recently, and –10 for the presence of nanobots outside
  of a swarm or hive. Once a nanobot is detected it may
- be analyzed either by the user or the nanodetector’s AI,
+ be analyzed either by the user or the nanodetector's AI,
  using Academics: Nanotechnology 30 skill. Nanode-
  tectors are often worn and left on, set to alert the user
  if a hostile nanoswarm is detected. [Low]

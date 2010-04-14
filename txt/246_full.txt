@@ -27,11 +27,11 @@ are intentionally tinkering with this code and releasing     Eclipse Phase have 
 it into the wild. Rumors and whispers circulate that         virtual side. Muses tend to have a bit more personality
 some of these TITAN worms are even more potent and           and psychological programming than standard AIs and
 frightening than previously hinted at, with stunning         over time they build up an extensive database of their
-adaptive capabilities and intelligence. These rumors         user’s preferences, likes and dislikes, and personality
+adaptive capabilities and intelligence. These rumors         user's preferences, likes and dislikes, and personality
 are steadfastly denied by authority figures and security     quirks so that they may more effectively be of service
 experts ... who then quietly turn around and do their        and anticipate needs. Muses generally have names
-best to ensure that their own networks remain safe.          and reside within the character’s mesh inserts or ecto,
-                                                             where they can manage the character’s personal area
+best to ensure that their own networks remain safe.          and reside within the character's mesh inserts or ecto,
+                                                             where they can manage the character's personal area
                                                              network, communications, data queries, and so on.
 AI S AND INFOLIFE
 Self-aware helper programs were originally designed          AGIS

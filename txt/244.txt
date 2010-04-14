@@ -9,7 +9,7 @@ the mesh and making it easier to keep in touch,
 transfer information, make updates, and so on. Most
 VPNs come as specialized software suites that run
 custom environmental software that integrates into
-the user’s normal mesh interface and AR.
+the user's normal mesh interface and AR.
 
 SOCIAL NETWORKS
 Social networks are the fabric of the mesh, weaving
@@ -28,8 +28,8 @@ networks allow users to feature a public profile to
 the entire mesh and a private profile that only those
 close to them can access.
   Reputation plays a vital part in social networks,
-serving as a measure of each person’s social capital.
-Each person’s reputation score is available for lookup,
+serving as a measure of each person's social capital.
+Each person's reputation score is available for lookup,
 along with any commentary posted by people who
 favored or disfavored them and rebuttals by the user.
 Many people automate their reputation interactions,
@@ -51,7 +51,7 @@ they want to.
   The most prominent example of this phenomenon
 are the bankers of the Solaris hypercorp. Each em-
 ployee acts as a mobile one-person banking office,
-managing transactions via Solaris’s robust VPN.
+managing transactions via Solaris's robust VPN.
    On rare occasions, office environments are run
 in simulspace with time dilation to maximize effi-
 ciency. Since this requires the workers to access a
@@ -66,7 +66,7 @@ corporate habitats.
 ISLANDS IN THE NET
 In the time of Eclipse Phase, information can become
 outdated quite fast, and the accessibility of new infor-
-mation depends on your location. It’s easy to keep up-
+mation depends on your location. It's easy to keep up-
 to-date on your local habitat/city or planetary body,
 but keeping current on events elsewhere is typically
 reliant on the speed of light.
@@ -88,7 +88,7 @@ in the light-speed lag, the amount of time it takes
 even the fastest transmission to reach you. This lag
 works both ways, so trying to hold a conversation
 with someone just 5 light-seconds away means that
-you’re waiting at least 10 seconds to get the reply
+you're waiting at least 10 seconds to get the reply
 to whatever you just said. For this reason, AR and
 VR communications are almost always conducted lo-
 cally, while standard messaging is used for nonlocal
@@ -103,7 +103,7 @@ communicator, though each transmission uses up a
 precious amount of quantum-entangled bits, which
 are in limited supply.
   Transmissions made between habitats almost
-always occur via each station’s massive data relays,
+always occur via each station's massive data relays,
 where they are then distributed into the local mesh.
 This bottleneck is often used by authoritarian habitats
 to monitor data transmissions and even filter or censor

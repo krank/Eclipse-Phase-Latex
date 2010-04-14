@@ -8,7 +8,7 @@ not have. Security has a different character post-Fall
 than in the 21st century. Due to hyper-abundance,          ELECTRONIC LOCKS
 physical security measures such as locks, doors, and       Electronic locks (e-locks) are commonly used as a
 walls are less important than in the past to common        means of maintaining privacy. They are easy to defeat,
-citizens. People don’t worry about theft as much as        however, and so are rarely used in very secure areas.
+citizens. People don't worry about theft as much as        however, and so are rarely used in very secure areas.
 in the past because most items can be replaced by a        E-locks have several advantages over old-fashioned
 nanofabricator. The items that do tend to engender         mechanical locks. Different users can have different
 this type of security are irreplaceable or rare items      authentication methods, they can log all events (entry,
@@ -18,7 +18,7 @@ surveillance—identifying intruders and tracking            wireless) to securi
 them so that they can be interdicted by transhuman         alarm triggering.
 or robotic defenders. Surveillance is more effec-             E-locks use one of several authentication systems,
 tive than in pre-Fall societies because AIs with           or sometimes a combination of systems:
-near-human faculties of pattern recognition and               Biometric: The lock scans one or more of the user’s
+near-human faculties of pattern recognition and               Biometric: The lock scans one or more of the user's
 indentured infomorphs can be employed to monitor           biometric prints. Common biometrics include DNA,
 surveillance data.                                         facial thermographic, fingerprint, gait, hand veins, iris,
   The emphasis on surveillance results from the ease       keystroke, odor, palm, retinal, and voice prints.
@@ -51,7 +51,7 @@ jects and Structures, p. 202.                              lessly isolated or ha
 BUG ZAPPERS                                                can be erased.
 Bug zappers create minute EMP pulses that are harm-           The third method is to physically open and ma-
 less to most electronic equipment and implants but         nipulate the lock. This requires first opening the
-wreak havoc on nanobot swarms, microbugs, and              lock’s case and then triggering the lock mechanism
+wreak havoc on nanobot swarms, microbugs, and              lock's case and then triggering the lock mechanism
 specks. Bug zappers are generally applied to surfaces,     to open the door. Both of these are handled as
 and as such they only destroy floating/flying swarms       separate Hardware: Electronics Task Actions with
 or specks if they land. In areas with heavily shielded     a timeframe of 1 minute each. In addition, most e-

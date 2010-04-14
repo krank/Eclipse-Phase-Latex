@@ -26,7 +26,7 @@ EXTROPIAN SMUGGLER
                           Free Fall     REF      30                       30
                           Gunnery       INT      40          5            45
            Hardware: Aerospace          COG      50                       50
-                        Inﬁltration     COO      40          5            45
+                        Infiltration     COO      40          5            45
                            Infosec      COG      35                       35
         Interests: Black Markets        COG      55                       55
       Interests: Criminal Groups        COG      35                       35
@@ -53,9 +53,9 @@ Profession: Customs Procedures          COG      50                       50    
                                                                                 @-rep:   50                            Combat Ar
                                                                                 c-rep:   30                            Augmenta
 Despite the failures of statist capi-    or pirating nanofab blueprints. In     g-rep:   70                            tem: Snake
-talism, you’re a die-hard believer in    an age of automated machines,          i-rep:   50                            Radar, T-R
-free markets—and when markets            you’re a damn good pilot, and you                                           Gear: Backup
-aren’t free, you have no qualms          can talk or shoot your way out of      EQUIPMENT                              Dazzler, Fa
+talism, you're a die-hard believer in    an age of automated machines,          i-rep:   50                            Radar, T-R
+free markets—and when markets            you're a damn good pilot, and you                                           Gear: Backup
+aren't free, you have no qualms          can talk or shoot your way out of      EQUIPMENT                              Dazzler, Fa
 about undermining them.                  messy situations. Whereas many
                                                                                 Armor: Light Combat Armor [14/12]      Bot, Miniat
    You make a living supplying the       people look down on synthmorphs,

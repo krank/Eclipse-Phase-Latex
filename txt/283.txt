@@ -2,7 +2,7 @@
 like the Trojans and the ring systems of the gas giants (p
 Saturn). Clusters are rare in the Jovian system because
 cluster of individual modules rather than one large sta
-Jupiter’s intense magnetosphere is hideously inefficient.
+Jupiter's intense magnetosphere is hideously inefficient.
    Cluster colonies can have anywhere from 50 to 250,000
 
 COLE BUBBLES
@@ -10,7 +10,7 @@ Cole bubbles (or “bubbleworlds”) are found mostly in
 asteroid belt, where the large nickel-iron asteroids used t
 them are abundant. Bubbleworlds are less common in t
 and Greeks, where crusty ice asteroids predominate. A C
-is similar in many respects to an O’Neill cylinder, but th
+is similar in many respects to an O'Neill cylinder, but th
 longitudinal windows. Sunlight instead enters through a
 arrays. The bubbleworld is also constructed very differen
 large solar array to heat a pocket of water inside of a met
@@ -32,7 +32,7 @@ period. Hamilton cylinders are grown using a comple
 algorithm that orchestrates nanoscale building machi
 nanobots build the habitat slowly over time, a process
 growing than construction.
-   Similar to O’Neill cylinders and Cole bubbles, a Ham
+   Similar to O'Neill cylinders and Cole bubbles, a Ham
 der is a cylindrical habitat rotating on its long axis to pr
 ity. Two of the known Hamilton cylinders orbit Saturn i
 skimming the rings near the Cassini division. From th
@@ -41,15 +41,15 @@ they can graze on silicates and volatiles using harvester s
 to full size yet, but estimates say they could each hou
 million people.
 
-O’NEILL CYLINDERS
+O'NEILL CYLINDERS
 Found mostly in the orbits of Earth, Luna, Venus, and Ma
-cylinders were among transhumanity’s first large space
-signs. O’Neill cylinders are no longer built, having bee
+cylinders were among transhumanity's first large space
+signs. O'Neill cylinders are no longer built, having bee
 by more efficient designs, but are still home to tens of
-transhumans. O’Neill cylinders were constructed from me
+transhumans. O'Neill cylinders were constructed from me
 on Luna or Mercury, Lunar volatiles (including Lunar
 and asteroidal silicates.
-  A typical O’Neill habitat is thirty-five kilometers lon
+  A typical O'Neill habitat is thirty-five kilometers lon
 lometers in diameter, and rotates around its long axis
 sufficient for centrifugal force to create one Earth grav
 inner wall of the cylinder. Smaller cylinders exist, tho
@@ -105,7 +105,7 @@ up to 3
 
 
 
-O’Neill
+O'Neill
 itat de-
  placed
 ions of

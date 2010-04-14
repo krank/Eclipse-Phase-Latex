@@ -8,20 +8,20 @@ they want to do. If their access rights allow it, the
 activity is handled like that of a legitimate user and
 no test is called for (unless the activity itself calls for
 some kind of test, such as Research). For example, a
-hacker who infiltrates a habitat’s security system with
+hacker who infiltrates a habitat's security system with
 a security account can monitor cameras, deactivate
 sensors, review recorded surveillance footage, and so
 on, as any legitimate user with security right would be
 allowed to do.
    Engaging in any sort of activity for which you
-don’t have access rights is more difficult and requires
+don't have access rights is more difficult and requires
 hacking the system. This typically requires an Infosec
 Success Test, modified by the difficulty of the action
 as noted on the Subversion Difficulties table. In most
 cases this in not an Opposed Test even if the system is
 actively monitored, unless specifically stated otherwise.
 Failing such tests, however, will result in a change of
-the hacker’s intruder status (see Failing Tests, p. 256).
+the hacker's intruder status (see Failing Tests, p. 256).
    Examples for different types of system subversion
 are given in the Subversion Examples sidebar. This
 is not an exhaustive list, however, and gamemasters
@@ -33,7 +33,7 @@ A hacker who has infiltrated an ecto, mesh inserts, or
 some other device with an AR interface may inject
 different kinds of visual, auditory, tactile, and even
 emotional illusions into the augmented reality of
-the device’s user, depending on the type of interface
+the device's user, depending on the type of interface
 used. How the hacked user will respond to the illu-
 sion depends on a number of factors, such as whether
 they are aware of the intruder (i.e., the hacker has
@@ -47,18 +47,18 @@ making a Perception Test to identify them as fake
 
 
                                          SUBVERSION
-                                              Difﬁculty modiﬁers
+                                              Difficulty modifiers
 
 MODIFIER TASK
              Execute commands, view restricted information, run
     –0
-             copy/delete ﬁles, access sensor feeds, access slaved d
-   –10       Change system settings, alter logs/restricted ﬁles
+             copy/delete files, access sensor feeds, access slaved d
+   –10       Change system settings, alter logs/restricted files
    –20       Interfere with system operations, alter sensor/AR inp
    –30       Shut system down, lockout user/muse, launch counte
                    SUBVERSION EXAMPLES
-         In addition to the tasks noted under the Subversion Difﬁculties
-              these modiﬁers present some additional example actions.
+         In addition to the tasks noted under the Subversion Difficulties
+              these modifiers present some additional example actions.
 
 MODIFIER TASK
      Hacking Bots/Vehicles
@@ -69,11 +69,11 @@ MODIFIER TASK
      Hacking Ectos/Mesh Inserts
                Interact with entoptics, befriend everyone in range, make
     –0
-               purchases using user’s credit, intercept communications,
-               Alter social network proﬁle/status, adjust AR ﬁlters, twea
+               purchases using user's credit, intercept communications,
+               Alter social network profile/status, adjust AR filters, twea
    –10
                interface, change AR skin, change avatar, access VPN
-               Block or shufﬂe senses, inject AR illusions, spoof comman
+               Block or shuffle senses, inject AR illusions, spoof comman
    –20
                drones/slaved devices
    –30         Boot user out of AR
@@ -81,7 +81,7 @@ MODIFIER TASK
     –0         Open/close doors, stop/start elevators, operate intercom
                Adjust temperature/lighting, disable safety warnings, repl
    –10
-               tic skin, lock doors, switch trafﬁc timers
+               tic skin, lock doors, switch traffic timers
                Disable subsystems (plumbing, recycling, etc.), disable wi
    –20
                dispatch repair crews

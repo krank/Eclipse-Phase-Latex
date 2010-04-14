@@ -17,7 +17,7 @@ Electronics 30, Infosec 30, Interface 40, Professional:       allowing the user 
 Accounting 60, Programming 20, Research 30, Per-              the breadcrumb trail. This is useful in derelict habitats,
 ception 30, plus three other Knowledge skills at 40.          wilderness, and other areas where there is no local
 [High]                                                        functioning mesh, and is helpful both for mapping
-                                                              and for finding one’s way back. [Low]
+                                                              and for finding one's way back. [Low]
 SCORCHERS                                                        Electrogravitics Net: Also called a safety net, this fail-
 Scorchers are damaging neurofeedback programs used            safe system uses electric fields to counter gravity when
 to torment hacked cyberbrains (p. 261).                       falling. While the system is not able to actually levitate
@@ -40,10 +40,10 @@ fected, suffering a –10 modifier to all actions until the        Emergency Bub
 end of the next Action Turn. If they fail, they suffers       monly used as a last resort
 1d10 ÷ 2 stress damage and are overcome with panic.          “life raft” on spaceships, an
 This causes them either to blindly flee, have a nervous       emergency bubble is made
-breakdown, or cower in frozen shock (gamemaster’s             of advanced smart materi-
+breakdown, or cower in frozen shock (gamemaster's             of advanced smart materi-
 discretion). This panic episode lasts for 1 Action Turn       als and comes in a por-
 per 10 points of MoF. [High]                                  table package that can be
-   Shutter: Shutters target the victim’s sensory cortices,    quickly inflated (1 Action
+   Shutter: Shutters target the victim's sensory cortices,    quickly inflated (1 Action
 inflicting a –30 modifier to one chosen sense. Double        Turn) around the user, usu-
 this modifier if the attacking hacker scored an Excel-        ally inside an airlock. The
 lent Success. This modifier reduces at the rate of 10         bubble has a 5-meter diameter and can comfortably

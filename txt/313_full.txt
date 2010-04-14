@@ -1,5 +1,5 @@
  suffers an off-hand modifier (p. 193). These limbs            Structural Enhancement: This modification bolsters
-may be arms (with hand/grippers/etc.), legs, tentacle-      the shell’s structural integrity, boosting its ability to
+may be arms (with hand/grippers/etc.), legs, tentacle-      the shell's structural integrity, boosting its ability to
 like, or otherwise articulated and/or prehensile. Some      take damage. Increase Durability by 10 and Wound
  shells have rotational frames that allow them to move      Threshold by 2. [Moderate]
 limbs around their body. [Low]                                 Swarm Composition: The shell is not a single unit
@@ -25,28 +25,28 @@ The shell receives a +30 modifier whenever maintain-        fully sculpted to pa
 ing a magnetic hold on something. [Low]                     particular person). The morph can cry, spit, have sex,
     Modular Design: This shell is designed to lock to-      and will even bleed if cut. Only a detailed physical
  gether with similar modular morphs in different archi-     examination or a radar, teraherz, or x-ray scan will
-tectural patterns to create larger gestalt forms. When      detect the synthmorph’s true nature, and even then
+tectural patterns to create larger gestalt forms. When      detect the synthmorph's true nature, and even then
 united with other modules, the group is treated as a        such exams/scans suffer a –30 modifier. [Moderate]
  single unit/morph, with shared capabilities. If dam-          Weapon Mount: The shell carries a built-in (or built-
  aged and then separated, damage and wounds are dis-        on) weapon. This weapon mount may be either internal
 tributed evenly between modules; uneven amounts are         (concealed, only weapons small in relation to the shell
  allocated randomly. The exact capabilities of different    may fit, –30 to Perception Tests to detect) or external
  shapes depends on the composition, and is largely left     (visible). It may be fixed (one direction only), swiveling
-in the gamemaster’s hands. [High]                           (limited field of fire), or on an articulated mount (all
+in the gamemaster's hands. [High]                           (limited field of fire), or on an articulated mount (all
     Pneumatic Limbs: The limbs are equipped with            directions). [Low; Moderate for concealed/articulated]
 pneumatic cylinder systems that can generate up to
 1,500 pounds of thrust. This allows the shell to push       SENSORS
-off and make impressive jumps (a synth of human             360° Vision: The shell’s visual sensors are situated for
+off and make impressive jumps (a synth of human             360° Vision: The shell's visual sensors are situated for
  size/weight can leap over 2 meters up). Apply a +20 to     a 360-degree field of vision. [Low]
 Freerunning Tests. A pneumatic limb used to strike an          Chemical Sniffer: This sensor detects molecules in the
 opponent in unarmed combat inflicts an extra 1d10           air and analyzes their chemical composition. It enables
 damage. [Low]                                               Chemistry Tests to determine the presence of gases, in-
-    Retracting/Telescoping Limbs: The shell’s limbs can     cluding toxins and other fumes. It can also detect the
- either be retracted completely inside it’s frame and/or    presence of explosives and firearms. [Moderate]
+    Retracting/Telescoping Limbs: The shell's limbs can     cluding toxins and other fumes. It can also detect the
+ either be retracted completely inside it's frame and/or    presence of explosives and firearms. [Moderate]
  extended for extra length (usually up to 1 or 2 meters        Lidar: This sensor emits laser light and measures
  extra). Telescoping limbs may give the shell a reach       the reflections to judge range, speed, and image the
  advantage in melee combat (p. 204). [Low]                  target. See Using Enhanced Senses, p. 302. [Low]
-    Shape Adjusting: This shell is made from smart             Nanoscopic Vision: The shell’s visual sensors can
+    Shape Adjusting: This shell is made from smart             Nanoscopic Vision: The shell's visual sensors can
 materials that allow it to alter its shape, altering its    focus like a microscope, using advanced superlens
 height, width, circumference, and external features,        techniques to beat the optical diffraction limit and
 while retaining the same mass. This modification is         image objects as small as a nanometer. This allows

@@ -16,7 +16,7 @@ monitors its surroundings and has visual recogni-
 tion software that knows what its users and its keys
 look like (Perception skill 40). Picking a lockbot is
 thus incredibly difficult, because it will shut its ori-
-fice and not accept a key that doesn’t look right or
+fice and not accept a key that doesn't look right or
 that comes from an unrecognized user. Unfamiliar
 nanobots trying to enter the orifice are targeted and
 destroyed by the guardian nanobots. Finally, exter-
@@ -26,7 +26,7 @@ portal surface or the lock itself. These appendages
 have a range of 1 meter, attack with skill of 40, and
 inflict 1d10 +2 DV.
    Lockbots are generally immune to being hacked
-because, for security, they aren’t connected to
+because, for security, they aren't connected to
 the mesh. If attacked, however, lockbots are pro-
 grammed to send out an alarm signal via the mesh.
    There are several ways to defeat a lockbot. One
@@ -36,12 +36,12 @@ the lockbot or the portal it guards with so much
 force that the lockbot is unable to repair it (usually
 using ranged weapons, as anything within a meter
 of a lockbot may be counterattacked). A third is to
-somehow image the cavity beyond the lockbot’s ori-
+somehow image the cavity beyond the lockbot's ori-
 fice without the imaging device being destroyed and
 to then forge the key. All of these are difficult and
 time-consuming processes.
    Some lockbots have the ability to destroy what
-they’re protecting. For example, lockbots are a
+they're protecting. For example, lockbots are a
 common protection for the physical interfaces to
 hardwired networks. If the lockbot is compromised,
 it may, as a last resort, destroy the interface it was
@@ -50,7 +50,7 @@ protecting.
 PORTAL DENIAL SYSTEM
 Installed in corridors or doorways, this is essentially
 a laser trap device. When an unauthorized person
-enters the portal denial system’s area, it uses lasers
+enters the portal denial system's area, it uses lasers
 to create a grid of plasma channels that are used to
 deliver a powerful electric current to the target. This
 system has both lethal and nonlethal settings.

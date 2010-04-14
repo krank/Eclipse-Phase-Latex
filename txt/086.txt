@@ -3,13 +3,13 @@ Major Stations: Ambelina (Venus)
 Though similar to the Night Cartel in that Pax Familae
 holds legal offices and outposts in several habitats while
 working underground in others, the difference between
-the two syndicates couldn’t be bigger. The entire Pax
+the two syndicates couldn't be bigger. The entire Pax
 Familae organization goes back to one person, Clau-
-dia Ambelina, the syndicate’s founder and matriarch.
+dia Ambelina, the syndicate's founder and matriarch.
 Relying excessively on cloning and forking technolo-
 gies, each individual member of the syndicate is a de-
 scendant or variant of Claudia. Biomorphs are cloned
-from Claudia’s original genetics or even sometimes
+from Claudia's original genetics or even sometimes
 sexually-produced offspring (thanks to sex switching
 bio-mods), while egos are forks. All members are ut-
 terly loyal to Claudia and show their family affiliation
@@ -17,7 +17,7 @@ with pride and arrogance. Individually, each remains
 slightly but notably different, though all are calculating
 and ambitious. Regular re-assimilation of forks and XP
 updates are used to keep each variant aware of each of
-the other’s activities—once you’ve met one version of
+the other's activities—once you've met one version of
 Claudia, the others will know you.
    Pax Familae engages in a wide assortment of legal,
 dubious, and illegal operations, each tailored to the
@@ -44,7 +44,7 @@ TRIADS
 Major Stations: Qing Long (Martian Trojans)
 The only major Earth syndicate to survive the Fall
 almost unscathed, the triads dominate the solar
-system’s underworld by their sheer membership size
+system's underworld by their sheer membership size
 and a history of centuries of economic and political
 influence. Having evolved into legit enterprises and
 small economic consortiums already before the Fall,
@@ -78,23 +78,23 @@ caters to the vices and addictions of indentured
 habitat workers, miners, and other laborers, supplying
 drugs and illegal XP, running prostitution rings, and
 arranging illegal pit fights and gambling tournaments.
-The origin of the Shui Fong’s fierce rivalry with the
-14K lies in the ruins of Earth’s pre-Fall history, but
+The origin of the Shui Fong's fierce rivalry with the
+14K lies in the ruins of Earth's pre-Fall history, but
 the hatred between the two factions was carried into
 space and continues to simmer.
-   The Sun Yee On once ranked second among Earth’s
+   The Sun Yee On once ranked second among Earth's
 biggest triads, with over 25,000 suspected members.
 They profit primarily by selling cheap copies of nano-
 fab blueprints and rigged makers and fabbers. Legal
 products are distributed through their Wushuang Cor-
 poration, while illegal goods are patched together by
 enslaved infomorphs in virtual sweatshops in remote
-corners of the mesh. The Sun Yee On’s second main
+corners of the mesh. The Sun Yee On's second main
 profit source are fake Earth nostalgia items, such as
-jewelry, documents, coins, and other collector’s items.
+jewelry, documents, coins, and other collector's items.
    The Big Circle Gang is the smallest of the four triad
 factions with only approximately 8,000 members.
-They run a large part of the solar system’s drug trade,
+They run a large part of the solar system's drug trade,
 producing organic drugs, smart drugs, and narcoalgo-
 rithms of all kinds in secluded habitats or abandoned
 asteroid mining and processing facilities converted
@@ -108,7 +108,7 @@ from all sorts of factions, cultures, backgrounds,
 and habitats. Potential new recruits are approached
 in secret and told they possess skills or knowledge
 of use to a clandestine network seeking to secure
-transhumanity’s continued survival. Firewall’s agenda
+transhumanity's continued survival. Firewall's agenda
 is simple: to protect transhumanity from threats of
 existential scope, regardless of whether such risks
 emerge from within transhumanity or are of external,
@@ -117,4 +117,4 @@ alien origin.
 couraged to act independently and utilize their own
 resources. Sentinels are connected by a social network
 known as the Eye, which they can use to acquire help
-and additional needed skills or resources. A sentinel’s
+and additional needed skills or resources. A sentinel's

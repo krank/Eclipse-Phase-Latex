@@ -1,9 +1,9 @@
    Specs: Specs are vision-enhancing glasses. They
-deliver sensory data directly into the wearer’s visual
+deliver sensory data directly into the wearer's visual
 cortex by connecting with their basic mesh inserts
 (p. 300), though visual displays are available for bio-
 conservatives and other characters without implants.
-Specs extend the range of the wearer’s vision from
+Specs extend the range of the wearer's vision from
 terahertz waves to gamma rays (p. 302). Specs in-
 clude a t-ray emitter (p. 306), however, using x-rays,
 or gamma rays for visual purposes requires a sepa-
@@ -26,7 +26,7 @@ grinder or pair of pliers. Some inexpensive utilitools
 are optimized for specialized tasks, like cooking
 or wilderness survival, but more expensive models
 become almost any imaginable hand tool. Utilitools
-are normally mentally controlled using the character’s
+are normally mentally controlled using the character's
 basic mesh inserts. Characters without such implants
 can control the tool via voice commands and touch
 controls. Characters using a utilitool gain a +10
@@ -58,7 +58,7 @@ growing field, however, and has its limitations. While
 the TITANs unleashed self-replicating nanoswarms
 with the ability to transform or destroy anything
 through the power of geometric growth, such technol-
-ogy remains far beyond transhumanity’s grasp.
+ogy remains far beyond transhumanity's grasp.
 
 BASIC NANOTECHNOLOGY
 Basic nanotechnology is exceedingly widespread
@@ -80,4 +80,4 @@ vat, they will not only survive, but emerge without a
 scratch. A healing vat can even take a severed head (as
 long as it has been stabilized by medichines or nano-
 tech first aid) and regrow an entire body based on the
-head’s genetics. If the patient’s body or medical records
+head's genetics. If the patient's body or medical records

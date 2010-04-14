@@ -27,7 +27,7 @@ with bounty hunters.
 
 PSI VULNERABILITY (EGO OR MORPH TRAIT)
 Bonus: 10 CP
-  Something about the character’s mind makes
+  Something about the character's mind makes
 them particularly vulnerable to psi attack. They
 suffer a –10 modifier when resisting such attacks.
 The morph version of this trait may only be taken
@@ -44,14 +44,14 @@ ties, social cues, and other factors that people with
 standard human upbringings take for granted. This
 lack of common sense may lead the character to
 misunderstand how a device works or to misinterpret
-someone’s body language.
+someone's body language.
    Once per game session, the gamemaster may in-
 tentionally mislead the character when giving them
 a description about some thing or some social in-
-teraction. This falsehood represents the character’s
+teraction. This falsehood represents the character's
 misunderstanding of the situation, and should be
 roleplayed appropriately, even if the player realizes
-the character’s mistake.
+the character's mistake.
    This trait should only be available to characters
 with the infolife or reinstantiated backgrounds,
 though the gamemaster may allow it for characters
@@ -59,7 +59,7 @@ who have extensive virtual reality/XP use in their
 personal histories.
 SEVERE ALLERGY (MORPH TRAIT)
 Bonus: 10 (uncommon) or 20 (common) CP
-   The morph’s biochemistry suffers a severe allergic
+   The morph's biochemistry suffers a severe allergic
 reaction (anaphylaxis) when it comes into contact
 (touched, inhaled, or ingested) with a specific allergen.
 The allergen may be common (dust, dander, plant pollen,
@@ -80,16 +80,16 @@ improve skills or learn new ones (p. 152).
 
 SOCIAL STIGMA (EGO OR MORPH TRAIT)
 Bonus: 10 CP
-   An unfortunate aspect of the character’s back-
+   An unfortunate aspect of the character's back-
 ground means that they suffer from a stigma in
 certain social situations. They may be sleeved in
 a morph viewed with repugnance, be a survivor of
 the infamous Lost generation, or may be an AGI in
 a post-Fall society plagued by fear of artificial intelli-
-gence. In social situations where the character’s nature
+gence. In social situations where the character's nature
 is known to someone who view that nature with dis-
 taste, fear, or repugnance, they suffer a –10 to –30
-modifier (gamemaster’s discretion) to social skill tests.
+modifier (gamemaster's discretion) to social skill tests.
 
 TIMID
 Bonus: 10 CP

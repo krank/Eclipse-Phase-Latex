@@ -12,11 +12,11 @@ STARTING OUT                            18    Union Busting                     
                                                                                        CHARACTER CREATION AND
  Where Does It Take Place?              24    Socio-Political Movements           79    ADVANCEMENT         128
  Ego vs. Morph                          24    Neo-Primitivists                    80   CHARACTER GENERATION                130
- Where To Go From Here?                 24    Out’sters                           80     Character Concept                 130
+ Where To Go From Here?                 24    Out'sters                           80     Character Concept                 130
  Terminology                            25    Sybils                              81     Step-by-Step Guide to Character
                                               Religious Groups                    82        Creation                       130
 A TIME OF ECLIPSE                       30    Criminal Factions                   83     Choose Background                 131
-A PEOPLE’S HISTORY OF AN                      Firewall                            84     Choose Faction                    132
+A PEOPLE'S HISTORY OF AN                      Firewall                            84     Choose Faction                    132
   UNFORTUNATE UNIVERSE                  32    Project Ozma                        85     Spend Free Points                 134
  Eclipse Phase Timeline                 37   SYSTEM GAZETEER                      86     Spend Customization Points        135
 THE SOLAR SYSTEM                              Sol (The Sun)                       86     Purchase Gear                     137
@@ -29,7 +29,7 @@ CULTURE AND SOCIETY                     41    Venus                             
  The Longing For Earth                  41    Earth                               90     Synthetic Morphs                  143
  Nostalgia Jewelry                      41    Venusian Rumors                     90     Infomorphs                        145
  Fear and Paranoia                      42    Luna                                91   TRAITS                              145
- An Exsurgent Threat?                   42    TILION’s Jupiter Brain              92     Positive Traits                   145
+ An Exsurgent Threat?                   42    TILION's Jupiter Brain              92     Positive Traits                   145
  Real and Social Distance               43    Mars                                93     Negative Traits                   148
  Singularity Seekers                    43    Martian Manhunt                     95   CHARACTER ADVANCEMENT               152
  The Rise of Cultural Regions           44    Martian Trojans                     96     Changing Motivation               152
@@ -41,7 +41,7 @@ TECHNOLOGY                              45    The Trojans (Jovian Trojan
                                                                                          Specializations                   153
  Living With Infotech                   46                                               Improving Moxie                   153
                                                  and Greek Asteroids)            100     Gaining/Losing Traits             153
- Opening Pandora’s Gate                 46
+ Opening Pandora's Gate                 46
                                               Saturn                             102     Improving Rep                     153
  Going Beyond the Known                 47
                                               Gate Expedition Report 901127      102     Making Credit                     153

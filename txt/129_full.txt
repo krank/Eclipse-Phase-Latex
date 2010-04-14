@@ -2,48 +2,48 @@ GAME RULES SUMMARY
 Everything you need to know about the rules—summed up on a single page.
 
     MAKING TESTS (P. 115)                                        TAKING THE TIME (P. 118)
-• Roll d100 (two ten-sided dice, read as a percentile            • Character may take extra time to compl
-    amount, from 00 to 99).                                      • On Complex actions, each minute taken
-•   Target number is determined by the appropriate skill           the test.
-    (or occasionally an aptitude).                               • On Task actions, every 50 percent extens
-•   Difﬁculty is represented by modiﬁers.                          timeframe adds +10 to the test.
-•   00 is always a success.
-•   99 is always a failure.                                      APTITUDES (P. 123)
-•   Margin of Success of 30+ is an Excellent Success.            • Aptitudes range from 1 to 30 (average 1
-•   Margin of Failure of 30+ is a Severe Failure.                • Aptitudes are: Cognition, Coordination,
-•   A roll of doubles (00, 11, 22, 33, etc.) equals a critical     Reﬂexes, Savvy, Somatics, and Willpowe
+- Roll d100 (two ten-sided dice, read as a percentile            - Character may take extra time to compl
+    amount, from 00 to 99).                                      - On Complex actions, each minute taken
+-   Target number is determined by the appropriate skill           the test.
+    (or occasionally an aptitude).                               - On Task actions, every 50 percent extens
+-   Difficulty is represented by modifiers.                          timeframe adds +10 to the test.
+-   00 is always a success.
+-   99 is always a failure.                                      APTITUDES (P. 123)
+-   Margin of Success of 30+ is an Excellent Success.            - Aptitudes range from 1 to 30 (average 1
+-   Margin of Failure of 30+ is a Severe Failure.                - Aptitudes are: Cognition, Coordination,
+-   A roll of doubles (00, 11, 22, 33, etc.) equals a critical     Reflexes, Savvy, Somatics, and Willpowe
     success or failure.
                                                                  LEARNED SKILLS (P. 123)
-SUCCESS TEST (P. 117)                                            • Skills range from 1-99 (average 50).
-• To succeed, roll d100 and score equal to or less than          • Each skill is linked to and based on a
-    the skill +/– modiﬁers.                                      • Morphs, gear, drugs, etc. may provide sk
+SUCCESS TEST (P. 117)                                            - Skills range from 1-99 (average 50).
+- To succeed, roll d100 and score equal to or less than          - Each skill is linked to and based on a
+    the skill +/– modifiers.                                      - Morphs, gear, drugs, etc. may provide sk
                                                                    penalties to individual skills.
 OPPOSED TEST (P. 119)
-• Each character rolls d100 against their skill +/– modiﬁers. SPECIALIZATIONS (P. 123)
-• The character who succeeds with the highest roll wins. • Specializations add +10 when using a sk
+- Each character rolls d100 against their skill +/– modifiers. SPECIALIZATIONS (P. 123)
+- The character who succeeds with the highest roll wins. - Specializations add +10 when using a sk
     If both characters fail, or both succeed but tie, dead-        of concentration.
-    lock occurs.                                                 • Each skill may have only one specializati
+    lock occurs.                                                 - Each skill may have only one specializati
 
 SIMPLE SUCCESS TEST (P. 118)                                     ACTION TURNS (P. 120)
-• Simple Success Tests automatically succeed.                    • Action Turns are 3 seconds in length.
-• Success or failure on the roll simply indicates if the         • The order in which characters act is dete
+- Simple Success Tests automatically succeed.                    - Action Turns are 3 seconds in length.
+- Success or failure on the roll simply indicates if the         - The order in which characters act is dete
     character succeeded strongly or poorly.                        Initiative.
-                                                                 • Automatic actions are always “on.”
-DEFAULTING (P. 116)                                              • Characters may take any number of Qui
-• If a character does not have the appropriate skill for a         Turn (minimum of 3), limited only by the
-    test, they may default to the skill’s linked aptitude.       • Characters may only take a number of C
+                                                                 - Automatic actions are always “on.”
+DEFAULTING (P. 116)                                              - Characters may take any number of Qui
+- If a character does not have the appropriate skill for a         Turn (minimum of 3), limited only by the
+    test, they may default to the skill's linked aptitude.       - Characters may only take a number of C
                                                                    Actions equal to their Speed stat.
 MODIFIERS (P. 115)
-• Modiﬁers always affect the target number (skill), not          TASK ACTIONS (P. 120)
-  the roll.                                                      • Task Actions are any action that requires
-• Modiﬁers (positive or negative) come in 3 levels of              Action Turn to complete.
-  severity:                                                      • Task Actions list a timeframe (anywhere
+- Modifiers always affect the target number (skill), not          TASK ACTIONS (P. 120)
+  the roll.                                                      - Task Actions are any action that requires
+- Modifiers (positive or negative) come in 3 levels of              Action Turn to complete.
+  severity:                                                      - Task Actions list a timeframe (anywhere
   ■ Minor (+/–10)                                                  to 2 years).
-  ■ Moderate (+/–20)                                             • Timeframe reduced by 10% for each 10
-  ■ Major (+/–30)                                                • If character fails, they work on the task
-• The maximum modiﬁers that can be applied are +/– 60.             period equal to 10% of the timeframe f
-                                                                   points of MoF before realizing it’s a failu
+  ■ Moderate (+/–20)                                             - Timeframe reduced by 10% for each 10
+  ■ Major (+/–30)                                                - If character fails, they work on the task
+- The maximum modifiers that can be applied are +/– 60.             period equal to 10% of the timeframe f
+                                                                   points of MoF before realizing it's a failu
 TEAMWORK (P. 117)
-• One character is chosen as the primary actor; they
+- One character is chosen as the primary actor; they
   make the test.
-• Each helper character adds a +10 modiﬁer (max. +30).
+- Each helper character adds a +10 modifier (max. +30).

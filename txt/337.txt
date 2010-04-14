@@ -17,7 +17,7 @@
  produced even without nanofabrication. By default,
  modern kinetic weapons are ambidextrous but more
  importantly feature safety and smartlink systems (p.
- 342) that automatically connect to the wielder’s mesh
+ 342) that automatically connect to the wielder's mesh
  inserts for firing assistance, target recognition, and
  tactical networking.
    The wielder of a firearm or railgun uses Kinetic
@@ -35,7 +35,7 @@ BLADES                      ARMOR PENETRATION (AP)
 Diamond Ax                              –3
 Flex Cutter                             –1
 Knife                                   –1
-Monoﬁlament Sword                       –4
+Monofilament Sword                       –4
 Vibroblade                              –2
 Wasp Knife                              –1
 
@@ -64,7 +64,7 @@ Unarmed                                 —
       Note that older, pre-Fall firearms still exist and are
    traded by black marketeers, though they use outdated
    system such as liquid propellants or cased ammuni-
-   tion. At the gamemaster’s discretion, these relics may
+   tion. At the gamemaster's discretion, these relics may
    suffer shorter ranges, less penetration, fewer firing
    modes, or reduced damage.
       Pistols: Pistols are small-sized (p. 297) and de-

@@ -5,7 +5,7 @@ tail, as well as finding potential mates in a bar.
 
 PENETRATION                                                        STRAIN MOD: +0            SKILL:    Psi Assault
     PSI TYPE:   Active        ACTION:     Quick               The sleight allows the async to overload and flood one
-                                                              of the target’s sensory cortices (chosen by the async),
+                                                              of the target's sensory cortices (chosen by the async),
     RANGE:      Touch         DURATION:   Instant
                                                                spamming them with confusing and distracting sen-
      STRAIN MOD: 1 per AP point SKILL:  Psi Assault            sory input and thereby impairing them. If the async
@@ -15,7 +15,7 @@ It allows the async to penetrate the Psi Shield of an op-     –20 if the async
 ponent by concentrating their psi attack. Every point
 of Armor Penetration applied to a psi attack inflicts         STATIC
 1 point of strain. The maximum AP that may be ap-                 PSI TYPE:   Active       ACTION:     Complex
-plied equals the async’s Psi Assault skill divided by 10
+plied equals the async's Psi Assault skill divided by 10
 (round down).                                                     RANGE:      Close        DURATION:   Sustained
                                                                   STRAIN MOD: +0           SKILL:    None
 PSI SHIELD                                                    The async generates an anti-psi jamming field, imped-
@@ -23,7 +23,7 @@ PSI SHIELD                                                    The async generate
                                                               such ranged sleights suffer a –30 modifier. This sleight
     RANGE:      Self         DURATION: Constant
                                                               has no effect on self or touch-range sleights.
-Psi Shield bolsters the async’s mind to psi attack and
+Psi Shield bolsters the async's mind to psi attack and
 manipulation. If the async is hit by a psi attack, they       SUBLIMINAL
 receive WIL ÷ 5 (round up) points of armor, reducing
 the amount of damage inflicted. They also receive a               PSI TYPE:   Active       ACTION:     Complex
@@ -36,10 +36,10 @@ PSYCHIC STAB                                                  The Subliminal sle
     STRAIN MOD: +0           SKILL:    Psi Assault
                                                               recipient will carry out this suggestion as if it was
 Psychic Stab is an offensive sleight that seeks to inflict    their own idea. Implanted suggestions must be short
-physical damage on the target’s brain and nervous             and simple; as a rule of thumb, the gamemaster may
+physical damage on the target's brain and nervous             and simple; as a rule of thumb, the gamemaster may
 system. Each successful attack inflicts 1d10 + (WIL ÷         only suggestions encompassed by a short sentence
 10, round up) damage. Increase the damage by +5 if            (for example: “open the airlock,” or “hand over the
-an Excellent Success is scored.                               weapon”). At the gamemaster’s discretion, the target
+an Excellent Success is scored.                               weapon”). At the gamemaster's discretion, the target
                                                               may receive a bonus for resisting suggestions that are
 SCRAMBLE                                                      immediately life threatening (“jump off the bridge”)
     PSI TYPE:   Passive       ACTION:     Automatic           or that violate their motivations or personal strictures.
@@ -50,18 +50,18 @@ Scramble allows the async using the sleight to hide
                                                               (“when the alarm goes off, ignore it”).
 from another async using the Ego Sense or Omni
 Awareness sleights. Apply a +30 modifier to the de-
-fending async’s Opposed Test.
+fending async's Opposed Test.
                                                               THOUGHT BROWSE
                                                                   PSI TYPE:   Active       ACTION:     Complex
 SENSE BLOCK                                                       RANGE:      Touch        DURATION:   Sustained
     PSI TYPE:   Active        ACTION:     Complex                 STRAIN MOD: –1          SKILL:   Sense
     RANGE:      Touch         DURATION: Temp (Action Turns)   Thought Browse is a less-intrusive form of mind
-    STRAIN MOD: –1            SKILL:   Psi Assault            reading which scans the target’s surface thoughts for
+    STRAIN MOD: –1            SKILL:   Psi Assault            reading which scans the target's surface thoughts for
                                                               certain “keywords” like a particular word, phrase,
 Sense Block disables and short circuits one of the tar-
                                                               sound, or image chosen by the async. Rather than dig-
-get’s sensory cortices (chosen by the async), interfering
-                                                              ging through the target’s ego as with the Deep Scan
+get's sensory cortices (chosen by the async), interfering
+                                                              ging through the target's ego as with the Deep Scan
 with and possibly negating a specific source of sensory
                                                               sleight, Thought Browse merely verifies whether a
 input for the chosen duration. If the async beats the

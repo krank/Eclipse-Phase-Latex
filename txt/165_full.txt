@@ -26,7 +26,7 @@ MERCURIAL INVESTIGATOR
                          Free Fall    REF       30                    30
                          Gunnery      INT       50                    50
                   Impersonation       SAV       45                    45
-                       Inﬁltration    COO       50                    50
+                       Infiltration    COO       50                    50
                           Infosec     COG       60                    60
         Interests: Crime Groups       COG       60                    60
       Interests: Cultural Trends      COG       45                    45
@@ -59,7 +59,7 @@ transhuman mindsets and world           vices as a mesh-based investiga-
                                                                                   c-rep:    20                              2 Gnat Bot
 views. You resent the backlash          tor. For most of your inquiries, a
                                                                                   g-rep:    10                              Holograph
-against AGIs and criticize resur-       physical form isn’t necessary, as
+against AGIs and criticize resur-       physical form isn't necessary, as
                                                                                   i-rep:    20                              Narcoalgo
 gent human tendencies towards           you acquire data on the physi-
                                                                                                                             Scout Nan
@@ -75,4 +75,4 @@ ture and the data it produces,          ghostrider module or, as a last
                                                                                                                             5 XP Clips
 bathing in its richness. You excel      resort, in a meat puppet. ■
 
-                                     “Oh this is great, I think I found it! What is a ‘red light district?’ Oh, I see.”
+                                     “Oh this is great, I think I found it! What is a ‘red light district?' Oh, I see.”

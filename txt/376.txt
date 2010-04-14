@@ -31,7 +31,7 @@ METABOLISM
 Factors ships and habitats have transhuman-friendly
 atmospheres with a slightly higher content of carbon
 dioxide and less nitrogen that mimics the conditions
-on the Factors’ home planet. They don’t breathe
+on the Factors' home planet. They don't breathe
 oxygen via lungs but absorb it via their outer “skin.”
 Since they can also use oxygen from other sources
 (minerals, liquids like water, and salts) to fuel their
@@ -56,8 +56,8 @@ As such they can devour biomorphs and non-metallic
 components of synthmorphs.
 
 PERCEPTION
-Factors don’t perceive the world as transhumans
-do. They (usually) don’t possess visual or acoustic
+Factors don't perceive the world as transhumans
+do. They (usually) don't possess visual or acoustic
 organs to see or hear but have a number of sensory
 organs that grant them a 360-degree awareness of
 their surroundings and enable them to interact
@@ -83,7 +83,7 @@ mans, however, that ranges from smelly to unbearable.
 This dust is also toxic in high concentrations and some-
 times used as an offensive or defensive mechanism.
   To date, transhumans have failed to develop a device
-that can analyze the Factors’ chemical effluvia and
+that can analyze the Factors' chemical effluvia and
 translate it into something understandable, due to the
 lack of a conceptual matrix (though certain “moods”
 have been identified). Instead, all communication

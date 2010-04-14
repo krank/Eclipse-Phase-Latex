@@ -24,11 +24,11 @@ MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND H
   as fear and paranoia, but subsequent investigations         MORPH ACCLIMATIZATION
   by black budget labs has proven otherwise. Now, top-        Async minds undergo extra difficulty adjusting to new
   level confidential networks whisper that this infection     morphs. For 1 day after the character has resleeved,
-  inflicts intricate changes in the victim’s neural network   they will suffer the effects of a single derangement
+  inflicts intricate changes in the victim's neural network   they will suffer the effects of a single derangement
   that imbue them with strange and inexplicable abili-        (p. 210). The gamemaster and player should choose a
   ties. The exact mechanism and nature of these abilities     derangement appropriate to the character and story.
   remains unexplained and outside the grasp of modern         Minor derangements are recommended, but at the
-  transhuman science. Given the evidence of a new             gamemaster’s discretion moderate or major derange-
+  transhuman science. Given the evidence of a new             gamemaster's discretion moderate or major derange-
   brainwave type and the paranormal nature of this            ments may be applied. No trauma is inflicted with
   phenomenon, it is loosely referred to as “psi.”             this derangement.
 
@@ -37,9 +37,9 @@ MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND H
   In Eclipse Phase, psi is considered a special cognitive     as an infomorph, pod, or synthmorph for long periods
   condition resulting from infection by the mutant—and        of time. This phenomenon, known as morph fever,
   hopefully otherwise benign—Watts-Macleod strain             might cause temporary derangements and trauma to
-  of the Exsurgent virus (p. 367). This plague modifies       the asyncs’ ego, possibly even to the grade of perma-
-  the victim’s mind, conferring special abilities. These      nent disorders. If stored or held captive as an active
-  abilities are inherent to the brain’s architecture and      infomorph (i.e. not in virtual stasis), the async might
+  of the Exsurgent virus (p. 367). This plague modifies       the asyncs' ego, possibly even to the grade of perma-
+  the victim's mind, conferring special abilities. These      nent disorders. If stored or held captive as an active
+  abilities are inherent to the brain's architecture and      infomorph (i.e. not in virtual stasis), the async might
   are copied when the mind is uploaded, allowing the          go insane if not psychologically aided by some sort of
   character to retain their psi abilities when changing       anodyne program or supporting person during storage.
   from morph to morph.                                          In game terms, asyncs take 1d10 ÷ 2 (round up)
@@ -51,12 +51,12 @@ MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND HACKS■MIND H
   tion by the Watts-MacLeod strain; see The Exsurgent         PSI DRAWBACKS
   Virus, p. 362.                                              There are several drawbacks to psi ability:
      Psi ability is considered an innate ability of the
-  ego and not a biological or genetic predisposition of       • The variant Exsurgent strain that endows psi ability
-  the morph. While psi researchers do not understand            rewires the character’s brain. An unfortunate side
+  ego and not a biological or genetic predisposition of       - The variant Exsurgent strain that endows psi ability
+  the morph. While psi researchers do not understand            rewires the character's brain. An unfortunate side
   how it is possible to transfer this ability via uploads,      effect to this change is that asyncs acquire a vulner-
-  backups, and farcasting, it has been speculated that          ability to mental stress. Reduce the async’s Trauma
-  all components of an async’s ego are entangled on a           Threshold by 1.
-  quantum level, or that they possess the ability to en-      • The mental instability that accompanies psi infec-
-  tangle themselves or form a unique conformation or            tion also tends to unhinge the character’s mind.
+  backups, and farcasting, it has been speculated that          ability to mental stress. Reduce the async's Trauma
+  all components of an async's ego are entangled on a           Threshold by 1.
+  quantum level, or that they possess the ability to en-      - The mental instability that accompanies psi infec-
+  tangle themselves or form a unique conformation or            tion also tends to unhinge the character's mind.
   alignment as a whole even after they have been copied,        Asyncs acquires one Mental Disorder negative trait
   up-, or downloaded. This speculated entanglement              (p. 150) for each level they have of the Psi trait

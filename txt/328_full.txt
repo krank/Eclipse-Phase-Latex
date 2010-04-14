@@ -1,9 +1,9 @@
    Specs: Specs are vision-enhancing glasses. They           Tests involving vision or hearing for the target they are
-deliver sensory data directly into the wearer’s visual       aimed at. This bonus is not cumulative with bonuses
+deliver sensory data directly into the wearer's visual       aimed at. This bonus is not cumulative with bonuses
 cortex by connecting with their basic mesh inserts           from any other device or augmentation. [Low]
 (p. 300), though visual displays are available for bio-
 conservatives and other characters without implants.
-Specs extend the range of the wearer’s vision from
+Specs extend the range of the wearer's vision from
 terahertz waves to gamma rays (p. 302). Specs in-
                                                              NANOTECHNOLOGY
                                                              Nanotechnology is the precise manipulation of matter
@@ -18,7 +18,7 @@ bonus to all Perception Tests involving vision. [Low]        needed from raw mat
 into a large vehicle), and facilities (large, non-mobile).   the TITANs unleashed self-replicating nanoswarms
 Each set of tools applies to a particular skill, such        with the ability to transform or destroy anything
 as Hardware: Electronics or Hardware: Groundraft.            through the power of geometric growth, such technol-
-[Low (Kit), High (Shop), Expensive (Facility)]               ogy remains far beyond transhumanity’s grasp.
+[Low (Kit), High (Shop), Expensive (Facility)]               ogy remains far beyond transhumanity's grasp.
    Utilitool: This hand tool includes a specialized
 small nanobot generator. In its basic form, a utilitool      BASIC NANOTECHNOLOGY
 is the size and shape of a large fountain pen. It can        Basic nanotechnology is exceedingly widespread
@@ -28,7 +28,7 @@ grinder or pair of pliers. Some inexpensive utilitools       nanobots of basic n
 are optimized for specialized tasks, like cooking            and specially-maintained environments like the
 or wilderness survival, but more expensive models            insides of cornucopia machines or healing vats and
 become almost any imaginable hand tool. Utilitools           cannot operate elsewhere.
-are normally mentally controlled using the character’s
+are normally mentally controlled using the character's
 basic mesh inserts. Characters without such implants         HEALING VATS
 can control the tool via voice commands and touch            Healing vats were the first type of nanotech medicine
 controls. Characters using a utilitool gain a +10            developed and remain the most powerful medical
@@ -40,4 +40,4 @@ possess all the visual enhancement of specs (p. 325), but    vat, they will not 
 also provide 50x magnification. They also include a di-      scratch. A healing vat can even take a severed head (as
 rectional microphone that magnifies sound from the di-       long as it has been stabilized by medichines or nano-
 rection the viewers are pointed by a factor of 50. View-     tech first aid) and regrow an entire body based on the
-ers provide the user with a +30 bonus to all Perception      head’s genetics. If the patient’s body or medical records
+ers provide the user with a +30 bonus to all Perception      head's genetics. If the patient's body or medical records

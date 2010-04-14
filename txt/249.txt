@@ -1,5 +1,5 @@
 on the mesh. Public accounts do not require any sort
-of authentication or login process, the user’s mesh ID
+of authentication or login process, the user's mesh ID
 is enough. These accounts are used to provide access
 to any sort of data that is considered public: mesh
 sites, forums, public archives, open databases, social
@@ -26,7 +26,7 @@ decides what privileges each user account provides.
 SECURITY ACCOUNTS
 Security accounts are intended for users that need
 greater rights and privileges than standard users, but
-who don’t need control over the entire system, such
+who don't need control over the entire system, such
 as security hackers and muses. Security access rights
 usually allow for reading logs, commanding security
 features, adding/deleting accounts, altering the data of
@@ -44,7 +44,7 @@ MESH GEAR QUALITY
 Not all gear is created equal, and this is especially true
 of computers and software, where new innovations
 are made on a daily basis. Keeping up-to-date with
-the last specs isn’t too difficult, but on occasion the
+the last specs isn't too difficult, but on occasion the
 
 
                                           MESH GEA
@@ -59,7 +59,7 @@ MODIFIER SOFTWARE/HARDWARE
   >+30      TITANs and/or alien technology
    characters will get their hands on some old relic or
    find themselves in secluded or decrepit places with
-   local systems and gear that aren’t up to date. Likewise,
+   local systems and gear that aren't up to date. Likewise,
    they may acquire some cutting-edge gear straight
    from the labs or may run up against a state-of-the-art
    installation with next-generation defenses. To reflect
@@ -74,12 +74,12 @@ MODIFIER SOFTWARE/HARDWARE
    referred to as devices.
 
    PERIPHERALS
-   Peripherals are micro-computerized devices that don’t
+   Peripherals are micro-computerized devices that don't
    need the full processing power and storage capacity of
    a personal computer, but benefit from online network-
    ing and other computerized functions. Peripherals may
    run software, but the gamemaster may decide that too
-   many programs (10+) will degrade the system’s perfor-
+   many programs (10+) will degrade the system's perfor-
    mance. AIs and infomorphs are incapable of running
    on peripherals, though they may access them. Peripher-
    als only have public and user accounts (users accounts
@@ -92,7 +92,7 @@ MODIFIER SOFTWARE/HARDWARE
    puter types, but essentially account for anything that
    has the capabilities evolved from generations and gen-
    erations of personal computers to meet an everyday
-   user’s needs. Most personal computers are portable
+   user's needs. Most personal computers are portable
    and tailored for use by multiple users at a time. Per-
    sonal computers may run one AI or infomorph at a
    time. They may not run simulspace programs.

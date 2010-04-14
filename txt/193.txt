@@ -4,7 +4,7 @@ Quick Action, though intricate maneuvers would call
 for a Complex Action.
 
 MOVEMENT RATES
-Sometimes it’s important to know not just how you’re
+Sometimes it's important to know not just how you're
 moving, but how far. For most of transhumanity, this
 movement rate is the same: 4 meters per Action Turn
 walking, 20 meters per turn running. To determine
@@ -21,7 +21,7 @@ robots, creatures, and unusual morphs will have indi-
 vidual movement rates listed in the format of walking
 rate/running rate in meters per turn.
   These movement rates assume standard Earth
-gravity of course. If you’re moving in a low-gravity,
+gravity of course. If you're moving in a low-gravity,
 microgravity, or high-gravity environment, things
 change. See Gravity, p. 198.
 
@@ -41,9 +41,9 @@ Test. Every 10 points of MoS increases your running
 distance in that Action Phase by 1 meter, to a maxi-
 mum bonus of +5 meters.
 COMBAT
-Sometimes words fail, and that’s when the knives and
+Sometimes words fail, and that's when the knives and
 shredders come out. All combat in Eclipse Phase is
-conducted using the same basic mechanics, whether it’s
+conducted using the same basic mechanics, whether it's
 conducted with claws, fists, weapons, guns, or psi: an
 Opposed Test between the attacker and defender(s).
 

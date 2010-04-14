@@ -4,13 +4,13 @@ them to ignore the effect of 1 trauma and temporarily                 allows the
 boosting Lucidity by +5. Any stress suffered while the                but inflicts a –10 penalty on all memory-related tests
 drug is in effect is taken from the bonus Lucidity first.             and Knowledge Skill Tests. Hash users exhibit blood-
 Comfurt also provides a +10 bonus when resisting                      shot eyes, lethargic behaviors, and the munchies. [Low]
-attempts to manipulate the user’s emotions. Excessive
+attempts to manipulate the user's emotions. Excessive
 use of Comfurt can lead to chronic itchiness caused by                SOCIAL DRUGS
-histamine release. [Low]                                              These social lubricants affect the user’s interactions
+histamine release. [Low]                                              These social lubricants affect the user's interactions
                                                                       with others.
 RECREATIONAL DRUGS                                                      Alpha: Alpha is a more subtle version of BringIt,
 These drugs compete with petals (p. 321) and black                    popular with hypercorp execs, street thugs, and
-market XP for wasting people’s time and lives away.                   anyone else who wants to come across as a domineer-
+market XP for wasting people's time and lives away.                   anyone else who wants to come across as a domineer-
    Buzz: This gene-modified variant of BZ is an odor-                 ing asshole. The pharm designer who invented it had
 less, invisible, extremely powerful hallucinogen. Users               a retro sensibility (and maybe a sick sense of humor);
 or affected characters will undergo extremely realistic               Alpha is typically synthesized as a sparkling white
@@ -26,7 +26,7 @@ character a +10 bonus on Art and Sense Tests. With                    on Persuas
 frequent use, Mono No Aware reacts with pigments                      a factor (gamemaster discretion). These bonuses only
 in the skin to create a pallor with a slight bluish tinge,            apply to characters within 2 meters of the Alpha user.
 even in darker-skinned morphs. [Low]                                    On the downside, alpha users are impatient, unfo-
-   Orbital Hash: Good ol’ reefer—but grown in space                   cused assholes. At the gamemaster’s discretion, Social
+   Orbital Hash: Good ol' reefer—but grown in space                   cused assholes. At the gamemaster's discretion, Social
 using powerful lighting and post-singularity hydropon-                skill modifiers may be reversed to penalties with
 ics. Because space is at a premium in habitats and scum               certain types of people. Additionally, Alpha users
 barges, blocks of hashish are the preferred mode of                   suffer –10 on all COG skill tests related to memory

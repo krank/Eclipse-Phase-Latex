@@ -45,7 +45,7 @@ Disadvantages: None
 Common Morphs: Infomorphs, Synths, uplift morphs
 
 SCUM
-This is the future we’ve all been waiting for, and you’re
+This is the future we've all been waiting for, and you're
 going to enjoy it to the max. A paradigm shift has oc-
 curred, and while everyone else is catching up, your
 faction embraces and revels in it. There is no more
@@ -53,7 +53,7 @@ want, no more death, no more limits on what you can
 be. The scum have immersed themselves in a new way
 of life, changing themselves as they see fit, trying out
 new experiences, and pushing the boundaries wherever
-they can ... and fuck anyone who can’t deal with that.
+they can ... and fuck anyone who can't deal with that.
 Advantages: +10 Freefall skill, +10 to a skill of your
   choice, +20 Networking: Autonomists skill
 Disadvantages: None
@@ -63,8 +63,8 @@ You are a member of the inner system glitterati, the
 media-saturated social cliques that set trends, spread
 memes, and make or break lives with whispers, in-
 nuendo, and backroom deals. You are simultaneously
-an icon and a devout follower. Culture isn’t just your
-life, it’s your weapon of choice.
+an icon and a devout follower. Culture isn't just your
+life, it's your weapon of choice.
 Advantages: +10 Persuasion skill, +10 Protocol skill,
    +20 Networking: Media skill
 Disadvantages: May not start with flat, pod, uplift, or
@@ -72,7 +72,7 @@ Disadvantages: May not start with flat, pod, uplift, or
 Common Morphs: Exalts, Olympians, Sylphs
 
 TITANIAN
-You are a participant in the Titanian Commonwealth’s
+You are a participant in the Titanian Commonwealth's
 socialist cyberdemocracy. Unlike other autonomist
 projects, Titanian joint efforts have assembled some
 impressive infrastructural projects as approved by
@@ -84,10 +84,10 @@ Disadvantages: None
 Common Morphs: All
 
 ULTIMATE
-Your faction sees the potential in transhumanity’s
+Your faction sees the potential in transhumanity's
 future and looks back upon the rest of transhuman-
 ity as weak and hedonistic. Transhumanity is set
-to take the next evolutionary step and it’s time for
+to take the next evolutionary step and it's time for
 transhumans to be redesigned to the best of our
 capabilities.
 Advantages: +10 to two skills of your choice, +20 to a
@@ -101,7 +101,7 @@ You are a supporter of the Morningstar Confedera-
 tion of Venusian aerostats, resentful of the growing
 influence of the Planetary Consortium and other en-
 trenched and conservative inner system powers. You
-see your faction’s ascension as a chance to reform the
+see your faction's ascension as a chance to reform the
 old guard ways of inner system politics.
 Advantages: +10 Pilot: Aircraft, +10 to one skill of
    your choice, +20 Networking: Hypercorps skill
@@ -113,7 +113,7 @@ SPEND FREE POINTS
 Each starting character receives an equal number of
 free points for things like rep and aptitudes. These
 free points are just the start for building your charac-
-ter, so don’t fret if you can’t get certain scores as high
+ter, so don't fret if you can't get certain scores as high
 as you like. In the next stage of character creation,
 you will gain additional points with which you can
 customize your character (see Spend Customization

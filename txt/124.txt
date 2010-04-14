@@ -41,16 +41,16 @@ are lost for good. Insanity Rating equals LUC x 2.
 
 
 
-           Cole’s Willpower is 16. That makes his Lucidity
+           Cole's Willpower is 16. That makes his Lucidity
            stat 32 (16 x 2), his Trauma Threshold 7 (32 ÷ 5,
            rounded up), and his Insanity Rating 64 (32 x 2)
 
 
 MOXIE
-Moxie represents your character’s inherent talent at
+Moxie represents your character's inherent talent at
 facing down challenges and overcoming obstacles
 with spirited fervor. More than just luck, Moxie is
-your character’s ability to run the edge and do what
+your character's ability to run the edge and do what
 it takes, no matter the odds. Some people consider it
 the evolutionary trait that spurred humankind to pick
 up tools, expand our brains, and face the future head
@@ -64,24 +64,24 @@ odds in your favor. Every game session, your character
 begins with a number of Moxie points equal to their
 Moxie stat. Moxie points may be spent for any of the
 following effects:
- • The character may ignore all modifiers that apply
+ - The character may ignore all modifiers that apply
    to a test. The Moxie point must be spent before
    dice are rolled.
- • The character may flip-flop a d100 roll result. For
+ - The character may flip-flop a d100 roll result. For
    example, an 83 would become a 38.
- • The character may upgrade a success, making it a
+ - The character may upgrade a success, making it a
    critical success, as if they rolled doubles. The char-
    acter must succeed in the test before they spend
    the Moxie point.
- • The character may ignore a critical failure, treat-
+ - The character may ignore a critical failure, treat-
    ing it as a regular failure instead.
- • The character may go first in an Action Phase (p. 189).
+ - The character may go first in an Action Phase (p. 189).
 
   Only 1 point of Moxie may be spent on a single roll.
 Moxie points will fluctuate during gameplay, as they
 are spent and sometimes regained.
-   Regaining Moxie: At the gamemaster’s discretion,
-Moxie points may be refreshed up to the character’s
+   Regaining Moxie: At the gamemaster's discretion,
+Moxie points may be refreshed up to the character's
 full Moxie stat any time the character rests for a sig-
 nificant period. Moxie points may also be regained if
 the character achieves a personal goal, as determined
@@ -90,19 +90,19 @@ termines how much Moxie is regained in proportion
 to the goal achieved.
 
 
-  Audrey has a difﬁcult Piloting: Aircraft roll to make.
-  Her skill is 61, but she’s facing a lot of modiﬁers
-  (–30), and if she fails she’s in big trouble. She
+  Audrey has a difficult Piloting: Aircraft roll to make.
+  Her skill is 61, but she's facing a lot of modifiers
+  (–30), and if she fails she's in big trouble. She
                                                            EXAMPLE
 
 
 
 
   could spend a point of Moxie before the test to
-  ignore the modiﬁers, but she decides to take her
+  ignore the modifiers, but she decides to take her
   chances against the target number of 31. Unfor-
   tunately, she rolls an 82. Luckily, she can spend
-  a Moxie point to ﬂip-ﬂop that roll and make it a
+  a Moxie point to flip-flop that roll and make it a
   28—a success!
 
 
@@ -114,7 +114,7 @@ mined by dividing your Somatics aptitude (see below)
 by 10 and rounding down.
 
 CHARACTER SKILLS
-Skills represent your character’s talents. Skills are
+Skills represent your character's talents. Skills are
 broken down into aptitudes (ingrained abilities that
 everyone has) and learned skills (abilities and knowl-
 edge picked up over time). Skills determine the target

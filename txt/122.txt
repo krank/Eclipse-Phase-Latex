@@ -20,7 +20,7 @@ of Success/Failure, p. 118). If a
 fails on a Task action test roll, th
 on the task for a minimum period
 10 percent of the timeframe for ea
-points of MoF before realizing it’s
+points of MoF before realizing it's
    For Task actions with timefram
 day or longer, it is assumed that th
 ter only works eight hours per da
@@ -56,9 +56,9 @@ record sheet (p. 399).
 
 CONCEPT
 Your character concept defines wh
-in the Eclipse Phase universe. You’r
+in the Eclipse Phase universe. You'r
 a run-of-the-mill plebeian with a b
-           mundane life, you’re a participant in a post-
+           mundane life, you're a participant in a post-
 on or      apocalyptic transhuman future who gets
 ons a      caught up in intrigue, terrible danger, un-
 mined      speakable horrors, and scrambling for sur-
@@ -75,9 +75,9 @@ sually     concept in a single sentence, such as “cantan-
  takes     social animal who is dangerously obsessed
  ed by     with conspiracy theories and mysteries.” If
   MoS      it helps, you can always borrow ideas from
- argin     characters you’ve seen in movies or books,
+ argin     characters you've seen in movies or books,
 racter     modifying them to fit your tastes.
- work         Your character’s concept will likely be
+ work         Your character's concept will likely be
 ual to     influenced by two important factors: back-
  0 full    ground and faction. Your background de-
 ailure.    notes the circumstances under which your
@@ -91,14 +91,14 @@ e and      MOTIVATIONS
 ss the     The clash of ideologies and memes is a core
 quires     component of Eclipse Phase, and so every
 on.        character has three motivations—personal
-  7), a    memes that dominate the character’s interests
+  7), a    memes that dominate the character's interests
  ction,    and pursuits. These memes may be as ab-
  to de-    stract as ideologies the character adheres to
   must     or supports—for example, social anarchism,
 e they     Islamic jihad, or bioconservatism—or they
    wish    may be as concrete as specific outcomes the
 a –10      character desires, such as revealing a certain
-reduc-     hypercorp’s corruption, obtaining massive
+reduc-     hypercorp's corruption, obtaining massive
 odifier    personal wealth, or winning victories for
            uplifted rights. A motivation may also be
            framed in opposition to something; for ex-
@@ -111,10 +111,10 @@ about      term or short phrase on the character sheet,
 umber      marked with a + (in favor of) or – (opposed
  traits,   to). Players are encouraged to develop their
  istics    own distinct motivations for their characters,
- cter’s    in cooperation with the gamemaster. Some
+ cter's    in cooperation with the gamemaster. Some
            examples are provided on p. 138.
               In game terms, motivation is used to help
-           define the character’s personality and influ-
+           define the character's personality and influ-
            ence their actions for roleplaying purposes.
  u are
            It also serves to regain Moxie points (p. 122)
