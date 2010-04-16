@@ -1,0 +1,3004 @@
+%%% 238.txt %%%
+ ESH■THE MESH■THE MESH■THE MESH
+
+
+
+MESH
+   Before the Fall, humanity interfaced with each other
+   through the internet, interconnected networks that
+   served as the technical backbone for the evolv-
+   ing world wide web. While it began as a electronic
+   medium for retrieving information from various
+   sources (replacing even older paper-based info-
+   sources), succeeding generations emphasized digital
+   communities and hosted services such as networking
+   sites, wikis, blogs, and folksonomies. These facili-
+   tated openness, collaboration, and sharing, thereby
+   laying the groundwork for a modern, interconnected
+   information society. Further stages emphasized wire-
+   less interaction, geolocation, and semantic web ap-
+   proaches and achieved quantum leaps in the realm
+   of user interaction with the advent of brain-computer
+   interfaces, augmented reality (AR), virtual reality
+   (VR), and experience playback (XP).
+      This environment, coupled with the exponential
+   growth of processing power and memory storage, cre-
+   ated an evolutionary path for the development of intel-
+   ligent agents—designed to augment human informa-
+   tion processing—that then transformed into artificial
+   intelligences (AIs) in the following decades. While these
+  “weak” AIs did not possess the full range of human
+   cognitive abilities, tended towards overspecialization,
+   and were restrained by programmed limitations, the
+   digital evolution toward artificial general intelligences
+   (AGIs)—”strong” AIs with intelligence capabilities
+   that equaled or exceeded human abilities—could not
+   be halted. From this point it was but a matter of time
+   before so-called seed AI would come into existence,
+   machine minds capable of recursive self-improvement,
+   leading to an exponential growth in intelligence. Un-
+   fortunately for humanity, the TITANs were the result.
+      Even before the Fall, however, the internet of old
+   was transforming into something new. Instead of con-
+   necting via central servers, users were wirelessly link-
+   ing to each other, creating a decentralized intermeshed
+   network of handheld devices, personal computers,
+   robots, and electronic devices. Users were online all of
+   the time and connected with everything and everyone
+   around them in a ubiquitous computing environment.
+  This was especially true of those participating in
+   humanity's expansion into space. Disconnected from
+   the internet due to distance and light-speed commu-
+   nication lags, these users were nevertheless connected
+   with all of the people and objects in their nearby
+   environment or habitat, creating local wireless mesh
+   networks. Thus was the mesh born, taking the place
+   of the old internet of earth, lost during the Fall.
+
+
+
+  MESH CAPABILITIES
+  The mesh, as it exists in Eclipse Phase, is only possible
+  thanks to major developments made in computer and
+  communication technologies and nanofabrication.
+HE MESH■THE MESH■THE MESH■THE
+                 THE MESH■THE
+                     MESH■
+
+                                                             6
+
+
+ Wireless radio transmitters and receivers are so unob-
+ trusively tiny that they can literally be factored into
+ anything. As a result, everything is computerized and
+ connected, or at least tagged with a radio frequency
+ ID (RFID) chip. Even food is tagged with edible chips,
+ complete with expiration date and nutritional content.
+ Other communications mediums, such as laser and
+ microwave links, add to the information flow.
+    Data storage technology has advanced to such high
+ levels that even an individual user's surplus storage
+ capacity can maintain an amount of information
+ easily surpassing the entire 20th-century internet.
+ Lifeloggers can literally record every moment of their
+ life and never fear about running out of room. The
+ amount of data that people carry around in the mesh
+ inserts in their head or in portable ecto personal com-
+ puters is staggering.
+    Processing capabilities also exist at hyper-efficient
+ levels. Even massive supercomputers are a thing of the
+ past when modest handheld devices can fulfill almost
+ all of your needs, even while simultaneously running a
+ personal AI assistant, downloading media, uploading
+ porn, and scanning thousands of newsfeeds. Within
+ the mesh network, devices that near their processing
+ limits simply share the burden with devices around
+ them, creating a massively distributed framework that
+ in some ways is like an entire supercomputer to itself,
+ shared by everyone.
+    Similarly, transmission capacity now far exceeds
+ most citizens' definition of need. Anyone born within
+ the last several generations has always lived in a world
+ in which hyper-realistic, multi-sensory media of nearly
+ any length is available for instantaneous download
+ or upload from anywhere. Massive databases and
+ archives are copied back and forth with ease. Band-
+ width is such a non-issue that most people forget it ever
+ was. In fact, given the sheer amount of data available,
+ finding the information or media you're looking for
+ takes considerably longer than downloading it. The
+ mesh is also never down. As a decentralized network,
+ if any one device is taken offline, connections merely
+ route around it, finding a path via the thousands if not
+ millions of available nodes. Similarly, the entire mesh
+ behaves like a peer-to-peer network, so that large trans-
+ fers are broken into manageable chunks that take inde-
+ pendent routes. In fact, most users maintain personal
+ torrent archives that are publicly accessible and shared.
+    Private networks still exist, of course. Some are
+ physically walled away behind closed-access wired net-
+ works or even wireless-inhibiting infrastructure that
+ keep a network isolated and contained. Most, however,
+ operate on top of the public mesh, using encrypted
+ tunneling protocols that provide private and secure
+ communications over unsecured networks. In other
+ words, these private networks are part of the mesh
+ along with everything else, but only the participants
+%%% 239.txt %%%
+SOLARCHIVE SEARCH: ECTO(-LINK)
+                A very popular brand of mobile mul-       tools, a mesh browser, locator, social-    be molded and shaped into different
+                tifunctional personal digital assistant   izing programs (messenger, socnet          forms due to smart material construc-
+                before the Fall, the ecto name became     updater), cartography and naviga-          tion. They are often worn as jewelry or
+                a synonym for handheld personal           tion software, language translation        clothing accessories, particularly brace-
+                computers in the Mesh Age. Standard       software, and similar software tools.      lets. The user interface varies according
+                implanted computers are also some-        OS designs are highly customizable,        to user preference. Wireless-enabled
+                times referred to as endos to reflect     allowing plug-and-use add-ons for          contacts and earbuds equip users who
+                the difference between an external        whatever additional software and           lack mesh implants, enabling them to
+                and an internal device.                   gadgets are desired. Typically, the        experience augmented reality and the
+                   No matter if ecto or endo, modern      user's muse (personal AI assistant)        ecto's AR control interface. Standard
+                computers are governed by an oper-        facilitates software interactions.         entoptic control interfaces are also
+             ECTO(-LINK)
+                ating system (OS), a multifunctional         The ecto itself is typically the size   available via wireless radio, skinlink,
+                suite of programs that includes media     of 20th-century credit card and can        and direct fiberoptic line.
+
+
+
+
+ can interact with them thanks to encryption, user au-                   overlaid on the user's physical senses. In a similar
+ thentication, and message integrity checking.                           vein, the mesh inserts installed in synthmorphs and
+   With the factionalization of transhumanity, at-                       pods are directly integrated with their cyberbrains
+ tempts to unify software into standard formats have                     (creating a potential security concern as cyberbrains
+ still failed. However, different operating systems                      are vulnerable to hacking).
+ or protocols are rarely an obstacle anymore due to                         External devices called ectos (p. 325) are also
+ easily accessible conversion tools and AI-aided com-                    used to access the mesh, though these are growing
+ patibility oversight.                                                   increasingly rare given the prevalence of mesh inserts.
+                                                                         Ecto interface options include haptic interfaces like
+ MESHING TECHNOLOGIES                                                    touch-display controls, bracelets or gloves that detect
+ Almost all biomorphs in the solar system are equipped                   arm, hand, or finger movements (virtual mouse and
+ with basic mesh inserts (p. 300)—implanted personal                     keyboards), eye tracking and blink control, body
+ computers. These implants are grown in the brain via                    scanning grids (body axis control or all-limb controls
+ non-intrusive nanosurgery. The processor, wireless                      for non-humanoids), voice controls, and more. Sen-
+ transceiver, storage devices, and other components                      sory information is handled via lenses, glasses, ear-
+ are directly wired to the user's cerebral neuronal cells                plugs (subdermal bone-vibrating speakers), bodysuits,
+ and cortical centers responsible for language, speech,                  gloves, nose plugs, tongue dams, and other devices
+ and visual perception among others. Thought-to-                         that are wirelessly linked to (or physically plugged
+ communication emulations (so called transducing)                        into) the ecto.
+ enables the user to control the implant just by think-
+ ing and to communicate without vocalizing. Input                        INFORMATION OVERLOAD
+ from the mesh inserts is transmitted directly into the                 The mesh contains massive amounts of personal and
+ brain and sometimes perceived as augmented reality,                    public information shared by users, a digital commons
+
+
+
+
+   LEGACY OF THE TITANs
+   Given the technical capabilities of modern personal computers, supercomputers and cutting-edge wired
+   broadband are not needed. But there is another reason they are avoided: the TITANs.
+     Mainframes, hive-mind clusters, and massively parallel distributed computing parallel hive-mind systems
+   are all considered potential dangers in Eclipse Phase, as they possess sufficient processing power and data
+   capacity to enable a seed AI and another potential hard takeoff singularity. Some habitats go so far as to
+   outlaw such systems completely under the severest of penalties: final death including the deletion of all
+   backups and recent forks, in most cases.
+     Those supercomputers that habitats do allow are “hard networks” that control a habitat's most crucial
+   systems like orbit maintenance thrusters, life support, communications, power, or cutting-edge hypercorp
+   R&D projects. These systems are typically physically wired, heavily monitored, and locked down in electronic
+   data processing centers with strong access restrictions and ruthless real-world security measures.
+     Similarly, AIs themselves are quite often heavily restricted, and it is not unusual for AGIs to be outright
+   banned, especially in the inner system and Jovian Republic. Most intelligent programs are limited with
+   programmed growth restraints, specifically designed to prevent them from becoming self-upgrading.           ■
+%%% 240.txt %%%
+of news, media, discourse, knowledge, environmental
+data, business, and culture. Transhumans embrace
+the mesh as a tool for exchange, communication,
+and participation with other users, both local and far
+away. As such, the mesh is an up-to-date, authoritative
+source on all transhuman knowledge and activities.
+   Not everything online is available for free, of course,
+except perhaps in the autonomist zones. Quite a bit of
+proprietary data is kept off the grid in secure storage
+or sequestered away in private networks. Some of this
+is for sale, and heavily encumbered with digital restric-
+tions—software, media, nanofabrication blueprints,
+skillsofts, etc. A thriving open source movement offers
+free and open source alternatives to much proprietary
+data, however, and numerous digital piracy groups
+deal out cracked versions of proprietary material,
+despite pressure from some authorities. Other data is
+simply secured from competitive interests (hypercorp
+research projects) or is an extremely private affair,
+such as ego backups.
+
+SPIMES
+Along with the accumulated data of transhuman
+affairs, the mesh is also cluttered with information
+derived from untold numbers of wireless-capable sen-
+sor-enabled devices that continuously update the mesh
+with their location, sensor recordings, and other data.
+Colloquially called “spimes,” these location-aware,
+environment-aware, self-logging, self-documenting
+objects broadcast their data to anyone who cares to
+listen. Since visual, auditory, and other sensors are
+absurdly tiny and inexpensive, they are ubiquitously
+incorporated into nearly every object or product a
+person might wear, apply, use, or internalize. This
+allows almost any user to reach out through the mesh
+and gather environmental data and ambient sensor
+recordings from a specific location (or at least public
+locales—private areas typically block such signals or
+slave them to a local AI that filters their output).
+
+SURVEILLANCE, PRIVACY, AND SOUSVEILLANCE
+While spimes are easily trackable, they also con-
+tribute to an environment of universal surveillance.
+Between spimes, microsensors, ubiquitous security
+systems, and the recording capabilities of the mesh
+inserts used by almost everyone, just about every-
+thing is recorded. Factor in the availability of mesh-
+tracking, facial recognition, rep/social networks, and
+other data mining software, and it rapidly becomes
+clear that privacy is an outdated concept. Special
+considerations must be embraced by anyone that
+seeks to mask their identity or cover their movements.
+Alternately, off-the-shelf looks common with some
+morphs (especially synthmorphs and pods) allow a
+user to blend in with the masses.
+   Though in part this may seem an Orwellian sur-
+veillance nightmare, the abundance of recording
+tech actually works as “sousveillance” (watching
+from below), serving a role in making everything
+transparent and putting checks on abuses of power.
+%%% 241.txt %%%
+Authoritarian regimes tread carefully, as they are also
+universally monitored, despite their attempts to con-
+trol information flow. Many people also willing par-       INFORMATION AT
+ticipate in this open “participatory panopticon.” With
+nearly infinite storage capacity, dedicated lifeloggers    YOUR FINGERTIPS
+record every moment of their lives and share it for        The following information is always available for m
+others to experience.                                      mesh users in a normal habitat:
+
+                                                           LOCAL CONDITIONS
+INTERFACING: AR, VR, AND XP                                - Local maps showing your current location, annotated with
+Mesh media is accessed using one of three protocols:         local features of personal interest (according to your perso
+augmented reality (AR), virtual reality (VR), or expe-       preferences and filters) and your distance from them/direct
+rience playback (XP).                                        to them. Details regarding private and restricted areas (gov
+                                                             ment/hypercorp areas, maintenance/security infrastructure,
+AUGMENTED REALITY                                            are usually not included.
+ Most users perceive data from the mesh as aug-            - Current habitat life support (climate) conditions including
+ mented reality—information overlaid on the user's           atmosphere composition, temperature.
+ physical senses. For example, computer-generated
+                                                           - Current solar system and habitat orbit maps with trajectory
+ graphics will appear as translucent images, icons,
+                                                             plots, communication delays.
+ or text in the user's field of vision. While visual AR
+                                                           - Local businesses/services, directions, and details.
+ data—called entoptic data—is the most common,
+ other senses may also be used. AR is not limited
+ to visuals, however, and can also include acoustic        LOCAL MESH
+ sounds and voices, odors, tastes, and even tactile        - Public search engines, databases, mesh sites, blogs, forums
+ sensations. This sensory data is high-resolution and        archives, along with new content alerts.
+ seemingly “real,” though it is usually presented as       - Syndicated public newsfeeds in a variety of formats, filtered
+ something ghostly or otherwise artificial so as not         according to your preferences.
+ to be confused with real-world interactions (and          - Sensor/spime (mostly audio-visual) feeds from any public a
+ also to meet safety regulations).                           of the habitat.
+   User interfaces are customized to the user's prefer-
+                                                           - Private network resources (including tactical nets).
+ ences and needs, both graphically and content-wise.
+                                                           - Automatic searches for new online references to your nam
+ Filters allow users to access the information they
+                                                             and other subjects of interest.
+ are interested in without needing to worry about
+ extraneous data. While AR data is typically placed        - E-tags pertaining to local people, places, or things.
+ in the user's normal field of vision, entoptics are not   - Facial/image recognition searches of public mesh/archives
+ actually limited by this and may be viewed in the           match a photo/vid still.
+“mind's eye.” Nevertheless, icons, windows and other
+ interaction prompts can be layered, stacked, toggled,     PERSONAL INFORMATION
+ hidden, or shifted out of the way if necessary to in-     - Morph status indicators (medical and/or mechanical): blood
+ teract with the physical world.                             pressure, heart rate, temperature, white cell count, nutrient
+                                                             levels, implant status and functionality, etc.
+AVATARS                                                    - Location, functionality, sensor feeds, and status reports of y
+Every mesh represents themselves online via a digi-
+                                                             possessions (via sensors and transmitters in these possessi
+tal avatar. Many people use digital representations
+                                                           - Access to one's life-spanning personal audio-visual/XP arch
+of themselves, whereas other prefer more iconic
+designs. This may be an off-the-shelf look or a            - Access to one's life-spanning personal file archive (music, s
+customized icon. Libraries of avatars may also be            ware, media, documents, etc.).
+employed, enabling a user to switch their represen-        - Credit account status and transactions.
+tation according to mood. Avatars are what other
+users see when they deal with you online—i.e., how         SOCIAL NETWORKS
+you are represented in AR. Most avatars are ani-           - Communications account status: calls, messages, files, etc.
+mated and programmed to reflect the user's actual
+                                                           - Reputation score and feedback.
+mood and speech, so that the avatar seems to speak
+                                                           - Social network status, friend updates.
+and have emotions.
+                                                           - Updated event calendar and alerts.
+E-TAGS                                                     - The public social network profiles of those around you.
+Entoptic tags are a way for people to “tag” a physical     - The location and status of those nearby and involved in the
+person, place, or object with a piece of virtual data.       same AR games as you.
+These e-tags are stored in networks local to the tagged
+item, and move with the item if it changes location.
+%%% 242.txt %%%
+ E-tags are viewable in AR, and can hold almost any                               custom-themed skin and share it with visitors to make
+ type of data, though short notes and pictures are the                            them feel more comfortable. Found a new music track
+ most common. E-tags are often linked to particular                               that livens up your day? Share it with others around
+ social networks or circles within that network, so that                          you, so they can nod to the same beat.
+ people can leave notes, reviews, memorabilia media,                                Skinning can also be used for the opposite effect.
+ and similar things for friends and colleagues.                                   Any undesired content of reality can be edited out,
+                                                                                  veiled, or censored by modern software programs or
+ SKINNING                                                                         muses that engage in real-time editing. Tired of look-
+ Since reality can be overlaid with entoptics of hyper-                           ing at someone's face? Add them to your killfile, and
+ real quality, modern users can “skin” their reality by                           you'll never have to acknowledge their presence again.
+ modifying their perceptual input. Environments around                            AR censorware is also common in some communities
+ them may be modified to fit their particular tastes or                           with strict religious or moral convictions.
+ mood. Need your spirits boosted? Pull up a skin that
+ makes it seems like your outdoors, with the sun shining                          VIRTUAL REALITY
+ down, the sounds of gentle surf in the background, and                           Virtual reality overrides the user's physical senses and
+ butterflies drifting lazily overhead. Pissed off? Be com-                        places them inside an entirely computer-generated
+ forted as flames engulf the walls and thunder grumbles                           environment called a simulspace. While AR is used
+ ominously in the distance. It is not uncommon for                                for all common day activities and interactions, VR is
+ people to go about their day, accompanied by their own                           used mainly for recreation (gaming, virtual tourism,
+ personal soundtrack that only they can hear. Even ol-                            escapism), socializing, meeting (when face-to-face
+ factory and taste receptors can be artificially stimulated                       meetings are not possible), and training. Dedicated
+ to experience sensations like the smell of roses, fresh air,                     networks with high-capacity information processing
+ or freshly-baked pastries. While originally developed                            are required to render and run large and complex
+ to make “space food” less distasteful and as a method                            hyper-real simulspaces with many users, and these
+ to counter space-induced cabin fever for those that                              are often hard-wired for additional stability. Smaller
+ weren't born in space, vast archives of aromas, tastes,                          simulspaces capable of hosting a smaller amount of
+ and environments are available for download.                                     users can be run on a smaller distributed network of
+    Skins do not need to be kept private, they may                                linked devices. Many infomorphs and AIs effectively
+ also be shared with others via the mesh. Tired of                                reside within simulspaces, and some transhumans
+ your cramped habitat cubicle? Decorate it with a                                 have sworn off the physical world altogether.
+
+
+
+
+JABBER
+       # Start Æther Jabber #                                                           worms and malware the TITANs concocted. Firewall went to
+       # Active Members: 2 #                                                            great lengths to make sure that everyone had access to the
+                                                                                        detection signatures and countermeasures—and we mean ev-
+           1
+             I have to tell you, after losing Kiri and Sal to that Exsurgent            eryone. They've been incorporated in almost every commercial
+             infection, my team is a lot more worried about contracting the             and open source security software released in the past decade.
+             virus from digital sources. Actually, I'd label them as paranoid.          Every habitat in the system—well, every one with a lick of
+             I don't think they'll ever touch any salvaged electronics again            sense anyway—employs such measures in their chokepoints
+             unless they're behind a zillion firewalls and the device is com-            and mesh infrastructure.
+             pletely isolated and tested by a delta fork loaded with every
+                                                                                      1
+                                                                                        I sense a “but.”
+             antiviral ware we can find first. Even then, they'd rather shoot it    2
+                                                                                        Yes. The problem is that the Exsurgent virus and similar TITAN
+             than access directly or hook it up to an important network. After          infowar worms are adaptive. They're intelligent. Even though
+             seeing what the virus did to Sal, I don't blame them.                      we mostly eradicated them from our networks, new versions
+       2
+             In our line of work, paranoia can be healthy.                              periodically pop up, using some new trick to get past the
+           1
+             Sure, but it's also a pain in the ass. Security is always a trade-         Firewall scans and wreak havoc. Our warning and outbreak
+             off. Firewall's gotta have something up its sleeve that I can pass         response system has it down to a science, and such instances
+             along to the rest to put their guards at ease.                             are usually contained.
+       2
+             Yes ... and no. It's complicated.
+                                                                                      1
+                                                                                        Usually.
+           1
+             I don't see why. Do we have a way of detecting and killing this
+                                                                                  2
+                                                                                        Well, there's always the chance that variants are still skipping
+             thing or not?                                                              around out there, under our radar. What's worse to contemplate,
+                                                                                        though, is that we may get another major outbreak that spreads
+       2
+             Sort of.
+                                                                                        to multiple habitats before we can contain it. That might get
+           1
+             You're killing me.
+                                                                                        very, very bad, very, very quickly.
+       2
+             Look. Ever since the Fall, we've had measures in place to
+             detect and counteract Exsurgent infections and all of the other
+%%% 243.txt %%%
+DEFYING NATURE'S LAWS
+A plethora of simulspace environments are available,
+ranging from simulations of real places to historical
+recreations to fantastic worlds representing almost
+every genre imaginable. All of these simulations are
+bolstered by the fact that possible scenarios are not
+bound by the laws of nature. The fundamental forces
+of reality and nature, like gravitation, electromag-
+netism, atmosphere, temperature, etc., are program-
+mable in VR, allowing for environments that are
+completely unnatural, such as escheresque simulspace
+where gravity is relative to position. These domain
+rules may be altered and manipulated according to
+the whim of the designer.
+  Time itself is an adjustable constant in VR, though
+deviation from true time has its limits. So far, tran-
+shuman designers have achieved time dilation up to
+60 times faster or slower than real time (roughly one
+minute equaling either one hour or one second). Time
+slowdown is far more commonly used, granting more
+time for simulspace recreational activities (more time,
+more fun!), learning, or work (economically effective).
+Time acceleration, on the other hand, is extremely
+useful for making long distance travel through space
+more tolerable.
+
+ACCESSING SIMULSPACES
+Most simulspaces can be accessed through the mesh
+just like any other node. Since VR takes over the
+user's sensorium, however, and sometimes involves
+time perception dilation, users are cut off from other
+mesh-delivered sensory input and interacting directly
+with other nodes. Instead, outside mesh interactions
+are routed through the simulspace's interface (mean-
+ing that a character may browse the mesh, communi-
+cate with others, etc. from inside a simulspace, if the
+domain rules allow it).
+   Since physical senses are overridden when a user
+accesses VR, most people prefer to rest their body
+in a safe and comfortable environment while in the
+simulspace. Body-fitting cushions and couches help
+users relax and keep them from cramping up or in-
+juring themselves if they happen to thrash around.
+In case of long-term virtual sojourns (for instance,
+during space travel), morphs are normally retained
+in tanks that sustain them in terms of nutrition and
+oxygen. Many VR entertainment and game networks
+offer dedicated and hardwired physical VR cafes
+with private pods. Visitors rent a pod and physically
+jack in, using either access jacks or an ultrasonic
+trode net that reads and transmits brain patterns
+when placed on the head.
+  When accessing a simulspace, the user first enters
+an electronic buffer “holding space” known as a
+white room. Here the user chooses a customizable
+avatar-like persona to represent them in the simul-
+space, called a simulmorph. From this point, the user
+immerses themself in the virtual reality environment,
+effectively becoming their simulmorph.
+EXPERIENCE PLAYBACK
+Every morph with mesh inserts has the capability
+to transmit or record their experiences, a form of
+technology called experience playback, or XP. Since
+the first programs were developed that provide a
+simple interface to “snapshot” ones experiences, it
+has become extremely popular to share XP with
+friends and social networks, or with the online public
+at large.
+   The level of experiences depends on how much of
+the recorded sensory perception is kept when the clip
+is made. Full XP includes exteroceptive, interoceptive,
+and emotive tracks. Exteroceptive tracks include the
+traditional senses of sight, smell, hearing, touch, and
+taste that process the outside world. Interoceptive
+tracks include senses originating within the body, such
+as balance, a sense of motion, pain, hunger and thirst,
+and a general sense of the location of one's own body
+parts. Emotive tracks include the whole spectrum of
+emotions which can be aroused in a transhumans.
+Due to the biological requirements (neuronal and
+endocrine systems) of expressing emotions, hardcore
+XP aficionados deem only the experience in and from
+biomorphs as the real deal.
+
+
+
+MESH USES
+There are many reasons people use the mesh. The
+foremost is communication: voice and video calls
+(typically displaying avatars rather than actual
+video), electronic messaging (e-mail, instant mes-
+saging, microblogging), and file and data transfers.
+Socializing is also key, handled via social and reputa-
+tion networks, personal profiles, lifelogging, chats
+and conferences (both AR and VR), and discussion
+groups and forums. Information gathering is also
+at the top, whether its browsing the popular Solar-
+chive or other databases and directories, tapping
+the latest newsfeeds, browsing mesh sites, tracking
+your friends, taking lessons in VR, or looking up just
+about anything conceivable. Recreation rounds out
+the pack, covering everything from gaming (AR and
+VR) to experiencing other people's lives (XP) to VR
+tourism and club-hopping.
+
+PERSONAL AREA NETWORKS
+Since everything a person carries is meshed, most
+people maintain personal area networks that route
+all of these devices through their mesh inserts or ecto,
+which acts as a hub. This is both a security measure,
+ensuring they maintain control over their own acces-
+sories, and a convenience factor, as it focuses all of the
+controls in one place.
+
+VIRTUAL PRIVATE NETWORKS
+Virtual private networks (VPNs) are communica-
+tions networks tunneled through the mesh, which
+are dedicated for a specific group of people. The
+primary use of VPNs is to create privacy and secu-
+rity for its users, and so they typically use security
+%%% 244.txt %%%
+features such as ego authentication and public key
+encryption. VPNs are regularly used to mesh mobile
+offices into a corporate network or mesh people to-
+gether who work on or contribute a certain project.
+Other VPNs—particularly social networks and rep
+networks—operate with minimal security features,
+simply serving as a network of specific users within
+the mesh and making it easier to keep in touch,
+transfer information, make updates, and so on. Most
+VPNs come as specialized software suites that run
+custom environmental software that integrates into
+the user's normal mesh interface and AR.
+
+SOCIAL NETWORKS
+Social networks are the fabric of the mesh, weaving
+people together. They are the means by which most
+people keep in contact with their friends, colleagues,
+and allies, as well as current events, the latest trends,
+new memes, and other developments in shared
+interests. They are an exceptionally useful tool for
+online research, getting favors, and meeting new
+people. In some cases, they are useful for reaching
+or mobilizing masses of people (as often illustrated
+by anarchists and pranksters). There are thousands
+of social networks, each serving different cultural
+and professional interests and niches. Most social
+networks allow users to feature a public profile to
+the entire mesh and a private profile that only those
+close to them can access.
+  Reputation plays a vital part in social networks,
+serving as a measure of each person's social capital.
+Each person's reputation score is available for lookup,
+along with any commentary posted by people who
+favored or disfavored them and rebuttals by the user.
+Many people automate their reputation interactions,
+instructing their muse to automatically ping some-
+one with a good review after a positive action and
+to likewise provide negative feedback to people with
+whom the interaction went poorly.
+
+MOBILE OFFICES
+Due to the lack of office space and the wireless ac-
+cessibility of most information, most businesses
+now operate virtually, with few or no fixed offices
+or even assets. Instead, individuals have become their
+own mobile office. Bit-pushers and bureaucrats like
+hypercorp executives, clerical workers, accountants,
+and researchers—as well as innovators like artists,
+writers, engineers, and designers—work wherever
+they want to.
+  The most prominent example of this phenomenon
+are the bankers of the Solaris hypercorp. Each em-
+ployee acts as a mobile one-person banking office,
+managing transactions via Solaris's robust VPN.
+   On rare occasions, office environments are run
+in simulspace with time dilation to maximize effi-
+ciency. Since this requires the workers to access a
+centralized wired network and leave their bodies
+unattended while accessing simulspace, however, it
+requires an extra level of physical security that is
+typical only of some governmental installations and
+corporate habitats.
+
+
+
+ISLANDS IN THE NET
+In the time of Eclipse Phase, information can become
+outdated quite fast, and the accessibility of new infor-
+mation depends on your location. It's easy to keep up-
+to-date on your local habitat/city or planetary body,
+but keeping current on events elsewhere is typically
+reliant on the speed of light.
+   If you happen to be in a station in the Kuiper Belt,
+on the edge of the solar system 50 astronomical units
+from the terrestrial inner planets, waiting on a mes-
+sage from Mars, the signal carrying the message will
+be roughly seven hours old when it reaches you. Of
+course it will only reach you that fast if you are using
+quantum farcast, which is only limited by the speed
+of light (not to mention rare and expensive in most
+habitats). If you are not using a quantum farcaster,
+the signal may take even longer and is prone to in-
+terference and noise, deteriorating the quality and
+possibly losing some of the content, especially over
+major distances. Whenever you start dealing with
+communication between habitats, you have to factor
+in the light-speed lag, the amount of time it takes
+even the fastest transmission to reach you. This lag
+works both ways, so trying to hold a conversation
+with someone just 5 light-seconds away means that
+you're waiting at least 10 seconds to get the reply
+to whatever you just said. For this reason, AR and
+VR communications are almost always conducted lo-
+cally, while standard messaging is used for nonlocal
+communications. For detailed discussions, it is often
+simpler to send a fork of yourself (p. 273) to have the
+conversation and then return.
+  Quantum-entanglement communicators (p. 314)
+are one solution to this light-speed lag, although a
+burdensome and expensive one. QE comms allow
+for faster-than-light communication to an entangled
+communicator, though each transmission uses up a
+precious amount of quantum-entangled bits, which
+are in limited supply.
+  Transmissions made between habitats almost
+always occur via each station's massive data relays,
+where they are then distributed into the local mesh.
+This bottleneck is often used by authoritarian habitats
+to monitor data transmissions and even filter or censor
+certain public non-encrypted content. Some messages
+are also prioritized over others, potentially meaning
+further delays.
+%%% 245.txt %%%
+   The method of transmission between habitats also
+sometimes matters. Radio and neutrino broadcasts
+can be intercepted by anyone, whereas tight-beam
+laser or microwave links are specifically used as a
+point-to-point method that minimizes interception
+and eavesdropping. The use of quantum farcasting
+using neutrino systems is completely secure, however,
+and is the most frequently-used intra-habitat link.
+   What these lags, bottlenecks, and prioritizations
+mean is that some news and data takes a particularly
+long-time to trickle from one local mesh network to
+another, passing slowly from habitat to habitat. This
+means that there are always gradients of information
+available to different local mesh networks, typically
+depending on proximity and the importance of the
+information. Some data even gets lost along the way,
+never making it further than a habitat or two before
+it is lost in the noise. The only way to retrieve such
+information is to track it down to its source.
+
+DARKCASTS
+“Darkcasts” are ranged communications that go out-
+ side of legal and approved channels. Since certain hab-
+ itats have strict regulations on transmission content,
+ forking, egocasting, infomorphs, muse abilities, and
+AGI code, underworld groups like the ID crew profit
+ by offering illegal data transmission services. Primarily
+ used for censored data and banned content (like illegal
+XPs or malware), local organized crime factions also
+ often offer egocasting services complete with resleev-
+ ing and leasable morphs, allowing egos that prefer
+ discretion to enter or leave a habitat without drawing
+ attention. Though such authorities hunt down these
+ darkcast networks whenever they get a chance, many
+ habitats have a sophisticated darkcast infrastructure
+ that makes use of decoys, temporary communications
+ lines, relays, and regular transmitter relocation—not
+ to mention judicious bribing and blackmailing.
+MESH ABUSES
+As with all things, the mesh has its darker side. At
+the basic level, this amounts to flamewar-starting
+trolls, stalkers, or griefers whose intent is to mess
+with others for a laugh. At the more organized level,
+it expands to illicit or criminal enterprises that utilize
+the mesh, such as selling black/snuff/porn XPs, ille-
+gal software, pirated media, or even egos. The most
+infamous threats—thanks both to the Fall and to
+the continuous sensationalism applied by media and
+stern authorities—are, of course, malware and hack-
+ers. Given the capabilities of modern hackers and the
+vulnerability of many habitats—where damage to life
+support systems could kill thousands—the threat may
+not be over-exaggerated.
+
+HACKERS
+Whether individuals who are genuinely interested
+in exploring new technologies and seeking ways to
+break them in order to make them better, hacktiv-
+ists who utilize the mesh in order to undermine the
+power of authorities, or “black hats” who seek to
+circumvent network security for malicious or crimi-
+nal intent, hackers are a permanent fixture of the
+mesh. Unauthorized network break-ins, infiltration
+of VPNs, muse subversion, cyberbrain hijacking, data
+theft, cyber-extortion, identity fraud, denial of service
+attacks, electronic warfare, spime hijacking, entoptic
+vandalism—these are all common occurrences on the
+mesh. Thanks to smart and adaptive exploit programs
+and assisting muses, even a moderately skilled hacker
+can be a threat.
+   In order to counter hacking attempts, most people,
+devices, and networks are protected by a mix of
+access control routines, automated software intru-
+sion prevention systems, encryption, and layered
+firewalls, typically overseen by the user's muse who
+plays the role of active defender. Extremely sensitive
+%%% 246.txt %%%
+systems—such as space traffic control, life support,
+power systems, and hypercorporate research facili-
+ties—are usually limited to isolated, tightly-controlled,
+heavily-monitored, hard-wired networks to minimize
+the risk of intrusion from snoopers and saboteurs.
+various countermeasures may be applied against
+such intruders, ranging from locking them out of the
+system to tracking them back and counterhacking.
+
+MALWARE
+The number of worms, virii, and other malware pro-
+grams that ripped through computer systems during
+the Fall was staggering. Many of these were part of
+the netwar systems prepared by old Earth nation-states
+and corporations and unleashed on their enemies.
+Others were products of the TITANs, subversive pro-
+grams that even the best defenses had trouble stopping.
+Even 10 years later, many of these are still reappearing,
+brought back to life by the accessing of some long-
+forgotten data cache or the accidental infection of a
+scavenger mucking through old ruins. New ones pop
+every day, of course, many of them programmed by
+criminal hacker outfits, while others that enter circu-
+lation are modifications and variations of suspected
+TITAN designs, perhaps implying that certain parties
+are intentionally tinkering with this code and releasing
+it into the wild. Rumors and whispers circulate that
+some of these TITAN worms are even more potent and
+frightening than previously hinted at, with stunning
+adaptive capabilities and intelligence. These rumors
+are steadfastly denied by authority figures and security
+experts ... who then quietly turn around and do their
+best to ensure that their own networks remain safe.
+
+
+
+AI S AND INFOLIFE
+Self-aware helper programs were originally designed
+and realized to augment transhuman cognitive abili-
+ties. These specialized-focus AIs were then developed
+into the more complete, independent digital conscious-
+nesses known as AGIs. The further evolution of these
+digital life forms into seed AIs unfortunately led to the
+emergence of the TITANs and then the Fall. This cre-
+ated a rift in transhuman society as fear and prejudice
+turned popular opinion against unrestricted AGIs, an
+attitude of mistrust that still lingers to this day.
+
+AI S
+The term AI is used to refer to narrow, limited-focus
+AIs. These digital minds are expert programs with pro-
+cessing capabilities equal to or even exceeding that of
+a transhuman mind. Though they have a personality
+matrix with individual identities and character, and
+though they are (usually) conscious and self-aware,
+their overall complexity and capabilities are limited.
+The programmed skills and abilities of AIs are typi-
+cally very specific in scope and aligned towards a par-
+ticular function, such as piloting a vehicle, facilitating
+mesh searches, or coordinating the functions of some
+habitat sub-system. Some AIs, in fact, can only barely
+be considered sapient, and their emotional program-
+ming is usually narrow or non-existent.
+  AIs have a number of built-in safety features and
+programmed limitations. They must serve and obey the
+instructions of authorized users within their normal
+functioning parameters and (in the inner system at
+least) must also obey the law. They lack self-interest
+and self-initiative, though they have limited empathy
+and may be programmed to anticipate the needs and
+desires of users and pre-emptively take action on
+their behalf. Perhaps most importantly, however, is
+that their psychological programming is specifically
+based on universal human modes of thought and an
+understanding and support of transhuman goals
+and interests. This is part of an initiative to engineer
+so-called “friendly AIs,” who are programmed with
+sympathy towards transhumanity and all life and seek
+out their best interests.
+   In most societies, basic AIs are considered “things”
+or property rather than people and are accorded no
+special rights.
+
+MUSES
+Muses are a specific type of AI designed to function
+as a personal aide and companion. Most people in
+Eclipse Phase have grown up with a muse at their
+virtual side. Muses tend to have a bit more personality
+and psychological programming than standard AIs and
+over time they build up an extensive database of their
+user's preferences, likes and dislikes, and personality
+quirks so that they may more effectively be of service
+and anticipate needs. Muses generally have names
+and reside within the character's mesh inserts or ecto,
+where they can manage the character's personal area
+network, communications, data queries, and so on.
+
+AGIS
+AGIs are complete and fully operational digital con-
+sciousnesses, self-aware and capable of intelligent
+action at the same level as any transhuman. Most have
+full autonomy and the capacity for self-improvement
+by a processing similar to learning—a slow optimi-
+zation and expansion of their code that features
+programmed limitations to prevent it from achiev-
+ing the self-upgrading capabilities of seed AIs. They
+have more fully-rounded personalities and emotional/
+empathic abilities than standard AIs, due in part to
+a development process where they are literally raised
+within a VR simulation analogous to the rearing of
+transhuman children, and so are more fully socialized.
+As a result, they have a fairly human outlook, though
+some deviation is to be expected, and sometimes is
+apparent in great degrees. Despite this attempt to hu-
+manize AGIs, they do not have the same evolutionary
+and biological origins that transhumans have, and so
+their social responses, behavior, and goals are some-
+times off-mark or decidedly different.
+  AGIs bear the social stigma of their non-biological
+origin and are often met with bias and mistrust. Some
+habitats have even outlawed AGIs or subject them to
+%%% 247.txt %%%
+WHAT YOUR MUSE
+CAN DO FOR YOU
+- Make Research Tests to find information for you.
+- Scan newsfeeds and mesh updates for keyword alerts.
+- Monitor your mesh inserts/ecto/PAN and slaved devices
+  for intrusion.
+- Launch countermeasures against intruders.
+- Teleoperate and command robots.
+- Monitor your Rep score and alert you to drastic changes.
+- Automatically provide feedback for other people's
+  Rep scores.
+- Run audio input through an online, real-time language
+  translation system.
+- Put you in privacy mode and/or proactively stealth your
+  wireless signal.
+- Falsify/fluctuate your mesh ID.
+- Track people for you.
+- Anticipate your needs and act accordingly, pre-empting
+  your requests.                                         ■
+
+
+
+  strict restrictions, forcing such infolife to hide their
+  true natures or illegally darkcast to enter habitats or
+  stations. AGI mind programming emulates transhu-
+  man brain patterns sufficiently well that they can be
+  sleeved into biomorphs if they choose.
+
+  SEED AI
+  Due to the capability for unlimited self-upgrading,
+  seed AIs have the capacity to grow into god-like
+  digital entities far beyond the level of transhumans
+  or AGIs. They require massive processing power and
+  are always increasing in complexity due to a continual
+  metamorphosis of their code. Seed AIs are too com-
+  plex to be downloaded into a physical morph, even
+  a synthetic one. Even their forks require impressive
+  processing environments, so doing so is rare. In fact,
+  most seed AIs require the capacities of hard-wired
+  networks to survive.
+    The only seed AIs known to the public are the
+  infamous TITANs who are widely regarded as being
+  responsible for the Fall. In truth, the TITANs were
+  not the first seed AIs and will probably not be the last.
+  There are no publicly known TITANs (or other seed
+  AIs) currently residing in the solar system, despite
+  circulating rumors of damaged TITANs who were left
+  behind on Earth, speculated TITAN activity under the
+  clouds of Venus, or whispers of new seed AIs hidden
+  away in secret networks on the edges of the system.
+
+  TRANSHUMAN INFOMORPHS
+  For thousands of infugees, embodying a digital form
+  is their only choice. Some of these are locked away
+  in mesh-separated virtual holding areas or even inac-
+  tive storage, locked up by habitats who didn't have
+   NON-STANDARD AIS
+   AND AGIS
+   Not all AIs and AGIs were programmed and de
+   signed to adhere to human modes of thought
+   and interests. Such creations are illegal in some
+   jurisdictions, as they are considered a potential
+   threat. Several hypercorps and other groups have
+   initiated research into this field, however, with
+   varying results. In some cases these digital minds
+   are so different from human mindsets that com
+   munication is is impossible. In others, enough
+   crossover exists to allow limited communication
+   but such entities are invariably quite strange.
+      Rumors persist that some AIs began their
+   life as transhuman backups or forks, who were
+   then heavily edited and pruned down to AI
+   level intelligences.                            ■
+
+
+
+enough resources to handle them. Others are impris-
+oned inside simulspaces, killing time in whatever way
+they choose until an opportunity to resleeve comes
+their way. Quite a few are free to roam the mesh, in-
+teracting with physically-sleeved transhumans, keep-
+ing up with current events, and sometimes even form-
+ing activist political blocs to campaign for infomorph
+rights or interests. Still others find or are forced into
+virtual careers, slaving away in the digital sweatshops
+of hypercorps or criminal syndicates. A few find com-
+panions who are willing to bring them along in their
+ghostrider module and become an integral part of
+their lives, much like a muse.
+   Some transhumans willingly choose the infomorph
+lifestyle, either for hedonism (custom simulspace and
+VR games until the end of time), escapism (loss of a
+loved ones leads them to write off physical concerns
+for awhile), freedom (go anywhere the mesh takes
+you—some have even beamed copies of themselves to
+far distant solar systems, hoping someone or something
+will receive their signal when they arrive), experimen-
+tation (forking and merging, running simulations, and
+weirder things), or because it is ensured immortality.
+
+
+
+EVERYDAY MESH MECHANICS
+Everyone (and everything) is meshed in Eclipse Phase.
+The following rules and concerns apply to standard
+mesh use. Note that various mesh-related terms are
+explained, along with other Eclipse Phase concepts,
+under Terminology, p. 25.
+
+MESH INTERFACE
+Characters have a choice of which interface to use, the
+entoptic interface of basic mesh inserts or the haptic
+interface of an ecto.
+  The basic mesh inserts used by most users allows
+them to interact with AR, VR, XP, and the mesh at the
+%%% 248.txt %%%
+speed of thought. This is the default method of mesh
+use and suffers no modifiers. They are, however, more
+prone to visual and operative impairments (virtual il-
+lusions, denial-of-service effects) when hacked.
+  Characters who use the haptic interface of an ecto,
+however, suffer a slight delay on their mesh activities
+due to manual toggling, physical controls, and physi-
+cal interaction with virtual controls. In game terms,
+the use of haptics imposes a –10 skill modifier to
+all mesh tests where timing is rushed (particularly
+combat and or any sort of mesh use under pressure).
+Additionally, increase the timeframe for mesh-based
+Task Actions by +25% when interfacing via haptics.
+On the positive side, ectos can be easily removed and
+discarded if compromised—for this reason, many
+hackers and security-conscious users use an ecto in
+addition to their mesh inserts, routing all high-risk
+traffic through the ecto as an extra line of defense.
+
+MESH ID
+Every mesh user (and, in fact, every device) has a
+unique code called their mesh ID. This ID distin-
+guishes them from all other users and devices, and is
+the mechanism by which others can find them online,
+like a combination phone number, email address, and
+screen name. Mesh IDs are used in almost all online in-
+teractions, which are often logged, meaning that your
+activities online leave a datatrail that can be tracked
+(p. 251). Fortunately for Firewall sentinels and others
+who value their privacy, their are ways around this
+(see Privacy and Anonymity, p. 252). AIs, AGIs, and
+infomorphs also each have their own unique mesh ID.
+
+ACCOUNTS AND ACCESS PRIVILEGES
+Devices, networks (such as PANs, VPNs, and hard-
+wired networks), and services require that every user
+that accesses them does so with an account. The
+account serves to identify that particular user, is
+linked to their mesh ID, and determines what access
+privileges they have on that system. There are four
+types of accounts: public, user, security, and admin.
+
+PUBLIC ACCOUNTS
+Public accounts are used for systems that allow
+access (or access to parts of their system) to anyone
+
+
+
+
+  ELITE EXPLOITS
+  The mesh gear quality rules allow for players
+  and gamemasters to make a distinction between
+  software tools, separating the open-source,
+  stock-repertoire exploit tools of amateur hackers
+  from cutting-edge military-grade penetration
+  wares. While many characters will simply buy or
+  otherwise acquire such programs, a hacker with
+  the do-it-yourself ethic is likely going to want
+  to design their own personalized applications,
+  based on their playbook of closely-guarded in-
+  trusion/counterintrusion methods.
+     To reflect the efforts a hacker character makes
+  by designing, coding, and modifying their own
+  customized personal arsenals, they may make a
+  Task Action Programming Test with timeframe
+  of 2 weeks. If they succeed, they upgrade one
+  of their software tools by one level of quality
+  (i.e., from +0 to +10). Multiple Programming
+  Tests can be made to enhance a program, but for
+  each level add the target modifier as a negative
+  modifier to the test (so upgrading a +0 suite to
+  +10 is a –10 modifier on the Programming Test).
+     Similarly, at the gamemaster's discretion, soft-
+  ware tools—particularly exploits—may degrade
+  in quality over time, reflecting that they have
+  become outdated. As a general rule, such pro-
+  grams should degrade in quality about once
+  every 3 months.                                 ■
+%%% 249.txt %%%
+on the mesh. Public accounts do not require any sort
+of authentication or login process, the user's mesh ID
+is enough. These accounts are used to provide access
+to any sort of data that is considered public: mesh
+sites, forums, public archives, open databases, social
+network profiles, etc. Public accounts usually have
+the ability to read and download data, and some-
+times to write data (forum comments, for example),
+but little else.
+
+USER ACCOUNTS
+User accounts are the most common accounts. User
+accounts require some form of authentication (p. 253)
+to access the device, network, or service. Each user ac-
+count has specific access privileges allotted to it, which
+are tasks the user is allowed to perform on that system.
+For example, most users are allowed to upload and
+download data, change basic content, and use the
+standard features of the system in question. They are
+not, however, usually allowed to alter security features,
+add new accounts, or do anything that might impact
+the security or functioning of the system. As some sys-
+tems are more restrictive than others, the gamemaster
+decides what privileges each user account provides.
+
+SECURITY ACCOUNTS
+Security accounts are intended for users that need
+greater rights and privileges than standard users, but
+who don't need control over the entire system, such
+as security hackers and muses. Security access rights
+usually allow for reading logs, commanding security
+features, adding/deleting accounts, altering the data of
+other users, and so on.
+
+ADMIN ACCOUNTS
+Admin accounts provide complete control over the
+system. Characters with admin rights can do every-
+thing security accounts can, plus they can shut down/
+reboot the system, alter access rights of other users,
+view and edit all log files and statistics, and stop or
+start any software available on the system.
+
+MESH GEAR QUALITY
+Not all gear is created equal, and this is especially true
+of computers and software, where new innovations
+are made on a daily basis. Keeping up-to-date with
+the last specs isn't too difficult, but on occasion the
+
+
+                                          MESH GEA
+MODIFIER SOFTWARE/HARDWARE
+   –30      Bashed-up devices, no-longer-supported software, re
+   –20      Malfunctioning/inferior devices, buggy software, pre-
+   –10      Outdated and low quality systems
+    0       Standard ectos, mesh inserts, and software
+   +10      High-quality goods, standard security-grade products
+   +20      Next-generation devices, advanced software
+   +30      Newly-developed, state-of-the-art, top-of-the-line te
+  >+30      TITANs and/or alien technology
+   characters will get their hands on some old relic or
+   find themselves in secluded or decrepit places with
+   local systems and gear that aren't up to date. Likewise,
+   they may acquire some cutting-edge gear straight
+   from the labs or may run up against a state-of-the-art
+   installation with next-generation defenses. To reflect
+   this, mesh tests can be modified according to the state
+   of the hardware or software being used, as noted on
+   the Mesh Gear Modifiers table
+  .
+   COMPUTER CAPABILITIES
+   Computerized electronics can be broken down into
+   three simple categories: peripherals, personal comput-
+   ers, and servers. In game terms, all are collectively
+   referred to as devices.
+
+   PERIPHERALS
+   Peripherals are micro-computerized devices that don't
+   need the full processing power and storage capacity of
+   a personal computer, but benefit from online network-
+   ing and other computerized functions. Peripherals may
+   run software, but the gamemaster may decide that too
+   many programs (10+) will degrade the system's perfor-
+   mance. AIs and infomorphs are incapable of running
+   on peripherals, though they may access them. Peripher-
+   als only have public and user accounts (users accounts
+   include security and admin functions; see p. 247).
+     Common peripherals include: spimes, appliances, most
+   cybernetic implants, individual sensors, and weapons.
+
+   PERSONAL COMPUTERS
+   Personal computers account for a wide range of com-
+   puter types, but essentially account for anything that
+   has the capabilities evolved from generations and gen-
+   erations of personal computers to meet an everyday
+   user's needs. Most personal computers are portable
+   and tailored for use by multiple users at a time. Per-
+   sonal computers may run one AI or infomorph at a
+   time. They may not run simulspace programs.
+     Common personal computers include: mesh inserts,
+   ectos, and vehicles.
+
+   SERVERS
+   Servers have much greater processing power and
+   data management capabilities than personal comput-
+   ers. They are capable of handling hundreds of users,
+   multiple AIs and infomorphs, and they may run
+
+
+MODIFIERS
+
+rom Earth or the early expansion into space
+echnology
+
+
+
+
+logy
+%%% 250.txt %%%
+simulspace programs. Though few are portable, some
+of them come close.
+
+SOFTWARE
+A wide manner of software is available for mesh users,
+from firewalls and AIs to hacking and encryption tools
+to tacnets and skillsofts. These programs are listed on
+p. 331 of the Gear chapter. Like other gear, software
+may enable a character to perform a task they could
+not otherwise. The quality of the software may also be
+a factor, applying a modifier as appropriate (see Mesh
+Gear Quality, p. 247).
+   Some software is equipped with digital restrictions
+to prevent it from being copied and shared with others.
+These restrictions may be defeated, but it is a time-con-
+suming task, requiring a Task Action Programming Test
+with a timeframe of 2 months. Thanks to the efforts
+of the open source movement and numerous individual
+software pirates, however, quite a bit of software is
+available free or online. The availability of pirated soft-
+ware or freeware will depend on the local habitat and
+legalities. Finding it may be a matter of a simple search,
+or it may require some use of reputation to find some-
+one who has it. Usually there is at least one local crime
+syndicate that is willing to help you out—for a price.
+
+SOFTWARE COMPATIBILITY
+In most instances, software compatibility is not going
+to be an issue for characters. Gamemasters who like
+it as a plot device, however, can introduce compat-
+ibility problems in certain cases, whether this is done
+to increase drama, slow the characters down, or create
+obstacles that they must overcome. Such incompat-
+ibilities are more likely to arise when dealing with
+outdated systems or devices, or at least ones that are
+unlikely to have the latest patches and software up-
+dates. Incompatibilities can also be used as a drawback
+to acquiring software from untrustworthy sources.
+   Conflicting software issues are going to have one of
+two effects. Either the software will simply not work
+with certain devices, or it will inflict a –10 to –30
+modifier due to instabilities and glitches. If the game-
+master allows it, a character may reduce this penalty
+by patching up the software, requiring a successful
+Programming Task Action (1 day). For every 10 points
+of MoS, reduce the incompatibility modifier by 10.
+
+TRAFFIC FILTERS AND MIST
+Mesh networks and AR are overrun with yottabytes of
+information. Though mesh inserts and ectos can deal
+with a lot of data traffic in terms of bandwidth and
+processing power, using filters to weed out unwanted
+traffic is quite simply a necessity. This is especially true
+of AR, where unwanted entoptics can clutter your
+vision and distract you. Nevertheless, entoptic spam of
+many flavors—advertisements, political screeds, porn,
+scams—do their best to bypass these filters, and in
+many areas the amount of unfiltered entoptics can be
+overwhelming—a phenomenon colloquially referred
+to as “mist.”
+  At the gamemaster's discretion, mist can interfere
+with a user's sensory perceptions. This modifier can
+range from –10 to –30, and in some cases might be
+so distracting as to affect all of a character's actions.
+To lift the data fog, a character or muse must adjust
+their filter settings by succeeding in an Interfacing Test
+modified by the mist modifier. Alternately, the charac-
+ter can completely disable AR input, but this is likely
+to impede them in other ways.
+
+SLAVING DEVICES
+   For ease of use, as well as for privacy and security
+purposes, one or more devices may be slaved to each
+other. One device (usually the character's mesh inserts
+or ecto) takes the role of master, while the other
+device(s) takes the role of slave. All traffic to and
+from slaved devices is routed through the master. This
+allows a slaved device to rely on the master's security
+features and active monitoring. Anyone that wants to
+connect to or hacked into a slaved device is rerouted
+to the master for authentication and security scrutiny.
+Slaved devices automatically accept commands from
+their master device. This means that a hacker who
+penetrates a master system can legitimately access
+and issue commands to a slaved device, assuming their
+access privileges allow for it.
+   PANs are typically formed by slaving all of a char-
+acter's devices to their ecto or mesh inserts. Similarly,
+individual components of a security system (doors,
+sensors, etc.) are usually slaved to a central security
+node that serves as a chokepoint for anyone hoping
+to hack the system. The same is often true for other
+networks and facilities.
+
+ISSUING COMMANDS
+Characters may issue commands to any slaved device
+or teleoperated bot (see Shell Remote Control, p. 196)
+with a Quick Action. Each command counts separately,
+unless the character is issuing the same command to
+multiple devices/drones.
+
+DISTANCE LAG
+Anytime you extend your communications over great
+distances, you run into the risk of time lags. Most
+communications are restricted to “local” for this
+reason, which generally means your local habitat
+and any others within 50,000 kilometers. On plan-
+etary bodies like Mars, Venus, Luna, or Titan, “local”
+encompasses all of the habitats and linked mesh net-
+works on that planetary body.
+  If a character is searching the mesh beyond their
+local area, the most efficient way is to transmit a search
+AI (usually a copy of your muse) or a fork to the non-
+local area, which will then run its search and return
+completed results. This process does, however, add to
+the time of transmission to the timeframe (i.e., search-
+ing the mesh of a station 10 light-minutes away adds
+20 minutes to the search as the search is transmitted
+over and the results are transmitted back). Since long-
+distance communications are sometimes interfered with
+%%% 251.txt %%%
+or bumped for higher-priority items, the gamemaster
+can increase this time at their discretion. If the research
+involves correlation and fine-tuning the search param-
+eters based on data accumulated from different locals,
+the timeframe may be exponentially increased due to
+the need for back-and-forth interaction.
+   If the character is simply communicating with or
+accessing non-local networks, an appropriate time lag
+must be introduced between communications and ac-
+tions. The effects of this lag are largely up to the game-
+master, as fitting current distances and other factors.
+
+ACCESSING MULTIPLE DEVICES
+Meshed characters may connect to and interact with
+numerous devices, networks, and services simulta-
+neously. There is no penalty for doing this, but the
+character may only focus on one system at a time. In
+other words, you may only interact with one system
+at a time, though you may also switch between them
+freely, even within the same Action Phase. You could,
+for example, spend several Quick Actions to send a
+message with your ecto, tell your spime oven at home
+to start cooking dinner, and look up a friend's updated
+profile on a social network. You may not, however,
+hack into two separate systems simultaneously.
+   Note that you may send the same command to
+multiple slaved devices or teleoperated drones with
+the same Quick Action, as noted above.
+
+
+
+ONLINE RESEARCH
+The Research skill (p. 184) represents a character's
+ability to track down information in the mesh. Such
+information includes any type of digitized data: text,
+pictures, vids, XP, sensor feeds, raw data, software, etc.
+This data is culled from all manner of sources: blogs,
+archives, databases, directories, social networks, rep
+networks, online services, forums, chat rooms, torrent
+caches, and regular mesh sites of all kinds. Research
+is conducted using various public and private search
+engines, both general and specialized, as well as data
+indices and search AIs.
+   Research has other uses as well. Hackers use it
+when looking for specific information on a network or
+device on which they have intruded. Likewise, since
+everyone inevitably uses and interacts with the mesh,
+Research skill is also a way to identify, backtrack, and/
+or gather information on people as long as they have
+not hidden their identity, worked anonymously, or
+covered their identity with a shroud of disinformation.
+
+SEARCH CHALLENGES
+Due to the sheer amount of data available, find-
+ing what you're looking for may sometimes seem a
+daunting task. Thankfully, information is fairly well
+organized, thanks to the hard work of “spider” AIs
+that cruise the mesh and constantly update data and
+search indices. Additionally, information on the mesh
+is tagged with semantics, meaning that it's presented
+with code that allows a machine to understand the
+context of that information as well as a human reader
+would. This helps AIs and search software correlate
+data more efficiently. So finding the data is usually not
+as difficult as analyzing it and understanding it. Find-
+ing specialized or hidden info or correlating data from
+multiple sources is usually the real challenge.
+  Perhaps a larger issue is the amount of incorrect data
+and misinformation online. Some data is simply wrong
+(mistakes happen) or outdated, but the nature of the
+mesh means that such things can linger on for years
+and even propagate far and wide as they are circulated
+without fact-checking. Likewise, given the amount of
+
+
+
+  SEARCH CAPABILITIES
+  Online research in Eclipse Phase is not the same
+  as just googling something. Here are five ways in
+  which it is vastly improved:
+     Pattern Recognition: Biometrics and other forms
+  of pattern recognition are efficient and intelligent.
+  It is not only possible to run image recognition
+  searches (in real-time, via all available spimes
+  and sensor feeds), but to search for patterns such
+  as gait, sounds, colors, emotive displays, traffic,
+  crowd movement, etc. Kinesics and behavioral
+  analysis even allow sensor searches for people
+  exhibiting certain behavioral patterns, such as sus-
+  picious loitering, nervousness, or agitation.
+     Metadata: Information and files online come
+  with hidden data about their creation, alteration,
+  and access. A photo's metadata, for example,
+  will note what gear it was taken on, who took
+  it, when, and where, as well as who accessed it
+  online, though such metadata may be easily
+  scrubbed or anonymized.
+     Data Mash-Ups: The combination of abundant
+  computing, archived data, and ubiquitous public
+  sensors enable intriguing correlations to be
+  drawn from data that is mined and collated. In
+  the midst of a habitat emergency such as a ter-
+  rorist bombing, for example, the ID of everyone
+  in the vicinity could be scanned, compared to
+  data archives to separate out those who have a
+  history of being in the vicinity at that particular
+  time, with those remaining checked against
+  databases of criminal/suspect history and their
+  recorded actions analyzed for unusual behavior.
+     Translation: Real-time translation of audio and
+  video is available from open source translation bots.
+     Forecasting: A significant percentage of what
+  people do on any day or in response to certain situ-
+  ations conforms to routines, enabling easy behav-
+  ioral prediction. Muses take advantage of this to
+  anticipate needs and provide whatever is desired
+  at the right moment and in the right context. The
+  same logic applies to actions by groups of people,
+  such as economics and social discourse, making pre-
+  dictions markets a big deal in the inner system. ■
+%%% 252.txt %%%
+transparency in modern society, some entities actively
+engage in disinformation spreading in order to clut-
+ter the mesh with enough falsehoods that the truth is
+hidden. Two factors help to combat this, the first being
+that data sources themselves have their own reputation
+scores, so that untrustworthy or disreputable sources
+can be identified and ranked lower in search results.
+Second, many archives take advantage of crowdsourc-
+ing—that is, harnessing the collaborative power of
+mesh users (and their muses) everywhere—to verify
+data integrity so that these sites are dynamic and
+self-correcting.
+
+HANDLING SEARCHES
+Online research is often a crucial element of Eclipse
+Phase scenarios, as characters take to the mesh to
+research backgrounds and uncover clues. The follow-
+ing suggestions present a method of handling research
+that does not rely solely on dice rolls and integrates it
+with the flow of the plot.
+   First, common and inconsequential information
+should be immediately available without requiring
+a roll at all. Most characters rely on their muses to
+handle searches for them, passing on the results while
+the character focuses on other things.
+   For searches that are more detailed, difficult, or
+central to the plot, a Research Test should be called
+for (made either by the character or their muse).
+This test indicates the process of finding links to
+and/or accumulating all data that may in fact be
+relevant to the search topic. This test should be
+modified as appropriate to the obscurity of the topic,
+ranging from +30 for common and public topics
+to –30 for obscure or unusual intel. This initial
+search has a timeframe of 1 minute. If successful, it
+turns up enough data to give the character a basic
+overview, perhaps with cursory details. The game-
+master should use the MoS to determine the depth
+of the data provided on this initial excursion, with
+an Excellent Success providing some bonus details.
+Similarly, a Severe Failure (MoF 30+) may result in
+the character working with data that is incorrect or
+intentionally misleading.
+   The next step is not so much accumulating links
+and data as it is analyzing and understanding the in-
+formation acquired. This requires another Research
+Test, again modified by the obscurity of the topic. If
+the gamemaster allows it, complementary skills (p.
+173) may apply to this test, providing bonus modi-
+fiers (for example, an understanding of Academics:
+Chemistry would help research the effects of a
+strange drug). Muses may also perform this task,
+though their skills are typically inferior. As above,
+success determines the quality and depth of the
+analysis, with an Excellent Success providing the full
+story and potential related issues and a Severe Fail-
+ure marking completely incorrect assumptions. The
+timeframe for this phase of research largely depends
+on two factors: the amount of data being analyzed
+and the importance to the storyline. Gamemasters
+%%% 253.txt %%%
+need to carefully measure out their distribution of
+intel and clues to players. Give them too much too
+soon, and they may spoil the plot. Fail to give them
+enough, and they may get frustrated or pursue dead
+ends. Timing is everything.
+
+REAL-TIME SEARCHES
+Characters may also set up ongoing mesh scans that will
+alert them if any relevant information comes up new or
+updated, or is somehow changed. This is a task usually
+assigned to muses for continuous oversight. Whenever
+such data arises, the gamemaster secretly makes a Re-
+search Test, modified by the obscurity of the topic. If
+successful, the update is noted. If not, it is missed, though
+the gamemaster may allow another test if and when the
+topic reaches a wider range of circulation or interest.
+
+HIDDEN DATA
+It is important to remember that not everything can
+be found online. Some data may only be acquired (or
+may be more easily gotten) by asking the right people
+(see Networking, p. 286). Information that is consid-
+ered private, secret, or proprietary will likely be stored
+away behind VPN firewalls, in off-mesh hardwired
+networks, or in private and commercial archives. This
+would require the character to gain access to such
+networks in order to get the data they need (assuming
+they even know where to look).
+   It's worth noting that some entities send out AIs
+into the mesh with the intent of finding and erasing
+data they'd rather hide, even if this requires hacking
+into systems to alter such information.
+
+
+
+SCANNING, TRACKING,
+AND MONITORING
+Most users leave traces of their physical and digital
+presence all throughout the mesh. Accounts they access,
+devices with which they interact, services they use, ent-
+optics they perceive—all of these keep logs of the event,
+and some of these records are public. Simply passing
+nearby some devices is enough to leave a trail, as near-
+field radio interactions are often logged. This electronic
+datatrail can be used to track a user, both to ascertain
+their physical location or to note their online activities.
+
+WIRELESS SCANNING
+To interface with a wireless device or network, whether
+to establish a connection or for other purposes, the
+target device/network must be located first. To locate
+an active node, it's wireless radio transmissions must be
+detected. Most wireless devices automatically scan for
+other devices in range (see Radio and Sensor Ranges, p.
+299) as a matter of course, so no test is required. This
+means that it's trivial for any character to pull up a
+list of the wireless devices and networks around them,
+along with associated mesh IDs. Likewise, a muse or
+device can be instructed to alert the user when a new
+signal (or a specific user) comes into range.
+   Detecting stealth signals (p. 252), however, is a bit
+more challenging. To detect a stealthed signal, the scan-
+ning party must actively search for such signals, taking
+a Complex Action and making an Interfacing Test with
+a –30 modifier. If successful, they detect the hidden emis-
+sions. If the character aiming for stealth engages in active
+countermeasures, also requiring a Complex Action, then
+an Opposed Interfacing Test is called for (with the –30
+modifier still applying to the scanning party).
+   For covert devices that are only transmitting in
+short bursts, wireless detection is only possible during
+the short period the burst transmission is being made.
+
+PHYSICAL TRACKING
+Many users willingly allow themselves to be physically
+tracked via the mesh. To them, this is a useful feature—
+it allows their friends to find them, their loved ones to
+know where they are, and for authorities to come to
+their aid in the event of some emergency. Finding their
+location is simply a matter of looking them up in the
+local directory, no test required (assuming you know
+who they are). Mesh positioning is accurate to within
+5 meters. Once located, the position of the target can
+be monitored as they move as long as they maintain
+an active wireless connection to the mesh.
+
+TRACKING BY MESH ID
+An unknown user's physical location can also be
+tracked via their online mesh activity—or more spe-
+cifically, by their mesh ID (p. 246). Network security
+will often trace intruders this way and then dispatch
+security squads to bring them in. To track an unknown
+user by their mesh ID alone requires a Research Test.
+If successful, they have been tracked to their current
+physical location (if still online) or last point of in-
+teraction with the mesh. If the character is in privacy
+mode (p. 252), a –30 modifier applies.
+
+TRACKING BY BIOMETRICS
+Given the existence of so many spimes and public
+cameras and sensors, people may also be tracked by
+their facial profile alone using facial recognition soft-
+ware. This software scans accessible video feeds and
+attempts to match it to a photo of the target. Given
+the sheer volume of cameras, however, and the typical
+range of false-positives and false-negatives, finding
+the target often boils down to luck. Priority can be
+given to cameras monitoring major thoroughfares, to
+narrow the search, but this risks missing the target if
+they avoid heavy traffic areas. The success of searches
+of this nature is best left to gamemaster fiat, but a
+Research Test can also be called for, modified ap-
+propriately by the range of the area being watched,
+whenever there is a chance the target may be spotted.
+  Other biometric signatures may also be used for
+tracking this way, though these are usually less avail-
+able than cameras: thermal signatures (requires infra-
+red cameras), walking gait, scent (requires olfactory
+sensors), DNA (requires DNA scanners), etc. Each
+biometric scan requires a separate type of software.
+%%% 254.txt %%%
+DIGITAL ACTIVITY TRACKING
+Tracking someone's online activities (meshbrowsing,
+entoptic interactions, use of services, messaging, etc.)
+is slightly more difficult, depending on what exactly
+you're after. Gathering information on a user's public
+mesh activities—social network profiles, public
+forums posts, public lifelogging, etc.—is handled just
+like standard online research (p. 249).
+
+TRACKING BY MESH ID
+A more investigate search can attempt to use the
+target's mesh ID (p. 246), using it as a sort of digital
+fingerprint to look up where else they've been online.
+This primarily involves checking access/transaction
+logs, which are not always publicly accessible. This
+sort of search requires a Research Test, handled as a
+Task Action with a timeframe of 1 hour.
+
+SNIFFING
+Wireless radio traffic is broadcast through the air (or
+space), meaning that it can be intercepted by other wire-
+less devices. “Sniffing” involves the capture and analysis
+of data traffic flowing through the wireless mesh.
+   To eavesdrop on wireless communications, you need
+a sniffer program (p. 331) and you must be within
+radio range (p. 299) of the target (alternately, you can
+access a device that is within radio range of the target,
+and sniff from that location). To capture the informa-
+tion you must succeed in an Infosec Test. If successful,
+you capture data traffic from any targeted devices in
+range. Note that sniffing does not work on encrypted
+traffic (including VPNs and anything else using public
+key cryptography) as the results are gibberish. Quan-
+tum encrypted communications cannot be sniffed.
+   Once you have the data, finding the information
+you're looking for can be a challenge. Handle this as
+a standard Research Test (p. 245).
+
+REMOTE SNIFFING VIA MESH ID
+Finally, a mesh ID may also be actively monitored
+to see what mesh activity it engages in. This requires
+special sniffer software (p. 331) and a Research Test.
+If successful, the monitoring will provide information
+on that user's public mesh activities (how much is
+determined by the gamemaster and the MoS), such
+as which sites they access, who they message, etc. It
+will not, however, uncover anything that is encrypted
+(unless the encryption is broken) or anything that
+takes place on a VPN (unless the VPN is hacked first),
+though it will show that encrypted communications
+and/or VPN use are taking place.
+
+
+
+PRIVACY AND ANONYMIZATION
+Given how easily mesh activities are monitored, many
+users pursue privacy and anonymization options.
+
+PRIVACY MODE
+Characters who go into privacy mode hide their online
+presence and activities from others to a limited degree.
+The exact settings are adjustable, but typically involve
+masking their social profiles and presence to other
+users in the immediate vicinity, like having an unlisted
+phone number. Privacy mode can also be used to limit
+the use of mesh IDs and other data in access and
+transaction logs, applying a –30 modifier to attempts
+to research or track them by their online activity.
+
+STEALTHED SIGNALS
+Another tactic that can be taken for privacy is to
+stealth the wireless radio signals you emit. This
+method uses a combination of spread-spectrum signals,
+frequency hopping, and modulation to make your
+radio transmissions harder to detect with scanning (p.
+251). Stealthing your signals is either a passive activity
+(Automatic Action, –30 modifier on Interface Tests to
+locate the signal) or an active one (Complex Action,
+requires an Opposed Test to locate).
+
+ANONYMIZATION
+Anonymization takes the issue of privacy a bit further.
+The user does not just hide their mesh ID, but they
+actively use false mesh IDs and take other measures to
+reroute and obfuscate their datatrail. Anonymization
+is a necessity both for clandestine operatives and those
+engaging in illicit mesh activities.
+
+FALSE MESH IDS
+The easiest method of making mesh activities anony-
+mous is to set your muse to supply false mesh IDs in
+online transactions. Though illegal in many jurisdic-
+tions, this is an easy task for any character or muse to
+do. Multiple false IDs are used, making it extremely dif-
+ficult for anyone to tie all of the user's activities together.
+   This method makes it extremely difficult for anyone
+to track the user's online actions. Someone attempting
+to track the character via these false mesh IDs must
+beat them in an Opposed Test, pitting their Research
+skill with a –30 modifier against the character's (or
+more likely, their muse's) Infosec skill. This is a Task
+Action with a base timeframe of 1 hour, adjusted
+higher according to the amount of activity they hope
+to track. If successful, the tracker manages to dig
+together enough correlating evidence and records of
+false IDs to get a picture of the character's activities
+(how thorough this picture is depends on their MoS).
+If the fail, the anonymous character has effectively
+camouflaged themselves in the mesh.
+   Actively monitoring a character who is fluctuating
+their mesh ID with a sniffer program, or physically
+tracking them via the mesh, is next to impossible, as
+the continual shifting of IDs and intentional decoys
+make it too difficult to keep up.
+
+ANONYMOUS ACCOUNT SERVICES
+A number of people—not just criminals, hackers, and
+secret agents—have an interest in keeping some of
+their affairs anonymous. To meet this demand, various
+online service vendors offer anonymous accounts for
+messaging and credit transfers. Some of these vendors
+%%% 255.txt %%%
+are legit business (in places where it is legal), some
+are criminals operating illegally, others are hacktivists
+promoting the privacy meme, and still others are hy-
+percorps or other organizations offering such services
+internally to their own staff/membership.
+   The interaction between the vendor and user is
+encrypted and anonymous, with no logs kept, so even
+if the vendor's servers are hacked, an intruder will
+not find any leads. While some anonymous accounts
+are established for regular use, the truly paranoid use
+(multiple) one-time accounts for maximum security.
+One-time accounts are used for a single message (in-
+coming or outgoing) or credit transaction, and then
+are securely erased.
+   Tracking an anonymous account is a practical
+impossibility, and something that only an extremely
+resourceful organization employing a systematic and
+expensive effort could attempt.
+
+DISPOSABLE ECTOS
+Another option for those seeking privacy and se-
+curity is to simply use disposable ectos. Using this
+method, all activity is routed through a specific ecto
+(using its mesh ID), the ecto is used for a limited
+period (until it gets hot), and then it is simply dis-
+carded or destroyed.
+
+
+
+MESH SECURITY
+Given the lessons of the Fall and the very real risk still
+posed by hackers, virii, and similar threats, network
+security is taken extremely seriously in Eclipse Phase.
+Four methods are typically used: authentication, fire-
+walls, active monitoring, and encryption.
+
+AUTHENTICATION
+Most devices, networks (PANs, VPNs, etc.), and ser-
+vices require some kind of authentication (a process
+by which a system determines whether the claimed
+identity of a user is genuine) before they grant an ac-
+count and access privileges (p. 246) to a user. There
+are several different ways for a system to authenticate
+a user. Some are more reliable and secure than others,
+but for the most part, the more secure the method, the
+higher the operational expenses.
+   Account: If you have access to an account on one
+system, this may give you automatic access to related
+systems or subsystems. This is typical of slaved devices
+(p. 248), where access to the master automatically
+grants you access to slaves.
+   Mesh ID: Some systems accept mesh IDs as authen-
+tication. This is extremely common with most public
+systems, which merely log the mesh ID of any user
+that wishes access. Other systems will only allow
+access to specific mesh IDs, but these are vulnerable
+to spoofing (p. 255).
+   Passcode: This is a simple string of alphanumeric
+characters or logographic symbols, submitted in an
+encrypted format. Anyone with the passcode can
+access the account.
+   Biometric Scan: This calls for a scan of one or more
+of the user's biometric signatures (fingerprint, palm
+print, retinal scan, DNA sample, etc.). Popular before
+the Fall, such systems have fallen out of use as they
+are impractical with synthmorphs or users that fre-
+quently resleeve.
+   Passkey: Passkey systems call for some of encrypted
+code that is either hardwired into a physical device
+(that is either implanted or physically jacked into
+an ecto) or extracted from specialized software. Ad-
+vanced passkeys combine hardwired encryption with
+physical nanotech etching to create a unique key. To
+access such systems, the passkey must either be ac-
+quired or somehow spoofed.
+   Ego Scan: This system authenticates the user's ego
+ID (p. 279).
+   Quantum Key: Quantum key systems rely on the un-
+breakable encryption of quantum cryptography (p. 254).
+
+FIREWALLS
+Firewalls are software programs (sometimes hard-
+wired into a device) that intercept and inspect all traf-
+fic to and from a protected network or device. Traffic
+that meets specified criteria that designates it as safe
+is passed through, whereas all other traffic is blocked.
+In Eclipse Phase, every network and device can be
+assumed to have a firewall by default. Firewalls are
+the main obstacle that an intruder must overcome, as
+discussed under Intrusion Tests, p. 255.
+   Like other gear, firewalls come in varying quality
+levels and so may apply modifiers to certain tests.
+
+ACTIVE MONITORING
+Instead of relying on authentication and firewalls
+alone, secure systems are actively monitored by a se-
+curity hacker or a muse. These digital security guards
+inspect network traffic using a number of software
+tools and applications that flag conspicuous events.
+Active surveillance makes intrusions more difficult,
+since the interloper must beat the monitoring hacker/
+AI in an Opposed Test (see Intrusion, p. 254). Active
+monitoring also includes monitoring any devices
+slaved to the monitored system.
+   Characters may actively monitor their own PANs if
+they so choose, though this requires a moderate level
+of attention (count as a Quick Action). It is far more
+common for a muse to actively guard a user's PAN.
+
+ENCRYPTION
+Encryption is an exceptionally effective extra layer of
+security. There are two types of encryption commonly
+used in Eclipse Phase: public key cryptosystems and
+quantum cryptography.
+
+PUBLIC KEY CRYPTO
+In public key cryptosystems, two keys are generated
+by the user, a public key and a secret key. The public
+key is used to encrypt messages to that user, and is
+made freely available. When messages are encrypted
+using that public key, only the secret key—controlled
+%%% 256.txt %%%
+by the user—can decrypt them. Public key crypto is
+widely used both for encrypting data traffic between
+two users/networks/devices and for encrypting
+files. Due to the strength of the public key system
+algorithms, such crypto is essentially unbreakable
+without a quantum computer (see Quantum Code-
+breaking, p. 254).
+
+QUANTUM CRYPTOGRAPHY
+Quantum key distribution systems use quantum me-
+chanics to enable secure communications between two
+parties by generating a quantum key. The major advan-
+tage of transmitting information in quantum states is
+that the system itself instantly detects eavesdropping
+attempts as quantum systems are disturbed by any sort
+of external interference. In practical terms, this means
+that quantum encrypted data transfers are unbreakable
+and attempts to intercept automatically fail. Note that
+quantum crypto doesn't work for basic file encryption,
+its only use is in protecting communication channels.
+   While quantum key systems have an advantage over
+public key systems, they are both more expensive and
+less practical. In order to generate a quantum key,
+the two communications devices must be entangled
+together on a quantum level, in the same location,
+and then separated. So quantum key encrypted
+communications channels require some setup effort,
+especially if long distances are involved. Since the
+implementation of quantum cryptographic protocols
+is an extraordinary expense, it is usually only adopted
+for major high-security communications links.
+
+BREAKING ENCRYPTION
+What this means is that encrypted communications
+lines and files are very safe if using public key systems,
+and that data transfers are absolutely safe if using
+quantum crypto. Gamemasters should take note, how-
+ever: while this may be useful to player characters, it
+may also hinder them. If the characters need to get at
+something that is encrypted, they're going to need to
+figure out some way to get the secret key's passcode.
+Common methods include the old standbys of bribery,
+blackmail, threats, and torture. Other options involve
+espionage or social engineering to somehow acquire
+the passcode. Hackers could also find some other
+method to compromise the system and gain inside
+access, bypassing the encryption entirely.
+
+QUANTUM CODEBREAKING
+As noted above, quantum computers can also be used
+to break public key encryption. This requires an Infosec
+Task Action Test with a +30 modifier and a timeframe
+of 1 week (once started, the quantum computer finishes
+the job on its own; the user does not need to provide
+constant oversight). Gamemasters should feel free to
+modify this timeframe as fits the needs of their game.
+Note that quantum computers cannot break quantum-
+encrypted communications, only encrypted files.
+
+
+
+INTRUSION
+The art of intrusion lies in penetrating a device's secu-
+rity. The best methods involve infiltrating a system qui-
+etly, without catching a watchdog's attention, by using
+exploits—code glitches, flawed security protocols—to
+create a path circumventing the target's defenses. When
+called for, however, a hacker can toss aside pretenses
+and attempt to brute-force their way in.
+
+PRECONDITIONS
+In order to hack a device, the hacker needs to establish
+a direct connection to the target computer system. If
+the hacker is making a direct wireless connection to
+the target, the target system must be wireless-capable
+and within range (p. 299), and the hacker must know
+the target is there (see Wireless Scanning, p. 251). If
+the system is hard-wired, the hacker must physically
+jack in by using a regular jacking port or somehow
+tapping into a cable that carries the network's data
+traffic. If the hacker is accessing the target through the
+%%% 257.txt %%%
+mesh, the target system must be online and the hacker        INTRUSION TESTS
+must know it's mesh ID (p. 246) or otherwise be able         Hacking into a node is a time-consuming task. The
+to track it down (p. 251).                                   target system must be carefully analyzed and probed
+                                                             for weaknesses, without alerting its defenses. Depend-
+CIRCUMVENTING AUTHENTICATION                                 ing on the type of security in place, more than one test
+Rather than hacking in, an intruder can try to sub-          may be called for.
+vert the authentication system used to vet legitimate          Hackers require special exploit software (p. 331) to
+users. The easiest manner of doing this is to somehow        take advantage of security holes, but software does
+acquire the passcode, passkey, or whatever authentica-       not a hacker make. What really counts is Infosec skill
+tion method the target uses (p. 253). With this in hand,     (p. 180), which is the ability to use, modify, and im-
+no test is necessary to access the system; the hacker        provise exploits to their full advantage.
+simply logs in just like a legitimate user and has all of
+the normal access privileges of that user.                   DEFEATING THE FIREWALL
+   Lacking a passcode, the hacker can try to subvert         Lacking a passcode, the hacker must break in the old-
+the authentication system in one of two other ways:          fashioned way: discreetly scanning the target, look for
+spoofing or forgery.                                         weaknesses, and take advantage of them. In this case
+                                                             the hacker takes their exploit software and makes an
+SPOOFING AUTHENTICATION                                      Infosec Test. This is handled as a Task Action with a
+Using this method, the hacker attempts to disguise           timeframe of 10 minutes. Various modifiers may apply,
+their signals as coming from the legitimate, authen-         such as the quality of the exploit software, the quality
+ticated user, rather than from themself. If successful,      of the Firewall, or the alertness of the target system. The
+the system is fooled by this masquerade, accepting the       gamemaster may also modify the timeframe, shortening
+hacker's commands and activity as if they came from          it to reflect systems that are cookie-cutter common with
+a legitimate user. Spoofing is more difficult to pull off,   known security flaws or raising it as fitting for a top-of-
+but is very effective when it works.                         the-line system with still-unreleased defenses.
+   To spoof a legitimate user, the hacker must be using         By default, a hacker trying to break in this way is
+both sniffer and spoofing software (p. 331). The             pursuing standard user access rights (p. 247). If the
+hacker must then monitor a connection between the            hacker wishes to obtain security or admin privileges on
+legitimate user and the target system, and succeed           the system, apply a –20 or –30 modifier, respectively.
+in an Infosec Test to sniff the traffic between them             If the Infosec Test succeeds, the intruder has invaded
+(p. 252). Apply a –20 modifier if the user has secu-         the system without triggering any alarms. If the system is
+rity account privileges, –30 if they have admin rights       actively monitored (p. 253), they must now avoid detec-
+(p. 247). If the connection is encrypted, this will fail     tion by that watchdog (see below). If there is no active
+unless the hacker has the encryption key.                    monitor, the intruder gains the status of Covert (see In-
+   Armed with this data, the hacker then uses it to          truder Status, p. 256). If the intruder scored an Excellent
+disguise their signals. This requires an Infosec Test,       Success, however, their status is Hidden (p. 256).
+modified by the quality of the system's firewall and             Probing: Players may choose to take the time (p.
+the hacker's spoofing program. If successful, com-           116) when probing the target for weakness and ex-
+munications sent by the hacker are treated as coming         ploits. In fact, this is a common procedure when a
+from the legitimate user.                                    hacker wants to ensure success.
+
+FORGING AUTHENTICATION                                       BYPASSING ACTIVE SECURITY
+Biometric and passkey systems used for authentication        If a system is also actively monitored (p. 253), the
+(p. 253) can potentially be forged hackers who are           hacker must avoid detection. Treat this as a Variable
+able to get a look at the originals. The means and tech-     Opposed Infosec Test between the intruder and the
+niques for doing so differ, and are beyond the scope of      monitor. The outcome depends on both rolls:
+this book, but successfully forging such systems would          If only the intruder succeeds, the hacker has ac-
+allow a hacker to log in as the legitimate user.             cessed the node without the monitor or the system
+
+
+
+
+ THE HACKING SEQUENCE
+ 1. Defeat the Firewall                                           Infosec Task Action (10 minutes)
+ 2. Bypass Active Security                                        Opposed Infosec Test
+    a. Hacker Wins with Excellent Success, Defender Fails         Hidden status/+30 all tests (p. 256)
+    b. Hacker Succeeds, Defender Fails                            Covert Status (p. 256)
+    c. Both Succeed                                               Spot Status/Passive Alert (p. 256)
+    d. Defender Succeeds, Hacker Fails                            Locked status/Active Alert (p. 256)                  ■
+%%% 258.txt %%%
+noticing. The hacker has acquired Covert status (p.
+256). If the hacker scored an Excellent Success, their
+status is Hidden (p. 256).
+   If only the monitor succeeds, the hacking attempt
+is spotted and the monitor may immediately lock the
+hacker out of the system before they manage to fully
+break in. The intruder may try again, but the monitor
+will be vigilant for further intrusions.
+   If both succeed, the intruder has gained access but
+the monitor is aware that something strange is going
+on. The hacker acquires Spotted status.
+   If both fail, continue to make the same test on each
+of the hacker's Action Phases, until one or both succeed.
+
+INTRUDER STATUS
+Intruder status is a simple way of measuring an
+invader's situation when they are intruding upon
+a system. This status has an impact on whether the
+hacker has caught any attention or if they managed
+to remain unobtrusive. Status is first determined when
+the intruder access the system, though it may change
+according to events.
+  Note that intruder status is a separate matter from
+account access privileges (p. 246). The latter represents
+what a user can legally do on a system. The former
+indicates how aware the system is of the hacker's true
+nature as an intruder.
+
+HIDDEN
+An intruder with Hidden status has managed to silent-
+ly sneak into the system without anyone noticing. The
+system's security is totally unaware of their presence
+and may not act against them. In this case, the hacker
+is not using an account so much as they are exploit-
+ing a flaw in the system that grants them a nebulous,
+behind-the-scenes sort of presence in the system. The
+hacker effectively has admin access rights, but does
+not show up as an admin-level user in logs or other
+statistics. Hidden characters receive a +30 modifier on
+any efforts to subvert the system.
+
+COVERT
+An intruder with Covert status has accessed the
+system in a manner that doesn't attract any unusual
+attention. For all intents and purposes, they appear
+to be a legitimate user with whatever access rights
+they sought. Only extensive checking will turn up any
+abnormalities. The system is aware of them, but does
+not consider them a threat.
+
+SPOTTED
+Spotted status indicates that the system is aware of an
+anomaly or intrusion but hasn't zeroed in on the in-
+truder yet. The hacker appears to be a legitimate user
+with whatever access rights they sought, but this will
+not hold up under close scrutiny. The system goes on
+passive alert (inflicting a –10 modifier to the hacker's
+activities on that system) and may engage the hacker
+with passive countermeasures (p. 257).
+LOCKED
+Locked status means that the intruder—including their
+datatrail—has been pinned down by system security.
+The hacker has access and account privileges, but they
+have been flagged as an interloper. The system is on
+active alert (inflicting a –20 modifier on the hacker's ac-
+tions) and may launch active countermeasures (p. 257)
+against the intruder.
+
+CHANGING STATUS
+An intruder's status is subject to change according to
+their actions and the actions of the system.
+
+UPGRADING STATUS
+A hacker can attempt to improve their status in order
+to better protect themself. This requires a Complex
+Action and an Infosec Test. If the hacker has Spotted
+status, this is an Opposed Test between monitor and
+intruder. If the hacker wins and scores an Excellent
+Success (MoS of 30+), they have upgraded their status
+by one level (for example, from Covert to Hidden).
+Intruders with Locked status may not upgrade.
+
+ZEROING IN
+A security hacker or muse that is actively monitoring
+a system can take a Complex Action and attempt to
+hone in on a Spotted intruder. An Opposed Infosec Test
+is made between both parties. If the system's defender
+wins, the hacker is downgraded to Locked status.
+
+FAILING TESTS
+Any time an intruder scores a Severe Failure (MoF
+30+) on a test involving manipulating the system, they
+are automatically downgraded one status level (from
+Covert to Spotted, for example). If a critical failure
+is rolled, they immediately give themselves away and
+achieve Locked status.
+
+BRUTE-FORCE HACKING
+Sometimes a character simply doesn't have time to do
+the job right, and they need to hack in now or never.
+In this case the hacker engages the target system im-
+mediately, head on, without taking any time to pre-
+pare an attack. The hacker simply brings all of their
+software exploit tools to bear, throwing them at the
+target and hoping that one works. This is handled as
+an Infosec Test, but as a Task Action with a timeframe
+of 1 minute (20 Action Turns). The hacker receives
+a +30 modifier on this test. Many hackers choose to
+rush the job (see Task Actions, p. 120), in order to cut
+this time even shorter.
+  The drawback to brute-force hacking is that it imme-
+diately triggers an alarm. If the system is actively moni-
+tored, the hacker must beat the monitor in an Opposed
+Infosec Test or be immediately locked out as soon as
+they break in. Even if they succeed, the hacker has
+Locked status and is subject to active countermeasures.
+%%% 259.txt %%%
+INTRUSION COUNTERMEASURES
+If an intruding hacker fails to penetrate a system's
+defenses (i.e., they are Spotted or Locked, see p. 256),
+then the system goes on alert and activates certain
+defenses. The nature of the applied countermeasures
+depends on the capabilities of the system, the abilities
+of its security defender(s), and the policy of its owner/
+admins. While some nodes will simply seek to kick
+the intruder out and keep them shut out, others will
+actively counterattack, seeking to track the intruder
+and potentially hack the intruder's own PAN.
+
+SECURITY ALERTS
+Security alerts come in two flavors: passive and active.
+
+PASSIVE ALERT
+Passive alerts are triggered when an intruder hits Spot-
+ted status. The system immediately flags a visual or
+acoustic cue to anyone actively monitoring the system
+and possibly the owner or admins. It immediately
+launches one or more passive countermeasures (see
+below). Depending on the system, extra security hack-
+ers or AIs may be brought in to help investigate. If the
+intruder is not encountered again or located within a
+set time period (usually about 10 minutes), the alarm
+is deactivated and the event is logged as an anomaly.
+Depending on the security level of the system, some-
+one may analyze the logs at some point and try to
+ascertain what happened—and prevent it from hap-
+pening again.
+   All intruders suffer a –10 modifier for tests involv-
+ing a system that is on passive alert.
+
+ACTIVE ALERT
+An active alert is triggered when an intruder hits
+Locked status. The system immediately alerts the
+owners, admins, and monitoring security agents.
+Additional security assets (hackers and AIs) may be
+called in. The system also launches active countermea-
+sure against the intruder (see below). Active alerts are
+maintained for as long as the intruder is present, and
+sometimes for a lengthy period afterwards just in case
+the hacker returns.
+
+PASSIVE COUNTERMEASURES
+Passive countermeasures are launched as a precaution
+whenever an intruder acquires Spotted status.
+
+LOCATE INTRUDER
+A security hacker or AI monitoring a system may at-
+tempt to track down the source of the passive alert.
+See Zeroing In, p. 256.
+
+RE-AUTHENTICATE
+When a passive alert is triggered, a firewall can be set
+to re-authenticate all active users, starting with the
+most recent. At the beginning of the next Action Turn,
+everyone on the system must take an action to log
+back in. For intruders, this means making an Infosec
+Test, modified by –10 for the passive alert, to satisfy
+the system that they are a legitimate user.
+
+REDUCE PRIVILEGES
+As a protective measure, some systems will immedi-
+ately reduce access privileges available to standard
+users, and sometimes security users as well. One
+common tactic is to protect all logs, backing them up
+and making sure no one has rights to delete them.
+
+ACTIVE COUNTERMEASURES
+Active countermeasures can only be launched if the
+intruder has acquired Locked status.
+
+COUNTERINTRUSION
+A security hacker or guardian AI can proactively
+defend a system by attacking the intruder's source. For
+this to occur, the intruder must first be successfully
+traced (p. 251). Once this occurs, the security forces
+can then launch their own intrusion on the hacker's
+home ecto/mesh inserts and/or PAN.
+
+LOCKOUT
+A system that has locked onto an intruder may also
+attempt to lock them out. Lockout is an attempt to
+remove the compromised account, sever the connec-
+tion between the two, and dump the hacker from
+the system.
+   Lockout must be initiated by someone with secu-
+rity or admin privileges. An Opposed Infosec Test is
+made, with the intruder suffering a –20 modifier for
+being Locked. If the character defending the system
+succeeds, the intruder is immediately ejected from
+the system and the account they used will be placed
+on quarantine or deleted. That account will not be
+usable again until a security audit approves it and
+replaces the authentication. Any attempt to access
+the system from the same mesh ID as the intruder
+automatically fails.
+
+REBOOT/SHUTDOWN
+Perhaps the most drastic option for dealing with an
+interloper is to simply shut down the system. In this
+case, the system closes all wireless connections (if it
+has any), logs off any users, terminates all processes,
+and shut itself down—thereby locking out the intruder.
+The disadvantage, of course, is that the system must
+interrupt its activities. For example, shutting down
+your mesh inserts or ecto means losing all communica-
+tion with teammates, access to augmented reality, and
+control over slaved/linked devices.
+   Initiating a reboot/shutdown is only a Complex
+Action, but the actual process of shutdown takes
+anywhere from 1 Action Turn (personal devices) to 1
+minute (large hardwired networks with multiple users),
+determined by the gamemaster. Rebooting a system
+takes the same amount of time to get started again.
+%%% 260.txt %%%
+TRACE
+For high-security systems, a popular countermeasure
+is to track the infiltrator's physical location via their
+mesh ID (see Physical Tracking, p. 251). In most cases,
+habitat physical security is subsequently alerted and
+forwarded the position to take care of the criminal.
+
+WIRELESS TERMINATION
+An alternative to shutdown or rebooting is simply to
+sever all wireless connections by shutting down the
+wireless capabilities of the system. The system will
+lose all active connections, but any intruders will be
+dumped. Wireless termination is a Complex Action to
+initiate and completes at the end of that Action Turn.
+Re-starting wireless connectivity takes 1 Action Turn.
+
+
+
+
+  JOINT HACKING/
+  SECURING
+  Hacking will sometimes involve teams of attack-
+  ers and/or teams of defenders. A hacker might
+  be backed up by their muse or another team
+  member with moderate Infosec skills. Hard
+  networks are often defended and monitored
+  by teams of highly-skilled security hackers and
+  AIs. When intruding in or defending a computer
+  system, operators must decide whether to act
+  individually or in concert.
+     Each approach has its tradeoffs. A team that
+  chooses to breach or maintain a system's security
+  as a team effort must allocate one character (usu-
+  ally the team member with the highest Infosec
+  skill) as the primary actor (see Teamwork, p. 117).
+  Each additional character and muse adds a +10
+  modifier for each test (up to the maximum +60
+  modifier) but cannot spend time on other actions
+  than those performed by the team leader. When
+  acting in concert, teams may switch team leaders
+  at any time, in case group members are special-
+  ized for certain tasks.
+     Alternately, both intruding and defending
+  teams may choose to act individually but for a
+  joint goal. Each hacker must make intrusions
+  on their own, with individual repercussions for
+  detection and counterintrusion, which runs the
+  risk of affecting all intruders if any one is Spotted
+  or Locked. On the other hand, a team of intrud-
+  ers can pursue multiple actions simultaneously in
+  a coordinated manner and may temporarily over-
+  whelm available security. The same holds true for
+  system defenders, who may accomplish more by
+  splitting their actions, leaving some to monitor
+  while others launch counterintrusion attacks and
+  other countermeasures.                              ■
+%%% 261.txt %%%
+SUBVERSION                                                                             SUBVERSION EXAMPLES
+Once an intruder has successfully invaded a device                            In addition to the tasks noted under the Subversion Difficulties
+or network, they can pursue whatever tasks they are                                these modifiers present some additional example actions.
+interested in, as fitting that particular system. Depend-
+ing on the type of account the intruder hacked, they                   MODIFIER TASK
+may or may not have access privileges to do what                          Hacking Bots/Vehicles
+they want to do. If their access rights allow it, the                    –0         Give orders to drones
+activity is handled like that of a legitimate user and                   –10        Alter sensor system parameters, disable sensors or weapo
+no test is called for (unless the activity itself calls for              –20        Alter smartlink input, send false data to AI or teleoperato
+some kind of test, such as Research). For example, a
+                                                                         –30        Lockout AI or teleoperator, seize control via puppet sock
+hacker who infiltrates a habitat's security system with
+                                                                          Hacking Ectos/Mesh Inserts
+a security account can monitor cameras, deactivate
+sensors, review recorded surveillance footage, and so                               Interact with entoptics, befriend everyone in range, make
+                                                                         –0
+on, as any legitimate user with security right would be                             purchases using user's credit, intercept communications,
+allowed to do.                                                                      Alter social network profile/status, adjust AR filters, twea
+                                                                         –10
+   Engaging in any sort of activity for which you                                   interface, change AR skin, change avatar, access VPN
+don't have access rights is more difficult and requires                             Block or shuffle senses, inject AR illusions, spoof comman
+                                                                         –20
+hacking the system. This typically requires an Infosec                              drones/slaved devices
+Success Test, modified by the difficulty of the action                   –30        Boot user out of AR
+as noted on the Subversion Difficulties table. In most                    Hacking Habitat Systems
+cases this in not an Opposed Test even if the system is
+                                                                         –0         Open/close doors, stop/start elevators, operate intercom
+actively monitored, unless specifically stated otherwise.
+                                                                                    Adjust temperature/lighting, disable safety warnings, repl
+Failing such tests, however, will result in a change of                  –10
+                                                                                    tic skin, lock doors, switch traffic timers
+the hacker's intruder status (see Failing Tests, p. 256).
+   Examples for different types of system subversion                                Disable subsystems (plumbing, recycling, etc.), disable wi
+                                                                         –20
+are given in the Subversion Examples sidebar. This                                  dispatch repair crews
+is not an exhaustive list, however, and gamemasters                      –30        Override safety cutoffs
+and players are encouraged to improvise game effects                      Hacking Security Systems
+in case an action has not been explicitly described.                     –0         Move/manipulate cameras/sensors, locate security systems
+                                                                                    Adjust patterns of sensor sweeps, view security logs, disa
+AUGMENTED REALITY ILLUSIONS                                              –10
+                                                                                    systems
+A hacker who has infiltrated an ecto, mesh inserts, or                   –20        Delete security logs, dispatch security teams
+some other device with an AR interface may inject
+                                                                         –30        Disable alerts
+different kinds of visual, auditory, tactile, and even
+                                                                          Hacking Simulspace Systems
+emotional illusions into the augmented reality of
+the device's user, depending on the type of interface                    –0         View current status of simulspace, simulmorphs, and acce
+used. How the hacked user will respond to the illu-                                 Change domain rules, add cheats, alter parameters of sto
+                                                                         –10
+sion depends on a number of factors, such as whether                                simulmorphs, change time dilation
+they are aware of the intruder (i.e., the hacker has                     –20        Eject simulmorph, alter/erase character AIs
+Spotted or Locked status), what type of interface they                   –30        Abort simulation
+are using (entoptic or haptic), and how realistic the                     Hacking Spimes
+illusion is.                                                             –0         Get status report, use device functions
+   The best illusions are, of course, crafted in advance,
+                                                                         –10        Adjust AI/voice personality settings, adjust timed operatio
+using the best image and sensory manipulation tools
+available. Such illusions are hyper-realistic. Anyone                    –20        Disable sensors, disable device functions
+making a Perception Test to identify them as fake
+
+
+                                         SUBVERSION DIFFICULTIES
+                                              Difficulty modifiers for common computer tasks
+
+MODIFIER TASK
+             Execute commands, view restricted information, run restricted software, open/close connections to other systems, read/write/
+    –0
+             copy/delete files, access sensor feeds, access slaved devices
+   –10       Change system settings, alter logs/restricted files
+   –20       Interfere with system operations, alter sensor/AR input
+   –30       Shut system down, lockout user/muse, launch countermeasures at others
+%%% 262.txt %%%
+suffers a –10 to –30 modifier (gamemaster's discre-
+tion). An eclectic collection of software programs
+offer a diverse range of AR illusions.
+   Hackers may also improvise illusions on the
+fly, usually by patching in sensor data from others
+sources, though this is more difficult and more easily
+spotted (typically adding a +10 to +30 modifier to
+Perception Tests). The advantage is that the hacker
+can modify the illusion in reaction to the user's ac-
+tions or environmental factors on the fly. AR illusion
+software, however, also offers some template illusions
+that can be modified and controlled in real-time via a
+connected interface.
+   Whenever a user is bombarded with AR illusions, the
+gamemaster should make a secret Perception Test to see
+if they spot the deception. Even if they do, however, the
+character may still react to them. Almost anyone will
+duck when they see an object suddenly flying at their
+face, as their body reacts on its own before the brain
+comprehends that it's an illusion and not a threat.
+   Aside from their deceptive value, illusions can be
+used to distract users or otherwise impair their percep-
+tive faculties. For example, dark illusory clouds can
+obscure vision, ear-wrenching high-volume noises can
+make people cringe, and a persistent tickling sensation
+might drive anyone crazy. Such effects can apply a –10
+to –30 modifier to Perception Tests and other actions,
+but the user can also adjust their filters and/or turn
+their AR off if necessary.
+
+BACKDOORS
+A backdoor is a method of bypassing a system's normal
+authentication and security features. It enables a hacker
+to sneak into a system by exploiting a flaw (which can
+take the form of an installed program or modification
+to an existing program or hardware device) that was
+integrated into the system previously, either by themself
+or another hacker (who shared the backdoor).
+   To install a backdoor, the hacker must successfully
+infiltrate the system and succeed in both a Program-
+ming and an Infosec Test (or an Opposed Infosec Test
+if the system is actively monitored). The Programming
+Test determines how well the backdoor is crafted and
+hidden within system processes, while the Infosec Test
+represents incorporating it into the system without se-
+curity noticing. Modify the Programming Test by –20
+if the hacker wants to have security privileges when
+using the backdoor, –30 for admin.
+   Once installed, using a backdoor requires no test to
+access the system—the hacker simply logs on as if they
+were a legitimate user, gaining Covert status. Anyone
+who is aware of a backdoor's details may use it.
+   How long the backdoor lasts depends on many fac-
+tors and is largely up to the gamemaster. Backdoors
+are only likely to be spotted during complete security
+audits, so more paranoid systems are likely to detect
+them earlier. Security audits may also occur when an
+intruder is Spotted but never Locked. Security audits
+are a Task Action with a timeframe of 24 hours. The
+character conducting the audit makes an Infosec
+Test to spot the back door. If the backdoor's installer
+scored an Excellent Success on their Programming
+Test, this Infosec Test suffers a –30 modifier.
+
+CRASHING SOFTWARE
+Intruders can attempt to crash software programs
+by killing the processes that run them. This requires a
+Complex Action and an Infosec Test. Note that some
+software is set to immediately respawn, but this can take
+from 1 Action turn to 1 minute, depending on the system.
+   Hackers may crash AIs, AGIs, and even infomorphs
+this way, but the process is more difficult. In this case,
+an Opposed Infosec Test is made against the target,
+who is immediately aware they are under attack. Two
+consecutive tests must succeed in order to crash an AI,
+three in order crash an AGI or infomorph. If successful,
+the AI/infomorph immediately reboots, which generally
+takes 3 Action Turns, longer if the gamemaster chooses.
+
+ELIMINATING INTRUSION TRACES
+Hackers who have avoided being Locked may attempt
+to clean up all traces of their intrusion before they
+exit a system. This involves erasing incriminating data
+in the access and security logs, and otherwise hiding
+any evidence of system tampering. This requires a
+Complex Action and an Infosec Test, or an Opposed
+Infosec Test if the system is actively monitored. If suc-
+cessful, the intruder has wiped anything that might be
+used to track them down later, such as mesh ID, etc.
+
+HACKING VPNS
+Virtual private networks (VPNs) are more challeng-
+ing to hack than standard devices. Because they exist
+as an encrypted network within the mesh, accessing
+channels of communication within a VPN is all but
+impossible with the encryption key. This means any
+attempt to sniff the VPN traffic is also impossible
+with the key.
+  The only way to hack a VPN is to hack into a
+device that is part of the VPN and running the VPN
+software. Once an intruder has access to such a device,
+they can attempt to access the VPN. The account the
+hacker has compromised may have VPN privileges, in
+which case they are in. If not, they must hack access,
+requiring an Infosec Test with a Minor modifier (–10).
+   Once access to the VPN is acquired, the hacker may
+treat the VPN like any other network. They may hack
+other devices on the VPN, sniff VPN traffic, track
+other users on the VPN, research data hidden away
+on the VPN, and so on.
+
+SCRIPTING
+A script is a simple program—a batch of instructions—
+that a hacker can embed in a system to be executed at
+a later pre-scheduled time or upon a certain trigger
+event, even without the hacker being present. When
+activated, the script will undertake a number of system
+operations limited by the abilities of the operating
+system and the access rights the hacker had when
+they implemented the script in the system. Scripts are
+%%% 263.txt %%%
+a great way for a hacker to subvert a system without
+necessarily being in danger when they do it.
+   Scripts can be programmed on the fly or prepro-
+grammed. When composing the script, the character
+must detail what system operations the set will call
+for, in what order and at what times (or at what trig-
+ger steps). The script cannot contain more steps/tasks
+than the character's Programming skill ÷ 10 (round
+down). To program a script, the character must suc-
+ceed in a Programming Test with a timeframe deter-
+mined by the gamemaster.
+   To load the script, the character must have suc-
+cessfully intruded in the system and must succeed
+in an Infosec Test (or an Opposed Infosec Test if the
+system is actively monitored). If successful, the script
+is loaded into the system and will run as programmed.
+   Once the script is activated, it carries out the pre-
+programmed sequence of actions. The programmer's
+Infosec skill is used for any tests those actions call for.
+   Inactivated scripts may be detected in a security
+audit, just like backdoors (p. 260).
+
+
+           Sarlo has infiltrated a security system and wants
+           to arrange it so that a particular security sensor
+           deactivates and a door unlocks at a set time, al-
+           lowing his team to infiltrate a high-security area.
+           He creates a script that will activate at 2200 hours
+           with the following steps:
+           1) At 2200 hours, disable security sensor
+           2) Then unlock door
+ EXAMPLE
+
+
+
+
+           3) At 2230 relock door
+           4) Then re-enable security sensor
+           5) Eliminate traces
+              This script has 5 steps, which Sarlo can handle
+           with his Programming skill of 70. Sarlo succeeds in
+           his Programming and Infosec Tests, and the script
+           is loaded. It will then activate at the appropriate
+           time. Since Sarlo's account did not have access
+           rights to perform these actions, each will require
+           an Infosec Test using Sarlo's skill to succeed.
+
+
+
+
+CYBERBRAIN HACKING
+Pods and synthmorphs (including some bots and ve-
+hicles) are equipped with cybernetic brains. While this
+technology allows a transhuman ego to sleeve into and
+control these forms, they carry the disadvantage of being
+vulnerable to hacking, like any other electronic device.
+   Cyberbrains are not wireless-enabled for security
+reasons, but they do have access jacks (p. 306) and
+are directly linked to mesh inserts. This means that
+in order to hack a cyberbrain, the hacker either must
+have direct physical access to the morph's body in
+order to jack in, or they must first hack into the mesh
+inserts and then break into the cyberbrain from there.
+   Due to their importance, cyberbrains are equipped
+with numerous hard-coded security features that make
+intrusion very difficult. Apply a –30 modifier to all
+attempts to hack into and subvert a cyberbrain. (Note
+that the –30 modifier for hacking an admin account
+does not apply to cyberbrains.)
+  Cyberbrains are treated just like other systems for
+intrusion and subversion purposes, but since they
+house the morph's controlling ego they present several
+unique hacking opportunities.
+
+ENTRAPMENT
+An intruding character can attempt to lock in an ego,
+preventing it from evacuating the cyberbrain. The
+hacker (with the –30 modifier noted above) must
+beat the defending character or muse in an Opposed
+Infosec Test. If successful, the ego is prevented from
+transferring itself to another system.
+  To fully pen the ego in, the ego character and its
+protecting muse must also be locked out (p. 257) from
+controlling the cyberbrain's system, otherwise the ego
+could potentially be freed.
+   Trapped egos are quite vulnerable. They could, for
+example, be subject to enforced uploading, enforced
+forking, or psychosurgery.
+
+MEMORY HACKING
+All cyberbrains incorporate mnemonic augmentation
+(p. 307), or digitally recorded memories. A hacker
+who has accessed the cyberbrain can read, alter, or
+delete these memories with a successful Research or
+Interfacing Test (the –30 modifier applies).
+
+PUPPETEERING
+Cyberbrains also incorporate a puppet sock (p. 307),
+enabling remote users to take over the pod or synth-
+morph body and control it via teleoperation or jam-
+ming (p. 196). This allows a hacker to seize control
+of the body and manipulate it remotely. To do so, the
+hacker must take a Complex Action and beat the de-
+fending character or muse in an Opposed Infosec Test;
+the hacker suffers the –30 modifier noted above.
+   A defender who is not locked out may continue
+to fight for control of the morph, using a Complex
+Action. In this case, another Opposed Infosec Test
+is called for. This can result in a situation where the
+morph repeatedly slips control from the hacker to the
+defender, or perhaps slips into a catatonic state as the
+two sides battle it out.
+
+SCORCHING
+Having direct access to a cyberbrain opens the possi-
+bility for certain kinds of attacks that are normally in-
+feasible due to the strict content filtering that occurs on
+the link between the cyberbrain and mesh inserts. One
+of these possibilities is scorching—the use of damaging
+                                   —the
+neurofeedback algorithms to harm the victim's mind.
+   In order to make a scorching attack, the cyberbrain
+intruder must deploy a scorch program. To utilize a
+scorch program, the intruder must beat the defending
+Ego in an Opposed Infosec Test. The –30 modifier for
+cyberbrain hacking applies to the attacker.
+   Several types of scorch programs exist, with dif-
+ferent effects: cauterizers (damage), bedlams (stress),
+%%% 264.txt %%%
+spasms (pain), nightmares (fear), and shutters (sensory
+deprivation). These are described on p. 332 of Gear.
+
+SHUTDOWN
+If a cyberbrain is shut down (p. 257), the morph im-
+mediately ceases activity, perhaps collapsing or rolling
+to a stop. Pods will appear to be in a coma. The ego,
+however, will be rebooted along with the cyberbrain.
+
+TERMINATE CORTICAL STACK FEED
+The cyberbrain feeds backup data to the cortical stack.
+This is a one-way connection, so the cortical stack may
+not be hacked, but the transfer of data may be cut off.
+This termination action requires an Opposed Infosec
+Test between the hacker (with the –30 modifier) and
+the defender. The ego's backup will not be updated for
+as long as the connection remains off.
+
+
+
+RADIO JAMMING
+Radio jamming is a method of transmitting radio
+signals that deliberate interfere with other radio
+signals in order to disrupt communications. In the
+highly-networked world of Eclipse Phase, intentional
+jamming is often illegal, not to mention rude.
+  Radio jamming does not require any special equip-
+ment other than a standard wireless device, such as
+an ecto or mesh inserts. Jamming can be selective
+or universal. Selective jamming targets a particular
+device or set of devices. In order to selectively jam,
+the character must have scanned the target device(s)
+(p. 251). Universal devices target all radio-equipped
+devices indiscriminately.
+  Jamming simply requires a Complex Action and an
+Interfacing Test. If successful, affected devices within
+range have their radio communications disrupted—
+they are cut off from the mesh and may not commu-
+nicate wirelessly. Wired devices are unaffected.
+   Devices equipped by AIs will automatically attempt
+to overcome jamming, which requires a Complex
+Action (transhuman users may also do the same). In
+this case, a Variable Opposed Test is made between
+the jammer and defender. If the jammer wins, all com-
+munications are blocked; if the defender wins, they
+are unaffected. If both parties succeed, the defender's
+communications are impacted but not completely cut
+off. The gamemaster decides how much information
+the defender can get through, and how this situation
+affects mesh use.
+
+JAMMING RADAR
+Jamming can also be used to interfere with radar. In
+this case, if the jammer makes an Interface Test. If
+successful, the radar suffers interference, imposing
+a –30 modifier on all sensor-related tests. The entity
+operating the radar may attempt to overcome this
+interference by beating the jammer in an Opposed
+Interface Test.
+SIMULSPACES
+Simulspaces are virtual reality environments where
+the resolution advances beyond realistic high defini-
+tion and into the hyper-real. The environments they
+create are comprehensive and authentic illusions, from
+aspects like lighting, day or lunar cycles, and weather
+down to minute details and sensations. Jacking into
+a simulspace is much like crossing over into a alter-
+nate world or reality, which is why simulspaces have
+become increasingly popular in entertainment.
+   While simulspaces usually cannot harm characters
+immersed in them as the sensory algorithms are not
+intended to be offensive programs or routines, experi-
+ences in simulspaces can have a strong psychological
+impact on an ego, as the simulation is as close to
+reality as you can get. A character who is “physically”
+tortured within a simulspace will not be physically
+harmed, but the mental stress of the experience might
+still be sufficient to cause permanent traumas.
+
+SIMULMORPHS
+Characters access simulspace using an avatar-like per-
+sona called a simulmorph. This simulmorph is created by
+the simulspace, based on the domain rules of the simu-
+lation and certain characteristics of the morph or ego
+accessing the simulation. Depending on the simulation,
+this simulmorph may be customizable to varying degrees.
+   While interacting with the simulation, treat simul-
+morphs as basic infomorphs for all rules purposes,
+even if the egos are still possessing another morph
+body in reality.
+   When accessing a simulspace, muses are usually not
+transferred into the simulation, though they can po-
+tentially come along if domain rules permit it. In this
+case, muses are treated as separate characters within
+the simulspace with their own simulmorph body.
+   Depending on the role a simulspace is intended to play
+in the story, the gamemaster may want to invent “physi-
+cal stats” for the simulmorph bodies, especially if the
+characters are likely to spend a lot of time in the simula-
+tion. These statistics can literally be made up—it is a vir-
+tual reality after all, and anything goes. Alternately, the
+gamemaster can simply wing it and invent any necessary
+statistics on the fly as the need for them comes up.
+
+IMMERSION
+When a character immerses themselves in a simulspace,
+they “become” the simulmorph. The character's physi-
+cal body, typically secluded and protected in a vat or
+couch, slumps inertly. While immersed, they suffer –60
+on all Perception Tests or attempts to take action with
+their physical morph. Characters can enter and leave
+the simulspace as will, but toggling in or out takes a
+Complex Action.
+  If the simulspace crashes or the character is other-
+wise dumped from it, they immediately resume con-
+trol of their own morph as normal. VR dumpshock is
+extremely jarring, and the character suffers 1d10 ÷ 2
+mental stress.
+%%% 265.txt %%%
+EXTERNAL MESH INTERACTION
+A character accessing a simulspace may still interact
+with the mesh (and through it, the outside world)
+assuming the domain rules allow for it. Any outside
+interactions are subject to time dilation issues, how-
+ever. For example, in a simulspace running faster
+than real time, holding a chat with someone in out-
+side meatspace is excruciatingly slow, as real-world
+seconds translate into minutes in VR. If a character
+wishes to directly access other mesh nodes, they must
+toggle or log out of the simulspace.
+
+SIMULSPACE RULES
+Since a simulspace is an alternate world whose realism
+matches reality, characters use their physical skills and
+aptitudes as if they were acting in the real world with
+few exceptions:
+
+ - Though intrusion and hacking can be represented
+   as another layer of the simulation, there is no
+   actual hacking within the simulspace (see Hack-
+   ing Simulspaces).
+ - Asyncs cannot use their psi abilities in simulspace,
+   though such abilities can be simulated.
+ - Any “physical” damage taken in the simulspace is
+   treated as “virtual” damage. While virtual injuries
+   and wounds use the same mechanics, characters
+   that die in a simulspace are usually simply ejected
+   from the simulation. In some cases “dead” char-
+   acters are brought into a white room and can
+   re-enter or just watch the simulation, depending
+   on the domain rules.
+ - Mental stress or trauma inflicted during a simu-
+   lation carries over to the ego as real Lucidity
+   damage. At the gamemaster's discretion, some
+   mental stress may be reduced if the character is
+   aware that they are in a simulation.
+
+DOMAIN RULES
+Anything goes in a simulspace, as dictated by
+the domain rules. A simulspace may range from
+approximating reality very closely to differing dras-
+tically. Gravity might fluctuate, the visual light spec-
+trum might not exist, characters might heal virtual
+damage effortlessly, simulmorphs may be capable of
+transmogrifying into other creatures, everything might
+be underwater—the possibilities are endless, limited
+only by imagination. In game terms, this allows the
+gamemaster to make up rules on the fly.
+
+CHEATING
+As with any good game, simulspaces provide ways
+to cheat. Cheats are either built into the simulspace
+software or (externally) programmed in by a hacker.
+Cheats allow for a character to break the domain rules
+in some way. This may be a special power, a way to
+alter some environmental factor (like flying), altering
+the time dilation, some sort of power-up ability, a
+way to get info on other simulmorphs, or a short-cut
+through part of the simulation. In game terms, cheats
+might provide bonus modifiers to certain skill or stat
+tests made by a simulmorph. Cheating is usually for-
+bidden. Players who cheat in a simulspace game and
+who get caught may face eviction from the simulspace.
+
+HACKING SIMULSPACES
+Since simulspaces are complex virtual environments
+and often run on time dilation, hackers cannot hack
+them in a normal manner when they participate in the
+simulation. There are ways to affect and influence the
+simulation from within, but the degree of subversion
+that is achievable is limited. For this reason, hackers
+rarely enter into VR to hack. Hacking into the exter-
+nal system running a simulspace is just like breaking
+into any other system. Use all of the standard rules for
+intrusion and subversion.
+
+MEDDLING FROM THE INSIDE
+Within a simulspace, a hacker's only choice for inter-
+acting with the VR controls is through the standard
+interface that any simulmorph can pull up. Typically
+used for standard user features like adjusting your
+simulmorph or chatting with or checking the status
+%%% 266.txt %%%
+                              HACKING SIMULS
+MODIFIER TASK
+   –0     Analyze simulation parameters, view domain rules, shap
+  –10     Change probability of test outcomes, become invisible (
+          Interfere with simulation (e.g. make it rain, generate ear
+  –20
+          simulmorphs
+  –30     Go into god mode, command simulated characters, take
+
+
+ of other users, a clever hacker might find some ways
+ to subvert the system. Such options are usually lim-
+ ited, however, as a number of system controls and
+ processes cannot be accessed and manipulated from
+ the inside.
+    Most of the hacker's options are going to involve
+ meddling with the simulation and its specific domain
+ rules or possibly gaining access to cheats. To make a
+ change requires a successful Interface Test. Ultimately
+ the gamemaster decides what the hacker can and
+ cannot get away with, based on the limitations of that
+ particular simulspace.
+    Most simulspaces are monitored to prevent cheat-
+ ing and abuse, though the monitors are typically pre-
+ occupied with maintaining the simulspace as a whole,
+ dealing with other users, etc. At the gamemaster's
+ discretion, such a monitor might get to make an Inter-
+ face Test (possibly with a modifier for distraction) to
+ notice the hacker's efforts.
+
+
+
+ AIS AND MUSES
+AIs are sentient but specialized programs. Like other
+software, they must be run on a computerized system.
+Most AIs are run on bots, vehicles, and other com-
+puterized devices where they can assist transhuman
+users or operate the machine themselves. They are also
+commonly used to actively monitor computer systems
+against intrusion attempts. Muses are AIs that special-
+ize as personal companions, always at a character's
+virtual side every since they were a child.
+   Sample AIs and muses can be found on p. 331 of Gear.
+
+ AI LIMITATIONS
+AIs feature a number of built-in restrictions and
+limitations. To start with, they can be loaded in the
+cyberbrains of pods and synthmorphs, but they may
+not be downloaded into biomorph brains. As software,
+they use the same rules as other software and may be
+shut down, restarted, copied, erased, stored as inert
+data, infected with virii, and reprogrammed. Due to
+their size and complexity, only one AI (or infomorph)
+may be run on a personal computer at a time (see
+Computer Capabilities, p. 247), and they may not run
+on peripheral devices.
+  While they possess cognition and intelligence, they
+are incapable of self-improvement and cannot expand
+their programming and skills on their own. Although
+ACE FROM WITHIN
+
+pearance of simulmorph, switch simulmorph character or morph type
+-game”) to others
+akes), generate items, ignore domain rules, kill or lockout other
+
+r the simulation
+
+
+   they are not able to learn they do possess memory
+   storage that grants them the ability to remember and
+   a limited form of adaptation. AIs do not earn Rez
+   Points, nor do they have Moxie.
+     AIs have aptitudes no greater than 20 but are
+   incapable of defaulting. If they don't possess a skill,
+   they don't know how to do it. (At the gamemaster's
+   discretion, they may default to field skills or similar
+   skills as noted on p. 173 with a –10 to –30 modifier).
+   They can use skills like any character in Eclipse Phase,
+   however they may not possess any Active skill at a
+   rating higher than 40 or Knowledge skill higher than
+   90—the maximum amount of expertise that their skill
+   software allows.
+     While AIs are programmed with personality tem-
+   plates and empathy, they are generally less emotive
+   and difficult to read (apply a –30 modifier to Kinesics
+   Test made against them, when in pod bodies). When
+   combined with non-expressive synthetic morphs, they
+   are even more difficult (–60 modifier). Some AIs lack
+   emotive capabilities altogether and are impossible to
+   read with Kinesics skill.
+     AIs do have a Lucidity and Trauma Threshold stat,
+   and are capable of suffering mental stress and traumas.
+
+   COMMANDING AIS
+   AIs and muses are programmed to accept commands
+   from authorized users. In some circumstances, they
+   may also be programmed to follow the law or some
+   ethical code. Programming is never perfect, however,
+   and AIs can be quite clever in how they interpret
+   commands and act on them. In most cases, an AI will
+   rarely refuse to follow a request or obey a command.
+   Given that they also usually have a duty to protect the
+   person commanding them, the AI may be reluctant to
+   follow commands that could be construed as danger-
+   ous or having a negative impact on the user. Under
+   certain circumstances, preprogrammed imperatives
+   can force an AI to ignore or disobey their owner's
+   commands (gamemaster's discretion).
+
+
+
+   AGIS AND INFOMORPHS
+   The term “infomorph” is used to refer to any ego in
+   digital body, whether that be an AGI or the digital
+   emulation of a biological mind (including backups
+   and forks). The following rules apply to infomorph
+   and AGI characters.
+%%% 267.txt %%%
+ROLEPLAYING MUSES
+Muses should not be viewed as a mere tool for
+getting extra skills, but as an opportunity to
+enhance roleplaying. Though typical muse AIs
+are not complete intelligences (though they can
+be, see Infomorphs as Muses), their personality
+matrix is often quite sophisticated and they are
+very good at adapting to their user's personality
+quirks. On the other hand, they share the same
+Real World Naiveté (p. 151) as AGI characters
+when it comes to understanding all the facets
+of transhuman behavior, social interaction,
+body language, or emotion. Their personalities
+are more non-human, abstract, alien, and less
+passionate than transhuman life forms, often
+leading to conceptual misunderstandings and
+miscommunications. Likewise, their creative
+capacities are limited, instead bolstered by an
+ability to calculate odds, run simulations and
+evaluate outcomes, and make predictions based
+on previous experiences.
+   Depending on the user's stance towards sen-
+tient programs, muses can be viewed as intel-
+ligent toys, followers, servants, slaves, friends,
+or pets, which should somehow be reflected in
+game play. Most transhumans have also acquired
+a tendency to bond with a muse mentally due to
+its omnipresence and devotion to the user (like
+bonding to a child or puppy that then grows to
+be an adult). Therefore the subversion or even
+destruction of a muse personality is sometimes
+even equated with rape or murder.              ■
+
+
+
+
+  SOFTWARE MINDS
+ At their core, infomorphs are just programs and so
+ they are treated like other software in terms of rules.
+ They must be run on a specific personal computer or
+ server (see Computer Capabilities, p. 247). If that
+ device is shut down, the infomorph also shuts down
+ into a state of unconsciousness, restarting along with
+ the device (infomorphs may also shut themselves
+ down, though it is rare that they do so). If the device is
+ destroyed, the infomorph is killed along with it (unless
+ their data can somehow be extracted from any surviv-
+ ing components, perhaps resulting in a vapor, p. 274).
+ Infomorphs may copy themselves, though in some
+ places this is illegal and in most places is frowned
+ upon as it raises numerous ethical and legal questions.
+ For this reason many infomorphs that copy and trans-
+ fer themself to run on a new device will thoroughly
+ erase themselves off the old one.
+   As digital beings, infomorphs have no physical
+ mind, but it is a simple matter for them to possess
+ an uninhabited synthmorph, taking up residence in
+ the cyberbrain (see Resleeving Synthmorphs, p. 271).
+  INFOMORPHS AS
+  MUSES
+  Instead of relying on underdeveloped muses for
+  aid and companionship, characters may prefer to
+  have a full-fledged digital intelligence at their
+  side, whether that be an AGI, a backed-up bio-
+  logical ego, or fork of the character's own per-
+  sonality. Alternately, a character with a ghostrider
+  module (p. 307) could have both, carrying a muse
+  in their mesh inserts and an infomorph in the
+  ghostrider module.
+    This possibility is very useful for infomorph
+  player characters, as they can ride along in some-
+  one's head and participate in team affairs with-
+  out needing a morph of their own.                 ■
+
+
+
+They may also download into biomorph bodies ac-
+cording to standard resleeving rules (p. 271). Even
+when disembodied, they may interact with the
+physical world via the mesh, viewing through sensors,
+streaming XP feeds, communicating with characters,
+commanding slaved devices, and teleoperating/jam-
+ming drones.
+   Infomorphs have a Speed of 3, reflecting their digi-
+tal nature and their ability to act at electronic speeds.
+If an infomorph sleeves into a body, however, it takes
+on the Speed of that morph.
+
+AGI CHARACTERS
+Though AGIs were not born in a biological body, their
+programming encompasses the full spectrum of human
+personality, outlook, emotions, and mental states. AGIs
+are in fact raised in a manner similar to human chil-
+dren, so that they are socialized much like humans are.
+Nevertheless, on a fundamental level they are non-hu-
+mans programmed to act human. There are inevitably
+points where the programming does not mask or alter
+the fact that AGIs often possess or develop personality
+traits and idiosyncrasies that are quite different from
+human norms and often outright alien.
+   Unlike standard crippled AIs, AGIs are capable of
+full-fledged creativity, learning, and self-improvement
+(at a slow but steady pace equivalent to humans). Just
+like other characters, they earn Rez points and may
+improve their skills and capabilities. AGIs suffer none
+of the skill limitations placed on weak AIs, using skills
+just like any other character.
+   On an emotional level, AGIs run emotional subrou-
+tines that are comparable to biological human emo-
+tions. AGIs are, in fact, programmed to have empathy
+and share an interest in human affairs and prosperity,
+and to place significant relevance on life of all kinds.
+In game terms, AGIs emote like humans (and so Kine-
+sics may be used against them) and are vulnerable to
+emotionally manipulative effects, fear, etc.

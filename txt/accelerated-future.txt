@@ -1,0 +1,2698 @@
+%%% 270.txt %%%
+■GEAR■GEAR■GEAR■GEAR■GEAR■G
+
+
+
+ERATED FUTURE
+ The future setting of Eclipse Phase introduces a
+ number of technological elements that have a strong
+ impact on transhuman society. These include backups
+ and uploading, resleeving, egocasting, forking, nano-
+ fabrication, reputation systems, space habitats, and
+ space travel, among others.
+
+
+
+ BACKUPS AND UPLOADING
+ The transhuman mind is no longer a prisoner of the
+ biological hardware on which it originates. Through
+ various mechanisms, biological brains may be digitally
+ emulated, allowing people to make a backup of their
+ minds, including their entire personality, memories,
+ and skills—a process known as uploading.
+   The primary use of backups is to ensure the person's
+ ego can be retrieved in case of death, in which case
+ they may be resleeved (p. 271). For this reason, almost
+ everyone in the solar system is equipped with a corti-
+ cal stack (p. 300). Backups may also be safely archived
+ in secure storage (p. 269) or used to create infomorphs
+ (p. 264). A person may also egocast themselves across
+ the solar system as a form of travel (p. 276).
+
+ CORTICAL STACK BACKUPS
+ Cortical stack implants deploy a network of nano-
+ bots throughout the brain that take a snapshot of
+ the mind's neural state, storing the data as a backup
+ within the cortical stack. The average transhuman's
+ cortical stack backs up their ego 86,400 times per day.
+ Only the most recent backup is kept within the stack;
+ older ones are overwritten. Pods and synthmorphs
+ also can be equipped with cortical stacks (though
+ AI-piloted bots often lack this feature), though these
+ versions maintain an updated copy of the ego running
+ in the morph's cyberbrain.
+    In the case of death, accidental or otherwise, a cor-
+ tical stack can be retrieved from a corpse and used to
+ recover the character, either as an infomorph or by
+ resleeving them in a new morph. Cortical stacks are
+ diamond-hardened and protected, so they may often
+ be retrieved even if the corpse is badly mangled or
+ damaged. If the corpse cannot be recovered or the
+ cortical stack is destroyed, the backup is lost.
+    High rollers, well-equipped brinkers, and others
+ in dangerous professions often opt for an emergency
+ farcaster accessory (p. 306) that periodically (usually
+ every 48 hours, but varying according to contract)
+ transmits a backup from the cortical stack to a remote
+ storage facility. This option is quite expensive, how-
+ ever, and so is generally only afforded by the wealthy.
+
+ RETRIEVING A CORTICAL STACK
+ Most cortical stacks are carefully excised from a
+ corpse with surgery. In certain circumstances, however,
+AR■GEAR■GEAR■GEAR■GEAR■GEAR■
+                      ■GEAR■
+                       GEAR■
+
+                                                                10
+
+
+  a character may need to extract a cortical stack in the
+  field, whether because transporting the corpse is im-
+  practical or because the dead person is an enemy and
+  they either don't want them knowing who killed them
+  or they want to interrogate them with psychosurgery
+  in a simulspace.
+     The process of cutting out a cortical stack is called
+ “popping,” as a skilled extractor can usually get the
+  smooth-shelled implant to pop right out by making
+  an incision in the correct place and applying pressure.
+  One does need to be careful that the tiny, blood-slick
+  stack doesn't slip away once popped.
+     Popping can be done with a sharp knife and elbow
+  grease, though it is grisly. Popping a stack is a Task
+ Action that requires a Medicine: [any appropriate
+  field] Test with a timeframe of 1 minute and a modi-
+  fier of +20. Morphs with stacks in non-standard loca-
+  tions or with anatomical shielding (carapace plates,
+  etc.) around the stack may incur penalties to this test
+  at the gamemaster's discretion. Of course, if you don't
+  have the time for a precise extraction, you can always
+  just cut the entire head off and take it with you.
+     Once a cortical stack is retrieved, it may be loaded
+  into an ego bridge (p. 328) and used to bring the ego
+  back, either as an infomorph or by resleeving.
+     Living Subjects: Cortical stacks may be excised
+  from living people, but the process is usually fatal (or
+  at least paralyzing) as it involves cutting through the
+  spinal column. If the target is not unconscious or oth-
+  erwise incapacitated, they must first be immobilized
+  in melee combat (see Subdual, p. 204). Cutting out
+  the stack is handled like a Medicine Task Action as
+  above, but this process inflicts 3d10 + 10 damage on
+  the target. If the test fails, they still inflict 1d10 + 10
+  damage to the target. If the person removing the stack
+ wants to leave the target alive or harm them as little
+  as possible, they suffer a –20 modifier on the test, but
+  may reduce the damage by 1d10 per 10 full points of
+  MoS. Living through the process of having your stack
+  removed is traumatic; anyone who does so suffers
+ 1d10 mental stress.
+
+  DESTROYING A CORTICAL STACK
+  Cortical stacks have an Armor of 20 and a Durability
+  of 20 for anyone attempting to destroy them.
+
+  UPLOADING
+  Uploading a backup into secure storage is usually
+  handled with a brain scan at the storage facility's clinic
+  using a bread box-sized unit called an ego bridge (p.
+  328). When activated, the ego bridge's sensor array
+  twists open like a morning glory blossom, revealing an
+  enclosure with a neck rest that automatically adjusts
+  itself to morphs with oddly-sized or -shaped heads.
+  The neck rest deploys millions of specialized nanobots
+%%% 271.txt %%%
+into the brain and central nervous system. The petals
+are full of sensors that image the brain using a combi-
+nation of MRI, sonogram, and positional information
+broadcast by the nanobot swarm in the morph's brain.
+The ego bridge then builds a digital copy of the per-
+son's brain, which is stored away in the service's highly
+secure, off-the-mesh, hardwired data vaults.
+   In the case of pods, the ego bridge scans the biologi-
+cal brain bits and also accesses the cyberbrain to copy
+the parts of the ego residing there. For synthmorphs,
+who have no biological brain, the process is much
+simpler, as it simply requires accessing and making a
+copy of their cyberbrain.
+   In a standard clinic with an undamaged morph, up-
+loading takes only 10 minutes, 5 with a pod. In other
+situations, however, the process may take longer if the
+gamemaster so decides. Uploading from a synthmorph
+or extracted cortical stack is instantaneous. The ego
+bridge largely operates itself. While oversight by a
+medical specialist is a good idea, no test is necessary.
+   If an uploading character does not plan to return
+to their morph, it is usually put on ice until someone
+else resleeves into it. If a new resleeve is not ready
+and the uploading character doesn't want to leave a
+potential copy of themselves behind, they can have
+the morph's mind wiped by the nanobots as part of
+the uploading process.
+
+UPLOADING-RESLEEVING CONTINUITY
+In ideal circumstances, a person who is intentionally
+resleeving (p. 271) can arrange for the uploading and
+resleeving process to occur with any noticeable loss of
+continuity. Though the experience of switching from
+one morph to another is still a bit jarring, the transi-
+tion itself can be made into a seamless process, with
+no gaps in awareness or memory, which helps reduce
+associated mental stress.
+   In this case, during the process of uploading, the
+ego bridge is also connected to another ego bridge
+and the new sleeve. This connection can even be made
+wirelessly or by farcaster link (with a maximum dis-
+tance of 10,000 kilometers).
+   As the mind is uploaded, the ego bridge builds a
+virtual brain by copying the morph's brain bit by bit,
+using the data gained from the brain scan. At the same
+time, this data is slowly copied to the new sleeve as
+nanobots rewire the sleeve's brain structure (a much
+slower process). As the transfer occurs, the nanobots
+in the brain sever individual neural connections and
+re-route them to their duplicates in the virtual brain,
+and then eventually to the new brain. Effectively, the
+character's ego is running partially on the meat brain
+and partially on the virtual copy. By the time the nano-
+bots sever the last of the neural connections in the
+old brain, the ego is running completely on the virtual
+brain and the new sleeve's brain. Once the resleeving
+is completed, the virtual brain is shut down.
+   In terms of perceptions, the character, who is awake
+during this process, experiences a very gradual shift
+from one morph to the other. As the process takes
+hours, however (or even longer if done via farcaster),
+the subject usually entertains themselves with some
+AR media, VR, or even XP to pass the time.
+
+UPLOADING AFTER DEATH
+It is possible to upload the mind of a person who has
+recently died as long as the nanobots have time to scan
+the brain before cell deterioration kicks in too heavily,
+which takes approximately 2 hours. It is possible to
+sustain a corpse for longer by placing it in a healing
+vat (p. 326) for nanostasis. Post-death uploads may
+suffer integrity damage; see Backup Complications, p.
+270.
+   Cyberbrains may also be retrieved from a destroyed
+synthmorph and reactivated, assuming they are not
+damaged too heavily (gamemaster discretion).
+
+DESTRUCTIVE UPLOADING
+Though rare, some people engage in a process called
+destructive uploading, where the biological brain is liter-
+ally sliced apart and scanned piece by piece. Considered
+abhorrent and wasteful by most transhumans, “brain-
+peeling” is practiced by some bioconservative factions
+who view it as the only “pure” method of uploading
+or the only real way to transfer the “soul.” Such people
+typically refuse to resleeve, living out the rest of their
+lives as infomorphs, quite often in dedicated simulspaces
+that are treated as a sort of virtual afterlife.
+
+BACKUP INSURANCE
+Almost everyone, with the exception of neo-primitivists
+and very young children, has a cortical stack. In the
+event of death, however, a cortical stack alone will not
+ensure resurrection unless you have acquired backup
+insurance (p. 330) to cover the costs of your resleev-
+ing. Going without backup insurance for any length of
+time is taking a severe risk. Some jurisdictions (such
+as the Titanian Commonwealth) have a practice of
+bringing everyone back, even if only to an infomorph
+state, or at least filing the most recent backup away
+in dead storage just in case someone decides to pay
+to resurrect them later. Other authorities will simply
+destroy the stack or, worse, sell it on the black market
+to a soul-trading syndicate such as Nine Lives.
+  Backup insurance typically includes a subscription
+to an uploading facility, usually requiring a visit every
+6 months, to ensure that backup is held in safe stor-
+age in case of cortical stack loss. People with risky
+jobs (construction bot supervisor, hypercorp exo-
+planet staff, girl who fights vicious giant eels for rich
+jaded audiences, etc.) may back up once a week, or
+even daily. In the event of a verified death where the
+cortical stack could not be retrieved, the most recent
+backup is used to resleeve the person.
+  At the basic level, backup insurance will bring the
+character back as an infomorph, at which point they
+can access their credit and purchase a new morph.
+More expensive versions will automatically resleeve
+%%% 272.txt %%%
+you in the pre-purchased morph of your choice. The
+exceedingly rich will often have customized clones
+(often of their original body) waiting on ice for them.
+  Backup insurance often involves a missing person
+clause, which states that a person will be brought
+back if they have not checked in for X amount of time
+(a calendar function automatically handled by your
+muse) and cannot be located.
+   It is worth noting that some criminal syndicates
+also offer backup insurance at a much reduced rate.
+The likelihood that copies of your backup are being
+used for illicit purposes, however, is quite high. For
+some people, however, what happens to a copy of
+themselves is of no concern.
+
+BACKUP INSURANCE LIMITATIONS
+Backup insurance is not always perfect. Though in-
+surance providers are required to make a reasonable
+effort to retrieve your cortical stack, for many hyper-
+corps this is a simple cost-benefit analysis that often
+will not work in the character's favor. If you died in a
+dangerous area such as the Zone on Mars, in a remote
+area such as the Kuiper Belt, or are simply difficult
+to track down (pushed out an airlock somewhere),
+odds are against your cortical stack being retrieved—
+instead you will be re-instanced from a backup.
+   Jurisdiction can also play an important role. The
+insurance offered by many inner system providers is
+automatically nullified if you travel to an anarchist
+habitat, gatecrash, break the law, or engage in certain
+life-threatening activities like suicide sports or scaveng-
+ing in TITAN-infected ruins. At the least, they will
+refuse to retrieve your stack in these circumstances.
+Likewise, if you struck a backup insurance deal with
+a medical collective from an autonomist habitat and
+then go and die on a hypercorp station, the hypercorp
+is very likely to refuse to recognize the authority of a
+bunch of anarchists and won't hand your stack over.
+   Even an archived backup and a missing person
+clause is no guarantee. A determined enemy could
+capture you, pry the backup insurance access codes
+from your muse, keep you on ice or quietly kill you,
+and then regularly “check in” on your behalf using
+the access codes so that the insurance provider never
+realizes you are dead or missing. Though this requires
+quite a bit of effort, it is often less difficult than deal-
+ing with an immortal opponent who keeps coming
+back no matter how often you kill them.
+  Other dangers also exist. An entire habitat may be
+destroyed, taking you, your backups, and your insur-
+ance provider's records with it. A resourceful enemy
+might penetrate a provider's security and delete your
+backups, or simply bribe the right people to make
+sure they get “accidentally” corrupted. Given these
+possibilities, the paranoid often make sure to get
+multiple redundant backup policies, assuming they
+can afford it.
+
+BACKUP COMPLICATIONS
+In most cases, backing up/uploading is risk free unless
+someone tampers with the equipment. If the character
+suffered brain or neurological damage, the backup is
+transferred via farcasting, or the upload is made from
+a dead character, then the backup may be damaged
+due to missing neural information. In any of these
+instances, make a LUC Test for the character. If the
+test fails, they suffer 1 point of mental stress per 10
+full points of MoF. Note that this stress (and pos-
+sible) trauma applies to the backup, not the original
+character. If the backup is used to re-instantiate the
+character, however, then the stress is applied.
+
+
+
+RESLEEVING
+Resleeving (also called remorphing) is the process
+of giving a new body to an ego. Changing bodies
+is a normal part of life for hundreds of millions of
+transhumans, and it is an even more frequent occur-
+rence for people in certain professions. Characters
+involved in specialized work may resleeve as often as
+once a month. Those who travel frequently may do so
+even more often. Also, given the number of infugees
+%%% 273.txt %%%
+  who died during the Fall but have now acquired a
+  new morph, the vast majority of transhumanity has
+  resleeved at least once. As such, most transhumans are
+  accustomed to resleeving.
+    Adjusting to a new body takes time and a bit of
+  effort (see Integration, p. 272). Resleeving is also diffi-
+  cult psychologically, as reflected by continuity (p. 272)
+  and alienation (p. 272).
+    Once an ego fully inhabits a new morph, the new
+  morph's cortical stack needs ten minutes to amass a
+  complete backup of the ego.
+
+  RESLEEVING BIOMORPHS AND PODS
+  Resleeving takes about an hour in a properly equipped
+  clinic. In essence, the process works like uploading in
+  reverse. The new sleeve is hooked up to an ego bridge
+  which infiltrates the brain with nanobots that physi-
+  cally restructure the brain's neural structure and con-
+  nections according to the map provided by the backup.
+  Sleeving takes six times as long as uploading because
+  the nanobot swarm working as a wet printer in the
+  template brain needs to duplicate the entire physical
+  structure of the ego's neural network. For resleeving, a
+ “wet” ego bridge is used, meaning that the sleeve and
+  ego bridge are submerged in a vat filled with nanogel.
+     The resleeving process for pods takes only half an hour,
+  as pods brains are half biological and half cyberbrain.
+
+  RESLEEVING SYNTHMORPHS
+  Resleeving into the cyberbrain of a synthmorph is much
+  easier and quicker, being a matter of copying the backup
+  into the cyberbrain (an instantaneous affair) and then
+  running the backup in its virtual brain state (1 Action
+  Turn). The drawback to synthmorphs is that they are
+  more difficult to acclimate to (see Integration, p. 272),
+
+
+
+
+RESLEEVING AND THE GA
+The gamemaster has a fine amount of control over
+characters may be supplied with new morphs by Firew
+currently working. In this case, the gamemaster can si
+plete control over enhancements, traits, etc. While mo
+presents an opportunity for the gamemaster to throw
+some new challenges to overcome. Gamemasters are
+something they can work with without necessarily giv
+   In other cases, the availability of desired morphs
+outpost in the wilds of Mars is unlikely to have a w
+synthmorphs may be all they have. Similarly, large hab
+may be a waiting list for top-of-the-line sylphs or rem
+morphs are going to be subject to local legalities, so g
+Characters could always turn to black market morph p
+  What this means is that gamemasters should never
+that is unreasonable or potentially disruptive to the ga
+want once in a while, it also makes for more interest
+a little different than what they were hoping for or t
+physical addiction. For extra fun, leave the character u
+until they reveal themselves. As always, the goal is to h
+   they are vulnerable to cyberbrain hacking (p. 261), and
+   synthmorphs are viewed as low class in some cultures.
+
+   EVACUATING A CYBERBRAIN
+   Characters inhabiting a synthmorph cyberbrain may
+   voluntarily choose to evacuate by copying themselves
+   as an infomorph onto another device. This takes 1 full
+   Action Turn. See Infomorph Resleeving, p. 273.
+
+    RESLEEVING COSTS
+   The costs involved for the resleeving process itself are
+   generally subsumed in the costs of the backup insur-
+   ance and/or the new sleeve itself. Costs for individual
+   morphs are noted in the descriptions starting on p.
+   139. See Morph Brokerage (p. 276) for rules on find-
+   ing and acquiring morphs.
+
+    INTEGRATION
+    Getting used to a new body typically takes some time.
+   The character must become acclimated to the changes
+    in height, weight, sex, and capabilities, which often
+    requires unlearning ways of doing things that worked
+    fine for their previous form. Resleeving in a synthetic
+    morph or an uplift is also quite confusing at first,
+    given the drastically different morphologies, change in
+    limb structure (and sometimes amount of limbs), and
+    so on. Luckily, transhuman minds are adaptive things,
+    and this process is aided by the application of mental
+   “patches” during the resleeving process that give the
+    character a bit of a boost for using their new body.
+       An ego in a new morph makes an Integration Test
+    upon taking control of the body, rolling SOM x 3 (morph
+    bonuses do not apply) and applying modifiers from the
+    Integration and Alienation Modifiers table. The result of
+    the test is explained on the Integration Test table, p. 272.
+
+
+
+
+MEMASTER
+ at a character can obtain when resleeving. The
+  or whatever employer/patron for whom they are
+  y assign whatever morphs they see fit—with com-
+hs should be tailored for the mission at hand, this
+ e characters some new toys to play with and also
+couraged to mix it up, have fun, and give players
+  them everything they want.
+ y be limited by the resleeving location. A small
+  selection of morphs—in fact, a few rusters and
+ ts have a high demand for good morphs, so there
+   morphs, for example. In the same vein, available
+ ng that reaper morph may be out of the question.
+ iders, but these come with their own risks.
+afraid to say no if a character is pursuing a morph
+  While it's good form to give the players what they
+ roleplaying to saddle them with morphs that are
+  come with some interesting challenges, such as a
+ware of a morph's negative traits or secret implants
+   fun, but variety often helps with that.        ■
+%%% 274.txt %%%
+    INTEGRATION TEST
+            EFFECT
+            Character is unable to acclimate to the new morph—
+            something is just not right. Character suffers a –30 modi-
+            fier to all physical actions until resleeved.
+            Character has serious trouble acclimating to the new
+0+)         morph. They suffer a –10 modifier to all actions for 2 days
+            plus 1 day per 10 full points of MoF.
+            Character has some trouble acclimating to new morph.
+            They suffer a –10 modifier to all physical actions for 2
+            days plus 1 day per 10 full points of MoF.
+            Standard acclimation period. The character suffers a –10
+            modifier to all physical actions for 1 day.
+            No ill effects. Character acclimates to new morph in no
+ S 30+)
+            more than a few minutes.
+            Lookin' good! This morph is an exceptionally good fit for
+            the character. No ill effects; gain 1 Moxie point for use in
+            that game session only.
+
+
+
+ION AND ALIENATION MODIFIERS
+                                                             EFFECT
+s used this exact morph extensively in the past                +30
+                                                               +20
+ orph type (what they were raised with)                        +20
+el 2)                                                          +20
+el 1)                                                          +10
+ sly used this type of morph                                   +10
+                                                               –10
+eeving into a physical body                                    –10
+resleeving in a non-uplift (of their type) body                –10
+                                                               –10
+ morph)                                                        –10
+ified                                                           –10
+ait (Level 1)                                                  –10
+ait (Level 2)                                                  –20
+apply to AGIs) (Alienation Test only)                          –20
+only)                                                          –20
+ait (Level 3)                                                  –30
+orph, neo-avian, novacrab, swarmanoid, etc.)                   –30
+
+
+
+
+        ALIENATION TEST
+                                 EFFECT
+Extreme Dysmorphia. The character doesn't like their new sleeve at all
+and suffers 2 stress points per 10 full points of MoF.
+Character is uneasy about the new morph and suffers 1 stress point
+per 10 full points of MoF.
+Character adapts to their new look well. No ill effects.
+Best. Morph. Ever. The new morph jives perfectly with the character's
+ ense of self, and even enhances it somewhat. The character actually
+heals 1d10 ÷ 2 (round up) stress points.
+ALIENATION
+After loss of continuity, the other major factor impact-
+ing resleeving characters is alienation. Once the ego
+has its new sleeve under control, it's time to look in
+the mirror. The alienation test reflects the experience of
+coming to terms with a new face, skin, and brain. For
+example, transferring to a radically different morph
+(such as a swarmanoid) can be difficult to grasp.
+Uplifts often have difficulty getting acquainted with
+the differing hormonal urges of a human biomorph
+and vice versa. While the character's ego is as it was
+in their last sleeve, the brains and neurochemistry of
+many morphs may alter aptitudes like WIL or COG.
+The effects of this can be frustrating or disorienting.
+  Every character makes an Alienation Test to reflect
+how mentally stressful it is to get a grip on their new
+body, rolling INT x 3 and apply modifiers from the
+Integration and Alienation Modifiers table. Consult
+the Alienation Test table to determine the effects.
+
+CONTINUITY TEST
+Perhaps the biggest shock that strikes most resleeving
+characters is the loss of continuity of self. This is par-
+ticularly true for characters who died. If their cortical
+stack was retrieved, they will remember their own
+death. If they were restored from an archived backup,
+they will not remember their death, but they will have
+lost an entire period of their life—all the way back to
+their last backup. In fact, if their body was not recov-
+ered, they may not even know that they are dead for
+certain—there may be a surviving copy of themselves
+out there. The driving point in this loss of continuity is
+a sort of existential crisis—they are no longer the origi-
+nal person they once were. This leads some to question
+whether they are who they think they are, or are they
+some poor imitation and not a real person at all?
+   To determine how this loss of continuity affects a
+character, make a Continuity Test by rolling WIL x 3.
+Every character suffers stress from loss of continuity,
+as noted on the Continuity Stress table. Reduce this
+stress damage by 1 point per 10 full points of MoS on
+the Continuity Test, or increase it by 1 point for every
+10 full points of MoF.
+
+INFOMORPH RESLEEVING
+Rather than resleeving into a physical body, a backup
+may instead by instantiated as an infomorph, a purely
+digital form. Infomorphs are distinct from backups in
+that backups are inert files. Infomorphs are backups
+imprinted onto a virtual brain template and run as
+a program. This virtual brain state must be run on a
+specific device and follows all of the rules noted for
+infomorphs on p. 264. Infomorphs may copy them-
+selves to other devices, typically erasing themselves
+from the previous device as they go. Infomorphs that
+copy without erasing are treated as forks.
+  Characters instantiating as infomorphs must make
+Continuity and Alienation Tests, just like resleeving.
+  Infomorphs may be resleeved into physical morphs,
+following normal resleeving rules.
+%%% 275.txt %%%
+         I wake up with a taste like guava and umami
+         fresh on my tongue. Last night there was laugh-
+                                                                                      CONTINUITY STRESS
+         ter. We drank quinoa wine, and I was introduced      SITUATION                                               STRE
+         to people I had never met before, though I had
+                                                              Backup from cortical stack
+         years of intimate knowledge of most of them.
+         Half of Illyria Module is curled naked around          Character remembers peaceful or not notable death   1d10 ÷
+         me in my sleeping chamber. Last night we               Character remembers sudden or violent death
+         made music with synthesizers, wood blocks,           Backup from archive
+         and a lur. We drank mushroom tea brewed in
+                                                                Short memory gap (less than 1 day)                  1d10 ÷
+         water from a rogue comet. Looking around me
+         as the morning sun starts to light the far orbital     Memory gap greater than one day
+         horizon of Ceres, it appears we had an orgy.           Not knowing if/how you died
+         Last night was my resleeving party. This version       Uploading-to-resleeve with continuity (p. 269)
+         of me—me 3.0—is ready for life.
+                                                                Uploading-to-resleeve without continuity            1d10 ÷
+         —Zheng du Thierry, Carnival of the Goat
+                                                                Character is a fork
+
+
+                                                               also drastically curtailed, usually tailored to whatever
+FORKING AND MERGING                                            task they are intended to perform.
+                                                                 Beta forks are created by a process known as
+With all of these backups of transhuman minds on
+file and an abundance of mesh space on which to run            neural pruning (p. 274). They are legal and even
+them as virtual brains, one might wonder what's to             common in many places, except for bioconservative
+stop post-Fall transhumanity from multiplying its              holdouts like the Jovian Republic, though delta forks
+numbers by running additional copies of them. The              are more favored. Beta forks rarely have anything
+short answer is: nothing, aside from massive social            resembling civil rights or citizenship and are usually
+stigma and thorny psychological issues. Taking a               treated as the property of the originating ego. They
+backup of a transhuman mind, copying it, and re-               are commonly used as digital aids or to represent the
+instancing it as an infomorph is called forking. It's one      original ego when communicating with others over
+of the most useful and still-controversial applications        great distances.
+of transhumanity's brain science.                                A beta fork's stats are determined as follows:
+   There are four classifications of forks: alpha, beta,
+delta, and gamma. Though typically copied as info-              - Reduce all aptitudes by 5 (to a minimum of 1).
+morphs, there is nothing preventing a fork from being             This affects all skills as well. Likewise, this re-
+sleeved in a physical morph as well, other than legali-           duces LUC by 10 and INIT by 20.
+ties and custom.                                                - Active skills have a maximum value of 60.
+                                                                - Moxie is reduced to 1.
+ALPHA FORKS                                                     - The Psi trait is removed. At the gamemaster's dis-
+                                                                  cretion, other traits may no longer apply as well.
+An alpha fork is an exact copy of the original ego,
+re-instanced as a separate infomorph. An alpha fork
+may be created by copying and running an infomorph               Additional changes may apply as determined by
+(from a backup, infomorph, synthmorph cyberbrain,              the neural pruning test. Beta forks take 1 minute
+or directly from the cortical stack). Alpha forks are an       to generate.
+exact copy of the character's ego, with all of the same
+skills, memories, stats, traits, personality, etc. New         DELTA FORKS
+alpha forks must make an Alienation Test (p. 272),            Delta forks are extremely limited copies of an ego.
+and possibly a Continuity Test (p. 272) if copied from        They are more akin to AI templates upon which
+a backup.                                                     the ego's surface personality traits are imprinted.
+   Creating alpha forks is illegal in many jurisdic-          Also created via neural pruning, delta forks are
+tions, including most of the inner system and the             highly functional (as competent as a beta fork or
+Jovian Republic. In others it tends to be viewed with         AI) but have extremely limited skills and heav-
+distaste, though there are some habitats/cultures in          ily edited memories, usually to the point of being
+which it is encouraged.                                       functional amnesiacs.
+                                                                 A delta fork's stats are determined as follows:
+BETA FORKS                                                      - Reduce all aptitudes by 10 (to a minimum of 1).
+Beta forks are partial copies of the ego. They are
+intentionally hobbled so as to not to be considered               This affects all skills as well. Likewise, this re-
+an equal to the character, for legal and other reasons.           duces LUC by 20 and INIT by 40.
+Beta forks have most of the same skills as the original         - Active skills have a maximum value of 40. The
+ego, though sometimes reduced. Their memories are                 fork may have no more than 5 Active skills.
+%%% 276.txt %%%
+ - Knowledge skills have a maximum of 80. The
+   fork may have no more than 5 Knowledge skills.
+ - Moxie is reduced to 0.
+ - The Psi trait is removed. At the gamemaster's dis-
+   cretion, other traits may no longer apply as well.
+
+  Additional changes may apply as determined by the
+neural pruning test. Delta forks take 1 Action Turn to
+generate.
+
+GAMMA FORKS
+More commonly known as vapors, gamma forks are
+massively incomplete, corrupted, or heavily damaged
+copies of an ego. Vapors are not intentionally cre-
+ated and are instead the results of botched uploads,
+scrambled backups, incomplete or jammed farcasts,
+or infomorphs/forks that were somehow damaged or
+went insane. It is extremely rare for anyone to pur-
+posely create a vapor for anything other than research
+use, although they can crop up in some interesting
+places. For example, poorly made skill software occa-
+sionally includes enough of the personality traits and
+memories of the person the skill was taken from that
+it can behave in a vapor-like fashion when used.
+   Because vapors are anomalies rather than purpose-
+ful creations, the characteristics of individual gamma
+forks are left to the gamemaster. They should have
+some or all of the following: reduced skills, reduced
+aptitudes, incomplete or incoherent memories, nega-
+tive mental traits, and persistent mental stress or trau-
+mas, including derangements and/or disorders.
+
+NEURAL PRUNING
+Most forking is done on the fly—something comes up
+that the character needs a fork for, so they whip one
+up on the spot. Neural pruning is the art of taking a
+backup/infomorph and trimming it down to size so
+that it functions as either a beta or delta fork.
+   Beta forks are created by taking a virtual mind state
+that is intentionally inhibited and filtering a copy of
+the ego through it. Like a topiary shrub, the portions
+of the character's neural network that exceed the ca-
+pacities of the intended fork are trimmed away. In ad-
+dition to the changes noted under Beta Forks (p. 273),
+characters may voluntarily choose to delete/decrease
+skills and remove memories.
+   Delta forks are created by excising the ego's surface
+personality traits and applying them to an AI template.
+In this case the ego's memories are usually excluded
+entirely—it is easier to start with a blank delta fork
+and feed them the specific memories/knowledge they
+need. As with beta forks, characters making delta
+forks may voluntarily choose to delete/decrease skills
+and keep specific memories.
+   Transhumanity's grasp of neuroscience extends to
+scanning and copying a mind, but the most intricate
+workings of memory are still imperfectly understood.
+Making precise edits to individual portions of a neural
+network (to alter recollections, skills, and the like) is
+still a black art. The difficulty with neural pruning is
+that taking a weed whacker to the tree of memory
+isn't an exact science. Specific memories may not be
+excised or chosen—at best, memories may be handled
+in broad clumps, typically grouped by time periods no
+finer than 6 months. For simplicity, most beta forks are
+created by removing all memories older than 1 year.
+   When creating a beta or delta fork, the character
+must make a Psychosurgery Test (other parties may
+make this test on the character's behalf, representing
+that the character is giving them access to prune the
+fork appropriately). If the character succeeds, the fork
+is created as desired. If the test fails, the gamemaster
+chooses one of the following penalties for every 10
+full points of MoF. Some of these penalties may be
+combined for a cumulative effect:
+
+  - 1 additional skill decreased by –20
+  - Fork acquires a Negative mental trait worth 10 CP
+  - Fork suffers 1d10 ÷ 2 (round up) mental stress
+  - Extra memory loss (gamemaster discretion; beta
+    forks only)
+  - 1 Positive trait lost
+
+NEURAL PRUNING WITH LONG-TERM PSYCHOSURGERY
+Rather than generating forks on the fly, some char-
+acters prefer to have carefully-pruned forks on hand,
+stored as inert files that can be called up, copied, and
+run as needed. These forks are crafted with long-term
+psychosurgery, meaning that they suffer fewer draw-
+backs and the memories may be more finely tuned.
+  Long-term neural pruning requires a Psychosurgery
+Test as above, but with a +30 modifier. Delta forks take
+1 week to prune this way, beta forks take 1 month. Ad-
+ditional modifications may be made to the fork using
+any of the normal rules for psychosurgery (p. 229).
+   It is worth noting that some people prefer to use
+forks of themselves or loved ones rather than a muse.
+Likewise, some wealthy hyperelites are known to keep
+copies of their younger backups on hand, sometimes
+for decades, and re-instance these when their prime
+ego has enough skill and experience to completely
+outclass its younger selves. Though technically these
+are alpha forks, their lag behind the original ego is
+comparable in degree to that of a beta fork. This is
+rumored to be the method used by the Pax Familiae
+in instancing her army of cloned selves.
+
+HANDLING FORKS
+Gamemasters are encouraged to allow players to ro-
+leplay their character's own forks. It is important to
+note, however, that even with alpha forks, once the
+fork and originating ego diverge, they develop onward
+as separate people. The events that shape the primary
+ego's personality, character, and knowledge will not
+happen—or even if they do, probably not in the same
+way—to the fork, and vice versa. The exact dividing
+line between an ego and a fork is a central philosophi-
+cal and legal debate among many transhumans.
+   This means that gamemaster should not be afraid
+to pull a fork out of a player character's hands and
+%%% 277.txt %%%
+ make them into an NPC if they start too diverge too
+ greatly. Similarly, if a fork begins to learn information
+                                                                            THE SELF
+                                                                            Forking and merging have changed the way
+ that the main character does not (yet) have access to,
+                                                                            transhumanity thinks about the self and what
+ it is probably also better to run the fork as an NPC in
+                                                                            it means to have a well-integrated personality.
+ order to avoid metagaming.
+                                                                               While forking is child's play from a tech
+    It is entirely possible that a fork might decide that
+                                                                            nological standpoint, the psychological and
+ it will no longer obey the originating ego and carry
+                                                                            social effects of cloning a mind mean that
+ about doing its own thing. This usually only occurs
+                                                                            most people are cautious about employing
+ with alpha forks, who are essentially a full copy
+                                                                            forks. Some jurisdictions ban forking outright
+ anyway, and as time passes the idea of merging back
+                                                                            for all but medical uses, while others have
+ with the original ego becomes unappealing. Beta and
+                                                                            severe restrictions. In many hypercorp juris
+ delta forks are quite aware of their nature as “incom-
+                                                                            dictions, for instance, alpha forks are illegal
+ plete” copies, and so usually return back home to the
+                                                                            and letting a beta fork run for more than 4
+ ego for reintegration. In rare cases, however, even
+                                                                            hours without merging violates the modern
+ these might make a break for life on their own.
+                                                                            descendants of 20th-century anti-trust laws
+ MERGING                                                                    Similarly, the Jovian Junta and other biocon
+                                                                            servatives ban forking entirely.
+   Merging is the process of re-integrating a previous-
+                                                                               Disposing of unwanted forks is another
+ly-spawned fork with the originating ego. Merging is
+                                                                            thorny issue. In some places, it's as simple as
+performed on conscious egos/forks, transferring both
+                                                                            deleting them, because a stored mind has no
+to a single, merged ego. The process is not difficult
+                                                                            legal status. In others, a fork that doesn't wish
+to undergo when two forks have only been apart a
+                                                                            to merge back with its originating ego might
+short time. As forks spend more time apart, though,
+                                                                            be accorded some rights, though these are
+merging becomes a severe mental ordeal.
+                                                                            generally only granted to alpha forks.
+   To determine if merging goes well, a Psychosurgery
+                                                                               Most significantly, though, running a short
+Test is called for (made either by the ego or another
+                                                                            term fork of oneself for periods of an hour
+character overseeing the process). The Merging table
+                                                                            or less is an easy task for many transhumans
+lists modifiers for this test as well as the result of suc-
+                                                                            Many people use forks of themselves to get
+cess or failure.
+                                                                            work done in everyday life, and almost every
+   For synthmorphs, merging takes one full Action
+                                                                            one has at least experimented with forking at
+Turn. For biomorphs, an ego bridge (p. 328) or mne-
+                                                                            some point.
+monic augmentation (p. 307) is required to merge,
+                                                                               Transhumans view forking a bit like early
+and the process takes 10 minutes.
+                                                                            21st-century humans viewed drinking and drug
+   The result of the process is a unified ego, whether
+                                                                            use. A bit might be okay, but someone overdo
+or not the Merging Test succeeds. Psychotherapy (p.
+                                                                            ing it will be stigmatized. This is because most
+209) and psychosurgery (p. 229) can troubleshoot bad
+                                                                            transhumans understand the psychological
+merges over time.
+                                                                            consequences of overusing forks.               ■
+
+
+ EGOCASTING
+ In spite of being a spacefaring civilization with out-                Egocasting is transhumanity's most advanced
+ posts throughout the solar system and beyond, tran-                 personal transportation technology, though only the
+ shumanity makes scant use of spacecraft for interplan-              character's ego actually travels. Egocasting combines
+ etary travel. Shuttlecraft using a variety of propulsion            the technologies of uploading and quantum farcasting
+ systems make regular trips between habitats, planetary              to transfer a backup (or sometimes even a conscious
+ surfaces, and moons. But for any trip longer than 1.5               ego, see p. 269) over interplanetary distances.
+ million kilometers—the distance a fusion drive craft                  Though egocasting occurs at the speed of light,
+ can cover in a day—people egocast.                                  egocasting times vary drastically with distance.
+
+
+                                                        MERGING
+TIME APART       MODIFIER SUCCESS                                           FAILURE
+Under 1 hour         +30      Seamless ego with memories intact from both   Memories intact, (1d10 ÷ 2, round down) – 1 SV
+1–4 hours            +20      Solid bond, memories intact                   Memories intact, (1d10 ÷ 2, round down) SV
+4–12 hours           +10      Memories intact, 1 SV                         Minor memory loss, (1d10 ÷ 2, round up) SV
+12 hours–1 day       +0       Memories intact, 2 SV                         Moderate memory loss, (1d10 ÷ 2, round up) + 2 SV
+1 day–3 days         –10      Memories intact, 3 SV                         Major memory loss, 1d10 + 2 SV
+3 days–1 week        –20      Memories intact, 4 SV                         Major memory loss, 1d10 + 4 SV
+1 week+              –30      Minor memory loss, 5 SV                       Severe memory loss, 1d10 + 6 SV
+%%% 278.txt %%%
+Egocasting within a cluster or planetary system is
+usually just a matter of minutes. Egocasting from the
+sun to the Kuiper Belt, however, takes between 40 and
+70 hours, and so egocasting all of the way across the
+solar system can take even longer.
+  Once an ego arrives at the destination receiver, it
+can be archived, run as an infomorph, or resleeved
+as normal.
+
+EGOCASTER SECURITY
+Beaming yourself across interplanetary space is a
+mature technology and usually works seamlessly. Be-
+cause egocasting uses quantum farcasters, there is no
+danger of radio interference cooking the signal and
+causing data loss. Normally the entire process is medi-
+ated by the character's backup service, and security
+breaches are uncommon.
+   However, there are several risks involved in ego-
+casting. The most obvious is that the character's con-
+sciousness is transferred as a digital backup file at the
+destination. If the egocaster on the other end is not
+trusted or the networks at the destination are privately
+controlled by the receiver, the character is potentially
+putting themself at the mercy of their host. Most hy-
+percorps consider meddling with a transmitted ego to
+be a serious breach of etiquette, whereas autonomist
+types would find it unthinkably repressive. However,
+political extremist groups and criminal organizations
+in control of egocasters suffer from fewer restraints.
+   A more subtle risk is the possibility for hackers to
+exploit security holes in the egocaster and its attached
+virtual space to steal a fork of the character. This is
+extremely difficult to do. It almost never happens
+during a normal upload, because the uploading ser-
+vices are security conscious to the point of paranoia.
+Even so, the forks stolen by such attempts more often
+than not end up being vapors, because the intruder
+is usually stopped before a full copy can be obtained.
+DARKCASTING
+   Characters who want to egocast without the atten-
+tion of public officials like Immigration and Customs
+must seek out so-called darkcasting services—illegal
+farcaster transceivers typically operated by criminal
+syndicates and other clandestine groups. To locate
+such a service, a character must use their Networking
+skill and possibly their reputation (p. 285).
+
+
+
+MORPH BROKERAGE
+Morphs are a major commodity in transhuman society.
+The technology and materials needed to grow new
+morphs are cheap and abundant, though they take
+time. Cloned biomorphs take at least a year and a half,
+even with accelerated growth. Pods, which are typi-
+cally pieced together from vat-grown parts, take about
+6 months. Synthmorphs like cases and synths can be
+produced in a day, whereas more complicated models
+can take a week or more. Theoretically, supply will one
+day outstrip demand to the point where flesh is free.
+   Characters have several options for acquiring
+morphs when they travel by egocast, suffer heavy
+damage, or just feel like a new body. When egocasting,
+the most common method for travelers of middling
+means is to store their current morph in a body bank's
+secure facility and lease a morph at their destina-
+tion. Less commonly, characters may rely on public
+resleeving facilities, or, if they have the means, they
+may purchase a new morph outright. Characters who
+expect to stay at their destination indefinitely or who
+decide to resleeve but aren't traveling might instead
+opt for a trade-in on their old body, leaving it behind
+permanently in most cases.
+
+MORPH AVAILABILITY
+As noted under Resleeving and the Gamemaster (p. 271),
+finding the model of morph you want is not always easy.
+While many basic morph types (cases, synths, splicers)
+%%% 279.txt %%%
+are generally available, characters can also locate new
+morphs using their Networking skills (see Reputation
+and Social Networks, p. 285). Certain morph types
+are harder to find then others; the gamemaster should
+apply an appropriate modifier for any morphs that seem
+rare or unusual (for example, swarmanoids or reapers).
+Likewise, some morphs may simply be unavailable in a
+given locale. Rusters are rarely available off of Mars, for
+example, while on Europa, most morphs are exotic local
+aquatic varieties.
+  The gamemaster determines which factions are able
+to provide new morphs in a given locale. Factions
+will not provide morphs that are unavailable to that
+faction as starting characters. If the faction is not the
+dominant one in that locale, a penalty should be ap-
+plied, ranging from –10 to –30. Despite having a pres-
+ence in a given locale, some factions may be unable to
+provide morphs at all.
+   If the character is seeking a customized morph with
+specific implants or enhancements, the search will be
+more challenging. The gamemaster should apply a –10
+to –30 modifier here as well, depending on the extent
+and legality of the modifications sought.
+
+MORPH ACQUISITION
+Once a morph is located, the character may call in
+favors (p. 285) or pay credits for it. Morph costs are
+noted on the Morph Costs table. In the inner system,
+morph prices are often inflated by demand in the
+market such that the most desirable morph types can
+cost a small fortune. Outsystem, prices in rep are more
+reasonable but still steep due to population pressures
+on life support-dependent outer system settlements.
+For travelers and frequent body hoppers, there are a
+number of ways to defray these costs.
+
+BROKERAGE AND MATCHMAKING
+Finding morphs for travelers and the bodiless is a
+ specialized skill demanding deep social networks and
+a flair for negotiation. In general, it's a seller's market,
+ so brokers (or “matchmakers,” as they're called in
+the open economy) act as agents for the person seek-
+ing a body. The Morph Costs table assumes a 10%
+fee paid to the broker. Characters wishing to cut out
+the middleman may reduce cost by 10% but take a
+–30 penalty on their Networking Test to locate an
+available morph.
+
+CUSTOMIZED MORPHS
+If a character seeks to have a customized morph (with
+extra bioware, cyberware, or nanoware implants or
+robotic enhancements), the costs for these enhance-
+ments are added to the morph's cost (if the gamemaster
+chooses, discount package deals may apply). Likewise,
+morphs may come saddled with positive or negative
+morph traits (p. 145). These traits raise or lower the
+morph's cost at a rate of +500 credits per CP for posi-
+tive traits, or –200 credits per CP of negative traits.
+Negative traits typically reflect abuses the morph has
+suffered at the hands of previous occupants.
+                    MORPH COSTS
+MORPH TYPE                                COST
+Biomorphs
+  Flats, Splicers                           High
+  Octomorphs                         Expensive (30,000+)
+  Furies, Ghosts, Remade             Expensive (40,000+)
+  Futuras                            Expensive (50,000+)
+  All others                              Expensive
+Pods
+  Workers, Pleasure Pods                    High
+  Novacrabs                          Expensive (30,000+)
+Synthmorphs
+  Cases                                   Moderate
+  Synths, Dragonflies                        High
+  Slitheroids, Swarmanoids                Expensive
+  Flexbots                           Expensive (30,000+)
+  Arachnoids                         Expensive (40,000+)
+  Reapers                            Expensive (50,000+)
+Positive morph traits                  +500 per CP
+Negative morph traits                  –200 per CP
+
+
+ TRADE-IN
+ For those who wish to leave their old morph behind
+ permanently, trade-ins on current morphs are an
+ option. The high demand for bodies means that a buyer
+ is almost always available unless the gamemaster finds
+ extenuating circumstances. Morphs may be traded in
+ for the value shown on the Morph Costs table (ad-
+ justed for any positive or negative traits), less a 10%
+ physical exam and finder's fee. This is either paid to the
+ morph broker in cred or rendered as a favor using rep.
+
+  PATRON PROVISIONING
+ Characters on missions for rich or influential patrons
+ may have morphs provided for them. Normally
+ such provisions are made for the duration of a job,
+ although less commonly the morph itself might be
+ payment for services rendered. Gamemasters are
+ encouraged to be creative with such arrangements,
+ though players should be advised that such bargains
+ can quickly turn Faustian.
+
+  BLACK MARKET MORPHS
+ Black market body traders promise to provide the
+ buyer with morphs and upgrades of choice regardless
+ of a habitat's laws against weapons or implants, in
+ addition to bypassing standard arrival registration
+ via darkcasting. Illegal morphs usually come with a
+ price markup (+25% at least), whereas used morphs
+ with unsavory backgrounds (and traits) can usually be
+ acquired on the cheap (–25%).
+
+  INDENTURE
+ Characters who find themselves too destitute to
+ afford a new morph can strike a deal for indentured
+ service—a “deal” that is rarely advantageous to the
+%%% 280.txt %%%
+   new indenture. Typical contracts require years of in-     closely monitored and tracked, and the hypercorps are
+   dentured labor—terraforming Mars, herding comets,         not above sending ego hunters to retrieve a runaway.
+   asteroid mining, constructing habitats, colonizing
+   exoplanets, etc.—in exchange for a cheap synthetic        PUBLIC RESLEEVING
+   morph or splicer at the end of the term. Gamemasters      Some locales, notably Titan, have a well-developed
+   may use their discretion in offering such terms, though   public resleeving infrastructure intended to provide a
+   in many cases the terms offered will temporarily or       body to anyone who needs one. Morphs provided are
+   permanently end the character's career as a free agent.   usually unremarkable cases, synths, or splicers with
+   Hypercorps using indentured labor are notorious for       no Positive traits or optional implants. Anyone hold-
+   changing the terms at a whim, extending the service       ing citizenship in a locale with public resleeving may
+   period, or slamming the indenture with a slew of          apply for a body. Wait times are between a month and
+   hidden and outrageous charges that were not made          two years, with Reputation influencing wait times at
+   clear up front. Characters may, of course, enter into     the gamemaster's discretion.
+   such service fully intending to grab their morph and
+   run at the first opportunity, but the hypercorps are      RENTING MORPHS
+   very protective of their investments. Indentures are      For temporary visits where an infomorph won't do,
+                                                             morphs may be leased rather than bought. The cost
+                                                             to rent a morph is 1% of its cost per day, plus a Low
+
+ USTOM-GROWN OR                                              charge for resleeving. This cost includes rental insur-
+                                                             ance (see below). If the rental insurance is waived
+
+DESIGNED MORPHS                                              (not always possible unless you have a good Rep), the
+                                                             rental cost may be reduced by half.
+me people are very particular about their morphs.              Characters who are leasing a morph may also use
+ them, nothing “off the shelf” will do, even if it's         their previous morph as collateral. In this case, deduct
+customized model tricked out with specific im-                the cost of the character's current morph from the
+ants, traits, and biosculpting. Instead, they desire         rental morph before calculating the 1% cost per day,
+mething unique, something that must be specially             with a minimal rental cost of 10 credits per day.
+own or designed.
+ n the case of biomorphs, this can mean several              PENAL LEASE
+ ngs. Usually it means that the patron desires a             Characters visiting the inner system or Jovian
+ry specific set of genetic traits. This could be traits       Republic may be able to lease morphs belonging
+ m their original genetic lineage, traits copied from        to prisoners. In most jurisdictions, criminals are
+meone they idolized or honored, genes artfully               sentenced to terms in rehabilitative simulspace with
+afted by a renowned genetic designer, or mystery             a stipulation that the prisoner's morph becomes
+ its purchased at great expense from the Factors or          state property during their term of incarceration.
+tracted from a lost TITAN lab. Alternatively, it could       Morphs acquired this way often have complicated
+ean the client seeks something more specific, such            histories but also tend to have modifications useful
+ an exact duplicate clone of their original body.            to Firewall agents. Conversely, characters who find
+While it is possible to put an existing morph in a           themselves imprisoned may be subject to having
+ aling vat and alter its genetics with metamorph-            their body leased out during incarceration.
+g nanovirii in a matter of days, these procedures              The effects of taking a penal lease are at the dis-
+e difficult and prone to disaster. In many cases, it          cretion of the gamemaster. A character may have
+preferred to simply grow the desired clone from              to pull some strings with their Reputation in order
+ atch, though even with accelerated growth this              to lease such a morph, especially if it has restricted
+kes from 1.5 to 2 years (or 6 months to 1 year in            or illegal modifi cations. Negative traits, cases of
+e case of pods). Nevertheless, some hyperelites              mistaken identity, and unfortunate encounters with
+ ve taken steps to ensure that the morph they                friends and associates of the morph's former oc-
+ sire is available at all likely egocast destinations.       cupant are among the possible drawbacks to this
+Though rarer, custom synthmorphs are sometimes               type of arrangement. On the up side, penal leases
+ught after, usually by people who wish to showcase           may reduce costs for both leasing and insuring the
+ ique or artistic robotic designs, but sometimes also        morph, again subject to the gamemaster's discretion.
+  engineers or agents who are field-testing proto-
+pes. Assuming blueprints are available, such models          RENTAL INSURANCE
+n be constructed in a matter of hours or days.               Leased morphs must be covered by an insurance
+Aside from time, the largest barrier to custom and           policy, which often restricts the character from
+ ique morph designs is typically cost. Ultimately it is      breaking the law or taking the morph anywhere
+e gamemaster's decision on what expenses such mea-           too dangerous or lawless. Characters may purchase
+ es entail—typically starting at Expensive and moving        hazard insurance that will cover taking the morph
+ —or even whether they are possible at all.          ■       into certain dangerous situations, but this will
+                                                             double the rental price at minimum.
+%%% 281.txt %%%
+   If a character suffers extensive organic damage or
+death while insured, the insurance will cover 80%
+of the morph's cost, meaning that the character is
+expected to pay the other 20%. If they cannot pay,
+their possessions or their stored morph may be
+seized in payment.
+   If a character violates their insurance policy by
+intentionally putting themself in harm's way above
+the threat level at which the policy was purchased,
+without first communicating with and rendering pay-
+ment to the insurer, the policy may be declared void.
+If the leased morph dies under a voided policy and
+the character cannot pay to replace it, their posses-
+sions and stored morph may be subject to seizure.
+   Seizure takes different forms depending upon the
+local economy and legal system. In hypercorp space,
+it is a straightforward seizure of liquid assets, in-
+cluding forced uploading if the character's morph is
+seized. Elsewhere, the character is more likely to end
+up owing a lot of favors or taking severe hits to their
+reputation, but they are unlikely to undergo forced
+uploading or outright physical seizure of their morph.
+
+
+
+IDENTITY
+Given the nature of resleeving technologies, identity
+is a fluid concept in Eclipse Phase. Transhumans are
+used to the idea of identifying people by how they
+look or even by their biometric data, but this is no
+longer a certified method. What you look like may
+drastically change from one day to the next. You
+may see an olympian you recognize, but perhaps it's
+been awhile, so you're no longer certain that it's the
+same person still in that morph. If you're sleeved in a
+popular off-the-rack morph, there may be hundreds
+of other cloned morphs that look exactly like you out
+there—perhaps useful if you desire to blend in. Simi-
+larly, security services can no longer rely on biometric
+technologies. Forensics may be able to identify an indi-
+vidual morph's presence at a crime scene, but proving
+who was in that morph at the time is another matter.
+   Identity is, of course, tied to ego, and various
+authorities have instituted verification and security
+measures based on this. Within the inner system, each
+ego is given an ID number, which is used to validate
+their identity, citizenship, legal status, credit accounts,
+licensing, etc. This ego ID is verifiable by the person's
+brainwave patterns, which remain the same even
+when resleeving. When an ego uploads, the upload-
+ing service is required to incorporate this ego ID into
+the person's backup/infomorph. Likewise, when that
+person resleeves, the service handling the procedure
+is required by law to verify the ego's ID before down-
+loading. The ego ID is then hardcoded into the morph
+itself in the form of a nanotattoo on the tip of the per-
+son's index finger. This nanotat can be easily scanned
+at security checkpoints to verify identity.
+   Though efficient, this system is far from perfect. For
+one, ID record-keeping is far from standardized and
+varies drastically from habitat to habitat. Most do not
+share records with each other unless they are part of the
+same political alliance in order to protect their citizens'
+privacy. For example, Lunar-Lagrange Alliance stations
+do not share citizenship ID data with the Planetary
+Consortium, though they do share with each other.
+  On top of this, many identity records were lost
+during the Fall, a situation that was undoubtedly ex-
+ploited by those who preferred to erase their past or
+adopt a new persona. These all make for a situation
+where identity records are patchwork at best. Officials
+must also rely on the security of other habitats for ID
+verification. If a person egocasts to Nectar on Mars
+from Qing Long in the Martian Trojans, and the
+Nectar officials have no record of this person, they
+can only trust that the Qing Long officials did their
+job when verifying the subject's ID and background.
+  To make matters worse, many autonomist habitats
+operate without identity checks altogether. Though
+some ID measures are still used, both to prevent
+reputation system gaming and to be able to identify
+bodies in the case of death, these uses are significantly
+more lax and few records are kept. Therefore, when
+autonomists and the like egocast to habitats that re-
+quire ID, they are assigned a temporary ID for the du-
+ration of their stay (and sometimes any future visits).
+
+IDENTITY VERIFICATION
+There are three ways to verify someone's identity:
+nanotat scan, brainwave scan, and checking the cryp-
+tographic hash on a digital mind.
+
+NANOTAT SCANS
+Special encoded nanobots are used to create a small
+nanotat on a person's index finger. These nanobots
+contain encoded information that includes their name
+and identity, brainwave pattern, citizenship/legal status,
+credit account number, insurance information, and
+licenses. Depending on the local habitat laws, it may
+include other information such as criminal history,
+travel history, restricted implants, employment records,
+and so on. This nanotat may be read by anyone with
+a special ID scanner that reads the nanobot encoding.
+   ID nanotats include information on the company
+that did the resleeving, so that the data may be ac-
+cessed and verified with their records online. The data
+on the nanotat is also cryptographically signed with
+the company's public key, meaning that anyone who
+checks the data and the signature online can tell if the
+data has been altered.
+
+BRAINWAVE SCANS
+Brainwave scans are one of the few types of biometric
+prints that stay with an ego no matter what morph it
+is in. They are impractical for most security purposes
+as they require a scan with a combination electroen-
+cephalogram and neuroimaging device, referred to as
+a brainprint scanner, which takes approximately 5
+minutes. This device measures the subject's baseline
+brainwave pattern as well as the subject's brainwave
+signature responses when they think certain thoughts
+%%% 282.txt %%%
+or sense certain patterns. These scans are all but
+impossible to fool, however, barring hacking of the
+brainprint scanner itself, and so are considered quite
+reliable. For this reason they are occasionally used in
+high-security facilities.
+   It is worth noting that infection by some variants
+of the Exsurgent virus, notably the Watts-Macleod
+strain (p. 367), sometimes alters a person's brainwave
+patterns, but not in every case.
+
+DIGITAL CODE
+Digital ID codes are often incorporated into backups and
+infomorphs. Not only does this help identify who the
+backup belongs to, but it serves as an electronic signature
+for verifying ID when the backup is to be resleeved. This
+digital code typically contains the same information as
+the nanotat ID, and is signed with a cryptographic hash
+that makes it difficult to forge and which can be verified
+online. AIs and AGIs also feature such built-in codes.
+
+CIRCUMVENTING ID CHECKS
+Firewall sentinels and clandestine agents often have a
+need to hide or alter their identities. While ID system
+are challenging, they are not insurmountable.
+
+FAKE IDS
+The easiest way to bypass security checks is to establish
+a fake ID. Given the patchwork nature of identity re-
+cords and the lack of any centralized authority, this is
+not very difficult. Numerous crime syndicates and even
+some autonomist groups maintain a thriving ID fabrica-
+tion business, often with complete histories and medical
+covers for implants that might be restricted or illegal.
+   These IDs are usually registered with habitats that are
+either known criminal havens, have autonomist sym-
+pathies, or are isolated and remote. Though the ID is
+actually verifiable and registered with these stations, the
+potential shady origins of such IDs is known to most
+inner system authorities and so the character may be
+exposed to extra scrutiny or monitoring. Fake IDs may
+be acquired that are registered with more respected au-
+thorities, but this often requires a much higher expense
+or connections to hypercorp clandestine operations.
+   Black market darkcast and resleeving options offer
+fake IDs as a matter of course.
+
+ALTERING NANOTAT IDS
+Special nanobot treatments may be manufactured
+to erase, rewrite, or replace nanotat IDs. Erasing a
+nanotat is easy, but not having one is a crime and im-
+mediate grounds for suspicion in many habitats. Re-
+writing a nanotat is also easy, though this means that
+the nanotat will fail its authorization online unless the
+encryption has also been cracked (p. 253). Replacing
+a nanotat ID with a fake one is just as possible, and is
+part of the process of acquiring a fake ID.
+
+DIGITAL ID TAMPERING
+Digital ID codes may also be tampered with, though like
+nanotat IDs this will mean that the ID fails online verifi-
+cation unless the encryption is also defeated (p. 253).
+LIFE IN SPACE
+Transhumanity is not just a spacefaring race, it is
+also largely space-dwelling. While a substantial por-
+tion of transhumanity inhabits planetary bodies like
+Mars, Luna, Venus, and the moons of the gas giants,
+the balance live in a variety of space habitats, ranging
+from the old-fashioned O'Neill cylinders of the inner
+system to the Cole bubbles of the outer system.
+
+SPACE HABITATS
+Space habitats come in many sizes and configura-
+tions, from survivalist outposts designed to support
+ten or fewer people to miniature worlds in resource-
+rich areas housing as many as ten million people. In
+heavily settled regions of space, such as Martian orbit,
+habitats may be integrated into local infrastructure,
+relying to some extent on supply shipments from other
+orbital installations.
+   More commonly, especially in the outer system,
+habitats are independent entities. This usually means
+that in addition to the main space station, the habitat
+is attended by a host of support structures, including
+zero-g factories, gas and volatiles refineries, foundries,
+defense satellites, and mining bases.
+    Habitats—especially large ones—sometimes have
+visitors, as well. Majors habitats are crossroads in
+space. In addition to scheduled bulk freighter stops,
+they may have hangers-on such as scum barges, pros-
+pectors, or out-of-work autonomous bot swarms.
+   Many habitats have some form of transportation
+network. This is most common in large cylindrical
+habitats with centrifugal gravity. Common solutions
+for public transit include monorail trains, trams, and
+dirigible skybuses. Common personal transit options
+included bicycles, scooters, motorcycles, and micro-
+light aircraft, with larger vehicles being uncommon
+and usually reserved for official use.
+   Most habitats with large interior spaces also use aug-
+mented reality overlays to create consensual hallucina-
+tions of a sky and clouds, to which most residents keep
+their AR channels tuned. One would think that in space,
+talking about the weather would have disappeared from
+transhumanity's repertoire of small talk, but the habit
+persists—only the weather discussed is usually virtual (if
+it's not real “weather”—solar flare activity and the like).
+
+CLUSTER COLONY
+Clusters are the most common form of microgravity
+habitat. Clusters consist of networks of spherical or
+rectangular modules made of light materials and con-
+nected by floatways. Typically business and residential
+modules are clustered around arterial floatways and in-
+frastructure modules such as farms, power, and waste
+recycling. Limited artificial gravity areas may exists,
+frequently parks or other public places and specialized
+modules like resleeving facilities (morphs often keep
+better when stored in gravity). Arterial floatways in
+large clusters may have “fast lanes” where a constantly
+moving conveyor of grab-loops speeds people along.
+%%% 283.txt %%%
+   Clusters are most commonly found in volatile-rich environments
+like the Trojans and the ring systems of the gas giants (particularly
+Saturn). Clusters are rare in the Jovian system because shielding a
+cluster of individual modules rather than one large station from
+Jupiter's intense magnetosphere is hideously inefficient.
+   Cluster colonies can have anywhere from 50 to 250,000 inhabitants.
+
+COLE BUBBLES
+Cole bubbles (or “bubbleworlds”) are found mostly in the main
+asteroid belt, where the large nickel-iron asteroids used to construct
+them are abundant. Bubbleworlds are less common in the Trojans
+and Greeks, where crusty ice asteroids predominate. A Cole bubble
+is similar in many respects to an O'Neill cylinder, but there are no
+longitudinal windows. Sunlight instead enters through axial mirror
+arrays. The bubbleworld is also constructed very differently, using a
+large solar array to heat a pocket of water inside of a metal asteroid
+so that the metal expands. Rotating the asteroid causes the mal-
+leable material to form a cylinder, which is then capped off and the
+water drained. The inside can then be pressurized, built out, and
+planted. Cole bubbles can also be spun for gravity, according to the
+whims of the inhabitants, though the gravity lowers as you near the
+poles of the bubble, with zero gravity at the axis of rotation.
+   Cole bubbles are among the largest structures transhumanity has
+created in space. The largest Cole habitat, Extropia, has a popula-
+tion of 10 million.
+
+HAMILTON CYLINDERS
+Hamilton cylinders are a new technology. There are only three fully
+operational Hamilton cylinders in the system, but the design shows
+great promise and is likely to be widely adopted over the coming
+period. Hamilton cylinders are grown using a complex genomic
+algorithm that orchestrates nanoscale building machines. These
+nanobots build the habitat slowly over time, a process more like
+growing than construction.
+   Similar to O'Neill cylinders and Cole bubbles, a Hamilton cylin-
+der is a cylindrical habitat rotating on its long axis to provide grav-
+ity. Two of the known Hamilton cylinders orbit Saturn in positions
+skimming the rings near the Cassini division. From this position,
+they can graze on silicates and volatiles using harvester ships.
+   None of the currently-operating Hamilton cylinders have grown
+to full size yet, but estimates say they could each house up to 3
+million people.
+
+O'NEILL CYLINDERS
+Found mostly in the orbits of Earth, Luna, Venus, and Mars, O'Neill
+cylinders were among transhumanity's first large space habitat de-
+signs. O'Neill cylinders are no longer built, having been replaced
+by more efficient designs, but are still home to tens of millions of
+transhumans. O'Neill cylinders were constructed from metals mined
+on Luna or Mercury, Lunar volatiles (including Lunar polar ice),
+and asteroidal silicates.
+  A typical O'Neill habitat is thirty-five kilometers long, eight ki-
+lometers in diameter, and rotates around its long axis at a speed
+sufficient for centrifugal force to create one Earth gravity on the
+inner wall of the cylinder. Smaller cylinders exist, though these
+usually feature lower gravity (typically Mars standard). Cylinders
+are sometimes joined together, end-to-end, for extra long habitats.
+A spaceport is situated at one end on the rotational axis of the
+cylinder (where there is no gravity). Arrivals by space use a lift or
+microlight launch pad to get down to the habitat floor.
+%%% 284.txt %%%
+   The inside of an O'Neill cylinder has six alternating
+strips of ground and window running from one cap
+of the cylinder to the other. One narrow end of an
+O'Neill cylinder points toward the sun. The opposite
+end is the mooring point for three immense reflectors
+angled to reflect sunlight into the windows. Smart
+materials coating the windows and reflectors prevent
+fluctuations in solar activity from delivering too much
+heat. The air inside the cylinder and its metal super-
+structure provide radiation shielding.
+   The land in most O'Neill cylinders is one-third
+agricultural (a combination of food vats and high-
+yield photosynthetic crops), one-third park land, and
+one-third mixed use residential and business. O'Neill
+habitats have a day and night cycle regulated by the
+position of the external mirrors. The business and
+residential sections of the cylinder usually alternate
+with the park land over two of the strips of land;
+cropland usually takes up the third. Bridges cross
+the windows every kilometer or so, linking the land
+strips. The interior climate, the architectural style of
+the structures, and the types of vegetation and fauna
+present vary with the tastes of the habitats' designers.
+   Depending upon size, O'Neill cylinders can house
+from 25,000 to 2 million people.
+
+TIN CANS
+Antique research stations and survivalist prospector
+outposts often fit this description. Tin can habitats
+are only a few notches up from the early 21st-century
+International Space Station. Tin cans usually consist
+of one or more modules connected to solar panels
+and other utilities by an open truss. Deluxe models
+feature actual floatways or crawlways between
+modules, while barebones setups require a vacsuit or
+vac-resistant morph to go from room to room. Food
+growing capacity is severely limited and there may be
+no farcasters, but fabricators are available, as well as
+mooring for shuttles and perhaps prospecting craft.
+  Tin cans rarely house more than 50 people.
+
+TORUSES
+Interchangeably called toruses, toroids, donuts, and
+wheels, these circular space habitats were a cheap
+alternative to the O'Neill cylinder used for smaller
+installations. Like O'Neill cylinders, toruses are seldom
+constructed anymore, but many are still encountered in
+the inner system, particularly in Earth and Lunar orbit.
+  A toroidal habitat looks like a donut 1 kilometer in
+diameter, rotating on great spokes. There is a zero-g
+spaceport at the wheel's hub. Visitors take a lift down
+one of the spokes to the level of the donut, where
+rotation creates one Earth gravity.
+  The plan of toroidal habitats varies greatly, as many
+were designed for specific scientific or military purposes
+and only later taken over as habitats by entrepreneurs
+or squatters. Many have a succession of decks in the
+donut. Most of those designed for long-term self-
+sufficient habitation have smart material-covered glass
+windows for growing plants along much of the inside
+surface of the torus. Toroidal habitats equipped for
+farming normally face the sun in a direction perpen-
+dicular to their rotational axis, but then use a slow pro-
+cessional wobble of that axis to create a day/night cycle.
+  Toruses were usually built to accommodate small
+crews of 500 or fewer people, though some larger
+ones exist, able to house 50,000. A few rare double-
+toruses also exist, like two large wheels spinning in
+opposite directions, joined at the axis.
+
+IMMIGRATION AND CUSTOMS
+How characters gain entry to a habitat and what type
+of screening they're likely to undergo depends upon
+how they arrive. Some habitats are close to other
+settlements, while others are physically isolated by the
+vast, empty distances of interplanetary space.
+   Habitats in dense planetary systems receive most of
+their visitors via conventional space travel. Immigra-
+tion and customs infrastructure is geared toward re-
+ceiving visitors via their spaceport, and the processing
+of arrivals is in most ways analogous to a twentieth
+century airport. Isolated habitats, on the other hand,
+tend to receive almost all of their visitors via egocast.
+
+PHYSICAL ARRIVALS
+Arrivals by spacecraft undergo, at minimum, an ego
+ID check, scans to detect pathogens, hostile nanobots,
+explosives, or radiation, and an inspection of their
+personal effects. Some habitats go farther, including
+rigorous secondary screenings using scout nano-
+swarms, scans of all electronic systems for malware,
+and/or aggressive interrogation of a fork of the subject.
+Even autonomist enclaves enforce automated scans for
+anything that might pose a danger to the habitat or
+any signs of hypercorp saboteur efforts.
+   Restricted goods vary according to local legalities.
+Many habitats, particularly those controlled by auton-
+omist or criminal factions, allow personal weaponry
+as long as its nothing you can use to blow a hole in
+the structure or indiscriminately kill dozens of people.
+Others, notably the Jovian Republic and hypercorp
+stations, disallow lethal weapons of all kinds, except
+for people who have acquired special permits and au-
+thorization (sometimes available by bribing the right
+people or pulling favors with rep). Nonlethal weapons
+are generally allowed. Other restricted items may
+include nanofabricators, nanoswarms, malware and
+hacker software, drugs and narcoalgorithms, certain
+types of XP recordings, covert operations tools, and
+so on. Certain types of morphs may also be restricted,
+such as reapers, furies, or uplifts.
+   Certain habitats may insist that visitors—or at
+least the ones they don't like the looks of—submit to
+specific forms of monitoring or surveillance for the
+duration of their stay. This might include taggant
+nanoswarms, hosting a police AI in your mesh inserts,
+or even physical tailing by an armed security drone.
+Other stations will require that their visitors leave a
+fork as a form of collateral at the door—in case they
+commit a crime, the fork can be interrogated.
+%%% 285.txt %%%
+  Finally, though rare, some habitats go so far as to
+charge all visitors an “air tax”—a fee for using the
+station's publicly available resources while they are
+present. This is generally only common in isolated
+habitats with strained resources, and is considered
+especially obnoxious by most autonomists.
+   Some syndicates run a good business in smuggling
+certain goods or even people into habitats. This is gen-
+erally accomplished through bribed security personnel,
+but is also sometimes handled as falsified credentials
+that will allow the subject to breeze past security
+checks. Such services are typically quite expensive.
+  For those hoping to gain quiet and unobserved
+access, there is always the option of taking a space-
+walk and trying to break in through an unattended
+airlock. Such attempts are quite often dangerous and
+futile, as most habitats have dedicated sensor and
+security systems to monitor their exterior surface and
+in particular any access points. Still, it is a possibility
+for a resourceful team with a skilled hacker, though
+armed sentry bots are a particular danger.
+
+ELECTRONIC ARRIVALS
+Arrivals by egocast are sometimes interviewed by
+habitat authorities in a simulspace before resleeving.
+Depending upon the habitat's attitude toward civil
+rights, this process can be relatively reasonable or
+quite invasive. A minimal entry inspection includes an
+ID check, a brief interview with a customs AI, and a
+review of the specs of the morph into which the ar-
+riving ego plans to resleeve. Habitats with draconian
+immigration measures may use harsh psychosurgery
+interrogation techniques on suspect infomorphs. Ego-
+cast backups have little recourse to avoid this treat-
+ment—station authorities can simply file them away
+in cold storage if they choose—so it is wise to investi-
+gate custom procedures before you send yourself over.
+   Because many people, particularly autonomists and
+brinkers, don't appreciate this kind of reception, vari-
+ous uploading services have stepped in to provide pre-
+customs resleeving for characters traveling to habitats
+with suspect screening methods. For often-exorbitant
+fees, the traveler egocasts into an extraterritorial sub-
+station close to their intended destination, resleeves
+there, and then travels to their destination by rocket.
+   Various darkcast services, normally run by estab-
+lished crime syndicates, sometimes offer an alternative
+method of egocasting in and possibly even resleeving.
+Darkcast services are quite expensive, however, and
+the character is at the mercy of the syndicate opera-
+tors. In rare cases, some political factions or even hy-
+percorps might operate their own darkcast systems,
+which a character with good networking skills might
+be able to take advantage of.
+
+SPACE TRAVEL
+In some circumstances, characters will prefer to travel
+physically through space rather than egocasting. In
+Eclipse Phase, spacecraft are primarily dealt with as a
+setting environment rather than a vehicle/gear to use.
+Spacecraft largely pilot themselves via the onboard AI.
+Though characters can also take over with their Pilot:
+Spacecraft skill, the situation rarely calls for it.
+
+LOCAL TRAVEL
+In densely inhabited planetary systems such as Mars
+and Saturn, most travel between cities, surface stations,
+and orbital habitats within 200,000 kilometers is by
+small hydrogen-fueled (or sometimes methane-fueled)
+rockets. This form of travel is incredibly cheap, very
+fast, and avoids the occasional personality glitches
+that crop up during egocasting. LOTVs (lander and
+orbital transfer vehicles, p. 348) are commonly used.
+Spacecraft leaving a planetary body need to be able to
+generate enough thrust to escape the gravity well (see
+Escaping Gravity Wells, p. 346).
+
+DISTANCE TRAVEL
+For distances of 200,000 to 1.5 million kilometers,
+somewhat larger (and more expensive) fusion- and
+plasma-drive craft make regular runs. Nuclear electric
+ion drives were once used on some of these routes,
+but the poor efficiency of these fission systems and the
+need for radioactive heavy metal reaction mass means
+that they are almost never used anymore. Faster anti-
+matter-drive couriers are also commonly used. These
+ships lack the thrust to escape from the gravity wells
+of large planets or moons, so they station themselves
+in orbit and use smaller ships (typically LOTVs) with
+higher thrust to transport people to and from the
+planetary surface.
+  For distances beyond 1.5 million kilometers, almost
+everyone uses egocasting
+
+SPACE TRAVEL BASICS
+Spacecraft use various types of reaction drives (see
+Spacecraft Propulsion, p. 347), meaning that they burn
+fuel (reaction mass) and direct the heated output in
+one direction, which pushes the spacecraft in the oppo-
+site direction. Travel over any major distance typically
+involves a period of high-acceleration burn for several
+hours at the beginning of the flight, where up to half of
+the reaction mass is spent to drive up the craft's veloc-
+ity. The ship then coasts for the majority of the flight at
+that speed, until it approaches its destination, where it
+flips over and burns an equal amount of reaction mass
+in the opposite direction to decrease velocity.
+   Though some craft burn half their reaction mass
+to get up to the best speed possible, this doesn't leave
+much room for additional maneuvering or emergen-
+cies. Many craft therefore only burn up to a quarter
+or a third of their fuel in initial accelerations, so they
+have some to spare in case they need it. A few tricks
+can be used to save fuel and build speed, such as sling-
+shotting around the gravity wells of larger planets or
+aerobraking in a planet's upper atmosphere.
+   Travel times between locations are constantly
+changing as various bodies move in their orbits
+around the solar system. Within a cluster or planetary
+system, travel takes a matter of hours. Within the
+%%% 286.txt %%%
+inner system, travel can take days or weeks. Travel to,
+from, or within the outer system can take much longer,
+and is usually a matter of several months.
+  Most ships operate at zero-g, except for a few larger
+craft that are able to spin habitat modules for low
+gravity. Periods of high-acceleration also produce
+temporary gravity in a downward direction, towards
+the burn.
+   Space is a valuable commodity on board spacecraft,
+so room is often tight. Sleeping and personal quarters
+are rarely bigger than large closets, just enough room
+for a sleeping bag and personal effects. Depending
+on the size of the craft, there may be a communal
+recreation area. The crew tend to only be busy at the
+beginning and end of a trip, when they must deal with
+acceleration/deceleration and maneuvering around
+other space traffic. The rest of the trip they spend
+dealing with repairs or otherwise killing time, often
+by accessing XP or VR simulations or playing AR
+games. While spacecraft have their own local mesh
+network, they are usually too far to interact with the
+mesh networks of other habitats without significant
+communications lag, so they must make do with
+their own archive of entertainment options. Many
+long-haul ships are crewed by hibernoid morphs, who
+hunker down for a long nap.
+
+SPACESHIP COMBAT
+Combat in space tends to take place over long dis-
+tances using massive beam weapons, railguns, and
+missiles. It also tends to be nasty, brutish, and short.
+Significant damage to a vessel can cause atmospheric
+decompression, killing any biomorph crew who aren't
+suited up and strapped down.
+  For the most part, it is recommended that space
+combat be treated as a plot device, part of the back-
+ground story that helps create drama and tension,
+rather than an event that characters actively partici-
+pate in. This is not to say the characters cannot play a
+role in the combat, or that their actions will have no
+effect on the outcome. They may become involved in
+damage control, negotiate with hostile forces, repel
+boarders, target weapons with Gunnery skill, stage a
+mutiny, attempt to hack the networks of approach-
+ing vessels, escape out the airlock, hide out while the
+pirates sack the ship, or similar affairs. It is recom-
+mended, however, that gamemasters steer clear of
+space combat situations that could easily lead to the
+whole team dying due to a few bad dice rolls.
+
+
+
+NANOFABRICATION
+In order to create an object in a nanofabricator
+(whether a cornucopia machine, fabber, or maker; see
+p. 327), three things are needed: raw materials, blue-
+prints, and time.
+
+RAW MATERIALS
+Raw materials are generally easy to acquire, as most
+nanofabricators are equipped with disassembler units
+that will break down just about anything into its con-
+stituent molecules. Feedstock may also be purchased
+(at a cost of Trivial). Many habitats route their recy-
+cling and waste products directly into disassemblers.
+
+BLUEPRINTS
+Most nanofabricators are pre-loaded with blueprints
+for general purpose items: food, simple clothing, basic
+tools, etc. Blueprints for other goods may be acquired
+in several ways:
+
+ - They may be purchased online (legally or on the
+   black market).
+ - They may be found for free online (see below).
+ - They may be acquired with Rep, following the
+   usual rules for social networking (p. 285).
+ - They may stolen (usually by hacking a mesh site
+   or a nanofabricator containing such plans).
+ - They may be self-programmed (see below).
+
+  Once the blueprints are acquired, they are simply
+loaded into the nanofabricator.
+
+OPEN SOURCE BLUEPRINTS
+Blueprints for many goods may be found for free
+online, disseminated by an active open source
+software movement. The availability of such plans
+typically depends on the local mesh. In autonomist
+habitats, a simple Research Test is likely to turn up the
+open source blueprints you need (applying modifiers
+for unusual items). In more restricted habitats, open
+source blueprints may be harder to find, as they will
+be securely hidden from the prying eyes of the authori-
+ties. In this case, the character will need to use their
+Rep to gain access, bribe a local hacker group, or do
+something similar.
+   Note that restricted nanofabricators may not accept
+open source blueprints (see Blueprint Restrictions).
+
+BLUEPRINT RESTRICTIONS
+Some nanofabricators are equipped with pre-pro-
+grammed restrictions not to accept blueprints for re-
+stricted items (such as weapons) or non-licensed items
+(such as black market or open source blueprints).
+These restrictions may be circumvented by hacking
+the nanofabricator and re-programming it, following
+normal hacking rules (p. 254).
+
+PROGRAMMING BLUEPRINTS
+A dedicated character may simply decide to program
+their own blueprints, though this is a time-consuming
+endeavor. To do so, the character must make a Pro-
+gramming: Nanofabrication Test with a timeframe of
+one week per cost level of the item. For example, a
+Trivial cost item takes 1 week, a Low cost item takes 2
+weeks, a Moderate item 3 weeks, and so on. Academ-
+ics: Nanotechnology skill or a skill appropriate to the
+object's design may be used as a complementary skill
+(p. 173) for this test. A fork or muse may also be as-
+signed to such a programming task.
+%%% 287.txt %%%
+TIME
+Once the raw materials and blueprints are in, most nanofabrica-
+tion is simply a matter of time. The exact timeframe to create an
+object varies, but roughly approximates 1 hour per cost category of
+the item (1 hour for Trivial, 2 for Low, 3 for Moderate, etc.). The
+gamemaster may feel free to modify this period as appropriate for
+the object.
+
+THE PROGRAMMING TEST
+Nanofabrication is typically handled as a Programming: Nanofab-
+rication Test. In most cases, this can be treated as a Simple Success
+Test (p. 118), with a failed roll simply indicating that the item has
+some minor imperfections, or perhaps took longer to make.
+   In some cases, the gamemaster may call for an actual Success Test,
+meaning that failure is more of a possibility. This should only be
+done for items that are exotic, extremely complicated, or for which
+the blueprints are incomplete or otherwise suspect. This test can also
+be made if the raw materials are limited.
+   The character operating the nanofabricator can make this test or
+it can be left up to the nanofabricator's built-in AI. Most such Such
+AIs have a Programming: Nanofabrication skill of 30 (see AIs and
+Muses, p. 331).
+
+
+
+REPUTATION AND SOCIAL NETWORKS
+“Once upon a time, there was a planet so incredibly primitive that its
+ inhabitants still used money. That planet is called ‘Mars.'”
+   —Professor Magnus Ming, Titan Autonomous University
+
+   The conflict between market capitalism and other forms of eco-
+nomics is one of transhumanity's last great culture wars, and it's
+still being fought. Transhumanity's expansion into the solar system
+created myriad opportunities to experiment with new economic sys-
+tems. Many failed, but the reputation economies of the outer system
+have proven both utilitarian and robust in a way that no previous
+challenger to market capitalism has managed.
+   The reputation economy, sometimes called the gift economy or
+open economy, is one in which the material plenty created by nano-
+fabrication and the longevity granted by uploading and backups
+have removed considerations of supply versus scarcity from the
+economic equation—destroying classical economics in the process.
+   The regimented societies of the inner system and the Jovian
+Junta have used societal controls and careful regulation of the
+technologies of abundance on their populations, thus keeping to a
+transitional economy system that is largely an outgrowth of classi-
+cal economics. No one could get away with doing this in the outer
+system. In the Trojans and Greeks, much of the belt, free Jupiter, and
+anywhere outward from Saturn, the reputation economy rules.
+   How did this happen? For one thing, money is a nuisance when
+you're an autonomous member of an autonomous collective whose
+nearest three neighbors (each 100,000 kilometers away) are also
+autonomous collectives. All of you are almost completely self-
+sufficient in terms of material resources. You have a fleet of robots
+that harvest water, volatiles, reactor mass, metals, and silicates. You
+have a nanofabricator to make all of your small items, a community
+factory for large ones, and a machine shop where you can build
+anything else—with help and advice from an AI with the combined
+knowledge and experience of a top flight engineering team, if you
+even need it. You grow your own food.
+%%% 288.txt %%%
+  Money is for people who don't know how to take
+care of themselves. Transhumanity is only a few de-
+cades away from being a mature Type I Kardashev
+civilization, having largely mastered the material
+resources of its own solar system. A character from
+the outer system most likely finds the whole concept
+of money an embarrassment.
+   However, material abundance hasn't eliminated
+the value of certain goods and services. A transhu-
+man's lunch might be free, but innovative ideas, new
+designs, health care, sex, and dirty work don't grow
+in fabricators. What if you need gene therapy on your
+morph to grow infrared sensing cells on your face?
+How about someone to assassinate your renegade
+beta fork after she set off a hallucinogen grenade at
+your gallery opening and kidnapped your boyfriend?
+What if you really need a spanking? You call on your
+social network. If your network is sufficiently deep
+and numerous, and your reputation is good enough,
+someone will help you out.
+   In the inner system, the reputation economy doesn't
+replace money for the exchange of goods and services,
+but it does hold sway over the network of favors and
+influence. Calling on contacts, getting information,
+and making sure you're in the best place to see and be
+seen all involve calling on your social network.
+
+SOCIAL NETWORKS
+Social networks represent the people you know, and
+the people they know, and so on. It starts with your
+friends and family, spreads out to your co-workers,
+neighbors, and colleagues, and expands all the way
+out to your acquaintances, from the neo-hominid
+waitron at your favorite cafe to the sylph you flirt
+with at the club. In the always-online, fully-meshed
+universe of Eclipse Phase, this goes even further,
+encompassing all of the people you've linked to via
+social mesh networks, everyone who watches your
+blog/lifelog/updates, and everyone you interact with
+on various mesh forums. Now add in the friend-of-a-
+friend factor, and everyone has an impressive ability
+to reach out to people they know, people they sort of
+know, and people you don't know but who are some-
+how linked to you in one degree or another.
+   Of course, social networks are not homogeneous.
+Among the ever-diversifying ranks of transhumanity,
+there is a tendency to coalesce around various shared
+characteristics, whether those be cultural background,
+personal interests, professional ties, local connections,
+political affiliations, subcultural obsessions, or simply
+common interest from being part of the same sub-
+species clade. The social network of an info-anarchist
+hacker is likely to bear little resemblance to that of
+a hypercorp socialite or an isolate brinker. Neverthe-
+less, social networks quite frequently overlap, often
+in unexpected and interesting ways. Most people can
+be considered members of several different types of
+social networks. This overlap is what links disparate
+groupings of transhumans together.
+NETWORKING
+Just being connected, of course, doesn't mean you have
+several thousand idle transhumans at your beck and
+call. If you hope to gather the latest gossip, get advice
+from an expert, find someone who can fix your prob-
+lems, acquire a piece of gray market tech, or spread a
+meme, you need to know both who to talk to in that
+social network and how to go about getting what you
+need, especially if you hope to keep things quiet and
+not raise any flags.
+   This is where your Networking: [Field] skills come
+in (p. 182). Networking represents your ability to ma-
+neuver through this web of personal and impersonal
+connections to find who and what you need. This
+could be handled by word-of-mouth, posting the right
+queries in the right places on the mesh, monitoring
+the right personal profiles and forums, harnessing the
+power of the mob with crowdsourcing, or any number
+of similar creative tactics.
+   Each field you have in Networking represents a
+particular network grouping, a common interest that
+ties people together. Most of these fields are based
+on factions (Autonomists, Hypercorp, etc.) and tie
+into a special reputation network (see the Reputation
+Networks table, p. 287). At the gamemaster's discre-
+tion, other groupings of people could be connected
+through these skills and rep systems. For example,
+artists and journalists of all stripes can fall under
+the Networking: Media skill and f-rep, no matter if
+they are autonomist or hypercorp. Likewise, being a
+diverse group, brinkers do not universally fall into any
+of the categories, and are instead spread out between
+them. If the gamemaster and players agree, other
+Networking fields and rep networks may be added,
+representing other spheres of interest, such as AR
+Games, Sports, Slash Fiction, etc.
+   The exact uses for which you may exploit your social
+networks are noted below. While in some cases the de-
+fining element is who you know and how good you are
+at reaching out to them, in others the defining element
+is how known you are. You might be connected to
+thousands of people, but if you don't have clout, your
+efforts to make use of these connections is limited. This
+is where Reputation comes into play.
+
+REPUTATION
+Reputation is a measurement of your social currency.
+In the gift economies of the outer system, social repu-
+tation has effectively replaced money. Unlike credit,
+however, reputation is far more stable.
+   Within Eclipse Phase, reputation scores are facili-
+tated by online social networks. Almost everyone is a
+member of one or more of these reputation networks.
+It is a trivial matter to ping the current Rep score and
+history of someone you are dealing with—your muse
+often does this automatically, marking an entoptic
+Rep score badge on anyone with whom you interact,
+updated in real time, so you will see if they suddenly
+take a hit or become popular. The 7 most common
+networks are noted on the Reputation Networks
+%%% 289.txt %%%
+ table. Gamemasters and characters may decide to add             FAVOR LEVELS AND MODIFIERS
+ others appropriate to their game.                               Rep scores are broken down into five levels, reflecting
+   You purchase a Rep score in one or more of these              your standing within that community. Every 20 points
+ networks during character creation. Rep scores are              of Rep equals one level. See the Reputation Levels
+ rated between 0 and 99, just like skills. These ratings         table for a breakdown.
+ determine your ability to acquire goods, services, and             Likewise, favors are also broken down into five
+ information and favors, as noted below. These scores            levels, rated from Trivial to Scarce (see Favors, p. 289,
+ may be raised or lowered during game play according             for specific examples). The standard level of favor
+ to your character's actions.                                    you can expect to get from a social network is based
+                                                                 on your level of Rep in that network. If you want to
+ USING NETWORKS AND REP                                          pursue a favor above your level, you can do so, but
+ In game terms, you take advantage of your connec-               you will suffer a negative modifier on your Network-
+ tions and personal cred every time you need a favor.            ing Test. This reflects that someone with low standing
+ A favor is broadly defined as anything you try to get           has a hard time getting people to go out of their way
+ via your social networks, whether that be information,          for them. Similarly, if you pursue a favor below your
+ aid, goods, and so on. Different types of favors are            level, you receive a positive modifier to your Network-
+ described under Favors, p. 289.                                 ing Test, reflecting that your prestige makes it easier to
+                                                                 acquire minor things that you need. For each level the
+ THE NETWORKING TEST                                             favor falls under or above your Rep score level, apply
+ To pursue a favor, you start by looking around. This            a + or –10 modifier, as appropriate.
+ calls for a Networking Test to determine if you can
+ find the person, people, or information you need.                   Jaqui's on a scum barge and she needs to get a
+ This represents talking to people you know, spread-                 hold of a weapon fast. She has a specific weapon in
+ ing the word to people they know, posting queries to                mind, but it's pricey—its cost is High. She decides
+ the social network at large, digging through various                her best approach is to try talking to the scum on
+ profiles, chat rooms, etc. to find someone who might                the ship to try and find someone who can lend or
+ help you out, and so on.
+
+
+
+
+                                                                                                                               EXAMPLE
+                                                                     sell her such a weapon, using her @-rep and her
+    Networking Tests are subject to modifiers for the                Networking: Autonomist skill of 50. Acquiring a
+ level of the favor (see below), the amount the char-                High cost item counts as a Level 4 High favor (see
+ acter is trying to keep quiet about the request (see                Acquire/Unloads Goods, p. 289). Jaqui's @-rep
+ below), and any other factors noted on the Network-                 is 53, which is only Level 3. Since the favor is one
+ ing Modifiers table or determined by the gamemaster.                level higher than her rep level, she suffers a –10
+    Networking Tests are Task Actions—it takes time                  modifier on her Networking Test. Jaqui must roll a
+ to call in favors or track down information. The time-              40 or less (50 – 10) to find a weapon supplier.
+ frame depends on the level of favor, as noted on the
+ Favors table, p. 289.
+
+
+
+                                          REPUTATION NETWORKS
+NETWORK NAME                   REP NAME           NETWORKING FIELD       FACTIONS AND OTHERS
+The Circle-A List              @-Rep              Autonomists            anarchists, Barsoomians, Extropians, Titanian, and scum
+CivicNet                       c-Rep              Hypercorps             hypercorps, Jovians, Lunars, Martians, Venusians
+EcoWave                        e-Rep              Ecologists             nano-ecologists, preservationists, and reclaimers
+Fame                           f-Rep              Media                  socialites (also artists, glitterati, and media)
+Guanxi                         g-Rep              Criminals              criminals
+The Eye                        i-Rep              Firewall               Firewall
+Research Network Associates r-Rep                 Scientists             argonauts (also technologists, researchers, and scientists)
+
+
+
+       NETWORKING MODIFIERS                                                 REPUTATION LEVELS
+             SITUATION                      MODIFIER                   REPUTATION SCORE                      REPUTATION LEVEL
+    Favor level exceeds Rep level          –10 per level                        0–19                                 Level 1
+    Rep level exceeds favor level          +10 per level                       20–39                                 Level 2
+            Keeping quiet              –Variable (see p. 288)                  40–59                                 Level 3
+             Burning Rep               +Rep amount burned                      60–79                                 Level 4
+             Paying extra                  +10 per level                       80–99                                 Level 5
+%%% 290.txt %%%
+PAYING/EXCHANGING FOR FAVORS
+Favors don't necessarily come for free. Depending on
+what you're after, you may also need to exchange for it.
+  In the capitalist and transitional economies of the
+inner system and Jovian Junta, you may need to buy
+the goods or services you are after with credit. Even in-
+formation might be paid for by bribing the right person.
+Once spent, that credit is gone until you earn more.
+  In the anarchistic reputation economies of the outer
+system, you can get what you need for free. In this
+case, you are acquiring goods and services based on
+the strength of your reputation.
+
+
+           Jaqui rolls a 39—she makes it! After posting some
+           public notices on the scum social network (she's
+           not worried about legalities or hiding what she's
+ EXAMPLE
+
+
+
+
+           doing—this is a scum ship after all), she gets di-
+           rected to a weapons dealer with a good rep. While
+           a scum arms merchant normally sells their wares
+           for credit, Jaqui is scum herself, so she's able to use
+           her scum community standing and get the weapon
+           for free. This uses up a High favor, however.
+
+
+THE LIMITS OF REPUTATION
+Even in the gift economies, reputation only gets you so
+far. There are limits to how often you can ask for help
+before you start coming across as pushy or a leech. In
+game terms, this is expressed as a refresh rate—the
+amount of time you must wait to pass before you can
+seek out a favor of that level again without seeming
+demanding. Refresh rates are noted on the Favors
+table (p. 289).
+   If you need to seek another favor before the refresh
+rate has expired, you have two choices. You can
+expend a higher level favor instead, keeping in mind
+that higher level favors refresh more slowly. Alterna-
+tively, you can burn reputation (see below).
+
+
+           Now that Jaqui's got her weapon, she needs
+           another favor—she needs to find someone who
+           doesn't want to be found. The person she's after is
+           scum, so once again she turns to the scum for help.
+           The gamemaster decides that this is another Level
+           4 favor (see Acquire Information, p. 291). Once
+           again, with her Networking: Autonomist of 50 and
+           Level 3 rep, she must roll a 40 or less. She gets a
+ EXAMPLE
+
+
+
+
+           21, and finds someone who has the information
+           she needs.
+              Jaqui now has a choice. To get this information,
+           she either needs to pay the person in credits (a
+           High cost) or she she needs to expend another
+           Level 4 favor. She's low on money, so she decides
+           to use her rep again. Level 4 favors only refresh
+           once a month, though, and Jaqui used her last one
+           just a few hours ago. Her only choice is to expend
+           a higher favor, so she expends a Level 5 to get the
+           intel she needs.
+BURNING REPUTATION
+In some cases, getting what you need may be more
+important than not stepping on people's tentacles. In
+situations of dire need, you can burn some of your
+Rep score to get the job done, meaning that you ex-
+change a loss of Rep for a shot at a favor. This reflects
+that you are pushing the bounds of how far people are
+willing to go for you. While you still might get what
+you need, your online reputation rating takes a hit as
+people flag you for being needy.
+   There are two reasons to burn Rep score. The first
+is to get a bonus on your Networking Test. This indi-
+cates that you are pulling strings and calling in mark-
+ers to get the favor you're after. This is particularly
+useful when you are trying to obtain a favor that's of
+a level higher than your Rep, but abuse it too often
+and you will soon have no social standing at all. Every
+point of Rep you burn gives you an equivalent posi-
+tive modifier on the Networking Test, up to a maxi-
+mum of +30.
+   The second option is to burn Rep to seek a favor
+before it has refreshed. This reflects that you are asking
+for too much in a short period. The amount of Rep
+you must burn in this case depends on the level of favor
+you are seeking, as noted on the Favors table (p. 289).
+
+
+  Jaqui's got her weapon and her target's where-
+  abouts, but she needs one more thing: a hacker.
+  She needs someone who can open some doors
+  and defeat some security systems so she can get
+  to the target she's after in his hideout. Since she's
+  on a scum barge, Jaqui feels that, once again, her
+  best option is to work her scum contacts. The
+  gamemaster determines that this will be another
+  Level 4 favor. Rolling against a target number of
+                                                          EXAMPLE
+
+
+
+
+  40 again, she gets a 13—her luck is holding.
+     She finds a hacker, but now she needs to make
+  an exchange for their services. Once again she
+  decides not to spend credit and use her @-rep
+  instead. Jaqui's already used up both her Level 4
+  and Level 5 @-rep favors, though, so she has no
+  choice but to burn reputation. A Level 4 favor costs
+  10 Rep to burn. Jaqui spends it, sending her @-rep
+  from 53 to 43—she's been pulling in a lot of big
+  favors in a short amount of time, and her friends
+  and acquaintances are expressing their annoyance
+  by lowering her social standing.
+
+
+KEEPING QUIET
+The problem with using social networks for favors is
+that you end up letting lots of other people know what
+you're up to. When you're involved in a clandestine
+operation, that could be exactly what you don't want.
+The only way to diminish this is to take your requests
+to trusted friends and ask them to keep quiet, but this
+diminishes the pool of people at your disposal.
+%%% 291.txt %%%
+   In game terms, you can try to keep word of what
+ you're doing quiet, but this makes it harder to get
+ what you need. For every negative modifier you apply
+ to your Networking Test, the same negative modifier
+ applies to anyone making a Networking Test to find
+ out what you're up to.
+
+
+              Revisiting one of our previous examples, we go
+              back to the point where Jaqui was trying to
+              ascertain someone's hideout location. Because
+              the person she's after is scum, they're on a
+              scum ship, and Jaqui is using her Networking:
+              Autonomist skill to find them, there's a good
+              chance that if she starts asking around to ev-
+              eryone, word might trickle back to the person
+              she's after. She doesn't want them to know
+              she's on their tail, though, so she decides to
+   EXAMPLE
+
+
+
+
+              make her inquiries more discreet. She applies
+              a –20 modifier to her Networking Test, which
+              lowers her target number from 40 to 20. As
+              noted before, she rolls a 21, which is a fail-
+              ure. She spends a Moxie point to flip the roll,
+              though, making it a 12—a success.
+                Because Jaqui took that –20 hit, represent-
+              ing the fact that she was keeping her research
+              quiet, her target will suffer a –20 modifier
+              when he makes his Networking Test to see if
+              he gets word that someone is asking around
+              about his hideout.
+
+
+ FAVORS
+ Creative players can undoubtedly come up with many
+ uses for their social networks, but a few of the more
+ common are detailed here.
+   Gamemasters should use their discretion as to how
+ much roleplaying interaction and Networking Tests
+ are included in using a social network. For normal
+ goods, straightforward information queries, or small
+ favors, neither dice rolling nor roleplaying may be re-
+ quired. For major requests, interactions with contacts,
+ and mission assistance, dice rolls and/or roleplaying
+ interaction with contacts from the social network
+ should usually occur. Gamemasters may wish to keep
+ track of the NPC contacts in each character's social
+ networks and make them recurring characters.
+
+
+
+
+                           FAVORS
+                                     BURNING
+FAVOR LEVEL          TIMEFRAME       REP COST REFRESH RATE
+1 (Trivial)             1 minute         0           1 hour
+2 (Low)                30 minutes        1            1 day
+3 (Moderate)             1 hour          5           1 week
+4 (High)                 1 day          10           1 month
+5 (Scarce)               3 days         20          3 months
+ ACQUIRE/UNLOAD GOODS
+Social networks are a good way to find items that
+you can't buy legally or make at home. Depending
+on who you're getting the goods from, this will cost
+you credit or require an appropriate Rep score. This
+favor can also be used to sell or give away such items,
+making some money or perhaps even some Rep in
+the process.
+
+
+      ACQUIRE/UNLOAD GOODS
+LEVEL   SERVICE
+  1     Acquire/unload item with an expense of Trivial.
+  2     Acquire/unload item with an expense of Low.
+  3     Acquire/unload item with an expense of Moderate.
+  4     Acquire/unload item with an expense of High.
+  5     Acquire/unload item with an expense of Expensive
+
+
+
+ ACQUIRE SERVICES
+When you lack the skills or education you need, or
+you just need another set of arms, you can call out
+to your social network to find someone to help you
+out. If you are looking for someone with a particular
+skill, the result of your successful Networking Test roll
+is the skill rating of the person you find. The higher
+your Networking skill, the better able you are to find
+highly-skilled professionals.
+
+
+   Cole needs to find an astrobiologist who can help
+   him identify an alien critter. He rolls his Network-
+   ing: Scientist skill of 50 and gets a 43—a success.
+                                                          EXAMPLE
+
+
+
+
+   He tracks down someone with Academics: Astro-
+   biology skill of 43 (his roll) who can help him out.
+   When the astrobiologist looks the critter over, the
+   gamemaster makes a roll for the NPC using that
+   skill of 43.
+
+
+ ACQUIRE INFORMATION
+When you can't find the information online or you
+don't have the time or capability to look, you can
+turn to people in your social network and tap their
+accumulated knowledge base.
+
+ REPUTATION AND IDENTITY
+It is important to note that reputation is closely tied
+to identity. If you are undercover and using a fake ID,
+you can't really call on your Rep score without giving
+yourself away. As a result, many people using false
+identities end up building up a separate set of Rep
+scores for their alter ego.
+   Note that since many social network interactions
+take place online, it is possible for someone to secretly
+make use of their real identity while masquerading
+as someone else, as long as they're careful about it. If
+anyone happens to be spying on their activity via the
+mesh, they stand a chance of being found out.
+%%% 292.txt %%%
+           ACQUIRE SERVICES
+VEL   SERVICE
+      Trivial favor: Get someone to perform services for 15
+      minutes. Moving a chair. Browbeating someone. Catching a
+ 1
+      ride. Researching someone on line. Borrow 50 credits. Other
+      Trivial cost services.
+      Minor favor: Get someone to perform services for an
+      hour. Moving to a new cubicle. Roughing someone up.
+ 2    Loaning a vehicle. Providing an alibi. Healing vat rental.
+      Minor hacking assistance. Basic legal or police assistance.
+      Borrow 250 credits. Other Low cost services.
+      Moderate favor: Get someone to perform services for
+      a day. Moving to a habitat in the same cluster. Serious
+      beatings. Lookouts. Short-distance egocast. Short shuttle
+ 3    trip (under 50,000 km). Minor psychosurgery. Uploading.
+      Reservations at the best restaurant ever. Major legal rep-
+      resentation or police favors. Borrow 1,000 credits. Other
+      Moderate cost services.
+      Major favor: Get someone to perform services for a
+      month. Moving a body. Homicide. Getaway shuttle piloting.
+      Industrial sabotage. Large-volume shipping contract on
+ 4    bulk freighter. Medium-distance egocast. Mid-range shuttle
+      trip (50,000–150,000 km). Moderate psychosurgery.
+      Resleeving. Get out of jail free. Borrow 5,000 credits. Other
+      High cost services.
+      Partnership: Get someone to perform services for a
+      year. Moving a dismembered body. Mass murder. Major
+      embezzlement. Acts of terrorism. Relocate a mid-size
+ 5
+      asteroid. Long-distance egocast. Long-range shuttle trip
+      (150,000 km or more). Borrow 20,000 credits. Other
+      Expensive cost services.
+
+
+
+
+      ACQUIRE INFORMATION
+LEVEL SERVICE
+      Common Information: Where to eat. What biz a certain
+ 1
+      hypercorp is in. Who's in charge.
+      Public Information: Make gray market connections.
+      Where the “bad neighborhood” is. Obscure public
+ 2
+      database info. Who's the local crime syndicate. Public
+      hypercorp news.
+      Private Information: Make black market connections.
+      Where an unlisted hypercorp facility is. Who's a cop. Who's
+ 3
+      a crime syndicate member. Where someone hangs out.
+      Internal hypercorp news. Who's sleeping with whom.
+      Secret Information: Make exotic black market
+      connections. Where a secret corp facility is. Where
+ 4
+      someone's hiding out. Secret hypercorp projects. Who's
+      cheating on whom.
+      Top Secret Intel: Where a top secret black-budget
+ 5    lab is. Illegal hypercorp projects. Scandalous data.
+      Blackmail material.
+%%% 293.txt %%%
+SECURITY
+Firewall sentinels make a regular habit of being in
+places where they are not supposed to be and bring-
+ing things with them that others would prefer they
+not have. Security has a different character post-Fall
+than in the 21st century. Due to hyper-abundance,
+physical security measures such as locks, doors, and
+walls are less important than in the past to common
+citizens. People don't worry about theft as much as
+in the past because most items can be replaced by a
+nanofabricator. The items that do tend to engender
+this type of security are irreplaceable or rare items
+such as artifacts of Earth.
+   Post-Fall physical security focuses heavily on
+surveillance—identifying intruders and tracking
+them so that they can be interdicted by transhuman
+or robotic defenders. Surveillance is more effec-
+tive than in pre-Fall societies because AIs with
+near-human faculties of pattern recognition and
+indentured infomorphs can be employed to monitor
+surveillance data.
+  The emphasis on surveillance results from the ease
+with which most material barriers can be breached
+by high-powered hand weaponry and devices like
+the covert operations tool (p. 315). However, physi-
+cal barriers designed to actively resist intruders by
+healing themselves or attacking tools used to damage
+them are used at key points in secure installations.
+Such barriers are typically very expensive and so are
+used sparingly.
+  Transhuman, animal, and infolife defenders are
+cornerstones of most security systems. The avail-
+ability of a huge pool of infomorph labor to guard
+facilities means that someone is always on duty,
+whether as part of the surveillance system or in a
+robotic shell.
+
+ACCESS CONTROL
+The first step in any security system is simply to enact
+measure to keep unwanted people out. At a basic level
+this involves walls, locks, fencing, defensive landscap-
+ing, security lighting, and entoptic warnings.
+   Barriers of different sorts present an obstacle that
+must be cut through or blown apart in order to
+defeat. Barriers are treated just like other inanimate
+objects for purposes of attack sand damage; see Ob-
+jects and Structures, p. 202.
+
+BUG ZAPPERS
+Bug zappers create minute EMP pulses that are harm-
+less to most electronic equipment and implants but
+wreak havoc on nanobot swarms, microbugs, and
+specks. Bug zappers are generally applied to surfaces,
+and as such they only destroy floating/flying swarms
+or specks if they land. In areas with heavily shielded
+electronics, they may be installed to destroy targets
+in an entire room. A zapper instantly destroys all
+free-crawling or flying nanobots and specks in a room
+when it goes off, but transhuman flesh is sufficient to
+prevent it destroying medichines or other implanted
+nanobots. Infiltrators trying to gather data in areas
+protected by zappers generally resort to going around
+them or trying to plant macroscale devices.
+
+ELECTRONIC LOCKS
+Electronic locks (e-locks) are commonly used as a
+means of maintaining privacy. They are easy to defeat,
+however, and so are rarely used in very secure areas.
+E-locks have several advantages over old-fashioned
+mechanical locks. Different users can have different
+authentication methods, they can log all events (entry,
+exit, failed authentications), and they can be con-
+nected (usually hardwired but sometimes encrypted
+wireless) to security systems for remote control and
+alarm triggering.
+   E-locks use one of several authentication systems,
+or sometimes a combination of systems:
+   Biometric: The lock scans one or more of the user's
+biometric prints. Common biometrics include DNA,
+facial thermographic, fingerprint, gait, hand veins, iris,
+keystroke, odor, palm, retinal, and voice prints.
+   Keypad: This is an alphanumeric keypad upon
+which users enter a specific code. Different users can
+have different codes.
+   Token: Authorized users must carry some sort of
+physical token that interacts with the lock to open the
+door, such as a keycard, electronic key, etc.
+   Wireless Code: Users must emit a cryptographic
+code via near-proximity wireless signal.
+   Though various technologies exist to defeat each
+of these systems, there are three methods that work
+against almost all e-locks. The first is use of a covert
+operations tool (p. 315), which infiltrates a lock with
+nanobots that swarm in and engage the electronic
+mechanism. The drawback to using a COT is that its
+use is immediately logged by the e-lock and an alarm
+is triggered. Some e-locks are equipped with guardian
+nanoswarms (p. 329) to defeat COTs, but the COT
+nanobots usually manage to open the lock before the
+guardians eat them.
+   The second method is to hack the e-lock. Most
+e-locks are slaved to a security system, so this often
+means intruding into the security system and then
+opening the lock from within. This can be difficult,
+however, especially if the security system is wire-
+lessly isolated or hardwired. The advantage is that,
+if done right, all evidence of the lock being opened
+can be erased.
+   The third method is to physically open and ma-
+nipulate the lock. This requires first opening the
+lock's case and then triggering the lock mechanism
+to open the door. Both of these are handled as
+separate Hardware: Electronics Task Actions with
+a timeframe of 1 minute each. In addition, most e-
+locks have anti-tamper circuits that will set off an
+alarm if the attacker does not achieve an Excellent
+Success when opening the case.
+%%% 294.txt %%%
+LOCKBOTS
+The 21st century saw a move from mechanical
+locks to e-locks and other largely electronic locking
+mechanisms. These devices worked well for about
+50 years, until electronic infi ltration capabilities
+rendered them largely useless. The more recent de-
+velopment of lockbots has more in common with
+their early mechanical forebears. They are unique,
+expensive, artisan items.
+   A typical lockbot is heavily integrated with the
+portal and barrier it protects. Lockbots usually
+include an AI or indentured infomorph, self-healing
+materials (treat as a self-healing barrier), and a
+swarm of guardian nanobots (p. 329). A lockbot
+monitors its surroundings and has visual recogni-
+tion software that knows what its users and its keys
+look like (Perception skill 40). Picking a lockbot is
+thus incredibly difficult, because it will shut its ori-
+fice and not accept a key that doesn't look right or
+that comes from an unrecognized user. Unfamiliar
+nanobots trying to enter the orifice are targeted and
+destroyed by the guardian nanobots. Finally, exter-
+nal tools used to harm the portal or the lock will be
+attacked by fractal appendages extruded from the
+portal surface or the lock itself. These appendages
+have a range of 1 meter, attack with skill of 40, and
+inflict 1d10 +2 DV.
+   Lockbots are generally immune to being hacked
+because, for security, they aren't connected to
+the mesh. If attacked, however, lockbots are pro-
+grammed to send out an alarm signal via the mesh.
+   There are several ways to defeat a lockbot. One
+is to get a copy or image of the key and then forge
+a copy (using nanofabrication). Another is to attack
+the lockbot or the portal it guards with so much
+force that the lockbot is unable to repair it (usually
+using ranged weapons, as anything within a meter
+of a lockbot may be counterattacked). A third is to
+somehow image the cavity beyond the lockbot's ori-
+fice without the imaging device being destroyed and
+to then forge the key. All of these are difficult and
+time-consuming processes.
+   Some lockbots have the ability to destroy what
+they're protecting. For example, lockbots are a
+common protection for the physical interfaces to
+hardwired networks. If the lockbot is compromised,
+it may, as a last resort, destroy the interface it was
+protecting.
+
+PORTAL DENIAL SYSTEM
+Installed in corridors or doorways, this is essentially
+a laser trap device. When an unauthorized person
+enters the portal denial system's area, it uses lasers
+to create a grid of plasma channels that are used to
+deliver a powerful electric current to the target. This
+system has both lethal and nonlethal settings.
+  Nonlethal: 1d10 DV + shock (p. 204)
+  Lethal: 2d10 +5 DV
+SELF-HEALING BARRIERS
+Walls and doors that are able to rapidly repair them-
+selves are sometimes found in high security instal-
+lations. These barriers are made of materials that
+automatically expand to “heal” small holes and that
+are equipped with nanosystems that slowly repair
+larger amounts of damage. The best of these barriers
+do no more than slow down the most determined
+assailants, but in combination with surveillance sys-
+tems they are a nuisance to invaders and can slow
+down attempts to flee the scene.
+   Self-healing barriers heal any single source of
+damage that is less than 5 points of damage almost
+immediately, sealing the hole in 1 Action Turn. They
+will also seal the holes infl icted by a covert ops
+tool (p. 315) in the same time period. Additionally,
+these barriers repair larger themselves at the rate of
+1d10 damage per 2 hours; once all damage is fixed
+any wounds are repaired at the rate of 1 per day.
+Damage of 3 wounds or more may not be repaired
+by self-healing.
+
+SLIPPERY WALLS
+On planetary surfaces, high walls and fences are still
+common as a first line of defense against interlop-
+ers. Slippery walls are surface treated with the slip
+chemical (p. 323), creating a virtually frictionless
+surface that is exceptionally difficult to climb.
+
+WIRELESS INHIBITORS
+Wireless inhibitors are simple paint jobs or construc-
+tion materials that block radio signals. They are
+used to create a contained area in which a wireless
+network may operate freely without worry that the
+signals will escape out of the area, where they can
+be intercepted. Wireless inhibitors allow the conve-
+nience of using wireless links within a secure area
+rather than the clumsier hardwired connections. If
+an intruder manages to gain access inside the area,
+however, they can intercept, sniff, and hack wireless
+devices as normal.
+
+DETECTION AND SURVEILLANCE
+Should security measures fail to keep an intruder
+out, the second step is to detect an interloper and
+track their activity.
+
+NANOTAGGING
+A lot of post-Fall security centers not around keeping
+people out of private spaces, but tracking them after
+they come and go. What little privacy transhumans
+have, they cherish. Trespassing is a worse offense
+than theft in many places.
+  A room protected by a taggant nanoswarm (p. 329)
+usually has two or more hives, one each at floor and
+ceiling level (if in gravity; on the opposite side of the
+room if in microgravity) that generate and recycle
+nanobots. The taggants emerge from one hive, float
+through the room, and then return to the other for
+recharging and reuse. A feed line usually connects the
+%%% 295.txt %%%
+hives so that they can share materials and power.
+   Anyone passing through the room is likely to be
+dosed with taggant nanobots. Once they lose proxim-
+ity to the rest of the hive, they hide and periodically
+broadcast pulsed transmissions meant to give their po-
+sition to pursuers or investigators. Some may drop off
+in clusters to form a breadcrumb trail to the interloper.
+
+SENSORS
+Any of the various sensors described in the Gear
+chapter (p. 294) may be deployed within a facility
+to monitor and record the passage of personnel,
+both authorized and not. These sensors are typically
+slaved to the facility's security network and closely
+monitored by security AIs, meaning they are vulner-
+able to hacking and possibly jamming. A few other
+sensor types deserve mention here:
+   Chemical Sniffers: The chem sniffer described on
+p. 311 can also be set to detect the carbon dioxide
+exhaled in transhuman breaths. This is useful for
+detecting intruding biomorphs in areas that are
+abandoned/off-limits.
+   Electrical Sensors: Electrical sensors can be set in
+portals to detect a biomorph's electromagnetic field
+in addition to the electrical fields of synthmorphs.
+   Heartbeat Sensors: These sensitive sensors detect
+the vibration caused by transhuman heart beats.
+They can even be used to detect the heartbeats of
+passengers inside a large vehicle.
+   Seismic Sensors: Embedded in flooring, these sen-
+sors pick up the pressure and vibration of weight
+and movement.
+
+WEAPON SCANNERS
+Weapon scanners come in several varieties, includ-
+ing those that look for the rare elements used in
+extremely destructive weapons such as nukes, those
+that attempt to locate personal weaponry, and those
+that look for detection taggants.
+   Rare element scanners are nearly flawless and are
+ubiquitous in habitat customs and spaceports. The
+only way to circumvent them is to find an alternate
+route into the protected area.
+   Personal weapon scanners can monitor a specific
+area, such as a small room or doorway. They use
+a number of sensing systems to detect and identify
+weapons and other dangerous objects, including
+chemical sniffers and radar/terahertz/infrared/x-ray/
+ultrasound imaging. They can detect the following
+items and substances:
+
+ - Metal used in kinetic weapons, seekers, and
+   flechette weapons
+ - Devices with onboard hives of metallic nano-
+   bots (e.g., covert operations tools, spindles)
+ - Magnetic elements in plasma guns and railguns
+ - Propellant from firearms ammunition and seek-
+   ers (–30 to conceal)
+ - Chemical fuels used in torch spray weapons
+   (–30 to conceal)
+ - All explosives and grenades by their chemical
+   particulate emissions (–30 to conceal)
+ - Poisons and bioagents in flechette weapons
+ - Any weapon or device larger than palm size
+   (using sound waves and shape recognition)
+
+  Characters trying to sneak weapons and gear past
+personal weapon scanners must make a Palm-
+ing Test (if concealing) or an Infiltration
+Test (if somehow maneuvering around
+without notice). This is opposed by a
+Perception Test from the character or
+AI manning the sensor system.
+
+WIRELESS SCANNING
+Some high-security areas will in-
+tentionally monitor for wireless
+radio signals originating within
+their area as a way of detect-
+ing intruders by their com-
+munications emissions. These
+signals can even be used to
+track the intruder's location via
+triangulation and other means
+(see Physical Tracking, p. 251).
+To bypass wireless detection sys-
+tems, covert operatives can use
+line-of-sight laser links (p. 313)
+for communication or touch-based
+skinlinks (p. 309).
+
+ACTIVE COUNTERMEASURES
+When all else fails, active counter-
+measures may be deployed against
+intruders. While live transhu-
+man guards are sometimes
+used, robotic sentries are more
+common, typically AI-driven
+synthmorphs such as synths,
+slitheroids, arachnoids, or
+reapers, with guardian angels
+(p. 346) providing air support.
+Occasionally AI-operated gun
+emplacements—armored tur-
+rets that pop out of walls and
+ceilings—are also applied. In
+some circumstances, these shells
+are teleoperated or even jammed
+by transhuman security.
+   dditional countermeasures brought
+to bear will depend on the facility in
+question. Some sites will engage in active
+jamming, to deny the intruders any com-
+munication. Others will deploy hostile nano-
+swarms and even chemical weapons.
