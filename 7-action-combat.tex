@@ -1,7 +1,370 @@
-\chapter{Action and Combat}
-\label{cha:action-combat}
+%%% EDITION: 2nd Printing
 
-%%% Local Variables: 
-%%% mode: latex
-%%% TeX-master: "ep"
-%%% End: 
+\chapter{Action and combat}
+\label{chap:action-combat}
+
+Roleplaying games are about creating drama and adventure, and that usually means action and combat. Action and combat scenes are the moments when the adrenaline really gets pumping and the characters’ lives and missions are on the line.
+
+Combat and action scenarios can be confusing to run, especially if the gamemaster also needs to keep track of the actions of numerous NPCs. For these reasons, it’s important for the gamemaster to detail the action in a way that everyone can visualize, whether that means using a map and miniatures, software, a dry-erase board, or quick sketches on a piece of paper. Though many of the rules for handling action and combat are abstract—allowing room for interpretation and fudging results to fit the story—many tactical factors are also incorporated, so even small details can make a large difference. It also helps to have the capabilities of NPCs predetermined and to run them as a group when possible, to reduce the gamemaster’s burden in the middle of a hectic situation.
+
+
+\section{Action turns}
+\label{sec:action-turns}
+
+Action scenes in Eclipse Phase are handled in bitesize chunks called Action Turns, each approximately 3 seconds in length. We say ``approximately''  because the methodical, step-by-step system used to resolve actions does not necessarily always translate realistically to real life, where people often pause, take breaks to assess the situation, take a breather, and so on. A combat that begins and ends within 5 Action Turns (15 seconds) in Eclipse Phase could last half a minute to several minutes in real life. On the other hand, the characters may be in a situation where their breathing environment decompresses to vacuum in 15 seconds, so every second may in fact count. As a rule, gamemasters should stick with 3 seconds per turn, but they shouldn’t be afraid to fudge the timing either when a situation calls for it.
+
+Action Turns are meant to be utilized for combat and other situations where timing and the order in which people act is important. If it is not necessary to keep track of who’s doing what so minutely, you can drop out of Action Turns and return to ``regular''  free form game time.
+
+Each Action Turn is in turn broken down into distinct stages, described below
+
+
+\subsection{Step 1: Roll initiative}
+\label{sec:roll-initiative}
+
+At the beginning of every Action Turn, each PLAYER involved in the scene rolls Initiative to determine the order in which each character acts. For more details, see \emph{Initiative}.
+
+
+\subsection{Step 2: Begin first action phase}
+\label{sec:begin-first-phase}
+
+Once Initiative is rolled, the first Action Phase begins. Everyone gets to act in the first Action Phase (since everyone has a minimum Speed of 1), unless they happen to be unconscious/dead/disabled, starting with the character with the highest successful Initiative roll.
+
+
+\subsection{Step 3: Declare and resolve actions}
+\label{sec:declare-resolve}
+
+The character going first now declares and resolves the actions they will take during this first Action Phase. Since some actions the character makes may depend on the outcome of others, there is no need to declare them all first—they may be announced and handled one at a time.
+
+As described under Actions (p. 189), each character may perform a varying number of Quick Actions and/or a single Complex Action during their turn. Alternately, a character may begin or continue with a Task Action, or delay their action pending other developments (see Delayed Actions, p. 189).
+
+A character who has delayed their action may interrupt another character at any point during this stage. That interrupting character must complete this stage in full, then the action returns to the interrupted character to finish the rest of their stage.
+
+
+\subsection{Step 4: Rotate and repeat}
+\label{sec:rotate-repeat}
+
+Once the character has resolved their actions for that phase, the next character in the Initiative order gets to go, running through Step 3 for themselves.
+
+If every character has completed their actions for that phase, return to Step 2 and go the second Action Phase. Every character with a Speed of 2 or more gets to go through Step 3 again, in the same Initiative order (modified by wound modifiers). Once the second Action Phase is completed, return to Step 2 for the 3rd Action Phase, where every character with a Speed of 3 or more gets to go for a third time. Finally, after everyone eligible to go in the 3rd Action Phase has gone, return to Step 2 for a fourth and last Action Phase, where every character with a Speed of 4 can act for one final time.
+
+At the end of the fourth Action Phase, return to Step 1 and roll Initiative again for the next Action Turn.
+
+
+\section{Initiative}
+\label{sec:initiative}
+
+Timing in an Action Turn can be critical—it may mean life or death for a character who needs to get behind cover before an opponent draws and fires their gun. The process of rolling Initiative determines if a character acts before or after another character.
+
+
+\subsection{Initiative order}
+\label{sec:initiative-order}
+
+A character’s Initiative stat is equal to their Intuition + Reflexes aptitudes multiplied by 2. This score may be further modified by morph type, implants, drugs, psi, or wounds.
+
+In the first step of each Action Turn, every character makes an Initiative Test, rolling d100 and adding their Initiative stat. Whoever rolls highest goes first, followed by the other characters in descending order, highest to lowest. In the event of a tie, characters go simultaneously.
+
+\begin{quotation}
+Adam, Bob, and Cami are rolling Initiative. Adam’s Initiative stat is 80, Bob’s is 110, and Cami’s is 60. Adam rolls a 38, Bob rolls a 24, and Cami rolls a 76. Adam’s total Initiative score is 118 (80 + 38), Bob’s is 134 (110 + 24), and Cami’s is 136 (60 + 76). Cami rolled highest, so she goes first, followed by Bob and then Adam. If Cami & Bob had tied, they would both go at the same time.
+\end{quotation}
+
+\subsubsection{Initiative and damage} Characters who are suffering from wounds have their Initiative score temporarily reduced (see Wounds, p. 207). This modifier is applied immediately when the wound is taken, which means that it may modify an Initiative score in the middle of an Action Turn. If a character is wounded before they go in that Action Phase, their Initiative is reduced accordingly, which may mean they now go after someone they were previously ahead of in the Initiative order.
+
+\begin{quotation}
+Before Bob’s Action Phase comes up, Bob takes two wounds, knocking his Initiative down from 134 to 114. This means that Adam, with an Initiative of 118, now goes before him.
+\end{quotation}
+
+\subsubsection{Initiative, Moxie and Criticals} A character may spend a point of Moxie to go first in an Action Phase, regardless of their Initiative roll (see Moxie, p. 122). If more than one character chooses this option, then order is determined as normal first among those who spent Moxie, followed by those who didn’t.
+
+Similarly, any character that rolls a critical on Initiative automatically goes first, even before someone who spent Moxie. If more that two characters rolled criticals, determine order between them as normal.
+
+\subsection{Simplifying initiative}
+\label{sec:simplifying-init}
+
+For speedier resolution, simply have characters roll Initiative once for an entire scene. That Initiative result stays with them on each Action Turn until the combat or scenario is over. Likewise, ignore Initiative modifiers from wounds.
+
+\subsection{Speed}
+\label{sec:speed}
+
+Speed determines how many times a character can act during an Action turn. Every character starts with a default Speed stat of 1, meaning they can act in the first Action Phase of the turn only. Certain morphs, implants, drugs, psi, and other factors may cumulatively increase their Speed to 2, 3, or even 4 (the maximum), allowing them to act in further Action Phases as well. For example, a character with Speed 2 can act in the first and second Action Phases, and a character with Speed 3 can act in the first through third Action Phases. A character with Speed 4 is able to act in every Action Phase. This represents the character’s enhanced reflexes and neurology, allowing them to think and act much faster than nonenhanced characters.
+
+If a character’s Speed does not allow them to act during an Action Phase, they can initiate no actions during the pass—they must simply bide their time. The character may still defend themself, however, and any automatic actions remain ``on.''  Note that any movement the character initiated is considered to still be underway even during the Action Phases they do not participate in (see \emph{Movement}, p. 190).
+
+
+\subsection{Delayed actions}
+\label{sec:delayed-actions}
+
+When it’s your turn to go during an Action Phase, you may decide that you’re not ready to act yet. You may be awaiting the outcome of another character’s actions, hoping to interrupt someone else’s action, or may simply be undecided about what to do yet. In this case, you may opt to delay your action.
+
+When you delay your action, you’re putting yourself on standby. At some later point in that Action Phase, you can announce that you are now taking your action—even if you interrupt another character’s action. In this case, all other activity is put on hold until your action is resolved. Once your action has taken place, the Initiative order continues on where you interrupted.
+
+You may delay your action into the next Action Phase, or even the next Action Turn, but if you do not take it by the time your next action comes around in the Initiative order, then you lose it. Additionally, if you do delay your action into another phase or turn, then once you take it you lose any action you might have in that Action Phase.
+
+
+\section{Actions}
+\label{sec:actions}
+
+When it’s your turn to act during an Action Phase, you have many options for what you can do—far too many to list here. There is a limit to what you can accomplish in 3 seconds, however, so some limitations must be adhered to. The first step is to figure out what type of action you want to take. In Eclipse Phase, actions are categorized as Automatic, Quick, Complex, or Task, based on how much time and effort they entail.
+
+
+\subsection{Automatic actions}
+\label{sec:automatic-actions}
+
+Automatic Actions require no effort. These are abilities or activities that are ``always on''  (assuming you are conscious) or are otherwise reflexive (they happen automatically in response to certain conditions, with no effort from you). Breathing, for example, is an automatic action—your body does it without conscious effort or thinking on your part.
+
+In most cases, Automatic Actions are not something that you initiate—they are always active, or at least on standby. Certain circumstances, however, will bring an Automatic Action to bear. Such Automatic Actions are invoked and handled immediately whenever they apply, without requiring effort from your character.
+
+\subsubsection{Resistance} Resisting damage—whether from combat, a poison, or a psi attack—is one example of an Automatic Action that occurs in response to something else.
+
+\subsubsection{Basic perception} Your senses are continuously active, accumulating data on the world around you. Basic perception is considered an Automatic Action, and so the gamemaster can call on you to make a Perception Test whenever you receive sensory input that your brain might want to take notice of (see Perception, p. 182). Likewise, you may ask the gamemaster at any time—even during other character’s actions—to make a basic Perception Test, just to find out what your character is noticing around them.
+
+Because basic perception is an automatic, subconscious activity, however, you will suffer a –20 modifier for distraction—your attention is focused elsewhere. In order to avoid the distraction modifier, you must actively engage in detailed perception or use an oracle implant (p. 308).
+
+
+\subsection{Quick actions}
+\label{sec:quick-actions}
+
+Quick Actions are fast and simple, and they may often be multi-tasked. They require minimal thought and effort. You may undertake multiple Quick Actions on your turn during each Action Phase, limited only by the gamemaster’s judgment. If you are taking nothing but Quick Actions during an Action Phase, you should be allowed a minimum of 3 separate Quick Actions. If you are also engaging in a Complex or Task Action during that same Action Phase, you should be allowed a minimum of 1 Quick Action. Ultimately, the gamemaster decides what activity you can or can’t fit into a single Action Phase.
+
+Some examples of Quick Actions include: talking, switching a safety, activating an implant, standing up, dropping prone, gesturing, drawing/readying a weapon, handling an object, or using a simple object.
+
+
+\subsubsection{Aiming} Aiming is a special case in that it is a Quick Action but requires a degree of concentration that rules out other minor actions. If you wish to aim before making an attack in the same Action Phase, aiming is the only Quick Action you may make during that Action Phase (see Aimed Shots, p. 193).
+
+\subsubsection{Detailed perception} Detailed perception involves taking a moment to actively use your senses in search of information and assess what you are perceiving (see Perception, p. 182). It requires slightly more effort and brainpower (or computer power) than basic perception, which is automatic. As a Quick Action, you may only engage in detailed perception on your turn during an Action Phase, but you do not suffer a modifier for distraction (unless you happen to be in a heavily distracting environment, such as a gunfight or agitated crowd).
+
+
+\subsection{Complex actions}
+\label{sec:complex-actions}
+
+Complex Actions require more concentration and effort than Quick Actions—they effectively monopolize your attention. You may only take one Complex Action on each your Action Phase turns. Additionally, you may not engage in a Complex Action and a Task Action during the same Action Phase.
+
+Examples of Complex Actions include: attacking, shooting, acrobatics, full defense, disarming a bomb, using a complex device, or reloading a weapon.
+
+
+\subsection{Task actions}
+\label{sec:task-actions}
+
+A Task Action is any activity that requires longer than one Action Turn to complete. Each Task Action lists a timeframe for how long the task takes to accomplish. This timeframe may range anywhere from 2 Action Turns to 2 years. While engaged in a Task Action, you may not also undertake a Complex Action, though in some cases you may take a break from the task and return to it later. For more information, see Task Actions, p. 120.
+
+Examples of Task Actions include: repairing a device, programming, conducting a scientific analysis, searching a room, climbing a wall, or cooking a meal.
+
+
+\section{Movement}
+\label{sec:movement}
+
+Movement in \emph{Eclipse Phase} is handled just like any other action, and may change from Action Phase to Action Phase. Walking and running both count as Quick Actions, as they do not require your full concentration. The same also applies to slithering, crawling, floating, hovering, or gliding. Running, however, may inflict a –10 modifier on other actions that are affected by your jostling movement. Even more, sprinting is an all-out run, and so requires a Complex Action (see Sprinting, p. 191).
+
+At the gamemasters discretion, other movement may also call for a Complex Action. Hurdling a fence, pole vaulting, jumping from a height, swimming, or freerunning through a habitat in zero-gravity all require a bit of finesse and attention to detail, so would count as a Complex Action, and would apply the same modifier as running. Flying generally counts as a Quick Action, though intricate maneuvers would call for a Complex Action.
+
+
+\subsection{Movement rates}
+\label{sec:movement-rates}
+
+Sometimes it’s important to know not just how you’re moving, but how far. For most of transhumanity, this movement rate is the same: 4 meters per Action Turn walking, 20 meters per turn running. To determine how far a character can move in a particular Action Phase, divide this movement rate by the total number of Action Phases in that turn. In a turn with 4 Action Phases, that breaks down to 1 meter walking per Action Phase, 5 meters running.
+
+Movement such as swimming or crawling benchmarks at about 1 meter per Action Turn, or 0.25 meters per Action Phase. You can also sprint to increase your movement rate (see Sprinting). Vehicles, robots, creatures, and unusual morphs will have individual movement rates listed in the format of walking rate/running rate in meters per turn.
+
+These movement rates assume standard Earth gravity of course. If you’re moving in a low-gravity, microgravity, or high-gravity environment, things change. See \emph{Gravity}, p. 198.
+
+
+\subsubsection{Jumping} Characters making a running jump can cross SOM ÷ 5 (round up) meters; use SOM ÷ 20 (round up) meters for standing jumps. Vertical jumping height is 1 meter. Characters making a Freerunning Test can increase jumping distance by 1 meter (running jump) or 0.25 meters (standing/vertical jumps) per 10 points of MoS.
+
+\subsubsection{Sprinting} You may use Freerunning to increase the distance you move during an Action Phase. You must spend a Complex Action to sprint and make a Freerunning Test. Every 10 points of MoS increases your running distance in that Action Phase by 1 meter, to a maximum bonus of +5 meters.
+
+
+\section{Combat}
+\label{sec:combat}
+
+Sometimes words fail, and that’s when the knives and shredders come out. All combat in Eclipse Phase is conducted using the same basic mechanics, whether it’s conducted with claws, fists, weapons, guns, or psi: an Opposed Test between the attacker and defender(s).
+
+\subsection{Resolving combat}
+
+Use the following sequence of steps to determine the outcome of an attack.
+
+\subsubsection{Step 1: Declare an attack} The attacker initiates by taking a Complex Action to attack on their turn during an Action Phase. The skill employed depends on the method used to attack. If the character lacks the appropriate Combat skill, they must default to the appropriate linked aptitude.
+
+\subsubsection{Step 2: Declare defense} Once the attack is declared, the defender chooses how to respond. Defense is always considered an Automatic Action unless the defender is surprised (see Surprise, p. 204) or somehow incapacitated and incapable of defending themself.
+
+\textbf{Melee:} A character defending against melee attacks uses Fray skill, representing dodging (if the character lacks this skill, they may default to Reflexes). Alternately, the character may use a melee combat skill to defend, representing blocks and parries rather than dodging.
+
+\textbf{Ranged:} Against ranged attacks, a defending character may only use half their Fray skill (round down).
+
+\textbf{Full Defense:} Characters who have taken a Complex Action to go on full defense (p. 198) receive a +30 modifier to their defensive roll.
+
+\textbf{Psi:} A character defending against a psi attack rolls WIL x 2 (p. 222). A mental sort of full defense may also be rallied against psi attacks.
+
+\subsubsection{Step 3: Apply modifiers} Any appropriate modifiers are now applied to the attacker and defender’s skills. See the Combat Modifiers table (p. 193) for common situational modifiers.
+
+\subsubsection{Step 4: Make the opposed text} The attacker and defender both roll d100 and compare the results to their modified skill target numbers.
+
+\subsubsection{Step 5: Determine outcome} If the attacker succeeds and the defender fails, the attack hits. If the attacker fails, the attack misses completely.
+
+If both attacker and defender succeed in their tests, compare their dice rolls. If the attacker’s dice roll is higher, the attack hits despite a spirited defense; otherwise, the attack fails to connect.
+
+\textbf{Excellent Success:} If the attacker rolled an Excellent Success (MoS of 30+), a solid hit is struck. Increase the Damage Value (DV) inflicted by +5. If the MoS is 60+, increase the DV by +10.
+
+\textbf{Criticals:} If the attacker rolls a critical success, the attack is armor-defeating, meaning that the defender’s armor is bypassed completely — some kink or flaw was exploited, allowing the attack to get through completely.
+
+If the defender rolls a critical success, they dodge with flair, reach cover that protects from follow-up attacks, maneuver to a superior position, or otherwise benefit.
+
+\subsubsection{Step 6: Modify armor} If the target is hit, their armor will help to protect them against the attack (unless the attacker rolled a critical, see above). Determine which type of armor is appropriate to defending against that particular attack (see Armor, p. 194). The attack’s Armor Penetration (AP) value reduces the armor’s rating, however, representing the weapon’s ability to pierce through protective measures.
+
+\subsubsection{Step 7: Determine damage} Every weapon and type of attack has a Damage Value (DV, see p. 207). This amount is reduced by the target’s AP-modified armor rating. If the damage is reduced to 0 or less, the armor is effective and the attack fails to injure the target. Otherwise, any remaining damage is applied to the defender. If the accumulated damage exceeds the defender’s Durability, they are incapacitated and may die (see Durability and Health, p. 207).
+
+Note that some psi attacks inflict mental stress rather than physical damage (see Mental Health, p. 209). In this case, the Stress Value (SV) is handled the same as DV.
+
+\subsubsection{Step 8: Determine wounds} The damage inflicted from a single attack is then compared to the victim’s Wound Threshold. If the armormodified DV equals or exceeds the Wound Threshold, the character suffers a wound. Multiple wounds may be applied with a single attack if the modified DV is two or more factors beyond the Wound Threshold. Wounds represent more serious injuries and apply modifiers and other effects to the character (see Wounds, p. 207).
+
+\begin{quotation}
+Stoya tried to get off the station quickly, but the Night Cartel’s assassin caught up, surprising her in a microgravity part of the habitat. The assassin’s INIT is 63, plus a dice roll of 23, for an Initiative of 86. Stoya’s INIT is 55, plus a roll of 27, for an Initiative of 82.
+
+The assassin goes first, spending a Quick Action to draw a shredder. This flechette weapon is in burst-fire mode, so with a Complex Action the assassin can take two shots. His Spray Weapons skill is 65, he’s smartlinked (+10), and they’re at short range (+0), so he needs a 75 or less. Stoya is defending with her Fray skill (60) divided by 2, or 30.
+
+The assassin rolls an 08 with the first shot. Amazingly, Stoya rolls a 28. They both succeeded, but Stoya rolled higher, so she dodges the first shot.
+
+The assassin rolls a 20 for his second shot, another hit, and this time Stoya rolls an 83, a failure. The assassin also scored an Excellent Success with a MoS of 55, increasing the DV by +5.
+
+The assassin’s base damage is 2d10 + 5, but he’s using burst fire against a single target for +1d10, and it’s also a cone effect weapon at short range, for an additional +1d10, for a total DV of 4d10 + 5. The assassin rolls 4d10 and gets 16, then adds the +5 for a total DV of 21.
+
+Stoya’s wearing light body armor (AV 10/10), but the shredder’s Armor penetration is –10, so her armor is entirely negated. She takes a devastating 21 DV, exceeding her Wound Threshold of 10, not just once, but twice. This means Stoya suffers 2 wounds from the shot, suffering –20 to all actions. In addition, she must make two SOM x 3 Tests, one to avoid knockdown and the other to avoid unconsciousness. Her SOM is 30, meaning she needs a 70 (30 x 3 = 90, 90 – 20 wound modifiers = 70) on both rolls. She rolls a 40 and a 27, succeeding both.
+
+Now it’s Stoya’s action. She takes a Quick Action to pull her own weapon: a stunner. Her Beam Weapons skill is 47, modified by wounds (–20) and a smartlink (+10), for 37. The assassin’s Fray is 48, divided by 2 for 24 against a ranged attack. Stoya rolls a 22—a critical hit—and the assassin rolls a 68. The stunner only inflicts 1d10 ÷ 2 DV, but since the attack is a critical hit, this is armor defeating. Stoya rolls an 8, for 4 points of DV, below the assassin’s Wound Threshold of 7.
+
+Stunners, however, are shock weapons, so the assassin must make a DUR + Energy Armor Test. His DUR is 35 and he’s wearing an armor vest (AV 6/6), so his target number is 41. He rolls a 71—a Margin of Failure of 30, meaning he is immediately incapacitated for 3 Action Turns.
+
+Having disabled her opponent, Stoya takes the time to make a hasty getaway.
+\end{quotation}
+
+
+\subsection{Combat summary}
+
+\begin{itemize}
+\item Combat is handled as an Opposed Test.
+\item Attacker rolls attack skill +/– modifiers.
+\item Melee: Defender rolls Fray or melee skill +/– modifiers.
+\item Ranged: Defender rolls (Fray skill ÷ 2, round down) +/– modifiers.
+\item If attacker succeeds and rolls higher than the defender, the attack hits.
+\item Critical hits are armor-defeating (armor does not apply).
+\item Armor is reduced by the attack’s Armor Penetration value (AP).
+\item The weapon’s damage is reduced by the target’s modified Armor rating (unless the attack is armor-defeating).
+\item If the damage exceeds the target’s Wound Threshold, a wound is also scored. (If the damage exceeds the Wound Threshold by multiple factors, multiple wounds are inflicted.)
+\end{itemize}
+
+
+\section{Action and combat complications}
+\label{sec:action-combat-comp}
+
+\subsection{Aimed shots}
+
+\subsection{Ammunition and reloading}
+
+\subsection{Area affect weapons}
+
+\subsection{Armor}
+
+\subsection{Asphyxiation}
+
+\subsection{Beam weapons}
+
+\subsection{Blind attacks}
+
+\subsection{Bots, synthmorphs and vehicles}
+
+\subsection{Called shots}
+
+\subsection{Charging}
+
+\subsection{Demolitions}
+
+\subsection{Falling}
+
+\subsection{Fire}
+
+\subsection{Firing modes and rate of fire}
+
+\subsection{Full defense}
+
+\subsection{Gravity}
+
+\subsection{Grenades and seekers}
+
+\subsection{Hostile environments}
+
+\subsection{Improvised weapons}
+
+\subsection{Knockdown/knockback}
+
+\subsection{Melee and thrown damage bonus}
+
+\subsection{Multiple targets}
+
+\subsection{Objects and structures}
+
+\subsection{Range}
+
+\subsection{Reach}
+
+\subsection{Scatter}
+
+\subsection{Shock attacks}
+
+\subsection{Subdual}
+
+\subsection{Suppressive fire}
+
+\subsection{Surprise}
+
+\subsection{Tactical networks}
+
+\subsection{Touch-only attack}
+
+\subsection{Two-handed weapons}
+
+\subsection{Weilding two or more weapons}
+
+\section{Physical health}
+\label{sec:physical-health}
+
+\subsection{Damage points}
+
+\subsection{Damage types}
+
+\subsection{Durability and health}
+
+\subsection{Damage value}
+
+\subsection{Wounds}
+
+\subsection{Death}
+
+\section{Healing and repair}
+\label{sec:healing-repair}
+
+\subsection{Biomorph healing}
+
+\subsection{Synthmorph and Object repair}
+
+\section{Mental health}
+\label{sec:mental-health}
+
+\subsection{Stress points}
+
+\subsection{Lucidity and stress}
+
+\subsection{Stress value}
+
+\subsection{Trauma}
+
+\subsection{Derangements}
+
+\subsection{Disorders}
+
+\subsection{Stressful situations}
+
+\subsection{Willpower stress tests}
+
+\subsection{Hardening}
+
+\subsection{Mental healing and psychotherapy}
+
+%%% Local Variables: %%% mode: latex %%% TeX-master: ``ep'' %%% End: 
